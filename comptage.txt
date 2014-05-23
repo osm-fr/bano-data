@@ -34,7 +34,7 @@ bano-32.csv:27420
 bano-33.csv:218027
 bano-34.csv:44619
 bano-35.csv:182583
-bano-36.csv:47357
+bano-36.csv:64311
 bano-37.csv:119091
 bano-38.csv:180121
 bano-39.csv:45228
