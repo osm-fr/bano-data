@@ -45,7 +45,7 @@ bano-43.csv:23052
 bano-44.csv:338352
 bano-45.csv:75126
 bano-46.csv:7383
-bano-47.csv:41430
+bano-47.csv:64342
 bano-48.csv:10420
 bano-49.csv:181113
 bano-50.csv:123175
