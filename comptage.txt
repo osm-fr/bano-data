@@ -73,7 +73,7 @@ bano-71.csv:120228
 bano-72.csv:146482
 bano-73.csv:42502
 bano-74.csv:153141
-bano-75.csv:76544
+bano-75.csv:77248
 bano-76.csv:193778
 bano-77.csv:234030
 bano-78.csv:158122
