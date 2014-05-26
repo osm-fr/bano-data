@@ -1,7 +1,7 @@
 bano-01.csv:104898
 bano-02.csv:153182
-bano-03.csv:72032
-bano-04.csv:20675
+bano-03.csv:72573
+bano-04.csv:20793
 bano-05.csv:10023
 bano-06.csv:129168
 bano-07.csv:39343
