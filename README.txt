@@ -19,9 +19,9 @@ Vous êtes libres :
 - De partager : copier, distribuer et utiliser la base de données.
 - De créer : produire des créations à partir de cette base de données.
 - D'adapter : modifier, transformer et construire à partir de cette base de données.
-Aussi longtemps que :
-- Vous mentionnez la paternité : vous devez mentionner la source de la base de données pour toute utilisation publique de la base de données, ou pour toute création produite à partir de la base de données, de la manière indiquée dans l'ODbL. Pour toute utilisation ou redistribution de la base de données, ou création produite à partir de cette base de données, vous devez clairement mentionner aux tiers la licence de la base de données et garder intacte toute mention légale sur la base de données originaire.
-- Vous partagez aux conditions identiques : si vous utilisez publiquement une version adaptée de cette base de données, ou que vous produisiez une création à partir d'une base de données adaptée, vous devez aussi offrir cette base de données adaptée selon les termes de la licence ODbL.
+Aussi longtemps que vous :
+- Mentionnez la paternité : vous devez mentionner la source de la base de données pour toute utilisation publique de la base de données, ou pour toute création produite à partir de la base de données, de la manière indiquée dans l'ODbL. Pour toute utilisation ou redistribution de la base de données, ou création produite à partir de cette base de données, vous devez clairement mentionner aux tiers la licence de la base de données et garder intacte toute mention légale sur la base de données originaire.
+- Partagez aux conditions identiques : si vous utilisez publiquement une version adaptée de cette base de données, ou que vous produisiez une création à partir d'une base de données adaptée, vous devez aussi offrir cette base de données adaptée selon les termes de la licence ODbL.
 - Gardez ouvert : si vous redistribuez la base de données, ou une version modifiée de celle-ci, alors vous ne pouvez utiliser de mesure technique restreignant la création que si vous distribuez aussi une version sans ces restrictions.
 
 Avertissement
@@ -35,7 +35,7 @@ Version complète en français disponible sur: http://www.vvlibri.org/fr/licence
 
 BANO est une base de données composite, constituée à partir de différentes sources:
 - OpenStreetMap
-- données disponibles en opendata
+- données ouvertes (disponibles en "open data")
 - données adresses collectées sur le site du cadastre
 
 
@@ -52,14 +52,14 @@ Pour chaque adresse:
 - voie : nom de voie
 - code_post : code postal sur 5 caractères
 - nom_comm : nom de la commune
-- source : OSM = donnée directement issue d'OpenStreetMap, OD = données provenant de source opendata locales, CAD = données directement issue du cadastre, C+O = donnée du cadastre en richie par OSM (nom de voie par exemple)
+- source : OSM = donnée directement issue d'OpenStreetMap, OD = donnée provenant de source open data locales, CAD = donnée directement issue du cadastre, C+O = donnée du cadastre enrichie par OSM (nom de voie par exemple)
 - lat : latitude en degrés décimaux WGS84
 - lon : longitude en degrés décimaux WGS84
 
 
 **Mise à jour, corrections**
 
-Pour mettre à jour et corriger les données de BANO, il suffit de faire des améliorations directement dans OpenStreetMap, elles seront prises en compte au prochain de cycle de mise à jour.
+Pour mettre à jour et corriger les données de BANO, il suffit de faire des améliorations directement dans OpenStreetMap, elles seront prises en compte au prochain cycle de mise à jour.
 
 
 Pour toute question concernant ces exports, vous pouvez contacter bano@openstreetmap.fr
