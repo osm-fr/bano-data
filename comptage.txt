@@ -5,7 +5,7 @@ bano-04.csv:20793
 bano-05.csv:10155
 bano-06.csv:131010
 bano-07.csv:41302
-bano-08.csv:35897
+bano-08.csv:36075
 bano-09.csv:10149
 bano-10.csv:50095
 bano-11.csv:98803
