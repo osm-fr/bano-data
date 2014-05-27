@@ -25,7 +25,7 @@ bano-25.csv:110023
 bano-26.csv:81390
 bano-27.csv:90691
 bano-28.csv:101090
-bano-29.csv:222439
+bano-29.csv:226118
 bano-2A.csv:1799
 bano-2B.csv:4515
 bano-30.csv:136277
