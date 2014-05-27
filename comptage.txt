@@ -17,7 +17,7 @@ bano-16.csv:86061
 bano-17.csv:243243
 bano-18.csv:92376
 bano-19.csv:30490
-bano-21.csv:129907
+bano-21.csv:132964
 bano-22.csv:148373
 bano-23.csv:20507
 bano-24.csv:37122
