@@ -40,7 +40,7 @@ bano-38.csv:207571
 bano-39.csv:89940
 bano-40.csv:157236
 bano-41.csv:132786
-bano-42.csv:130236
+bano-42.csv:130535
 bano-43.csv:26567
 bano-44.csv:393173
 bano-45.csv:190930
