@@ -1,4 +1,4 @@
-14748531
+14748633
 bano-01.csv:121769
 bano-02.csv:184154
 bano-03.csv:92104
@@ -69,7 +69,7 @@ bano-66.csv:154220
 bano-67.csv:264728
 bano-68.csv:206861
 bano-69.csv:242790
-bano-70.csv:60842
+bano-70.csv:60944
 bano-71.csv:136403
 bano-72.csv:170596
 bano-73.csv:52635
