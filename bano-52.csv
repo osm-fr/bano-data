@@ -265,7 +265,7 @@
 520210170Z-2,2,Chemin du Moulin,52130,Attancourt,C+O,48.528684,4.926759
 520210170Z-5,5,Chemin du Moulin,52130,Attancourt,C+O,48.528511,4.926295
 520210180K-5,5,Rue Petite Ruelle,52130,Attancourt,CAD,48.525629,4.930086
-520280030S-1,1,Rue des Fontaines,52160,Aulnoy-sur-Aube,OSM,47.833833,5.033302
+520280030S-1,1,Rue des Fontaines,52160,Aulnoy-sur-Aube,OSM,47.833816,5.033337
 520340015Z-10,10,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460133,4.917350
 520340015Z-11,11,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460643,4.920039
 520340015Z-1,1,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.459377,4.915781
@@ -2039,18 +2039,18 @@
 520600440Y-6,6,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.954955,5.748875
 520600440Y-7,7,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.955037,5.748917
 520600440Y-8,8,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.954958,5.748928
-520600441Z-10,10,,52400,Bourbonne-les-Bains,CAD,47.951200,5.749451
-520600441Z-12,12,,52400,Bourbonne-les-Bains,CAD,47.951158,5.749525
-520600441Z-14,14,,52400,Bourbonne-les-Bains,CAD,47.951125,5.749755
-520600441Z-16,16,,52400,Bourbonne-les-Bains,CAD,47.951021,5.751221
-520600441Z-18,18,,52400,Bourbonne-les-Bains,CAD,47.951055,5.751274
-520600441Z-20,20,,52400,Bourbonne-les-Bains,CAD,47.951068,5.751459
-520600441Z-22,22,,52400,Bourbonne-les-Bains,CAD,47.951062,5.751590
-520600441Z-2,2,,52400,Bourbonne-les-Bains,CAD,47.951429,5.749272
-520600441Z-24,24,,52400,Bourbonne-les-Bains,CAD,47.951072,5.751660
-520600441Z-26,26,,52400,Bourbonne-les-Bains,CAD,47.951085,5.751751
-520600441Z-4,4,,52400,Bourbonne-les-Bains,CAD,47.951351,5.749323
-520600441Z-8,8,,52400,Bourbonne-les-Bains,CAD,47.951243,5.749393
+520600441Z-10,10,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951200,5.749451
+520600441Z-12,12,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951158,5.749525
+520600441Z-14,14,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951125,5.749755
+520600441Z-16,16,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951021,5.751221
+520600441Z-18,18,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951055,5.751274
+520600441Z-20,20,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951068,5.751459
+520600441Z-22,22,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951062,5.751590
+520600441Z-2,2,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951429,5.749272
+520600441Z-24,24,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951072,5.751660
+520600441Z-26,26,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951085,5.751751
+520600441Z-4,4,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951351,5.749323
+520600441Z-8,8,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951243,5.749393
 520600450J-11,11,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953019,5.747793
 520600450J-1,1,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953524,5.747981
 520600450J-13,13,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.952957,5.747739
@@ -5508,7 +5508,6 @@
 521140165P-7B,7BIS,Rue de Richebourg,52120,Châteauvillain,CAD,48.038721,4.919990
 521140165P-8,8,Rue de Richebourg,52120,Châteauvillain,CAD,48.038314,4.919319
 521140165P-8B,8BIS,Rue de Richebourg,52120,Châteauvillain,CAD,48.038431,4.919341
-521140167S-1,1,Chemin Rural Dit des Petis Prés,52120,Châteauvillain,CAD,48.067872,4.882801
 521140170V-10,10,Rue Saint-François,52120,Châteauvillain,CAD,48.038164,4.916984
 521140170V-1,1,Rue Saint-François,52120,Châteauvillain,CAD,48.038152,4.917734
 521140170V-1B,1BIS,Rue Saint-François,52120,Châteauvillain,CAD,48.038154,4.917691
@@ -8718,7 +8717,7 @@
 521211040K-5B,5BIS,Ruelle Gaillon,52000,Chaumont,C+O,48.117263,5.139563
 521211040K-7,7,Ruelle Gaillon,52000,Chaumont,C+O,48.117362,5.139675
 521211050W-10,10,Boulevard Gambetta,52000,Chaumont,C+O,48.112114,5.143858
-521211050W-10B,10BIS,Boulevard Gambetta,52000,Chaumont,OSM,48.112428,5.144643
+521211050W-10B,10BIS,Boulevard Gambetta,52000,Chaumont,OSM,48.112429,5.144643
 521211050W-11,11,Boulevard Gambetta,52000,Chaumont,C+O,48.113118,5.144088
 521211050W-11B,11BIS,Boulevard Gambetta,52000,Chaumont,C+O,48.113218,5.144088
 521211050W-12,12,Boulevard Gambetta,52000,Chaumont,C+O,48.113317,5.144107
@@ -9711,33 +9710,33 @@
 521211330A-7,7,Rue Laloy,52000,Chaumont,C+O,48.110671,5.139042
 521211330A-8,8,Rue Laloy,52000,Chaumont,C+O,48.110934,5.139065
 521211330A-9,9,Rue Laloy,52000,Chaumont,C+O,48.110780,5.139128
-521211340L-11,11,Rue Lamartine,52000,Chaumont,C+O,48.110380,5.145005
-521211340L-1,1,Rue Lamartine,52000,Chaumont,C+O,48.110111,5.143650
-521211340L-13,13,Rue Lamartine,52000,Chaumont,C+O,48.110409,5.145274
-521211340L-15,15,Rue Lamartine,52000,Chaumont,C+O,48.110432,5.145499
-521211340L-17,17,Rue Lamartine,52000,Chaumont,C+O,48.110431,5.145879
-521211340L-19,19,Rue Lamartine,52000,Chaumont,C+O,48.110425,5.146086
-521211340L-21,21,Rue Lamartine,52000,Chaumont,C+O,48.110539,5.146360
-521211340L-23,23,Rue Lamartine,52000,Chaumont,C+O,48.110411,5.146506
-521211340L-25,25,Rue Lamartine,52000,Chaumont,C+O,48.110406,5.146642
-521211340L-27,27,Rue Lamartine,52000,Chaumont,C+O,48.110407,5.146912
-521211340L-29,29,Rue Lamartine,52000,Chaumont,C+O,48.110404,5.147051
-521211340L-31,31,Rue Lamartine,52000,Chaumont,C+O,48.110382,5.147283
-521211340L-33,33,Rue Lamartine,52000,Chaumont,C+O,48.110375,5.147647
-521211340L-3,3,Rue Lamartine,52000,Chaumont,C+O,48.110131,5.143763
-521211340L-35B,35BIS,Rue Lamartine,52000,Chaumont,C+O,48.110452,5.147995
-521211340L-37,37,Rue Lamartine,52000,Chaumont,C+O,48.110315,5.148226
-521211340L-39,39,Rue Lamartine,52000,Chaumont,C+O,48.110342,5.148490
-521211340L-41,41,Rue Lamartine,52000,Chaumont,C+O,48.110286,5.148731
-521211340L-45,45,Rue Lamartine,52000,Chaumont,C+O,48.109973,5.149802
-521211340L-47,47,Rue Lamartine,52000,Chaumont,C+O,48.109854,5.150198
-521211340L-49,49,Rue Lamartine,52000,Chaumont,C+O,48.109785,5.150463
-521211340L-51,51,Rue Lamartine,52000,Chaumont,C+O,48.109711,5.150731
-521211340L-53,53,Rue Lamartine,52000,Chaumont,C+O,48.109623,5.151086
-521211340L-55,55,Rue Lamartine,52000,Chaumont,C+O,48.109527,5.151376
-521211340L-57,57,Rue Lamartine,52000,Chaumont,C+O,48.109451,5.151577
-521211340L-7,7,Rue Lamartine,52000,Chaumont,C+O,48.110240,5.144315
-521211340L-9,9,Rue Lamartine,52000,Chaumont,C+O,48.110330,5.144729
+521211340L-11,11,Rue de Lamartine,52000,Chaumont,C+O,48.110380,5.145005
+521211340L-1,1,Rue de Lamartine,52000,Chaumont,C+O,48.110111,5.143650
+521211340L-13,13,Rue de Lamartine,52000,Chaumont,C+O,48.110409,5.145274
+521211340L-15,15,Rue de Lamartine,52000,Chaumont,C+O,48.110432,5.145499
+521211340L-17,17,Rue de Lamartine,52000,Chaumont,C+O,48.110431,5.145879
+521211340L-19,19,Rue de Lamartine,52000,Chaumont,C+O,48.110425,5.146086
+521211340L-21,21,Rue de Lamartine,52000,Chaumont,C+O,48.110539,5.146360
+521211340L-23,23,Rue de Lamartine,52000,Chaumont,C+O,48.110411,5.146506
+521211340L-25,25,Rue de Lamartine,52000,Chaumont,C+O,48.110406,5.146642
+521211340L-27,27,Rue de Lamartine,52000,Chaumont,C+O,48.110407,5.146912
+521211340L-29,29,Rue de Lamartine,52000,Chaumont,C+O,48.110404,5.147051
+521211340L-31,31,Rue de Lamartine,52000,Chaumont,C+O,48.110382,5.147283
+521211340L-33,33,Rue de Lamartine,52000,Chaumont,C+O,48.110375,5.147647
+521211340L-3,3,Rue de Lamartine,52000,Chaumont,C+O,48.110131,5.143763
+521211340L-35B,35BIS,Rue de Lamartine,52000,Chaumont,C+O,48.110452,5.147995
+521211340L-37,37,Rue de Lamartine,52000,Chaumont,C+O,48.110315,5.148226
+521211340L-39,39,Rue de Lamartine,52000,Chaumont,C+O,48.110342,5.148490
+521211340L-41,41,Rue de Lamartine,52000,Chaumont,C+O,48.110286,5.148731
+521211340L-45,45,Rue de Lamartine,52000,Chaumont,C+O,48.109973,5.149802
+521211340L-47,47,Rue de Lamartine,52000,Chaumont,C+O,48.109854,5.150198
+521211340L-49,49,Rue de Lamartine,52000,Chaumont,C+O,48.109785,5.150463
+521211340L-51,51,Rue de Lamartine,52000,Chaumont,C+O,48.109711,5.150731
+521211340L-53,53,Rue de Lamartine,52000,Chaumont,C+O,48.109623,5.151086
+521211340L-55,55,Rue de Lamartine,52000,Chaumont,C+O,48.109527,5.151376
+521211340L-57,57,Rue de Lamartine,52000,Chaumont,C+O,48.109451,5.151577
+521211340L-7,7,Rue de Lamartine,52000,Chaumont,C+O,48.110240,5.144315
+521211340L-9,9,Rue de Lamartine,52000,Chaumont,C+O,48.110330,5.144729
 521211350X-1,1,Ruelle Lardière,52000,Chaumont,C+O,48.111575,5.140231
 521211350X-3,3,Ruelle Lardière,52000,Chaumont,C+O,48.111558,5.140289
 521211350X-5,5,Ruelle Lardière,52000,Chaumont,C+O,48.111549,5.140543
@@ -10595,11 +10594,6 @@
 521211660J-9,9,Rue Parmentier,52000,Chaumont,C+O,48.108917,5.151638
 521211667S-1,1,Rue des Passereaux,52000,Chaumont,CAD,48.120644,5.144764
 521211667S-4,4,Rue des Passereaux,52000,Chaumont,CAD,48.120742,5.144450
-521211668T-10,10,Passage du Clos Goguenheim,52000,Chaumont,CAD,48.123972,5.139319
-521211668T-2,2,Passage du Clos Goguenheim,52000,Chaumont,CAD,48.123918,5.140485
-521211668T-4,4,Passage du Clos Goguenheim,52000,Chaumont,CAD,48.123925,5.140295
-521211668T-6,6,Passage du Clos Goguenheim,52000,Chaumont,CAD,48.123944,5.140070
-521211668T-8,8,Passage du Clos Goguenheim,52000,Chaumont,CAD,48.123983,5.139691
 521211670V-10,10,Rue Pasteur,52000,Chaumont,C+O,48.111438,5.139183
 521211670V-11,11,Rue Pasteur,52000,Chaumont,C+O,48.111317,5.138807
 521211670V-1,1,Rue Pasteur,52000,Chaumont,C+O,48.111387,5.139332
@@ -12584,7 +12578,7 @@
 521212140F-23,23,Rue de la Victoire de la Marne,52000,Chaumont,C+O,48.111995,5.140246
 521212140F-23B,23BIS,Rue de la Victoire de la Marne,52000,Chaumont,C+O,48.112034,5.140273
 521212140F-24,24,Rue de la Victoire de la Marne,52000,Chaumont,C+O,48.111591,5.140645
-521212140F-27,27,Rue de la Victoire de la Marne,52000,Chaumont,OSM,48.112202,5.140443
+521212140F-27,27,Rue de la Victoire de la Marne,52000,Chaumont,OSM,48.112201,5.140443
 521212140F-29,29,Rue de la Victoire de la Marne,52000,Chaumont,C+O,48.112133,5.140389
 521212140F-31,31,Rue de la Victoire de la Marne,52000,Chaumont,C+O,48.112204,5.140470
 521212140F-32,32,Rue de la Victoire de la Marne,52000,Chaumont,C+O,48.111792,5.140204
@@ -14674,10 +14668,10 @@
 521820017H-3,3,Rue Beraudi,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.531130,4.817227
 521820017H-5,5,Rue Beraudi,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.530794,4.817154
 521820017H-9,9,Rue Beraudi,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.530607,4.817852
-521820018J-2,2,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537631,4.809904
-521820018J-4,4,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537547,4.810068
-521820018J-6,6,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537377,4.810413
-521820018J-8,8,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537250,4.810723
+521820018J-2,2,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537638,4.809887
+521820018J-4,4,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537539,4.810083
+521820018J-6,6,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537369,4.810377
+521820018J-8,8,Rue du Bonheur,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537230,4.810731
 521820020L-10,10,Ruelle des Bourrots,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.592160,4.866860
 521820020L-11,11,Ruelle des Bourrots,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.592649,4.868009
 521820020L-1,1,Ruelle des Bourrots,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.592160,4.866787
@@ -14779,37 +14773,37 @@
 521820047R-3,3,Impasse du Coin Joli,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.601391,4.820202
 521820047R-4,4,Impasse du Coin Joli,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.601979,4.820316
 521820047R-6,6,Impasse du Coin Joli,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.602372,4.820542
-521820048S-10,10,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.532721,4.815722
-521820048S-11,11,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533039,4.815322
-521820048S-1,1,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.534171,4.815600
-521820048S-12,12,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533427,4.815302
-521820048S-14,14,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533572,4.815134
-521820048S-15,15,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533883,4.815483
-521820048S-2,2,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.534239,4.815385
-521820048S-4,4,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533874,4.814813
-521820048S-5,5,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533578,4.814737
-521820048S-6,6,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533378,4.814883
-521820048S-7,7,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533155,4.814943
-521820048S-8,8,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.532923,4.814976
-521820048S-9,9,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.532759,4.815131
+521820048S-10,10,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.532719,4.815746
+521820048S-11,11,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533042,4.815345
+521820048S-1,1,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.534167,4.815626
+521820048S-12,12,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533411,4.815277
+521820048S-14,14,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533587,4.815134
+521820048S-15,15,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533892,4.815508
+521820048S-2,2,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.534266,4.815371
+521820048S-4,4,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533874,4.814811
+521820048S-5,5,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533573,4.814709
+521820048S-6,6,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533389,4.814886
+521820048S-7,7,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.533164,4.814959
+521820048S-8,8,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.532935,4.814966
+521820048S-9,9,Rue Côtes des Vergers,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.532737,4.815116
 521820049T-1,1,Chemin de la Croix Blanche,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.603076,4.824772
 521820049T-3,3,Chemin de la Croix Blanche,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.602918,4.824343
 521820050U-1,1,Ruelle des Damas,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.592301,4.867584
 521820050U-2,2,Ruelle des Damas,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.592284,4.867503
 521820060E-11,11,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.587479,4.863670
-521820060E-1,1,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588581,4.863771
-521820060E-13,13,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587423,4.864326
+521820060E-1,1,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588527,4.863794
+521820060E-13,13,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587407,4.864302
 521820060E-15,15,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.587292,4.863687
 521820060E-17,17,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.587168,4.863687
-521820060E-19,19,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587073,4.863795
+521820060E-19,19,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587063,4.863760
 521820060E-21,21,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.586958,4.863687
 521820060E-2,2,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589025,4.863270
-521820060E-23,23,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586893,4.863781
-521820060E-25,25,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587560,4.864683
+521820060E-23,23,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586881,4.863770
+521820060E-25,25,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587554,4.864653
 521820060E-27B,27BIS,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.586578,4.863694
-521820060E-29,29,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586385,4.863802
-521820060E-31,31,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586144,4.863891
-521820060E-33,33,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586003,4.863799
+521820060E-29,29,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586387,4.863829
+521820060E-31,31,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586127,4.863897
+521820060E-33,33,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586002,4.863796
 521820060E-3,3,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588259,4.863636
 521820060E-4,4,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588868,4.863103
 521820060E-5,5,Route du Der,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588066,4.863645
@@ -14840,7 +14834,7 @@
 521820095T-8,8,Rue des Essarties,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.597155,4.866843
 521820100Y-1,1,Rue de la Fontaine,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590289,4.863854
 521820100Y-1B,1BIS,Rue de la Fontaine,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590146,4.863613
-521820100Y-2,2,Rue de la Fontaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589893,4.864056
+521820100Y-2,2,Rue de la Fontaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589872,4.864058
 521820100Y-3,3,Rue de la Fontaine,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590056,4.863526
 521820100Y-5,5,Rue de la Fontaine,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589783,4.863180
 521820103B-12,12,Rue des Fontenelles,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.533041,4.820899
@@ -14882,17 +14876,17 @@
 521820120V-27,27,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589258,4.870509
 521820120V-28,28,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.587593,4.874786
 521820120V-29,29,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589110,4.870784
-521820120V-30,30,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587157,4.876131
+521820120V-30,30,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587153,4.876150
 521820120V-31,31,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589005,4.871049
-521820120V-32,32,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586912,4.876029
+521820120V-32,32,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586871,4.876032
 521820120V-33,33,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588877,4.871372
 521820120V-3,3,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589868,4.869481
 521820120V-35,35,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588742,4.871710
-521820120V-36,36,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586572,4.875848
+521820120V-36,36,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586557,4.875878
 521820120V-37,37,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588657,4.871907
-521820120V-38,38,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586166,4.875747
+521820120V-38,38,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586177,4.875753
 521820120V-39,39,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588580,4.872076
-521820120V-40,40,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585900,4.875617
+521820120V-40,40,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585888,4.875642
 521820120V-41,41,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588530,4.872203
 521820120V-42,42,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.586895,4.876981
 521820120V-43,43,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588476,4.872339
@@ -14933,32 +14927,32 @@
 521820120V-9,9,Rue de la Gare,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589540,4.869413
 521820125A-1,1,Rue du Grand Four,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.600931,4.820754
 521820125A-2,2,Rue du Grand Four,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.600973,4.820593
-521820130F-10,10,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589986,4.867083
+521820130F-10,10,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589922,4.866998
 521820130F-11,11,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589728,4.866687
 521820130F-1,1,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589963,4.866070
-521820130F-12,12,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589780,4.867243
+521820130F-12,12,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589760,4.867206
 521820130F-13,13,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589701,4.866756
-521820130F-14,14,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589768,4.867489
+521820130F-14,14,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589738,4.867448
 521820130F-14B,14BIS,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589790,4.867544
-521820130F-15,15,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589624,4.867583
+521820130F-15,15,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589607,4.867583
 521820130F-16,16,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589551,4.867560
-521820130F-17,17,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589594,4.867711
+521820130F-17,17,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589573,4.867683
 521820130F-17B,17BIS,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589574,4.867082
 521820130F-18,18,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589519,4.867630
-521820130F-19,19,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589387,4.866863
-521820130F-20,20,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589541,4.867909
-521820130F-21,21,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589453,4.867322
-521820130F-2,2,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590116,4.866274
+521820130F-19,19,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589395,4.866957
+521820130F-20,20,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589514,4.867886
+521820130F-21,21,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589460,4.867299
+521820130F-2,2,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590126,4.866280
 521820130F-23,23,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589384,4.867605
-521820130F-25,25,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589217,4.867747
+521820130F-25,25,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589227,4.867744
 521820130F-27,27,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589226,4.867894
 521820130F-3,3,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589917,4.866193
-521820130F-4,4,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590052,4.866538
-521820130F-5,5,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589730,4.866244
-521820130F-6,6,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589995,4.866599
-521820130F-7,7,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589783,4.866383
-521820130F-8,8,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589960,4.866754
-521820130F-9,9,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589715,4.866427
+521820130F-4,4,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590038,4.866522
+521820130F-5,5,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589764,4.866241
+521820130F-6,6,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589986,4.866598
+521820130F-7,7,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589775,4.866363
+521820130F-8,8,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589954,4.866735
+521820130F-9,9,Rue de Guise,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589697,4.866463
 521820140S-1B,1BIS,Rue de la Halle,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590002,4.865073
 521820140S-2,2,Rue de la Halle,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590133,4.864997
 521820140S-3,3,Rue de la Halle,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590020,4.864795
@@ -15066,31 +15060,31 @@
 521820185R-4,4,Rue du Lac,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.534215,4.816797
 521820185R-6,6,Rue du Lac,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.534516,4.816210
 521820185R-8,8,Rue du Lac,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.534687,4.815911
-521820190W-11,11,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589158,4.866368
-521820190W-1,1,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589316,4.865768
-521820190W-13,13,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589138,4.866220
-521820190W-15,15,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588932,4.866471
+521820190W-11,11,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589176,4.866346
+521820190W-1,1,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589318,4.865763
+521820190W-13,13,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589122,4.866240
+521820190W-15,15,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588918,4.866421
 521820190W-15B,15BIS,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588856,4.866380
 521820190W-17,17,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.588500,4.866995
-521820190W-2,2,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588938,4.866006
-521820190W-3,3,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589280,4.865974
-521820190W-4,4,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588791,4.866279
-521820190W-5,5,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589342,4.866021
-521820190W-7,7,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589481,4.866240
-521820190W-9,9,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589432,4.866426
-521820200G-10,10,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588527,4.865747
-521820200G-1,1,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589506,4.865836
-521820200G-12,12,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588394,4.865583
-521820200G-14,14,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588342,4.865661
+521820190W-2,2,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588922,4.865998
+521820190W-3,3,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589282,4.865992
+521820190W-4,4,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588796,4.866271
+521820190W-5,5,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589320,4.866048
+521820190W-7,7,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589483,4.866236
+521820190W-9,9,Rue Leblanc,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589404,4.866427
+521820200G-10,10,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588525,4.865725
+521820200G-1,1,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589516,4.865785
+521820200G-12,12,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588396,4.865569
+521820200G-14,14,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588327,4.865646
 521820200G-2,2,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589420,4.865525
 521820200G-2B,2BIS,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589231,4.865520
-521820200G-3,3,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589435,4.865707
+521820200G-3,3,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589427,4.865702
 521820200G-4,4,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589027,4.865556
-521820200G-5,5,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589144,4.865735
-521820200G-6,6,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589002,4.865245
-521820200G-7,7,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589012,4.865765
-521820200G-8,8,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588673,4.865734
-521820200G-9,9,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588572,4.866016
+521820200G-5,5,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589143,4.865703
+521820200G-6,6,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588996,4.865311
+521820200G-7,7,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588994,4.865770
+521820200G-8,8,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588693,4.865727
+521820200G-9,9,Rue Lebon,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.588568,4.866014
 521820203K-11,11,Ruelle des Loups,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.602083,4.823543
 521820203K-1,1,Ruelle des Loups,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.601335,4.822582
 521820203K-2,2,Ruelle des Loups,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.601521,4.823011
@@ -15116,12 +15110,12 @@
 521820211U-3,3,Ruelle du Moulin,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.599612,4.822833
 521820211U-4,4,Ruelle du Moulin,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.600046,4.821946
 521820211U-5,5,Ruelle du Moulin,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.599509,4.823145
-521820220D-1,1,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589701,4.864805
+521820220D-1,1,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589715,4.864792
 521820220D-2,2,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589936,4.865143
-521820220D-3,3,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589624,4.864655
-521820220D-4,4,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589968,4.864960
-521820220D-5,5,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589570,4.864228
-521820220D-6,6,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589896,4.864694
+521820220D-3,3,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589640,4.864662
+521820220D-4,4,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589944,4.864963
+521820220D-5,5,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589504,4.864162
+521820220D-6,6,Rue Napoleon 1er,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589888,4.864695
 521820223G-10,10,Rue de l'Onigel,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.593274,4.861925
 521820223G-11,11,Rue de l'Onigel,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.593268,4.861782
 521820223G-1,1,Rue de l'Onigel,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.593462,4.864180
@@ -15196,26 +15190,26 @@
 521820233T-6,6,Rue du Pavé,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.595493,4.865905
 521820233T-8,8,Rue du Pavé,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.595516,4.866204
 521820240A-10,10,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.589709,4.865994
-521820240A-11,11,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589658,4.865808
-521820240A-1,1,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590504,4.865667
-521820240A-12,12,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589399,4.864988
-521820240A-13,13,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589444,4.864960
+521820240A-11,11,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589661,4.865804
+521820240A-1,1,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590486,4.865651
+521820240A-12,12,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589396,4.864964
+521820240A-13,13,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589444,4.864973
 521820240A-14,14,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.589558,4.865124
-521820240A-15,15,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589552,4.865053
-521820240A-16,16,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589542,4.864929
-521820240A-17,17,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589735,4.864914
-521820240A-18,18,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589999,4.865048
-521820240A-19,19,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590289,4.865196
-521820240A-20,20,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590410,4.865261
-521820240A-21,21,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590521,4.865317
-521820240A-2,2,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590374,4.865669
-521820240A-3,3,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590481,4.865860
-521820240A-4,4,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590562,4.866261
+521820240A-15,15,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589538,4.865051
+521820240A-16,16,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589548,4.864928
+521820240A-17,17,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589730,4.864927
+521820240A-18,18,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590007,4.865072
+521820240A-19,19,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590298,4.865142
+521820240A-20,20,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590418,4.865246
+521820240A-21,21,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590530,4.865319
+521820240A-2,2,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590384,4.865672
+521820240A-3,3,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590434,4.865853
+521820240A-4,4,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590541,4.866276
 521820240A-5,5,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.590198,4.865930
-521820240A-6,6,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590253,4.866166
-521820240A-7,7,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589866,4.866072
+521820240A-6,6,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.590231,4.866136
+521820240A-7,7,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589885,4.866035
 521820240A-8,8,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.589739,4.865975
-"521820240A-8,9,10","8,9,10",Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589642,4.866022
+"521820240A-8,9,10","8,9,10",Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.589633,4.866013
 521820240A-9,9,Place Pelletier,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.589763,4.865814
 521820245F-1,1,Rue du Petit Pont,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.534942,4.817305
 521820248J-11,11,Rue Piece Martinet,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.594474,4.862368
@@ -15263,26 +15257,26 @@
 521820250L-7,7,Rue de la Piece Tortue,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.594480,4.871832
 521820250L-8,8,Rue de la Piece Tortue,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.594271,4.871783
 521820250L-9,9,Rue de la Piece Tortue,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.594627,4.871982
-521820255S-10,10,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586517,4.861133
+521820255S-10,10,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586502,4.861130
 521820255S-11,11,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.586305,4.861182
-521820255S-1,1,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585826,4.862717
-521820255S-12,12,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586894,4.861760
-521820255S-13,13,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586272,4.860840
-521820255S-14,14,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586741,4.860851
-521820255S-15,15,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586376,4.860336
-521820255S-16,16,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587133,4.860525
-521820255S-18,18,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586724,4.859999
-521820255S-20,20,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586814,4.859419
-521820255S-22,22,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587159,4.859753
-521820255S-2,2,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586018,4.862910
-521820255S-24,24,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587303,4.859941
-521820255S-3,3,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585738,4.861810
-521820255S-4,4,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586431,4.862537
-521820255S-5,5,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586088,4.861495
-521820255S-6,6,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586775,4.862160
-521820255S-7,7,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585874,4.861236
-521820255S-8,8,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586424,4.861710
-521820255S-9,9,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586062,4.860505
+521820255S-1,1,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585814,4.862723
+521820255S-12,12,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586882,4.861759
+521820255S-13,13,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586268,4.860830
+521820255S-14,14,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586739,4.860874
+521820255S-15,15,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586370,4.860345
+521820255S-16,16,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587135,4.860552
+521820255S-18,18,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586728,4.860017
+521820255S-20,20,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586794,4.859470
+521820255S-22,22,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587143,4.859762
+521820255S-2,2,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586003,4.862907
+521820255S-24,24,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.587299,4.859966
+521820255S-3,3,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585744,4.861828
+521820255S-4,4,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586412,4.862554
+521820255S-5,5,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586065,4.861481
+521820255S-6,6,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586779,4.862178
+521820255S-7,7,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.585860,4.861273
+521820255S-8,8,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586422,4.861686
+521820255S-9,9,Rue de la Plaine,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.586047,4.860507
 521820260X-10,10,Rue de Ponthon,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.588804,4.867456
 521820260X-11,11,Rue de Ponthon,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.589001,4.867966
 521820260X-11B,11BIS,Rue de Ponthon,52290,Éclaron-Braucourt-Sainte-Livière,CAD,48.589039,4.868011
@@ -15375,15 +15369,15 @@
 521820290E-7,7,Rue de la République,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590422,4.867916
 521820290E-8,8,Rue de la République,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.589970,4.868868
 521820290E-9,9,Rue de la République,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.590519,4.867816
-521820295K-10,10,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537811,4.810684
-521820295K-12,12,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537828,4.810528
-521820295K-14,14,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537849,4.810282
-521820295K-16,16,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537910,4.810010
-521820295K-18,18,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537938,4.809884
-521820295K-20,20,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537993,4.809533
+521820295K-10,10,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537805,4.810688
+521820295K-12,12,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537831,4.810523
+521820295K-14,14,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537846,4.810300
+521820295K-16,16,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537907,4.810027
+521820295K-18,18,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537932,4.809868
+521820295K-20,20,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537989,4.809529
 521820295K-2,2,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.536668,4.811765
-521820295K-4,4,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.536863,4.811251
-521820295K-5,5,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537253,4.812567
+521820295K-4,4,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.536872,4.811217
+521820295K-5,5,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,OSM,48.537235,4.812610
 521820295K-7,7,Rue de la Sablière,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.538533,4.810649
 521820298N-10,10,Rue Sainte-Libaire,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.601002,4.822894
 521820298N-11,11,Rue Sainte-Libaire,52290,Éclaron-Braucourt-Sainte-Livière,C+O,48.601007,4.823142
@@ -15903,8 +15897,8 @@
 522390010C-14,14,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773010,5.366650
 522390010C-15,15,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773139,5.367261
 522390010C-2,2,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773661,5.364617
-522390010C-3,3,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773806,5.364702
-522390010C-4,4,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773636,5.365308
+522390010C-3,3,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773806,5.364701
+522390010C-4,4,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773636,5.365307
 522390010C-5,5,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773872,5.365096
 522390010C-6,6,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773618,5.365465
 522390010C-7,7,Rue de la Bruyère,52600,Heuilley-Cotton,OSM,47.773766,5.365288
@@ -15944,7 +15938,7 @@
 522390046S-1,1,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.772536,5.363932
 522390046S-12,12,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.771818,5.363057
 522390046S-13,13,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.770557,5.363540
-522390046S-14,14,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.771601,5.362951
+522390046S-14,14,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.771601,5.362950
 522390046S-15,15,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.770296,5.363625
 522390046S-16,16,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.771228,5.362839
 522390046S-17,17,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.770017,5.363786
@@ -15952,7 +15946,7 @@
 522390046S-19,19,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.769809,5.363984
 522390046S-20,20,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.769765,5.363621
 522390046S-22,22,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.769648,5.362630
-522390046S-22B,22B,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.769441,5.362722
+522390046S-22B,22B,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.769440,5.362722
 522390046S-2,2,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.772282,5.363443
 522390046S-24,24,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.769347,5.362210
 522390046S-3,3,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.772318,5.363718
@@ -15962,15 +15956,15 @@
 522390046S-7,7,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.771635,5.363315
 522390046S-8,8,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.771994,5.363156
 522390046S-9,9,Rue de la Libération,52600,Heuilley-Cotton,OSM,47.771541,5.363137
-522390048U-1,1,Place Louise Michel,52600,Heuilley-Cotton,OSM,47.776287,5.365731
+522390048U-1,1,Place Louise Michel,52600,Heuilley-Cotton,OSM,47.776287,5.365730
 522390048U-2,2,Place Louise Michel,52600,Heuilley-Cotton,OSM,47.776129,5.365969
 522390048U-3,3,Place Louise Michel,52600,Heuilley-Cotton,OSM,47.775976,5.365799
-522390048U-4,4,Place Louise Michel,52600,Heuilley-Cotton,OSM,47.775846,5.365598
+522390048U-4,4,Place Louise Michel,52600,Heuilley-Cotton,OSM,47.775845,5.365598
 522390048U-5,5,Place Louise Michel,52600,Heuilley-Cotton,OSM,47.776029,5.365404
 522390055B-10,10,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.775098,5.365540
 522390055B-1,1,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.773926,5.366037
-522390055B-2,2,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.773696,5.366283
-522390055B-3,3,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.774313,5.366034
+522390055B-2,2,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.773695,5.366283
+522390055B-3,3,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.774313,5.366033
 522390055B-4,4,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.774311,5.366242
 522390055B-5,5,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.774420,5.366028
 522390055B-6,6,Rue du Moulin,52600,Heuilley-Cotton,OSM,47.774413,5.366209
@@ -15981,11 +15975,11 @@
 522390065M-1,1,Rue du Port,52600,Heuilley-Cotton,OSM,47.773390,5.364199
 522390065M-12,12,Rue du Port,52600,Heuilley-Cotton,OSM,47.775627,5.364578
 522390065M-14,14,Rue du Port,52600,Heuilley-Cotton,OSM,47.775881,5.364617
-522390065M-16,16,Rue du Port,52600,Heuilley-Cotton,OSM,47.776060,5.364751
+522390065M-16,16,Rue du Port,52600,Heuilley-Cotton,OSM,47.776059,5.364751
 522390065M-18,18,Rue du Port,52600,Heuilley-Cotton,OSM,47.776221,5.364913
 522390065M-20,20,Rue du Port,52600,Heuilley-Cotton,OSM,47.776455,5.365195
 522390065M-22,22,Rue du Port,52600,Heuilley-Cotton,OSM,47.776605,5.365339
-522390065M-2,2,Rue du Port,52600,Heuilley-Cotton,OSM,47.773305,5.364430
+522390065M-2,2,Rue du Port,52600,Heuilley-Cotton,OSM,47.773304,5.364430
 522390065M-24,24,Rue du Port,52600,Heuilley-Cotton,OSM,47.776788,5.365587
 522390065M-3,3,Rue du Port,52600,Heuilley-Cotton,OSM,47.773873,5.364076
 522390065M-4,4,Rue du Port,52600,Heuilley-Cotton,OSM,47.774645,5.365090
@@ -16010,20 +16004,20 @@
 522390090P-3,3,Rue du Soc,52600,Heuilley-Cotton,OSM,47.769909,5.365339
 522390090P-4,4,Rue du Soc,52600,Heuilley-Cotton,OSM,47.770288,5.365205
 522390090P-5,5,Rue du Soc,52600,Heuilley-Cotton,OSM,47.770254,5.365085
-522390090P-6,6,Rue du Soc,52600,Heuilley-Cotton,OSM,47.770483,5.365049
+522390090P-6,6,Rue du Soc,52600,Heuilley-Cotton,OSM,47.770483,5.365048
 522390100A-10,10,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772574,5.365734
 522390100A-11,11,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772703,5.366198
 522390100A-12,12,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772511,5.366135
 522390100A-13,13,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772717,5.366475
-522390100A-14,14,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772632,5.367096
-522390100A-15,15,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.773553,5.368154
+522390100A-14,14,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772633,5.367096
+522390100A-15,15,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.773552,5.368154
 522390100A-16,16,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772834,5.367341
 522390100A-18,18,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772946,5.367818
-522390100A-20,20,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.773133,5.367792
+522390100A-20,20,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.773132,5.367792
 522390100A-2,2,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772598,5.364331
 522390100A-3,3,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772785,5.365028
 522390100A-4,4,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772624,5.364858
-522390100A-5,5,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772795,5.365371
+522390100A-5,5,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772794,5.365371
 522390100A-6,6,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772619,5.365068
 522390100A-7,7,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772784,5.365707
 522390100A-8,8,Rue du 13 Septembre,52600,Heuilley-Cotton,OSM,47.772595,5.365474
@@ -16195,45 +16189,45 @@
 522440078E-1,1,Rue de la Fontaine,52290,Humbécourt,C+O,48.581476,4.897316
 522440078E-5,5,Rue de la Fontaine,52290,Humbécourt,C+O,48.581815,4.897108
 522440078E-7,7,Rue de la Fontaine,52290,Humbécourt,C+O,48.581998,4.896960
-522440082J-10,10,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582082,4.904581
-522440082J-1,1,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.581152,4.904570
-522440082J-12,12,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582137,4.904482
-522440082J-13,13,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.581984,4.904020
-522440082J-15,15,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582179,4.903890
-522440082J-16,16,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582093,4.904215
-522440082J-18,18,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582412,4.903909
-522440082J-20,20,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582633,4.903779
-522440082J-22,22,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582935,4.903607
-522440082J-2,2,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.581423,4.904567
-522440082J-26,26,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583376,4.903749
-522440082J-27,27,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583061,4.903365
-522440082J-28,28,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583336,4.903407
-522440082J-29,29,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583209,4.903058
-522440082J-32,32,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583458,4.903363
-522440082J-3,3,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.581372,4.904420
-522440082J-34,34,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583778,4.903232
-522440082J-35,35,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583302,4.902982
-522440082J-36,36,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584138,4.902989
-522440082J-37,37,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583294,4.903229
-522440082J-38,38,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584021,4.903099
-522440082J-42,42,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584291,4.902746
-522440082J-44,44,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584355,4.902624
-522440082J-45,45,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583601,4.903147
-522440082J-46,46,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584459,4.902401
-522440082J-47,47,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583727,4.903105
-522440082J-48,48,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584550,4.902204
-522440082J-49,49,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.583885,4.903019
-522440082J-51,51,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584144,4.902798
-522440082J-53,53,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584347,4.902377
-522440082J-55,55,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.584429,4.902207
-522440082J-5,5,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.581551,4.904298
-522440082J-58,58,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.585981,4.901339
-522440082J-60,60,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.586212,4.901378
-522440082J-62,62,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.586391,4.901421
-522440082J-6,6,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582050,4.904288
-522440082J-69,69,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.586128,4.900731
-522440082J-8,8,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.582057,4.904498
-522440082J-9,9,Rue du Gen de Gaulle,52290,Humbécourt,CAD,48.581659,4.904243
+522440082J-10,10,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582082,4.904581
+522440082J-1,1,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.581152,4.904570
+522440082J-12,12,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582137,4.904482
+522440082J-13,13,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.581984,4.904020
+522440082J-15,15,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582179,4.903890
+522440082J-16,16,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582093,4.904215
+522440082J-18,18,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582412,4.903909
+522440082J-20,20,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582633,4.903779
+522440082J-22,22,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582935,4.903607
+522440082J-2,2,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.581423,4.904567
+522440082J-26,26,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583376,4.903749
+522440082J-27,27,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583061,4.903365
+522440082J-28,28,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583336,4.903407
+522440082J-29,29,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583209,4.903058
+522440082J-32,32,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583458,4.903363
+522440082J-3,3,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.581372,4.904420
+522440082J-34,34,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583778,4.903232
+522440082J-35,35,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583302,4.902982
+522440082J-36,36,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584138,4.902989
+522440082J-37,37,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583294,4.903229
+522440082J-38,38,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584021,4.903099
+522440082J-42,42,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584291,4.902746
+522440082J-44,44,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584355,4.902624
+522440082J-45,45,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583601,4.903147
+522440082J-46,46,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584459,4.902401
+522440082J-47,47,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583727,4.903105
+522440082J-48,48,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584550,4.902204
+522440082J-49,49,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.583885,4.903019
+522440082J-51,51,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584144,4.902798
+522440082J-53,53,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584347,4.902377
+522440082J-55,55,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.584429,4.902207
+522440082J-5,5,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.581551,4.904298
+522440082J-58,58,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.585981,4.901339
+522440082J-60,60,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.586212,4.901378
+522440082J-62,62,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.586391,4.901421
+522440082J-6,6,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582050,4.904288
+522440082J-69,69,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.586128,4.900731
+522440082J-8,8,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.582057,4.904498
+522440082J-9,9,Rue du Général de Gaulle,52290,Humbécourt,C+O,48.581659,4.904243
 522440083K-1,1,Rue de la Haie Buissonnière,52290,Humbécourt,C+O,48.579432,4.906337
 522440083K-2,2,Rue de la Haie Buissonnière,52290,Humbécourt,C+O,48.579535,4.906221
 522440083K-3,3,Rue de la Haie Buissonnière,52290,Humbécourt,C+O,48.579226,4.906304
@@ -16470,8 +16464,8 @@
 522500460U-7,7,Rue Aristide Briand,52300,Joinville,C+O,48.442758,5.142265
 522500460U-8,8,Rue Aristide Briand,52300,Joinville,C+O,48.443001,5.142467
 522500460U-9,9,Rue Aristide Briand,52300,Joinville,C+O,48.442631,5.142162
-522500470E-1,1,,52300,Joinville,CAD,48.442613,5.137555
-522500470E-2,2,,52300,Joinville,CAD,48.442675,5.137208
+522500470E-1,1,Petite Rue Petite Rue de l'Auditoire,52300,Joinville,CAD,48.442613,5.137555
+522500470E-2,2,Petite Rue Petite Rue de l'Auditoire,52300,Joinville,CAD,48.442675,5.137208
 522500480R-10,10,Rue de l'Auditoire,52300,Joinville,C+O,48.443029,5.137782
 522500480R-11,11,Rue de l'Auditoire,52300,Joinville,C+O,48.443008,5.137675
 522500480R-12,12,Rue de l'Auditoire,52300,Joinville,C+O,48.442871,5.137777
@@ -18547,7 +18541,7 @@
 522620060G-5,5,Rue du Val Chevreuil,52330,Lamothe-en-Blaisy,CAD,48.241900,4.944445
 522620060G-6,6,Rue du Val Chevreuil,52330,Lamothe-en-Blaisy,CAD,48.241916,4.944549
 522620060G-8,8,Rue du Val Chevreuil,52330,Lamothe-en-Blaisy,CAD,48.242920,4.944358
-522650085W-3,3,Avenue Charles Burgeat,52170,Bayard-sur-Marne,OSM,48.546052,5.078980
+522650085W-3,3,Avenue Charles Burgeat,52170,Bayard-sur-Marne,OSM,48.546027,5.079005
 522660001A-11,11,Rue du Château,52220,Laneuville-à-Rémy,CAD,48.471884,4.880103
 522660001A-1,1,Rue du Château,52220,Laneuville-à-Rémy,CAD,48.473228,4.882943
 522660001A-15,15,Rue du Château,52220,Laneuville-à-Rémy,CAD,48.471777,4.879878
@@ -19594,18 +19588,18 @@
 522690445V-45,45,Rue Eugène Gallion,52200,Langres,CAD,47.866911,5.342823
 522690445V-6,6,Rue Eugène Gallion,52200,Langres,CAD,47.866751,5.343541
 522690445V-8,8,Rue Eugène Gallion,52200,Langres,CAD,47.866751,5.343554
-522690448Y-1160,1160,Avenue De L'Europe,52200,Langres,C+O,47.871512,5.338614
-522690448Y-1280,1280,Avenue De L'Europe,52200,Langres,C+O,47.871831,5.337159
-522690448Y-1302,1302,Avenue De L'Europe,52200,Langres,C+O,47.871909,5.336713
-522690448Y-1354,1354,Avenue De L'Europe,52200,Langres,C+O,47.872024,5.336079
-522690448Y-1374,1374,Avenue De L'Europe,52200,Langres,C+O,47.872082,5.335759
-522690448Y-1388,1388,Avenue De L'Europe,52200,Langres,C+O,47.872150,5.335385
-522690448Y-1450,1450,Avenue De L'Europe,52200,Langres,C+O,47.872352,5.334396
-522690448Y-1498,1498,Avenue De L'Europe,52200,Langres,C+O,47.872516,5.333945
-522690448Y-712,712,Avenue De L'Europe,52200,Langres,C+O,47.870520,5.341827
-522690448Y-880,880,Avenue De L'Europe,52200,Langres,C+O,47.870498,5.341863
-522690448Y-912,912,Avenue De L'Europe,52200,Langres,C+O,47.870866,5.339796
-522690448Y-912A,912A,Avenue De L'Europe,52200,Langres,C+O,47.870773,5.341341
+522690448Y-1160,1160,Avenue de l'Europe,52200,Langres,C+O,47.871512,5.338614
+522690448Y-1280,1280,Avenue de l'Europe,52200,Langres,C+O,47.871831,5.337159
+522690448Y-1302,1302,Avenue de l'Europe,52200,Langres,C+O,47.871909,5.336713
+522690448Y-1354,1354,Avenue de l'Europe,52200,Langres,C+O,47.872024,5.336079
+522690448Y-1374,1374,Avenue de l'Europe,52200,Langres,C+O,47.872082,5.335759
+522690448Y-1388,1388,Avenue de l'Europe,52200,Langres,C+O,47.872150,5.335385
+522690448Y-1450,1450,Avenue de l'Europe,52200,Langres,C+O,47.872352,5.334396
+522690448Y-1498,1498,Avenue de l'Europe,52200,Langres,C+O,47.872516,5.333945
+522690448Y-712,712,Avenue de l'Europe,52200,Langres,C+O,47.870520,5.341827
+522690448Y-880,880,Avenue de l'Europe,52200,Langres,C+O,47.870498,5.341863
+522690448Y-912,912,Avenue de l'Europe,52200,Langres,C+O,47.870866,5.339796
+522690448Y-912A,912A,Avenue de l'Europe,52200,Langres,C+O,47.870773,5.341341
 522690450A-10,10,Rue aux Fées,52200,Langres,C+O,47.863659,5.331815
 522690450A-11,11,Rue aux Fées,52200,Langres,C+O,47.863699,5.331323
 522690450A-11B,11BIS,Rue aux Fées,52200,Langres,C+O,47.863709,5.331211
@@ -19658,8 +19652,6 @@
 522690465S-5,5,Rue Franche,52200,Langres,CAD,47.863589,5.337232
 522690465S-7,7,Rue Franche,52200,Langres,CAD,47.863769,5.337336
 522690465S-9,9,Rue Franche,52200,Langres,CAD,47.863920,5.337426
-522690466T-4,4,,52200,Langres,CAD,47.864290,5.337772
-522690466T-6,6,,52200,Langres,CAD,47.864528,5.337799
 522690467U-10,10,Rue du Fort de la Bonnelle,52200,Langres,CAD,47.848282,5.322994
 522690467U-15,15,Rue du Fort de la Bonnelle,52200,Langres,CAD,47.846581,5.322035
 522690467U-4,4,Rue du Fort de la Bonnelle,52200,Langres,CAD,47.849228,5.324229
@@ -19863,14 +19855,6 @@
 522690530M-7,7,Rue du Grand Cloître,52200,Langres,C+O,47.862631,5.334551
 522690530M-8,8,Rue du Grand Cloître,52200,Langres,C+O,47.862486,5.335016
 522690530M-9,9,Rue du Grand Cloître,52200,Langres,C+O,47.862612,5.334625
-522690532P-10,10,Grande Rue de Sous-Murs,52200,Langres,C+O,47.863707,5.337982
-522690532P-1,1,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862875,5.336663
-522690532P-2,2,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862771,5.336698
-522690532P-3,3,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862947,5.336766
-522690532P-4,4,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862837,5.336764
-522690532P-6,6,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862865,5.336800
-522690532P-7,7,Grande Rue de Sous-Murs,52200,Langres,C+O,47.863065,5.337006
-522690532P-8,8,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862924,5.336864
 522690533R-2,2,Ruelle de la Grange au Sel,52200,Langres,C+O,47.865141,5.331053
 522690535T-10,10,Rue Henri Dunant,52200,Langres,CAD,47.854516,5.336054
 522690535T-1,1,Rue Henri Dunant,52200,Langres,CAD,47.852969,5.335914
@@ -20592,7 +20576,7 @@
 522690765T-1,1,Square Olivier Lahalle,52200,Langres,CAD,47.859081,5.332464
 522690765T-2,2,Square Olivier Lahalle,52200,Langres,CAD,47.858727,5.332738
 522690765T-3,3,Square Olivier Lahalle,52200,Langres,CAD,47.858786,5.332762
-522690769X-2,2,Impasse d'Orval,52200,Langres,OSM,47.859708,5.329902
+522690769X-2,2,Impasse d'Orval,52200,Langres,OSM,47.859713,5.329903
 522690770Y-1,1,Rue des Ouches,52200,Langres,CAD,47.855551,5.332555
 522690770Y-2,2,Rue des Ouches,52200,Langres,CAD,47.855512,5.332319
 522690770Y-3,3,Rue des Ouches,52200,Langres,CAD,47.855563,5.332303
@@ -22714,7 +22698,7 @@
 523310090P-4,4,Rue de l'Hôpital,52220,Montier-en-Der,C+O,48.478955,4.769912
 523310090P-6,6,Rue de l'Hôpital,52220,Montier-en-Der,C+O,48.479012,4.769831
 523310090P-8,8,Rue de l'Hôpital,52220,Montier-en-Der,C+O,48.479070,4.769637
-523310100A-10,10,Place de l'Hôtel de Ville,52220,Montier-en-Der,OSM,48.476408,4.771088
+523310100A-10,10,Place de l'Hôtel de Ville,52220,Montier-en-Der,OSM,48.476489,4.771112
 523310100A-11,11,Place de l'Hotel de Ville,52220,Montier-en-Der,CAD,48.476783,4.771531
 523310100A-1,1,Place de l'Hotel de Ville,52220,Montier-en-Der,CAD,48.476930,4.770973
 523310100A-12,12,Place de l'Hotel de Ville,52220,Montier-en-Der,CAD,48.476482,4.771398
@@ -23308,13 +23292,13 @@
 523800030L-2,2,Rue du Camping,52200,Peigney,OSM,47.869974,5.375034
 523800030L-4,4,Rue du Camping,52200,Peigney,OSM,47.870049,5.375946
 523800038V-10,10,Rue Champ Moret,52200,Peigney,OSM,47.879858,5.357676
-523800038V-11,11,Rue Champ Moret,52200,Peigney,OSM,47.880050,5.356311
+523800038V-11,11,Rue Champ Moret,52200,Peigney,OSM,47.880050,5.356310
 523800038V-1,1,Rue Champ Moret,52200,Peigney,OSM,47.879204,5.358314
 523800038V-12,12,Rue Champ Moret,52200,Peigney,OSM,47.879985,5.357402
 523800038V-14,14,Rue Champ Moret,52200,Peigney,OSM,47.880124,5.356986
-523800038V-16,16,Rue Champ Moret,52200,Peigney,OSM,47.880190,5.356827
+523800038V-16,16,Rue Champ Moret,52200,Peigney,OSM,47.880190,5.356826
 523800038V-18,18,Rue Champ Moret,52200,Peigney,OSM,47.880307,5.357318
-523800038V-20,20,Rue Champ Moret,52200,Peigney,OSM,47.880276,5.356059
+523800038V-20,20,Rue Champ Moret,52200,Peigney,OSM,47.880276,5.356058
 523800038V-22,22,Rue Champ Moret,52200,Peigney,OSM,47.880072,5.355993
 523800038V-2,2,Rue Champ Moret,52200,Peigney,OSM,47.879138,5.358753
 523800038V-3,3,Rue Champ Moret,52200,Peigney,OSM,47.879456,5.358142
@@ -23352,7 +23336,7 @@
 523800070E-18,18,Rue du Groselier,52200,Peigney,OSM,47.879000,5.356132
 523800070E-20,20,Rue du Groselier,52200,Peigney,OSM,47.878879,5.355852
 523800070E-22,22,Rue du Groselier,52200,Peigney,OSM,47.878708,5.355910
-523800070E-2,2,Rue du Groselier,52200,Peigney,OSM,47.879919,5.356620
+523800070E-2,2,Rue du Groselier,52200,Peigney,OSM,47.879919,5.356619
 523800070E-24,24,Rue du Groselier,52200,Peigney,OSM,47.878713,5.356472
 523800070E-3,3,Rue du Groselier,52200,Peigney,OSM,47.879587,5.356785
 523800070E-4,4,Rue du Groselier,52200,Peigney,OSM,47.879597,5.356469
@@ -23368,20 +23352,20 @@
 523800090B-4,4,Rue de la Marne,52200,Peigney,OSM,47.878172,5.358600
 523800090B-6,6,Rue de la Marne,52200,Peigney,OSM,47.877842,5.358700
 523800095G-10,10,Rue du Mont,52200,Peigney,OSM,47.880367,5.363436
-523800095G-11,11,Rue du Mont,52200,Peigney,OSM,47.880667,5.363823
+523800095G-11,11,Rue du Mont,52200,Peigney,OSM,47.880667,5.363822
 523800095G-1,1,Rue du Mont,52200,Peigney,OSM,47.880217,5.362605
 523800095G-12,12,Rue du Mont,52200,Peigney,OSM,47.880429,5.363684
 523800095G-13,13,Rue du Mont,52200,Peigney,OSM,47.880845,5.363684
 523800095G-14,14,Rue du Mont,52200,Peigney,OSM,47.880463,5.363993
 523800095G-15,15,Rue du Mont,52200,Peigney,OSM,47.880777,5.364050
 523800095G-16,16,Rue du Mont,52200,Peigney,OSM,47.879649,5.366266
-523800095G-17,17,Rue du Mont,52200,Peigney,OSM,47.880493,5.365035
+523800095G-17,17,Rue du Mont,52200,Peigney,OSM,47.880493,5.365034
 523800095G-18,18,Rue du Mont,52200,Peigney,OSM,47.879492,5.367179
 523800095G-19,19,Rue du Mont,52200,Peigney,OSM,47.880423,5.365273
 523800095G-20,20,Rue du Mont,52200,Peigney,OSM,47.878882,5.366419
-523800095G-21,21,Rue du Mont,52200,Peigney,OSM,47.880184,5.366468
+523800095G-21,21,Rue du Mont,52200,Peigney,OSM,47.880184,5.366467
 523800095G-2,2,Rue du Mont,52200,Peigney,OSM,47.880077,5.362641
-523800095G-23,23,Rue du Mont,52200,Peigney,OSM,47.880164,5.366647
+523800095G-23,23,Rue du Mont,52200,Peigney,OSM,47.880164,5.366646
 523800095G-25,25,Rue du Mont,52200,Peigney,OSM,47.879965,5.367100
 523800095G-27,27,Rue du Mont,52200,Peigney,OSM,47.879707,5.367844
 523800095G-3,3,Rue du Mont,52200,Peigney,OSM,47.880297,5.362648
@@ -23391,7 +23375,7 @@
 523800095G-7,7,Rue du Mont,52200,Peigney,OSM,47.880428,5.363120
 523800095G-8,8,Rue du Mont,52200,Peigney,OSM,47.880247,5.363142
 523800095G-9,9,Rue du Mont,52200,Peigney,OSM,47.880654,5.363543
-523800100M-10,10,Rue Nicolas Blanchard,52200,Peigney,OSM,47.880574,5.360603
+523800100M-10,10,Rue Nicolas Blanchard,52200,Peigney,OSM,47.880573,5.360603
 523800100M-11,11,Rue Nicolas Blanchard,52200,Peigney,OSM,47.881041,5.358370
 523800100M-12,12,Rue Nicolas Blanchard,52200,Peigney,OSM,47.880554,5.360228
 523800100M-14,14,Rue Nicolas Blanchard,52200,Peigney,OSM,47.880771,5.359818
@@ -23404,17 +23388,17 @@
 523800100M-7,7,Rue Nicolas Blanchard,52200,Peigney,OSM,47.880624,5.359759
 523800100M-8,8,Rue Nicolas Blanchard,52200,Peigney,OSM,47.880523,5.361219
 523800105T-1,1,Rue de la Plage,52200,Peigney,OSM,47.868960,5.373372
-523800105T-3,3,Rue de la Plage,52200,Peigney,OSM,47.869072,5.373529
-523800105T-5,5,Rue de la Plage,52200,Peigney,OSM,47.869267,5.377206
+523800105T-3,3,Rue de la Plage,52200,Peigney,OSM,47.869072,5.373528
+523800105T-5,5,Rue de la Plage,52200,Peigney,OSM,47.869267,5.377205
 523800105T-7,7,Rue de la Plage,52200,Peigney,OSM,47.869388,5.377769
 523800110Y-10,10,Rue de la Planchotte,52200,Peigney,OSM,47.878371,5.356819
 523800110Y-11,11,Rue de la Planchotte,52200,Peigney,OSM,47.878169,5.357795
 523800110Y-1,1,Rue de la Planchotte,52200,Peigney,OSM,47.878720,5.358012
 523800110Y-12,12,Rue de la Planchotte,52200,Peigney,OSM,47.878150,5.356955
 523800110Y-13,13,Rue de la Planchotte,52200,Peigney,OSM,47.878229,5.358014
-523800110Y-14,14,Rue de la Planchotte,52200,Peigney,OSM,47.877994,5.357087
+523800110Y-14,14,Rue de la Planchotte,52200,Peigney,OSM,47.877993,5.357087
 523800110Y-15,15,Rue de la Planchotte,52200,Peigney,OSM,47.877980,5.358106
-523800110Y-16,16,Rue de la Planchotte,52200,Peigney,OSM,47.877693,5.357031
+523800110Y-16,16,Rue de la Planchotte,52200,Peigney,OSM,47.877693,5.357030
 523800110Y-17,17,Rue de la Planchotte,52200,Peigney,OSM,47.877699,5.358157
 523800110Y-18,18,Rue de la Planchotte,52200,Peigney,OSM,47.877911,5.357587
 523800110Y-19,19,Rue de la Planchotte,52200,Peigney,OSM,47.877424,5.358271
@@ -23436,7 +23420,7 @@
 523800110Y-9,9,Rue de la Planchotte,52200,Peigney,OSM,47.878134,5.357316
 523800120J-2,2,Rue du Ruisseau,52200,Peigney,OSM,47.879665,5.362377
 523800120J-4,4,Rue du Ruisseau,52200,Peigney,OSM,47.879658,5.362749
-523800120J-6,6,Rue du Ruisseau,52200,Peigney,OSM,47.879630,5.364671
+523800120J-6,6,Rue du Ruisseau,52200,Peigney,OSM,47.879630,5.364670
 523800120J-8,8,Rue du Ruisseau,52200,Peigney,OSM,47.879293,5.363670
 523800140F-10,10,Rue des Voiliers,52200,Peigney,OSM,47.869289,5.373481
 523800140F-11,11,Rue des Voiliers,52200,Peigney,OSM,47.869676,5.374965
@@ -23458,10 +23442,10 @@
 523800140F-25,25,Rue des Voiliers,52200,Peigney,OSM,47.870118,5.378301
 523800140F-26,26,Rue des Voiliers,52200,Peigney,OSM,47.870508,5.380028
 523800140F-27,27,Rue des Voiliers,52200,Peigney,OSM,47.870229,5.378525
-523800140F-28,28,Rue des Voiliers,52200,Peigney,OSM,47.870609,5.380289
+523800140F-28,28,Rue des Voiliers,52200,Peigney,OSM,47.870609,5.380288
 523800140F-30,30,Rue des Voiliers,52200,Peigney,OSM,47.870468,5.380281
 523800140F-3,3,Rue des Voiliers,52200,Peigney,OSM,47.869557,5.373488
-523800140F-4,4,Rue des Voiliers,52200,Peigney,OSM,47.868955,5.372931
+523800140F-4,4,Rue des Voiliers,52200,Peigney,OSM,47.868955,5.372930
 523800140F-5,5,Rue des Voiliers,52200,Peigney,OSM,47.869629,5.373624
 523800140F-6,6,Rue des Voiliers,52200,Peigney,OSM,47.869039,5.373080
 523800140F-7,7,Rue des Voiliers,52200,Peigney,OSM,47.869703,5.373775
@@ -24116,17 +24100,17 @@
 524260019Z-2,2,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278727,4.865620
 524260019Z-4,4,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278516,4.865546
 524260019Z-6,6,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278402,4.865555
-524260030L-10,10,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
-524260030L-11,11,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
-524260030L-1,1,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
-524260030L-12,12,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
-524260030L-13,13,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
-524260030L-19,19,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
-524260030L-3,3,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
-524260030L-5,5,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
-524260030L-7,7,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
-524260030L-8,8,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
-524260030L-9,9,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
+524260030L-10,10,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
+524260030L-11,11,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
+524260030L-1,1,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
+524260030L-12,12,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
+524260030L-13,13,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
+524260030L-19,19,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
+524260030L-3,3,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
+524260030L-5,5,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
+524260030L-7,7,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
+524260030L-8,8,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
+524260030L-9,9,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
 524260038V-1,1,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278763,4.866126
 524260038V-2,2,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278152,4.866097
 524260038V-4,4,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.277838,4.866379
@@ -28348,7 +28332,7 @@
 524481056F-12,12,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,C+O,48.625624,4.982654
 524481056F-13,13,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,C+O,48.625632,4.982780
 524481056F-16,16,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,C+O,48.625552,4.983384
-524481056F-19,19,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,OSM,48.625740,4.984192
+524481056F-19,19,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,OSM,48.625787,4.984192
 524481056F-21,21,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,C+O,48.626016,4.984772
 524481056F-22,22,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,C+O,48.626041,4.984865
 524481056F-2,2,Avenue Jean Pierre Timbaud,52100,Saint-Dizier,C+O,48.625579,4.981140
@@ -29804,7 +29788,7 @@
 524481488A-30,30,Rue du Perthois,52100,Saint-Dizier,C+O,48.642000,4.931648
 524481488A-32,32,Rue du Perthois,52100,Saint-Dizier,C+O,48.641773,4.931646
 524481488A-32B,32BIS,Rue du Perthois,52100,Saint-Dizier,C+O,48.641513,4.931670
-524481488A-3,3,Rue du Perthois,52100,Saint-Dizier,OSM,48.641255,4.932618
+524481488A-3,3,Rue du Perthois,52100,Saint-Dizier,OSM,48.641259,4.932630
 524481488A-34,34,Rue du Perthois,52100,Saint-Dizier,C+O,48.641404,4.931071
 524481488A-4,4,Rue du Perthois,52100,Saint-Dizier,C+O,48.641404,4.932859
 524481488A-5,5,Rue du Perthois,52100,Saint-Dizier,C+O,48.641318,4.932423
@@ -33498,12 +33482,12 @@
 525280010W-1,1,Place de la Mairie,52130,Ville-en-Blaisois,OSM,48.439873,4.959883
 525280010W-1B,1BIS,Place de la Mairie,52130,Ville-en-Blaisois,CAD,48.439875,4.959709
 525280010W-2,2,Place de la Mairie,52130,Ville-en-Blaisois,CAD,48.439758,4.959685
-525280013Z-10,10,Rue du 19 mars 1962,52130,Ville-en-Blaisois,C+O,48.438359,4.958987
-525280013Z-1,1,Rue du 19 mars 1962,52130,Ville-en-Blaisois,C+O,48.438373,4.959063
-525280013Z-12,12,Rue du 19 mars 1962,52130,Ville-en-Blaisois,C+O,48.438291,4.959076
-525280013Z-2,2,Rue du 19 mars 1962,52130,Ville-en-Blaisois,C+O,48.439189,4.958719
-525280013Z-4,4,Rue du 19 mars 1962,52130,Ville-en-Blaisois,C+O,48.439048,4.958606
-525280013Z-6,6,Rue du 19 mars 1962,52130,Ville-en-Blaisois,C+O,48.438837,4.958698
+525280013Z-10,10,Rue du 19 Mars 1962,52130,Ville-en-Blaisois,C+O,48.438359,4.958987
+525280013Z-1,1,Rue du 19 Mars 1962,52130,Ville-en-Blaisois,C+O,48.438373,4.959063
+525280013Z-12,12,Rue du 19 Mars 1962,52130,Ville-en-Blaisois,C+O,48.438291,4.959076
+525280013Z-2,2,Rue du 19 Mars 1962,52130,Ville-en-Blaisois,C+O,48.439189,4.958719
+525280013Z-4,4,Rue du 19 Mars 1962,52130,Ville-en-Blaisois,C+O,48.439048,4.958606
+525280013Z-6,6,Rue du 19 Mars 1962,52130,Ville-en-Blaisois,C+O,48.438837,4.958698
 525280015B-1,1,Chemin de Mertrud,52130,Ville-en-Blaisois,C+O,48.439615,4.957474
 525280015B-3,3,Chemin de Mertrud,52130,Ville-en-Blaisois,C+O,48.439357,4.954821
 525280015B-4,4,Chemin de Mertrud,52130,Ville-en-Blaisois,C+O,48.440087,4.957226
