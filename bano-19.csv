@@ -21667,15 +21667,15 @@
 190730281B-4,4,Rue des Iris,19300,Égletons,C+O,45.403357,2.037318
 190730281B-6,6,Rue des Iris,19300,Égletons,C+O,45.403473,2.037125
 190730281B-8,8,Rue des Iris,19300,Égletons,C+O,45.403608,2.036987
-190730290L-10,10,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.406380,2.036626
-190730290L-12,12,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.406565,2.036561
-190730290L-14,14,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.406852,2.036371
-190730290L-16,16,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.407110,2.036324
-190730290L-18,18,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.407110,2.036337
-190730290L-20,20,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.407111,2.036350
-190730290L-4,4,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.405789,2.037174
-190730290L-6,6,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.406032,2.036933
-190730290L-8,8,Rue Jean Baptiste Chassaing,19300,Égletons,CAD,45.406214,2.036752
+190730290L-10,10,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.406380,2.036626
+190730290L-12,12,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.406565,2.036561
+190730290L-14,14,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.406852,2.036371
+190730290L-16,16,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.407110,2.036324
+190730290L-18,18,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.407110,2.036337
+190730290L-20,20,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.407111,2.036350
+190730290L-4,4,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.405789,2.037174
+190730290L-6,6,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.406032,2.036933
+190730290L-8,8,Rue Jean Baptiste Chassaing,19300,Égletons,C+O,45.406214,2.036752
 190730293P-1,1,Impasse Jean Ségurel,19300,Égletons,C+O,45.409079,2.059008
 190730293P-3,3,Impasse Jean Ségurel,19300,Égletons,C+O,45.409180,2.058869
 190730293P-5,5,Impasse Jean Ségurel,19300,Égletons,C+O,45.409306,2.058694
@@ -21723,8 +21723,8 @@
 190730320U-7,7,Rue Justine Moneger,19300,Égletons,C+O,45.403249,2.040911
 190730320U-8,8,Rue Justine Moneger,19300,Égletons,C+O,45.403664,2.042445
 190730320U-9,9,Rue Justine Moneger,19300,Égletons,C+O,45.403229,2.040609
-190730348Z-10,10,Rue Louis Bourzai,19300,Égletons,CAD,45.407276,2.047263
-190730348Z-8,8,Rue Louis Bourzai,19300,Égletons,CAD,45.407230,2.046831
+190730348Z-10,10,Rue Louis Bourzai,19300,Égletons,C+O,45.407276,2.047263
+190730348Z-8,8,Rue Louis Bourzai,19300,Égletons,C+O,45.407230,2.046831
 190730350B-13,13,Boulevard de Lescoute,19300,Égletons,CAD,45.407986,2.060281
 190730350B-16,16,Boulevard de Lescoute,19300,Égletons,CAD,45.408443,2.060803
 190730350B-18,18,Boulevard de Lescoute,19300,Égletons,CAD,45.408728,2.060935
@@ -22935,8 +22935,8 @@
 191000007L-6,6,Route de la Barthe,19700,Lagraulière,CAD,45.347114,1.640351
 191000009N-1,1,Impasse de la Borie Basse,19700,Lagraulière,CAD,45.354123,1.633731
 191000009N-3,3,Impasse de la Borie Basse,19700,Lagraulière,CAD,45.353962,1.633273
-191000010P-2,2,Chemin de la Buge Basse,19700,Lagraulière,CAD,45.356302,1.643835
-191000010P-4,4,Chemin de la Buge Basse,19700,Lagraulière,CAD,45.357166,1.643913
+191000010P-2,2,chemin de la Buge Basse,19700,Lagraulière,C+O,45.356302,1.643835
+191000010P-4,4,chemin de la Buge Basse,19700,Lagraulière,C+O,45.357166,1.643913
 191000012S-10,10,Rue de Bel Air,19700,Lagraulière,CAD,45.353393,1.634826
 191000012S-11,11,Rue de Bel Air,19700,Lagraulière,CAD,45.353437,1.634713
 191000012S-1,1,Rue de Bel Air,19700,Lagraulière,CAD,45.352114,1.635576
