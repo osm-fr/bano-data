@@ -3752,6 +3752,10 @@
 09122A063D-9,9,Quartier Thalamas,09000,Foix,CAD,42.955965,1.597681
 09122B026A-7,7,Bellevue,09000,Foix,CAD,42.957437,1.604472
 09122B097C-9,9,Hameau de Berdoulet,09000,Foix,CAD,42.982466,1.615376
+091300015X-477,477,Chemin du Bernet,09000,Ganac,CAD,42.957200,1.569377
+091300029M-1,1,Chemin du Roc Blanc,09000,Ganac,CAD,42.955247,1.561510
+091300029M-464,464,Chemin du Roc Blanc,09000,Ganac,CAD,42.954915,1.561550
+091300030N-449,449,Chemin de Micou,09000,Ganac,CAD,42.943198,1.561200
 091600350F-39B,39B,Rue Jean Jaurès,09300,Lavelanet,OSM,42.931397,1.846445
 091610086P-5,5,rue du moulinet,09600,Léran,OSM,42.990777,1.904004
 091670113T-20,20,Avenue de la République,09210,Lézat-sur-Lèze,OSM,43.275869,1.347987
@@ -7810,6 +7814,22 @@
 092251870A-7,7,Rue Goudouly,09100,Pamiers,C+O,43.111557,1.610779
 092251870A-8,8,Rue Goudouly,09100,Pamiers,C+O,43.111705,1.610922
 092251870A-9,9,Rue Goudouly,09100,Pamiers,C+O,43.111591,1.610801
+092251876G-1,1,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.113830,1.606026
+092251876G-15,15,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.114657,1.606965
+092251876G-17,17,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.114816,1.607042
+092251876G-19,19,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.114885,1.607212
+092251876G-21,21,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.115041,1.607286
+092251876G-23,23,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.115207,1.607365
+092251876G-25,25,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.115419,1.607592
+092251876G-27,27,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.115689,1.607751
+092251876G-29,29,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.115778,1.607796
+092251876G-31,31,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.115933,1.607871
+092251876G-33,33,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.116074,1.607940
+092251876G-3,3,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.113930,1.605887
+092251876G-35,35,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.116181,1.607992
+092251876G-5,5,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.114032,1.605852
+092251876G-7,7,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.114208,1.605965
+092251876G-9,9,Grande Rue du Pont Neuf,09100,Pamiers,C+O,43.114493,1.606592
 092251880L-10,10,Chemin de Gratelauze,09100,Pamiers,C+O,43.109553,1.608812
 092251880L-11,11,Chemin de Gratelauze,09100,Pamiers,C+O,43.109621,1.608521
 092251880L-11B,11BIS,Chemin de Gratelauze,09100,Pamiers,C+O,43.109593,1.608599
@@ -11395,6 +11415,475 @@
 092616390G-7,7,Rue des Roquettes,09200,Saint-Girons,OSM,42.978351,1.149448
 092616390G-8,8,Rue des Roquettes,09200,Saint-Girons,OSM,42.978424,1.149438
 092616390G-9,9,Rue des Roquettes,09200,Saint-Girons,OSM,42.978278,1.149214
+092640018T-1,1,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.028084,1.613025
+092640018T-4B,4BIS,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.027785,1.612567
+092640018T-6,6,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.027280,1.612690
+092640018T-8,8,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.027328,1.613158
+092640100G-10,10,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.018237,1.618887
+092640100G-11,11,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.018607,1.618965
+092640100G-1,1,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.020073,1.618816
+092640100G-12,12,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.017915,1.618865
+092640100G-13,13,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.018587,1.619500
+092640100G-15,15,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.018160,1.619003
+092640100G-17,17,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.017893,1.619245
+092640100G-19,19,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.017597,1.618952
+092640100G-2,2,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.019991,1.618703
+092640100G-3,3,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.019957,1.618823
+092640100G-4,4,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.019506,1.618765
+092640100G-5,5,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.019640,1.618867
+092640100G-6,6,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.019130,1.618789
+092640100G-7,7,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.019460,1.618891
+092640100G-8,8,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.018494,1.618696
+092640100G-9,9,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.019050,1.619470
+092640105M-1,1,Chemin de Barrau,09000,Saint-Jean-de-Verges,CAD,43.028567,1.615887
+092640105M-2,2,Chemin de Barrau,09000,Saint-Jean-de-Verges,CAD,43.027880,1.616136
+092640105M-2A,2A,Chemin de Barrau,09000,Saint-Jean-de-Verges,CAD,43.028080,1.616272
+092640105M-4,4,Chemin de Barrau,09000,Saint-Jean-de-Verges,CAD,43.028298,1.617120
+092640110T-1,1,Promenade du Canal,09000,Saint-Jean-de-Verges,CAD,43.011513,1.610982
+092640110T-1A,1A,Promenade du Canal,09000,Saint-Jean-de-Verges,CAD,43.011401,1.610927
+092640110T-3,3,Promenade du Canal,09000,Saint-Jean-de-Verges,CAD,43.011464,1.610732
+092640115Y-115,115,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.019463,1.623499
+092640115Y-117,117,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.018877,1.623402
+092640115Y-1,1,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.021262,1.619646
+092640115Y-2,2,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.020554,1.618782
+092640115Y-4,4,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.020534,1.619553
+092640115Y-6,6,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.020087,1.619179
+092640115Y-8,8,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.019905,1.620002
+092640120D-2,2,Impasse de la Caussadette,09000,Saint-Jean-de-Verges,CAD,43.020589,1.611465
+092640120D-3,3,Impasse de la Caussadette,09000,Saint-Jean-de-Verges,CAD,43.020558,1.611204
+092640125J-1,1,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031797,1.623675
+092640125J-2,2,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031690,1.623921
+092640125J-3,3,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031548,1.623445
+092640125J-5,5,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031309,1.623600
+092640125J-7,7,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031056,1.623329
+092640125J-9,9,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.030683,1.623670
+092640130P-10,10,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028761,1.611514
+092640130P-11,11,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028609,1.610996
+092640130P-1,1,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027809,1.614683
+092640130P-13,13,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028609,1.611008
+092640130P-14,14,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.029422,1.609936
+092640130P-2,2,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027951,1.614832
+092640130P-2B,2BIS,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028291,1.614787
+092640130P-4,4,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028125,1.614238
+092640130P-5,5,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027512,1.611209
+092640130P-5B,5BIS,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027950,1.611281
+092640130P-7,7,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028711,1.611452
+092640130P-8,8,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028642,1.612394
+092640130P-9,9,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027773,1.610945
+092640135V-10,10,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.003630,1.648390
+092640135V-12,12,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.004257,1.648819
+092640135V-13,13,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.001583,1.651175
+092640135V-2,2,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.001703,1.648961
+092640135V-4,4,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.002184,1.649131
+092640135V-6,6,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.002912,1.649290
+092640135V-8,8,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.002988,1.648663
+092640140A-10,10,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016706,1.610419
+092640140A-11,11,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017423,1.610171
+092640140A-1,1,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.014325,1.610574
+092640140A-12,12,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017382,1.610272
+092640140A-13,13,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017893,1.610420
+092640140A-14,14,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017559,1.610368
+092640140A-15,15,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018182,1.610440
+092640140A-16,16,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017701,1.610642
+092640140A-17,17,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018112,1.610329
+092640140A-19,19,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018105,1.609761
+092640140A-21,21,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018426,1.609945
+092640140A-2,2,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.014729,1.610856
+092640140A-23,23,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018747,1.610262
+092640140A-23B,23BIS,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.019057,1.610007
+092640140A-25,25,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018335,1.610714
+092640140A-3,3,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.014475,1.610565
+092640140A-358,358,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015021,1.609931
+092640140A-3B,3BIS,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015314,1.610080
+092640140A-4,4,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015789,1.610725
+092640140A-5,5,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016112,1.610093
+092640140A-5B,5BIS,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016357,1.609482
+092640140A-5T,5TER,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015934,1.609214
+092640140A-6,6,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016268,1.610683
+092640140A-7,7,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016623,1.609614
+092640140A-8,8,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016486,1.610594
+092640140A-9,9,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016858,1.610112
+092640145F-1,1,Rue de l'Eglise,09000,Saint-Jean-de-Verges,CAD,43.012884,1.609767
+092640145F-4,4,Rue de l'Eglise,09000,Saint-Jean-de-Verges,CAD,43.013039,1.610043
+092640150L-11,11,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.032059,1.609063
+092640150L-1,1,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.029777,1.608410
+092640150L-12,12,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.034352,1.609791
+092640150L-2,2,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031296,1.609081
+092640150L-31,31,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.037528,1.620161
+092640150L-3,3,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.030444,1.608447
+092640150L-4,4,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.032741,1.609583
+092640150L-5,5,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031061,1.608668
+092640150L-7,7,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031205,1.608083
+092640150L-9,9,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031473,1.608822
+092640155S-10,10,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.012313,1.611893
+092640155S-1,1,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011895,1.611260
+092640155S-2,2,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011630,1.611229
+092640155S-4,4,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011735,1.611223
+092640155S-6,6,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011846,1.611298
+092640155S-8,8,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.012003,1.611486
+092640155S-8B,8BIS,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011931,1.611927
+092640160X-11,11,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024809,1.614408
+092640160X-1,1,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025840,1.614094
+092640160X-13,13,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024732,1.614226
+092640160X-2,2,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025362,1.613685
+092640160X-3,3,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025680,1.614788
+092640160X-386,386,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025409,1.614245
+092640160X-5,5,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025418,1.615344
+092640160X-5A,5A,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025556,1.615119
+092640160X-6,6,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025067,1.614087
+092640160X-7,7,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025278,1.614709
+092640160X-8,8,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024818,1.614137
+092640160X-9,9,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024996,1.614609
+092640165C-1,1,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013066,1.610664
+092640165C-2,2,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013013,1.610710
+092640165C-3,3,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013060,1.610804
+092640165C-360,360,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013345,1.610911
+092640165C-4,4,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013345,1.610889
+092640165C-5,5,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013146,1.610787
+092640165C-7,7,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013225,1.610786
+092640165C-9,9,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013300,1.610844
+092640170H-10,10,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024671,1.612901
+092640170H-11,11,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024761,1.612578
+092640170H-1,1,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020468,1.611855
+092640170H-12,12,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025016,1.613348
+092640170H-13,13,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024822,1.612629
+092640170H-15,15,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024917,1.612679
+092640170H-16,16,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.026116,1.614274
+092640170H-17,17,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024951,1.612773
+092640170H-18,18,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025922,1.614908
+092640170H-19,19,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024988,1.612915
+092640170H-1A,1A,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020543,1.611658
+092640170H-1B,1B,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020689,1.611440
+092640170H-207,207,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025828,1.612975
+092640170H-2,2,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020205,1.611859
+092640170H-23,23,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025179,1.613120
+092640170H-25,25,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025537,1.613531
+092640170H-3,3,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020936,1.611979
+092640170H-385,385,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.022914,1.612194
+092640170H-4,4,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020667,1.612373
+092640170H-7,7,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.023582,1.612079
+092640170H-9,9,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024647,1.612553
+092640175N-1,1,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.027851,1.613659
+092640175N-2,2,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026998,1.612822
+092640175N-2B,2BIS,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.027620,1.613355
+092640175N-3,3,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026788,1.612703
+092640175N-4,4,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026621,1.612452
+092640175N-5,5,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026324,1.612311
+092640175N-6,6,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.025893,1.612277
+092640175N-7,7,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.025518,1.612011
+092640175N-8,8,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026637,1.609687
+092640180U-1,1,Impasse des Iris,09000,Saint-Jean-de-Verges,CAD,43.030286,1.626529
+092640180U-2,2,Impasse des Iris,09000,Saint-Jean-de-Verges,CAD,43.030092,1.626756
+092640187B-3,3,Chemin des Lavandieres,09000,Saint-Jean-de-Verges,CAD,43.017468,1.609737
+092640190E-1,1,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012520,1.610411
+092640190E-2,2,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012613,1.610462
+092640190E-3,3,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012483,1.610203
+092640190E-4,4,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012591,1.610332
+092640190E-6,6,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012568,1.610206
+092640195K-1,1,Impasse des Lilas,09000,Saint-Jean-de-Verges,CAD,43.011731,1.611380
+092640195K-2,2,Impasse des Lilas,09000,Saint-Jean-de-Verges,CAD,43.011528,1.611368
+092640200R-10,10,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.031973,1.625977
+092640200R-1,1,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.031943,1.624707
+092640200R-12,12,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.032201,1.625188
+092640200R-14,14,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.032507,1.624317
+092640200R-2,2,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.031200,1.626405
+092640200R-3,3,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.032274,1.623089
+092640200R-5,5,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.036253,1.623315
+092640200R-6,6,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.031915,1.626551
+092640200R-7,7,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.036889,1.622500
+092640200R-7A,7A,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.036646,1.622849
+092640200R-8,8,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.032020,1.626482
+092640203U-2,2,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.014716,1.609803
+092640203U-3,3,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.015095,1.609711
+092640203U-4,4,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.015096,1.609724
+092640203U-5,5,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.015420,1.609586
+092640205W-2,2,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.022771,1.619338
+092640205W-2B,2BIS,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.023465,1.619705
+092640205W-346,346,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.023003,1.619429
+092640205W-4,4,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.022835,1.619731
+092640210B-1,1,Place du Moulin,09000,Saint-Jean-de-Verges,CAD,43.012759,1.609770
+092640210B-3,3,Place du Moulin,09000,Saint-Jean-de-Verges,CAD,43.012731,1.609593
+092640215G-11,11,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013352,1.612286
+092640215G-1,1,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013491,1.610808
+092640215G-13,13,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013223,1.612547
+092640215G-15,15,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012943,1.612722
+092640215G-15A,15A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012926,1.612763
+092640215G-1A,1A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013091,1.611781
+092640215G-2,2,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013222,1.611022
+092640215G-2B,2BIS,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013345,1.610919
+092640215G-3,3,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013450,1.611183
+092640215G-347,347,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012561,1.612323
+092640215G-3A,3A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012830,1.612068
+092640215G-5,5,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013298,1.611471
+092640215G-6,6,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013109,1.611426
+092640215G-7,7,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013245,1.611722
+092640215G-9,9,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013575,1.612423
+092640220M-10,10,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.022011,1.620509
+092640220M-11,11,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.022302,1.619521
+092640220M-1,1,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021020,1.618561
+092640220M-15,15,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.023038,1.620191
+092640220M-17,17,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.022955,1.620670
+092640220M-19,19,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.023171,1.620544
+092640220M-21,21,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.023575,1.620055
+092640220M-3,3,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021143,1.618627
+092640220M-4,4,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.020979,1.618710
+092640220M-6,6,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021376,1.618911
+092640220M-7B,7BIS,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021946,1.618319
+092640220M-8,8,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.022009,1.619187
+092640220M-9,9,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021950,1.619012
+092640222P-1,1,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027871,1.614293
+092640222P-2,2,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027654,1.614223
+092640222P-3,3,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027295,1.614089
+092640222P-4,4,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027108,1.613810
+092640225T-10,10,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018749,1.615806
+092640225T-11,11,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.020647,1.617373
+092640225T-1,1,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018832,1.615726
+092640225T-13,13,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.020834,1.617666
+092640225T-13B,13BIS,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.020648,1.618057
+092640225T-14C,14C,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018071,1.617237
+092640225T-14D,14D,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018424,1.617043
+092640225T-15,15,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.021125,1.617216
+092640225T-16,16,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019465,1.616795
+092640225T-18,18,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018843,1.617492
+092640225T-18Q,18QUATER,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.017397,1.617557
+092640225T-20,20,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019975,1.617452
+092640225T-22,22,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.020211,1.618179
+092640225T-24,24,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019877,1.618194
+092640225T-26,26,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.020622,1.618379
+092640225T-26B,26BIS,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.020233,1.618588
+092640225T-3,3,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019553,1.616365
+092640225T-4,4,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.017996,1.614671
+092640225T-5,5,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019710,1.617008
+092640225T-6,6,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.017676,1.615029
+092640225T-8,8,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018123,1.614872
+092640226U-1,1,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019605,1.618197
+092640226U-2,2,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019603,1.617784
+092640226U-3,3,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019223,1.617856
+092640226U-4,4,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019284,1.618232
+092640226U-5,5,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019078,1.618277
+092640235D-1,1,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.028335,1.613529
+092640235D-2,2,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.029500,1.614883
+092640235D-3,3,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030158,1.614485
+092640235D-4,4,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030076,1.614779
+092640235D-5,5,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030159,1.615101
+092640235D-6,6,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030641,1.615675
+092640240J-1,1,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.025108,1.613397
+092640240J-2,2,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024910,1.613172
+092640240J-345,345,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024686,1.614613
+092640240J-7,7,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024433,1.614975
+092640240J-9,9,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024289,1.615281
+092640245P-1,1,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012725,1.610881
+092640245P-2,2,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012676,1.610797
+092640245P-3,3,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012549,1.611729
+092640245P-3A,3A,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012636,1.611921
+092640250V-10,10,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037205,1.621523
+092640250V-12,12,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037147,1.621416
+092640250V-14,14,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037109,1.621353
+092640250V-16,16,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037308,1.621284
+092640250V-18,18,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037423,1.620985
+092640250V-20,20,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037041,1.621240
+092640250V-22,22,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037006,1.621128
+092640250V-2,2,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037129,1.621898
+092640250V-4,4,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037160,1.621815
+092640250V-6,6,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037211,1.621685
+092640250V-8,8,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037238,1.621601
+092640255A-12,12,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013200,1.610645
+092640255A-14,14,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013235,1.610701
+092640255A-16,16,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013280,1.610725
+092640255A-18,18,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013342,1.610731
+092640255A-20,20,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013393,1.610752
+092640255A-20B,20BIS,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013364,1.610817
+092640255A-22,22,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.014037,1.611219
+092640255A-2,2,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.012813,1.610658
+092640255A-4,4,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013110,1.611438
+092640255A-8,8,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.012984,1.610632
+092640260F-10,10,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015006,1.612446
+092640260F-11,11,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015968,1.611925
+092640260F-11A,11A,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.016132,1.612772
+092640260F-1,1,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.014280,1.610788
+092640260F-12B,12BIS,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015460,1.612963
+092640260F-13,13,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.016362,1.612302
+092640260F-14,14,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015882,1.612817
+092640260F-1A,1A,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.014280,1.610795
+092640260F-2,2,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.013972,1.611821
+092640260F-2B,2BIS,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.013842,1.612064
+092640260F-3B,3BIS,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.014407,1.610892
+092640260F-5,5,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.014286,1.611075
+092640260F-6,6,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.014425,1.612437
+092640260F-7,7,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015366,1.612142
+092640260F-8,8,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.014599,1.612633
+092640260F-9,9,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015803,1.612354
+092640265L-10,10,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.018035,1.610154
+092640265L-12,12,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.018052,1.610042
+092640265L-6,6,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.017929,1.610227
+092640265L-8,8,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.017944,1.610173
+092640268P-1,1,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.029728,1.611785
+092640268P-2,2,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028593,1.613947
+092640268P-3,3,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.029504,1.613989
+092640268P-4,4,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028627,1.613570
+092640268P-6,6,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028627,1.613582
+092640268P-8,8,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028778,1.613146
+092640270S-2,2,Impasse des Rosiers,09000,Saint-Jean-de-Verges,CAD,43.028154,1.615866
+092640270S-6,6,Impasse des Rosiers,09000,Saint-Jean-de-Verges,CAD,43.027666,1.615638
+092640270S-8,8,Impasse des Rosiers,09000,Saint-Jean-de-Verges,CAD,43.027480,1.615561
+092640275X-11,11,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017519,1.613078
+092640275X-1,1,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018454,1.611944
+092640275X-13,13,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017366,1.613363
+092640275X-2,2,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.019034,1.611578
+092640275X-3,3,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018200,1.612134
+092640275X-4,4,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.019280,1.611795
+092640275X-5,5,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018045,1.612317
+092640275X-6,6,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.019280,1.611807
+092640275X-7,7,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017862,1.612674
+092640275X-8,8,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018944,1.611944
+092640275X-9,9,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017764,1.612900
+092640278A-2,2,Chemin du Tailleur,09000,Saint-Jean-de-Verges,CAD,43.027876,1.612325
+092640278A-3,3,Chemin du Tailleur,09000,Saint-Jean-de-Verges,CAD,43.027440,1.612193
+092640280C-1,1,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030726,1.626165
+092640280C-2,2,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030510,1.626331
+092640280C-3,3,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030727,1.626404
+092640280C-4,4,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030675,1.626417
+092640280C-5,5,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030795,1.626514
+092640285H-2,2,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.026554,1.614530
+092640285H-3,3,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.026471,1.614981
+092640285H-382,382,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.026471,1.615003
+092640285H-388,388,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.027043,1.615535
+092640285H-5,5,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.027656,1.615954
+092640285H-9,9,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.026912,1.615129
+092640290N-10,10,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011964,1.610838
+092640290N-11,11,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012309,1.611131
+092640290N-11A,11A,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012309,1.611149
+092640290N-1,1,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012674,1.610685
+092640290N-12,12,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011865,1.610856
+092640290N-13,13,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011973,1.610936
+092640290N-14,14,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011771,1.610925
+092640290N-14B,14BIS,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011671,1.610706
+092640290N-18,18,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011542,1.611048
+092640290N-19,19,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011429,1.611291
+092640290N-21,21,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.010330,1.612708
+092640290N-2,2,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012526,1.610541
+092640290N-24,24,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011191,1.611474
+092640290N-3,3,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012606,1.610714
+092640290N-4,4,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012303,1.610673
+092640290N-6,6,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012194,1.610736
+092640290N-7,7,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012512,1.610752
+092640290N-8,8,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012067,1.610763
+092640290N-9,9,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012404,1.610781
+092640295U-1,1,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.028505,1.615373
+092640295U-12,12,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036217,1.622184
+092640295U-13,13,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.033605,1.620049
+092640295U-14,14,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036370,1.621797
+092640295U-15,15,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034056,1.619655
+092640295U-15B,15BIS,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.033894,1.620006
+092640295U-16,16,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036464,1.621880
+092640295U-17,17,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034448,1.618746
+092640295U-19,19,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034257,1.619889
+092640295U-19A,19A,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034210,1.619705
+092640295U-21,21,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034148,1.620096
+092640295U-2,2,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035083,1.621564
+092640295U-23,23,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035351,1.620137
+092640295U-25,25,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036312,1.621692
+092640295U-27,27,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036780,1.621437
+092640295U-29,29,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036660,1.621845
+092640295U-31,31,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.037216,1.622107
+092640295U-33,33,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.037262,1.622132
+092640295U-3,3,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.028649,1.615475
+092640295U-350,350,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.029526,1.615846
+092640295U-35,35,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.037310,1.622157
+092640295U-4,4,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035451,1.621365
+092640295U-5,5,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.029271,1.615097
+092640295U-6,6,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035314,1.622133
+092640295U-8,8,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035543,1.621845
+092640295U-9,9,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.030693,1.616289
+092640300Z-1,1,Chemin de Villeneuve du Bosc,09000,Saint-Jean-de-Verges,CAD,43.001570,1.649472
+092640300Z-3,3,Chemin de Villeneuve du Bosc,09000,Saint-Jean-de-Verges,CAD,43.001104,1.649895
+09264A001U-1,1,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023817,1.622033
+09264A001U-2,2,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023901,1.622936
+09264A001U-3,3,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023957,1.623000
+09264A001U-4,4,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023921,1.623109
+09264A001U-5,5,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023847,1.623082
+09264A001U-6,6,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023364,1.622784
+09264A001U-7,7,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023625,1.622275
+09264A001U-8,8,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023772,1.622001
+09264A002V-1,1,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018454,1.611944
+09264A002V-2,2,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018627,1.611599
+09264A002V-3,3,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018341,1.611679
+09264A002V-4,4,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018167,1.611521
+09264A002V-5,5,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018047,1.610896
+09264A002V-6,6,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018204,1.610987
+09264A002V-7,7,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018491,1.611100
+09264A002V-8,8,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018747,1.611276
+09264A003W-10,10,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017528,1.612284
+09264A003W-14,14,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017723,1.611896
+09264A003W-16,16,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017800,1.611716
+09264A003W-2,2,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017047,1.613184
+09264A003W-4,4,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017202,1.612911
+09264A003W-6,6,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017304,1.612726
+09264A004X-10,10,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016375,1.611414
+09264A004X-11,11,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016720,1.611218
+09264A004X-1,1,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015738,1.611272
+09264A004X-12,12,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016572,1.611418
+09264A004X-13,13,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016912,1.611236
+09264A004X-14,14,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016780,1.611433
+09264A004X-16,16,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016958,1.611435
+09264A004X-2,2,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015643,1.611385
+09264A004X-3,3,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015936,1.611283
+09264A004X-4,4,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015794,1.611391
+09264A004X-5,5,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016152,1.611286
+09264A004X-6,6,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015990,1.611394
+09264A004X-7,7,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016330,1.611296
+09264A004X-8,8,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016194,1.611409
+09264A004X-9,9,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016514,1.611299
+09264A005Y-10,10,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015416,1.611456
+09264A005Y-11,11,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015067,1.612344
+09264A005Y-1,1,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015573,1.610727
+09264A005Y-12,12,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015098,1.612081
+09264A005Y-13,13,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015087,1.611779
+09264A005Y-14,14,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015149,1.611598
+09264A005Y-15,15,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014968,1.611609
+09264A005Y-16,16,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014924,1.611703
+09264A005Y-17,17,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014931,1.611892
+09264A005Y-18,18,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014931,1.612123
+09264A005Y-2,2,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015480,1.611106
+09264A005Y-3,3,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015225,1.610907
+09264A005Y-4,4,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015236,1.610743
+09264A005Y-5,5,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015112,1.610896
+09264A005Y-6,6,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014961,1.610870
+09264A005Y-7,7,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014998,1.611031
+09264A005Y-8,8,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015025,1.611386
+09264A005Y-9,9,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015275,1.611321
+09264A006Z-1,1,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.018541,1.612610
+09264A006Z-2,2,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.018821,1.612623
+09264A006Z-3,3,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.019057,1.612817
+09264A006Z-4,4,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.019199,1.612500
+09264A006Z-7,7,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.018746,1.612120
+09264A010D-10,10,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024263,1.612212
+09264A010D-11,11,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024377,1.612379
+09264A010D-1,1,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024654,1.611921
+09264A010D-2,2,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024430,1.611677
+09264A010D-3,3,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024270,1.611554
+09264A010D-4,4,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023893,1.611322
+09264A010D-5,5,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023586,1.611148
+09264A010D-6,6,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023376,1.611440
+09264A010D-6B,6BIS,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023376,1.611457
+09264A010D-7,7,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023597,1.611781
+09264A010D-8,8,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023832,1.611850
+09264A010D-9,9,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023965,1.612012
+09264A013G-4,4,Lotissement des Noyers,09000,Saint-Jean-de-Verges,CAD,43.014579,1.611900
+09264A013G-5,5,Lotissement des Noyers,09000,Saint-Jean-de-Verges,CAD,43.014314,1.611691
+09264A020P-1,1,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.028796,1.610618
+09264A020P-3,3,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.028400,1.610503
+09264A020P-5,5,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.028149,1.610430
+09264A020P-7,7,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.027836,1.610340
+09264A020P-9,9,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.027421,1.610371
+09264A025V-11,11,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.018924,1.613744
+09264A025V-1,1,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.020605,1.614043
+09264A025V-2,2,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.020575,1.613067
+09264A025V-4,4,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.020304,1.613090
+09264A025V-5,5,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.020244,1.614006
+09264A025V-6,6,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.020109,1.613197
+09264A025V-7,7,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.019661,1.614017
+09264A025V-8,8,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.019817,1.613373
 092800003G-148,148,Rue Albert Sans,09400,Saurat,OSM,42.877669,1.534566
 092800003G-196,196,Rue Albert Sans,09400,Saurat,OSM,42.877535,1.536196
 092820001W-1329,1329,Chemin de l'Autan,09700,Saverdun,CAD,43.232686,1.594283

@@ -11333,12 +11333,12 @@
 070640073D-7,7,Impasse de Jabrezac,07160,Le Cheylard,OSM,44.917570,4.437235
 070640073D-8,8,Impasse de Jabrezac,07160,Le Cheylard,OSM,44.917830,4.437658
 070640073D-9,9,Impasse de Jabrezac,07160,Le Cheylard,OSM,44.917686,4.436875
-070640074E-10,10,Sentier de Noirols,07160,Le Cheylard,CAD,44.905805,4.425438
+070640074E-10,10,Chemin du Calvaire,07160,Le Cheylard,C+O,44.905805,4.425438
 070640074E-1,1,Chemin du Calvaire,07160,Le Cheylard,OSM,44.906390,4.424667
 070640074E-2,2,Chemin du Calvaire,07160,Le Cheylard,OSM,44.906374,4.424652
 070640074E-3,3,Chemin du Calvaire,07160,Le Cheylard,OSM,44.906418,4.424836
 070640074E-5,5,Chemin du Calvaire,07160,Le Cheylard,OSM,44.906456,4.425097
-070640074E-8,8,Sentier de Noirols,07160,Le Cheylard,CAD,44.906305,4.425668
+070640074E-8,8,Chemin du Calvaire,07160,Le Cheylard,C+O,44.906305,4.425668
 070640075F-370,370,Chemin de la Blache,07160,Le Cheylard,OSM,44.919349,4.417224
 070640075F-380,380,Chemin de la Blache,07160,Le Cheylard,OSM,44.918330,4.418270
 070640076G-1,1,Rue du Patronage,07160,Le Cheylard,OSM,44.907302,4.424491
@@ -14154,24 +14154,24 @@
 070780046N-454,454,Rue Émile Zola,07430,Davézieux,C+O,45.252306,4.715030
 070780046N-6352,6352,Rue Émile Zola,07430,Davézieux,C+O,45.252368,4.715339
 070780046N-95,95,Rue Émile Zola,07430,Davézieux,C+O,45.253931,4.710913
-070780048R-173,173,Rue Félicien Vergier,07430,Davézieux,C+O,45.253878,4.703667
-070780048R-18,18,Rue Félicien Vergier,07430,Davézieux,C+O,45.253624,4.705584
-070780048R-184,184,Rue Félicien Vergier,07430,Davézieux,C+O,45.253940,4.703687
-070780048R-220,220,Rue Félicien Vergier,07430,Davézieux,C+O,45.254117,4.703007
-070780048R-235,235,Rue Félicien Vergier,07430,Davézieux,C+O,45.254061,4.703014
-070780048R-246,246,Rue Félicien Vergier,07430,Davézieux,C+O,45.254219,4.702680
-070780048R-292,292,Rue Félicien Vergier,07430,Davézieux,C+O,45.254297,4.702503
-070780048R-306,306,Rue Félicien Vergier,07430,Davézieux,C+O,45.254563,4.702050
-070780048R-34,34,Rue Félicien Vergier,07430,Davézieux,C+O,45.253665,4.705427
-070780048R-361,361,Rue Félicien Vergier,07430,Davézieux,C+O,45.254525,4.701847
-070780048R-382,382,Rue Félicien Vergier,07430,Davézieux,C+O,45.254900,4.701678
-070780048R-395,395,Rue Félicien Vergier,07430,Davézieux,C+O,45.255059,4.701508
-070780048R-408,408,Rue Félicien Vergier,07430,Davézieux,C+O,45.254462,4.702244
-070780048R-412,412,Rue Félicien Vergier,07430,Davézieux,C+O,45.255263,4.701529
-070780048R-417,417,Rue Félicien Vergier,07430,Davézieux,C+O,45.255231,4.701411
-070780048R-6335,6335,Rue Félicien Vergier,07430,Davézieux,C+O,45.253363,4.705433
-070780048R-70,70,Rue Félicien Vergier,07430,Davézieux,C+O,45.253690,4.705156
-070780048R-82,82,Rue Félicien Vergier,07430,Davézieux,C+O,45.253680,4.704830
+070780048R-173,173,Rue Felicien Vergier,07430,Davézieux,C+O,45.253878,4.703667
+070780048R-18,18,Rue Felicien Vergier,07430,Davézieux,C+O,45.253624,4.705584
+070780048R-184,184,Rue Felicien Vergier,07430,Davézieux,C+O,45.253940,4.703687
+070780048R-220,220,Rue Felicien Vergier,07430,Davézieux,C+O,45.254117,4.703007
+070780048R-235,235,Rue Felicien Vergier,07430,Davézieux,C+O,45.254061,4.703014
+070780048R-246,246,Rue Felicien Vergier,07430,Davézieux,C+O,45.254219,4.702680
+070780048R-292,292,Rue Felicien Vergier,07430,Davézieux,C+O,45.254297,4.702503
+070780048R-306,306,Rue Felicien Vergier,07430,Davézieux,C+O,45.254563,4.702050
+070780048R-34,34,Rue Felicien Vergier,07430,Davézieux,C+O,45.253665,4.705427
+070780048R-361,361,Rue Felicien Vergier,07430,Davézieux,C+O,45.254525,4.701847
+070780048R-382,382,Rue Felicien Vergier,07430,Davézieux,C+O,45.254900,4.701678
+070780048R-395,395,Rue Felicien Vergier,07430,Davézieux,C+O,45.255059,4.701508
+070780048R-408,408,Rue Felicien Vergier,07430,Davézieux,C+O,45.254462,4.702244
+070780048R-412,412,Rue Felicien Vergier,07430,Davézieux,C+O,45.255263,4.701529
+070780048R-417,417,Rue Felicien Vergier,07430,Davézieux,C+O,45.255231,4.701411
+070780048R-6335,6335,Rue Felicien Vergier,07430,Davézieux,C+O,45.253363,4.705433
+070780048R-70,70,Rue Felicien Vergier,07430,Davézieux,C+O,45.253690,4.705156
+070780048R-82,82,Rue Felicien Vergier,07430,Davézieux,C+O,45.253680,4.704830
 070780053W-26,26,Rue de la Fontaine,07430,Davézieux,CAD,45.254312,4.706512
 070780056Z-30,30,Route du Forez,07430,Davézieux,C+O,45.255662,4.707601
 070780056Z-326,326,Route du Forez,07430,Davézieux,C+O,45.258043,4.706004
@@ -27861,18 +27861,18 @@
 072170069J-765,765,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.036232,4.729927
 072170069J-785,785,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.036364,4.729950
 072170069J-805,805,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.036458,4.729738
-072170071L-100,100,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.035386,4.747631
-072170071L-1420,1420,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.043334,4.757948
-072170071L-190,190,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.036026,4.748310
-072170071L-2175A,2175A,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.048070,4.764024
-072170071L-2175B,2175B,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.047355,4.763409
-072170071L-2925,2925,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.048928,4.768195
-072170071L-605,605,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.038506,4.751707
-072170071L-625,625,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.038890,4.751982
-072170071L-725,725,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.039440,4.752247
-072170071L-765,765,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.039858,4.752685
-072170071L-90,90,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.035321,4.747396
-072170071L-970,970,Chemin de la Tuiliere,07300,Saint-Barthélemy-le-Plain,CAD,45.041568,4.753469
+072170071L-100,100,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.035386,4.747631
+072170071L-1420,1420,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.043334,4.757948
+072170071L-190,190,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.036026,4.748310
+072170071L-2175A,2175A,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.048070,4.764024
+072170071L-2175B,2175B,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.047355,4.763409
+072170071L-2925,2925,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.048928,4.768195
+072170071L-605,605,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.038506,4.751707
+072170071L-625,625,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.038890,4.751982
+072170071L-725,725,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.039440,4.752247
+072170071L-765,765,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.039858,4.752685
+072170071L-90,90,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.035321,4.747396
+072170071L-970,970,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.041568,4.753469
 072170072M-250,250,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.056758,4.783128
 072170072M-335,335,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.057737,4.782821
 072170072M-345,345,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.057841,4.783097
