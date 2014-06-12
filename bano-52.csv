@@ -2039,18 +2039,6 @@
 520600440Y-6,6,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.954955,5.748875
 520600440Y-7,7,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.955037,5.748917
 520600440Y-8,8,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.954958,5.748928
-520600441Z-10,10,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951200,5.749451
-520600441Z-12,12,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951158,5.749525
-520600441Z-14,14,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951125,5.749755
-520600441Z-16,16,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951021,5.751221
-520600441Z-18,18,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951055,5.751274
-520600441Z-20,20,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951068,5.751459
-520600441Z-22,22,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951062,5.751590
-520600441Z-2,2,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951429,5.749272
-520600441Z-24,24,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951072,5.751660
-520600441Z-26,26,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951085,5.751751
-520600441Z-4,4,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951351,5.749323
-520600441Z-8,8,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951243,5.749393
 520600450J-11,11,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953019,5.747793
 520600450J-1,1,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953524,5.747981
 520600450J-13,13,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.952957,5.747739
@@ -14272,154 +14260,306 @@
 521690170F-7,7,Rue Saint-Benigne,52130,Domblain,CAD,48.471207,4.992957
 521690170F-9,9,Rue Saint-Benigne,52130,Domblain,CAD,48.471089,4.993055
 521710001N-2,2,Rue du Calvaire,52110,Dommartin-le-Franc,CAD,48.427742,4.961312
+521710001N-2,2,Rue du Calvaire,52110,Dommartin-le-Franc,CAD,48.427742,4.961312
+521710005T-3,3,Rue des Canons,52110,Dommartin-le-Franc,CAD,48.428603,4.955515
 521710005T-3,3,Rue des Canons,52110,Dommartin-le-Franc,CAD,48.428603,4.955515
 521710005T-5,5,Rue des Canons,52110,Dommartin-le-Franc,CAD,48.428765,4.955440
+521710005T-5,5,Rue des Canons,52110,Dommartin-le-Franc,CAD,48.428765,4.955440
+521710010Y-11,11,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.432670,4.961403
 521710010Y-11,11,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.432670,4.961403
 521710010Y-13,13,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.433381,4.961322
+521710010Y-13,13,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.433381,4.961322
+521710010Y-5,5,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.432199,4.960992
 521710010Y-5,5,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.432199,4.960992
 521710010Y-7,7,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.432485,4.961118
+521710010Y-7,7,Rue de Chanlaire,52110,Dommartin-le-Franc,CAD,48.432485,4.961118
+521710015D-10,10,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428020,4.956754
 521710015D-10,10,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428020,4.956754
 521710015D-11,11,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427787,4.957969
+521710015D-11,11,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427787,4.957969
+521710015D-13,13,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427838,4.957652
 521710015D-13,13,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427838,4.957652
 521710015D-14,14,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428214,4.955478
+521710015D-14,14,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428214,4.955478
+521710015D-16,16,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428275,4.955119
 521710015D-16,16,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428275,4.955119
 521710015D-17,17,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427878,4.957240
+521710015D-17,17,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427878,4.957240
+521710015D-18,18,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428347,4.954898
 521710015D-18,18,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428347,4.954898
 521710015D-19,19,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427891,4.957034
+521710015D-19,19,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427891,4.957034
+521710015D-20,20,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428397,4.954666
 521710015D-20,20,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428397,4.954666
 521710015D-22,22,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428442,4.954457
+521710015D-22,22,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428442,4.954457
+521710015D-23,23,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427442,4.957206
 521710015D-23,23,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427442,4.957206
 521710015D-24,24,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428534,4.954089
+521710015D-24,24,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428534,4.954089
+521710015D-26,26,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428583,4.953864
 521710015D-26,26,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428583,4.953864
 521710015D-29,29,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427939,4.956589
+521710015D-29,29,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427939,4.956589
+521710015D-31,31,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427594,4.956200
 521710015D-31,31,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427594,4.956200
 521710015D-33,33,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428078,4.955586
+521710015D-33,33,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428078,4.955586
+521710015D-3,3,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427475,4.959078
 521710015D-3,3,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427475,4.959078
 521710015D-35,35,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428138,4.955342
+521710015D-35,35,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428138,4.955342
+521710015D-37,37,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428160,4.955246
 521710015D-37,37,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428160,4.955246
 521710015D-39,39,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428234,4.955021
+521710015D-39,39,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428234,4.955021
+521710015D-41,41,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428300,4.954653
 521710015D-41,41,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428300,4.954653
 521710015D-4,4,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427857,4.958479
+521710015D-4,4,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427857,4.958479
+521710015D-47,47,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428767,4.953110
 521710015D-47,47,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428767,4.953110
 521710015D-5,5,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427664,4.958480
+521710015D-5,5,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427664,4.958480
+521710015D-6,6,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427994,4.957556
 521710015D-6,6,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427994,4.957556
 521710015D-8,8,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428011,4.957196
+521710015D-8,8,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.428011,4.957196
+521710015D-9,9,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427732,4.958215
 521710015D-9,9,Rue Charles de Gaulle,52110,Dommartin-le-Franc,CAD,48.427732,4.958215
 521710020J-10,10,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427822,4.953440
+521710020J-10,10,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427822,4.953440
+521710020J-12,12,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427724,4.953331
 521710020J-12,12,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427724,4.953331
 521710020J-14,14,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427592,4.953344
+521710020J-14,14,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427592,4.953344
+521710020J-2,2,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.428449,4.953743
 521710020J-2,2,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.428449,4.953743
 521710020J-6,6,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.428159,4.953588
+521710020J-6,6,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.428159,4.953588
+521710020J-8,8,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427967,4.953502
 521710020J-8,8,Rue Charles de Magnienville,52110,Dommartin-le-Franc,CAD,48.427967,4.953502
 521710025P-10,10,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427522,4.959695
+521710025P-10,10,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427522,4.959695
+521710025P-11,11,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427515,4.959818
 521710025P-11,11,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427515,4.959818
 521710025P-2,2,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427346,4.960142
+521710025P-2,2,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427346,4.960142
+521710025P-4,4,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427220,4.960145
 521710025P-4,4,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427220,4.960145
 521710025P-5,5,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427030,4.960391
+521710025P-5,5,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427030,4.960391
+521710025P-6,6,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427085,4.960265
 521710025P-6,6,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427085,4.960265
 521710025P-7,7,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.426977,4.959892
+521710025P-7,7,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.426977,4.959892
+521710025P-8,8,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427038,4.959894
 521710025P-8,8,Place du Gen de Dommartin,52110,Dommartin-le-Franc,CAD,48.427038,4.959894
 521710030V-10,10,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.427916,4.962834
+521710030V-10,10,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.427916,4.962834
+521710030V-12,12,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.427907,4.962946
 521710030V-12,12,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.427907,4.962946
 521710030V-3,3,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.427449,4.960665
+521710030V-3,3,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.427449,4.960665
+521710030V-7,7,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.428061,4.962478
 521710030V-7,7,Rue Jean Sire,52110,Dommartin-le-Franc,CAD,48.428061,4.962478
 521710035A-1,1,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427242,4.962742
+521710035A-1,1,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427242,4.962742
+521710035A-12,12,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427015,4.963249
 521710035A-12,12,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427015,4.963249
 521710035A-14,14,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.426958,4.963403
+521710035A-14,14,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.426958,4.963403
+521710035A-3,3,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427141,4.963023
 521710035A-3,3,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427141,4.963023
 521710035A-4,4,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.426819,4.962776
+521710035A-4,4,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.426819,4.962776
+521710035A-6,6,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427190,4.962630
 521710035A-6,6,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427190,4.962630
 521710035A-8,8,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427122,4.962910
+521710035A-8,8,Rue Lamartine,52110,Dommartin-le-Franc,CAD,48.427122,4.962910
+521710040F-11,11,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426228,4.961212
 521710040F-11,11,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426228,4.961212
 521710040F-13,13,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426316,4.961299
+521710040F-13,13,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426316,4.961299
+521710040F-14,14,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.425697,4.960947
 521710040F-14,14,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.425697,4.960947
 521710040F-15,15,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426414,4.961398
+521710040F-15,15,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426414,4.961398
+521710040F-16,16,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426509,4.961725
 521710040F-16,16,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426509,4.961725
 521710040F-17,17,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426569,4.961551
+521710040F-17,17,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426569,4.961551
+521710040F-18,18,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426905,4.962058
 521710040F-18,18,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426905,4.962058
 521710040F-19,19,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426829,4.961809
+521710040F-19,19,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426829,4.961809
+521710040F-20,20,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427157,4.962295
 521710040F-20,20,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427157,4.962295
 521710040F-21,21,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427071,4.962033
+521710040F-21,21,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427071,4.962033
+521710040F-22,22,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427216,4.962389
 521710040F-22,22,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427216,4.962389
 521710040F-25,25,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427525,4.962972
+521710040F-25,25,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427525,4.962972
+521710040F-27,27,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427828,4.963184
 521710040F-27,27,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427828,4.963184
 521710040F-29,29,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428048,4.963241
+521710040F-29,29,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428048,4.963241
+521710040F-30,30,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427716,4.963337
 521710040F-30,30,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.427716,4.963337
 521710040F-32,32,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428160,4.963440
+521710040F-32,32,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428160,4.963440
+521710040F-33,33,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428417,4.963335
 521710040F-33,33,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428417,4.963335
 521710040F-34,34,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428279,4.963459
+521710040F-34,34,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428279,4.963459
+521710040F-36,36,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428401,4.963488
 521710040F-36,36,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.428401,4.963488
 521710040F-42,42,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.429430,4.963299
+521710040F-42,42,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.429430,4.963299
+521710040F-4,4,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.424057,4.958859
 521710040F-4,4,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.424057,4.958859
 521710040F-6,6,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.424260,4.959465
+521710040F-6,6,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.424260,4.959465
+521710040F-8,8,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.424836,4.960174
 521710040F-8,8,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.424836,4.960174
 521710040F-9,9,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426112,4.961099
+521710040F-9,9,Rue Mal de Lattre de Tassigny,52110,Dommartin-le-Franc,CAD,48.426112,4.961099
+521710045L-11,11,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428934,4.960684
 521710045L-11,11,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428934,4.960684
 521710045L-12,12,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.429881,4.961443
+521710045L-12,12,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.429881,4.961443
+521710045L-12B,12BIS,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430267,4.961849
 521710045L-12B,12BIS,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430267,4.961849
 521710045L-13,13,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.429406,4.960563
+521710045L-13,13,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.429406,4.960563
+521710045L-14,14,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430359,4.961583
 521710045L-14,14,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430359,4.961583
 521710045L-16,16,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430555,4.961630
+521710045L-16,16,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430555,4.961630
+521710045L-17,17,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430894,4.961701
 521710045L-17,17,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430894,4.961701
 521710045L-18,18,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430717,4.961686
+521710045L-18,18,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430717,4.961686
+521710045L-19,19,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431154,4.961746
 521710045L-19,19,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431154,4.961746
 521710045L-1B,1BIS,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.427575,4.959986
+521710045L-1B,1BIS,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.427575,4.959986
+521710045L-20,20,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430942,4.961983
 521710045L-20,20,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.430942,4.961983
 521710045L-21,21,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431550,4.961679
+521710045L-21,21,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431550,4.961679
+521710045L-22,22,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431201,4.961852
 521710045L-22,22,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431201,4.961852
 521710045L-24,24,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431438,4.961894
+521710045L-24,24,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.431438,4.961894
+521710045L-3,3,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.427682,4.960116
 521710045L-3,3,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.427682,4.960116
 521710045L-5,5,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428054,4.960401
+521710045L-5,5,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428054,4.960401
+521710045L-6,6,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428257,4.960989
 521710045L-6,6,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428257,4.960989
 521710045L-7,7,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428175,4.960539
+521710045L-7,7,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428175,4.960539
+521710045L-8,8,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428732,4.960997
 521710045L-8,8,Rue du Mal Leclerc,52110,Dommartin-le-Franc,CAD,48.428732,4.960997
 521710048P-4,4,Route de Morancourt,52110,Dommartin-le-Franc,CAD,48.427817,4.966812
+521710048P-4,4,Route de Morancourt,52110,Dommartin-le-Franc,CAD,48.427817,4.966812
+521710050S-10,10,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426644,4.960083
 521710050S-10,10,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426644,4.960083
 521710050S-11,11,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426496,4.960395
+521710050S-11,11,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426496,4.960395
+521710050S-1,1,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.427543,4.960218
 521710050S-1,1,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.427543,4.960218
 521710050S-13,13,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426372,4.960338
+521710050S-13,13,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426372,4.960338
+521710050S-15,15,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.425889,4.960123
 521710050S-15,15,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.425889,4.960123
 521710050S-16,16,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426473,4.960255
+521710050S-16,16,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426473,4.960255
+521710050S-17,17,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.425616,4.960041
 521710050S-17,17,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.425616,4.960041
 521710050S-19,19,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.425406,4.960026
+521710050S-19,19,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.425406,4.960026
+521710050S-2,2,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.427357,4.960526
 521710050S-2,2,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.427357,4.960526
 521710050S-4,4,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.427181,4.960456
+521710050S-4,4,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.427181,4.960456
+521710050S-8,8,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426659,4.960353
 521710050S-8,8,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426659,4.960353
 521710050S-9,9,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426575,4.960432
+521710050S-9,9,Rue Philippe Lebon,52110,Dommartin-le-Franc,CAD,48.426575,4.960432
+521710055X-10,10,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427100,4.963442
 521710055X-10,10,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427100,4.963442
 521710055X-1,1,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427558,4.963470
+521710055X-1,1,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427558,4.963470
+521710055X-12,12,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426863,4.963542
 521710055X-12,12,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426863,4.963542
 521710055X-12B,12BIS,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426756,4.963619
+521710055X-12B,12BIS,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426756,4.963619
+521710055X-13,13,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.425770,4.964924
 521710055X-13,13,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.425770,4.964924
 521710055X-14,14,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426682,4.963434
+521710055X-14,14,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426682,4.963434
+521710055X-20,20,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426227,4.963889
+521710055X-20,20,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426227,4.963889
+521710055X-2,2,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427352,4.963188
 521710055X-2,2,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427352,4.963188
 521710055X-3,3,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427355,4.963523
+521710055X-3,3,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427355,4.963523
+521710055X-7,7,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426903,4.963699
 521710055X-7,7,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.426903,4.963699
 521710055X-8,8,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427182,4.963412
+521710055X-8,8,Rue Saint-Martin,52110,Dommartin-le-Franc,CAD,48.427182,4.963412
+521710060C-10,10,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427422,4.961806
 521710060C-10,10,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427422,4.961806
 521710060C-1,1,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427804,4.962393
+521710060C-1,1,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427804,4.962393
+521710060C-12,12,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427277,4.961776
 521710060C-12,12,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427277,4.961776
 521710060C-14,14,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427201,4.961687
+521710060C-14,14,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427201,4.961687
+521710060C-16,16,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.426960,4.961492
 521710060C-16,16,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.426960,4.961492
 521710060C-20,20,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.426531,4.961192
+521710060C-20,20,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.426531,4.961192
+521710060C-22,22,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.426146,4.960863
 521710060C-22,22,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.426146,4.960863
 521710060C-2,2,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427923,4.962541
+521710060C-2,2,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427923,4.962541
+521710060C-6,6,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427768,4.962275
 521710060C-6,6,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427768,4.962275
 521710060C-8,8,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427491,4.962017
+521710060C-8,8,Rue des Vignes,52110,Dommartin-le-Franc,CAD,48.427491,4.962017
+521790020Z-1,1,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447690,4.956970
 521790020Z-1,1,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447690,4.956970
 521790020Z-2,2,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447305,4.957034
+521790020Z-2,2,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447305,4.957034
+521790020Z-3,3,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447496,4.956905
 521790020Z-3,3,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447496,4.956905
 521790020Z-5,5,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447134,4.956797
+521790020Z-5,5,Rue Charles de Gaulle,52130,Doulevant-le-Petit,CAD,48.447134,4.956797
+521790035R-1,1,Allée de la Fontaine,52130,Doulevant-le-Petit,CAD,48.447126,4.956447
 521790035R-1,1,Allée de la Fontaine,52130,Doulevant-le-Petit,CAD,48.447126,4.956447
 521790035R-2,2,Allée de la Fontaine,52130,Doulevant-le-Petit,CAD,48.447179,4.956279
+521790035R-2,2,Allée de la Fontaine,52130,Doulevant-le-Petit,CAD,48.447179,4.956279
+521790050G-1,1,Rue Jômeray,52130,Doulevant-le-Petit,CAD,48.448329,4.955738
 521790050G-1,1,Rue Jômeray,52130,Doulevant-le-Petit,CAD,48.448329,4.955738
 521790050G-3,3,Rue Jômeray,52130,Doulevant-le-Petit,CAD,48.447354,4.956508
+521790050G-3,3,Rue Jômeray,52130,Doulevant-le-Petit,CAD,48.447354,4.956508
+521790095F-10,10,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447088,4.958919
 521790095F-10,10,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447088,4.958919
 521790095F-1,1,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447020,4.957556
+521790095F-1,1,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447020,4.957556
+521790095F-2,2,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447079,4.957828
 521790095F-2,2,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447079,4.957828
 521790095F-3,3,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.446969,4.958252
+521790095F-3,3,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.446969,4.958252
+521790095F-4,4,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447048,4.958236
 521790095F-4,4,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447048,4.958236
 521790095F-6,6,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447134,4.958524
+521790095F-6,6,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447134,4.958524
+521790095F-8,8,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447275,4.958770
 521790095F-8,8,Rue Saint-Louvent,52130,Doulevant-le-Petit,CAD,48.447275,4.958770
 521800005D-10,10,Rue de la Chapelle,52220,Droyes,CAD,48.513032,4.695906
 521800005D-11,11,Rue de la Chapelle,52220,Droyes,CAD,48.513017,4.695737
@@ -16464,8 +16604,6 @@
 522500460U-7,7,Rue Aristide Briand,52300,Joinville,C+O,48.442758,5.142265
 522500460U-8,8,Rue Aristide Briand,52300,Joinville,C+O,48.443001,5.142467
 522500460U-9,9,Rue Aristide Briand,52300,Joinville,C+O,48.442631,5.142162
-522500470E-1,1,Petite Rue Petite Rue de l'Auditoire,52300,Joinville,CAD,48.442613,5.137555
-522500470E-2,2,Petite Rue Petite Rue de l'Auditoire,52300,Joinville,CAD,48.442675,5.137208
 522500480R-10,10,Rue de l'Auditoire,52300,Joinville,C+O,48.443029,5.137782
 522500480R-11,11,Rue de l'Auditoire,52300,Joinville,C+O,48.443008,5.137675
 522500480R-12,12,Rue de l'Auditoire,52300,Joinville,C+O,48.442871,5.137777
@@ -18579,86 +18717,170 @@
 522660025B-7,7,Impasse de la Houpette,52220,Laneuville-à-Rémy,CAD,48.476094,4.888497
 522660025B-9,9,Impasse de la Houpette,52220,Laneuville-à-Rémy,CAD,48.476071,4.888879
 522670001W-10,10,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630292,4.857394
+522670001W-10,10,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630292,4.857394
+522670001W-11,11,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629532,4.856922
 522670001W-11,11,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629532,4.856922
 522670001W-1,1,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629062,4.858392
+522670001W-1,1,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629062,4.858392
+522670001W-12,12,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630016,4.857011
 522670001W-12,12,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630016,4.857011
 522670001W-13,13,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629118,4.856248
+522670001W-13,13,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629118,4.856248
+522670001W-14,14,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629657,4.856855
 522670001W-14,14,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629657,4.856855
 522670001W-16,16,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629748,4.856636
+522670001W-16,16,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629748,4.856636
+522670001W-17,17,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630228,4.855686
 522670001W-17,17,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630228,4.855686
 522670001W-18,18,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629888,4.856348
+522670001W-18,18,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629888,4.856348
+522670001W-19,19,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630316,4.855570
 522670001W-19,19,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630316,4.855570
 522670001W-20,20,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629944,4.856253
+522670001W-20,20,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629944,4.856253
+522670001W-21,21,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630383,4.855484
 522670001W-21,21,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630383,4.855484
 522670001W-22,22,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630013,4.856148
+522670001W-22,22,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630013,4.856148
+522670001W-2,2,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629168,4.858357
 522670001W-2,2,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629168,4.858357
 522670001W-24,24,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630392,4.855643
+522670001W-24,24,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630392,4.855643
+522670001W-26,26,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630552,4.855434
 522670001W-26,26,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630552,4.855434
 522670001W-28,28,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630776,4.855131
+522670001W-28,28,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630776,4.855131
+522670001W-30,30,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630825,4.855051
 522670001W-30,30,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630825,4.855051
 522670001W-32,32,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630966,4.854809
+522670001W-32,32,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.630966,4.854809
+522670001W-3,3,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629113,4.858224
 522670001W-3,3,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629113,4.858224
 522670001W-34,34,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.631132,4.854485
+522670001W-34,34,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.631132,4.854485
+522670001W-4,4,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629262,4.858038
 522670001W-4,4,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629262,4.858038
 522670001W-5,5,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629201,4.857923
+522670001W-5,5,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629201,4.857923
+522670001W-6,6,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629347,4.857762
 522670001W-6,6,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629347,4.857762
 522670001W-6B,6BIS,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629998,4.857758
+522670001W-6B,6BIS,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629998,4.857758
+522670001W-7,7,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629316,4.857538
 522670001W-7,7,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629316,4.857538
 522670001W-8,8,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629528,4.857201
+522670001W-8,8,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.629528,4.857201
+522670001W-9,9,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.628990,4.856949
 522670001W-9,9,Rue d'ambrières,52100,Laneuville-au-Pont,CAD,48.628990,4.856949
 522670005A-11,11,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632878,4.860516
+522670005A-11,11,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632878,4.860516
+522670005A-1,1,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.631593,4.860855
 522670005A-1,1,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.631593,4.860855
 522670005A-2,2,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632070,4.860562
+522670005A-2,2,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632070,4.860562
+522670005A-3,3,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632123,4.860485
 522670005A-3,3,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632123,4.860485
 522670005A-4,4,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632273,4.860396
+522670005A-4,4,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632273,4.860396
+522670005A-5,5,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632549,4.860010
 522670005A-5,5,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632549,4.860010
 522670005A-7,7,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632615,4.860233
+522670005A-7,7,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632615,4.860233
+522670005A-7B,7BIS,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632992,4.859724
 522670005A-7B,7BIS,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.632992,4.859724
 522670005A-9,9,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.633031,4.860674
+522670005A-9,9,Chemin du Bacq,52100,Laneuville-au-Pont,CAD,48.633031,4.860674
+522670010F-11,11,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632131,4.857384
 522670010F-11,11,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632131,4.857384
 522670010F-1,1,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.631312,4.858513
+522670010F-1,1,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.631312,4.858513
+522670010F-13,13,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632661,4.857474
 522670010F-13,13,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632661,4.857474
 522670010F-15,15,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632800,4.857205
+522670010F-15,15,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632800,4.857205
+522670010F-17,17,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632893,4.857004
 522670010F-17,17,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632893,4.857004
 522670010F-19,19,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632966,4.856828
+522670010F-19,19,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632966,4.856828
+522670010F-2,2,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.631277,4.858655
 522670010F-2,2,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.631277,4.858655
 522670010F-23,23,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632801,4.855978
+522670010F-23,23,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632801,4.855978
+522670010F-25,25,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633272,4.856208
 522670010F-25,25,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633272,4.856208
 522670010F-27,27,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633386,4.855987
+522670010F-27,27,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633386,4.855987
+522670010F-29,29,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633510,4.855756
 522670010F-29,29,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633510,4.855756
 522670010F-3,3,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633106,4.855227
+522670010F-3,3,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.633106,4.855227
+522670010F-7,7,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.631842,4.857874
 522670010F-7,7,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.631842,4.857874
 522670010F-9,9,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632257,4.858057
+522670010F-9,9,Chemin du Bas des Vignes,52100,Laneuville-au-Pont,CAD,48.632257,4.858057
+522670015L-10,10,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628939,4.859699
 522670015L-10,10,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628939,4.859699
 522670015L-11,11,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628797,4.860603
+522670015L-11,11,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628797,4.860603
+522670015L-1,1,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629092,4.858792
 522670015L-1,1,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629092,4.858792
 522670015L-12,12,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628392,4.859753
+522670015L-12,12,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628392,4.859753
+522670015L-13,13,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628691,4.860678
 522670015L-13,13,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628691,4.860678
 522670015L-14,14,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628872,4.860036
+522670015L-14,14,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628872,4.860036
+522670015L-16,16,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628830,4.860209
 522670015L-16,16,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628830,4.860209
 522670015L-1B,1BIS,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629428,4.858623
+522670015L-1B,1BIS,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629428,4.858623
+522670015L-2,2,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629015,4.858874
 522670015L-2,2,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629015,4.858874
 522670015L-3,3,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629309,4.859118
+522670015L-3,3,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629309,4.859118
+522670015L-4,4,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629016,4.859011
 522670015L-4,4,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629016,4.859011
 522670015L-5,5,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629058,4.859456
+522670015L-5,5,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629058,4.859456
+522670015L-6,6,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629017,4.859126
 522670015L-6,6,Rue du Château,52100,Laneuville-au-Pont,CAD,48.629017,4.859126
 522670015L-7,7,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628963,4.859929
+522670015L-7,7,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628963,4.859929
+522670015L-8,8,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628962,4.859466
 522670015L-8,8,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628962,4.859466
 522670015L-8B,8BIS,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628962,4.859485
+522670015L-8B,8BIS,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628962,4.859485
+522670015L-9,9,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628876,4.860303
 522670015L-9,9,Rue du Château,52100,Laneuville-au-Pont,CAD,48.628876,4.860303
 522670020S-3,3,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627817,4.858989
+522670020S-3,3,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627817,4.858989
+522670020S-4,4,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.628571,4.858320
 522670020S-4,4,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.628571,4.858320
 522670020S-5,5,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627684,4.859312
+522670020S-5,5,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627684,4.859312
+522670020S-5B,5BIS,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627632,4.859448
 522670020S-5B,5BIS,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627632,4.859448
 522670020S-6,6,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.628041,4.858470
+522670020S-6,6,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.628041,4.858470
+522670020S-7,7,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627537,4.859699
 522670020S-7,7,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627537,4.859699
 522670020S-9,9,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627463,4.859898
+522670020S-9,9,Rue des Côtes Noires,52100,Laneuville-au-Pont,CAD,48.627463,4.859898
+522670023V-1,1,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.626457,4.861933
 522670023V-1,1,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.626457,4.861933
 522670023V-2,2,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.620092,4.870059
+522670023V-2,2,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.620092,4.870059
 522670023V-4,4,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.622796,4.868303
+522670023V-4,4,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.622796,4.868303
+522670023V-5,5,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.620635,4.883277
+522670023V-5,5,Route de Moeslains,52100,Laneuville-au-Pont,CAD,48.620635,4.883277
+522670025X-1,1,Chemin des Moines,52100,Laneuville-au-Pont,CAD,48.628898,4.856463
 522670025X-1,1,Chemin des Moines,52100,Laneuville-au-Pont,CAD,48.628898,4.856463
 522670025X-2,2,Chemin des Moines,52100,Laneuville-au-Pont,CAD,48.628987,4.856369
+522670025X-2,2,Chemin des Moines,52100,Laneuville-au-Pont,CAD,48.628987,4.856369
 522670030C-2,2,Rue Saint-Lumier,52100,Laneuville-au-Pont,CAD,48.630082,4.859283
+522670030C-2,2,Rue Saint-Lumier,52100,Laneuville-au-Pont,CAD,48.630082,4.859283
+522670030C-3,3,Rue Saint-Lumier,52100,Laneuville-au-Pont,CAD,48.630553,4.859327
 522670030C-3,3,Rue Saint-Lumier,52100,Laneuville-au-Pont,CAD,48.630553,4.859327
 522690010X-1,1,Place de l'Abbé Cordier,52200,Langres,C+O,47.864964,5.335170
 522690010X-2,2,Place de l'Abbé Cordier,52200,Langres,C+O,47.865150,5.334844
@@ -19855,6 +20077,14 @@
 522690530M-7,7,Rue du Grand Cloître,52200,Langres,C+O,47.862631,5.334551
 522690530M-8,8,Rue du Grand Cloître,52200,Langres,C+O,47.862486,5.335016
 522690530M-9,9,Rue du Grand Cloître,52200,Langres,C+O,47.862612,5.334625
+522690532P-10,10,Grande Rue de Sous-Murs,52200,Langres,C+O,47.863707,5.337982
+522690532P-1,1,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862875,5.336663
+522690532P-2,2,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862771,5.336698
+522690532P-3,3,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862947,5.336766
+522690532P-4,4,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862837,5.336764
+522690532P-6,6,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862865,5.336800
+522690532P-7,7,Grande Rue de Sous-Murs,52200,Langres,C+O,47.863065,5.337006
+522690532P-8,8,Grande Rue de Sous-Murs,52200,Langres,C+O,47.862924,5.336864
 522690533R-2,2,Ruelle de la Grange au Sel,52200,Langres,C+O,47.865141,5.331053
 522690535T-10,10,Rue Henri Dunant,52200,Langres,CAD,47.854516,5.336054
 522690535T-1,1,Rue Henri Dunant,52200,Langres,CAD,47.852969,5.335914
