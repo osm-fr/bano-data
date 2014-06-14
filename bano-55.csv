@@ -4384,6 +4384,292 @@
 551940030K-1,1,Rue des Juifs,55250,Foucaucourt-sur-Thabas,CAD,49.000693,5.099309
 551940030K-2,2,Rue des Juifs,55250,Foucaucourt-sur-Thabas,CAD,49.000657,5.099696
 551940030K-4,4,Rue des Juifs,55250,Foucaucourt-sur-Thabas,CAD,49.000799,5.100072
+551980005R-10,10,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096070,5.629510
+551980005R-11,11,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095881,5.629250
+551980005R-1,1,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095606,5.630152
+551980005R-12,12,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096147,5.629273
+551980005R-13,13,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095931,5.629098
+551980005R-14,14,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096202,5.629110
+551980005R-14B,14BIS,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096388,5.629258
+551980005R-15,15,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096013,5.628850
+551980005R-15A,15A,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095878,5.628764
+551980005R-16,16,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096288,5.628861
+551980005R-21,21,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096230,5.628193
+551980005R-2,2,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096073,5.630531
+551980005R-23,23,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095641,5.627706
+551980005R-3,3,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095653,5.629994
+551980005R-4,4,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095918,5.630142
+551980005R-5,5,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095698,5.629857
+551980005R-7,7,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095738,5.629724
+551980005R-8,8,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.096027,5.629659
+551980005R-9,9,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095811,5.629479
+551980005R-9B,9BIS,Rue André Maginot,55160,Fresnes-en-Woëvre,C+O,49.095675,5.629414
+551980010W-1,1,Rue de Bonnétage,55160,Fresnes-en-Woëvre,C+O,49.096687,5.631607
+551980010W-2,2,Rue de Bonnétage,55160,Fresnes-en-Woëvre,C+O,49.096481,5.631606
+551980010W-3,3,Rue de Bonnétage,55160,Fresnes-en-Woëvre,C+O,49.096405,5.631399
+551980010W-4,4,Rue de Bonnétage,55160,Fresnes-en-Woëvre,C+O,49.096328,5.631503
+551980010W-5,5,Rue de Bonnétage,55160,Fresnes-en-Woëvre,C+O,49.095970,5.630972
+551980015B-19,19,Rue de Bonzée,55160,Fresnes-en-Woëvre,CAD,49.097120,5.625001
+551980015B-2,2,Rue de Bonzée,55160,Fresnes-en-Woëvre,CAD,49.097130,5.626028
+551980015B-23,23,Rue de Bonzée,55160,Fresnes-en-Woëvre,CAD,49.097226,5.624231
+551980015B-4,4,Rue de Bonzée,55160,Fresnes-en-Woëvre,CAD,49.097215,5.626538
+551980015B-6,6,Rue de Bonzée,55160,Fresnes-en-Woëvre,CAD,49.097560,5.625180
+551980020G-12,12,Rue du Château,55160,Fresnes-en-Woëvre,C+O,49.094406,5.631615
+551980020G-9,9,Rue du Château,55160,Fresnes-en-Woëvre,C+O,49.093964,5.630459
+551980022J-10,10,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096500,5.626931
+551980022J-1,1,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.095641,5.627714
+551980022J-12,12,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096411,5.627004
+551980022J-14,14,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096366,5.626839
+551980022J-14B,14BIS,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096797,5.625732
+551980022J-16,16,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096244,5.626789
+551980022J-18,18,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096111,5.626629
+551980022J-6,6,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096617,5.627130
+551980022J-8,8,Place Clemenceau,55160,Fresnes-en-Woëvre,C+O,49.096541,5.627087
+551980023K-10,10,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092010,5.632253
+551980023K-11,11,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091581,5.632398
+551980023K-1,1,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092273,5.632509
+551980023K-12,12,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092016,5.632025
+551980023K-13,13,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091498,5.632115
+551980023K-14,14,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091862,5.631712
+551980023K-15,15,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091611,5.631810
+551980023K-16,16,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091934,5.631469
+551980023K-17,17,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091800,5.631378
+551980023K-2,2,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092469,5.631516
+551980023K-3,3,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092066,5.632519
+551980023K-4,4,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092339,5.631756
+551980023K-5,5,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091882,5.632527
+551980023K-6,6,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092443,5.632053
+551980023K-7,7,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091700,5.632535
+551980023K-8,8,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.092435,5.632251
+551980023K-9,9,Rue de la Cressonière,55160,Fresnes-en-Woëvre,C+O,49.091568,5.632540
+551980025M-10B,10BIS,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095305,5.625029
+551980025M-11,11,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.094124,5.625570
+551980025M-11B,11BIS,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.094644,5.625299
+551980025M-1,1,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095629,5.626292
+551980025M-11T,11TER,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.094164,5.626537
+551980025M-13,13,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.093793,5.625831
+551980025M-1B,1BIS,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095354,5.627251
+551980025M-2,2,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095929,5.625763
+551980025M-25,25,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.091615,5.625348
+551980025M-27,27,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.091167,5.625724
+551980025M-2T,2TER,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095859,5.625810
+551980025M-3,3,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095500,5.626071
+551980025M-4,4,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095769,5.625733
+551980025M-5,5,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095213,5.626145
+551980025M-5B,5BIS,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095025,5.626030
+551980025M-6,6,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095749,5.625555
+551980025M-7,7,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.094885,5.625751
+551980025M-8,8,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.095622,5.625527
+551980025M-9,9,Rue des Eparges,55160,Fresnes-en-Woëvre,C+O,49.094882,5.625311
+551980030T-10,10,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.099404,5.637303
+551980030T-1,1,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.098325,5.636642
+551980030T-12,12,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.099921,5.637523
+551980030T-14,14,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.100077,5.637590
+551980030T-18,18,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.100502,5.637771
+551980030T-20,20,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.100662,5.637839
+551980030T-2,2,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.097664,5.636928
+551980030T-2B,2BIS,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.098476,5.637022
+551980030T-4,4,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.097886,5.637005
+551980030T-6,6,Rue d'Etain,55160,Fresnes-en-Woëvre,C+O,49.098161,5.637181
+551980037A-10,10,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095877,5.630758
+551980037A-1,1,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095249,5.631310
+551980037A-12,12,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.096359,5.630882
+551980037A-2,2,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095514,5.631393
+551980037A-3,3,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095460,5.630490
+551980037A-4,4,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095705,5.631413
+551980037A-5,5,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095505,5.630311
+551980037A-6,6,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095753,5.631224
+551980037A-8,8,Place Margueritte,55160,Fresnes-en-Woëvre,CAD,49.095844,5.630883
+551980040D-10,10,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095302,5.632345
+551980040D-1,1,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095066,5.631922
+551980040D-12,12,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095272,5.632568
+551980040D-13,13,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094910,5.633058
+551980040D-15,15,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094865,5.633284
+551980040D-16,16,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095228,5.632855
+551980040D-18,18,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095212,5.632971
+551980040D-19,19,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094832,5.633584
+551980040D-20,20,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095186,5.633125
+551980040D-21,21,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094772,5.633748
+551980040D-22,22,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095155,5.633292
+551980040D-2,2,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095400,5.631753
+551980040D-23,23,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094707,5.633939
+551980040D-24,24,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095120,5.633451
+551980040D-25,25,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094614,5.634047
+551980040D-28,28,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095034,5.633707
+551980040D-30,30,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094996,5.633819
+551980040D-32,32,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094951,5.633943
+551980040D-3,3,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095094,5.632117
+551980040D-34,34,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094892,5.634166
+551980040D-36,36,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094866,5.634285
+551980040D-38,38,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.094830,5.634446
+551980040D-4,4,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095357,5.631970
+551980040D-6,6,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095330,5.632152
+551980040D-8,8,Rue de Metz,55160,Fresnes-en-Woëvre,C+O,49.095524,5.632431
+551980045J-10,10,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097925,5.628358
+551980045J-11,11,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.096965,5.632522
+551980045J-1,1,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097551,5.629258
+551980045J-12,12,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097850,5.628654
+551980045J-13,13,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097011,5.632908
+551980045J-15,15,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097029,5.633162
+551980045J-16,16,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097590,5.629671
+551980045J-16B,16BIS,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097719,5.629164
+551980045J-16Q,16QUATER,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097512,5.629973
+551980045J-16T,16TER,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097638,5.629482
+551980045J-17,17,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097027,5.633379
+551980045J-18,18,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097401,5.630393
+551980045J-19,19,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097067,5.633640
+551980045J-20,20,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097314,5.630709
+551980045J-21,21,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097080,5.633866
+551980045J-22,22,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097229,5.631037
+551980045J-23,23,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097103,5.634127
+551980045J-25,25,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097117,5.634366
+551980045J-26,26,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097106,5.632638
+551980045J-26B,26BIS,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.099123,5.633168
+551980045J-27,27,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097137,5.634600
+551980045J-28,28,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097127,5.632906
+551980045J-29,29,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097136,5.634871
+551980045J-30,30,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097143,5.633127
+551980045J-31,31,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097170,5.635106
+551980045J-32,32,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097161,5.633385
+551980045J-33,33,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097170,5.635359
+551980045J-34,34,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097177,5.633603
+551980045J-35,35,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097187,5.635582
+551980045J-36,36,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097195,5.633849
+551980045J-37,37,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097235,5.635999
+551980045J-38,38,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097215,5.634105
+551980045J-39,39,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097180,5.636724
+551980045J-39B,39BIS,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097095,5.637178
+551980045J-39T,39TER,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097137,5.636964
+551980045J-3B,3BIS,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.096944,5.629787
+551980045J-40,40,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097233,5.634348
+551980045J-41,41,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097020,5.637563
+551980045J-42,42,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097250,5.634579
+551980045J-43,43,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.096918,5.638102
+551980045J-44,44,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097273,5.634869
+551980045J-46,46,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097286,5.635032
+551980045J-48,48,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097301,5.635267
+551980045J-48B,48BIS,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097686,5.635182
+551980045J-50,50,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097324,5.635565
+551980045J-52,52,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097348,5.635875
+551980045J-54,54,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097366,5.636121
+551980045J-56,56,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097325,5.636717
+551980045J-7,7,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097137,5.630830
+551980045J-9B,9BIS,Rue de Nancy,55160,Fresnes-en-Woëvre,C+O,49.097035,5.629653
+551980050P-1,1,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094268,5.635149
+551980050P-2,2,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094786,5.634651
+551980050P-3,3,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094348,5.635162
+551980050P-4,4,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094765,5.634780
+551980050P-5,5,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094402,5.635191
+551980050P-6,6,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094761,5.634934
+551980050P-7,7,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094502,5.635223
+551980050P-8,8,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094845,5.635334
+551980050P-9,9,Place Raymond Poincaré,55160,Fresnes-en-Woëvre,CAD,49.094645,5.635270
+551980055V-1,1,Chemin de Riaville,55160,Fresnes-en-Woëvre,C+O,49.096215,5.637210
+551980055V-2,2,Chemin de Riaville,55160,Fresnes-en-Woëvre,C+O,49.095610,5.636807
+551980055V-4,4,Chemin de Riaville,55160,Fresnes-en-Woëvre,C+O,49.095951,5.637630
+551980060A-11,11,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091776,5.631109
+551980060A-1,1,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.093101,5.631297
+551980060A-13,13,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091578,5.630926
+551980060A-14,14,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.090458,5.629671
+551980060A-15,15,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091656,5.630767
+551980060A-17,17,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091215,5.630238
+551980060A-19,19,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091201,5.629890
+551980060A-21,21,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091079,5.629487
+551980060A-2,2,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091565,5.631115
+551980060A-23,23,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091008,5.629317
+551980060A-25,25,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.090848,5.629036
+551980060A-27,27,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.090711,5.628779
+551980060A-3,3,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.092843,5.631265
+551980060A-4,4,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091409,5.630895
+551980060A-4B,4BIS,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091050,5.631169
+551980060A-5,5,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.092593,5.631235
+551980060A-6,6,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091242,5.630600
+551980060A-7,7,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.092283,5.631198
+551980060A-9,9,Chemin des Rocandolles,55160,Fresnes-en-Woëvre,CAD,49.091976,5.631162
+551980065F-10,10,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.096210,5.636030
+551980065F-11,11,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095143,5.635793
+551980065F-1,1,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.094735,5.635523
+551980065F-12,12,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.096517,5.636099
+551980065F-12B,12BIS,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.096474,5.635952
+551980065F-13,13,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095264,5.635874
+551980065F-15,15,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095374,5.635945
+551980065F-17,17,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095766,5.636619
+551980065F-21,21,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095906,5.636162
+551980065F-2,2,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095305,5.635735
+551980065F-23,23,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095978,5.636182
+551980065F-25,25,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.096078,5.636233
+551980065F-25B,25BIS,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.096291,5.636868
+551980065F-27,27,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.096420,5.636230
+551980065F-29,29,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.097059,5.636365
+551980065F-3,3,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.094825,5.635582
+551980065F-4,4,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095605,5.635884
+551980065F-6,6,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095789,5.635936
+551980065F-7,7,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.094984,5.635688
+551980065F-9,9,Rue Saint-Anne,55160,Fresnes-en-Woëvre,CAD,49.095052,5.635733
+551980070L-10,10,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098712,5.625407
+551980070L-11,11,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098272,5.625904
+551980070L-12,12,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098816,5.625200
+551980070L-13,13,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098321,5.625963
+551980070L-14,14,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098922,5.624980
+551980070L-15,15,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098381,5.626035
+551980070L-16,16,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099023,5.624780
+551980070L-17,17,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098484,5.625999
+551980070L-18,18,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099125,5.624569
+551980070L-19,19,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098592,5.625782
+551980070L-20,20,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099202,5.624369
+551980070L-21,21,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098695,5.625572
+551980070L-22,22,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098978,5.623838
+551980070L-23,23,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098807,5.625347
+551980070L-24,24,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098686,5.624069
+551980070L-25,25,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098919,5.625124
+551980070L-26,26,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098581,5.624332
+551980070L-27,27,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099037,5.624887
+551980070L-28,28,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098406,5.624751
+551980070L-29,29,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099171,5.624615
+551980070L-30,30,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098263,5.625089
+551980070L-31,31,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099314,5.624326
+551980070L-32,32,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099433,5.624122
+551980070L-33,33,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099389,5.624048
+551980070L-3,3,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098043,5.625805
+551980070L-34,34,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099337,5.623982
+551980070L-35,35,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099274,5.623895
+551980070L-36,36,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099188,5.623808
+551980070L-37,37,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099079,5.623762
+551980070L-38,38,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.099049,5.623623
+551980070L-39,39,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098987,5.623543
+551980070L-41,41,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098804,5.623622
+551980070L-43,43,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098485,5.624404
+551980070L-4,4,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098169,5.625313
+551980070L-45,45,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098360,5.624707
+551980070L-47,47,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098274,5.624913
+551980070L-49,49,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098144,5.625158
+551980070L-49B,49BIS,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.097911,5.625429
+551980070L-51,51,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.097819,5.625903
+551980070L-53,53,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.097427,5.625531
+551980070L-5,5,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098263,5.625968
+551980070L-6,6,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098372,5.625703
+551980070L-7,7,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098161,5.625838
+551980070L-9,9,Rue de Soncourt,55160,Fresnes-en-Woëvre,C+O,49.098263,5.625996
+551980075S-10,10,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098413,5.627016
+551980075S-11,11,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098279,5.626946
+551980075S-1,1,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.096928,5.627257
+551980075S-13,13,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098487,5.626623
+551980075S-14,14,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098798,5.626336
+551980075S-16,16,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.099272,5.626416
+551980075S-2,2,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098022,5.627979
+551980075S-4,4,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098094,5.627699
+551980075S-6,6,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098203,5.627411
+551980075S-7,7,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.097725,5.627700
+551980075S-8,8,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.097573,5.627337
+551980075S-9,9,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.098076,5.627362
+551980075S-9B,9BIS,Rue de Verdun,55160,Fresnes-en-Woëvre,C+O,49.097856,5.626827
+551980080X-2,2,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.092309,5.626589
+551980080X-2B,2BIS,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.092695,5.626109
+551980080X-3,3,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.091644,5.627563
+551980080X-4,4,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.091685,5.626881
+551980080X-4B,4BIS,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.091931,5.626775
+551980080X-8,8,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.090857,5.627239
+551980081Y-1,1,Sentier dit de la Ville,55160,Fresnes-en-Woëvre,C+O,49.096251,5.635097
 552040020F-3,3,Rue de la Fontaine,55320,Génicourt-sur-Meuse,OSM,49.034703,5.438523
 552040020F-5,5,Rue de la Fontaine,55320,Génicourt-sur-Meuse,OSM,49.034492,5.438528
 552060002C-10,10,Rue Alexis Vautrin,55110,Gercourt-et-Drillancourt,CAD,49.284689,5.239046
