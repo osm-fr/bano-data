@@ -1998,7 +1998,7 @@
 040450023S-6,6,Chemin de Saint-Martin,04280,Céreste,CAD,43.853827,5.590539
 040450023S-7123,7123,Chemin de Saint-Martin,04280,Céreste,CAD,43.853427,5.591635
 040450023S-9,9,Chemin de Saint-Martin,04280,Céreste,CAD,43.853640,5.593488
-040450024T-7228,7228,Rue du Dr Chassan,04280,Céreste,CAD,43.857350,5.590822
+040450024T-7228,7228,Rue du Docteur Chassan,04280,Céreste,C+O,43.857350,5.590822
 040450025U-7192,7192,Rue du Château,04280,Céreste,C+O,43.856862,5.588958
 040450026V-10,10,Rue du Dauphiné,04280,Céreste,CAD,43.856182,5.601809
 040450026V-11,11,Rue du Dauphiné,04280,Céreste,CAD,43.856263,5.601942
@@ -10136,7 +10136,7 @@
 041120100J-9,9,Rue de la Brasserie,04100,Manosque,C+O,43.833816,5.785268
 041120101K-102,102,Impasse de la Bégude,04100,Manosque,OSM,43.816775,5.796111
 041120101K-58,58,Impasse de la Bégude,04100,Manosque,OSM,43.816804,5.796670
-041120103M-159,159,Avenue du Dct Bernard Foussier,04100,Manosque,CAD,43.828961,5.801986
+041120103M-159,159,Avenue du Docteur Bernard Foussier,04100,Manosque,C+O,43.828961,5.801986
 041120106R-100,100,Rue des Cabris,04100,Manosque,OSM,43.822886,5.789456
 041120106R-110,110,Rue des Cabris,04100,Manosque,OSM,43.822817,5.789460
 041120106R-111,111,Rue des Cabris,04100,Manosque,OSM,43.822810,5.790017
@@ -18995,8 +18995,6 @@
 041970050K-81,81,Rue de la Combe,04220,Sainte-Tulle,C+O,43.786416,5.762549
 041970050K-86,86,Rue de la Combe,04220,Sainte-Tulle,C+O,43.786436,5.762505
 041970060W-12,12,Rue d'Astrée,04220,Sainte-Tulle,CAD,43.785814,5.760597
-041970072J-7024,7024,Vieux Chemin Vieux Chemin de Manosque,04220,Sainte-Tulle,CAD,43.791547,5.771516
-041970072J-7106,7106,Vieux Chemin Vieux Chemin de Manosque,04220,Sainte-Tulle,CAD,43.791320,5.771868
 041970075M-28,28,Rue Emile Combe,04220,Sainte-Tulle,CAD,43.787571,5.764929
 041970075M-31,31,Rue Emile Combe,04220,Sainte-Tulle,CAD,43.787685,5.764837
 041970075M-32,32,Rue Emile Combe,04220,Sainte-Tulle,CAD,43.787618,5.764957
@@ -20978,52 +20976,52 @@
 042300185N-3A,3A,Place des Heros de la Resistance,04210,Valensole,CAD,43.836933,5.985775
 042300185N-6,6,Place des Heros de la Resistance,04210,Valensole,CAD,43.837294,5.985557
 042300185N-8,8,Place des Heros de la Resistance,04210,Valensole,CAD,43.837277,5.985618
-042300191V-10,10,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837362,5.984935
-042300191V-1,1,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837145,5.984917
-042300191V-12,12,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837461,5.984908
-042300191V-13,13,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837325,5.984902
-042300191V-14,14,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837484,5.984898
-042300191V-15,15,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837392,5.984873
-042300191V-16,16,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837571,5.984903
-042300191V-17,17,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837491,5.984827
-042300191V-18,18,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837632,5.984841
-042300191V-19,19,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837501,5.984707
-042300191V-20,20,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837685,5.984835
-042300191V-21,21,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837563,5.984798
-042300191V-22,22,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837740,5.984826
-042300191V-2,2,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837172,5.985005
-042300191V-23,23,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837592,5.984791
-042300191V-24,24,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837854,5.984804
-042300191V-26,26,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837906,5.984787
-042300191V-27,27,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837740,5.984764
-042300191V-28,28,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837944,5.984774
-042300191V-29,29,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837812,5.984650
-042300191V-30,30,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837998,5.984754
-042300191V-31,31,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837872,5.984752
-042300191V-32,32,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838043,5.984738
-042300191V-33,33,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837917,5.984713
-042300191V-34,34,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838081,5.984724
-042300191V-35,35,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837982,5.984712
-042300191V-36,36,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838130,5.984701
-042300191V-37,37,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838197,5.984508
-042300191V-37A,37A,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838145,5.984567
-042300191V-38,38,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838178,5.984679
-042300191V-40,40,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838225,5.984657
-042300191V-41,41,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838200,5.984592
-042300191V-42,42,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838266,5.984638
-042300191V-43,43,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838256,5.984596
-042300191V-44,44,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838321,5.984618
-042300191V-4,4,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837242,5.984976
-042300191V-45,45,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838318,5.984540
-042300191V-46,46,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838362,5.984602
-042300191V-47,47,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838405,5.984499
-042300191V-48,48,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838394,5.984586
-042300191V-49,49,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838442,5.984480
-042300191V-50,50,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.838475,5.984547
-042300191V-5,5,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837178,5.984947
-042300191V-7,7,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837206,5.984941
-042300191V-8,8,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837301,5.985034
-042300191V-9,9,Rue Dr Maurice Chaupin,04210,Valensole,CAD,43.837251,5.984928
+042300191V-10,10,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837362,5.984935
+042300191V-1,1,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837145,5.984917
+042300191V-12,12,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837461,5.984908
+042300191V-13,13,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837325,5.984902
+042300191V-14,14,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837484,5.984898
+042300191V-15,15,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837392,5.984873
+042300191V-16,16,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837571,5.984903
+042300191V-17,17,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837491,5.984827
+042300191V-18,18,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837632,5.984841
+042300191V-19,19,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837501,5.984707
+042300191V-20,20,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837685,5.984835
+042300191V-21,21,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837563,5.984798
+042300191V-22,22,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837740,5.984826
+042300191V-2,2,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837172,5.985005
+042300191V-23,23,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837592,5.984791
+042300191V-24,24,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837854,5.984804
+042300191V-26,26,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837906,5.984787
+042300191V-27,27,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837740,5.984764
+042300191V-28,28,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837944,5.984774
+042300191V-29,29,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837812,5.984650
+042300191V-30,30,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837998,5.984754
+042300191V-31,31,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837872,5.984752
+042300191V-32,32,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838043,5.984738
+042300191V-33,33,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837917,5.984713
+042300191V-34,34,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838081,5.984724
+042300191V-35,35,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837982,5.984712
+042300191V-36,36,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838130,5.984701
+042300191V-37,37,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838197,5.984508
+042300191V-37A,37A,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838145,5.984567
+042300191V-38,38,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838178,5.984679
+042300191V-40,40,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838225,5.984657
+042300191V-41,41,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838200,5.984592
+042300191V-42,42,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838266,5.984638
+042300191V-43,43,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838256,5.984596
+042300191V-44,44,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838321,5.984618
+042300191V-4,4,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837242,5.984976
+042300191V-45,45,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838318,5.984540
+042300191V-46,46,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838362,5.984602
+042300191V-47,47,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838405,5.984499
+042300191V-48,48,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838394,5.984586
+042300191V-49,49,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838442,5.984480
+042300191V-50,50,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.838475,5.984547
+042300191V-5,5,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837178,5.984947
+042300191V-7,7,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837206,5.984941
+042300191V-8,8,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837301,5.985034
+042300191V-9,9,Rue du Docteur Maurice Chaupin,04210,Valensole,C+O,43.837251,5.984928
 042300195Z-1,1,Rue Juiverie,04210,Valensole,C+O,43.836632,5.983276
 042300195Z-2,2,Rue Juiverie,04210,Valensole,C+O,43.836606,5.983296
 042300195Z-3,3,Rue Juiverie,04210,Valensole,C+O,43.836542,5.983351

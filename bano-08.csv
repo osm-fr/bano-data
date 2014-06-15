@@ -8037,20 +8037,20 @@
 081051010R-1,1,Rue du Docteur Calmette,08000,Charleville-Mézières,C+O,49.778290,4.706920
 081051010R-2,2,Rue du Docteur Calmette,08000,Charleville-Mézières,C+O,49.778490,4.706618
 081051010R-5,5,Rue du Docteur Calmette,08000,Charleville-Mézières,C+O,49.778492,4.706457
-081051020B-10,10,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776594,4.709895
-081051020B-1,1,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776301,4.710627
-081051020B-12,12,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776658,4.709426
-081051020B-12A,12A,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776903,4.709614
-081051020B-16,16,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776891,4.709609
-081051020B-18,18,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776940,4.709279
-081051020B-1B,1BIS,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776397,4.710202
-081051020B-22B,22BIS,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776950,4.708137
-081051020B-2,2,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776416,4.710560
-081051020B-24,24,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776893,4.707823
-081051020B-4,4,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776572,4.710636
-081051020B-6,6,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776469,4.710262
-081051020B-8,8,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776541,4.709960
-081051020B-8B,8BIS,Rue du Dr Emile Baudoin,08000,Charleville-Mézières,CAD,49.776571,4.709827
+081051020B-10,10,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776594,4.709895
+081051020B-1,1,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776301,4.710627
+081051020B-12,12,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776658,4.709426
+081051020B-12A,12A,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776903,4.709614
+081051020B-16,16,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776891,4.709609
+081051020B-18,18,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776940,4.709279
+081051020B-1B,1BIS,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776397,4.710202
+081051020B-22B,22BIS,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776950,4.708137
+081051020B-2,2,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776416,4.710560
+081051020B-24,24,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776893,4.707823
+081051020B-4,4,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776572,4.710636
+081051020B-6,6,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776469,4.710262
+081051020B-8,8,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776541,4.709960
+081051020B-8B,8BIS,Rue du Docteur Emile Baudoin,08000,Charleville-Mézières,C+O,49.776571,4.709827
 081051030M-1,1,Rue du Docteur Guérin,08000,Charleville-Mézières,CAD,49.763428,4.696954
 081051030M-2,2,Rue du Docteur Guérin,08000,Charleville-Mézières,CAD,49.763404,4.697117
 081051030M-3,3,Rue du Docteur Guérin,08000,Charleville-Mézières,CAD,49.763575,4.697046
@@ -30925,16 +30925,6 @@
 083420075U-7,7,Route de Pouru Saint-Rémy,08140,Pouru-aux-Bois,CAD,49.704065,5.087327
 083420075U-9,9,Route de Pouru Saint-Rémy,08140,Pouru-aux-Bois,CAD,49.704332,5.087850
 083420080Z-1,1,Rue du Stade,08140,Pouru-aux-Bois,C+O,49.703959,5.088302
-083420110G-10,10,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706582,5.088505
-083420110G-11,11,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706627,5.087908
-083420110G-1,1,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.707102,5.089788
-083420110G-2,2,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706679,5.090563
-083420110G-3,3,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706719,5.089637
-083420110G-4,4,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706643,5.089825
-083420110G-5,5,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706700,5.089251
-083420110G-6,6,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706618,5.089308
-083420110G-7,7,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706888,5.088742
-083420110G-8,8,Vieux Chemin Vieux Chemin de Francheval,08140,Pouru-aux-Bois,CAD,49.706595,5.088809
 083420113K-1,1,Rue Vieux Chemin de Grand Hez,08140,Pouru-aux-Bois,CAD,49.702624,5.101201
 083420116N-10,10,Voie Communale du Pommier,08140,Pouru-aux-Bois,CAD,49.707351,5.093710
 083420116N-11,11,Voie Communale du Pommier,08140,Pouru-aux-Bois,CAD,49.708020,5.093897
