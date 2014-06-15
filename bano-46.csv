@@ -2441,10 +2441,10 @@
 460420853V-409,409,Chemin de la Combe de Saint-Julien,46000,Cahors,C+O,44.430203,1.448873
 460420853V-412,412,Chemin de la Combe de Saint-Julien,46000,Cahors,C+O,44.430130,1.448789
 460420853V-497,497,Chemin de la Combe de Saint-Julien,46000,Cahors,C+O,44.429515,1.449791
-460420862E-256,256,Chemin de la Combe des Monges,46000,Cahors,CAD,44.448580,1.451515
-460420862E-40,40,Chemin de la Combe des Monges,46000,Cahors,CAD,44.449191,1.449016
-460420862E-40B,40BIS,Chemin de la Combe des Monges,46000,Cahors,CAD,44.449210,1.449159
-460420862E-709,709,Chemin de la Combe des Monges,46000,Cahors,CAD,44.446854,1.456799
+460420862E-256,256,Chemin de la Combe des Monges,46000,Cahors,C+O,44.448580,1.451515
+460420862E-40,40,Chemin de la Combe des Monges,46000,Cahors,C+O,44.449191,1.449016
+460420862E-40B,40BIS,Chemin de la Combe des Monges,46000,Cahors,C+O,44.449210,1.449159
+460420862E-709,709,Chemin de la Combe des Monges,46000,Cahors,C+O,44.446854,1.456799
 460420863F-10,10,Chemin de la Combe du Roc,46000,Cahors,CAD,44.432210,1.382248
 460420863F-130,130,Chemin de la Combe du Roc,46000,Cahors,CAD,44.432422,1.380860
 460420863F-154,154,Chemin de la Combe du Roc,46000,Cahors,CAD,44.432749,1.380725
@@ -2690,65 +2690,65 @@
 460421025G-89,89,Rue du Dr Bouscarat,46000,Cahors,CAD,44.445352,1.443007
 460421026H-14,14,Rond Point Dr Jean Baron,46000,Cahors,CAD,44.455120,1.437796
 460421026H-6,6,Rond Point Dr Jean Baron,46000,Cahors,CAD,44.454811,1.438325
-460421030M-132,132,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.456552,1.436988
-460421030M-152,152,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.456921,1.436800
-460421030M-164,164,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457086,1.436724
-460421030M-179,179,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457051,1.436581
-460421030M-186,186,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457276,1.436637
-460421030M-199,199,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457194,1.436514
-460421030M-208,208,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457612,1.436713
-460421030M-209,209,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457338,1.436447
-460421030M-230,230,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457613,1.436511
-460421030M-285,285,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.457935,1.436186
-460421030M-301,301,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458036,1.436147
-460421030M-304,304,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458155,1.436291
-460421030M-309,309,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458121,1.436116
-460421030M-320,320,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458300,1.436243
-460421030M-321,321,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458250,1.436070
-460421030M-32,32,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.455887,1.437543
-460421030M-331,331,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458448,1.436095
-460421030M-348,348,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458547,1.436224
-460421030M-355,355,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458612,1.436097
-460421030M-364,364,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458644,1.436227
-460421030M-368,368,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458725,1.436231
-460421030M-385,385,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458755,1.436101
-460421030M-386,386,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458867,1.436237
-460421030M-399,399,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.458953,1.436127
-460421030M-414,414,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459083,1.436246
-460421030M-415,415,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459115,1.436114
-460421030M-425,425,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459267,1.436118
-460421030M-440,440,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459317,1.436256
-460421030M-441,441,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459391,1.436088
-460421030M-451,451,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.463659,1.436963
-460421030M-457,457,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459614,1.436133
-460421030M-493,493,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459839,1.436191
-460421030M-531,531,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.460261,1.436301
-460421030M-554,554,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.459412,1.437774
-460421030M-567,567,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.460461,1.436210
-460421030M-577,577,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.460559,1.436379
-460421030M-60,60,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.456111,1.437345
-460421030M-617,617,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.460908,1.436474
-460421030M-627,627,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461017,1.436516
-460421030M-650,650,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461143,1.436716
-460421030M-651,651,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461166,1.436565
-460421030M-652,652,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461216,1.436742
-460421030M-654,654,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461317,1.436779
-460421030M-679,679,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461581,1.435988
-460421030M-679B,679BIS,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461901,1.435858
-460421030M-695,695,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461632,1.436784
-460421030M-700,700,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461553,1.436889
-460421030M-721,721,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461811,1.436878
-460421030M-732,732,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.461813,1.437024
-460421030M-744,744,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.462041,1.437143
-460421030M-751,751,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.462473,1.437205
-460421030M-76,76,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.456199,1.437271
-460421030M-772,772,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.462205,1.437222
-460421030M-820,820,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.462597,1.437398
-460421030M-824,824,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.462689,1.437468
-460421030M-84,84,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.456299,1.437177
-460421030M-854,854,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.462802,1.437735
-460421030M-855,855,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.462730,1.436799
-460421030M-876,876,Rue du Dr Jean Ségala,46000,Cahors,CAD,44.463236,1.437740
+460421030M-132,132,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.456552,1.436988
+460421030M-152,152,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.456921,1.436800
+460421030M-164,164,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457086,1.436724
+460421030M-179,179,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457051,1.436581
+460421030M-186,186,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457276,1.436637
+460421030M-199,199,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457194,1.436514
+460421030M-208,208,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457612,1.436713
+460421030M-209,209,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457338,1.436447
+460421030M-230,230,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457613,1.436511
+460421030M-285,285,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.457935,1.436186
+460421030M-301,301,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458036,1.436147
+460421030M-304,304,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458155,1.436291
+460421030M-309,309,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458121,1.436116
+460421030M-320,320,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458300,1.436243
+460421030M-321,321,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458250,1.436070
+460421030M-32,32,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.455887,1.437543
+460421030M-331,331,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458448,1.436095
+460421030M-348,348,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458547,1.436224
+460421030M-355,355,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458612,1.436097
+460421030M-364,364,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458644,1.436227
+460421030M-368,368,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458725,1.436231
+460421030M-385,385,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458755,1.436101
+460421030M-386,386,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458867,1.436237
+460421030M-399,399,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.458953,1.436127
+460421030M-414,414,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459083,1.436246
+460421030M-415,415,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459115,1.436114
+460421030M-425,425,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459267,1.436118
+460421030M-440,440,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459317,1.436256
+460421030M-441,441,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459391,1.436088
+460421030M-451,451,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.463659,1.436963
+460421030M-457,457,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459614,1.436133
+460421030M-493,493,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459839,1.436191
+460421030M-531,531,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.460261,1.436301
+460421030M-554,554,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.459412,1.437774
+460421030M-567,567,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.460461,1.436210
+460421030M-577,577,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.460559,1.436379
+460421030M-60,60,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.456111,1.437345
+460421030M-617,617,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.460908,1.436474
+460421030M-627,627,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461017,1.436516
+460421030M-650,650,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461143,1.436716
+460421030M-651,651,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461166,1.436565
+460421030M-652,652,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461216,1.436742
+460421030M-654,654,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461317,1.436779
+460421030M-679,679,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461581,1.435988
+460421030M-679B,679BIS,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461901,1.435858
+460421030M-695,695,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461632,1.436784
+460421030M-700,700,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461553,1.436889
+460421030M-721,721,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461811,1.436878
+460421030M-732,732,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.461813,1.437024
+460421030M-744,744,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.462041,1.437143
+460421030M-751,751,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.462473,1.437205
+460421030M-76,76,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.456199,1.437271
+460421030M-772,772,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.462205,1.437222
+460421030M-820,820,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.462597,1.437398
+460421030M-824,824,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.462689,1.437468
+460421030M-84,84,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.456299,1.437177
+460421030M-854,854,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.462802,1.437735
+460421030M-855,855,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.462730,1.436799
+460421030M-876,876,Rue du Docteur Jean Segala,46000,Cahors,C+O,44.463236,1.437740
 460421031N-109,109,Chemin des Durands,46000,Cahors,CAD,44.443748,1.410861
 460421031N-224,224,Chemin des Durands,46000,Cahors,CAD,44.439132,1.411534
 460421031N-234,234,Chemin des Durands,46000,Cahors,CAD,44.439229,1.411537
@@ -3964,29 +3964,29 @@
 460421670H-75,75,Rue Jean-François Caviole,46000,Cahors,C+O,44.446761,1.439542
 460421670H-76,76,Rue Jean-François Caviole,46000,Cahors,C+O,44.446666,1.439452
 460421670H-93,93,Rue Jean-François Caviole,46000,Cahors,C+O,44.446602,1.439584
-460421673L-10,10,Rue Jean Giraudoux,46000,Cahors,CAD,44.435255,1.454314
-460421673L-11,11,Rue Jean Giraudoux,46000,Cahors,CAD,44.435052,1.454358
-460421673L-1,1,Rue Jean Giraudoux,46000,Cahors,CAD,44.434798,1.454598
-460421673L-12,12,Rue Jean Giraudoux,46000,Cahors,CAD,44.435341,1.454258
-460421673L-13,13,Rue Jean Giraudoux,46000,Cahors,CAD,44.435097,1.454328
-460421673L-14,14,Rue Jean Giraudoux,46000,Cahors,CAD,44.435427,1.454204
-460421673L-15,15,Rue Jean Giraudoux,46000,Cahors,CAD,44.435151,1.454295
-460421673L-16,16,Rue Jean Giraudoux,46000,Cahors,CAD,44.435525,1.454136
-460421673L-17,17,Rue Jean Giraudoux,46000,Cahors,CAD,44.435209,1.454260
-460421673L-18,18,Rue Jean Giraudoux,46000,Cahors,CAD,44.435580,1.454072
-460421673L-19,19,Rue Jean Giraudoux,46000,Cahors,CAD,44.435258,1.454228
-460421673L-20,20,Rue Jean Giraudoux,46000,Cahors,CAD,44.435642,1.453942
-460421673L-21,21,Rue Jean Giraudoux,46000,Cahors,CAD,44.435318,1.454195
-460421673L-22,22,Rue Jean Giraudoux,46000,Cahors,CAD,44.435873,1.453957
-460421673L-2,2,Rue Jean Giraudoux,46000,Cahors,CAD,44.434938,1.454545
-460421673L-24,24,Rue Jean Giraudoux,46000,Cahors,CAD,44.435891,1.454205
-460421673L-3,3,Rue Jean Giraudoux,46000,Cahors,CAD,44.434832,1.454496
-460421673L-4,4,Rue Jean Giraudoux,46000,Cahors,CAD,44.435020,1.454489
-460421673L-5,5,Rue Jean Giraudoux,46000,Cahors,CAD,44.434874,1.454425
-460421673L-6,6,Rue Jean Giraudoux,46000,Cahors,CAD,44.435098,1.454412
-460421673L-7,7,Rue Jean Giraudoux,46000,Cahors,CAD,44.434926,1.454384
-460421673L-8,8,Rue Jean Giraudoux,46000,Cahors,CAD,44.435179,1.454362
-460421673L-9,9,Rue Jean Giraudoux,46000,Cahors,CAD,44.434981,1.454345
+460421673L-10,10,Rue Jean Giraudoux,46000,Cahors,C+O,44.435255,1.454314
+460421673L-11,11,Rue Jean Giraudoux,46000,Cahors,C+O,44.435052,1.454358
+460421673L-1,1,Rue Jean Giraudoux,46000,Cahors,C+O,44.434798,1.454598
+460421673L-12,12,Rue Jean Giraudoux,46000,Cahors,C+O,44.435341,1.454258
+460421673L-13,13,Rue Jean Giraudoux,46000,Cahors,C+O,44.435097,1.454328
+460421673L-14,14,Rue Jean Giraudoux,46000,Cahors,C+O,44.435427,1.454204
+460421673L-15,15,Rue Jean Giraudoux,46000,Cahors,C+O,44.435151,1.454295
+460421673L-16,16,Rue Jean Giraudoux,46000,Cahors,C+O,44.435525,1.454136
+460421673L-17,17,Rue Jean Giraudoux,46000,Cahors,C+O,44.435209,1.454260
+460421673L-18,18,Rue Jean Giraudoux,46000,Cahors,C+O,44.435580,1.454072
+460421673L-19,19,Rue Jean Giraudoux,46000,Cahors,C+O,44.435258,1.454228
+460421673L-20,20,Rue Jean Giraudoux,46000,Cahors,C+O,44.435642,1.453942
+460421673L-21,21,Rue Jean Giraudoux,46000,Cahors,C+O,44.435318,1.454195
+460421673L-22,22,Rue Jean Giraudoux,46000,Cahors,C+O,44.435873,1.453957
+460421673L-2,2,Rue Jean Giraudoux,46000,Cahors,C+O,44.434938,1.454545
+460421673L-24,24,Rue Jean Giraudoux,46000,Cahors,C+O,44.435891,1.454205
+460421673L-3,3,Rue Jean Giraudoux,46000,Cahors,C+O,44.434832,1.454496
+460421673L-4,4,Rue Jean Giraudoux,46000,Cahors,C+O,44.435020,1.454489
+460421673L-5,5,Rue Jean Giraudoux,46000,Cahors,C+O,44.434874,1.454425
+460421673L-6,6,Rue Jean Giraudoux,46000,Cahors,C+O,44.435098,1.454412
+460421673L-7,7,Rue Jean Giraudoux,46000,Cahors,C+O,44.434926,1.454384
+460421673L-8,8,Rue Jean Giraudoux,46000,Cahors,C+O,44.435179,1.454362
+460421673L-9,9,Rue Jean Giraudoux,46000,Cahors,C+O,44.434981,1.454345
 460421675N-11,11,Rue Jean Jacques Castanié,46000,Cahors,CAD,44.444098,1.442292
 460421675N-17,17,Rue Jean Jacques Castanié,46000,Cahors,CAD,44.444131,1.442363
 460421675N-20,20,Rue Jean Jacques Castanié,46000,Cahors,CAD,44.444128,1.442482
@@ -7592,7 +7592,7 @@
 460630020Y-27,27,Rue Blanié,46170,Castelnau-Montratier,C+O,44.268689,1.351700
 460630020Y-7,7,Rue Blanié,46170,Castelnau-Montratier,C+O,44.269297,1.352949
 460630020Y-9,9,Rue Blanié,46170,Castelnau-Montratier,C+O,44.269262,1.352865
-460630025D-4,4,Rue de la Boucherie,46170,Castelnau-Montratier,CAD,44.268446,1.353205
+460630025D-4,4,Rue de la Boucherie,46170,Castelnau-Montratier,C+O,44.268446,1.353205
 460630027F-10,10,Rue des Orfèvres,46170,Castelnau-Montratier,C+O,44.268057,1.352065
 460630027F-1,1,Rue des Orfèvres,46170,Castelnau-Montratier,C+O,44.267654,1.352510
 460630027F-2,2,Rue des Orfèvres,46170,Castelnau-Montratier,C+O,44.267912,1.352186
@@ -7624,53 +7624,53 @@
 460630042X-5,5,Rue du Capitaine Tailhade,46170,Castelnau-Montratier,C+O,44.266856,1.354154
 460630042X-6,6,Rue du Capitaine Tailhade,46170,Castelnau-Montratier,C+O,44.266925,1.353989
 460630042X-8,8,Rue du Capitaine Tailhade,46170,Castelnau-Montratier,C+O,44.266893,1.354020
-460630050F-10,10,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268360,1.353678
-460630050F-11,11,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268373,1.353577
-460630050F-1,1,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268182,1.353566
-460630050F-12,12,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268392,1.353680
-460630050F-13,13,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268432,1.353580
-460630050F-14,14,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268424,1.353681
-460630050F-15,15,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268479,1.353582
-460630050F-16,16,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268451,1.353682
-460630050F-18,18,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268483,1.353684
-460630050F-19,19,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268608,1.353584
-460630050F-20,20,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268522,1.353688
-460630050F-21,21,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268656,1.353609
-460630050F-22,22,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268588,1.353690
-460630050F-2,2,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268133,1.353664
-460630050F-23,23,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268713,1.353582
-460630050F-24,24,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268630,1.353689
-460630050F-26,26,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268681,1.353901
-460630050F-28,28,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268705,1.353687
-460630050F-29,29,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268933,1.353602
-460630050F-30,30,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268758,1.353686
-460630050F-31,31,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268983,1.353575
-460630050F-32,32,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268816,1.353684
-460630050F-33,33,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269044,1.353570
-460630050F-34,34,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268869,1.353683
-460630050F-35,35,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269108,1.353564
-460630050F-36,36,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268936,1.353679
-460630050F-37,37,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269157,1.353559
-460630050F-38,38,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268997,1.353674
-460630050F-39,39,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269201,1.353555
-460630050F-40,40,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269058,1.353669
-460630050F-41,41,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269238,1.353570
-460630050F-42,42,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269111,1.353665
-460630050F-43,43,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269274,1.353526
-460630050F-44,44,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269157,1.353661
-460630050F-4,4,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268199,1.353668
-460630050F-45,45,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269343,1.353493
-460630050F-46,46,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269205,1.353657
-460630050F-47,47,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269385,1.353466
-460630050F-49,49,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269422,1.353439
-460630050F-50,50,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269401,1.353571
-460630050F-52,52,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269485,1.353533
-460630050F-54,54,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.269565,1.353505
-460630050F-5,5,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268269,1.353571
-460630050F-6,6,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268262,1.353851
-460630050F-7,7,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268288,1.353572
-460630050F-8,8,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268333,1.353676
-460630050F-9,9,Rue Georges Clémenceau,46170,Castelnau-Montratier,CAD,44.268318,1.353574
+460630050F-10,10,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268360,1.353678
+460630050F-11,11,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268373,1.353577
+460630050F-1,1,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268182,1.353566
+460630050F-12,12,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268392,1.353680
+460630050F-13,13,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268432,1.353580
+460630050F-14,14,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268424,1.353681
+460630050F-15,15,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268479,1.353582
+460630050F-16,16,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268451,1.353682
+460630050F-18,18,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268483,1.353684
+460630050F-19,19,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268608,1.353584
+460630050F-20,20,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268522,1.353688
+460630050F-21,21,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268656,1.353609
+460630050F-22,22,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268588,1.353690
+460630050F-2,2,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268133,1.353664
+460630050F-23,23,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268713,1.353582
+460630050F-24,24,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268630,1.353689
+460630050F-26,26,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268681,1.353901
+460630050F-28,28,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268705,1.353687
+460630050F-29,29,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268933,1.353602
+460630050F-30,30,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268758,1.353686
+460630050F-31,31,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268983,1.353575
+460630050F-32,32,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268816,1.353684
+460630050F-33,33,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269044,1.353570
+460630050F-34,34,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268869,1.353683
+460630050F-35,35,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269108,1.353564
+460630050F-36,36,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268936,1.353679
+460630050F-37,37,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269157,1.353559
+460630050F-38,38,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268997,1.353674
+460630050F-39,39,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269201,1.353555
+460630050F-40,40,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269058,1.353669
+460630050F-41,41,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269238,1.353570
+460630050F-42,42,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269111,1.353665
+460630050F-43,43,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269274,1.353526
+460630050F-44,44,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269157,1.353661
+460630050F-4,4,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268199,1.353668
+460630050F-45,45,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269343,1.353493
+460630050F-46,46,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269205,1.353657
+460630050F-47,47,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269385,1.353466
+460630050F-49,49,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269422,1.353439
+460630050F-50,50,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269401,1.353571
+460630050F-52,52,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269485,1.353533
+460630050F-54,54,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.269565,1.353505
+460630050F-5,5,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268269,1.353571
+460630050F-6,6,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268262,1.353851
+460630050F-7,7,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268288,1.353572
+460630050F-8,8,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268333,1.353676
+460630050F-9,9,Rue Georges Clemenceau,46170,Castelnau-Montratier,C+O,44.268318,1.353574
 460630053J-1,1,Rue des Coteaux du Quercy,46170,Castelnau-Montratier,C+O,44.273631,1.348785
 460630053J-2,2,Rue des Coteaux du Quercy,46170,Castelnau-Montratier,C+O,44.273667,1.348898
 460630053J-3,3,Rue des Coteaux du Quercy,46170,Castelnau-Montratier,C+O,44.273725,1.348570
@@ -7691,69 +7691,69 @@
 460630056M-6,6,Rue des Esclapiers,46170,Castelnau-Montratier,C+O,44.273484,1.349104
 460630056M-7,7,Rue des Esclapiers,46170,Castelnau-Montratier,C+O,44.274610,1.349686
 460630056M-8,8,Rue des Esclapiers,46170,Castelnau-Montratier,C+O,44.273631,1.349229
-460630065X-10,10,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270072,1.353505
-460630065X-11,11,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270390,1.353439
-460630065X-1,1,Avenue Foch,46170,Castelnau-Montratier,CAD,44.269911,1.353397
-460630065X-13,13,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270555,1.353460
-460630065X-15,15,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270499,1.353331
-460630065X-16,16,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270302,1.353490
-460630065X-17,17,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270680,1.353483
-460630065X-18,18,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270367,1.353528
-460630065X-19,19,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270749,1.353492
-460630065X-20,20,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270472,1.353548
-460630065X-21,21,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270798,1.353498
-460630065X-22,22,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270576,1.353563
-460630065X-23,23,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270838,1.353503
-460630065X-24,24,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270626,1.353572
-460630065X-25,25,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270887,1.353509
-460630065X-26,26,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270667,1.353580
-460630065X-27,27,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270928,1.353514
-460630065X-28,28,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270713,1.353589
-460630065X-29,29,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270977,1.353519
-460630065X-30,30,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270754,1.353597
-460630065X-31,31,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271031,1.353527
-460630065X-32,32,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270788,1.353603
-460630065X-33,33,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271076,1.353533
-460630065X-34,34,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270840,1.353612
-460630065X-35,35,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271122,1.353539
-460630065X-36,36,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270909,1.353625
-460630065X-37,37,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271173,1.353545
-460630065X-38,38,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270960,1.353634
-460630065X-39,39,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271222,1.353551
-460630065X-40,40,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271004,1.353616
-460630065X-41,41,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271402,1.353583
-460630065X-42,42,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271054,1.353651
-460630065X-43,43,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271786,1.353662
-460630065X-44,44,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271100,1.353633
-460630065X-4,4,Avenue Foch,46170,Castelnau-Montratier,CAD,44.269798,1.353485
-460630065X-45,45,Avenue Foch,46170,Castelnau-Montratier,CAD,44.272145,1.353753
-460630065X-46,46,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271165,1.353671
-460630065X-48,48,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271230,1.353683
-460630065X-50,50,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271291,1.353694
-460630065X-52,52,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271782,1.353802
-460630065X-54,54,Avenue Foch,46170,Castelnau-Montratier,CAD,44.271953,1.353815
-460630065X-56,56,Avenue Foch,46170,Castelnau-Montratier,CAD,44.272156,1.353909
-460630065X-6,6,Avenue Foch,46170,Castelnau-Montratier,CAD,44.269859,1.353489
-460630065X-8,8,Avenue Foch,46170,Castelnau-Montratier,CAD,44.269940,1.353496
-460630065X-9,9,Avenue Foch,46170,Castelnau-Montratier,CAD,44.270211,1.353419
-460630066Y-11,11,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.268953,1.350847
-460630066Y-1,1,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.268622,1.351374
-460630066Y-13,13,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.268960,1.350473
-460630066Y-15,15,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.269128,1.350531
-460630066Y-17,17,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.269288,1.350379
-460630066Y-19,19,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.269373,1.350231
-460630066Y-21,21,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.269542,1.350008
-460630066Y-23,23,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.269685,1.349825
-460630066Y-24,24,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.272851,1.348350
-460630066Y-26,26,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.273047,1.348270
-460630066Y-3,3,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.268663,1.351322
-460630066Y-4,4,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.269816,1.351123
-460630066Y-5,5,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.268710,1.351262
-460630066Y-6030,6030,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.271138,1.349132
-460630066Y-6034,6034,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.271898,1.348822
-460630066Y-6,6,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.269569,1.350043
-460630066Y-7,7,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.268756,1.351191
-460630066Y-9,9,Chemin de Clary,46170,Castelnau-Montratier,CAD,44.268901,1.350949
+460630065X-10,10,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270072,1.353505
+460630065X-11,11,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270390,1.353439
+460630065X-1,1,Avenue Foch,46170,Castelnau-Montratier,C+O,44.269911,1.353397
+460630065X-13,13,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270555,1.353460
+460630065X-15,15,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270499,1.353331
+460630065X-16,16,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270302,1.353490
+460630065X-17,17,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270680,1.353483
+460630065X-18,18,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270367,1.353528
+460630065X-19,19,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270749,1.353492
+460630065X-20,20,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270472,1.353548
+460630065X-21,21,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270798,1.353498
+460630065X-22,22,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270576,1.353563
+460630065X-23,23,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270838,1.353503
+460630065X-24,24,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270626,1.353572
+460630065X-25,25,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270887,1.353509
+460630065X-26,26,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270667,1.353580
+460630065X-27,27,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270928,1.353514
+460630065X-28,28,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270713,1.353589
+460630065X-29,29,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270977,1.353519
+460630065X-30,30,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270754,1.353597
+460630065X-31,31,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271031,1.353527
+460630065X-32,32,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270788,1.353603
+460630065X-33,33,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271076,1.353533
+460630065X-34,34,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270840,1.353612
+460630065X-35,35,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271122,1.353539
+460630065X-36,36,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270909,1.353625
+460630065X-37,37,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271173,1.353545
+460630065X-38,38,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270960,1.353634
+460630065X-39,39,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271222,1.353551
+460630065X-40,40,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271004,1.353616
+460630065X-41,41,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271402,1.353583
+460630065X-42,42,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271054,1.353651
+460630065X-43,43,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271786,1.353662
+460630065X-44,44,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271100,1.353633
+460630065X-4,4,Avenue Foch,46170,Castelnau-Montratier,C+O,44.269798,1.353485
+460630065X-45,45,Avenue Foch,46170,Castelnau-Montratier,C+O,44.272145,1.353753
+460630065X-46,46,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271165,1.353671
+460630065X-48,48,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271230,1.353683
+460630065X-50,50,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271291,1.353694
+460630065X-52,52,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271782,1.353802
+460630065X-54,54,Avenue Foch,46170,Castelnau-Montratier,C+O,44.271953,1.353815
+460630065X-56,56,Avenue Foch,46170,Castelnau-Montratier,C+O,44.272156,1.353909
+460630065X-6,6,Avenue Foch,46170,Castelnau-Montratier,C+O,44.269859,1.353489
+460630065X-8,8,Avenue Foch,46170,Castelnau-Montratier,C+O,44.269940,1.353496
+460630065X-9,9,Avenue Foch,46170,Castelnau-Montratier,C+O,44.270211,1.353419
+460630066Y-11,11,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.268953,1.350847
+460630066Y-1,1,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.268622,1.351374
+460630066Y-13,13,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.268960,1.350473
+460630066Y-15,15,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.269128,1.350531
+460630066Y-17,17,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.269288,1.350379
+460630066Y-19,19,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.269373,1.350231
+460630066Y-21,21,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.269542,1.350008
+460630066Y-23,23,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.269685,1.349825
+460630066Y-24,24,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.272851,1.348350
+460630066Y-26,26,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.273047,1.348270
+460630066Y-3,3,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.268663,1.351322
+460630066Y-4,4,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.269816,1.351123
+460630066Y-5,5,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.268710,1.351262
+460630066Y-6030,6030,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.271138,1.349132
+460630066Y-6034,6034,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.271898,1.348822
+460630066Y-6,6,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.269569,1.350043
+460630066Y-7,7,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.268756,1.351191
+460630066Y-9,9,Chemin de Clary,46170,Castelnau-Montratier,C+O,44.268901,1.350949
 460630073F-10,10,Place Gambetta,46170,Castelnau-Montratier,C+O,44.267842,1.352840
 460630073F-11,11,Place Gambetta,46170,Castelnau-Montratier,C+O,44.267931,1.352955
 460630073F-1,1,Place Gambetta,46170,Castelnau-Montratier,C+O,44.267384,1.352970
@@ -7792,38 +7792,38 @@
 460630075H-6,6,Avenue du Général de Gaulle,46170,Castelnau-Montratier,C+O,44.270015,1.352923
 460630075H-7,7,Avenue du Général de Gaulle,46170,Castelnau-Montratier,C+O,44.270688,1.351857
 460630075H-8,8,Avenue du Général de Gaulle,46170,Castelnau-Montratier,C+O,44.270073,1.352845
-460630085U-10,10,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269867,1.354542
-460630085U-14,14,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.270038,1.354811
-460630085U-15,15,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.270068,1.355086
-460630085U-16,16,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269982,1.355281
-460630085U-17,17,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269994,1.355375
-460630085U-18,18,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269961,1.355335
-460630085U-19,19,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269963,1.355444
-460630085U-20,20,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269943,1.355381
-460630085U-21,21,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.270017,1.355594
-460630085U-22,22,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269888,1.355520
-460630085U-2,2,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269690,1.353911
-460630085U-23,23,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269919,1.355560
-460630085U-24,24,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269794,1.355419
-460630085U-25,25,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269899,1.355617
-460630085U-26,26,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269804,1.355736
-460630085U-27,27,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269881,1.355668
-460630085U-28,28,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269701,1.356044
-460630085U-29,29,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269809,1.355876
-460630085U-30,30,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269525,1.355894
-460630085U-31,31,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269786,1.355943
-460630085U-32,32,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269651,1.356171
-460630085U-33,33,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.270009,1.356279
-460630085U-34,34,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269551,1.356466
-460630085U-35,35,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269694,1.356206
-460630085U-36,36,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269553,1.356520
-460630085U-37,37,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269619,1.356418
-460630085U-38,38,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269491,1.356634
-460630085U-39,39,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269485,1.356802
-460630085U-4,4,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269740,1.353998
-460630085U-6027,6027,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.270033,1.354037
-460630085U-6,6,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269776,1.354081
-460630085U-8,8,Rue Joseph Gisbert,46170,Castelnau-Montratier,CAD,44.269867,1.354524
+460630085U-10,10,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269867,1.354542
+460630085U-14,14,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.270038,1.354811
+460630085U-15,15,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.270068,1.355086
+460630085U-16,16,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269982,1.355281
+460630085U-17,17,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269994,1.355375
+460630085U-18,18,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269961,1.355335
+460630085U-19,19,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269963,1.355444
+460630085U-20,20,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269943,1.355381
+460630085U-21,21,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.270017,1.355594
+460630085U-22,22,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269888,1.355520
+460630085U-2,2,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269690,1.353911
+460630085U-23,23,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269919,1.355560
+460630085U-24,24,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269794,1.355419
+460630085U-25,25,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269899,1.355617
+460630085U-26,26,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269804,1.355736
+460630085U-27,27,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269881,1.355668
+460630085U-28,28,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269701,1.356044
+460630085U-29,29,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269809,1.355876
+460630085U-30,30,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269525,1.355894
+460630085U-31,31,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269786,1.355943
+460630085U-32,32,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269651,1.356171
+460630085U-33,33,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.270009,1.356279
+460630085U-34,34,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269551,1.356466
+460630085U-35,35,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269694,1.356206
+460630085U-36,36,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269553,1.356520
+460630085U-37,37,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269619,1.356418
+460630085U-38,38,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269491,1.356634
+460630085U-39,39,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269485,1.356802
+460630085U-4,4,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269740,1.353998
+460630085U-6027,6027,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.270033,1.354037
+460630085U-6,6,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269776,1.354081
+460630085U-8,8,Rue Joseph Gisbert,46170,Castelnau-Montratier,C+O,44.269867,1.354524
 460630095E-10,10,Rue Joffre,46170,Castelnau-Montratier,C+O,44.268078,1.352457
 460630095E-11,11,Rue Joffre,46170,Castelnau-Montratier,C+O,44.268026,1.352384
 460630095E-1,1,Rue Joffre,46170,Castelnau-Montratier,C+O,44.267813,1.352519
@@ -7877,17 +7877,17 @@
 460630114A-5,5,Rue du Nord,46170,Castelnau-Montratier,CAD,44.270334,1.353019
 460630114A-6,6,Rue du Nord,46170,Castelnau-Montratier,CAD,44.270155,1.353304
 460630114A-8,8,Rue du Nord,46170,Castelnau-Montratier,CAD,44.270230,1.353241
-460630116C-10,10,Place du Pétit Foirail,46170,Castelnau-Montratier,CAD,44.269661,1.351483
-460630116C-2,2,Place du Pétit Foirail,46170,Castelnau-Montratier,CAD,44.270087,1.352114
-460630116C-4,4,Place du Pétit Foirail,46170,Castelnau-Montratier,CAD,44.270034,1.352008
-460630116C-6,6,Place du Pétit Foirail,46170,Castelnau-Montratier,CAD,44.269977,1.351897
-460630116C-8,8,Place du Pétit Foirail,46170,Castelnau-Montratier,CAD,44.269932,1.351808
-460630125M-10,10,Rue de la Pompe,46170,Castelnau-Montratier,CAD,44.269459,1.354141
-460630125M-1,1,Rue de la Pompe,46170,Castelnau-Montratier,CAD,44.269481,1.353694
-460630125M-2,2,Rue de la Pompe,46170,Castelnau-Montratier,CAD,44.269245,1.353658
-460630125M-4,4,Rue de la Pompe,46170,Castelnau-Montratier,CAD,44.269307,1.353676
-460630125M-6,6,Rue de la Pompe,46170,Castelnau-Montratier,CAD,44.269413,1.353715
-460630125M-8,8,Rue de la Pompe,46170,Castelnau-Montratier,CAD,44.269456,1.353736
+460630116C-10,10,Place du Petit Foirail,46170,Castelnau-Montratier,C+O,44.269661,1.351483
+460630116C-2,2,Place du Petit Foirail,46170,Castelnau-Montratier,C+O,44.270087,1.352114
+460630116C-4,4,Place du Petit Foirail,46170,Castelnau-Montratier,C+O,44.270034,1.352008
+460630116C-6,6,Place du Petit Foirail,46170,Castelnau-Montratier,C+O,44.269977,1.351897
+460630116C-8,8,Place du Petit Foirail,46170,Castelnau-Montratier,C+O,44.269932,1.351808
+460630125M-10,10,Rue de la Pompe,46170,Castelnau-Montratier,C+O,44.269459,1.354141
+460630125M-1,1,Rue de la Pompe,46170,Castelnau-Montratier,C+O,44.269481,1.353694
+460630125M-2,2,Rue de la Pompe,46170,Castelnau-Montratier,C+O,44.269245,1.353658
+460630125M-4,4,Rue de la Pompe,46170,Castelnau-Montratier,C+O,44.269307,1.353676
+460630125M-6,6,Rue de la Pompe,46170,Castelnau-Montratier,C+O,44.269413,1.353715
+460630125M-8,8,Rue de la Pompe,46170,Castelnau-Montratier,C+O,44.269456,1.353736
 460630131U-11,11,Rue des Pyrénées,46170,Castelnau-Montratier,C+O,44.273568,1.350153
 460630131U-1,1,Rue des Pyrénées,46170,Castelnau-Montratier,C+O,44.272825,1.349454
 460630131U-13,13,Rue des Pyrénées,46170,Castelnau-Montratier,C+O,44.273861,1.350426
@@ -7908,15 +7908,15 @@
 460630136Z-4,4,Rue d'Occitanie,46170,Castelnau-Montratier,CAD,44.274397,1.349344
 460630136Z-63,63,Rue d'Occitanie,46170,Castelnau-Montratier,CAD,44.274100,1.348692
 460630136Z-6,6,Rue d'Occitanie,46170,Castelnau-Montratier,CAD,44.274486,1.349139
-460630138B-10,10,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268353,1.352719
-460630138B-12,12,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268385,1.352673
-460630138B-14,14,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268413,1.352637
-460630138B-18,18,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268521,1.352491
-460630138B-20,20,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268607,1.352383
-460630138B-2,2,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268159,1.353034
-460630138B-4,4,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268202,1.352957
-460630138B-6,6,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268261,1.352866
-460630138B-8,8,Rue Etienne Lacavalerie,46170,Castelnau-Montratier,CAD,44.268296,1.352808
+460630138B-10,10,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268353,1.352719
+460630138B-12,12,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268385,1.352673
+460630138B-14,14,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268413,1.352637
+460630138B-18,18,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268521,1.352491
+460630138B-20,20,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268607,1.352383
+460630138B-2,2,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268159,1.353034
+460630138B-4,4,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268202,1.352957
+460630138B-6,6,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268261,1.352866
+460630138B-8,8,Rue Étienne Lacavalerie,46170,Castelnau-Montratier,C+O,44.268296,1.352808
 460630140D-10,10,Rue des Tilleuls,46170,Castelnau-Montratier,C+O,44.274733,1.346648
 460630140D-11,11,Rue des Tilleuls,46170,Castelnau-Montratier,C+O,44.274079,1.346886
 460630140D-1,1,Rue des Tilleuls,46170,Castelnau-Montratier,C+O,44.273850,1.347753
@@ -10690,6 +10690,7 @@
 461021870P-9,9,Rue Paulin Ratier,46100,Figeac,C+O,44.609466,2.022386
 461021876W-5,5,Petite Rue des Marguilliers,46100,Figeac,C+O,44.607638,2.031970
 461021876W-6,6,Petite Rue des Marguilliers,46100,Figeac,C+O,44.607693,2.032055
+461021877X-1,1,Petite Rue Petite Rue des Fontredonde,46100,Figeac,CAD,44.606003,2.035525
 461021900X-11,11,Avenue Philibert Delprat,46100,Figeac,C+O,44.610503,2.023817
 461021900X-1,1,Avenue Philibert Delprat,46100,Figeac,C+O,44.610643,2.027675
 461021900X-13,13,Avenue Philibert Delprat,46100,Figeac,C+O,44.610533,2.023679
@@ -15376,13 +15377,13 @@
 462010034N-7,7,Chemin de Gayrac,46800,Montcuq,C+O,44.342249,1.201407
 462010035P-1,1,Rue du Grimpadou,46800,Montcuq,CAD,44.337939,1.208873
 462010035P-2,2,Rue du Grimpadou,46800,Montcuq,CAD,44.337791,1.208964
-462010036R-10,10,Chemin des Jardins,46800,Montcuq,CAD,44.340007,1.210142
-462010036R-1,1,Chemin des Jardins,46800,Montcuq,CAD,44.339255,1.210374
-462010036R-12,12,Chemin des Jardins,46800,Montcuq,CAD,44.340180,1.210056
-462010036R-2,2,Chemin des Jardins,46800,Montcuq,CAD,44.339528,1.210351
-462010036R-3,3,Chemin des Jardins,46800,Montcuq,CAD,44.339344,1.210332
-462010036R-7,7,Chemin des Jardins,46800,Montcuq,CAD,44.339803,1.210194
-462010036R-8,8,Chemin des Jardins,46800,Montcuq,CAD,44.339923,1.210336
+462010036R-10,10,Chemin des Jardins,46800,Montcuq,C+O,44.340007,1.210142
+462010036R-1,1,Chemin des Jardins,46800,Montcuq,C+O,44.339255,1.210374
+462010036R-12,12,Chemin des Jardins,46800,Montcuq,C+O,44.340180,1.210056
+462010036R-2,2,Chemin des Jardins,46800,Montcuq,C+O,44.339528,1.210351
+462010036R-3,3,Chemin des Jardins,46800,Montcuq,C+O,44.339344,1.210332
+462010036R-7,7,Chemin des Jardins,46800,Montcuq,C+O,44.339803,1.210194
+462010036R-8,8,Chemin des Jardins,46800,Montcuq,C+O,44.339923,1.210336
 462010037S-10,10,Rue de Lartigue,46800,Montcuq,C+O,44.337713,1.201436
 462010037S-12,12,Rue de Lartigue,46800,Montcuq,C+O,44.338087,1.202068
 462010037S-14,14,Rue de Lartigue,46800,Montcuq,C+O,44.338010,1.202228
@@ -15462,9 +15463,9 @@
 462010043Y-7,7,Chemin du Paradis,46800,Montcuq,C+O,44.336257,1.201927
 462010043Y-8,8,Chemin du Paradis,46800,Montcuq,C+O,44.336350,1.201231
 462010043Y-9,9,Chemin du Paradis,46800,Montcuq,C+O,44.336153,1.201206
-462010044Z-1,1,Rampe de la Patte d'Oie,46800,Montcuq,CAD,44.341115,1.205828
-462010044Z-2,2,Rampe de la Patte d'Oie,46800,Montcuq,CAD,44.340920,1.205640
-462010044Z-3,3,Rampe de la Patte d'Oie,46800,Montcuq,CAD,44.340827,1.205798
+462010044Z-1,1,Rampe de la Patte d'Oie,46800,Montcuq,C+O,44.341115,1.205828
+462010044Z-2,2,Rampe de la Patte d'Oie,46800,Montcuq,C+O,44.340920,1.205640
+462010044Z-3,3,Rampe de la Patte d'Oie,46800,Montcuq,C+O,44.340827,1.205798
 462010045A-11,11,Place de la République,46800,Montcuq,C+O,44.338121,1.210455
 462010045A-1,1,Place de la République,46800,Montcuq,C+O,44.338423,1.210508
 462010045A-13,13,Place de la République,46800,Montcuq,C+O,44.338028,1.210363
@@ -15660,15 +15661,15 @@
 462010064W-7,7,Rue du Souleillou,46800,Montcuq,C+O,44.337791,1.214078
 462010064W-9,9,Rue du Souleillou,46800,Montcuq,C+O,44.337811,1.214280
 462010066Y-1,1,Rue Neguevieille,46800,Montcuq,C+O,44.336722,1.206796
-462010069B-1,1,Venelle Saint-Privat,46800,Montcuq,CAD,44.337904,1.212208
-462010069B-2,2,Venelle Saint-Privat,46800,Montcuq,CAD,44.338018,1.211912
-462010069B-3,3,Venelle Saint-Privat,46800,Montcuq,CAD,44.337878,1.212254
-462010069B-4,4,Venelle Saint-Privat,46800,Montcuq,CAD,44.337989,1.211973
+462010069B-1,1,Venelle Saint-Privat,46800,Montcuq,C+O,44.337904,1.212208
+462010069B-2,2,Venelle Saint-Privat,46800,Montcuq,C+O,44.338018,1.211912
+462010069B-3,3,Venelle Saint-Privat,46800,Montcuq,C+O,44.337878,1.212254
+462010069B-4,4,Venelle Saint-Privat,46800,Montcuq,C+O,44.337989,1.211973
 462010070C-10,10,Rue du Thouron,46800,Montcuq,C+O,44.337255,1.214016
 462010070C-4,4,Rue du Thouron,46800,Montcuq,C+O,44.337577,1.213401
 462010070C-6,6,Rue du Thouron,46800,Montcuq,C+O,44.337431,1.213674
-462010071D-1,1,Rue du Tiradou,46800,Montcuq,CAD,44.338607,1.207425
-462010071D-2,2,Rue du Tiradou,46800,Montcuq,CAD,44.338477,1.207662
+462010071D-1,1,Rue du Tiradou,46800,Montcuq,C+O,44.338607,1.207425
+462010071D-2,2,Rue du Tiradou,46800,Montcuq,C+O,44.338477,1.207662
 462010072E-7,7,Impasse de la Tour,46800,Montcuq,C+O,44.340210,1.207870
 462010073F-1,1,Rue de la Tour,46800,Montcuq,C+O,44.338221,1.206220
 462010073F-2,2,Rue de la Tour,46800,Montcuq,C+O,44.338797,1.207368
@@ -16665,17 +16666,17 @@
 462250009G-3,3,Impasse des Cèdres,46220,Prayssac,C+O,44.500109,1.194923
 462250009G-4,4,Impasse des Cèdres,46220,Prayssac,C+O,44.500215,1.194536
 462250009G-6,6,Impasse des Cèdres,46220,Prayssac,C+O,44.500334,1.194841
-462250010H-10,10,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.501707,1.188226
-462250010H-11,11,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.502665,1.188547
-462250010H-1,1,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.503466,1.187823
-462250010H-13,13,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.502322,1.188257
-462250010H-15,15,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.502142,1.188339
-462250010H-17,17,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.502115,1.188426
-462250010H-19,19,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.501649,1.188590
-462250010H-3,3,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.503430,1.187834
-462250010H-5,5,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.503340,1.187860
-462250010H-7,7,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.503239,1.187889
-462250010H-9,9,Avenue de l'Aviateur Gibert,46220,Prayssac,CAD,44.503083,1.187936
+462250010H-10,10,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.501707,1.188226
+462250010H-11,11,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.502665,1.188547
+462250010H-1,1,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.503466,1.187823
+462250010H-13,13,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.502322,1.188257
+462250010H-15,15,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.502142,1.188339
+462250010H-17,17,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.502115,1.188426
+462250010H-19,19,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.501649,1.188590
+462250010H-3,3,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.503430,1.187834
+462250010H-5,5,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.503340,1.187860
+462250010H-7,7,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.503239,1.187889
+462250010H-9,9,Avenue de l'Aviateur Gibert,46220,Prayssac,C+O,44.503083,1.187936
 462250011J-1,1,Place Baldy,46220,Prayssac,CAD,44.505034,1.187935
 462250011J-5,5,Place Baldy,46220,Prayssac,CAD,44.505068,1.188067
 462250013L-10,10,Rue du Caillou,46220,Prayssac,C+O,44.504306,1.180252
@@ -16812,10 +16813,10 @@
 462250022W-7,7,Rue des Chênes,46220,Prayssac,C+O,44.499308,1.194193
 462250022W-8,8,Rue des Chênes,46220,Prayssac,C+O,44.498799,1.193996
 462250022W-9,9,Rue des Chênes,46220,Prayssac,C+O,44.498946,1.193985
-462250024Y-6014,6014,Rue des Dolmens,46220,Prayssac,CAD,44.504102,1.197134
-462250024Y-6038,6038,Rue des Dolmens,46220,Prayssac,CAD,44.502530,1.201665
-462250024Y-6054,6054,Rue des Dolmens,46220,Prayssac,CAD,44.503378,1.201025
-462250024Y-6161F,6161F,Rue des Dolmens,46220,Prayssac,CAD,44.502370,1.202551
+462250024Y-6014,6014,Rue des Dolmens,46220,Prayssac,C+O,44.504102,1.197134
+462250024Y-6038,6038,Rue des Dolmens,46220,Prayssac,C+O,44.502530,1.201665
+462250024Y-6054,6054,Rue des Dolmens,46220,Prayssac,C+O,44.503378,1.201025
+462250024Y-6161F,6161F,Rue des Dolmens,46220,Prayssac,C+O,44.502370,1.202551
 462250025Z-2,2,Place Dutours,46220,Prayssac,CAD,44.503624,1.187421
 462250025Z-4,4,Place Dutours,46220,Prayssac,CAD,44.503378,1.187475
 462250025Z-6,6,Place Dutours,46220,Prayssac,CAD,44.503117,1.187532
@@ -16969,8 +16970,8 @@
 462250050B-6,6,Rue du 8 Mai,46220,Prayssac,C+O,44.504618,1.185633
 462250050B-8,8,Rue du 8 Mai,46220,Prayssac,C+O,44.505325,1.185705
 462250050B-9,9,Rue du 8 Mai,46220,Prayssac,C+O,44.505815,1.186016
-462250055G-10,10,Place d'Istrie,46220,Prayssac,CAD,44.504021,1.188817
-462250055G-2,2,Place d'Istrie,46220,Prayssac,CAD,44.503814,1.188774
+462250055G-10,10,Place d'Istrie,46220,Prayssac,C+O,44.504021,1.188817
+462250055G-2,2,Place d'Istrie,46220,Prayssac,C+O,44.503814,1.188774
 462250057J-11,11,Rue Jacques Brel,46220,Prayssac,C+O,44.503895,1.181751
 462250057J-13,13,Rue Jacques Brel,46220,Prayssac,C+O,44.503605,1.181680
 462250057J-15,15,Rue Jacques Brel,46220,Prayssac,C+O,44.503556,1.181667
@@ -16987,9 +16988,9 @@
 462250057J-37,37,Rue Jacques Brel,46220,Prayssac,C+O,44.503882,1.181647
 462250057J-39,39,Rue Jacques Brel,46220,Prayssac,C+O,44.504043,1.181684
 462250057J-9,9,Rue Jacques Brel,46220,Prayssac,C+O,44.504039,1.181899
-462250058K-2,2,Place Jean Jacques Chapou,46220,Prayssac,CAD,44.504174,1.187399
-462250058K-3,3,Place Jean Jacques Chapou,46220,Prayssac,CAD,44.504016,1.187385
-462250058K-4,4,Place Jean Jacques Chapou,46220,Prayssac,CAD,44.504170,1.187274
+462250058K-2,2,Place Jean-Jacques Chapou,46220,Prayssac,C+O,44.504174,1.187399
+462250058K-3,3,Place Jean-Jacques Chapou,46220,Prayssac,C+O,44.504016,1.187385
+462250058K-4,4,Place Jean-Jacques Chapou,46220,Prayssac,C+O,44.504170,1.187274
 462250060M-2,2,Place de la Liberté,46220,Prayssac,CAD,44.504379,1.186498
 462250061N-1,1,Impasse des Lilas,46220,Prayssac,C+O,44.504578,1.191618
 462250061N-2,2,Impasse des Lilas,46220,Prayssac,C+O,44.504653,1.191705
@@ -17143,11 +17144,11 @@
 462250090V-7,7,Rue de Plantades,46220,Prayssac,C+O,44.505147,1.190791
 462250090V-8B,8BIS,Rue de Plantades,46220,Prayssac,C+O,44.504759,1.190864
 462250090V-9B,9BIS,Rue de Plantades,46220,Prayssac,C+O,44.505188,1.191659
-462250095A-1,1,Rue du Quercy,46220,Prayssac,CAD,44.504730,1.188500
-462250095A-2,2,Rue du Quercy,46220,Prayssac,CAD,44.504706,1.188578
-462250095A-2B,2BIS,Rue du Quercy,46220,Prayssac,CAD,44.504727,1.188623
-462250095A-3,3,Rue du Quercy,46220,Prayssac,CAD,44.504806,1.188647
-462250095A-5,5,Rue du Quercy,46220,Prayssac,CAD,44.504850,1.188722
+462250095A-1,1,Rue du Quercy,46220,Prayssac,C+O,44.504730,1.188500
+462250095A-2,2,Rue du Quercy,46220,Prayssac,C+O,44.504706,1.188578
+462250095A-2B,2BIS,Rue du Quercy,46220,Prayssac,C+O,44.504727,1.188623
+462250095A-3,3,Rue du Quercy,46220,Prayssac,C+O,44.504806,1.188647
+462250095A-5,5,Rue du Quercy,46220,Prayssac,C+O,44.504850,1.188722
 462250096B-10,10,Rue René Lafargue,46220,Prayssac,C+O,44.505735,1.193022
 462250096B-11,11,Rue René Lafargue,46220,Prayssac,C+O,44.505785,1.191888
 462250096B-1,1,Rue René Lafargue,46220,Prayssac,C+O,44.505631,1.192696
@@ -17330,21 +17331,21 @@
 462250117Z-3,3,Rue Fraysse,46220,Prayssac,CAD,44.499869,1.189877
 462250117Z-6,6,Rue Fraysse,46220,Prayssac,CAD,44.499546,1.189598
 462250117Z-7,7,Rue Fraysse,46220,Prayssac,CAD,44.499957,1.189606
-46225A013F-10,10,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502536,1.186426
-46225A013F-11,11,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502287,1.186270
-46225A013F-1,1,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502535,1.187594
-46225A013F-13,13,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502128,1.186109
-46225A013F-15,15,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502130,1.185983
-46225A013F-17,17,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502197,1.185955
-46225A013F-19,19,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502365,1.186054
-46225A013F-2,2,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502577,1.187519
-46225A013F-3,3,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502431,1.187361
-46225A013F-4,4,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502564,1.187167
-46225A013F-5,5,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502382,1.187073
-46225A013F-6,6,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502557,1.186924
-46225A013F-7,7,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502342,1.186808
-46225A013F-8,8,Résidence Les Tilleuls,46220,Prayssac,CAD,44.502543,1.186671
-46225A013F-9,9,Résidence Les Tilleuls,46220,Prayssac,CAD,44.501929,1.186670
+46225A013F-10,10,Résidence des Tilleuls,46220,Prayssac,C+O,44.502536,1.186426
+46225A013F-11,11,Résidence des Tilleuls,46220,Prayssac,C+O,44.502287,1.186270
+46225A013F-1,1,Résidence des Tilleuls,46220,Prayssac,C+O,44.502535,1.187594
+46225A013F-13,13,Résidence des Tilleuls,46220,Prayssac,C+O,44.502128,1.186109
+46225A013F-15,15,Résidence des Tilleuls,46220,Prayssac,C+O,44.502130,1.185983
+46225A013F-17,17,Résidence des Tilleuls,46220,Prayssac,C+O,44.502197,1.185955
+46225A013F-19,19,Résidence des Tilleuls,46220,Prayssac,C+O,44.502365,1.186054
+46225A013F-2,2,Résidence des Tilleuls,46220,Prayssac,C+O,44.502577,1.187519
+46225A013F-3,3,Résidence des Tilleuls,46220,Prayssac,C+O,44.502431,1.187361
+46225A013F-4,4,Résidence des Tilleuls,46220,Prayssac,C+O,44.502564,1.187167
+46225A013F-5,5,Résidence des Tilleuls,46220,Prayssac,C+O,44.502382,1.187073
+46225A013F-6,6,Résidence des Tilleuls,46220,Prayssac,C+O,44.502557,1.186924
+46225A013F-7,7,Résidence des Tilleuls,46220,Prayssac,C+O,44.502342,1.186808
+46225A013F-8,8,Résidence des Tilleuls,46220,Prayssac,C+O,44.502543,1.186671
+46225A013F-9,9,Résidence des Tilleuls,46220,Prayssac,C+O,44.501929,1.186670
 462290059U-308F,308F,Rue de l'Aigle,46130,Puybrun,CAD,44.918566,1.788646
 462290059U-686F,686F,Rue de l'Aigle,46130,Puybrun,CAD,44.918932,1.787606
 462290065A-388F,388F,Rue des Vignes,46130,Puybrun,CAD,44.916501,1.789260
