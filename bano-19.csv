@@ -455,17 +455,17 @@
 190050102C-6,6,Rue de la Porte Basse,19240,Allassac,C+O,45.256572,1.474647
 190050102C-7B,7BIS,Rue de la Porte Basse,19240,Allassac,C+O,45.256412,1.475118
 190050102C-8,8,Rue de la Porte Basse,19240,Allassac,C+O,45.256546,1.474589
-190050103D-11,11,Rue Porte Lauzanne,19240,Allassac,CAD,45.257518,1.474383
-190050103D-1,1,Rue Porte Lauzanne,19240,Allassac,CAD,45.257246,1.475032
-190050103D-12,12,Rue Porte Lauzanne,19240,Allassac,CAD,45.257442,1.474572
-190050103D-14,14,Rue Porte Lauzanne,19240,Allassac,CAD,45.257511,1.474449
-190050103D-16,16,Rue Porte Lauzanne,19240,Allassac,CAD,45.257692,1.474318
-190050103D-3,3,Rue Porte Lauzanne,19240,Allassac,CAD,45.257275,1.474860
-190050103D-5,5,Rue Porte Lauzanne,19240,Allassac,CAD,45.257320,1.474662
-190050103D-6,6,Rue Porte Lauzanne,19240,Allassac,CAD,45.257308,1.474887
-190050103D-7,7,Rue Porte Lauzanne,19240,Allassac,CAD,45.257406,1.474586
-190050103D-8,8,Rue Porte Lauzanne,19240,Allassac,CAD,45.257346,1.474770
-190050103D-9,9,Rue Porte Lauzanne,19240,Allassac,CAD,45.257306,1.474490
+190050103D-11,11,Rue Porte Lauzanne,19240,Allassac,C+O,45.257518,1.474383
+190050103D-1,1,Rue Porte Lauzanne,19240,Allassac,C+O,45.257246,1.475032
+190050103D-12,12,Rue Porte Lauzanne,19240,Allassac,C+O,45.257442,1.474572
+190050103D-14,14,Rue Porte Lauzanne,19240,Allassac,C+O,45.257511,1.474449
+190050103D-16,16,Rue Porte Lauzanne,19240,Allassac,C+O,45.257692,1.474318
+190050103D-3,3,Rue Porte Lauzanne,19240,Allassac,C+O,45.257275,1.474860
+190050103D-5,5,Rue Porte Lauzanne,19240,Allassac,C+O,45.257320,1.474662
+190050103D-6,6,Rue Porte Lauzanne,19240,Allassac,C+O,45.257308,1.474887
+190050103D-7,7,Rue Porte Lauzanne,19240,Allassac,C+O,45.257406,1.474586
+190050103D-8,8,Rue Porte Lauzanne,19240,Allassac,C+O,45.257346,1.474770
+190050103D-9,9,Rue Porte Lauzanne,19240,Allassac,C+O,45.257306,1.474490
 190050104E-10,10,Rue des Prés Hivert,19240,Allassac,C+O,45.255966,1.473991
 190050104E-11,11,Rue des Prés Hivert,19240,Allassac,C+O,45.254530,1.472960
 190050104E-11B,11BIS,Rue des Prés Hivert,19240,Allassac,C+O,45.254175,1.473246
@@ -6237,141 +6237,141 @@
 190311536Y-18,18,Rue des Colombes,19100,Brive-la-Gaillarde,CAD,45.150875,1.545366
 190311536Y-6,6,Rue des Colombes,19100,Brive-la-Gaillarde,CAD,45.150236,1.543825
 190311536Y-8,8,Rue des Colombes,19100,Brive-la-Gaillarde,CAD,45.150321,1.544033
-190311540C-10,10,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159033,1.525929
-190311540C-11,11,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158999,1.525798
-190311540C-12,12,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159179,1.525948
-190311540C-14,14,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159292,1.525962
-190311540C-15,15,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159121,1.525814
-190311540C-16,16,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159401,1.525976
-190311540C-17,17,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159203,1.525824
-190311540C-18,18,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159540,1.525994
-190311540C-19,19,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159282,1.525835
-190311540C-20,20,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159638,1.526006
-190311540C-21,21,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159359,1.525845
-190311540C-22,22,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159743,1.526020
-190311540C-2,2,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158502,1.525916
-190311540C-23,23,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159440,1.525856
-190311540C-24,24,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159867,1.526035
-190311540C-25,25,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159536,1.525868
-190311540C-25B,25BIS,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159629,1.525880
-190311540C-27,27,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159766,1.525896
-190311540C-28,28,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.160035,1.526055
-190311540C-29,29,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.159985,1.525924
-190311540C-29B,29BIS,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.160108,1.525940
-190311540C-30,30,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.160137,1.526068
-190311540C-31,31,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.160233,1.525819
-190311540C-3,3,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158457,1.525798
-190311540C-4,4,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158580,1.525906
-190311540C-5,5,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158646,1.525780
-190311540C-6,6,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158741,1.525902
-190311540C-8,8,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158887,1.525910
-190311540C-9,9,Rue Col Bial,19100,Brive-la-Gaillarde,CAD,45.158875,1.525782
-190311550N-11,11,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156040,1.524202
-190311550N-12,12,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.155846,1.524483
-190311550N-13,13,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156175,1.524146
-190311550N-14,14,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.155967,1.524434
-190311550N-15,15,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156274,1.524105
-190311550N-15B,15BIS,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156435,1.524037
-190311550N-16,16,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156047,1.524400
-190311550N-17,17,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156547,1.523990
-190311550N-18,18,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156141,1.524361
-190311550N-19,19,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156620,1.523960
-190311550N-20,20,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156234,1.524322
-190311550N-21,21,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156704,1.523925
-190311550N-22,22,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156310,1.524291
-190311550N-23,23,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156799,1.523885
-190311550N-24,24,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156409,1.524249
-190311550N-25,25,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156896,1.523845
-190311550N-26,26,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156560,1.524186
-190311550N-27,27,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.157063,1.523775
-190311550N-28,28,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156663,1.524143
-190311550N-28B,28BIS,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156765,1.524101
-190311550N-28T,28TER,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156848,1.524066
-190311550N-29,29,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.157183,1.523562
-190311550N-30,30,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.156934,1.524030
-190311550N-32,32,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.157070,1.523973
-190311550N-5,5,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.155724,1.524335
-190311550N-7,7,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.155817,1.524296
-190311550N-9,9,Boulevard Col Germain,19100,Brive-la-Gaillarde,CAD,45.155922,1.524252
-190311560Z-11,11,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154977,1.535448
-190311560Z-13,13,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154933,1.535703
-190311560Z-22,22,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.155002,1.536077
-190311560Z-2,2,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154570,1.534730
-190311560Z-23,23,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.155265,1.536438
-190311560Z-24,24,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.155098,1.536291
-190311560Z-26,26,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.155163,1.536435
-190311560Z-27,27,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.155404,1.536744
-190311560Z-28,28,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.155218,1.536562
-190311560Z-30,30,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.155263,1.536713
-190311560Z-3,3,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154691,1.534983
-190311560Z-4,4,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154551,1.534798
-190311560Z-5,5,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154692,1.535168
-190311560Z-7,7,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154743,1.535279
-190311560Z-8,8,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154558,1.535119
-190311560Z-9,9,Rue Col Jean Delmas,19100,Brive-la-Gaillarde,CAD,45.154786,1.535376
-190311570K-10,10,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166592,1.548719
-190311570K-11,11,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166512,1.548846
-190311570K-12,12,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166492,1.548749
-190311570K-13,13,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166392,1.548883
-190311570K-14,14,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166350,1.548489
-190311570K-15,15,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166253,1.548925
-190311570K-16,16,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166218,1.548513
-190311570K-17,17,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166096,1.548973
-190311570K-18,18,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166150,1.548855
-190311570K-4,4,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166865,1.548610
-190311570K-5,5,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166807,1.548757
-190311570K-6,6,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166797,1.548631
-190311570K-7,7,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166693,1.548792
-190311570K-8,8,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166685,1.548665
-190311570K-9,9,Rue Col Monteil,19100,Brive-la-Gaillarde,CAD,45.166606,1.548818
-190311580W-10,10,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156539,1.501756
-190311580W-11,11,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156749,1.501258
-190311580W-1,1,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.155893,1.501631
-190311580W-12,12,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156615,1.501475
-190311580W-13,13,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156869,1.501206
-190311580W-14,14,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156749,1.501416
-190311580W-15,15,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156984,1.501156
-190311580W-16,16,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156878,1.501360
-190311580W-17,17,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157100,1.501106
-190311580W-18,18,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157019,1.501299
-190311580W-19,19,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157225,1.501051
-190311580W-1B,1BIS,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156011,1.501580
-190311580W-20,20,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157159,1.501238
-190311580W-21,21,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157353,1.500995
-190311580W-22,22,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157324,1.501166
-190311580W-2,2,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.155957,1.501762
-190311580W-24,24,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157449,1.501111
-190311580W-25,25,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157601,1.500887
-190311580W-26,26,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157573,1.501056
-190311580W-28,28,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157704,1.500999
-190311580W-29,29,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158014,1.500707
-190311580W-30,30,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157826,1.500946
-190311580W-31,31,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158124,1.500659
-190311580W-32,32,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.157953,1.500890
-190311580W-3,3,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156146,1.501521
-190311580W-34,34,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158092,1.500829
-190311580W-35,35,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158389,1.500543
-190311580W-36,36,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158225,1.500770
-190311580W-37,37,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158438,1.500250
-190311580W-38,38,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158524,1.500884
-190311580W-39,39,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158632,1.500437
-190311580W-40,40,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158616,1.500574
-190311580W-41,41,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158767,1.500378
-190311580W-42,42,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158761,1.500537
-190311580W-43,43,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158915,1.500313
-190311580W-44,44,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.158911,1.500471
-190311580W-4,4,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156100,1.501700
-190311580W-46,46,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.159070,1.500401
-190311580W-48,48,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.159274,1.500501
-190311580W-50,50,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.159559,1.500186
-190311580W-52,52,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.159738,1.500106
-190311580W-54,54,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.159896,1.500037
-190311580W-5,5,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156262,1.501471
-190311580W-5B,5BIS,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156375,1.501422
-190311580W-6,6,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156228,1.501644
-190311580W-7,7,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156502,1.501366
-190311580W-8,8,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156355,1.501589
-190311580W-9,9,Rue Col Vaujour,19100,Brive-la-Gaillarde,CAD,45.156617,1.501316
+190311540C-10,10,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159033,1.525929
+190311540C-11,11,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158999,1.525798
+190311540C-12,12,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159179,1.525948
+190311540C-14,14,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159292,1.525962
+190311540C-15,15,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159121,1.525814
+190311540C-16,16,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159401,1.525976
+190311540C-17,17,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159203,1.525824
+190311540C-18,18,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159540,1.525994
+190311540C-19,19,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159282,1.525835
+190311540C-20,20,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159638,1.526006
+190311540C-21,21,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159359,1.525845
+190311540C-22,22,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159743,1.526020
+190311540C-2,2,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158502,1.525916
+190311540C-23,23,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159440,1.525856
+190311540C-24,24,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159867,1.526035
+190311540C-25,25,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159536,1.525868
+190311540C-25B,25BIS,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159629,1.525880
+190311540C-27,27,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159766,1.525896
+190311540C-28,28,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.160035,1.526055
+190311540C-29,29,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.159985,1.525924
+190311540C-29B,29BIS,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.160108,1.525940
+190311540C-30,30,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.160137,1.526068
+190311540C-31,31,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.160233,1.525819
+190311540C-3,3,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158457,1.525798
+190311540C-4,4,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158580,1.525906
+190311540C-5,5,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158646,1.525780
+190311540C-6,6,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158741,1.525902
+190311540C-8,8,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158887,1.525910
+190311540C-9,9,Rue du Colonel Bial,19100,Brive-la-Gaillarde,C+O,45.158875,1.525782
+190311550N-11,11,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156040,1.524202
+190311550N-12,12,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.155846,1.524483
+190311550N-13,13,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156175,1.524146
+190311550N-14,14,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.155967,1.524434
+190311550N-15,15,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156274,1.524105
+190311550N-15B,15BIS,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156435,1.524037
+190311550N-16,16,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156047,1.524400
+190311550N-17,17,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156547,1.523990
+190311550N-18,18,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156141,1.524361
+190311550N-19,19,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156620,1.523960
+190311550N-20,20,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156234,1.524322
+190311550N-21,21,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156704,1.523925
+190311550N-22,22,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156310,1.524291
+190311550N-23,23,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156799,1.523885
+190311550N-24,24,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156409,1.524249
+190311550N-25,25,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156896,1.523845
+190311550N-26,26,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156560,1.524186
+190311550N-27,27,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.157063,1.523775
+190311550N-28,28,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156663,1.524143
+190311550N-28B,28BIS,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156765,1.524101
+190311550N-28T,28TER,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156848,1.524066
+190311550N-29,29,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.157183,1.523562
+190311550N-30,30,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.156934,1.524030
+190311550N-32,32,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.157070,1.523973
+190311550N-5,5,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.155724,1.524335
+190311550N-7,7,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.155817,1.524296
+190311550N-9,9,Boulevard du Colonel Germain,19100,Brive-la-Gaillarde,C+O,45.155922,1.524252
+190311560Z-11,11,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154977,1.535448
+190311560Z-13,13,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154933,1.535703
+190311560Z-22,22,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.155002,1.536077
+190311560Z-2,2,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154570,1.534730
+190311560Z-23,23,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.155265,1.536438
+190311560Z-24,24,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.155098,1.536291
+190311560Z-26,26,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.155163,1.536435
+190311560Z-27,27,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.155404,1.536744
+190311560Z-28,28,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.155218,1.536562
+190311560Z-30,30,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.155263,1.536713
+190311560Z-3,3,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154691,1.534983
+190311560Z-4,4,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154551,1.534798
+190311560Z-5,5,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154692,1.535168
+190311560Z-7,7,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154743,1.535279
+190311560Z-8,8,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154558,1.535119
+190311560Z-9,9,Rue Colonel Jean Delmas,19100,Brive-la-Gaillarde,C+O,45.154786,1.535376
+190311570K-10,10,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166592,1.548719
+190311570K-11,11,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166512,1.548846
+190311570K-12,12,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166492,1.548749
+190311570K-13,13,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166392,1.548883
+190311570K-14,14,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166350,1.548489
+190311570K-15,15,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166253,1.548925
+190311570K-16,16,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166218,1.548513
+190311570K-17,17,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166096,1.548973
+190311570K-18,18,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166150,1.548855
+190311570K-4,4,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166865,1.548610
+190311570K-5,5,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166807,1.548757
+190311570K-6,6,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166797,1.548631
+190311570K-7,7,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166693,1.548792
+190311570K-8,8,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166685,1.548665
+190311570K-9,9,Rue du Colonel Monteil,19100,Brive-la-Gaillarde,C+O,45.166606,1.548818
+190311580W-10,10,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156539,1.501756
+190311580W-11,11,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156749,1.501258
+190311580W-1,1,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.155893,1.501631
+190311580W-12,12,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156615,1.501475
+190311580W-13,13,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156869,1.501206
+190311580W-14,14,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156749,1.501416
+190311580W-15,15,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156984,1.501156
+190311580W-16,16,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156878,1.501360
+190311580W-17,17,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157100,1.501106
+190311580W-18,18,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157019,1.501299
+190311580W-19,19,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157225,1.501051
+190311580W-1B,1BIS,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156011,1.501580
+190311580W-20,20,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157159,1.501238
+190311580W-21,21,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157353,1.500995
+190311580W-22,22,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157324,1.501166
+190311580W-2,2,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.155957,1.501762
+190311580W-24,24,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157449,1.501111
+190311580W-25,25,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157601,1.500887
+190311580W-26,26,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157573,1.501056
+190311580W-28,28,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157704,1.500999
+190311580W-29,29,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158014,1.500707
+190311580W-30,30,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157826,1.500946
+190311580W-31,31,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158124,1.500659
+190311580W-32,32,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.157953,1.500890
+190311580W-3,3,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156146,1.501521
+190311580W-34,34,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158092,1.500829
+190311580W-35,35,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158389,1.500543
+190311580W-36,36,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158225,1.500770
+190311580W-37,37,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158438,1.500250
+190311580W-38,38,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158524,1.500884
+190311580W-39,39,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158632,1.500437
+190311580W-40,40,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158616,1.500574
+190311580W-41,41,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158767,1.500378
+190311580W-42,42,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158761,1.500537
+190311580W-43,43,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158915,1.500313
+190311580W-44,44,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.158911,1.500471
+190311580W-4,4,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156100,1.501700
+190311580W-46,46,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.159070,1.500401
+190311580W-48,48,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.159274,1.500501
+190311580W-50,50,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.159559,1.500186
+190311580W-52,52,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.159738,1.500106
+190311580W-54,54,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.159896,1.500037
+190311580W-5,5,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156262,1.501471
+190311580W-5B,5BIS,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156375,1.501422
+190311580W-6,6,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156228,1.501644
+190311580W-7,7,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156502,1.501366
+190311580W-8,8,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156355,1.501589
+190311580W-9,9,Rue du Colonel Vaujour,19100,Brive-la-Gaillarde,C+O,45.156617,1.501316
 190311603W-12,12,Rue Commandant Auguste Rossion,19100,Brive-la-Gaillarde,C+O,45.172356,1.549061
 190311603W-18,18,Rue Commandant Auguste Rossion,19100,Brive-la-Gaillarde,C+O,45.172856,1.550221
 190311603W-20,20,Rue Commandant Auguste Rossion,19100,Brive-la-Gaillarde,C+O,45.172932,1.550388
@@ -12619,75 +12619,75 @@
 190314030J-7,7,Rue Lidon,19100,Brive-la-Gaillarde,C+O,45.156490,1.528254
 190314030J-8,8,Rue Lidon,19100,Brive-la-Gaillarde,C+O,45.156558,1.528127
 190314030J-9,9,Rue Lidon,19100,Brive-la-Gaillarde,C+O,45.156434,1.528289
-190314040V-10,10,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157907,1.533136
-190314040V-1,1,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.158348,1.533151
-190314040V-12,12,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157834,1.533153
-190314040V-13,13,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157848,1.533237
-190314040V-14,14,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157775,1.533172
-190314040V-15,15,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157785,1.533247
-190314040V-18,18,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157498,1.533189
-190314040V-19,19,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157706,1.533258
-190314040V-20,20,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157422,1.533184
-190314040V-21,21,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157645,1.533271
-190314040V-22,22,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157324,1.533171
-190314040V-2,2,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.158404,1.533052
-190314040V-23,23,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157590,1.533279
-190314040V-24,24,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157245,1.533162
-190314040V-25,25,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157505,1.533277
-190314040V-26,26,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157092,1.533138
-190314040V-27,27,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157468,1.533275
-190314040V-28,28,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157030,1.533125
-190314040V-28B,28BIS,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157061,1.533132
-190314040V-29,29,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157429,1.533271
-190314040V-30,30,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.156966,1.533112
-190314040V-33,33,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157278,1.533251
-190314040V-3,3,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.158296,1.533160
-190314040V-35,35,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157223,1.533219
-190314040V-37,37,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157145,1.533216
-190314040V-39,39,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157062,1.533201
-190314040V-5,5,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.158219,1.533148
-190314040V-7,7,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.158079,1.533169
-190314040V-8,8,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.158074,1.533107
-190314040V-8B,8BIS,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.157996,1.533120
-190314040V-9,9,Rue Lt Col Faro,19100,Brive-la-Gaillarde,CAD,45.158002,1.533196
-190314045A-1,1,Rue Lt Col Feyfant,19100,Brive-la-Gaillarde,CAD,45.168513,1.512424
-190314045A-14,14,Rue Lt Col Feyfant,19100,Brive-la-Gaillarde,CAD,45.169106,1.512529
-190314045A-16,16,Rue Lt Col Feyfant,19100,Brive-la-Gaillarde,CAD,45.169234,1.512451
-190314045A-6,6,Rue Lt Col Feyfant,19100,Brive-la-Gaillarde,CAD,45.168494,1.512548
-190314045A-7,7,Rue Lt Col Feyfant,19100,Brive-la-Gaillarde,CAD,45.169088,1.512330
-190314045A-7B,7BIS,Rue Lt Col Feyfant,19100,Brive-la-Gaillarde,CAD,45.168987,1.512407
-190314050F-12,12,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161811,1.544470
-190314050F-13,13,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161535,1.544614
-190314050F-14,14,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161673,1.544498
-190314050F-15,15,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161415,1.544627
-190314050F-16,16,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161536,1.544487
-190314050F-17,17,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161250,1.544646
-190314050F-18,18,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161359,1.544505
-190314050F-19,19,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161021,1.544671
-190314050F-20,20,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161212,1.544521
-190314050F-21,21,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160912,1.544943
-190314050F-22,22,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161091,1.544534
-190314050F-23,23,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160762,1.544700
-190314050F-24,24,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160879,1.544581
-190314050F-25,25,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160652,1.544712
-190314050F-26,26,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160630,1.544617
-190314050F-27,27,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160566,1.544722
-190314050F-28,28,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160543,1.544628
-190314050F-29,29,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160447,1.544735
-190314050F-30,30,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160394,1.544617
-190314050F-31,31,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160339,1.544747
-190314050F-32,32,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160255,1.544632
-190314050F-33,33,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160229,1.544760
-190314050F-3,3,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.162207,1.544538
-190314050F-34,34,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160146,1.544644
-190314050F-35,35,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160124,1.544771
-190314050F-36,36,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.160055,1.544654
-190314050F-38,38,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.159949,1.544666
-190314050F-5,5,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.162093,1.544540
-190314050F-6,6,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.162237,1.544405
-190314050F-7,7,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161945,1.544558
-190314050F-8,8,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.162044,1.544443
-190314050F-9,9,Rue Lt Col Jean Verines,19100,Brive-la-Gaillarde,CAD,45.161769,1.544587
+190314040V-10,10,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157907,1.533136
+190314040V-1,1,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.158348,1.533151
+190314040V-12,12,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157834,1.533153
+190314040V-13,13,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157848,1.533237
+190314040V-14,14,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157775,1.533172
+190314040V-15,15,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157785,1.533247
+190314040V-18,18,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157498,1.533189
+190314040V-19,19,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157706,1.533258
+190314040V-20,20,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157422,1.533184
+190314040V-21,21,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157645,1.533271
+190314040V-22,22,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157324,1.533171
+190314040V-2,2,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.158404,1.533052
+190314040V-23,23,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157590,1.533279
+190314040V-24,24,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157245,1.533162
+190314040V-25,25,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157505,1.533277
+190314040V-26,26,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157092,1.533138
+190314040V-27,27,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157468,1.533275
+190314040V-28,28,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157030,1.533125
+190314040V-28B,28BIS,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157061,1.533132
+190314040V-29,29,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157429,1.533271
+190314040V-30,30,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.156966,1.533112
+190314040V-33,33,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157278,1.533251
+190314040V-3,3,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.158296,1.533160
+190314040V-35,35,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157223,1.533219
+190314040V-37,37,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157145,1.533216
+190314040V-39,39,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157062,1.533201
+190314040V-5,5,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.158219,1.533148
+190314040V-7,7,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.158079,1.533169
+190314040V-8,8,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.158074,1.533107
+190314040V-8B,8BIS,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.157996,1.533120
+190314040V-9,9,Rue du Lieutenant Colonel Faro,19100,Brive-la-Gaillarde,C+O,45.158002,1.533196
+190314045A-1,1,Rue du Lieutenant-Colonel Feyfant,19100,Brive-la-Gaillarde,C+O,45.168513,1.512424
+190314045A-14,14,Rue du Lieutenant-Colonel Feyfant,19100,Brive-la-Gaillarde,C+O,45.169106,1.512529
+190314045A-16,16,Rue du Lieutenant-Colonel Feyfant,19100,Brive-la-Gaillarde,C+O,45.169234,1.512451
+190314045A-6,6,Rue du Lieutenant-Colonel Feyfant,19100,Brive-la-Gaillarde,C+O,45.168494,1.512548
+190314045A-7,7,Rue du Lieutenant-Colonel Feyfant,19100,Brive-la-Gaillarde,C+O,45.169088,1.512330
+190314045A-7B,7BIS,Rue du Lieutenant-Colonel Feyfant,19100,Brive-la-Gaillarde,C+O,45.168987,1.512407
+190314050F-12,12,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161811,1.544470
+190314050F-13,13,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161535,1.544614
+190314050F-14,14,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161673,1.544498
+190314050F-15,15,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161415,1.544627
+190314050F-16,16,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161536,1.544487
+190314050F-17,17,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161250,1.544646
+190314050F-18,18,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161359,1.544505
+190314050F-19,19,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161021,1.544671
+190314050F-20,20,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161212,1.544521
+190314050F-21,21,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160912,1.544943
+190314050F-22,22,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161091,1.544534
+190314050F-23,23,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160762,1.544700
+190314050F-24,24,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160879,1.544581
+190314050F-25,25,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160652,1.544712
+190314050F-26,26,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160630,1.544617
+190314050F-27,27,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160566,1.544722
+190314050F-28,28,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160543,1.544628
+190314050F-29,29,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160447,1.544735
+190314050F-30,30,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160394,1.544617
+190314050F-31,31,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160339,1.544747
+190314050F-32,32,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160255,1.544632
+190314050F-33,33,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160229,1.544760
+190314050F-3,3,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.162207,1.544538
+190314050F-34,34,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160146,1.544644
+190314050F-35,35,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160124,1.544771
+190314050F-36,36,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.160055,1.544654
+190314050F-38,38,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.159949,1.544666
+190314050F-5,5,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.162093,1.544540
+190314050F-6,6,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.162237,1.544405
+190314050F-7,7,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161945,1.544558
+190314050F-8,8,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.162044,1.544443
+190314050F-9,9,Rue du Lieutenant-Colonel Jean Verines,19100,Brive-la-Gaillarde,C+O,45.161769,1.544587
 190314070C-11,11,Rue du Lion d'Or,19100,Brive-la-Gaillarde,C+O,45.158468,1.532335
 190314070C-1,1,Rue du Lion d'Or,19100,Brive-la-Gaillarde,C+O,45.158361,1.531918
 190314070C-2,2,Rue du Lion d'Or,19100,Brive-la-Gaillarde,C+O,45.158365,1.532059

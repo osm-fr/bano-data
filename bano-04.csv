@@ -4396,13 +4396,13 @@
 040700065D-7,7,Rue André Daumas,04000,Digne-les-Bains,CAD,44.089149,6.219829
 040700065D-8,8,Rue André Daumas,04000,Digne-les-Bains,CAD,44.089216,6.219983
 040700065D-9,9,Rue André Daumas,04000,Digne-les-Bains,CAD,44.089135,6.219599
-040700066E-10,10,Ancienne Route Anc Rte Imperiale,04000,Digne-les-Bains,CAD,44.070906,6.205702
-040700066E-12,12,Ancienne Route Anc Rte Imperiale,04000,Digne-les-Bains,CAD,44.070610,6.205449
-040700066E-14,14,Ancienne Route Anc Rte Imperiale,04000,Digne-les-Bains,CAD,44.070929,6.204683
-040700066E-2,2,Ancienne Route Anc Rte Imperiale,04000,Digne-les-Bains,CAD,44.074379,6.207807
-040700066E-4,4,Ancienne Route Anc Rte Imperiale,04000,Digne-les-Bains,CAD,44.073837,6.207764
-040700066E-5,5,Ancienne Route Anc Rte Imperiale,04000,Digne-les-Bains,CAD,44.073767,6.207864
-040700066E-6,6,Ancienne Route Anc Rte Imperiale,04000,Digne-les-Bains,CAD,44.072506,6.207021
+040700066E-10,10,Ancienne Route Impériale,04000,Digne-les-Bains,C+O,44.070906,6.205702
+040700066E-12,12,Ancienne Route Impériale,04000,Digne-les-Bains,C+O,44.070610,6.205449
+040700066E-14,14,Ancienne Route Impériale,04000,Digne-les-Bains,C+O,44.070929,6.204683
+040700066E-2,2,Ancienne Route Impériale,04000,Digne-les-Bains,C+O,44.074379,6.207807
+040700066E-4,4,Ancienne Route Impériale,04000,Digne-les-Bains,C+O,44.073837,6.207764
+040700066E-5,5,Ancienne Route Impériale,04000,Digne-les-Bains,C+O,44.073767,6.207864
+040700066E-6,6,Ancienne Route Impériale,04000,Digne-les-Bains,C+O,44.072506,6.207021
 040700067F-12,12,Rue des Ammonites,04000,Digne-les-Bains,C+O,44.113123,6.231366
 040700067F-3,3,Rue des Ammonites,04000,Digne-les-Bains,C+O,44.112715,6.231562
 040700080V-10,10,Rue Antoine Héroët,04000,Digne-les-Bains,C+O,44.087956,6.230161
@@ -5045,53 +5045,53 @@
 040700389F-1,1,Chemin de la Colle,04000,Digne-les-Bains,CAD,44.057385,6.311222
 040700389F-2,2,Chemin de la Colle,04000,Digne-les-Bains,CAD,44.057607,6.309364
 040700389F-4,4,Chemin de la Colle,04000,Digne-les-Bains,CAD,44.055552,6.310239
-040700395M-11,11,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084285,6.206757
-040700395M-12,12,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.085125,6.206762
-040700395M-13,13,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083995,6.206833
-040700395M-14,14,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084309,6.206474
-040700395M-15,15,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083742,6.207038
-040700395M-17,17,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083598,6.207102
-040700395M-1A,1A,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084759,6.208376
-040700395M-24,24,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083978,6.205412
-040700395M-28,28,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084329,6.204490
-040700395M-31,31,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082874,6.202269
-040700395M-33,33,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082839,6.202162
-040700395M-3,3,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084629,6.207828
-040700395M-34,34,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083686,6.204391
-040700395M-35,35,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082793,6.202020
-040700395M-37,37,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082719,6.201895
-040700395M-39,39,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082541,6.201785
-040700395M-41,41,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082661,6.201605
-040700395M-43,43,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082573,6.201538
-040700395M-4,4,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.085215,6.208398
-040700395M-45,45,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.081599,6.197957
-040700395M-46,46,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082666,6.201329
-040700395M-49,49,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.079325,6.191923
-040700395M-50,50,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082932,6.200914
-040700395M-51,51,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.073513,6.183240
-040700395M-52,52,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083000,6.201046
-040700395M-54,54,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082990,6.200882
-040700395M-55,55,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.072368,6.182329
-040700395M-5,5,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084261,6.207667
-040700395M-56,56,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082853,6.200789
-040700395M-57,57,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.072396,6.182652
-040700395M-58,58,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083045,6.200661
-040700395M-59,59,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.071757,6.181875
-040700395M-5A,5A,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084123,6.207914
-040700395M-60,60,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082581,6.200419
-040700395M-61,61,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.071607,6.181450
-040700395M-68,68,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.082758,6.197426
-040700395M-70,70,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083022,6.197421
-040700395M-72,72,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.083502,6.197304
-040700395M-74,74,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.081965,6.197760
-040700395M-78,78,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.080740,6.194308
-040700395M-82,82,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.079716,6.192726
-040700395M-86,86,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.078036,6.188452
-040700395M-86B,86BIS,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.077983,6.188121
-040700395M-86T,86TER,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.078042,6.188312
-040700395M-8,8,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.084694,6.207775
-040700395M-90,90,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.077028,6.186694
-040700395M-92,92,Avenue Col Noël,04000,Digne-les-Bains,CAD,44.076748,6.186142
+040700395M-11,11,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084285,6.206757
+040700395M-12,12,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.085125,6.206762
+040700395M-13,13,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083995,6.206833
+040700395M-14,14,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084309,6.206474
+040700395M-15,15,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083742,6.207038
+040700395M-17,17,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083598,6.207102
+040700395M-1A,1A,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084759,6.208376
+040700395M-24,24,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083978,6.205412
+040700395M-28,28,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084329,6.204490
+040700395M-31,31,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082874,6.202269
+040700395M-33,33,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082839,6.202162
+040700395M-3,3,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084629,6.207828
+040700395M-34,34,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083686,6.204391
+040700395M-35,35,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082793,6.202020
+040700395M-37,37,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082719,6.201895
+040700395M-39,39,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082541,6.201785
+040700395M-41,41,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082661,6.201605
+040700395M-43,43,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082573,6.201538
+040700395M-4,4,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.085215,6.208398
+040700395M-45,45,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.081599,6.197957
+040700395M-46,46,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082666,6.201329
+040700395M-49,49,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.079325,6.191923
+040700395M-50,50,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082932,6.200914
+040700395M-51,51,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.073513,6.183240
+040700395M-52,52,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083000,6.201046
+040700395M-54,54,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082990,6.200882
+040700395M-55,55,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.072368,6.182329
+040700395M-5,5,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084261,6.207667
+040700395M-56,56,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082853,6.200789
+040700395M-57,57,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.072396,6.182652
+040700395M-58,58,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083045,6.200661
+040700395M-59,59,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.071757,6.181875
+040700395M-5A,5A,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084123,6.207914
+040700395M-60,60,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082581,6.200419
+040700395M-61,61,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.071607,6.181450
+040700395M-68,68,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.082758,6.197426
+040700395M-70,70,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083022,6.197421
+040700395M-72,72,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.083502,6.197304
+040700395M-74,74,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.081965,6.197760
+040700395M-78,78,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.080740,6.194308
+040700395M-82,82,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.079716,6.192726
+040700395M-86,86,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.078036,6.188452
+040700395M-86B,86BIS,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.077983,6.188121
+040700395M-86T,86TER,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.078042,6.188312
+040700395M-8,8,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.084694,6.207775
+040700395M-90,90,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.077028,6.186694
+040700395M-92,92,Avenue du Colonel Noël,04000,Digne-les-Bains,C+O,44.076748,6.186142
 040700400T-10,10,Rue du Colonel Payan,04000,Digne-les-Bains,C+O,44.091681,6.233791
 040700400T-1,1,Rue du Colonel Payan,04000,Digne-les-Bains,C+O,44.091813,6.233566
 040700400T-12,12,Rue du Colonel Payan,04000,Digne-les-Bains,C+O,44.091650,6.233942
@@ -10901,11 +10901,11 @@
 041120323B-22,22,Chemin des Esquirolles,04100,Manosque,OSM,43.830806,5.747064
 041120323B-2,2,Chemin des Esquirolles,04100,Manosque,OSM,43.827725,5.749869
 041120323B-3,3,Chemin des Esquirolles,04100,Manosque,OSM,43.827910,5.749724
-041120326E-12,12,Rue des Ferrages de Guilhempierre,04100,Manosque,C+O,43.832337,5.780099
-041120326E-138,138,Rue des Ferrages de Guilhempierre,04100,Manosque,C+O,43.831207,5.780880
-041120326E-174,174,Rue des Ferrages de Guilhempierre,04100,Manosque,C+O,43.831144,5.781271
-041120326E-182,182,Rue des Ferrages de Guilhempierre,04100,Manosque,C+O,43.831034,5.781353
-041120326E-204,204,Rue des Ferrages de Guilhempierre,04100,Manosque,C+O,43.830946,5.781598
+041120326E-12,12,Rue des Ferrages de Guilhempierre,04100,Manosque,CAD,43.832337,5.780099
+041120326E-138,138,Rue des Ferrages de Guilhempierre,04100,Manosque,CAD,43.831207,5.780880
+041120326E-174,174,Rue des Ferrages de Guilhempierre,04100,Manosque,CAD,43.831144,5.781271
+041120326E-182,182,Rue des Ferrages de Guilhempierre,04100,Manosque,CAD,43.831034,5.781353
+041120326E-204,204,Rue des Ferrages de Guilhempierre,04100,Manosque,CAD,43.830946,5.781598
 041120328G-104,104,Rue Félicien Bec,04100,Manosque,CAD,43.823681,5.776887
 041120328G-120,120,Rue Félicien Bec,04100,Manosque,CAD,43.823501,5.776713
 041120328G-126,126,Rue Félicien Bec,04100,Manosque,CAD,43.823357,5.776761
@@ -18163,20 +18163,20 @@
 041660064K-6,6,Rue du Faubourg Saint-Roch,04500,Riez,C+O,43.817619,6.094854
 041660064K-7014,7014,Rue du Faubourg Saint-Roch,04500,Riez,C+O,43.817745,6.094791
 041660064K-7329,7329,Rue du Faubourg Saint-Roch,04500,Riez,C+O,43.818218,6.095289
-041660070S-10,10,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819297,6.091100
-041660070S-13,13,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819510,6.091333
-041660070S-2,2,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819053,6.090975
-041660070S-2A,2A,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819206,6.091094
-041660070S-5,5,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819293,6.091265
-041660070S-7062,7062,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819889,6.091580
-041660070S-7100,7100,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.823048,6.094094
-041660070S-7156,7156,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.820527,6.092210
-041660070S-7161,7161,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.820495,6.091802
-041660070S-7187,7187,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.820268,6.091650
-041660070S-7217,7217,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.822368,6.092178
-041660070S-7288,7288,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.820219,6.091619
-041660070S-7,7,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819357,6.091288
-041660070S-9,9,Rue du Fbg Saint-Sébastien,04500,Riez,CAD,43.819423,6.091311
+041660070S-10,10,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819297,6.091100
+041660070S-13,13,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819510,6.091333
+041660070S-2,2,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819053,6.090975
+041660070S-2A,2A,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819206,6.091094
+041660070S-5,5,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819293,6.091265
+041660070S-7062,7062,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819889,6.091580
+041660070S-7100,7100,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.823048,6.094094
+041660070S-7156,7156,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.820527,6.092210
+041660070S-7161,7161,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.820495,6.091802
+041660070S-7187,7187,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.820268,6.091650
+041660070S-7217,7217,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.822368,6.092178
+041660070S-7288,7288,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.820219,6.091619
+041660070S-7,7,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819357,6.091288
+041660070S-9,9,Rue du Faubourg Saint-Sébastien,04500,Riez,C+O,43.819423,6.091311
 041660073V-7113,7113,Rue de la Fontaine Samson,04500,Riez,CAD,43.819651,6.090937
 041660073V-7313,7313,Rue de la Fontaine Samson,04500,Riez,CAD,43.819904,6.090670
 041660080C-1,1,Avenue Frédéric Mistral,04500,Riez,C+O,43.817790,6.089686

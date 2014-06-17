@@ -4669,7 +4669,7 @@
 551980080X-4,4,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.091685,5.626881
 551980080X-4B,4BIS,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.091931,5.626775
 551980080X-8,8,Route de Vigneulles,55160,Fresnes-en-Woëvre,C+O,49.090857,5.627239
-551980081Y-1,1,Sentier dit de la Ville,55160,Fresnes-en-Woëvre,C+O,49.096251,5.635097
+551980081Y-1,1,Sentier de la Ville,55160,Fresnes-en-Woëvre,C+O,49.096251,5.635097
 552040020F-3,3,Rue de la Fontaine,55320,Génicourt-sur-Meuse,OSM,49.034703,5.438523
 552040020F-5,5,Rue de la Fontaine,55320,Génicourt-sur-Meuse,OSM,49.034492,5.438528
 552060002C-10,10,Rue Alexis Vautrin,55110,Gercourt-et-Drillancourt,CAD,49.284689,5.239046
@@ -13794,34 +13794,34 @@
 555050055K-7,7,Rue des Colibris,55840,Thierville-sur-Meuse,C+O,49.169874,5.359793
 555050055K-8,8,Rue des Colibris,55840,Thierville-sur-Meuse,C+O,49.169549,5.359818
 555050055K-9,9,Rue des Colibris,55840,Thierville-sur-Meuse,C+O,49.170074,5.359701
-555050060R-10,10,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162402,5.361191
-555050060R-11,11,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.163673,5.361216
-555050060R-1,1,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.164649,5.362056
-555050060R-12,12,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162338,5.361250
-555050060R-13,13,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.163445,5.361014
-555050060R-14,14,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162299,5.361285
-555050060R-15,15,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162894,5.360975
-555050060R-19T,19TER,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162389,5.361454
-555050060R-20,20,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161833,5.361960
-555050060R-21,21,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162238,5.361602
-555050060R-22,22,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161562,5.362509
-555050060R-2,2,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162835,5.360752
-555050060R-23,23,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162152,5.361700
-555050060R-24,24,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161506,5.362658
-555050060R-25,25,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162072,5.361805
-555050060R-27,27,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161974,5.361913
-555050060R-29,29,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161838,5.362149
-555050060R-30,30,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161168,5.363271
-555050060R-31,31,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161723,5.362363
-555050060R-33,33,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161520,5.362885
-555050060R-3,3,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.164518,5.361942
-555050060R-35,35,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.161398,5.363167
-555050060R-4,4,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162549,5.361057
-555050060R-5,5,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.164420,5.361857
-555050060R-6,6,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162506,5.361095
-555050060R-7,7,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.164172,5.361644
-555050060R-8,8,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.162439,5.361157
-555050060R-9,9,Rue du Col Fourlinie,55840,Thierville-sur-Meuse,CAD,49.163890,5.361403
+555050060R-10,10,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162402,5.361191
+555050060R-11,11,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.163673,5.361216
+555050060R-1,1,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.164649,5.362056
+555050060R-12,12,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162338,5.361250
+555050060R-13,13,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.163445,5.361014
+555050060R-14,14,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162299,5.361285
+555050060R-15,15,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162894,5.360975
+555050060R-19T,19TER,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162389,5.361454
+555050060R-20,20,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161833,5.361960
+555050060R-21,21,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162238,5.361602
+555050060R-22,22,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161562,5.362509
+555050060R-2,2,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162835,5.360752
+555050060R-23,23,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162152,5.361700
+555050060R-24,24,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161506,5.362658
+555050060R-25,25,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162072,5.361805
+555050060R-27,27,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161974,5.361913
+555050060R-29,29,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161838,5.362149
+555050060R-30,30,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161168,5.363271
+555050060R-31,31,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161723,5.362363
+555050060R-33,33,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161520,5.362885
+555050060R-3,3,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.164518,5.361942
+555050060R-35,35,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.161398,5.363167
+555050060R-4,4,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162549,5.361057
+555050060R-5,5,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.164420,5.361857
+555050060R-6,6,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162506,5.361095
+555050060R-7,7,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.164172,5.361644
+555050060R-8,8,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.162439,5.361157
+555050060R-9,9,Rue du Colonel Fourlinie,55840,Thierville-sur-Meuse,C+O,49.163890,5.361403
 555050062T-2,2,Rue Cybelle,55840,Thierville-sur-Meuse,CAD,49.172108,5.357960
 555050062T-3,3,Rue Cybelle,55840,Thierville-sur-Meuse,CAD,49.172149,5.357800
 555050062T-5,5,Rue Cybelle,55840,Thierville-sur-Meuse,CAD,49.172168,5.358014
