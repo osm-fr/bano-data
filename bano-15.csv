@@ -9468,9 +9468,9 @@
 150300030D-7,7,Rue de l'Église,15290,Cayrols,C+O,44.832694,2.233847
 150300030D-8,8,Rue de l'Église,15290,Cayrols,C+O,44.832714,2.233932
 150300030D-9,9,Rue de l'Église,15290,Cayrols,C+O,44.832786,2.233733
-150300035J-2,2,Rue de l'Etang,15290,Cayrols,C+O,44.830748,2.232476
-150300035J-4,4,Rue de l'Etang,15290,Cayrols,C+O,44.830990,2.231424
-150300035J-9,9,Rue de l'Etang,15290,Cayrols,C+O,44.831342,2.231231
+150300035J-2,2,Rue de l'Etang,15290,Cayrols,CAD,44.830748,2.232476
+150300035J-4,4,Rue de l'Etang,15290,Cayrols,CAD,44.830990,2.231424
+150300035J-9,9,Rue de l'Etang,15290,Cayrols,CAD,44.831342,2.231231
 150300040P-1,1,Chemin de Lagarigue,15290,Cayrols,CAD,44.838301,2.235133
 150300040P-3,3,Chemin de Lagarigue,15290,Cayrols,CAD,44.835583,2.230200
 150300045V-1,1,Rue du Martinet,15290,Cayrols,C+O,44.831378,2.233698
@@ -11123,16 +11123,16 @@
 150900009V-7,7,Rue de la Croux,15130,Lafeuillade-en-Vézie,C+O,44.794065,2.466025
 150900009V-8,8,Rue de la Croux,15130,Lafeuillade-en-Vézie,C+O,44.794017,2.466055
 150900009V-9,9,Rue de la Croux,15130,Lafeuillade-en-Vézie,C+O,44.794338,2.466241
-150900020G-10,10,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787256,2.458080
-150900020G-12,12,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787143,2.457847
-150900020G-14,14,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787084,2.458413
-150900020G-16,16,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.786900,2.459023
-150900020G-18,18,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.786791,2.459071
-150900020G-20,20,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787022,2.459074
-150900020G-2,2,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787848,2.458660
-150900020G-4,4,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787562,2.458675
-150900020G-6,6,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787490,2.458585
-150900020G-8,8,Place de l'Eglise,15130,Lafeuillade-en-Vézie,C+O,44.787368,2.458320
+150900020G-10,10,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787256,2.458080
+150900020G-12,12,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787143,2.457847
+150900020G-14,14,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787084,2.458413
+150900020G-16,16,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.786900,2.459023
+150900020G-18,18,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.786791,2.459071
+150900020G-20,20,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787022,2.459074
+150900020G-2,2,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787848,2.458660
+150900020G-4,4,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787562,2.458675
+150900020G-6,6,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787490,2.458585
+150900020G-8,8,Place de l'Église,15130,Lafeuillade-en-Vézie,C+O,44.787368,2.458320
 150900035Y-10,10,Rue Antonin Lac,15130,Lafeuillade-en-Vézie,C+O,44.790031,2.458811
 150900035Y-2,2,Rue Antonin Lac,15130,Lafeuillade-en-Vézie,C+O,44.789603,2.460663
 150900035Y-33,33,Rue Antonin Lac,15130,Lafeuillade-en-Vézie,C+O,44.789697,2.459909
@@ -17787,21 +17787,21 @@
 151750105E-8,8,Rue de la Contie,15310,Saint-Cernin,C+O,45.061480,2.419033
 151750105E-9,9,Rue de la Contie,15310,Saint-Cernin,C+O,45.061554,2.418476
 151750110K-2,2,Impasse de la Doire,15310,Saint-Cernin,C+O,45.057174,2.424115
-151750130G-10,10,Rue des Ecoles,15310,Saint-Cernin,C+O,45.055649,2.423314
-151750130G-11,11,Rue des Ecoles,15310,Saint-Cernin,C+O,45.055916,2.423369
-151750130G-1,1,Rue des Ecoles,15310,Saint-Cernin,C+O,45.056578,2.423159
-151750130G-12,12,Rue des Ecoles,15310,Saint-Cernin,C+O,45.055371,2.423395
-151750130G-21,21,Rue des Ecoles,15310,Saint-Cernin,C+O,45.052614,2.424713
-151750130G-2,2,Rue des Ecoles,15310,Saint-Cernin,C+O,45.056964,2.422825
-151750130G-23,23,Rue des Ecoles,15310,Saint-Cernin,C+O,45.052108,2.425047
-151750130G-25,25,Rue des Ecoles,15310,Saint-Cernin,C+O,45.051899,2.425192
-151750130G-27,27,Rue des Ecoles,15310,Saint-Cernin,C+O,45.051697,2.425324
-151750130G-3,3,Rue des Ecoles,15310,Saint-Cernin,C+O,45.056479,2.423191
-151750130G-4,4,Rue des Ecoles,15310,Saint-Cernin,C+O,45.056419,2.423078
-151750130G-5,5,Rue des Ecoles,15310,Saint-Cernin,C+O,45.056400,2.423217
-151750130G-7,7,Rue des Ecoles,15310,Saint-Cernin,C+O,45.056306,2.423248
-151750130G-8,8,Rue des Ecoles,15310,Saint-Cernin,C+O,45.055839,2.423259
-151750130G-9,9,Rue des Ecoles,15310,Saint-Cernin,C+O,45.056217,2.423277
+151750130G-10,10,Rue des Écoles,15310,Saint-Cernin,C+O,45.055649,2.423314
+151750130G-11,11,Rue des Écoles,15310,Saint-Cernin,C+O,45.055916,2.423369
+151750130G-1,1,Rue des Écoles,15310,Saint-Cernin,C+O,45.056578,2.423159
+151750130G-12,12,Rue des Écoles,15310,Saint-Cernin,C+O,45.055371,2.423395
+151750130G-21,21,Rue des Écoles,15310,Saint-Cernin,C+O,45.052614,2.424713
+151750130G-2,2,Rue des Écoles,15310,Saint-Cernin,C+O,45.056964,2.422825
+151750130G-23,23,Rue des Écoles,15310,Saint-Cernin,C+O,45.052108,2.425047
+151750130G-25,25,Rue des Écoles,15310,Saint-Cernin,C+O,45.051899,2.425192
+151750130G-27,27,Rue des Écoles,15310,Saint-Cernin,C+O,45.051697,2.425324
+151750130G-3,3,Rue des Écoles,15310,Saint-Cernin,C+O,45.056479,2.423191
+151750130G-4,4,Rue des Écoles,15310,Saint-Cernin,C+O,45.056419,2.423078
+151750130G-5,5,Rue des Écoles,15310,Saint-Cernin,C+O,45.056400,2.423217
+151750130G-7,7,Rue des Écoles,15310,Saint-Cernin,C+O,45.056306,2.423248
+151750130G-8,8,Rue des Écoles,15310,Saint-Cernin,C+O,45.055839,2.423259
+151750130G-9,9,Rue des Écoles,15310,Saint-Cernin,C+O,45.056217,2.423277
 151750151E-10,10,Rue de l'Église,15310,Saint-Cernin,C+O,45.058906,2.421168
 151750151E-11,11,Rue de l'Église,15310,Saint-Cernin,C+O,45.059223,2.420891
 151750151E-1,1,Rue de l'Église,15310,Saint-Cernin,C+O,45.058877,2.421085
