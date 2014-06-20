@@ -10399,16 +10399,16 @@
 070640002B-8,8,Rue du Temple,07160,Le Cheylard,OSM,44.906817,4.425285
 070640002B-8B,8BIS,Rue du Temple,07160,Le Cheylard,OSM,44.906848,4.425337
 070640002B-9,9,Rue du Temple,07160,Le Cheylard,OSM,44.907094,4.425503
-070640003C-1,1,Allée des Cyprés,07160,Le Cheylard,OSM,44.914143,4.436245
-070640003C-14,14,Allée des Cyprés,07160,Le Cheylard,OSM,44.914352,4.436074
-070640003C-15,15,Allée des Cyprés,07160,Le Cheylard,OSM,44.914336,4.436197
-070640003C-2,2,Allée des Cyprés,07160,Le Cheylard,OSM,44.914124,4.436138
-070640003C-3,3,Allée des Cyprés,07160,Le Cheylard,OSM,44.914142,4.436008
-070640003C-4,4,Allée des Cyprés,07160,Le Cheylard,OSM,44.913999,4.435714
-070640003C-5,5,Allée des Cyprés,07160,Le Cheylard,OSM,44.914117,4.435748
-070640003C-6,6,Allée des Cyprés,07160,Le Cheylard,OSM,44.914189,4.435768
-070640003C-7,7,Allée des Cyprés,07160,Le Cheylard,OSM,44.914281,4.435795
-070640003C-8,8,Allée des Cyprés,07160,Le Cheylard,OSM,44.914377,4.435881
+070640003C-1,1,Allée des Cyprès,07160,Le Cheylard,OSM,44.914143,4.436245
+070640003C-14,14,Allée des Cyprès,07160,Le Cheylard,OSM,44.914352,4.436074
+070640003C-15,15,Allée des Cyprès,07160,Le Cheylard,OSM,44.914336,4.436197
+070640003C-2,2,Allée des Cyprès,07160,Le Cheylard,OSM,44.914124,4.436138
+070640003C-3,3,Allée des Cyprès,07160,Le Cheylard,OSM,44.914142,4.436008
+070640003C-4,4,Allée des Cyprès,07160,Le Cheylard,OSM,44.913999,4.435714
+070640003C-5,5,Allée des Cyprès,07160,Le Cheylard,OSM,44.914117,4.435748
+070640003C-6,6,Allée des Cyprès,07160,Le Cheylard,OSM,44.914189,4.435768
+070640003C-7,7,Allée des Cyprès,07160,Le Cheylard,OSM,44.914281,4.435795
+070640003C-8,8,Allée des Cyprès,07160,Le Cheylard,OSM,44.914377,4.435881
 070640004D-1,1,Allée des Abricotiers,07160,Le Cheylard,OSM,44.913424,4.435173
 070640004D-2,2,Allée des Abricotiers,07160,Le Cheylard,OSM,44.913608,4.434388
 070640004D-4,4,Allée des Abricotiers,07160,Le Cheylard,OSM,44.913382,4.434696
@@ -12469,9 +12469,9 @@
 070700063S-4,4,Impasse du Ruisseau,07130,Cornas,OSM,44.963634,4.845732
 070700063S-6,6,Impasse du Ruisseau,07130,Cornas,OSM,44.963573,4.845775
 070700063S-8,8,Impasse du Ruisseau,07130,Cornas,OSM,44.963557,4.845792
-070700064T-1,1,Place de la salle des Fêtes,07130,Cornas,OSM,44.961763,4.847597
-070700064T-3,3,Place de la salle des Fêtes,07130,Cornas,OSM,44.961716,4.847999
-070700064T-4,4,Place de la salle des Fêtes,07130,Cornas,OSM,44.961202,4.847854
+070700064T-1,1,Place de la Salle des Fêtes,07130,Cornas,OSM,44.961763,4.847597
+070700064T-3,3,Place de la Salle des Fêtes,07130,Cornas,OSM,44.961716,4.847999
+070700064T-4,4,Place de la Salle des Fêtes,07130,Cornas,OSM,44.961202,4.847854
 070700068X-3,3,Rue des Tulipes,07130,Cornas,OSM,44.960046,4.849115
 070700069Y-10,10,Rue des Violettes,07130,Cornas,OSM,44.961248,4.849930
 070700069Y-1,1,Rue des Violettes,07130,Cornas,OSM,44.958818,4.849312
@@ -14891,7 +14891,7 @@
 070860004H-95,95,Chemin Bonvoisins,07300,Étables,OSM,45.116603,4.730692
 070860006K-25,25,Rue des Champs,07300,Étables,OSM,45.101043,4.724923
 070860006K-70,70,Rue des Champs,07300,Étables,OSM,45.100941,4.724369
-070860007L-255,255,Chemin de Petit Baudier,07300,Étables,C+O,45.101935,4.712205
+070860007L-255,255,Chemin de Petit Baudier,07300,Étables,OSM,45.101930,4.712198
 070860008M-1260,1260,Chemin de Champjean,07300,Étables,OSM,45.104002,4.710558
 070860008M-1295,1295,Chemin de Champjean,07300,Étables,OSM,45.103786,4.709975
 070860008M-1335,1335,Chemin de Champjean,07300,Étables,OSM,45.104177,4.710149
@@ -15224,7 +15224,7 @@
 070860098K-740,740,Route de Réat,07300,Étables,OSM,45.108657,4.724110
 070860098K-75,75,Route de Réat,07300,Étables,OSM,45.104006,4.728854
 070860098K-780,780,Route de Réat,07300,Étables,OSM,45.108514,4.724316
-070860099L-105,105,Route de Saint-Jeure-d'Ay,07300,Étables,C+O,45.118506,4.726752
+070860099L-105,105,Route de Saint-Jeure-d'Ay,07300,Étables,OSM,45.118516,4.726686
 070860100M-110,110,Route de Tournon,07300,Étables,OSM,45.108096,4.740918
 070860100M-1430,1430,Route de Tournon,07300,Étables,OSM,45.103894,4.755963
 070860100M-1610,1610,Route de Tournon,07300,Étables,OSM,45.103381,4.757131
@@ -15655,43 +15655,43 @@
 071020025L-7,7,Rue des Amandiers,07500,Guilherand-Granges,OSM,44.939465,4.878716
 071020025L-8,8,Rue des Amandiers,07500,Guilherand-Granges,OSM,44.939676,4.878698
 071020025L-9,9,Rue des Amandiers,07500,Guilherand-Granges,OSM,44.939514,4.878417
-071020027N-10,10,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933551,4.865250
-071020027N-11,11,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933219,4.865127
-071020027N-1,1,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933103,4.866183
-071020027N-12,12,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933720,4.865293
-071020027N-13,13,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933230,4.864991
-071020027N-14,14,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933946,4.865351
-071020027N-15,15,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933360,4.865101
-071020027N-16,16,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934032,4.865767
-071020027N-17,17,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933459,4.865125
-071020027N-18,18,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934198,4.865779
-071020027N-19,19,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933623,4.865164
-071020027N-20,20,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934378,4.865826
-071020027N-21,21,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933799,4.865207
-071020027N-22,22,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934817,4.865274
-071020027N-2,2,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933168,4.866272
-071020027N-23,23,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933953,4.865244
-071020027N-24,24,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934976,4.865294
-071020027N-25,25,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934054,4.865269
-071020027N-26,26,Rue André Ampère,07500,Guilherand-Granges,C+O,44.935135,4.865315
-071020027N-27,27,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934150,4.865292
-071020027N-28,28,Rue André Ampère,07500,Guilherand-Granges,C+O,44.935265,4.865333
-071020027N-29,29,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934175,4.865368
-071020027N-31,31,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934181,4.865598
-071020027N-33,33,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934588,4.865658
-071020027N-3,3,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933130,4.865942
-071020027N-35,35,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934620,4.865436
-071020027N-37,37,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934646,4.865252
-071020027N-39,39,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934791,4.865168
-071020027N-41,41,Rue André Ampère,07500,Guilherand-Granges,C+O,44.934957,4.865188
-071020027N-43,43,Rue André Ampère,07500,Guilherand-Granges,C+O,44.935117,4.865209
-071020027N-4,4,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933188,4.866086
-071020027N-45,45,Rue André Ampère,07500,Guilherand-Granges,C+O,44.935268,4.865228
-071020027N-5,5,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933149,4.865765
-071020027N-6,6,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933231,4.865684
-071020027N-7,7,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933168,4.865591
-071020027N-8,8,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933261,4.865391
-071020027N-9,9,Rue André Ampère,07500,Guilherand-Granges,C+O,44.933198,4.865316
+071020027N-10,10,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933553,4.865235
+071020027N-11,11,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933212,4.865133
+071020027N-1,1,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933094,4.866187
+071020027N-12,12,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933722,4.865276
+071020027N-13,13,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933228,4.865004
+071020027N-14,14,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933948,4.865333
+071020027N-15,15,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933364,4.865087
+071020027N-16,16,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934071,4.865703
+071020027N-17,17,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933463,4.865110
+071020027N-18,18,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934198,4.865784
+071020027N-19,19,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933627,4.865150
+071020027N-20,20,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934378,4.865831
+071020027N-21,21,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933803,4.865192
+071020027N-22,22,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934817,4.865280
+071020027N-2,2,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933176,4.866271
+071020027N-23,23,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933957,4.865230
+071020027N-24,24,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934976,4.865300
+071020027N-25,25,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934058,4.865255
+071020027N-26,26,Rue André Ampère,07500,Guilherand-Granges,OSM,44.935134,4.865320
+071020027N-27,27,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934155,4.865272
+071020027N-28,28,Rue André Ampère,07500,Guilherand-Granges,OSM,44.935265,4.865339
+071020027N-29,29,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934166,4.865365
+071020027N-31,31,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934155,4.865513
+071020027N-33,33,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934576,4.865649
+071020027N-3,3,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933123,4.865947
+071020027N-35,35,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934606,4.865427
+071020027N-37,37,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934636,4.865244
+071020027N-39,39,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934795,4.865163
+071020027N-41,41,Rue André Ampère,07500,Guilherand-Granges,OSM,44.934962,4.865181
+071020027N-43,43,Rue André Ampère,07500,Guilherand-Granges,OSM,44.935122,4.865202
+071020027N-4,4,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933196,4.866085
+071020027N-45,45,Rue André Ampère,07500,Guilherand-Granges,OSM,44.935272,4.865226
+071020027N-5,5,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933142,4.865770
+071020027N-6,6,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933240,4.865682
+071020027N-7,7,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933161,4.865596
+071020027N-8,8,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933270,4.865389
+071020027N-9,9,Rue André Ampère,07500,Guilherand-Granges,OSM,44.933189,4.865321
 071020030S-132,132,Rue Anatole France,07500,Guilherand-Granges,OSM,44.936778,4.873202
 071020030S-178,178,Rue Anatole France,07500,Guilherand-Granges,OSM,44.936909,4.872912
 071020030S-184,184,Rue Anatole France,07500,Guilherand-Granges,OSM,44.937172,4.872744
@@ -16104,16 +16104,16 @@
 071020095M-7,7,Allée des Cèdres,07500,Guilherand-Granges,OSM,44.940624,4.873731
 071020095M-8,8,Allée des Cèdres,07500,Guilherand-Granges,OSM,44.939999,4.874092
 071020095M-9,9,Allée des Cèdres,07500,Guilherand-Granges,OSM,44.940871,4.873722
-071020096N-10,10,Allée Cendrillion,07500,Guilherand-Granges,C+O,44.937358,4.864066
-071020096N-12,12,Allée Cendrillion,07500,Guilherand-Granges,C+O,44.937326,4.864088
-071020096N-36,36,Allée Cendrillion,07500,Guilherand-Granges,C+O,44.937007,4.863553
-071020096N-41,41,Allée Cendrillion,07500,Guilherand-Granges,C+O,44.936617,4.863943
-071020096N-42,42,Allée Cendrillion,07500,Guilherand-Granges,C+O,44.936984,4.863993
-071020097P-112,112,Impasse des  Cerisiers,07500,Guilherand-Granges,OSM,44.925352,4.872850
-071020097P-113,113,Impasse des  Cerisiers,07500,Guilherand-Granges,OSM,44.925402,4.872885
-071020097P-58,58,Impasse des  Cerisiers,07500,Guilherand-Granges,OSM,44.925627,4.872089
-071020097P-72,72,Impasse des  Cerisiers,07500,Guilherand-Granges,OSM,44.925424,4.872642
-071020097P-75,75,Impasse des  Cerisiers,07500,Guilherand-Granges,OSM,44.925491,4.872658
+071020096N-10,10,Allée Cendrillion,07500,Guilherand-Granges,OSM,44.937372,4.864003
+071020096N-12,12,Allée Cendrillion,07500,Guilherand-Granges,OSM,44.937315,4.864050
+071020096N-36,36,Allée Cendrillion,07500,Guilherand-Granges,OSM,44.937072,4.863933
+071020096N-41,41,Allée Cendrillion,07500,Guilherand-Granges,OSM,44.936983,4.864100
+071020096N-42,42,Allée Cendrillion,07500,Guilherand-Granges,OSM,44.936852,4.863943
+071020097P-112,112,Impasse des Cerisiers,07500,Guilherand-Granges,OSM,44.925352,4.872850
+071020097P-113,113,Impasse des Cerisiers,07500,Guilherand-Granges,OSM,44.925402,4.872885
+071020097P-58,58,Impasse des Cerisiers,07500,Guilherand-Granges,OSM,44.925627,4.872089
+071020097P-72,72,Impasse des Cerisiers,07500,Guilherand-Granges,OSM,44.925424,4.872642
+071020097P-75,75,Impasse des Cerisiers,07500,Guilherand-Granges,OSM,44.925491,4.872658
 071020100T-116,116,Rue des Cévennes,07500,Guilherand-Granges,OSM,44.934382,4.875297
 071020100T-117,117,Rue des Cévennes,07500,Guilherand-Granges,OSM,44.934288,4.875286
 071020100T-125,125,Rue des Cévennes,07500,Guilherand-Granges,OSM,44.934304,4.875068
@@ -16247,14 +16247,14 @@
 071020132C-7B,7BIS,Allée des Clématites,07500,Guilherand-Granges,C+O,44.940367,4.873453
 071020132C-8,8,Allée des Clématites,07500,Guilherand-Granges,OSM,44.940362,4.873234
 071020132C-9,9,Allée des Clématites,07500,Guilherand-Granges,OSM,44.940434,4.873274
-071020133D-1,1,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.935214,4.866160
-071020133D-2,2,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.935233,4.865980
-071020133D-3,3,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.935060,4.866141
-071020133D-4,4,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.935075,4.865958
-071020133D-5,5,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.934871,4.866333
-071020133D-6,6,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.934929,4.865727
-071020133D-7,7,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.934712,4.866096
-071020133D-8,8,Impasse Nicolas Copernic,07500,Guilherand-Granges,C+O,44.934732,4.865911
+071020133D-1,1,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.935216,4.866172
+071020133D-2,2,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.935233,4.865971
+071020133D-3,3,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.935061,4.866155
+071020133D-4,4,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.935075,4.865949
+071020133D-5,5,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.934910,4.866144
+071020133D-6,6,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.934910,4.865918
+071020133D-7,7,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.934791,4.866125
+071020133D-8,8,Impasse Nicolas Copernic,07500,Guilherand-Granges,OSM,44.934804,4.865912
 071020134E-181,181,Rue des Combes,07500,Guilherand-Granges,OSM,44.924659,4.871314
 071020134E-203,203,Rue des Combes,07500,Guilherand-Granges,OSM,44.924544,4.871619
 071020134E-23,23,Rue des Combes,07500,Guilherand-Granges,OSM,44.925320,4.869531
@@ -16291,43 +16291,43 @@
 071020160H-69,69,Rue de Crussol,07500,Guilherand-Granges,OSM,44.934003,4.876928
 071020160H-73,73,Rue de Crussol,07500,Guilherand-Granges,OSM,44.933891,4.876982
 071020160H-90,90,Rue de Crussol,07500,Guilherand-Granges,OSM,44.933773,4.876894
-071020179D-10,10,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933212,4.866972
-071020179D-11,11,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933972,4.867039
-071020179D-1,1,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933147,4.866453
-071020179D-12,12,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933357,4.867005
-071020179D-13,13,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934133,4.867075
-071020179D-14,14,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933484,4.867032
-071020179D-15,15,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934299,4.867111
-071020179D-16,16,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933659,4.867070
-071020179D-17,17,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934458,4.867146
-071020179D-18,18,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933821,4.867107
-071020179D-19,19,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934717,4.866728
-071020179D-20,20,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933970,4.867140
-071020179D-21,21,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934877,4.866750
-071020179D-22,22,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934140,4.867178
-071020179D-2,2,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933051,4.866648
-071020179D-23,23,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.935054,4.866774
-071020179D-24,24,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934276,4.867208
-071020179D-25,25,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.935186,4.866792
-071020179D-26,26,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934432,4.867243
-071020179D-28,28,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934576,4.867275
-071020179D-30,30,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934777,4.867707
-071020179D-32,32,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934948,4.867730
-071020179D-3,3,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933123,4.866662
-071020179D-34,34,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.935041,4.867706
-071020179D-36,36,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.935049,4.867590
-071020179D-38,38,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934987,4.867517
-071020179D-40,40,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934712,4.867466
-071020179D-42,42,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934720,4.867307
-071020179D-44,44,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.934878,4.866856
-071020179D-4,4,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933032,4.866815
-071020179D-46,46,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.935041,4.866876
-071020179D-48,48,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.935194,4.866896
-071020179D-5,5,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933469,4.866824
-071020179D-6,6,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933020,4.866913
-071020179D-7,7,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933647,4.866966
-071020179D-8,8,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933083,4.866944
-071020179D-9,9,Rue Albert Einstein,07500,Guilherand-Granges,C+O,44.933813,4.867003
+071020179D-10,10,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933212,4.866978
+071020179D-11,11,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933975,4.867033
+071020179D-1,1,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933153,4.866452
+071020179D-12,12,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933357,4.867017
+071020179D-13,13,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934135,4.867068
+071020179D-14,14,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933483,4.867045
+071020179D-15,15,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934301,4.867105
+071020179D-16,16,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933658,4.867083
+071020179D-17,17,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934461,4.867139
+071020179D-18,18,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933821,4.867120
+071020179D-19,19,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934760,4.866726
+071020179D-20,20,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933970,4.867153
+071020179D-21,21,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934877,4.866741
+071020179D-22,22,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934140,4.867186
+071020179D-2,2,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933047,4.866648
+071020179D-23,23,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.935059,4.866767
+071020179D-24,24,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934275,4.867222
+071020179D-25,25,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.935191,4.866785
+071020179D-26,26,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934432,4.867258
+071020179D-28,28,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934576,4.867288
+071020179D-30,30,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934780,4.867732
+071020179D-32,32,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934951,4.867747
+071020179D-3,3,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933131,4.866661
+071020179D-34,34,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.935051,4.867706
+071020179D-36,36,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.935057,4.867589
+071020179D-38,38,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934986,4.867506
+071020179D-40,40,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934728,4.867466
+071020179D-42,42,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934732,4.867306
+071020179D-44,44,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.934879,4.866862
+071020179D-4,4,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933028,4.866814
+071020179D-46,46,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.935041,4.866887
+071020179D-48,48,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.935194,4.866908
+071020179D-5,5,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933471,4.866815
+071020179D-6,6,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933016,4.866913
+071020179D-7,7,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933649,4.866959
+071020179D-8,8,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933084,4.866950
+071020179D-9,9,Rue Albert Einstein,07500,Guilherand-Granges,OSM,44.933816,4.866997
 071020181F-10,10,Allée des Églantiers,07500,Guilherand-Granges,OSM,44.939570,4.874759
 071020181F-12,12,Allée des Églantiers,07500,Guilherand-Granges,OSM,44.939460,4.874720
 071020181F-14,14,Allée des Églantiers,07500,Guilherand-Granges,OSM,44.939330,4.874758
@@ -16579,10 +16579,10 @@
 071020202D-34,34,Impasse des Glycines,07500,Guilherand-Granges,OSM,44.934871,4.881284
 071020202D-43,43,Impasse des Glycines,07500,Guilherand-Granges,OSM,44.934707,4.881244
 071020202D-57,57,Impasse des Glycines,07500,Guilherand-Granges,OSM,44.934635,4.881305
-071020203E-1,1,Rue Georges Guynemer,07500,Guilherand-Granges,C+O,44.934154,4.873019
-071020203E-3,3,Rue Georges Guynemer,07500,Guilherand-Granges,C+O,44.934300,4.873029
-071020203E-93,93,Rue Georges Guynemer,07500,Guilherand-Granges,C+O,44.935256,4.872223
-071020203E-97,97,Rue Georges Guynemer,07500,Guilherand-Granges,C+O,44.935046,4.872263
+071020203E-1,1,Rue Georges Guynemer,07500,Guilherand-Granges,OSM,44.934862,4.872984
+071020203E-3,3,Rue Georges Guynemer,07500,Guilherand-Granges,OSM,44.934854,4.873195
+071020203E-93,93,Rue Georges Guynemer,07500,Guilherand-Granges,OSM,44.935042,4.872486
+071020203E-97,97,Rue Georges Guynemer,07500,Guilherand-Granges,OSM,44.935058,4.872262
 071020205G-10,10,Rue Hélène Boucher,07500,Guilherand-Granges,OSM,44.935058,4.872981
 071020205G-13,13,Rue Hélène Boucher,07500,Guilherand-Granges,OSM,44.935123,4.872878
 071020205G-22,22,Rue Hélène Boucher,07500,Guilherand-Granges,OSM,44.935190,4.872991
@@ -16881,21 +16881,21 @@
 071020232L-80,80,Rue Jean Giono,07500,Guilherand-Granges,OSM,44.935395,4.878844
 071020232L-82,82,Rue Jean Giono,07500,Guilherand-Granges,OSM,44.935241,4.878615
 071020232L-95,95,Rue Jean Giono,07500,Guilherand-Granges,OSM,44.935410,4.878241
-071020235P-100,100,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937414,4.874415
-071020235P-102,102,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937394,4.874351
-071020235P-104,104,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937325,4.874348
-071020235P-108,108,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937249,4.874353
-071020235P-116,116,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937154,4.874354
-071020235P-13,13,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937093,4.875628
-071020235P-132,132,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937060,4.874365
-071020235P-142,142,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.936951,4.874372
-071020235P-23,23,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937108,4.875479
-071020235P-31,31,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937120,4.875350
-071020235P-43,43,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937130,4.875233
-071020235P-53,53,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937147,4.875112
-071020235P-63,63,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937158,4.874971
-071020235P-73,73,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937171,4.874839
-071020235P-85,85,Rue Joachim Du Bellay,07500,Guilherand-Granges,OSM,44.937192,4.874631
+071020235P-100,100,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937414,4.874415
+071020235P-102,102,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937394,4.874351
+071020235P-104,104,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937325,4.874348
+071020235P-108,108,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937249,4.874353
+071020235P-116,116,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937154,4.874354
+071020235P-13,13,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937093,4.875628
+071020235P-132,132,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937060,4.874365
+071020235P-142,142,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.936951,4.874372
+071020235P-23,23,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937108,4.875479
+071020235P-31,31,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937120,4.875350
+071020235P-43,43,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937130,4.875233
+071020235P-53,53,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937147,4.875112
+071020235P-63,63,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937158,4.874971
+071020235P-73,73,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937171,4.874839
+071020235P-85,85,Rue Joachim du Bellay,07500,Guilherand-Granges,OSM,44.937192,4.874631
 071020240V-35,35,Rue Jules Ferry,07500,Guilherand-Granges,OSM,44.938106,4.876818
 071020240V-59,59,Rue Jules Ferry,07500,Guilherand-Granges,OSM,44.938121,4.876559
 071020240V-60,60,Rue Jules Ferry,07500,Guilherand-Granges,OSM,44.938200,4.876446
@@ -16959,8 +16959,8 @@
 071020264W-71,71,Rue des Lavandières,07500,Guilherand-Granges,OSM,44.931940,4.855871
 071020264W-75,75,Rue des Lavandières,07500,Guilherand-Granges,OSM,44.932050,4.855793
 071020264W-76,76,Rue des Lavandières,07500,Guilherand-Granges,OSM,44.932006,4.855998
-071020265X-75,75,Impasse Lavoisier,07500,Guilherand-Granges,C+O,44.930013,4.863603
-071020265X-80,80,Impasse Lavoisier,07500,Guilherand-Granges,C+O,44.929806,4.863686
+071020265X-75,75,Impasse Lavoisier,07500,Guilherand-Granges,OSM,44.930028,4.863610
+071020265X-80,80,Impasse Lavoisier,07500,Guilherand-Granges,OSM,44.929795,4.863677
 071020266Y-12,12,Rue Léon Jouhaux,07500,Guilherand-Granges,OSM,44.926298,4.870704
 071020266Y-134,134,Rue Léon Jouhaux,07500,Guilherand-Granges,OSM,44.925984,4.872257
 071020266Y-152,152,Rue Léon Jouhaux,07500,Guilherand-Granges,OSM,44.925968,4.872363
@@ -17114,31 +17114,31 @@
 071020283S-7,7,Allée des Magnolias,07500,Guilherand-Granges,OSM,44.940060,4.877651
 071020283S-8,8,Allée des Magnolias,07500,Guilherand-Granges,OSM,44.939916,4.877764
 071020283S-9,9,Allée des Magnolias,07500,Guilherand-Granges,OSM,44.940190,4.877651
-071020284T-105,105,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937591,4.873516
-071020284T-106,106,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937497,4.873573
-071020284T-12,12,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.936700,4.873495
-071020284T-135,135,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937784,4.873407
-071020284T-140,140,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937876,4.873755
-071020284T-151,151,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937693,4.873935
-071020284T-165,165,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938137,4.873452
-071020284T-168,168,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938062,4.874094
-071020284T-182,182,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938171,4.873850
-071020284T-183,183,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938234,4.873467
-071020284T-208,208,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938388,4.874127
-071020284T-215,215,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938515,4.873498
-071020284T-226,226,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938560,4.874149
-071020284T-238,238,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938659,4.873793
-071020284T-251,251,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938794,4.873698
-071020284T-256,256,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938827,4.873818
-071020284T-263,263,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938984,4.873727
-071020284T-268,268,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.938902,4.874182
-071020284T-44,44,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.936956,4.873521
-071020284T-51,51,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937127,4.873463
-071020284T-64,64,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937137,4.873538
-071020284T-74,74,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937283,4.873552
-071020284T-79,79,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937266,4.873478
-071020284T-88,88,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937408,4.873564
-071020284T-95,95,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,C+O,44.937411,4.873494
+071020284T-105,105,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937592,4.873479
+071020284T-106,106,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937498,4.873574
+071020284T-12,12,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.936700,4.873501
+071020284T-135,135,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937785,4.873390
+071020284T-140,140,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937788,4.873670
+071020284T-151,151,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938033,4.873422
+071020284T-165,165,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938137,4.873437
+071020284T-168,168,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938061,4.874102
+071020284T-182,182,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938175,4.873850
+071020284T-183,183,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938235,4.873450
+071020284T-208,208,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938388,4.874138
+071020284T-215,215,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938516,4.873485
+071020284T-226,226,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938560,4.874156
+071020284T-238,238,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938658,4.873808
+071020284T-251,251,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938794,4.873662
+071020284T-256,256,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938825,4.873835
+071020284T-263,263,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938985,4.873690
+071020284T-268,268,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.938902,4.874186
+071020284T-44,44,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.936957,4.873523
+071020284T-51,51,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937128,4.873426
+071020284T-64,64,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937137,4.873539
+071020284T-74,74,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937283,4.873553
+071020284T-79,79,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937267,4.873441
+071020284T-88,88,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937409,4.873566
+071020284T-95,95,Rue du Docteur Marc Bouvat,07500,Guilherand-Granges,OSM,44.937411,4.873457
 071020285U-113,113,Rue Marcel Pagnol,07500,Guilherand-Granges,OSM,44.939355,4.863452
 071020285U-165,165,Rue Marcel Pagnol,07500,Guilherand-Granges,OSM,44.938906,4.863288
 071020285U-41,41,Rue Marcel Pagnol,07500,Guilherand-Granges,OSM,44.939988,4.863685
@@ -17370,54 +17370,54 @@
 071020358Y-8,8,Impasse Paul Gauguin,07500,Guilherand-Granges,OSM,44.929980,4.873321
 071020358Y-9,9,Impasse Paul Gauguin,07500,Guilherand-Granges,OSM,44.930152,4.872805
 071020370L-100,100,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933037,4.881424
-071020370L-102,102,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933198,4.880876
-071020370L-109,109,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933115,4.880815
-071020370L-113,113,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933147,4.880729
-071020370L-126,126,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933288,4.880638
-071020370L-132,132,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933317,4.880560
-071020370L-142,142,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933349,4.880473
-071020370L-149,149,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933308,4.880307
-071020370L-167,167,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933367,4.880144
-071020370L-173,173,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933415,4.880016
-071020370L-190,190,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933550,4.879931
-071020370L-193,193,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933426,4.879787
-071020370L-199,199,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933444,4.879732
-071020370L-218,218,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933674,4.879604
-071020370L-219,219,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933532,4.879494
-071020370L-225,225,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933559,4.879417
-071020370L-255,255,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933725,4.879179
-071020370L-259,259,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933755,4.879098
-071020370L-264,264,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933864,4.879069
-071020370L-276,276,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933939,4.878873
-071020370L-278,278,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933971,4.878789
-071020370L-279,279,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933853,4.878835
-071020370L-298,298,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933996,4.878725
-071020370L-299,299,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933919,4.878658
-071020370L-306,306,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934036,4.878616
-071020370L-314,314,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934070,4.878524
-071020370L-319,319,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934005,4.878426
-071020370L-326,326,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934120,4.878391
-071020370L-340,340,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934326,4.878262
-071020370L-34,34,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.932927,4.881656
-071020370L-35,35,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.932828,4.881530
-071020370L-366,366,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934122,4.878105
-071020370L-372,372,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934311,4.877884
-071020370L-380,380,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934342,4.877800
-071020370L-394,394,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934379,4.877701
-071020370L-410,410,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934450,4.877516
+071020370L-102,102,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933197,4.880879
+071020370L-109,109,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933115,4.880815
+071020370L-113,113,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933147,4.880729
+071020370L-126,126,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933288,4.880638
+071020370L-132,132,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933317,4.880560
+071020370L-142,142,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933349,4.880473
+071020370L-149,149,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933308,4.880307
+071020370L-167,167,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933367,4.880144
+071020370L-173,173,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933415,4.880016
+071020370L-190,190,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933550,4.879931
+071020370L-193,193,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933417,4.879780
+071020370L-199,199,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933436,4.879727
+071020370L-218,218,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933658,4.879593
+071020370L-219,219,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933523,4.879487
+071020370L-225,225,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933550,4.879411
+071020370L-255,255,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933725,4.879179
+071020370L-259,259,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933755,4.879098
+071020370L-264,264,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933848,4.879057
+071020370L-276,276,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933923,4.878861
+071020370L-278,278,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933956,4.878777
+071020370L-279,279,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933777,4.878830
+071020370L-298,298,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933980,4.878714
+071020370L-299,299,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933876,4.878626
+071020370L-306,306,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934021,4.878604
+071020370L-314,314,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934055,4.878512
+071020370L-319,319,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933996,4.878413
+071020370L-326,326,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934104,4.878381
+071020370L-340,340,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934322,4.878260
+071020370L-34,34,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.932927,4.881656
+071020370L-35,35,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.932786,4.881508
+071020370L-366,366,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934122,4.878105
+071020370L-372,372,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934313,4.877888
+071020370L-380,380,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934344,4.877799
+071020370L-394,394,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934382,4.877703
+071020370L-410,410,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934450,4.877516
 071020370L-42,42,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933103,4.880600
-071020370L-424,424,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934526,4.877316
+071020370L-424,424,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934526,4.877316
 071020370L-432,432,Rue Pasteur,07500,Guilherand-Granges,OSM,44.934550,4.877250
-071020370L-444,444,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.934589,4.877141
-071020370L-47,47,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.932889,4.881362
-071020370L-52,52,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.932964,4.881555
-071020370L-60,60,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933005,4.881388
-071020370L-65,65,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.932864,4.881153
-071020370L-70,70,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933045,4.881283
-071020370L-7,7,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.932690,4.881888
-071020370L-83,83,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933037,4.881018
-071020370L-84,84,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933176,4.881131
-071020370L-86,86,Rue Louis Pasteur,07500,Guilherand-Granges,C+O,44.933176,4.881144
+071020370L-444,444,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.934589,4.877141
+071020370L-47,47,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.932886,4.881372
+071020370L-52,52,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.932964,4.881555
+071020370L-60,60,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933005,4.881388
+071020370L-65,65,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.932947,4.881207
+071020370L-70,70,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933045,4.881283
+071020370L-7,7,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.932691,4.881888
+071020370L-83,83,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933037,4.881018
+071020370L-84,84,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933113,4.881099
+071020370L-86,86,Rue Louis Pasteur,07500,Guilherand-Granges,OSM,44.933126,4.881065
 071020380X-98,98,Rue des Pêcheurs,07500,Guilherand-Granges,OSM,44.933844,4.881919
 071020385C-122,122,Rue Pierre Blanche,07500,Guilherand-Granges,OSM,44.937253,4.868628
 071020385C-135,135,Rue Pierre Blanche,07500,Guilherand-Granges,OSM,44.936828,4.868679
@@ -19867,7 +19867,7 @@
 071280104J-7,7,Rue Saint-Francois Régis,07520,Lalouvesc,CAD,45.118572,4.535650
 071280104J-8,8,Rue Saint-Francois Régis,07520,Lalouvesc,CAD,45.118671,4.535590
 071280104J-9,9,Rue Saint-Francois Régis,07520,Lalouvesc,CAD,45.118518,4.535653
-071280105K-5,5,Rue Sainte Marie,07520,Lalouvesc,OSM,45.120191,4.535205
+071280105K-5,5,Rue Sainte-Marie,07520,Lalouvesc,OSM,45.120191,4.535205
 071280110R-243,243,Route de Saint-Felicien,07520,Lalouvesc,CAD,45.116990,4.536589
 071280113U-1,1,Rue Sainte-Thérèse-Couderc,07520,Lalouvesc,C+O,45.119783,4.535539
 071280113U-2,2,Rue Sainte-Thérèse-Couderc,07520,Lalouvesc,C+O,45.119583,4.535538
@@ -24447,11 +24447,11 @@
 071860816F-3,3,Rue Rolland,07000,Privas,C+O,44.733642,4.594815
 071860816F-5,5,Rue Rolland,07000,Privas,C+O,44.733664,4.594681
 071860816F-816,816,Rue Rolland,07000,Privas,C+O,44.733868,4.594441
-071860818H-495,495,Voie Romaine,07000,Privas,CAD,44.734286,4.583779
-071860818H-6000,6000,Voie Romaine,07000,Privas,CAD,44.734035,4.587338
-071860818H-6001,6001,Voie Romaine,07000,Privas,CAD,44.733760,4.585936
-071860818H-6002,6002,Voie Romaine,07000,Privas,CAD,44.732503,4.578584
-071860818H-6003,6003,Voie Romaine,07000,Privas,CAD,44.732640,4.578970
+071860818H-495,495,Voie romaine,07000,Privas,C+O,44.734286,4.583779
+071860818H-6000,6000,Voie romaine,07000,Privas,C+O,44.734035,4.587338
+071860818H-6001,6001,Voie romaine,07000,Privas,C+O,44.733760,4.585936
+071860818H-6002,6002,Voie romaine,07000,Privas,C+O,44.732503,4.578584
+071860818H-6003,6003,Voie romaine,07000,Privas,C+O,44.732640,4.578970
 071860823N-189,189,Chemin des Sagnes,07000,Privas,CAD,44.716197,4.591998
 071860823N-20,20,Chemin des Sagnes,07000,Privas,CAD,44.717310,4.593640
 071860823N-21,21,Chemin des Sagnes,07000,Privas,CAD,44.717214,4.593670
@@ -27506,401 +27506,408 @@
 072080057K-7,7,Rue du Puits du Moine,07170,Saint-Andéol-de-Berg,CAD,44.527969,4.527839
 072080057K-8,8,Rue du Puits du Moine,07170,Saint-Andéol-de-Berg,CAD,44.527910,4.527931
 072080057K-9,9,Rue du Puits du Moine,07170,Saint-Andéol-de-Berg,CAD,44.527877,4.527871
-072170002L-1,1,Place de l'Aire,07300,Saint-Barthélemy-le-Plain,C+O,45.053771,4.746774
-072170002L-2,2,Place de l'Aire,07300,Saint-Barthélemy-le-Plain,C+O,45.053979,4.746836
-072170002L-3,3,Place de l'Aire,07300,Saint-Barthélemy-le-Plain,C+O,45.054011,4.746752
-072170003M-1450,1450,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.028396,4.748829
-072170003M-1700,1700,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.029240,4.751576
-072170003M-1710,1710,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.029405,4.751419
-072170003M-2030,2030,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.030081,4.754203
-072170003M-2485,2485,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.033509,4.758955
-072170003M-255,255,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.033092,4.746058
-072170003M-260,260,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.033262,4.746121
-072170003M-60,60,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,C+O,45.034872,4.746069
-072170004N-100,100,Chemin de Bancel,07300,Saint-Barthélemy-le-Plain,C+O,45.052096,4.736476
-072170004N-130,130,Chemin de Bancel,07300,Saint-Barthélemy-le-Plain,C+O,45.052549,4.736620
-072170004N-170,170,Chemin de Bancel,07300,Saint-Barthélemy-le-Plain,C+O,45.052917,4.736779
-072170005P-20,20,Rue de la Béguette,07300,Saint-Barthélemy-le-Plain,C+O,45.055209,4.746068
-072170005P-70,70,Rue de la Béguette,07300,Saint-Barthélemy-le-Plain,C+O,45.055312,4.746221
-072170005P-75,75,Rue de la Béguette,07300,Saint-Barthélemy-le-Plain,C+O,45.055595,4.746139
-072170007S-265,265,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,C+O,45.039289,4.735554
-072170007S-280,280,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,C+O,45.039686,4.735532
-072170007S-290,290,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,C+O,45.039645,4.735381
-072170007S-330,330,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,C+O,45.039254,4.735094
-072170008T-140,140,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,C+O,45.056069,4.747589
-072170008T-145,145,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,C+O,45.055583,4.746956
-072170008T-150,150,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,C+O,45.055878,4.746982
-072170008T-160,160,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,C+O,45.055783,4.746932
-072170008T-85,85,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,C+O,45.055662,4.747995
-072170009U-10,10,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054122,4.743862
-072170009U-11,11,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053086,4.743297
-072170009U-1,1,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053484,4.743862
-072170009U-12,12,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054573,4.743610
-072170009U-13,13,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053300,4.743636
-072170009U-14,14,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054623,4.743596
-072170009U-15,15,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053344,4.743508
-072170009U-16,16,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054861,4.743342
-072170009U-17,17,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053666,4.743565
-072170009U-18,18,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054955,4.743729
-072170009U-20,20,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054859,4.743930
-072170009U-22,22,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054587,4.743870
-072170009U-2,2,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053604,4.743738
-072170009U-24,24,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.054076,4.744002
-072170009U-26,26,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053770,4.743958
-072170009U-3,3,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053246,4.743937
-072170009U-6,6,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053949,4.743882
-072170009U-7,7,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.053056,4.743573
-072170009U-9,9,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,C+O,45.052989,4.743381
-072170010V-1,1,Place de l'Église,07300,Saint-Barthélemy-le-Plain,C+O,45.054688,4.747182
-072170010V-2,2,Place de l'Église,07300,Saint-Barthélemy-le-Plain,C+O,45.054544,4.747096
-072170010V-3,3,Place de l'Église,07300,Saint-Barthélemy-le-Plain,C+O,45.054474,4.746872
-072170011W-125,125,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,C+O,45.054544,4.746608
-072170011W-25,25,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,C+O,45.055377,4.746984
-072170011W-45,45,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,C+O,45.055183,4.746863
-072170011W-55,55,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,C+O,45.055122,4.746873
-072170012X-185B,185B,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.041006,4.725663
-072170012X-185C,185C,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040728,4.725673
-072170012X-185D,185D,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040789,4.725803
-072170012X-185E,185E,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040580,4.725602
-072170012X-195,195,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040670,4.725397
-072170012X-205,205,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040585,4.725518
-072170012X-215,215,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040554,4.725194
-072170012X-220,220,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040750,4.724841
-072170012X-280,280,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.040136,4.724396
-072170012X-355,355,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.039333,4.724492
-072170012X-45,45,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.042006,4.724450
-072170012X-495,495,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.038266,4.723991
-072170012X-510,510,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.038327,4.723729
-072170012X-515,515,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,C+O,45.038079,4.723777
-072170013Y-140,140,Rue des Jardins,07300,Saint-Barthélemy-le-Plain,C+O,45.054276,4.747488
-072170013Y-50,50,Rue des Jardins,07300,Saint-Barthélemy-le-Plain,C+O,45.053652,4.747471
-072170014Z-20,20,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,C+O,45.057116,4.782238
-072170014Z-6580,6580,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,C+O,45.053156,4.732891
-072170014Z-6635,6635,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,C+O,45.052362,4.733576
-072170014Z-6660,6660,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,C+O,45.052904,4.731967
-072170014Z-8460,8460,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,C+O,45.044118,4.720746
-072170014Z-8470,8470,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,C+O,45.044120,4.720295
-072170014Z-8490,8490,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,C+O,45.043626,4.720244
-072170015A-110,110,Rue de la Mairie,07300,Saint-Barthélemy-le-Plain,C+O,45.052806,4.746062
-072170015A-55,55,Rue de la Mairie,07300,Saint-Barthélemy-le-Plain,C+O,45.053651,4.746970
-072170017C-10,10,Rue du Puits,07300,Saint-Barthélemy-le-Plain,C+O,45.054352,4.746543
-072170017C-20,20,Rue du Puits,07300,Saint-Barthélemy-le-Plain,C+O,45.054327,4.746515
-072170017C-25,25,Rue du Puits,07300,Saint-Barthélemy-le-Plain,C+O,45.054210,4.746759
-072170017C-30,30,Rue du Puits,07300,Saint-Barthélemy-le-Plain,C+O,45.054277,4.746422
-072170017C-45,45,Rue du Puits,07300,Saint-Barthélemy-le-Plain,C+O,45.054100,4.746753
-072170017C-50,50,Rue du Puits,07300,Saint-Barthélemy-le-Plain,C+O,45.054148,4.746510
-072170017C-5,5,Rue du Puits,07300,Saint-Barthélemy-le-Plain,C+O,45.054294,4.746723
-072170018D-25A,25A,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,C+O,45.055155,4.746965
-072170018D-25B,25B,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,C+O,45.055289,4.746939
-072170018D-31,31,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,C+O,45.055064,4.747196
-072170018D-35,35,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,C+O,45.055008,4.747958
-072170018D-45,45,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,C+O,45.054744,4.747847
-072170019E-100,100,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054393,4.746371
-072170019E-115,115,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054453,4.746670
-072170019E-125,125,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054471,4.746813
-072170019E-135,135,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054431,4.746868
-072170019E-155,155,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054391,4.747194
-072170019E-20,20,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054630,4.745607
-072170019E-55B,55B,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054713,4.746122
-072170019E-55C,55C,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054625,4.746364
-072170019E-70,70,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054518,4.745963
-072170019E-80,80,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054474,4.746161
-072170019E-90,90,Rue de la République,07300,Saint-Barthélemy-le-Plain,C+O,45.054455,4.746247
-072170021G-10,10,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,C+O,45.054330,4.746917
-072170021G-15,15,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,C+O,45.054263,4.747112
-072170021G-20,20,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,C+O,45.054244,4.746879
-072170021G-35,35,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,C+O,45.054212,4.747186
-072170021G-45,45,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,C+O,45.054150,4.747110
-072170021G-50,50,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,C+O,45.054160,4.746876
-072170022H-320,320,Chemin du Bois,07300,Saint-Barthélemy-le-Plain,C+O,45.046736,4.753580
-072170023J-1220,1220,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,C+O,45.027305,4.722819
-072170023J-1260,1260,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,C+O,45.027391,4.722459
-072170023J-675,675,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,C+O,45.023427,4.725326
-072170023J-735,735,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,C+O,45.023507,4.725348
-072170023J-890,890,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,C+O,45.024017,4.724010
-072170023J-930,930,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,C+O,45.024724,4.723679
-072170024K-30,30,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,C+O,45.053498,4.771863
-072170024K-35,35,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,C+O,45.053565,4.771623
-072170024K-50,50,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,C+O,45.053434,4.772324
-072170024K-55,55,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,C+O,45.053888,4.772133
-072170024K-75,75,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,C+O,45.054020,4.772450
-072170024K-85,85,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,C+O,45.053981,4.772639
-072170025L-1385,1385,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.041061,4.736844
-072170025L-1395,1395,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.041327,4.736727
-072170025L-1445,1445,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.041340,4.736336
-072170025L-1560,1560,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.042417,4.734252
-072170025L-230,230,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.050523,4.742166
-072170025L-2415,2415,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.041357,4.742270
-072170025L-2510,2510,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.038181,4.742060
-072170025L-2530,2530,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.037858,4.742331
-072170025L-2620,2620,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.038049,4.742830
-072170025L-2630,2630,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.037722,4.742571
-072170025L-2950,2950,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.035944,4.745655
-072170025L-2980,2980,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.035406,4.746210
-072170025L-310,310,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.049820,4.741713
-072170025L-370,370,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.049488,4.741427
-072170025L-520,520,Route de Buffière,07300,Saint-Barthélemy-le-Plain,C+O,45.047981,4.740756
-072170026M-25,25,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,C+O,45.057668,4.762949
-072170026M-275,275,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,C+O,45.056500,4.764741
-072170026M-420,420,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,C+O,45.056532,4.766020
-072170026M-450,450,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,C+O,45.056618,4.766419
-072170027N-135,135,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,C+O,45.056417,4.766866
-072170027N-140,140,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,C+O,45.056307,4.767606
-072170027N-5A,5A,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,C+O,45.055535,4.766339
-072170027N-5B,5B,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,C+O,45.055755,4.766566
-072170028P-300,300,Chemin de Chalendon,07300,Saint-Barthélemy-le-Plain,C+O,45.042838,4.746022
-072170028P-335,335,Chemin de Chalendon,07300,Saint-Barthélemy-le-Plain,C+O,45.042871,4.746240
-072170029R-180,180,Chemin de Chalieux,07300,Saint-Barthélemy-le-Plain,C+O,45.054947,4.782021
-072170029R-260,260,Chemin de Chalieux,07300,Saint-Barthélemy-le-Plain,C+O,45.054490,4.781495
-072170030S-860,860,Chemin des Chapeliers,07300,Saint-Barthélemy-le-Plain,C+O,45.045782,4.714357
-072170031T-15,15,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,C+O,45.052887,4.744174
-072170031T-170,170,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,C+O,45.052138,4.745906
-072170031T-190,190,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,C+O,45.052447,4.746090
-072170031T-240,240,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,C+O,45.052360,4.746387
-072170031T-65,65,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,C+O,45.053071,4.744376
-072170032U-100,100,Chemin des Chatenelles,07300,Saint-Barthélemy-le-Plain,C+O,45.043655,4.724059
-072170032U-20,20,Chemin des Chatenelles,07300,Saint-Barthélemy-le-Plain,C+O,45.044223,4.724855
-072170032U-50,50,Chemin des Chatenelles,07300,Saint-Barthélemy-le-Plain,C+O,45.043958,4.724573
-072170033V-480,480,Route Sous Les Chatenelles,07300,Saint-Barthélemy-le-Plain,C+O,45.044695,4.722361
-072170033V-510,510,Route Sous Les Chatenelles,07300,Saint-Barthélemy-le-Plain,C+O,45.044518,4.721829
-072170034W-1605,1605,Route de Colombier,07300,Saint-Barthélemy-le-Plain,C+O,45.033358,4.718463
-072170034W-325,325,Route de Colombier,07300,Saint-Barthélemy-le-Plain,C+O,45.044101,4.725603
-072170034W-390,390,Route de Colombier,07300,Saint-Barthélemy-le-Plain,C+O,45.043464,4.724521
-072170034W-415,415,Route de Colombier,07300,Saint-Barthélemy-le-Plain,C+O,45.042945,4.725151
-072170034W-440,440,Route de Colombier,07300,Saint-Barthélemy-le-Plain,C+O,45.043094,4.724165
-072170034W-465,465,Route de Colombier,07300,Saint-Barthélemy-le-Plain,C+O,45.042710,4.724864
-072170034W-755,755,Route de Colombier,07300,Saint-Barthélemy-le-Plain,C+O,45.040462,4.723497
-072170035X-280,280,Chemin de Côte Plaine,07300,Saint-Barthélemy-le-Plain,C+O,45.037334,4.754034
-072170035X-330,330,Chemin de Côte Plaine,07300,Saint-Barthélemy-le-Plain,C+O,45.037461,4.754323
-072170036Y-110,110,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,C+O,45.040760,4.721376
-072170036Y-235A,235A,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,C+O,45.041189,4.720885
-072170036Y-235B,235B,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,C+O,45.041358,4.720793
-072170036Y-240,240,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,C+O,45.041009,4.720947
-072170036Y-250,250,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,C+O,45.041299,4.721172
-072170036Y-260,260,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,C+O,45.041341,4.721090
-072170036Y-380,380,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,C+O,45.042687,4.720766
-072170037Z-125,125,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,C+O,45.044941,4.728058
-072170037Z-165,165,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,C+O,45.045060,4.728649
-072170037Z-175,175,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,C+O,45.044686,4.728527
-072170037Z-230,230,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,C+O,45.044216,4.727600
-072170037Z-65,65,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,C+O,45.045814,4.727918
-072170038A-170,170,Chemin de Débiton,07300,Saint-Barthélemy-le-Plain,C+O,45.026364,4.747726
-072170039B-175,175,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,C+O,45.056000,4.755374
-072170039B-220,220,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,C+O,45.055854,4.755109
-072170039B-260,260,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,C+O,45.055573,4.755077
-072170039B-280,280,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,C+O,45.055420,4.754970
-072170039B-300,300,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,C+O,45.055630,4.754480
-072170039B-75,75,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,C+O,45.056998,4.755982
-072170040C-1010,1010,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.063345,4.756930
-072170040C-1030,1030,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.062976,4.757416
-072170040C-1040,1040,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.063150,4.757527
-072170040C-1230,1230,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.064760,4.757499
-072170040C-140,140,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.058469,4.752146
-072170040C-200,200,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.058923,4.752312
-072170040C-215,215,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.058935,4.751698
-072170040C-230,230,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.059063,4.751744
-072170040C-235,235,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.059172,4.751451
-072170040C-690,690,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,C+O,45.062590,4.754294
-072170041D-20,20,Chemin du Four,07300,Saint-Barthélemy-le-Plain,C+O,45.050892,4.734697
-072170041D-40,40,Chemin du Four,07300,Saint-Barthélemy-le-Plain,C+O,45.051103,4.734827
-072170041D-60,60,Chemin du Four,07300,Saint-Barthélemy-le-Plain,C+O,45.051230,4.734805
-072170041D-70,70,Chemin du Four,07300,Saint-Barthélemy-le-Plain,C+O,45.051320,4.734866
-072170042E-495,495,Route du Fraisse,07300,Saint-Barthélemy-le-Plain,C+O,45.050267,4.728502
-072170042E-545,545,Route du Fraisse,07300,Saint-Barthélemy-le-Plain,C+O,45.050709,4.728398
-072170042E-565,565,Route du Fraisse,07300,Saint-Barthélemy-le-Plain,C+O,45.050534,4.728380
-072170043F-140,140,Chemin des Gardettes,07300,Saint-Barthélemy-le-Plain,C+O,45.038427,4.745603
-072170043F-190,190,Chemin des Gardettes,07300,Saint-Barthélemy-le-Plain,C+O,45.038521,4.745685
-072170044G-30,30,Chemin de la Gare,07300,Saint-Barthélemy-le-Plain,C+O,45.058457,4.726135
-072170045H-305,305,Chemin de Gouyet,07300,Saint-Barthélemy-le-Plain,C+O,45.055882,4.775593
-072170045H-425,425,Chemin de Gouyet,07300,Saint-Barthélemy-le-Plain,C+O,45.056217,4.776775
-072170046J-130,130,Chemin des Grandons,07300,Saint-Barthélemy-le-Plain,C+O,45.041532,4.756357
-072170047K-105,105,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045744,4.741408
-072170047K-115,115,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045825,4.741926
-072170047K-1235,1235,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.049700,4.751232
-072170047K-1245,1245,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.049631,4.751370
-072170047K-125,125,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045643,4.742019
-072170047K-1270,1270,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.049857,4.751696
-072170047K-1315,1315,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.050582,4.751373
-072170047K-145,145,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045596,4.742327
+072170002L-1,1,Place de l'Aire,07300,Saint-Barthélemy-le-Plain,OSM,45.053844,4.746803
+072170002L-2,2,Place de l'Aire,07300,Saint-Barthélemy-le-Plain,OSM,45.053939,4.746818
+072170002L-3,3,Place de l'Aire,07300,Saint-Barthélemy-le-Plain,OSM,45.053970,4.746719
+072170003M-1450,1450,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.028396,4.748829
+072170003M-1700,1700,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.029290,4.751566
+072170003M-1710,1710,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.029418,4.751435
+072170003M-2030,2030,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.030249,4.754397
+072170003M-2485,2485,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.033707,4.759426
+072170003M-255,255,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.033243,4.746614
+072170003M-260,260,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.033373,4.745963
+072170003M-60,60,Chemin de Balayon,07300,Saint-Barthélemy-le-Plain,OSM,45.035119,4.746172
+072170004N-100,100,Chemin de Bancel,07300,Saint-Barthélemy-le-Plain,OSM,45.052281,4.736542
+072170004N-130,130,Chemin de Bancel,07300,Saint-Barthélemy-le-Plain,OSM,45.052549,4.736620
+072170004N-170,170,Chemin de Bancel,07300,Saint-Barthélemy-le-Plain,OSM,45.052862,4.736837
+072170005P-20,20,Rue de la Béguette,07300,Saint-Barthélemy-le-Plain,OSM,45.055232,4.746012
+072170005P-70,70,Rue de la Béguette,07300,Saint-Barthélemy-le-Plain,OSM,45.055352,4.746230
+072170005P-75,75,Rue de la Béguette,07300,Saint-Barthélemy-le-Plain,OSM,45.055502,4.746232
+072170007S-265,265,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,OSM,45.039332,4.735700
+072170007S-280,280,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,OSM,45.039583,4.735557
+072170007S-290,290,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,OSM,45.039529,4.735457
+072170007S-330,330,Chemin de Bel Air,07300,Saint-Barthélemy-le-Plain,OSM,45.039374,4.735113
+072170008T-140,140,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,OSM,45.055992,4.747210
+072170008T-145,145,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,OSM,45.055597,4.747018
+072170008T-150,150,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,OSM,45.055888,4.747022
+072170008T-160,160,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,OSM,45.055747,4.746899
+072170008T-85,85,Rue du Cimetière,07300,Saint-Barthélemy-le-Plain,OSM,45.055819,4.747915
+072170009U-10,10,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054122,4.743862
+072170009U-11,11,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053159,4.743446
+072170009U-1,1,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053480,4.743882
+072170009U-12,12,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054549,4.743620
+072170009U-13,13,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053301,4.743605
+072170009U-14,14,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054623,4.743596
+072170009U-15,15,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053380,4.743635
+072170009U-16,16,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054762,4.743632
+072170009U-17,17,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053581,4.743694
+072170009U-18,18,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054955,4.743729
+072170009U-20,20,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054747,4.743920
+072170009U-22,22,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054578,4.743791
+072170009U-2,2,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053709,4.743793
+072170009U-24,24,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.054029,4.744195
+072170009U-26,26,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053737,4.743983
+072170009U-3,3,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053282,4.743864
+072170009U-4,4,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053884,4.743878
+072170009U-5,5,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053048,4.743686
+072170009U-6,6,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053949,4.743882
+072170009U-7,7,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053056,4.743573
+072170009U-9,9,Impasse du Belvédère,07300,Saint-Barthélemy-le-Plain,OSM,45.053065,4.743408
+072170010V-1,1,Place de l'Église,07300,Saint-Barthélemy-le-Plain,OSM,45.054685,4.747130
+072170010V-2,2,Place de l'Église,07300,Saint-Barthélemy-le-Plain,OSM,45.054501,4.747026
+072170010V-3,3,Place de l'Église,07300,Saint-Barthélemy-le-Plain,OSM,45.054490,4.746886
+072170011W-125,125,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,OSM,45.054576,4.746517
+072170011W-25,25,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,OSM,45.055366,4.746941
+072170011W-45,45,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,OSM,45.055173,4.746811
+072170011W-55,55,Rue de l'Église,07300,Saint-Barthélemy-le-Plain,OSM,45.055114,4.746831
+072170012X-185B,185B,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.041025,4.725639
+072170012X-185C,185C,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040677,4.725669
+072170012X-185D,185D,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040806,4.725828
+072170012X-185E,185E,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040616,4.725584
+072170012X-195,195,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040687,4.725339
+072170012X-205,205,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040568,4.725464
+072170012X-215,215,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040615,4.725243
+072170012X-220,220,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040737,4.725030
+072170012X-280,280,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.040268,4.724724
+072170012X-355,355,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.039670,4.724613
+072170012X-45,45,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.041974,4.724441
+072170012X-495,495,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.038174,4.723904
+072170012X-510,510,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.038349,4.723610
+072170012X-515,515,Chemin des Bernes,07300,Saint-Barthélemy-le-Plain,OSM,45.038136,4.723711
+072170013Y-140,140,Rue des Jardins,07300,Saint-Barthélemy-le-Plain,OSM,45.054362,4.747304
+072170013Y-50,50,Rue des Jardins,07300,Saint-Barthélemy-le-Plain,OSM,45.053566,4.747268
+072170014Z-20,20,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,OSM,45.057188,4.782217
+072170014Z-6580,6580,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,OSM,45.053153,4.732958
+072170014Z-6635,6635,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,OSM,45.052362,4.733576
+072170014Z-6660,6660,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,OSM,45.052838,4.732137
+072170014Z-8460,8460,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,OSM,45.044063,4.721093
+072170014Z-8470,8470,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,OSM,45.044064,4.720318
+072170014Z-8490,8490,Route de Lamastre,07300,Saint-Barthélemy-le-Plain,OSM,45.043625,4.720264
+072170015A-110,110,Rue de la Mairie,07300,Saint-Barthélemy-le-Plain,OSM,45.052997,4.746627
+072170015A-55,55,Rue de la Mairie,07300,Saint-Barthélemy-le-Plain,OSM,45.053570,4.746680
+072170017C-10,10,Rue du Puits,07300,Saint-Barthélemy-le-Plain,OSM,45.054353,4.746545
+072170017C-20,20,Rue du Puits,07300,Saint-Barthélemy-le-Plain,OSM,45.054304,4.746570
+072170017C-25,25,Rue du Puits,07300,Saint-Barthélemy-le-Plain,OSM,45.054227,4.746641
+072170017C-30,30,Rue du Puits,07300,Saint-Barthélemy-le-Plain,OSM,45.054250,4.746467
+072170017C-45,45,Rue du Puits,07300,Saint-Barthélemy-le-Plain,OSM,45.054118,4.746608
+072170017C-50,50,Rue du Puits,07300,Saint-Barthélemy-le-Plain,OSM,45.054126,4.746532
+072170017C-5,5,Rue du Puits,07300,Saint-Barthélemy-le-Plain,OSM,45.054302,4.746663
+072170018D-25A,25A,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,OSM,45.055154,4.746990
+072170018D-25B,25B,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,OSM,45.055279,4.746987
+072170018D-31,31,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,OSM,45.055051,4.747150
+072170018D-35,35,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,OSM,45.055030,4.747510
+072170018D-45,45,Place du Monument aux Morts,07300,Saint-Barthélemy-le-Plain,OSM,45.054815,4.747351
+072170019E-100,100,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054446,4.746407
+072170019E-115,115,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054401,4.746629
+072170019E-125,125,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054389,4.746725
+072170019E-135,135,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054383,4.746836
+072170019E-155,155,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054312,4.747133
+072170019E-20,20,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054630,4.745607
+072170019E-55,55,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054642,4.745883
+072170019E-55B,55B,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054755,4.746088
+072170019E-55C,55C,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054654,4.746220
+072170019E-70,70,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054516,4.745971
+072170019E-80,80,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054499,4.746172
+072170019E-90,90,Rue de la République,07300,Saint-Barthélemy-le-Plain,OSM,45.054476,4.746265
+072170021G-10,10,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,OSM,45.054325,4.746957
+072170021G-15,15,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,OSM,45.054262,4.747007
+072170021G-20,20,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,OSM,45.054252,4.746960
+072170021G-35,35,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,OSM,45.054207,4.746999
+072170021G-45,45,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,OSM,45.054160,4.746992
+072170021G-50,50,Rue de la Voute,07300,Saint-Barthélemy-le-Plain,OSM,45.054154,4.746947
+072170022H-320,320,Chemin du Bois,07300,Saint-Barthélemy-le-Plain,OSM,45.046697,4.753680
+072170023J-1220,1220,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,OSM,45.027305,4.722819
+072170023J-1260,1260,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,OSM,45.027439,4.722366
+072170023J-675,675,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,OSM,45.023320,4.725391
+072170023J-735,735,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,OSM,45.023561,4.725174
+072170023J-890,890,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,OSM,45.024043,4.724064
+072170023J-930,930,Chemin de Bonnet,07300,Saint-Barthélemy-le-Plain,OSM,45.024713,4.723752
+072170024K-30,30,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,OSM,45.053561,4.771992
+072170024K-35,35,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,OSM,45.053602,4.772001
+072170024K-50,50,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,OSM,45.053639,4.772180
+072170024K-55,55,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,OSM,45.053695,4.772131
+072170024K-75,75,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,OSM,45.053758,4.772452
+072170024K-85,85,Chemin de Bonnevie,07300,Saint-Barthélemy-le-Plain,OSM,45.053748,4.772593
+072170025L-1385,1385,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.041064,4.736820
+072170025L-1395,1395,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.041368,4.736808
+072170025L-1445,1445,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.041269,4.736298
+072170025L-1560,1560,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.042020,4.734482
+072170025L-230,230,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.050544,4.742439
+072170025L-2415,2415,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.041163,4.742227
+072170025L-2510,2510,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.038160,4.742242
+072170025L-2530,2530,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.037935,4.742397
+072170025L-2620,2620,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.037858,4.742831
+072170025L-2630,2630,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.037821,4.742648
+072170025L-2950,2950,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.035913,4.745754
+072170025L-2980,2980,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.035438,4.746154
+072170025L-310,310,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.049774,4.741930
+072170025L-370,370,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.049376,4.741633
+072170025L-520,520,Route de Buffière,07300,Saint-Barthélemy-le-Plain,OSM,45.048143,4.740900
+072170026M-25,25,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,OSM,45.057491,4.763092
+072170026M-275,275,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,OSM,45.056669,4.764630
+072170026M-420,420,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,OSM,45.056438,4.766045
+072170026M-450,450,Chemin de Chabanet Haut,07300,Saint-Barthélemy-le-Plain,OSM,45.056192,4.766447
+072170027N-135,135,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,OSM,45.056555,4.766953
+072170027N-140,140,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,OSM,45.056251,4.767716
+072170027N-5A,5A,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,OSM,45.055503,4.766334
+072170027N-5B,5B,Chemin de Chabanet Bas,07300,Saint-Barthélemy-le-Plain,OSM,45.055795,4.766739
+072170028P-300,300,Chemin de Chalendon,07300,Saint-Barthélemy-le-Plain,OSM,45.042879,4.745968
+072170028P-335,335,Chemin de Chalendon,07300,Saint-Barthélemy-le-Plain,OSM,45.042757,4.746312
+072170029R-180,180,Chemin de Chalieux,07300,Saint-Barthélemy-le-Plain,OSM,45.054956,4.782031
+072170029R-260,260,Chemin de Chalieux,07300,Saint-Barthélemy-le-Plain,OSM,45.054396,4.781435
+072170030S-860,860,Chemin des Chapeliers,07300,Saint-Barthélemy-le-Plain,OSM,45.045784,4.714362
+072170031T-15,15,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,OSM,45.052792,4.743921
+072170031T-170,170,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,OSM,45.052236,4.745894
+072170031T-190,190,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,OSM,45.052453,4.746057
+072170031T-240,240,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,OSM,45.052285,4.746303
+072170031T-65,65,Route de Chapelon,07300,Saint-Barthélemy-le-Plain,OSM,45.053012,4.744637
+072170032U-100,100,Chemin des Chatenelles,07300,Saint-Barthélemy-le-Plain,OSM,45.043537,4.724019
+072170032U-20,20,Chemin des Chatenelles,07300,Saint-Barthélemy-le-Plain,OSM,45.044184,4.724822
+072170032U-50,50,Chemin des Chatenelles,07300,Saint-Barthélemy-le-Plain,OSM,45.043954,4.724496
+072170033V-480,480,Route Sous Les Chatenelles,07300,Saint-Barthélemy-le-Plain,OSM,45.044498,4.722330
+072170033V-510,510,Route Sous Les Chatenelles,07300,Saint-Barthélemy-le-Plain,OSM,45.044446,4.721906
+072170034W-1605,1605,Route de Colombier,07300,Saint-Barthélemy-le-Plain,OSM,45.033346,4.718373
+072170034W-325,325,Route de Colombier,07300,Saint-Barthélemy-le-Plain,OSM,45.043871,4.725163
+072170034W-390,390,Route de Colombier,07300,Saint-Barthélemy-le-Plain,OSM,45.043351,4.724538
+072170034W-415,415,Route de Colombier,07300,Saint-Barthélemy-le-Plain,OSM,45.043091,4.724668
+072170034W-440,440,Route de Colombier,07300,Saint-Barthélemy-le-Plain,OSM,45.043040,4.724423
+072170034W-465,465,Route de Colombier,07300,Saint-Barthélemy-le-Plain,OSM,45.042571,4.724471
+072170034W-755,755,Route de Colombier,07300,Saint-Barthélemy-le-Plain,OSM,45.040274,4.723585
+072170035X-280,280,Chemin de Côte Plaine,07300,Saint-Barthélemy-le-Plain,OSM,45.037329,4.754078
+072170035X-330,330,Chemin de Côte Plaine,07300,Saint-Barthélemy-le-Plain,OSM,45.037444,4.754459
+072170036Y-110,110,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,OSM,45.040773,4.721377
+072170036Y-235A,235A,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,OSM,45.041189,4.720885
+072170036Y-235B,235B,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,OSM,45.041301,4.720744
+072170036Y-240,240,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,OSM,45.041085,4.720991
+072170036Y-250,250,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,OSM,45.041265,4.721131
+072170036Y-260,260,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,OSM,45.041340,4.721090
+072170036Y-380,380,Chemin de Coursodon,07300,Saint-Barthélemy-le-Plain,OSM,45.042312,4.720553
+072170037Z-125,125,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,OSM,45.044964,4.727957
+072170037Z-165,165,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,OSM,45.045006,4.728548
+072170037Z-175,175,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,OSM,45.044714,4.728014
+072170037Z-230,230,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,OSM,45.044110,4.727605
+072170037Z-65,65,Chemin des Cros,07300,Saint-Barthélemy-le-Plain,OSM,45.045751,4.727539
+072170038A-170,170,Chemin de Débiton,07300,Saint-Barthélemy-le-Plain,OSM,45.026363,4.747726
+072170039B-175,175,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,OSM,45.056045,4.755289
+072170039B-220,220,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,OSM,45.055815,4.755197
+072170039B-260,260,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,OSM,45.055572,4.755124
+072170039B-280,280,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,OSM,45.055400,4.754961
+072170039B-300,300,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,OSM,45.055598,4.754470
+072170039B-75,75,Chemin de la Font Saint-Jean,07300,Saint-Barthélemy-le-Plain,OSM,45.057016,4.755983
+072170040C-1010,1010,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.063224,4.757044
+072170040C-1030,1030,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.063010,4.757328
+072170040C-1040,1040,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.063185,4.757515
+072170040C-1230,1230,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.064531,4.757397
+072170040C-140,140,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.058478,4.752180
+072170040C-200,200,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.058883,4.751850
+072170040C-215,215,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.058974,4.751593
+072170040C-230,230,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.059242,4.751488
+072170040C-235,235,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.059160,4.751404
+072170040C-690,690,Chemin de Forasson,07300,Saint-Barthélemy-le-Plain,OSM,45.062487,4.754201
+072170041D-20,20,Chemin du Four,07300,Saint-Barthélemy-le-Plain,OSM,45.050977,4.734707
+072170041D-40,40,Chemin du Four,07300,Saint-Barthélemy-le-Plain,OSM,45.051094,4.734795
+072170041D-60,60,Chemin du Four,07300,Saint-Barthélemy-le-Plain,OSM,45.051188,4.734772
+072170041D-70,70,Chemin du Four,07300,Saint-Barthélemy-le-Plain,OSM,45.051326,4.734769
+072170042E-495,495,Route du Fraisse,07300,Saint-Barthélemy-le-Plain,OSM,45.050335,4.728547
+072170042E-545,545,Route du Fraisse,07300,Saint-Barthélemy-le-Plain,OSM,45.050755,4.728374
+072170042E-565,565,Route du Fraisse,07300,Saint-Barthélemy-le-Plain,OSM,45.050602,4.728480
+072170043F-140,140,Chemin des Gardettes,07300,Saint-Barthélemy-le-Plain,OSM,45.038360,4.745551
+072170043F-190,190,Chemin des Gardettes,07300,Saint-Barthélemy-le-Plain,OSM,45.038497,4.745593
+072170044G-30,30,Chemin de la Gare,07300,Saint-Barthélemy-le-Plain,OSM,45.058328,4.726145
+072170045H-305,305,Chemin de Gouyet,07300,Saint-Barthélemy-le-Plain,OSM,45.055860,4.775448
+072170045H-425,425,Chemin de Gouyet,07300,Saint-Barthélemy-le-Plain,OSM,45.056217,4.776775
+072170046J-130,130,Chemin des Grandons,07300,Saint-Barthélemy-le-Plain,OSM,45.041547,4.756331
+072170047K-105,105,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045685,4.741510
+072170047K-115,115,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045617,4.741860
+072170047K-1235,1235,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.049684,4.751250
+072170047K-1245,1245,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.049607,4.751448
+072170047K-125,125,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045561,4.741990
+072170047K-1270,1270,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.049812,4.751594
+072170047K-1315,1315,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.050057,4.751419
+072170047K-145,145,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045484,4.742193
 072170047K-201,201,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045499,4.748474
-072170047K-45,45,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045825,4.741907
-072170047K-65,65,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045744,4.741390
-072170047K-70,70,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.045324,4.740883
-072170047K-760,760,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,C+O,45.046019,4.749451
-072170048L-320,320,Chemin de Lolabru,07300,Saint-Barthélemy-le-Plain,C+O,45.027025,4.746501
-072170049M-100,100,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050694,4.738051
-072170049M-10,10,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050185,4.738401
-072170049M-130,130,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051045,4.737806
-072170049M-135,135,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050564,4.738099
-072170049M-155,155,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051136,4.737692
-072170049M-200,200,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051476,4.737556
-072170049M-220,220,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051498,4.737092
-072170049M-260,260,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051518,4.736635
-072170049M-335,335,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051256,4.735667
-072170049M-35,35,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050117,4.738400
-072170049M-370,370,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051187,4.735173
-072170049M-380,380,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051169,4.735279
-072170049M-390,390,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.051042,4.735237
-072170049M-395,395,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050243,4.735685
-072170049M-410A,410A,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050908,4.734947
-072170049M-410B,410B,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050992,4.735043
-072170049M-430,430,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050839,4.734752
-072170049M-525,525,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.050056,4.734293
-072170049M-585,585,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.049573,4.734160
-072170049M-595,595,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.049440,4.734126
-072170049M-625,625,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,C+O,45.049219,4.734074
-072170050N-125,125,Chemin de Machon,07300,Saint-Barthélemy-le-Plain,C+O,45.042860,4.715000
-072170051P-410,410,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.044530,4.733945
-072170051P-465,465,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.044493,4.734862
-072170051P-490,490,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.043813,4.734269
-072170051P-530,530,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.043760,4.734303
-072170051P-605,605,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.042699,4.735408
-072170051P-660,660,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.042494,4.735014
-072170051P-690,690,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.042176,4.735392
-072170051P-695,695,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.042195,4.735712
-072170051P-700,700,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.042089,4.735416
-072170051P-730,730,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.041889,4.735745
-072170051P-735,735,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.042365,4.736010
-072170051P-820,820,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,C+O,45.041609,4.736413
-072170054T-1280,1280,Chemin de Mordane,07300,Saint-Barthélemy-le-Plain,C+O,45.072425,4.762553
-072170054T-1350,1350,Chemin de Mordane,07300,Saint-Barthélemy-le-Plain,C+O,45.072612,4.761949
-072170054T-240,240,Chemin de Mordane,07300,Saint-Barthélemy-le-Plain,C+O,45.065248,4.762166
-072170055U-125,125,Chemin de Morteveille,07300,Saint-Barthélemy-le-Plain,C+O,45.041559,4.712917
-072170055U-200,200,Chemin de Morteveille,07300,Saint-Barthélemy-le-Plain,C+O,45.040703,4.711841
-072170056V-35,35,Chemin de la Nodisse,07300,Saint-Barthélemy-le-Plain,C+O,45.055840,4.750005
-072170057W-40,40,Impasse de la Nodisse,07300,Saint-Barthélemy-le-Plain,C+O,45.056267,4.747253
-072170057W-55,55,Impasse de la Nodisse,07300,Saint-Barthélemy-le-Plain,C+O,45.056248,4.746664
-072170058X-160,160,Chemin de Pansard,07300,Saint-Barthélemy-le-Plain,C+O,45.039126,4.713593
-072170058X-90,90,Chemin de Pansard,07300,Saint-Barthélemy-le-Plain,C+O,45.040489,4.714744
-072170059Y-1005,1005,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.051106,4.741572
-072170059Y-1040,1040,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.050904,4.741099
-072170059Y-1105,1105,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.050453,4.740789
-072170059Y-1115,1115,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.050393,4.740390
-072170059Y-1140,1140,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.051350,4.739632
-072170059Y-1145,1145,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.050241,4.739949
-072170059Y-1185,1185,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.050170,4.739618
-072170059Y-1210,1210,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.050315,4.739446
-072170059Y-1275,1275,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.049772,4.738705
-072170059Y-1350A,1350A,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.049705,4.737758
-072170059Y-1350B,1350B,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.049889,4.737528
-072170059Y-1380,1380,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.049946,4.737352
-072170059Y-1390,1390,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.049408,4.737268
-072170059Y-1425,1425,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.049211,4.737057
-072170059Y-1445,1445,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.049099,4.736751
-072170059Y-1475,1475,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.048212,4.737162
-072170059Y-1490,1490,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.048900,4.736092
-072170059Y-1540,1540,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.048818,4.735535
-072170059Y-2220,2220,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.046584,4.727674
-072170059Y-2255,2255,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.046248,4.727626
-072170059Y-280,280,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.056601,4.746217
-072170059Y-330,330,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.055978,4.745969
-072170059Y-420,420,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.055584,4.745327
-072170059Y-480,480,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.055103,4.745103
-072170059Y-530,530,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.054662,4.744826
-072170059Y-540,540,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.054543,4.744919
-072170059Y-550,550,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.054474,4.744939
-072170059Y-560,560,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.054306,4.744483
-072170059Y-595,595,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.054092,4.744780
-072170059Y-780,780,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.052838,4.743131
-072170059Y-810,810,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.052565,4.742799
-072170059Y-850,850,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.052411,4.742498
-072170059Y-895,895,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.051876,4.742925
-072170059Y-975,975,Route de Paris,07300,Saint-Barthélemy-le-Plain,C+O,45.051110,4.742016
-072170060Z-15,15,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,C+O,45.049742,4.738465
-072170060Z-195,195,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,C+O,45.048405,4.739872
-072170060Z-215,215,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,C+O,45.048274,4.740224
-072170060Z-25,25,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,C+O,45.049664,4.738596
-072170061A-255,255,Chemin de Porte,07300,Saint-Barthélemy-le-Plain,C+O,45.061981,4.750625
-072170061A-285,285,Chemin de Porte,07300,Saint-Barthélemy-le-Plain,C+O,45.062176,4.750642
-072170062B-10,10,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.056871,4.782112
-072170062B-1760,1760,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.055229,4.765841
-072170062B-1860A,1860A,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.055550,4.764568
-072170062B-1860B,1860B,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.055465,4.764856
-072170062B-205,205,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.055188,4.781406
-072170062B-235,235,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.054973,4.781410
-072170062B-265,265,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.054743,4.780945
-072170062B-280,280,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.055011,4.780774
-072170062B-290,290,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.054702,4.780576
-072170062B-3125,3125,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.057187,4.755347
-072170062B-3285,3285,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.057290,4.754103
-072170062B-3635,3635,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.056621,4.750995
-072170062B-3665,3665,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,C+O,45.056201,4.750094
-072170063C-5,5,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,C+O,45.051483,4.748278
-072170063C-80A,80A,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,C+O,45.050836,4.747434
-072170063C-80B,80B,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,C+O,45.050853,4.747630
-072170063C-80C,80C,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,C+O,45.050706,4.747681
-072170064D-215,215,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,C+O,45.052116,4.748350
-072170064D-255,255,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,C+O,45.051263,4.747700
+072170047K-45,45,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045877,4.741873
+072170047K-65,65,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045730,4.741224
+072170047K-70,70,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045568,4.741229
+072170047K-760,760,Chemin des Grimauds,07300,Saint-Barthélemy-le-Plain,OSM,45.045936,4.749248
+072170048L-320,320,Chemin de Lolabru,07300,Saint-Barthélemy-le-Plain,OSM,45.027272,4.746446
+072170049M-100,100,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050725,4.738065
+072170049M-10,10,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050015,4.738584
+072170049M-130,130,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050946,4.737927
+072170049M-135,135,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050901,4.737782
+072170049M-155,155,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051157,4.737605
+072170049M-200,200,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051387,4.737516
+072170049M-220,220,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051543,4.737189
+072170049M-260,260,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051526,4.736736
+072170049M-335,335,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051256,4.735667
+072170049M-35,35,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050113,4.738379
+072170049M-370,370,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051189,4.735159
+072170049M-380,380,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051149,4.735241
+072170049M-390,390,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.051042,4.735237
+072170049M-395,395,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050835,4.735005
+072170049M-410A,410A,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050912,4.734949
+072170049M-410B,410B,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050991,4.735042
+072170049M-430,430,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050861,4.734802
+072170049M-525,525,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.050233,4.734349
+072170049M-585,585,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.049620,4.734201
+072170049M-595,595,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.049481,4.734173
+072170049M-625,625,Chemin de Longevialle,07300,Saint-Barthélemy-le-Plain,OSM,45.049214,4.734095
+072170050N-125,125,Chemin de Machon,07300,Saint-Barthélemy-le-Plain,OSM,45.042884,4.714913
+072170051P-410,410,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.044607,4.734010
+072170051P-465,465,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.044128,4.735000
+072170051P-490,490,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.043821,4.734278
+072170051P-530,530,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.043726,4.734300
+072170051P-605,605,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.043024,4.735161
+072170051P-660,660,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.042567,4.734963
+072170051P-690,690,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.042176,4.735392
+072170051P-695,695,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.042207,4.735517
+072170051P-700,700,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.042087,4.735427
+072170051P-730,730,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.041909,4.735750
+072170051P-735,735,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.042066,4.735919
+072170051P-820,820,Chemin de Maisonneuve,07300,Saint-Barthélemy-le-Plain,OSM,45.041609,4.736413
+072170054T-1280,1280,Chemin de Mordane,07300,Saint-Barthélemy-le-Plain,OSM,45.072404,4.762526
+072170054T-1350,1350,Chemin de Mordane,07300,Saint-Barthélemy-le-Plain,OSM,45.072549,4.761902
+072170054T-240,240,Chemin de Mordane,07300,Saint-Barthélemy-le-Plain,OSM,45.065345,4.762275
+072170055U-125,125,Chemin de Morteveille,07300,Saint-Barthélemy-le-Plain,OSM,45.041598,4.712891
+072170055U-200,200,Chemin de Morteveille,07300,Saint-Barthélemy-le-Plain,OSM,45.040736,4.711982
+072170056V-35,35,Chemin de la Nodisse,07300,Saint-Barthélemy-le-Plain,OSM,45.055959,4.749873
+072170057W-40,40,Impasse de la Nodisse,07300,Saint-Barthélemy-le-Plain,OSM,45.056298,4.747213
+072170057W-55,55,Impasse de la Nodisse,07300,Saint-Barthélemy-le-Plain,OSM,45.056155,4.746693
+072170058X-160,160,Chemin de Pansard,07300,Saint-Barthélemy-le-Plain,OSM,45.039380,4.714302
+072170058X-90,90,Chemin de Pansard,07300,Saint-Barthélemy-le-Plain,OSM,45.040129,4.714725
+072170059Y-1005,1005,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.051107,4.741656
+072170059Y-1040,1040,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.051069,4.741017
+072170059Y-1105,1105,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.050548,4.740549
+072170059Y-1115,1115,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.050463,4.740304
+072170059Y-1140,1140,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.051198,4.739707
+072170059Y-1145,1145,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.050364,4.739878
+072170059Y-1185,1185,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.050220,4.739522
+072170059Y-1210,1210,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.050315,4.739446
+072170059Y-1275,1275,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049772,4.738705
+072170059Y-1350,1350,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049627,4.737776
+072170059Y-1350A,1350A,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049777,4.737782
+072170059Y-1350B,1350B,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049984,4.737521
+072170059Y-1380,1380,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049708,4.737470
+072170059Y-1390,1390,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049484,4.737235
+072170059Y-1425,1425,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049168,4.736947
+072170059Y-1445,1445,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.049014,4.736772
+072170059Y-1475,1475,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.048632,4.736937
+072170059Y-1490,1490,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.048933,4.736178
+072170059Y-1540,1540,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.048777,4.735762
+072170059Y-2220,2220,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.046547,4.727684
+072170059Y-2255,2255,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.046241,4.727645
+072170059Y-280,280,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.056477,4.746171
+072170059Y-330,330,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.055915,4.745977
+072170059Y-420,420,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.055171,4.745410
+072170059Y-480,480,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.055046,4.745184
+072170059Y-530,530,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.054565,4.744973
+072170059Y-540,540,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.054520,4.744933
+072170059Y-550,550,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.054477,4.744894
+072170059Y-560,560,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.054295,4.744532
+072170059Y-595,595,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.054101,4.744787
+072170059Y-780,780,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.052598,4.743276
+072170059Y-810,810,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.052384,4.743019
+072170059Y-850,850,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.052162,4.742774
+072170059Y-895,895,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.051734,4.742462
+072170059Y-975,975,Route de Paris,07300,Saint-Barthélemy-le-Plain,OSM,45.051159,4.741970
+072170060Z-15,15,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,OSM,45.049723,4.738455
+072170060Z-195,195,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,OSM,45.048330,4.739826
+072170060Z-215,215,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,OSM,45.048210,4.739921
+072170060Z-25,25,Chemin de Pompey,07300,Saint-Barthélemy-le-Plain,OSM,45.049639,4.738498
+072170061A-255,255,Chemin de Porte,07300,Saint-Barthélemy-le-Plain,OSM,45.061991,4.750705
+072170061A-285,285,Chemin de Porte,07300,Saint-Barthélemy-le-Plain,OSM,45.062155,4.750685
+072170062B-10,10,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.056878,4.782157
+072170062B-1760,1760,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.055187,4.765588
+072170062B-1860,1860,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.055504,4.764076
+072170062B-1860A,1860A,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.055523,4.764471
+072170062B-1860B,1860B,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.055466,4.765140
+072170062B-205,205,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.055205,4.781391
+072170062B-235,235,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.054978,4.781251
+072170062B-265,265,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.054807,4.780983
+072170062B-280,280,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.054910,4.780766
+072170062B-290,290,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.054686,4.780595
+072170062B-3125,3125,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.057767,4.756272
+072170062B-3285,3285,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.057236,4.754097
+072170062B-3635,3635,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.056385,4.750553
+072170062B-3665,3665,Route de la Raviscole,07300,Saint-Barthélemy-le-Plain,OSM,45.056264,4.749977
+072170063C-5,5,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,OSM,45.051393,4.748336
+072170063C-80A,80A,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,OSM,45.050841,4.747451
+072170063C-80B,80B,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,OSM,45.050849,4.747554
+072170063C-80C,80C,Chemin de Rocher,07300,Saint-Barthélemy-le-Plain,OSM,45.050767,4.747699
+072170064D-215,215,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,OSM,45.051808,4.748144
+072170064D-255,255,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,OSM,45.051515,4.747872
+072170064D-295,295,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,OSM,45.051650,4.747517
 072170064D-295A,295A,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,C+O,45.051598,4.747536
-072170064D-325,325,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,C+O,45.051529,4.747318
-072170064D-85,85,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,C+O,45.053877,4.749938
-072170064D-90,90,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,C+O,45.052663,4.747673
-072170065E-155,155,Chemin des Rossignols,07300,Saint-Barthélemy-le-Plain,C+O,45.028196,4.743595
-072170065E-860,860,Chemin des Rossignols,07300,Saint-Barthélemy-le-Plain,C+O,45.024147,4.739785
-072170066F-1050,1050,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.031704,4.738725
-072170066F-1365,1365,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.028164,4.734372
-072170066F-1535,1535,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.027255,4.732560
-072170066F-1545,1545,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.027794,4.732877
-072170066F-1565,1565,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.027865,4.732821
-072170066F-1695,1695,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.028545,4.732833
-072170066F-1950,1950,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.029502,4.728288
-072170066F-1960,1960,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.029271,4.728642
-072170066F-1970,1970,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.028728,4.728993
-072170066F-2455,2455,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.027635,4.723269
-072170066F-2485,2485,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.027569,4.723055
-072170066F-2620,2620,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.027739,4.721896
-072170066F-735,735,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.031187,4.740305
-072170066F-980,980,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,C+O,45.031110,4.738771
-072170067G-145,145,Chemin de Sardailhac,07300,Saint-Barthélemy-le-Plain,C+O,45.051239,4.746494
-072170067G-95,95,Chemin de Sardailhac,07300,Saint-Barthélemy-le-Plain,C+O,45.051789,4.746654
-072170068H-1000,1000,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,C+O,45.046553,4.716647
-072170068H-145,145,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,C+O,45.043099,4.718702
-072170068H-195,195,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,C+O,45.043419,4.718090
-072170068H-230,230,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,C+O,45.043839,4.718370
-072170068H-475,475,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,C+O,45.045330,4.717037
-072170069J-35,35,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.041028,4.734660
-072170069J-755,755,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.036347,4.729393
-072170069J-765,765,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.036232,4.729927
-072170069J-785,785,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.036364,4.729950
-072170069J-805,805,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,C+O,45.036458,4.729738
-072170071L-100,100,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.035386,4.747631
-072170071L-1420,1420,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.043334,4.757948
-072170071L-190,190,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.036026,4.748310
-072170071L-2175A,2175A,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.048070,4.764024
-072170071L-2175B,2175B,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.047355,4.763409
-072170071L-2925,2925,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.048928,4.768195
-072170071L-605,605,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.038506,4.751707
-072170071L-625,625,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.038890,4.751982
-072170071L-725,725,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.039440,4.752247
-072170071L-765,765,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.039858,4.752685
-072170071L-90,90,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.035321,4.747396
-072170071L-970,970,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,C+O,45.041568,4.753469
-072170072M-250,250,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.056758,4.783128
-072170072M-335,335,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.057737,4.782821
-072170072M-345,345,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.057841,4.783097
-072170072M-60,60,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.055225,4.781629
-072170072M-80,80,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,C+O,45.055377,4.781771
-072170073N-1260,1260,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,C+O,45.046100,4.769857
-072170073N-1985B,1985B,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,C+O,45.041544,4.767639
-072170073N-1985C,1985C,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,C+O,45.038039,4.760230
-072170073N-225,225,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,C+O,45.053556,4.773937
-072170074P-430,430,Chemin des Vergnes,07300,Saint-Barthélemy-le-Plain,C+O,45.026113,4.738243
-072170074P-510,510,Chemin des Vergnes,07300,Saint-Barthélemy-le-Plain,C+O,45.025493,4.737867
-072170075R-55,55,Chemin des Vignes de Chazeaux,07300,Saint-Barthélemy-le-Plain,C+O,45.044526,4.759392
-072170098R-10,10,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051285,4.738286
-072170098R-11,11,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051635,4.738161
-072170098R-12,12,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051817,4.738331
-072170098R-1A,1A,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.050275,4.739245
-072170098R-1B,1B,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.050497,4.739180
-072170098R-1C,1C,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.050734,4.739074
-072170098R-2,2,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.050988,4.738902
-072170098R-3,3,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051053,4.739474
-072170098R-4,4,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051241,4.738942
-072170098R-5,5,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051564,4.739258
-072170098R-6,6,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051395,4.738803
-072170098R-7,7,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051586,4.738500
-072170098R-8,8,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.051324,4.738700
-072170098R-9,9,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,C+O,45.050860,4.738598
+072170064D-325,325,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,OSM,45.051681,4.747394
+072170064D-85,85,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,OSM,45.053877,4.749938
+072170064D-90,90,Chemin de Rolland,07300,Saint-Barthélemy-le-Plain,OSM,45.052723,4.747543
+072170065E-155,155,Chemin des Rossignols,07300,Saint-Barthélemy-le-Plain,OSM,45.028320,4.743542
+072170065E-860,860,Chemin des Rossignols,07300,Saint-Barthélemy-le-Plain,OSM,45.024113,4.739923
+072170066F-1050,1050,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.030436,4.737172
+072170066F-1365,1365,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.028838,4.734651
+072170066F-1535,1535,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.027193,4.732686
+072170066F-1545,1545,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.027727,4.732903
+072170066F-1565,1565,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.027882,4.732948
+072170066F-1695,1695,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.028545,4.732853
+072170066F-1950,1950,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.029495,4.728139
+072170066F-1960,1960,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.029346,4.728674
+072170066F-1970,1970,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.028701,4.728963
+072170066F-2455,2455,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.027600,4.723288
+072170066F-2485,2485,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.027688,4.723074
+072170066F-2620,2620,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.027739,4.721896
+072170066F-735,735,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.031193,4.740200
+072170066F-980,980,Route de Saint-Romain,07300,Saint-Barthélemy-le-Plain,OSM,45.031081,4.738774
+072170067G-145,145,Chemin de Sardailhac,07300,Saint-Barthélemy-le-Plain,OSM,45.051339,4.746327
+072170067G-95,95,Chemin de Sardailhac,07300,Saint-Barthélemy-le-Plain,OSM,45.051609,4.746557
+072170068H-1000,1000,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,OSM,45.046542,4.716697
+072170068H-145,145,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,OSM,45.043131,4.718958
+072170068H-195,195,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,OSM,45.043485,4.717988
+072170068H-230,230,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,OSM,45.043820,4.718301
+072170068H-475,475,Chemin de Sarland,07300,Saint-Barthélemy-le-Plain,OSM,45.045306,4.717016
+072170069J-35,35,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,OSM,45.040837,4.734296
+072170069J-755,755,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,OSM,45.036272,4.729446
+072170069J-765,765,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,OSM,45.036258,4.730111
+072170069J-785,785,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,OSM,45.036381,4.730024
+072170069J-805,805,Chemin de Somarel,07300,Saint-Barthélemy-le-Plain,OSM,45.036521,4.729648
+072170071L-100,100,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.035445,4.747553
+072170071L-1420,1420,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.043328,4.757573
+072170071L-190,190,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.036025,4.748310
+072170071L-2175,2175,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.047378,4.763260
+072170071L-2175A,2175A,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.048010,4.763790
+072170071L-2175B,2175B,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.048415,4.763905
+072170071L-2925,2925,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.048897,4.768304
+072170071L-605,605,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.038548,4.751527
+072170071L-625,625,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.038862,4.751634
+072170071L-725,725,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.039614,4.752364
+072170071L-765,765,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.039756,4.752636
+072170071L-90,90,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.035384,4.747358
+072170071L-970,970,Chemin de la Tuillière,07300,Saint-Barthélemy-le-Plain,OSM,45.041784,4.753610
+072170072M-250,250,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,OSM,45.057093,4.782882
+072170072M-335,335,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,OSM,45.057737,4.782821
+072170072M-345,345,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,OSM,45.057841,4.783097
+072170072M-60,60,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,OSM,45.055284,4.781693
+072170072M-80,80,Chemin de l'Usine,07300,Saint-Barthélemy-le-Plain,OSM,45.055446,4.781827
+072170073N-1260,1260,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,OSM,45.046257,4.769939
+072170073N-1985B,1985B,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,OSM,45.041547,4.767509
+072170073N-1985C,1985C,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,OSM,45.038113,4.760472
+072170073N-225,225,Chemin de Vaures,07300,Saint-Barthélemy-le-Plain,OSM,45.053822,4.773196
+072170074P-430,430,Chemin des Vergnes,07300,Saint-Barthélemy-le-Plain,OSM,45.026137,4.738078
+072170074P-510,510,Chemin des Vergnes,07300,Saint-Barthélemy-le-Plain,OSM,45.025512,4.737899
+072170075R-55,55,Chemin des Vignes de Chazeaux,07300,Saint-Barthélemy-le-Plain,OSM,45.044492,4.759440
+072170098R-10,10,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051309,4.738344
+072170098R-11,11,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051635,4.738161
+072170098R-12,12,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051948,4.738341
+072170098R-1A,1A,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.050275,4.739245
+072170098R-1B,1B,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.050382,4.739085
+072170098R-1C,1C,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.050719,4.738892
+072170098R-2,2,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051006,4.739012
+072170098R-3,3,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051104,4.739445
+072170098R-4,4,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051207,4.738992
+072170098R-5,5,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051480,4.739182
+072170098R-6,6,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051395,4.738803
+072170098R-7,7,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051545,4.738474
+072170098R-8,8,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.051324,4.738700
+072170098R-9,9,Impasse des Mazettes,07300,Saint-Barthélemy-le-Plain,OSM,45.050975,4.738680
 072220010Y-140,140,Chemin du Bail,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.913823,4.454077
 072220010Y-30,30,Chemin du Bail,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.914270,4.452937
 072220010Y-70A,70A,Chemin du Bail,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.914051,4.453318
@@ -29725,12 +29732,12 @@
 072450046M-4,4,Place de la Vieille Église,07300,Saint-Jean-de-Muzols,OSM,45.082556,4.817860
 072450047N-1,1,Impasse du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082958,4.817648
 072450047N-2,2,Impasse du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.083059,4.817687
-072450048P-10,10,Rue du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082774,4.817319
-072450048P-1,1,Rue du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.083372,4.815860
-072450048P-4,4,Rue du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082963,4.816740
-072450048P-5,5,Rue du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082986,4.816939
-072450048P-6,6,Rue du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082824,4.816981
-072450048P-8,8,Rue du Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082769,4.817204
+072450048P-10,10,Rue Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082774,4.817319
+072450048P-1,1,Rue Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.083372,4.815860
+072450048P-4,4,Rue Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082963,4.816740
+072450048P-5,5,Rue Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082986,4.816939
+072450048P-6,6,Rue Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082824,4.816981
+072450048P-8,8,Rue Vieux Village,07300,Saint-Jean-de-Muzols,OSM,45.082769,4.817204
 072450049R-11,11,Montée Saint-Joseph,07300,Saint-Jean-de-Muzols,OSM,45.075888,4.800723
 072450049R-1,1,Montée Saint-Joseph,07300,Saint-Jean-de-Muzols,OSM,45.075141,4.800170
 072450049R-12,12,Montée Saint-Joseph,07300,Saint-Jean-de-Muzols,OSM,45.076077,4.800932
@@ -29936,10 +29943,10 @@
 072450118R-1,1,Impasse du Mollard,07300,Saint-Jean-de-Muzols,OSM,45.087398,4.815636
 072450118R-2,2,Impasse du Mollard,07300,Saint-Jean-de-Muzols,OSM,45.087320,4.815828
 072450118R-3,3,Impasse du Mollard,07300,Saint-Jean-de-Muzols,OSM,45.087529,4.815839
-072450119S-25,25,Place du Mollard,07300,Saint-Jean-de-Muzols,C+O,45.086241,4.814933
-072450119S-27,27,Place du Mollard,07300,Saint-Jean-de-Muzols,C+O,45.086157,4.814551
-072450119S-29,29,Place du Mollard,07300,Saint-Jean-de-Muzols,C+O,45.085890,4.814020
-072450119S-30,30,Place du Mollard,07300,Saint-Jean-de-Muzols,C+O,45.086383,4.814186
+072450119S-25,25,Place du Mollard,07300,Saint-Jean-de-Muzols,OSM,45.086377,4.814907
+072450119S-27,27,Place du Mollard,07300,Saint-Jean-de-Muzols,OSM,45.086237,4.814497
+072450119S-29,29,Place du Mollard,07300,Saint-Jean-de-Muzols,OSM,45.085965,4.814228
+072450119S-30,30,Place du Mollard,07300,Saint-Jean-de-Muzols,OSM,45.086393,4.814340
 072450129C-1,1,Chemin de l'Officier,07300,Saint-Jean-de-Muzols,OSM,45.072698,4.798762
 072450129C-13,13,Chemin de l'Officier,07300,Saint-Jean-de-Muzols,OSM,45.075446,4.799464
 072450129C-15,15,Chemin de l'Officier,07300,Saint-Jean-de-Muzols,OSM,45.075657,4.799446
@@ -29976,9 +29983,9 @@
 072450144U-2,2,Impasse de la Rochette,07300,Saint-Jean-de-Muzols,OSM,45.086114,4.815977
 072450146W-1,1,Passage de la Rochette,07300,Saint-Jean-de-Muzols,OSM,45.086373,4.817201
 072450146W-2,2,Passage de la Rochette,07300,Saint-Jean-de-Muzols,OSM,45.086491,4.816922
-072450147X-1,1,Place de la Rochette,07300,Saint-Jean-de-Muzols,C+O,45.084516,4.815854
-072450147X-2,2,Place de la Rochette,07300,Saint-Jean-de-Muzols,C+O,45.084713,4.815983
-072450147X-3,3,Place de la Rochette,07300,Saint-Jean-de-Muzols,C+O,45.084825,4.816058
+072450147X-1,1,Place de la Rochette,07300,Saint-Jean-de-Muzols,OSM,45.084580,4.815855
+072450147X-2,2,Place de la Rochette,07300,Saint-Jean-de-Muzols,OSM,45.084731,4.815932
+072450147X-3,3,Place de la Rochette,07300,Saint-Jean-de-Muzols,OSM,45.084921,4.816023
 072450148Y-13,13,Chemin de la Roue,07300,Saint-Jean-de-Muzols,OSM,45.080110,4.811091
 072450148Y-15,15,Chemin de la Roue,07300,Saint-Jean-de-Muzols,OSM,45.080010,4.811184
 072450148Y-16,16,Chemin de la Roue,07300,Saint-Jean-de-Muzols,OSM,45.080183,4.810816
@@ -31511,21 +31518,21 @@
 072810062Y-8,8,Allée de la Chapelle,07130,Saint-Péray,OSM,44.946116,4.838706
 072810062Y-9,9,Allée de la Chapelle,07130,Saint-Péray,OSM,44.945841,4.838233
 072810064A-4,4,Allée du Collège,07130,Saint-Péray,OSM,44.949458,4.841497
-072810065B-10,10,Rue Costebelle,07130,Saint-Péray,C+O,44.948149,4.840031
-072810065B-11,11,Rue Costebelle,07130,Saint-Péray,C+O,44.948469,4.838909
+072810065B-10,10,Rue Costebelle,07130,Saint-Péray,OSM,44.948440,4.839507
+072810065B-11,11,Rue Costebelle,07130,Saint-Péray,OSM,44.948425,4.839223
 072810065B-11A,11A,Rue Costebelle,07130,Saint-Péray,C+O,44.948683,4.838653
-072810065B-1,1,Rue Costebelle,07130,Saint-Péray,C+O,44.947314,4.839596
-072810065B-12,12,Rue Costebelle,07130,Saint-Péray,C+O,44.948247,4.839664
-072810065B-13,13,Rue Costebelle,07130,Saint-Péray,C+O,44.948567,4.839853
-072810065B-15,15,Rue Costebelle,07130,Saint-Péray,C+O,44.948602,4.840069
-072810065B-2,2,Rue Costebelle,07130,Saint-Péray,C+O,44.947362,4.839717
-072810065B-3,3,Rue Costebelle,07130,Saint-Péray,C+O,44.947509,4.839581
-072810065B-4,4,Rue Costebelle,07130,Saint-Péray,C+O,44.947577,4.839715
-072810065B-5,5,Rue Costebelle,07130,Saint-Péray,C+O,44.947675,4.839580
-072810065B-6,6,Rue Costebelle,07130,Saint-Péray,C+O,44.947708,4.839714
-072810065B-7,7,Rue Costebelle,07130,Saint-Péray,C+O,44.947838,4.839580
-072810065B-8,8,Rue Costebelle,07130,Saint-Péray,C+O,44.947870,4.839713
-072810065B-9,9,Rue Costebelle,07130,Saint-Péray,C+O,44.948177,4.839786
+072810065B-1,1,Rue Costebelle,07130,Saint-Péray,OSM,44.947331,4.839576
+072810065B-12,12,Rue Costebelle,07130,Saint-Péray,OSM,44.948467,4.839962
+072810065B-13,13,Rue Costebelle,07130,Saint-Péray,OSM,44.948563,4.839832
+072810065B-15,15,Rue Costebelle,07130,Saint-Péray,OSM,44.948599,4.840073
+072810065B-2,2,Rue Costebelle,07130,Saint-Péray,OSM,44.947412,4.839715
+072810065B-3,3,Rue Costebelle,07130,Saint-Péray,OSM,44.947508,4.839580
+072810065B-4,4,Rue Costebelle,07130,Saint-Péray,OSM,44.947523,4.839733
+072810065B-5,5,Rue Costebelle,07130,Saint-Péray,OSM,44.947718,4.839594
+072810065B-6,6,Rue Costebelle,07130,Saint-Péray,OSM,44.947696,4.839733
+072810065B-7,7,Rue Costebelle,07130,Saint-Péray,OSM,44.947849,4.839584
+072810065B-8,8,Rue Costebelle,07130,Saint-Péray,OSM,44.947860,4.839745
+072810065B-9,9,Rue Costebelle,07130,Saint-Péray,OSM,44.948112,4.839836
 072810066C-140,140,Chemin de Chabrier,07130,Saint-Péray,OSM,44.922303,4.836311
 072810066C-145,145,Chemin de Chabrier,07130,Saint-Péray,OSM,44.921776,4.836706
 072810066C-146,146,Chemin de Chabrier,07130,Saint-Péray,OSM,44.922211,4.836321
@@ -31727,41 +31734,43 @@
 072810090D-28,28,Avenue Docteur Marc Bouvat,07130,Saint-Péray,CAD,44.946067,4.847212
 072810090D-4,4,Avenue Docteur Marc Bouvat,07130,Saint-Péray,CAD,44.947007,4.850301
 072810090D-6,6,Avenue Docteur Marc Bouvat,07130,Saint-Péray,CAD,44.946972,4.850181
-072810100P-11,11,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943325,4.842475
-072810100P-11B,11BIS,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943323,4.842173
-072810100P-11T,11TER,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943535,4.841572
-072810100P-12,12,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.944999,4.845377
-072810100P-13,13,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943484,4.841736
-072810100P-14,14,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.944825,4.845092
-072810100P-18,18,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.944425,4.844506
-072810100P-22,22,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.944175,4.844179
-072810100P-24,24,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.944057,4.844035
-072810100P-26,26,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943902,4.843784
-072810100P-32,32,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943772,4.843488
-072810100P-34,34,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943901,4.843166
-072810100P-36,36,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943635,4.843198
-072810100P-38,38,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943596,4.843087
-072810100P-40,40,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943566,4.842982
-072810100P-42,42,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943545,4.842898
-072810100P-44,44,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943532,4.842831
-072810100P-46,46,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943522,4.842779
-072810100P-48,48,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943510,4.842700
-072810100P-50,50,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943500,4.842621
-072810100P-52,52,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943491,4.842540
-072810100P-54,54,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943487,4.842482
-072810100P-56,56,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943484,4.842425
-072810100P-58,58,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943481,4.842315
-072810100P-60,60,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943481,4.842209
-072810100P-62,62,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943498,4.842122
-072810100P-64,64,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943504,4.842060
-072810100P-66,66,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943511,4.841996
-072810100P-68,68,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943520,4.841929
-072810100P-70,70,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943538,4.841842
-072810100P-8,8,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.945160,4.845644
-072810100P-9,9,Quai du Docteur Jules Bouvat,07130,Saint-Péray,C+O,44.943335,4.842572
-072810105V-1,1,Rue du Docteur Schweitzer,07130,Saint-Péray,C+O,44.952079,4.846323
-072810105V-2,2,Rue du Docteur Schweitzer,07130,Saint-Péray,C+O,44.952375,4.845978
-072810105V-3,3,Rue du Docteur Schweitzer,07130,Saint-Péray,C+O,44.952201,4.846337
+072810100P-10,10,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.945040,4.845438
+072810100P-11,11,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943325,4.842475
+072810100P-11B,11BIS,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943287,4.842198
+072810100P-11T,11TER,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943470,4.841509
+072810100P-12,12,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.944990,4.845359
+072810100P-13,13,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943406,4.841678
+072810100P-14,14,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.944835,4.845076
+072810100P-18,18,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.944429,4.844500
+072810100P-22,22,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.944180,4.844172
+072810100P-24,24,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.944065,4.844022
+072810100P-26,26,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943902,4.843784
+072810100P-32,32,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943771,4.843489
+072810100P-34,34,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943751,4.843341
+072810100P-36,36,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943635,4.843198
+072810100P-38,38,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943596,4.843087
+072810100P-40,40,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943566,4.842982
+072810100P-42,42,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943545,4.842898
+072810100P-44,44,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943532,4.842832
+072810100P-46,46,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943522,4.842779
+072810100P-48,48,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943510,4.842700
+072810100P-50,50,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943500,4.842621
+072810100P-52,52,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943491,4.842540
+072810100P-54,54,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943487,4.842482
+072810100P-5,5,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943533,4.841396
+072810100P-56,56,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943484,4.842425
+072810100P-58,58,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943481,4.842314
+072810100P-60,60,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943489,4.842212
+072810100P-62,62,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943498,4.842122
+072810100P-64,64,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943504,4.842060
+072810100P-66,66,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943511,4.841996
+072810100P-68,68,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943520,4.841929
+072810100P-70,70,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943538,4.841842
+072810100P-8,8,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.945159,4.845641
+072810100P-9,9,Quai du Docteur Jules Bouvat,07130,Saint-Péray,OSM,44.943334,4.842577
+072810105V-1,1,Rue du Docteur Schweitzer,07130,Saint-Péray,OSM,44.952261,4.846039
+072810105V-2,2,Rue du Docteur Schweitzer,07130,Saint-Péray,OSM,44.952388,4.846063
+072810105V-3,3,Rue du Docteur Schweitzer,07130,Saint-Péray,OSM,44.952300,4.845785
 072810107X-6813,6813,Chemin de Dublière,07130,Saint-Péray,C+O,44.926283,4.824206
 072810107X-6820,6820,Chemin de Dublière,07130,Saint-Péray,C+O,44.926085,4.823532
 072810107X-6834,6834,Chemin de Dublière,07130,Saint-Péray,C+O,44.926449,4.823902
@@ -32290,19 +32299,19 @@
 072810200Y-6,6,Rue de la Liberté,07130,Saint-Péray,OSM,44.944407,4.841470
 072810200Y-6875,6875,Rue de la Liberté,07130,Saint-Péray,C+O,44.944297,4.841693
 072810200Y-7,7,Rue de la Liberté,07130,Saint-Péray,OSM,44.944336,4.841584
-072810201Z-10,10,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.944204,4.841079
-072810201Z-1,1,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.943685,4.841085
-072810201Z-12,12,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.944232,4.840990
-072810201Z-13,13,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.943908,4.840628
-072810201Z-14,14,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.944292,4.840984
-072810201Z-16,16,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.944321,4.840952
-072810201Z-18,18,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.944339,4.840891
-072810201Z-2,2,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.943893,4.841495
-072810201Z-3,3,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.943733,4.840954
-072810201Z-4,4,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.943914,4.841334
-072810201Z-6,6,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.944064,4.841217
-072810201Z-8,8,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.944109,4.841102
-072810201Z-9,9,Place de l'Hôtel de Ville,07130,Saint-Péray,C+O,44.943798,4.840841
+072810201Z-10,10,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.944205,4.841080
+072810201Z-1,1,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.943665,4.841062
+072810201Z-12,12,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.944232,4.840989
+072810201Z-13,13,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.943908,4.840628
+072810201Z-14,14,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.944292,4.840984
+072810201Z-16,16,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.944321,4.840952
+072810201Z-18,18,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.944339,4.840891
+072810201Z-2,2,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.943893,4.841496
+072810201Z-3,3,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.943733,4.840953
+072810201Z-4,4,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.943932,4.841342
+072810201Z-6,6,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.944064,4.841217
+072810201Z-8,8,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.944109,4.841101
+072810201Z-9,9,Place de l'Hôtel de Ville,07130,Saint-Péray,OSM,44.943798,4.840840
 072810202A-1,1,Rue de la Mairie,07130,Saint-Péray,OSM,44.944472,4.840291
 072810202A-3,3,Rue de la Mairie,07130,Saint-Péray,OSM,44.944596,4.840329
 072810203B-10,10,Rue du Grand Mail,07130,Saint-Péray,OSM,44.940423,4.859753
@@ -32366,36 +32375,36 @@
 072810208G-2,2,Rue des Logis Fleuris Allée B,07130,Saint-Péray,CAD,44.950385,4.847759
 072810208G-3,3,Rue des Logis Fleuris Allée B,07130,Saint-Péray,CAD,44.950497,4.848056
 072810208G-4,4,Rue des Logis Fleuris Allée B,07130,Saint-Péray,CAD,44.950381,4.847995
-072810210J-10,10,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949884,4.845103
-072810210J-11,11,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949718,4.847882
-072810210J-1,1,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.950081,4.844261
-072810210J-12,12,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949852,4.845290
-072810210J-13,13,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949556,4.848231
-072810210J-14,14,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949833,4.845471
-072810210J-16,16,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949796,4.845713
-072810210J-18,18,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949753,4.846016
-072810210J-20,20,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949725,4.846287
-072810210J-22,22,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949697,4.846512
-072810210J-24,24,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949603,4.847213
-072810210J-26,26,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949591,4.847317
-072810210J-28,28,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949579,4.847422
-072810210J-30,30,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949568,4.847507
-072810210J-32,32,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949557,4.847597
-072810210J-3,3,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.950016,4.844738
-072810210J-34,34,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949545,4.847699
-072810210J-36,36,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949531,4.847800
-072810210J-38,38,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949514,4.847939
-072810210J-4,4,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949806,4.844266
-072810210J-5,5,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949852,4.845936
-072810210J-6193,6193,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.950124,4.846043
-072810210J-6257,6257,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949684,4.848202
-072810210J-6519,6519,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949855,4.846164
-072810210J-6,6,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949945,4.844843
-072810210J-7,7,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.950113,4.846330
-072810210J-7B,7BIS,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.950109,4.846378
-072810210J-8,8,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949935,4.844922
-072810210J-9,9,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949630,4.847571
-072810210J-9B,9BIS,Rue Mal Delattre de Tassigny,07130,Saint-Péray,CAD,44.949796,4.846337
+072810210J-10,10,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949891,4.845076
+072810210J-11,11,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949606,4.847855
+072810210J-1,1,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.950100,4.844275
+072810210J-12,12,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949857,4.845263
+072810210J-13,13,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949562,4.848227
+072810210J-14,14,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949823,4.845516
+072810210J-16,16,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949800,4.845713
+072810210J-18,18,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949756,4.846042
+072810210J-20,20,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949725,4.846289
+072810210J-22,22,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949696,4.846515
+072810210J-24,24,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949603,4.847214
+072810210J-26,26,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949591,4.847320
+072810210J-28,28,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949578,4.847424
+072810210J-30,30,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949568,4.847509
+072810210J-32,32,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949557,4.847599
+072810210J-3,3,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.950030,4.844748
+072810210J-34,34,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949544,4.847701
+072810210J-36,36,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949531,4.847802
+072810210J-38,38,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949514,4.847941
+072810210J-4,4,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949949,4.844511
+072810210J-5,5,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949864,4.845998
+072810210J-6193,6193,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,C+O,44.950124,4.846043
+072810210J-6257,6257,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,C+O,44.949684,4.848202
+072810210J-6519,6519,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,C+O,44.949855,4.846164
+072810210J-6,6,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949919,4.844837
+072810210J-7,7,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949850,4.846255
+072810210J-7B,7BIS,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949847,4.846302
+072810210J-8,8,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949909,4.844916
+072810210J-9,9,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949633,4.847572
+072810210J-9B,9BIS,Rue du Maréchal de Lattre de Tassigny,07130,Saint-Péray,OSM,44.949842,4.846359
 072810220V-10,10,Rue du Maréchal Juin,07130,Saint-Péray,OSM,44.949182,4.847033
 072810220V-1,1,Rue du Maréchal Juin,07130,Saint-Péray,OSM,44.949237,4.846875
 072810220V-12,12,Rue du Maréchal Juin,07130,Saint-Péray,OSM,44.949229,4.847043
@@ -32966,16 +32975,16 @@
 072810319C-4,4,Impasse des Serruriers,07130,Saint-Péray,OSM,44.944163,4.843055
 072810319C-5,5,Impasse des Serruriers,07130,Saint-Péray,OSM,44.944138,4.843076
 072810319C-7,7,Impasse des Serruriers,07130,Saint-Péray,OSM,44.944100,4.843030
-072810320D-11,11,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945431,4.842301
-072810320D-1,1,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945155,4.842390
-072810320D-13,13,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945532,4.842297
-072810320D-19,19,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945424,4.841846
-072810320D-2,2,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945268,4.842403
-072810320D-3,3,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945206,4.842361
-072810320D-4,4,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945440,4.842369
-072810320D-6,6,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945488,4.842366
-072810320D-7,7,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945295,4.842319
-072810320D-9,9,Rue Sœur Dominique,07130,Saint-Péray,C+O,44.945351,4.842308
+072810320D-11,11,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945431,4.842314
+072810320D-1,1,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945159,4.842402
+072810320D-13,13,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945533,4.842310
+072810320D-19,19,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945423,4.841846
+072810320D-2,2,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945265,4.842383
+072810320D-3,3,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945209,4.842372
+072810320D-4,4,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945440,4.842348
+072810320D-6,6,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945487,4.842346
+072810320D-7,7,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945296,4.842330
+072810320D-9,9,Rue Sœur Dominique,07130,Saint-Péray,OSM,44.945351,4.842320
 072810321E-10,10,Rue Sully Arnald,07130,Saint-Péray,OSM,44.926874,4.835340
 072810321E-11,11,Rue Sully Arnald,07130,Saint-Péray,OSM,44.928570,4.835888
 072810321E-1,1,Rue Sully Arnald,07130,Saint-Péray,OSM,44.927844,4.834806
@@ -33130,12 +33139,12 @@
 072810330P-79,79,Avenue Victor Tassini,07130,Saint-Péray,OSM,44.947052,4.834264
 072810330P-8,8,Avenue Victor Tassini,07130,Saint-Péray,OSM,44.944356,4.839727
 072810330P-9,9,Avenue Victor Tassini,07130,Saint-Péray,OSM,44.944099,4.839031
-072810331R-127,127,Chemin des Trémolets,07130,Saint-Péray,C+O,44.939040,4.859838
-072810331R-19,19,Chemin des Trémolets,07130,Saint-Péray,C+O,44.940147,4.858026
-072810331R-47,47,Chemin des Trémolets,07130,Saint-Péray,C+O,44.939544,4.858615
+072810331R-127,127,Chemin des Trémolets,07130,Saint-Péray,OSM,44.939055,4.859853
+072810331R-19,19,Chemin des Trémolets,07130,Saint-Péray,OSM,44.940103,4.858155
+072810331R-47,47,Chemin des Trémolets,07130,Saint-Péray,OSM,44.939559,4.858625
 072810331R-6757,6757,Chemin des Trémolets,07130,Saint-Péray,C+O,44.938146,4.863069
 072810331R-6758,6758,Chemin des Trémolets,07130,Saint-Péray,C+O,44.938120,4.862994
-072810331R-81,81,Chemin des Trémolets,07130,Saint-Péray,C+O,44.939449,4.858925
+072810331R-81,81,Chemin des Trémolets,07130,Saint-Péray,OSM,44.939459,4.858934
 072810332S-2,2,Allée des Tamaris,07130,Saint-Péray,CAD,44.940676,4.842193
 072810332S-3,3,Allée des Tamaris,07130,Saint-Péray,CAD,44.940693,4.841984
 072810332S-4,4,Allée des Tamaris,07130,Saint-Péray,CAD,44.940936,4.842078
@@ -36427,9 +36436,9 @@
 073160137C-5,5,Allée de l'Ardoise,07130,Soyons,OSM,44.894598,4.847293
 073160137C-6,6,Allée de l'Ardoise,07130,Soyons,OSM,44.894791,4.847575
 073160137C-8,8,Allée de l'Ardoise,07130,Soyons,OSM,44.894912,4.847345
-073160138D-2,2,Allée des Cyprés,07130,Soyons,OSM,44.918217,4.865021
-073160138D-4,4,Allée des Cyprés,07130,Soyons,OSM,44.918254,4.864633
-073160138D-6,6,Allée des Cyprés,07130,Soyons,OSM,44.918281,4.864415
+073160138D-2,2,Allée des Cyprès,07130,Soyons,OSM,44.918217,4.865021
+073160138D-4,4,Allée des Cyprès,07130,Soyons,OSM,44.918254,4.864633
+073160138D-6,6,Allée des Cyprès,07130,Soyons,OSM,44.918281,4.864415
 073160139E-1,1,Chemin du Musard,07130,Soyons,OSM,44.880775,4.848530
 073160139E-2,2,Chemin du Musard,07130,Soyons,OSM,44.880714,4.848665
 073160139E-3,3,Chemin du Musard,07130,Soyons,OSM,44.880602,4.848910
@@ -39668,10 +39677,10 @@
 073240145B-6,6,Rue Charles Forot,07300,Tournon-sur-Rhône,OSM,45.060516,4.841057
 073240145B-7,7,Rue Charles Forot,07300,Tournon-sur-Rhône,OSM,45.060312,4.841192
 073240145B-8,8,Rue Charles Forot,07300,Tournon-sur-Rhône,OSM,45.060454,4.841066
-073240148E-1,1,Montée du Chateau,07300,Tournon-sur-Rhône,OSM,45.067539,4.832221
-073240148E-2,2,Montée du Chateau,07300,Tournon-sur-Rhône,OSM,45.067532,4.832316
-073240148E-3,3,Montée du Chateau,07300,Tournon-sur-Rhône,OSM,45.067710,4.832145
-073240148E-4,4,Montée du Chateau,07300,Tournon-sur-Rhône,OSM,45.067681,4.832279
+073240148E-1,1,Montée du Château,07300,Tournon-sur-Rhône,OSM,45.067539,4.832221
+073240148E-2,2,Montée du Château,07300,Tournon-sur-Rhône,OSM,45.067532,4.832316
+073240148E-3,3,Montée du Château,07300,Tournon-sur-Rhône,OSM,45.067710,4.832145
+073240148E-4,4,Montée du Château,07300,Tournon-sur-Rhône,OSM,45.067681,4.832279
 073240155M-10,10,Chemin de Clavel,07300,Tournon-sur-Rhône,OSM,45.066270,4.801385
 073240155M-11,11,Chemin de Clavel,07300,Tournon-sur-Rhône,OSM,45.066627,4.803414
 073240155M-1,1,Chemin de Clavel,07300,Tournon-sur-Rhône,OSM,45.066624,4.802746
@@ -39954,46 +39963,50 @@
 073240254V-79,79,Rue du 18 Juin 1940,07300,Tournon-sur-Rhône,OSM,45.056055,4.842832
 073240254V-83,83,Rue du 18 Juin 1940,07300,Tournon-sur-Rhône,OSM,45.056432,4.843002
 073240254V-83B,83BIS,Rue du 18 Juin 1940,07300,Tournon-sur-Rhône,OSM,45.056214,4.842959
-073240257Y-272,272,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.071098,4.816319
-073240257Y-279,279,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070670,4.816506
-073240257Y-281,281,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070451,4.816697
-073240257Y-283,283,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070330,4.816804
-073240257Y-285,285,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070216,4.816846
-073240257Y-287,287,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070257,4.816685
-073240257Y-289,289,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070610,4.816474
-073240257Y-291,291,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070707,4.816390
-073240257Y-294,294,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070883,4.816155
+073240257Y-272,272,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.071053,4.816345
+073240257Y-279,279,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070748,4.816499
+073240257Y-281,281,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070514,4.816725
+073240257Y-283,283,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070351,4.816847
+073240257Y-285,285,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070173,4.816839
+073240257Y-287,287,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070348,4.816641
+073240257Y-289,289,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070570,4.816364
+073240257Y-291,291,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070715,4.816294
+073240257Y-294,294,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070945,4.816144
 073240257Y-30,30,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.069886,4.814467
-073240257Y-306,306,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070822,4.815982
-073240257Y-328,328,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070745,4.815763
-073240257Y-350,350,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070884,4.815413
-073240257Y-352,352,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070848,4.815347
-073240257Y-374,374,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070595,4.815334
+073240257Y-306,306,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070902,4.815912
+073240257Y-328,328,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070785,4.815676
+073240257Y-350,350,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070881,4.815413
+073240257Y-352,352,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070848,4.815350
+073240257Y-374,374,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070643,4.815308
 073240257Y-46,46,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.069914,4.814582
-073240257Y-475,475,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070098,4.814190
+073240257Y-475,475,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,OSM,45.070055,4.814220
 073240257Y-48,48,Rue du Docteur Adolphe Bonnard,07300,Tournon-sur-Rhône,C+O,45.070003,4.814580
-073240260B-10,10,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065233,4.833267
-073240260B-11,11,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065210,4.832462
-073240260B-12,12,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065241,4.833136
-073240260B-13,13,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065240,4.832244
-073240260B-14,14,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065251,4.832919
-073240260B-17,17,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065784,4.831544
-073240260B-22,22,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065261,4.831285
-073240260B-23,23,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.064509,4.831818
-073240260B-24,24,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.064824,4.831473
-073240260B-5,5,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065135,4.833786
-073240260B-6,6,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065352,4.834334
-073240260B-7,7,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065157,4.833351
-073240260B-8,8,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065226,4.833398
-073240260B-9,9,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,C+O,45.065205,4.832559
-073240265G-100,100,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.059993,4.844440
+073240260B-10,10,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065233,4.833268
+073240260B-11,11,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065028,4.832257
+073240260B-12,12,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065241,4.833137
+073240260B-13,13,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065233,4.832251
+073240260B-14,14,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065251,4.832919
+073240260B-17,17,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065782,4.831545
+073240260B-22,22,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065295,4.831275
+073240260B-23,23,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.064811,4.831765
+073240260B-24,24,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.064835,4.831422
+073240260B-26,26,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.064117,4.831002
+073240260B-26D,26D,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.063721,4.831298
+073240260B-26E,26E,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.063648,4.830840
+073240260B-5,5,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065136,4.833786
+073240260B-6,6,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065352,4.834334
+073240260B-7,7,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065157,4.833351
+073240260B-8,8,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065227,4.833398
+073240260B-9,9,Rue du Docteur Cadet,07300,Tournon-sur-Rhône,OSM,45.065120,4.832628
+073240265G-100,100,Allée Jean Tardin,07300,Tournon-sur-Rhône,OSM,45.060055,4.844352
+073240265G-105,105,Allée Jean Tardin,07300,Tournon-sur-Rhône,OSM,45.060017,4.844577
 073240265G-105A,105A,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.060017,4.844650
 073240265G-105B,105B,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.060016,4.844662
-073240265G-140,140,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.059875,4.844400
-073240265G-40,40,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.060531,4.844292
-073240265G-5,5,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.060848,4.844300
-073240265G-70,70,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.060287,4.844197
-073240265G-73,73,Allée Jean Tardin,07300,Tournon-sur-Rhône,C+O,45.060345,4.844426
+073240265G-140,140,Allée Jean Tardin,07300,Tournon-sur-Rhône,OSM,45.059900,4.844475
+073240265G-40,40,Allée Jean Tardin,07300,Tournon-sur-Rhône,OSM,45.060520,4.844173
+073240265G-5,5,Allée Jean Tardin,07300,Tournon-sur-Rhône,OSM,45.060924,4.844289
+073240265G-70,70,Allée Jean Tardin,07300,Tournon-sur-Rhône,OSM,45.060280,4.844141
+073240265G-73,73,Allée Jean Tardin,07300,Tournon-sur-Rhône,OSM,45.060320,4.844457
 073240280Y-100,100,Rue du Doux,07300,Tournon-sur-Rhône,OSM,45.069779,4.828062
 073240280Y-10,10,Rue du Doux,07300,Tournon-sur-Rhône,OSM,45.071289,4.824087
 073240280Y-102,102,Rue du Doux,07300,Tournon-sur-Rhône,OSM,45.069706,4.828140
@@ -41340,9 +41353,9 @@
 073240678F-3,3,Impasse Mazard,07300,Tournon-sur-Rhône,OSM,45.061682,4.843091
 073240678F-5,5,Impasse Mazard,07300,Tournon-sur-Rhône,OSM,45.061903,4.843172
 073240678F-7,7,Impasse Mazard,07300,Tournon-sur-Rhône,OSM,45.062181,4.843176
-073240681J-1,1,Rue des Monges,07300,Tournon-sur-Rhône,C+O,45.057611,4.846511
-073240681J-2,2,Rue des Monges,07300,Tournon-sur-Rhône,C+O,45.057725,4.846543
-073240681J-3,3,Rue des Monges,07300,Tournon-sur-Rhône,C+O,45.057514,4.846071
+073240681J-1,1,Rue des Monges,07300,Tournon-sur-Rhône,OSM,45.057552,4.846560
+073240681J-2,2,Rue des Monges,07300,Tournon-sur-Rhône,OSM,45.057773,4.846406
+073240681J-3,3,Rue des Monges,07300,Tournon-sur-Rhône,OSM,45.057469,4.846206
 073240682K-10,10,Boulevard de Montgolfier,07300,Tournon-sur-Rhône,OSM,45.072890,4.813820
 073240682K-12,12,Boulevard de Montgolfier,07300,Tournon-sur-Rhône,OSM,45.072228,4.818490
 073240682K-13,13,Boulevard de Montgolfier,07300,Tournon-sur-Rhône,OSM,45.071922,4.814190
@@ -41731,32 +41744,27 @@
 073240877X-85,85,Rue René Cassin,07300,Tournon-sur-Rhône,OSM,45.068591,4.808963
 073240877X-87,87,Rue René Cassin,07300,Tournon-sur-Rhône,OSM,45.068648,4.809117
 073240877X-97,97,Rue René Cassin,07300,Tournon-sur-Rhône,OSM,45.068492,4.809420
-073240880A-10,10,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.063086,4.833853
-073240880A-10B,10BIS,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.063124,4.833359
-073240880A-18,18,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.060024,4.833003
-073240880A-20,20,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.060128,4.832913
-073240880A-22,22,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.060410,4.833957
-073240880A-26,26,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.058928,4.832349
-073240880A-28,28,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.059199,4.833200
-073240880A-4,4,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.064105,4.833513
-073240880A-6,6,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.063919,4.833537
-073240880A-7,7,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.058582,4.833518
-073240880A-8,8,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.063429,4.833813
-073240880A-8B,8BIS,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.063284,4.833768
-073240880A-9,9,Rue du Repos,07300,Tournon-sur-Rhône,C+O,45.058631,4.833541
-073240881B-119A,119A,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054229,4.832455
-073240881B-119B,119B,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054228,4.832570
-073240881B-121A,121A,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054263,4.832254
-073240881B-121B,121B,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054271,4.832180
-073240881B-123,123,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054202,4.832011
-073240881B-125,125,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054411,4.831982
-073240881B-127,127,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054438,4.832169
-073240881B-129,129,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054406,4.832296
-073240881B-131,131,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054388,4.832416
-073240881B-133,133,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054587,4.832735
-073240881B-134,134,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054579,4.832799
-073240881B-135,135,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054572,4.832879
-073240881B-136,136,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054563,4.832970
+073240880A-10,10,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.063129,4.833920
+073240880A-10B,10BIS,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.062977,4.833352
+073240880A-12,12,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.062742,4.834044
+073240880A-18,18,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.060035,4.832789
+073240880A-20,20,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.060175,4.832896
+073240880A-22,22,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.059499,4.833603
+073240880A-26,26,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.058976,4.832307
+073240880A-28,28,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.059156,4.833438
+073240880A-4,4,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.064109,4.833514
+073240880A-6,6,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.063917,4.833536
+073240880A-7,7,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.058583,4.833515
+073240880A-8,8,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.063420,4.833938
+073240880A-8B,8BIS,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.063314,4.833664
+073240880A-9,9,Rue du Repos,07300,Tournon-sur-Rhône,OSM,45.058633,4.833536
+073240881B-119A,119A,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054288,4.832521
+073240881B-119B,119B,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054134,4.832547
+073240881B-121A,121A,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054238,4.832262
+073240881B-121B,121B,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054312,4.832249
+073240881B-127,127,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054408,4.832234
+073240881B-129,129,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054400,4.832294
+073240881B-131,131,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054363,4.832361
 073240882C-225,225,Avenue de la République,07300,Tournon-sur-Rhône,OSM,45.051357,4.836749
 073240882C-245,245,Avenue de la République,07300,Tournon-sur-Rhône,OSM,45.051139,4.836705
 073240882C-265,265,Avenue de la République,07300,Tournon-sur-Rhône,OSM,45.050925,4.836740
@@ -41817,14 +41825,19 @@
 073240890L-7,7,Rue des Roches,07300,Tournon-sur-Rhône,OSM,45.066895,4.831930
 073240890L-8,8,Rue des Roches,07300,Tournon-sur-Rhône,OSM,45.066810,4.831929
 073240890L-9,9,Rue des Roches,07300,Tournon-sur-Rhône,OSM,45.066851,4.831980
-073240892N-123,123,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054345,4.832166
-073240892N-125,125,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054394,4.832178
-073240892N-129,129,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054112,4.833015
-073240892N-131,131,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054402,4.833075
-073240892N-133,133,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054599,4.832737
-073240892N-134,134,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054592,4.832802
-073240892N-135,135,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054583,4.832881
-073240892N-136,136,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,C+O,45.054574,4.832972
+073240892N-119A,119A,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054229,4.832455
+073240892N-119B,119B,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054228,4.832570
+073240892N-121A,121A,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054263,4.832254
+073240892N-121B,121B,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054271,4.832180
+073240892N-123,123,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054202,4.832011
+073240892N-125,125,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054411,4.831982
+073240892N-127,127,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054438,4.832169
+073240892N-129,129,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054406,4.832296
+073240892N-131,131,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054388,4.832416
+073240892N-133,133,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054587,4.832735
+073240892N-134,134,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054579,4.832799
+073240892N-135,135,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054572,4.832879
+073240892N-136,136,Rue Rosa Luxembourg,07300,Tournon-sur-Rhône,OSM,45.054563,4.832970
 073240900X-55,55,Rue Roseron,07300,Tournon-sur-Rhône,OSM,45.064003,4.837119
 073240900X-56,56,Rue Roseron,07300,Tournon-sur-Rhône,OSM,45.064015,4.837035
 073240900X-60,60,Rue Roseron,07300,Tournon-sur-Rhône,OSM,45.063981,4.836922
@@ -41971,15 +41984,15 @@
 073240990V-5,5,Allée des Tilleuls,07300,Tournon-sur-Rhône,OSM,45.071900,4.824495
 073240990V-63,63,Allée des Tilleuls,07300,Tournon-sur-Rhône,OSM,45.072361,4.824656
 073240990V-95,95,Allée des Tilleuls,07300,Tournon-sur-Rhône,OSM,45.072547,4.824782
-073240995A-10,10,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071400,4.820724
-073240995A-1,1,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071719,4.820172
-073240995A-2,2,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071582,4.819836
-073240995A-3,3,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071611,4.820254
-073240995A-4,4,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071558,4.820237
-073240995A-5,5,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071521,4.820324
-073240995A-6,6,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071521,4.820265
-073240995A-7,7,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071530,4.820474
-073240995A-8,8,Rue de Tivoli,07300,Tournon-sur-Rhône,C+O,45.071416,4.820358
+073240995A-10,10,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071405,4.820553
+073240995A-1,1,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071719,4.820172
+073240995A-2,2,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071645,4.819812
+073240995A-3,3,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071610,4.820254
+073240995A-4,4,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071560,4.820182
+073240995A-5,5,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071521,4.820324
+073240995A-6,6,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071521,4.820265
+073240995A-7,7,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071560,4.820451
+073240995A-8,8,Rue de Tivoli,07300,Tournon-sur-Rhône,OSM,45.071416,4.820341
 073241000F-10,10,Rue des 13 Cantons,07300,Tournon-sur-Rhône,OSM,45.066711,4.832575
 073241005L-105,105,Chemin des Trousses,07300,Tournon-sur-Rhône,OSM,45.063354,4.803612
 073241005L-125,125,Chemin des Trousses,07300,Tournon-sur-Rhône,OSM,45.063253,4.803338
@@ -42014,16 +42027,16 @@
 073241010S-8,8,Rue de la Valentine,07300,Tournon-sur-Rhône,C+O,45.060146,4.839280
 073241010S-9,9,Rue de la Valentine,07300,Tournon-sur-Rhône,OSM,45.061424,4.839122
 073241020C-2,2,Rue Vanosc,07300,Tournon-sur-Rhône,OSM,45.068135,4.829946
-073241025H-1,1,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059867,4.837053
-073241025H-12,12,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059785,4.835185
-073241025H-13,13,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059635,4.834814
-073241025H-15,15,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059454,4.834682
-073241025H-4,4,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059876,4.836640
-073241025H-5,5,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059827,4.836414
-073241025H-6,6,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059853,4.836272
-073241025H-7,7,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059815,4.836235
-073241025H-8,8,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059833,4.835942
-073241025H-9,9,Passage Verbeurgt,07300,Tournon-sur-Rhône,C+O,45.059770,4.835489
+073241025H-1,1,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059867,4.837052
+073241025H-12,12,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059865,4.835219
+073241025H-13,13,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059695,4.834857
+073241025H-15,15,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059515,4.834798
+073241025H-4,4,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059885,4.836698
+073241025H-5,5,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059799,4.836439
+073241025H-6,6,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059912,4.836237
+073241025H-7,7,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059815,4.836234
+073241025H-8,8,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059889,4.836003
+073241025H-9,9,Passage Verbeurgt,07300,Tournon-sur-Rhône,OSM,45.059734,4.835589
 073241027K-1,1,Rue du Vercors,07300,Tournon-sur-Rhône,OSM,45.055874,4.836881
 073241027K-3,3,Rue du Vercors,07300,Tournon-sur-Rhône,OSM,45.055751,4.837661
 073241027K-5,5,Rue du Vercors,07300,Tournon-sur-Rhône,OSM,45.055749,4.837450
@@ -43013,7 +43026,7 @@
 073310018H-9,9,Chemin des Arnas,07600,Vals-les-Bains,CAD,44.670310,4.362882
 073310020K-11,11,Rue Auguste Clément,07600,Vals-les-Bains,C+O,44.654859,4.365073
 073310020K-1,1,Rue Auguste Clément,07600,Vals-les-Bains,C+O,44.659612,4.367026
-073310020K-13,13,rue Auguste Clément,07600,Vals-les-Bains,OSM,44.654743,4.365110
+073310020K-13,13,Rue Auguste Clément,07600,Vals-les-Bains,OSM,44.654743,4.365110
 073310020K-14,14,Rue Auguste Clément,07600,Vals-les-Bains,C+O,44.657409,4.366200
 073310020K-15,15,Rue Auguste Clément,07600,Vals-les-Bains,C+O,44.654581,4.364982
 073310020K-16,16,Rue Auguste Clément,07600,Vals-les-Bains,C+O,44.657319,4.366149
