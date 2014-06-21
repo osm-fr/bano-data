@@ -11483,7 +11483,6 @@
 972090775X-9,9,Rue du Fond Lada,97212,Fort-de-France,CAD,14.621948,-61.078899
 972090775X-9B,9BIS,Rue du Fond Lada,97212,Fort-de-France,CAD,14.621676,-61.078906
 972090776Y-71,71,Rue Stephen-Fortune Camille,97212,Fort-de-France,CAD,14.601818,-61.051859
-972090778A-14,14,Rue du Docteur Désirée Girard,97212,Fort-de-France,C+O,14.608894,-61.057740
 972090787K-10,10,Rue de la Formation Profession,97212,Fort-de-France,CAD,14.611569,-61.055700
 972090787K-4,4,Rue de la Formation Profession,97212,Fort-de-France,CAD,14.611399,-61.055192
 972090787K-6,6,Rue de la Formation Profession,97212,Fort-de-France,CAD,14.611459,-61.055370
@@ -12393,6 +12392,7 @@
 972090887U-7,7,Rue des Glaïeuls,97212,Fort-de-France,CAD,14.634528,-61.072521
 972090887U-8,8,Rue des Glaïeuls,97212,Fort-de-France,CAD,14.634660,-61.072438
 972090887U-9,9,Rue des Glaïeuls,97212,Fort-de-France,CAD,14.634756,-61.072305
+972090888V-14,14,Rue du Docteur Désirée Girard,97212,Fort-de-France,C+O,14.608894,-61.057740
 972090890X-11,11,Boulevard Général François Reboul,97212,Fort-de-France,CAD,14.605263,-61.060467
 972090890X-1310,1310,Boulevard Général François Reboul,97212,Fort-de-France,CAD,14.606774,-61.059679
 972090890X-13,13,Boulevard Général François Reboul,97212,Fort-de-France,CAD,14.605347,-61.060432
@@ -12595,6 +12595,55 @@
 972090903L-7,7,Rue Alfred Melon Degras,97212,Fort-de-France,CAD,14.611876,-61.066057
 972090903L-8,8,Rue Alfred Melon Degras,97212,Fort-de-France,CAD,14.611483,-61.065765
 972090903L-9,9,Rue Alfred Melon Degras,97212,Fort-de-France,CAD,14.611806,-61.066019
+972090905N-10,10,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632491,-61.053351
+972090905N-1100F,1100F,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633425,-61.050797
+972090905N-11B,11BIS,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.634066,-61.052417
+972090905N-12,12,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633167,-61.053204
+972090905N-14,14,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633804,-61.052748
+972090905N-16,16,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633664,-61.052425
+972090905N-18,18,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633417,-61.052447
+972090905N-18A,18A,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633045,-61.052284
+972090905N-18C,18C,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632985,-61.052472
+972090905N-20,20,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633805,-61.052172
+972090905N-20B,20BIS,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633157,-61.052037
+972090905N-22,22,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633335,-61.051725
+972090905N-2,2,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632285,-61.053920
+972090905N-24,24,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633392,-61.051245
+972090905N-24B,24BIS,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632718,-61.051042
+972090905N-25,25,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633425,-61.050818
+972090905N-25B,25B,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633409,-61.051019
+972090905N-25C,25C,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633150,-61.050811
+972090905N-26,26,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632377,-61.050674
+972090905N-27,27,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632820,-61.050855
+972090905N-28,28,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632298,-61.050359
+972090905N-29,29,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632436,-61.050620
+972090905N-2B,2BIS,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633264,-61.051595
+972090905N-30,30,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632502,-61.049972
+972090905N-31,31,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632592,-61.049985
+972090905N-32,32,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632796,-61.049618
+972090905N-32A,32A,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632399,-61.049507
+972090905N-32B,32B,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632094,-61.049449
+972090905N-32C,32C,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.631655,-61.049440
+972090905N-33,33,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632756,-61.049834
+972090905N-33B,33BIS,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632974,-61.049620
+972090905N-34,34,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632389,-61.049312
+972090905N-35,35,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633420,-61.049679
+972090905N-35C,35C,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633259,-61.049293
+972090905N-35T,35T,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633342,-61.050226
+972090905N-37A,37A,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633889,-61.049568
+972090905N-38,38,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633303,-61.048820
+972090905N-43,43,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.634391,-61.048666
+972090905N-43B,43BIS,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633790,-61.048663
+972090905N-4,4,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632250,-61.053695
+972090905N-50,50,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632956,-61.047330
+972090905N-6123F,6123F,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633246,-61.050923
+972090905N-65,65,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.634257,-61.051186
+972090905N-65A,65A,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.634218,-61.051005
+972090905N-65B,65B,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.634448,-61.050931
+972090905N-65C,65C,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.634613,-61.050557
+972090905N-6621F,6621F,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.633680,-61.048046
+972090905N-6,6,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632223,-61.053546
+972090905N-8,8,Avenue Georges Plissonneau,97212,Fort-de-France,CAD,14.632205,-61.053439
 972090907R-13,13,Rue Gérard Nouvet,97212,Fort-de-France,C+O,14.615246,-61.070037
 972090907R-13C,13C,Rue Gérard Nouvet,97212,Fort-de-France,C+O,14.615441,-61.070416
 972090907R-14,14,Rue Gérard Nouvet,97212,Fort-de-France,C+O,14.614320,-61.070461
@@ -32179,7 +32228,6 @@
 972260019B-6,6,Rue Abbé Saffache,97227,Sainte-Anne,C+O,14.434232,-60.881195
 972260019B-7,7,Rue Abbé Saffache,97227,Sainte-Anne,C+O,14.434297,-60.881263
 972260019B-8,8,Rue Abbé Saffache,97227,Sainte-Anne,C+O,14.434308,-60.881152
-972260020C-30,30,Rue Paille,97227,Sainte-Anne,CAD,14.432067,-60.881588
 972260022E-1,1,Avenue Nelson Mandela,97227,Sainte-Anne,C+O,14.433602,-60.881319
 972260022E-14,14,Avenue Nelson Mandela,97227,Sainte-Anne,C+O,14.433292,-60.880874
 972260022E-17,17,Avenue Nelson Mandela,97227,Sainte-Anne,C+O,14.433374,-60.880801
@@ -32346,6 +32394,7 @@
 97226A002C-8,8,Cité Baréto,97227,Sainte-Anne,CAD,14.444746,-60.865485
 97226A002C-9,9,Cité Baréto,97227,Sainte-Anne,CAD,14.444789,-60.865582
 97226A017U-14,14,Lotissement Les Oiseaux,97227,Sainte-Anne,CAD,14.433544,-60.876186
+97226B041G-30,30,Rue Paille,97227,Sainte-Anne,CAD,14.432067,-60.881588
 972270001C-10,10,Rue Capitaine Pierre Rose,97228,Sainte-Luce,C+O,14.469291,-60.921334
 972270001C-11,11,Rue Capitaine Pierre Rose,97228,Sainte-Luce,C+O,14.468836,-60.921232
 972270001C-1,1,Rue Capitaine Pierre Rose,97228,Sainte-Luce,C+O,14.468317,-60.921064
@@ -32776,7 +32825,7 @@
 972270050F-55,55,Rue Schoelcher,97228,Sainte-Luce,C+O,14.468377,-60.921430
 972270050F-56,56,Rue Schoelcher,97228,Sainte-Luce,C+O,14.468037,-60.921656
 972270050F-57,57,Rue Schoelcher,97228,Sainte-Luce,C+O,14.468388,-60.921374
-972270050F-58,58,rue Schoelcher,97228,Sainte-Luce,OSM,14.467962,-60.921304
+972270050F-58,58,Rue Schoelcher,97228,Sainte-Luce,OSM,14.467962,-60.921304
 972270050F-59,59,Rue Schoelcher,97228,Sainte-Luce,C+O,14.468400,-60.921310
 972270050F-60,60,Rue Schoelcher,97228,Sainte-Luce,C+O,14.468114,-60.921452
 972270050F-61,61,Rue Schoelcher,97228,Sainte-Luce,C+O,14.468466,-60.921242
@@ -35232,9 +35281,6 @@
 972290098Z-5,5,Rue Fernand Calixte,97233,Schœlcher,C+O,14.614525,-61.090269
 972290098Z-7,7,Rue Fernand Calixte,97233,Schœlcher,C+O,14.614496,-61.090363
 972290098Z-9,9,Rue Fernand Calixte,97233,Schœlcher,C+O,14.614473,-61.090435
-972290099A-12,12,Route de Terreville,97233,Schœlcher,CAD,14.639661,-61.098054
-972290099A-29,29,Route de Terreville,97233,Schœlcher,CAD,14.637327,-61.097792
-972290099A-31,31,Route de Terreville,97233,Schœlcher,CAD,14.637595,-61.097954
 972290100B-10,10,Rue Émilius Lovince,97233,Schœlcher,C+O,14.615574,-61.101275
 972290100B-11,11,Rue Émilius Lovince,97233,Schœlcher,C+O,14.615205,-61.100366
 972290100B-1,1,Rue Émilius Lovince,97233,Schœlcher,C+O,14.615836,-61.101389
@@ -38052,6 +38098,9 @@
 97229A080Z-7,7,Lotissement Emeraude,97233,Schœlcher,CAD,14.628940,-61.096937
 97229A080Z-8,8,Lotissement Emeraude,97233,Schœlcher,CAD,14.628860,-61.097235
 97229A080Z-9,9,Lotissement Emeraude,97233,Schœlcher,CAD,14.628421,-61.097132
+97229B196M-12,12,Route de Terreville,97233,Schœlcher,CAD,14.639661,-61.098054
+97229B196M-29,29,Route de Terreville,97233,Schœlcher,CAD,14.637327,-61.097792
+97229B196M-31,31,Route de Terreville,97233,Schœlcher,CAD,14.637595,-61.097954
 972300007W-11,11,Rue Adrien Sainte-Luce,97220,La Trinité,CAD,14.736910,-60.962684
 972300007W-1,1,Rue Adrien Sainte-Luce,97220,La Trinité,CAD,14.737195,-60.962368
 972300007W-13,13,Rue Adrien Sainte-Luce,97220,La Trinité,CAD,14.736882,-60.962750
