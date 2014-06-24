@@ -4766,6 +4766,7 @@
 552120002B-5,5,Grande Rue La Grande Rue,55200,Girauvoisin,CAD,48.804374,5.624918
 552120002B-7,7,Grande Rue La Grande Rue,55200,Girauvoisin,CAD,48.804361,5.625086
 552120002B-9,9,Grande Rue La Grande Rue,55200,Girauvoisin,CAD,48.804312,5.625921
+552150017E-2,2,Place de Halle',55130,Gondrecourt-le-Château,OSM,48.513957,5.510990
 552250003W-10,10,Route de Beauclair,55700,Halles-sous-les-Côtes,CAD,49.450970,5.122437
 552250003W-12,12,Route de Beauclair,55700,Halles-sous-les-Côtes,CAD,49.451124,5.122181
 552250003W-14,14,Route de Beauclair,55700,Halles-sous-les-Côtes,CAD,49.452005,5.120985
@@ -4870,67 +4871,6 @@
 552280030M-7,7,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038725,5.658837
 552280030M-8,8,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038579,5.658584
 552280030M-9,9,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038495,5.658439
-552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
-552280045D-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
-552280045D-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
-552280045D-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
-552280045D-107B,107B,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043452,5.663458
-552280045D-109,109,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043474,5.663511
-552280045D-111,111,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043508,5.663594
-552280045D-11,11,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039340,5.658147
-552280045D-113,113,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043557,5.663700
-552280045D-115,115,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043596,5.663788
-552280045D-117,117,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043658,5.663920
-552280045D-119,119,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043725,5.664071
-552280045D-1,1,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039013,5.657807
-552280045D-13,13,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039378,5.658196
-552280045D-15,15,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039438,5.658259
-552280045D-19,19,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039522,5.658367
-552280045D-21,21,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039588,5.658411
-552280045D-23,23,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039639,5.658474
-552280045D-25,25,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039779,5.658476
-552280045D-27,27,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039821,5.658542
-552280045D-29,29,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039858,5.658606
-552280045D-31,31,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039952,5.658721
-552280045D-33,33,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040042,5.658811
-552280045D-3,3,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039144,5.657905
-552280045D-35,35,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040102,5.658990
-552280045D-37,37,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040204,5.659149
-552280045D-39,39,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040239,5.659204
-552280045D-41,41,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040599,5.659510
-552280045D-43,43,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040668,5.659604
-552280045D-45,45,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040785,5.659730
-552280045D-47,47,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040903,5.659840
-552280045D-49,49,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040978,5.659866
-552280045D-51,51,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041021,5.659905
-552280045D-53,53,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041245,5.660061
-552280045D-55,55,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041302,5.660108
-552280045D-5,5,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039191,5.657962
-552280045D-57,57,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041424,5.660187
-552280045D-59B,59B,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041606,5.660352
-552280045D-61,61,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041643,5.660395
-552280045D-63,63,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041691,5.660454
-552280045D-65,65,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041745,5.660536
-552280045D-67,67,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041855,5.660651
-552280045D-69,69,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042039,5.660882
-552280045D-71,71,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042147,5.661009
-552280045D-73,73,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042214,5.661089
-552280045D-75,75,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042281,5.661167
-552280045D-77,77,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042350,5.661264
-552280045D-7,7,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039250,5.658034
-552280045D-79,79,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042464,5.661448
-552280045D-81,81,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042563,5.661604
-552280045D-83,83,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042605,5.661668
-552280045D-85,85,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042648,5.661743
-552280045D-87,87,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042698,5.661816
-552280045D-87B,87B,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042765,5.661914
-552280045D-89,89,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042824,5.661999
-552280045D-91,91,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042892,5.662095
-552280045D-93,93,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042943,5.662165
-552280045D-95,95,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042987,5.662223
-552280045D-97,97,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043043,5.662302
-552280045D-99,99,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043087,5.662371
-552280045D-9,9,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039304,5.658103
 552280065A-10,10,Rue de Fresnes,55210,Hannonville-sous-les-Côtes,OSM,49.039463,5.656841
 552280065A-11,11,Rue de Fresnes,55210,Hannonville-sous-les-Côtes,OSM,49.038564,5.657727
 552280065A-1,1,Rue de Fresnes,55210,Hannonville-sous-les-Côtes,OSM,49.038245,5.658215
@@ -4969,47 +4909,6 @@
 552280065A-7,7,Rue de Fresnes,55210,Hannonville-sous-les-Côtes,OSM,49.038411,5.657811
 552280065A-8,8,Rue de Fresnes,55210,Hannonville-sous-les-Côtes,OSM,49.039354,5.656982
 552280065A-9,9,Rue de Fresnes,55210,Hannonville-sous-les-Côtes,OSM,49.038482,5.657711
-552280070F-10,10,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039601,5.659089
-552280070F-12,12,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039642,5.659187
-552280070F-14,14,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039759,5.659287
-552280070F-16,16,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039805,5.659457
-552280070F-18,18,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039983,5.659701
-552280070F-20,20,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040167,5.659738
-552280070F-2,2,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039203,5.658626
-552280070F-26,26,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040413,5.659919
-552280070F-28,28,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040471,5.660108
-552280070F-30,30,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040627,5.660154
-552280070F-32,32,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040949,5.660259
-552280070F-34,34,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041024,5.660363
-552280070F-36,36,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041136,5.660419
-552280070F-38,38,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041224,5.660452
-552280070F-40,40,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041297,5.660524
-552280070F-42,42,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041350,5.660581
-552280070F-42B,42B,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041423,5.660663
-552280070F-44,44,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041507,5.660765
-552280070F-4,4,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039304,5.658782
-552280070F-46,46,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041632,5.660878
-552280070F-48,48,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041723,5.660978
-552280070F-50,50,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041921,5.661149
-552280070F-52,52,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042008,5.661278
-552280070F-54,54,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042049,5.661334
-552280070F-56,56,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042130,5.661471
-552280070F-58,58,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042265,5.661592
-552280070F-60,60,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042327,5.661683
-552280070F-62,62,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042362,5.661743
-552280070F-62B,62BIS,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042404,5.661816
-552280070F-66,66,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042624,5.662210
-552280070F-6,6,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039436,5.658985
-552280070F-68,68,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042671,5.662294
-552280070F-70,70,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042715,5.662375
-552280070F-72,72,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042782,5.662486
-552280070F-74,74,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042857,5.662593
-552280070F-76,76,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042934,5.662742
-552280070F-78,78,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043003,5.662903
-552280070F-80,80,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043053,5.663014
-552280070F-82,82,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043113,5.663164
-552280070F-84,84,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043192,5.663368
-552280070F-8,8,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039501,5.659069
 552280075L-10,10,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038211,5.655806
 552280075L-12,12,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038129,5.655695
 552280075L-14,14,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038069,5.655617
@@ -5051,6 +4950,108 @@
 552280125R-8,8,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037715,5.658861
 552280125R-9,9,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037062,5.660162
 552280135B-3,3,Rue de Wadonville,55210,Hannonville-sous-les-Côtes,OSM,49.043799,5.662341
+55228B055W-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
+55228B055W-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
+55228B055W-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
+55228B055W-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
+55228B055W-107B,107B,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043452,5.663458
+55228B055W-109,109,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043474,5.663511
+55228B055W-111,111,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043508,5.663594
+55228B055W-11,11,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039340,5.658147
+55228B055W-113,113,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043557,5.663700
+55228B055W-115,115,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043596,5.663788
+55228B055W-117,117,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043658,5.663920
+55228B055W-119,119,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043725,5.664071
+55228B055W-1,1,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039013,5.657807
+55228B055W-13,13,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039378,5.658196
+55228B055W-15,15,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039438,5.658259
+55228B055W-19,19,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039522,5.658367
+55228B055W-21,21,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039588,5.658411
+55228B055W-23,23,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039639,5.658474
+55228B055W-25,25,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039779,5.658476
+55228B055W-27,27,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039821,5.658542
+55228B055W-29,29,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039858,5.658606
+55228B055W-31,31,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039952,5.658721
+55228B055W-33,33,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040042,5.658811
+55228B055W-3,3,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039144,5.657905
+55228B055W-35,35,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040102,5.658990
+55228B055W-37,37,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040204,5.659149
+55228B055W-39,39,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040239,5.659204
+55228B055W-41,41,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040599,5.659510
+55228B055W-43,43,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040668,5.659604
+55228B055W-45,45,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040785,5.659730
+55228B055W-47,47,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040903,5.659840
+55228B055W-49,49,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.040978,5.659866
+55228B055W-51,51,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041021,5.659905
+55228B055W-53,53,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041245,5.660061
+55228B055W-55,55,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041302,5.660108
+55228B055W-5,5,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039191,5.657962
+55228B055W-57,57,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041424,5.660187
+55228B055W-59B,59B,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041606,5.660352
+55228B055W-61,61,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041643,5.660395
+55228B055W-63,63,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041691,5.660454
+55228B055W-65,65,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041745,5.660536
+55228B055W-67,67,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.041855,5.660651
+55228B055W-69,69,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042039,5.660882
+55228B055W-71,71,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042147,5.661009
+55228B055W-73,73,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042214,5.661089
+55228B055W-75,75,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042281,5.661167
+55228B055W-77,77,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042350,5.661264
+55228B055W-7,7,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039250,5.658034
+55228B055W-79,79,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042464,5.661448
+55228B055W-81,81,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042563,5.661604
+55228B055W-83,83,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042605,5.661668
+55228B055W-85,85,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042648,5.661743
+55228B055W-87,87,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042698,5.661816
+55228B055W-87B,87B,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042765,5.661914
+55228B055W-89,89,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042824,5.661999
+55228B055W-91,91,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042892,5.662095
+55228B055W-93,93,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042943,5.662165
+55228B055W-95,95,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.042987,5.662223
+55228B055W-97,97,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043043,5.662302
+55228B055W-99,99,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043087,5.662371
+55228B055W-9,9,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.039304,5.658103
+55228B056X-10,10,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039601,5.659089
+55228B056X-12,12,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039642,5.659187
+55228B056X-14,14,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039759,5.659287
+55228B056X-16,16,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039805,5.659457
+55228B056X-18,18,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039983,5.659701
+55228B056X-20,20,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040167,5.659738
+55228B056X-2,2,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039203,5.658626
+55228B056X-26,26,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040413,5.659919
+55228B056X-28,28,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040471,5.660108
+55228B056X-30,30,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040627,5.660154
+55228B056X-32,32,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.040949,5.660259
+55228B056X-34,34,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041024,5.660363
+55228B056X-36,36,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041136,5.660419
+55228B056X-38,38,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041224,5.660452
+55228B056X-40,40,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041297,5.660524
+55228B056X-42,42,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041350,5.660581
+55228B056X-42B,42B,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041423,5.660663
+55228B056X-44,44,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041507,5.660765
+55228B056X-4,4,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039304,5.658782
+55228B056X-46,46,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041632,5.660878
+55228B056X-48,48,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041723,5.660978
+55228B056X-50,50,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.041921,5.661149
+55228B056X-52,52,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042008,5.661278
+55228B056X-54,54,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042049,5.661334
+55228B056X-56,56,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042130,5.661471
+55228B056X-58,58,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042265,5.661592
+55228B056X-60,60,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042327,5.661683
+55228B056X-62,62,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042362,5.661743
+55228B056X-62B,62BIS,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042404,5.661816
+55228B056X-66,66,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042624,5.662210
+55228B056X-6,6,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039436,5.658985
+55228B056X-68,68,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042671,5.662294
+55228B056X-70,70,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042715,5.662375
+55228B056X-72,72,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042782,5.662486
+55228B056X-74,74,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042857,5.662593
+55228B056X-76,76,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.042934,5.662742
+55228B056X-78,78,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043003,5.662903
+55228B056X-80,80,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043053,5.663014
+55228B056X-82,82,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043113,5.663164
+55228B056X-84,84,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.043192,5.663368
+55228B056X-8,8,Rue Froide,55210,Hannonville-sous-les-Côtes,OSM,49.039501,5.659069
 552360015L-6,6,Pont de Belrupt,55100,Haudainville,CAD,49.136315,5.431926
 552360020S-10,10,Rue de Belrupt,55100,Haudainville,C+O,49.127878,5.422796
 552360020S-1,1,Rue de Belrupt,55100,Haudainville,C+O,49.127895,5.422404
