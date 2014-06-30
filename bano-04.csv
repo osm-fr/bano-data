@@ -2327,12 +2327,12 @@
 040490060P-7A,7A,Avenue André Grabinski,04600,Château-Arnoux-Saint-Auban,CAD,44.069336,5.992648
 040490060P-8,8,Avenue André Grabinski,04600,Château-Arnoux-Saint-Auban,CAD,44.068846,5.992964
 040490060P-8A,8A,Avenue André Grabinski,04600,Château-Arnoux-Saint-Auban,CAD,44.068846,5.992982
-040490065V-2,2,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,CAD,44.074741,5.992135
-040490065V-3,3,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,CAD,44.074575,5.991491
-040490065V-4,4,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,CAD,44.074740,5.992148
-040490065V-5,5,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,CAD,44.074697,5.991449
-040490065V-7,7,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,CAD,44.074856,5.991223
-040490065V-8,8,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,CAD,44.074978,5.991803
+040490065V-2,2,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,C+O,44.074741,5.992135
+040490065V-3,3,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,C+O,44.074575,5.991491
+040490065V-4,4,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,C+O,44.074740,5.992148
+040490065V-5,5,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,C+O,44.074697,5.991449
+040490065V-7,7,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,C+O,44.074856,5.991223
+040490065V-8,8,Boulevard André Lacroix,04600,Château-Arnoux-Saint-Auban,C+O,44.074978,5.991803
 040490070A-2,2,Rue André Messager,04600,Château-Arnoux-Saint-Auban,C+O,44.082005,6.006049
 040490070A-4,4,Rue André Messager,04600,Château-Arnoux-Saint-Auban,C+O,44.081777,6.006139
 040490075F-12,12,Rue d'Arsonval,04600,Château-Arnoux-Saint-Auban,C+O,44.074216,5.993197
@@ -2471,18 +2471,18 @@
 040490170J-4,4,Rue de la Calade,04600,Château-Arnoux-Saint-Auban,C+O,44.094329,6.006488
 040490170J-5,5,Rue de la Calade,04600,Château-Arnoux-Saint-Auban,C+O,44.094032,6.006376
 040490170J-6,6,Rue de la Calade,04600,Château-Arnoux-Saint-Auban,C+O,44.094393,6.006480
-040490175P-1,1,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.104702,6.006350
-040490175P-32,32,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.102057,6.009064
-040490175P-3,3,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.105176,6.005976
-040490175P-34,34,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.102221,6.009009
-040490175P-36,36,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.102363,6.008897
-040490175P-38,38,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.102506,6.008784
-040490175P-40,40,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.102657,6.008665
-040490175P-42,42,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.102870,6.008566
-040490175P-44,44,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.102979,6.008429
-040490175P-46,46,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.103155,6.008338
-040490175P-48,48,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.103326,6.008207
-040490175P-50,50,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,CAD,44.103634,6.007916
+040490175P-1,1,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.104702,6.006350
+040490175P-32,32,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.102057,6.009064
+040490175P-3,3,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.105176,6.005976
+040490175P-34,34,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.102221,6.009009
+040490175P-36,36,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.102363,6.008897
+040490175P-38,38,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.102506,6.008784
+040490175P-40,40,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.102657,6.008665
+040490175P-42,42,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.102870,6.008566
+040490175P-44,44,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.102979,6.008429
+040490175P-46,46,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.103155,6.008338
+040490175P-48,48,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.103326,6.008207
+040490175P-50,50,Avenue Calendal,04600,Château-Arnoux-Saint-Auban,C+O,44.103634,6.007916
 040490180V-14,14,Route du Camping,04600,Château-Arnoux-Saint-Auban,C+O,44.095455,6.013291
 040490180V-16,16,Route du Camping,04600,Château-Arnoux-Saint-Auban,C+O,44.096180,6.013255
 040490180V-20,20,Route du Camping,04600,Château-Arnoux-Saint-Auban,C+O,44.096798,6.013375
@@ -2836,22 +2836,22 @@
 040490318V-40,40,Rue de Fontaria,04600,Château-Arnoux-Saint-Auban,CAD,44.086808,6.003839
 040490318V-4,4,Rue de Fontaria,04600,Château-Arnoux-Saint-Auban,CAD,44.088105,6.005211
 040490320X-2,2,Rue Fragonard,04600,Château-Arnoux-Saint-Auban,C+O,44.067333,5.984319
-040490325C-11,11,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069613,5.988597
-040490325C-1,1,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069616,5.989224
-040490325C-13,13,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069612,5.988610
-040490325C-15,15,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069612,5.988622
-040490325C-17,17,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069616,5.988058
-040490325C-19,19,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069692,5.987756
-040490325C-21,21,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069587,5.987514
-040490325C-2,2,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.070007,5.987991
-040490325C-23,23,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069587,5.987527
-040490325C-25,25,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069587,5.987539
-040490325C-27,27,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069586,5.987551
-040490325C-3,3,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069616,5.989236
-040490325C-4,4,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069989,5.987418
-040490325C-5,5,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069616,5.989248
-040490325C-7,7,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069615,5.989261
-040490325C-9,9,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,CAD,44.069613,5.988580
+040490325C-11,11,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069613,5.988597
+040490325C-1,1,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069616,5.989224
+040490325C-13,13,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069612,5.988610
+040490325C-15,15,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069612,5.988622
+040490325C-17,17,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069616,5.988058
+040490325C-19,19,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069692,5.987756
+040490325C-21,21,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069587,5.987514
+040490325C-2,2,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.070007,5.987991
+040490325C-23,23,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069587,5.987527
+040490325C-25,25,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069587,5.987539
+040490325C-27,27,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069586,5.987551
+040490325C-3,3,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069616,5.989236
+040490325C-4,4,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069989,5.987418
+040490325C-5,5,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069616,5.989248
+040490325C-7,7,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069615,5.989261
+040490325C-9,9,Avenue Frédéric Mistral,04600,Château-Arnoux-Saint-Auban,C+O,44.069613,5.988580
 040490328F-1,1,Rue Gabriel Cordier,04600,Château-Arnoux-Saint-Auban,C+O,44.073570,5.994328
 040490328F-819,819,Rue Gabriel Cordier,04600,Château-Arnoux-Saint-Auban,C+O,44.074354,5.993442
 040490330H-1,1,Rue Gabriel Fauré,04600,Château-Arnoux-Saint-Auban,C+O,44.083042,6.006999
@@ -3298,12 +3298,12 @@
 040490502V-6,6,Place Maurice Ravel,04600,Château-Arnoux-Saint-Auban,CAD,44.081193,6.004744
 040490502V-7,7,Place Maurice Ravel,04600,Château-Arnoux-Saint-Auban,CAD,44.080706,6.004865
 040490502V-8,8,Place Maurice Ravel,04600,Château-Arnoux-Saint-Auban,CAD,44.080880,6.004493
-040490503W-1,1,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,CAD,44.066464,5.987357
-040490503W-2,2,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,CAD,44.066647,5.987152
-040490503W-3,3,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,CAD,44.066820,5.986909
-040490503W-4,4,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,CAD,44.066781,5.986494
-040490503W-5,5,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,CAD,44.066475,5.986293
-040490503W-6,6,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,CAD,44.066191,5.986580
+040490503W-1,1,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,C+O,44.066464,5.987357
+040490503W-2,2,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,C+O,44.066647,5.987152
+040490503W-3,3,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,C+O,44.066820,5.986909
+040490503W-4,4,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,C+O,44.066781,5.986494
+040490503W-5,5,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,C+O,44.066475,5.986293
+040490503W-6,6,Place Maurice Utrillo,04600,Château-Arnoux-Saint-Auban,C+O,44.066191,5.986580
 040490505Y-10,10,Rue de la Méditerranée,04600,Château-Arnoux-Saint-Auban,C+O,44.071007,5.986473
 040490505Y-11A,11A,Rue de la Méditerranée,04600,Château-Arnoux-Saint-Auban,C+O,44.070022,5.985891
 040490505Y-1,1,Rue de la Méditerranée,04600,Château-Arnoux-Saint-Auban,C+O,44.071414,5.987755
@@ -3591,15 +3591,15 @@
 040490610M-70T,70TER,Route du Pierraret,04600,Château-Arnoux-Saint-Auban,C+O,44.086864,6.007329
 040490610M-72,72,Route du Pierraret,04600,Château-Arnoux-Saint-Auban,C+O,44.086618,6.007261
 040490610M-7,7,Route du Pierraret,04600,Château-Arnoux-Saint-Auban,C+O,44.092792,6.007480
-040490615T-5,5,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.102064,6.007450
-040490615T-801,801,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101710,6.007029
-040490615T-802,802,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101710,6.007041
-040490615T-803,803,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101580,6.007351
-040490615T-804,804,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101580,6.007364
-040490615T-805,805,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101427,6.007155
-040490615T-806,806,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101426,6.007168
-040490615T-807,807,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101267,6.007430
-040490615T-808,808,Rue de la pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101267,6.007443
+040490615T-5,5,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.102064,6.007450
+040490615T-801,801,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101710,6.007029
+040490615T-802,802,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101710,6.007041
+040490615T-803,803,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101580,6.007351
+040490615T-804,804,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101580,6.007364
+040490615T-805,805,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101427,6.007155
+040490615T-806,806,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101426,6.007168
+040490615T-807,807,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101267,6.007430
+040490615T-808,808,Rue de la Pinède,04600,Château-Arnoux-Saint-Auban,C+O,44.101267,6.007443
 040490618W-1,1,Impasse des Pins Sylvestre,04600,Château-Arnoux-Saint-Auban,C+O,44.086564,6.005526
 040490618W-3,3,Impasse des Pins Sylvestre,04600,Château-Arnoux-Saint-Auban,C+O,44.086563,6.005539
 040490620Y-10,10,Avenue de la Piscine,04600,Château-Arnoux-Saint-Auban,CAD,44.067855,5.993340
@@ -3647,9 +3647,9 @@
 040490630J-6,6,Impasse Racine,04600,Château-Arnoux-Saint-Auban,C+O,44.068208,5.987686
 040490630J-7,7,Impasse Racine,04600,Château-Arnoux-Saint-Auban,C+O,44.067966,5.988383
 040490630J-9,9,Impasse Racine,04600,Château-Arnoux-Saint-Auban,C+O,44.067952,5.987893
-040490633M-1,1,Impasse de la Reine Jeanne,04600,Château-Arnoux-Saint-Auban,CAD,44.099412,6.011255
-040490633M-3,3,Impasse de la Reine Jeanne,04600,Château-Arnoux-Saint-Auban,CAD,44.099419,6.011509
-040490633M-5,5,Impasse de la Reine Jeanne,04600,Château-Arnoux-Saint-Auban,CAD,44.099327,6.011854
+040490633M-1,1,Impasse de la Reine Jeanne,04600,Château-Arnoux-Saint-Auban,C+O,44.099412,6.011255
+040490633M-3,3,Impasse de la Reine Jeanne,04600,Château-Arnoux-Saint-Auban,C+O,44.099419,6.011509
+040490633M-5,5,Impasse de la Reine Jeanne,04600,Château-Arnoux-Saint-Auban,C+O,44.099327,6.011854
 040490635P-10,10,Avenue René Piaton,04600,Château-Arnoux-Saint-Auban,CAD,44.068240,5.989331
 040490635P-1,1,Avenue René Piaton,04600,Château-Arnoux-Saint-Auban,CAD,44.069354,5.990025
 040490635P-12,12,Avenue René Piaton,04600,Château-Arnoux-Saint-Auban,CAD,44.067401,5.989362
@@ -3801,10 +3801,10 @@
 040490708U-895,895,Avenue du Stade,04600,Château-Arnoux-Saint-Auban,C+O,44.068079,5.991941
 040490708U-896,896,Avenue du Stade,04600,Château-Arnoux-Saint-Auban,C+O,44.066663,5.989865
 040490708U-8A,8A,Avenue du Stade,04600,Château-Arnoux-Saint-Auban,C+O,44.071015,5.988866
-040490710W-1,1,Rue des sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070050,5.988920
-040490710W-3,3,Rue des sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070049,5.988932
-040490710W-5,5,Rue des sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070049,5.988944
-040490710W-7,7,Rue des sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070049,5.988957
+040490710W-1,1,Rue des Sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070050,5.988920
+040490710W-3,3,Rue des Sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070049,5.988932
+040490710W-5,5,Rue des Sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070049,5.988944
+040490710W-7,7,Rue des Sycomores,04600,Château-Arnoux-Saint-Auban,C+O,44.070049,5.988957
 040490715B-11,11,Rue Toulouse Lautrec,04600,Château-Arnoux-Saint-Auban,C+O,44.066478,5.985869
 040490715B-1,1,Rue Toulouse Lautrec,04600,Château-Arnoux-Saint-Auban,C+O,44.067080,5.986892
 040490715B-16,16,Rue Toulouse Lautrec,04600,Château-Arnoux-Saint-Auban,C+O,44.065906,5.985542
@@ -10015,8 +10015,10 @@
 041120066X-179,179,Impasse Lucie Aubrac,04100,Manosque,OSM,43.832752,5.802798
 041120066X-49,49,Impasse Lucie Aubrac,04100,Manosque,OSM,43.833884,5.803173
 041120066X-69,69,Impasse Lucie Aubrac,04100,Manosque,OSM,43.833581,5.803409
-041120067Y-112,112,Impasse Augustin Fresnel,04100,Manosque,C+O,43.820048,5.791530
+041120067Y-112,112,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820165,5.791576
 041120067Y-132,132,Impasse Augustin Fresnel,04100,Manosque,C+O,43.819881,5.791880
+041120067Y-19,19,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820681,5.792673
+041120067Y-89,89,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820345,5.792364
 041120070B-10,10,Rue Arthur Robert,04100,Manosque,C+O,43.833064,5.782625
 041120070B-11,11,Rue Arthur Robert,04100,Manosque,C+O,43.833073,5.782760
 041120070B-2,2,Rue Arthur Robert,04100,Manosque,C+O,43.833451,5.782494
@@ -10500,6 +10502,7 @@
 041120172M-166,166,Montée des Chauvinets,04100,Manosque,C+O,43.837362,5.775350
 041120172M-167,167,Montée des Chauvinets,04100,Manosque,C+O,43.836508,5.774395
 041120172M-167A,167A,Montée des Chauvinets,04100,Manosque,C+O,43.835784,5.774338
+041120172M-169,169,Montée des Chauvinets,04100,Manosque,OSM,43.837432,5.774703
 041120172M-190,190,Montée des Chauvinets,04100,Manosque,C+O,43.837607,5.774847
 041120172M-21,21,Montée des Chauvinets,04100,Manosque,OSM,43.837270,5.776775
 041120172M-254,254,Montée des Chauvinets,04100,Manosque,C+O,43.837687,5.774386
@@ -10510,6 +10513,8 @@
 041120172M-501,501,Montée des Chauvinets,04100,Manosque,C+O,43.838459,5.771559
 041120172M-501B,501BIS,Montée des Chauvinets,04100,Manosque,C+O,43.838269,5.771575
 041120172M-501T,501TER,Montée des Chauvinets,04100,Manosque,C+O,43.837990,5.771664
+041120172M-80,80,Montée des Chauvinets,04100,Manosque,OSM,43.837326,5.776017
+041120172M-8,8,Montée des Chauvinets,04100,Manosque,OSM,43.837058,5.775661
 041120173N-101,101,Rue du Clos,04100,Manosque,C+O,43.838263,5.790929
 041120173N-74,74,Rue du Clos,04100,Manosque,C+O,43.838587,5.790976
 041120175R-160,160,Boulevard Charles de Gaulle,04100,Manosque,OSM,43.829574,5.787712
@@ -10560,6 +10565,7 @@
 041120180W-227,227,Boulevard des Combes,04100,Manosque,OSM,43.836823,5.777259
 041120180W-251,251,Boulevard des Combes,04100,Manosque,C+O,43.836846,5.777750
 041120180W-262,262,Boulevard des Combes,04100,Manosque,OSM,43.837082,5.777601
+041120180W-267,267,Boulevard des Combes,04100,Manosque,OSM,43.836946,5.777076
 041120180W-294,294,Boulevard des Combes,04100,Manosque,OSM,43.837271,5.777446
 041120180W-319,319,Boulevard des Combes,04100,Manosque,OSM,43.837341,5.776975
 041120180W-319A,319A,Boulevard des Combes,04100,Manosque,C+O,43.837139,5.776849
@@ -11245,9 +11251,12 @@
 041120385U-994,994,Montée des Genêts,04100,Manosque,C+O,43.846874,5.782866
 041120385U-998,998,Montée des Genêts,04100,Manosque,C+O,43.847762,5.782525
 041120387W-10,10,Allée Georges Bizet,04100,Manosque,CAD,43.821608,5.777268
-041120390Z-37,37,Boulevard Georges Clemenceau,04100,Manosque,C+O,43.837942,5.779895
-041120390Z-67,67,Boulevard Georges Clemenceau,04100,Manosque,C+O,43.837863,5.779608
-041120390Z-77,77,Boulevard Georges Clemenceau,04100,Manosque,C+O,43.837827,5.779468
+041120390Z-152,152,Boulevard Georges Clemenceau,04100,Manosque,OSM,43.837823,5.778360
+041120390Z-198,198,Boulevard Georges Clemenceau,04100,Manosque,OSM,43.837668,5.777933
+041120390Z-216,216,Boulevard Georges Clemenceau,04100,Manosque,OSM,43.837614,5.777709
+041120390Z-37,37,Boulevard Georges Clemenceau,04100,Manosque,OSM,43.837861,5.779784
+041120390Z-67,67,Boulevard Georges Clemenceau,04100,Manosque,OSM,43.837812,5.779633
+041120390Z-77,77,Boulevard Georges Clemenceau,04100,Manosque,OSM,43.837750,5.779520
 041120390Z-97,97,Boulevard Georges Clemenceau,04100,Manosque,C+O,43.837786,5.779261
 041120395E-11,11,Boulevard Georges Pompidou,04100,Manosque,CAD,43.823005,5.785514
 041120395E-1,1,Boulevard Georges Pompidou,04100,Manosque,CAD,43.822320,5.786970
@@ -12859,18 +12868,18 @@
 041120860K-8T,8TER,Rue des Pruniers,04100,Manosque,C+O,43.831716,5.783202
 041120870W-1,1,Rue du 14 Juillet,04100,Manosque,C+O,43.832691,5.782910
 041120870W-35,35,Rue du 14 Juillet,04100,Manosque,C+O,43.832754,5.783055
-041120889S-12,12,Rue des Quintrand,04100,Manosque,C+O,43.833936,5.781519
-041120890T-11,11,Rue des Quintrands,04100,Manosque,CAD,43.833926,5.781638
-041120890T-1,1,Rue des Quintrands,04100,Manosque,CAD,43.834026,5.782073
-041120890T-2,2,Rue des Quintrands,04100,Manosque,CAD,43.834023,5.781892
-041120890T-3,3,Rue des Quintrands,04100,Manosque,CAD,43.833991,5.781901
-041120890T-4,4,Rue des Quintrands,04100,Manosque,CAD,43.834007,5.781796
-041120890T-5,5,Rue des Quintrands,04100,Manosque,CAD,43.833965,5.781803
-041120890T-6,6,Rue des Quintrands,04100,Manosque,CAD,43.833989,5.781729
-041120890T-7,7,Rue des Quintrands,04100,Manosque,CAD,43.833947,5.781733
-041120890T-8,8,Rue des Quintrands,04100,Manosque,CAD,43.833970,5.781654
-041120890T-8B,8BIS,Rue des Quintrands,04100,Manosque,CAD,43.833951,5.781578
-041120890T-9,9,Rue des Quintrands,04100,Manosque,CAD,43.833934,5.781682
+041120889S-12,12,Rue des Quintrand,04100,Manosque,CAD,43.833936,5.781519
+041120890T-11,11,Rue des Quintrands,04100,Manosque,C+O,43.833926,5.781638
+041120890T-1,1,Rue des Quintrands,04100,Manosque,C+O,43.834026,5.782073
+041120890T-2,2,Rue des Quintrands,04100,Manosque,C+O,43.834023,5.781892
+041120890T-3,3,Rue des Quintrands,04100,Manosque,C+O,43.833991,5.781901
+041120890T-4,4,Rue des Quintrands,04100,Manosque,C+O,43.834007,5.781796
+041120890T-5,5,Rue des Quintrands,04100,Manosque,C+O,43.833965,5.781803
+041120890T-6,6,Rue des Quintrands,04100,Manosque,C+O,43.833989,5.781729
+041120890T-7,7,Rue des Quintrands,04100,Manosque,C+O,43.833947,5.781733
+041120890T-8,8,Rue des Quintrands,04100,Manosque,C+O,43.833970,5.781654
+041120890T-8B,8BIS,Rue des Quintrands,04100,Manosque,C+O,43.833951,5.781578
+041120890T-9,9,Rue des Quintrands,04100,Manosque,C+O,43.833934,5.781682
 041120900D-10,10,Rue Raffin,04100,Manosque,C+O,43.830823,5.783544
 041120900D-1,1,Rue Raffin,04100,Manosque,OSM,43.831247,5.783526
 041120900D-12,12,Rue Raffin,04100,Manosque,C+O,43.830685,5.783365
@@ -13615,10 +13624,9 @@
 041121060C-41A,41A,Boulevard des Tilleuls,04100,Manosque,OSM,43.834642,5.785040
 041121060C-41B,41B,Boulevard des Tilleuls,04100,Manosque,OSM,43.834591,5.785118
 041121060C-42,42,Boulevard des Tilleuls,04100,Manosque,OSM,43.834910,5.783855
-041121060C-42B,42BIS,Boulevard des Tilleuls,04100,Manosque,C+O,43.834864,5.783919
+041121060C-42B,42BIS,Boulevard des Tilleuls,04100,Manosque,OSM,43.834621,5.784338
 041121060C-42Q,42QUATER,Boulevard des Tilleuls,04100,Manosque,C+O,43.834855,5.783799
 041121060C-43,43,Boulevard des Tilleuls,04100,Manosque,OSM,43.834401,5.785339
-041121060C-44,44,Boulevard des Tilleuls,04100,Manosque,OSM,43.834621,5.784338
 041121060C-4,4,Boulevard des Tilleuls,04100,Manosque,OSM,43.835367,5.781994
 041121060C-45,45,Boulevard des Tilleuls,04100,Manosque,OSM,43.834342,5.785487
 "041121060C-46,46B","46;46B",Boulevard des Tilleuls,04100,Manosque,OSM,43.834537,5.784884

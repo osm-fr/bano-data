@@ -1819,13 +1819,13 @@
 550830033W-1,1,Chemin de la Maison Brule,55700,Brouennes,CAD,49.516350,5.263949
 550830033W-3,3,Chemin de la Maison Brule,55700,Brouennes,CAD,49.516353,5.264582
 550830035Y-2,2,Sentier du Moulin,55700,Brouennes,CAD,49.516048,5.254455
-550950005N-1,1,Rue du Billet,55700,Cesse,CAD,49.513970,5.157571
-550950005N-2,2,Rue du Billet,55700,Cesse,CAD,49.513998,5.157422
-550950005N-4,4,Rue du Billet,55700,Cesse,CAD,49.513678,5.157057
-550950010U-11,11,Rue de la Chamaille,55700,Cesse,CAD,49.510147,5.155243
-550950010U-3,3,Rue de la Chamaille,55700,Cesse,CAD,49.510682,5.158378
-550950010U-5,5,Rue de la Chamaille,55700,Cesse,CAD,49.510528,5.157345
-550950010U-7,7,Rue de la Chamaille,55700,Cesse,CAD,49.510482,5.157100
+550950005N-1,1,Rue du Billet,55700,Cesse,C+O,49.513970,5.157571
+550950005N-2,2,Rue du Billet,55700,Cesse,C+O,49.513998,5.157422
+550950005N-4,4,Rue du Billet,55700,Cesse,C+O,49.513678,5.157057
+550950010U-11,11,Rue de la Chamaille,55700,Cesse,C+O,49.510147,5.155243
+550950010U-3,3,Rue de la Chamaille,55700,Cesse,C+O,49.510682,5.158378
+550950010U-5,5,Rue de la Chamaille,55700,Cesse,C+O,49.510528,5.157345
+550950010U-7,7,Rue de la Chamaille,55700,Cesse,C+O,49.510482,5.157100
 550950015Z-10,10,Rue La Grande Rue,55700,Cesse,CAD,49.511054,5.159439
 550950015Z-11,11,Rue La Grande Rue,55700,Cesse,CAD,49.512753,5.158956
 550950015Z-11B,11BIS,Rue La Grande Rue,55700,Cesse,CAD,49.512714,5.158744
@@ -1866,30 +1866,30 @@
 550950020E-6,6,Petite Rue La Petite Rue,55700,Cesse,CAD,49.511203,5.157155
 550950020E-7,7,Petite Rue La Petite Rue,55700,Cesse,CAD,49.512853,5.156418
 550950020E-8,8,Petite Rue La Petite Rue,55700,Cesse,CAD,49.511279,5.157127
-550950025K-1,1,Chemin du Prieuré,55700,Cesse,CAD,49.514581,5.158540
-550950030R-11,11,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.511496,5.157790
-550950030R-1,1,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.510816,5.158053
-550950030R-15,15,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.512220,5.157425
-550950030R-17,17,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.512402,5.157325
-550950030R-19,19,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.512756,5.157045
-550950030R-2,2,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.511073,5.158096
-550950030R-2B,2BIS,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.511316,5.158003
-550950030R-4,4,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.511479,5.157946
-550950030R-6,6,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.511817,5.157819
-550950030R-7,7,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.511268,5.157887
-550950030R-8,8,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.512007,5.157722
-550950030R-9,9,Rue du Trou des Hoquettes,55700,Cesse,CAD,49.511411,5.157826
-550950035W-10,10,Rue du Vieux Moulin,55700,Cesse,CAD,49.513703,5.157964
-550950035W-11,11,Rue du Vieux Moulin,55700,Cesse,CAD,49.513521,5.157557
-550950035W-1,1,Rue du Vieux Moulin,55700,Cesse,CAD,49.512542,5.157550
-550950035W-12,12,Rue du Vieux Moulin,55700,Cesse,CAD,49.513914,5.158580
-550950035W-13,13,Rue du Vieux Moulin,55700,Cesse,CAD,49.513793,5.157747
-550950035W-3,3,Rue du Vieux Moulin,55700,Cesse,CAD,49.512554,5.158150
-550950035W-4,4,Rue du Vieux Moulin,55700,Cesse,CAD,49.513141,5.158031
-550950035W-5,5,Rue du Vieux Moulin,55700,Cesse,CAD,49.512786,5.158035
-550950035W-7,7,Rue du Vieux Moulin,55700,Cesse,CAD,49.512965,5.157936
-550950035W-7B,7BIS,Rue du Vieux Moulin,55700,Cesse,CAD,49.513052,5.157884
-550950035W-8,8,Rue du Vieux Moulin,55700,Cesse,CAD,49.513372,5.157853
+550950025K-1,1,Chemin du Prieuré,55700,Cesse,C+O,49.514581,5.158540
+550950030R-11,11,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.511496,5.157790
+550950030R-1,1,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.510816,5.158053
+550950030R-15,15,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.512220,5.157425
+550950030R-17,17,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.512402,5.157325
+550950030R-19,19,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.512756,5.157045
+550950030R-2,2,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.511073,5.158096
+550950030R-2B,2BIS,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.511316,5.158003
+550950030R-4,4,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.511479,5.157946
+550950030R-6,6,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.511817,5.157819
+550950030R-7,7,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.511268,5.157887
+550950030R-8,8,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.512007,5.157722
+550950030R-9,9,Rue du Trou des Hoquettes,55700,Cesse,C+O,49.511411,5.157826
+550950035W-10,10,Rue du Vieux Moulin,55700,Cesse,C+O,49.513703,5.157964
+550950035W-11,11,Rue du Vieux Moulin,55700,Cesse,C+O,49.513521,5.157557
+550950035W-1,1,Rue du Vieux Moulin,55700,Cesse,C+O,49.512542,5.157550
+550950035W-12,12,Rue du Vieux Moulin,55700,Cesse,C+O,49.513914,5.158580
+550950035W-13,13,Rue du Vieux Moulin,55700,Cesse,C+O,49.513793,5.157747
+550950035W-3,3,Rue du Vieux Moulin,55700,Cesse,C+O,49.512554,5.158150
+550950035W-4,4,Rue du Vieux Moulin,55700,Cesse,C+O,49.513141,5.158031
+550950035W-5,5,Rue du Vieux Moulin,55700,Cesse,C+O,49.512786,5.158035
+550950035W-7,7,Rue du Vieux Moulin,55700,Cesse,C+O,49.512965,5.157936
+550950035W-7B,7BIS,Rue du Vieux Moulin,55700,Cesse,C+O,49.513052,5.157884
+550950035W-8,8,Rue du Vieux Moulin,55700,Cesse,C+O,49.513372,5.157853
 550960002F-1,1,Rue de l'Église,55210,Chaillon,CAD,48.947411,5.639471
 550960002F-2,2,Rue de l'Église,55210,Chaillon,CAD,48.947632,5.639920
 550960002F-2B,2BIS,Rue de l'Église,55210,Chaillon,CAD,48.947575,5.639607
@@ -6367,208 +6367,208 @@
 552750025C-7,7,Rue Dés Ponts,55700,Lamouilly,CAD,49.546725,5.233565
 552750025C-8,8,Rue Dés Ponts,55700,Lamouilly,CAD,49.547027,5.233817
 552750025C-9,9,Rue Dés Ponts,55700,Lamouilly,CAD,49.546679,5.233351
-552790005N-10,10,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492246,5.164034
-552790005N-11,11,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492692,5.165024
-552790005N-13,13,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492768,5.165280
-552790005N-2,2,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.491916,5.164266
-552790005N-3,3,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492286,5.163790
-552790005N-4,4,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492000,5.164201
-552790005N-5,5,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492434,5.164039
-552790005N-6,6,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492063,5.164115
-552790005N-7,7,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492483,5.164198
-552790005N-7B,7BIS,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492498,5.164377
-552790005N-9,9,Ancienne Route Ancienne Route,55700,Laneuville-sur-Meuse,CAD,49.492526,5.164465
-552790010U-10,10,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495407,5.159163
-552790010U-11,11,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495957,5.158083
-552790010U-1,1,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.494713,5.159875
-552790010U-12,12,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495564,5.158935
-552790010U-16,16,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495996,5.158308
-552790010U-17,17,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.497438,5.155845
-552790010U-18,18,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.496151,5.158086
-552790010U-20,20,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.496272,5.157911
-552790010U-21,21,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.497478,5.155506
-552790010U-22,22,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.496413,5.157707
-552790010U-2,2,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.494788,5.160060
-552790010U-23,23,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.497950,5.155132
-552790010U-24,24,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.496608,5.157424
-552790010U-25,25,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498075,5.154925
-552790010U-26,26,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.496762,5.157202
-552790010U-27,27,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498330,5.154667
-552790010U-28,28,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.497005,5.156853
-552790010U-29,29,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498626,5.154213
-552790010U-31,31,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498848,5.153891
-552790010U-32,32,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.497432,5.156203
-552790010U-33,33,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.499210,5.153364
-552790010U-3,3,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.494848,5.159685
-552790010U-34,34,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.497636,5.155944
-552790010U-36,36,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498076,5.155303
-552790010U-38,38,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498290,5.154993
-552790010U-40,40,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498523,5.154653
-552790010U-41,41,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.500011,5.152201
-552790010U-42,42,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.498790,5.154264
-552790010U-44,44,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.499006,5.153951
-552790010U-4,4,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.494992,5.159767
-552790010U-46,46,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.499244,5.153606
-552790010U-48,48,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.499486,5.153254
-552790010U-50,50,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.499688,5.152962
-552790010U-5,5,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.494945,5.159540
-552790010U-6,6,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495122,5.159579
-552790010U-7,7,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495121,5.159285
-552790010U-8,8,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495266,5.159368
-552790010U-9,9,Route de Beaumont,55700,Laneuville-sur-Meuse,CAD,49.495685,5.158471
-552790015Z-2,2,Chemin de Blancheron,55700,Laneuville-sur-Meuse,CAD,49.489413,5.158584
-552790015Z-6,6,Chemin de Blancheron,55700,Laneuville-sur-Meuse,CAD,49.490041,5.157704
-552790020E-1,1,Place du Château,55700,Laneuville-sur-Meuse,CAD,49.490522,5.165276
-552790020E-4,4,Place du Château,55700,Laneuville-sur-Meuse,CAD,49.490761,5.166085
-552790020E-6,6,Place du Château,55700,Laneuville-sur-Meuse,CAD,49.490240,5.166542
-552790021F-11,11,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491172,5.164969
-552790021F-1,1,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491647,5.164474
-552790021F-13,13,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491223,5.165080
-552790021F-15,15,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491247,5.165141
-552790021F-17,17,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491029,5.164975
-552790021F-19,19,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.490926,5.165053
-552790021F-2,2,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.490959,5.164707
-552790021F-3,3,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491514,5.164558
-552790021F-5,5,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491333,5.164687
-552790021F-7,7,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491207,5.164799
-552790021F-9,9,Rue du Château,55700,Laneuville-sur-Meuse,CAD,49.491133,5.164873
-552790025K-1,1,Impasse des Chenevières,55700,Laneuville-sur-Meuse,CAD,49.488812,5.159226
-552790025K-2,2,Impasse des Chenevières,55700,Laneuville-sur-Meuse,CAD,49.489026,5.159100
-552790030R-1,1,Rue de l'Église,55700,Laneuville-sur-Meuse,CAD,49.491724,5.163017
-552790030R-3,3,Rue de l'Église,55700,Laneuville-sur-Meuse,CAD,49.491920,5.163669
-552790030R-5,5,Rue de l'Église,55700,Laneuville-sur-Meuse,CAD,49.491960,5.163909
-552790035W-1,1,Chemin des Egyptiens,55700,Laneuville-sur-Meuse,CAD,49.489996,5.166524
-552790040B-1,1,Place du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489011,5.161853
-552790040B-2,2,Place du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488968,5.161891
-552790040B-3,3,Place du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488921,5.161933
-552790040B-4,4,Place du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489111,5.162022
-552790040B-5,5,Place du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488807,5.162051
-552790041C-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489134,5.161464
-552790041C-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489439,5.162867
-552790041C-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489404,5.162459
-552790041C-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489603,5.161354
-552790041C-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489021,5.161510
-552790041C-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489248,5.162720
-552790041C-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488821,5.161551
-552790041C-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488764,5.162275
-552790041C-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488754,5.161560
-552790041C-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488793,5.161946
-552790041C-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488514,5.161574
-552790041C-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488782,5.161903
-552790041C-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488650,5.161931
-552790041C-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488761,5.161805
-552790041C-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488077,5.161679
-552790041C-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489700,5.161140
-552790041C-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488494,5.161731
-552790041C-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.488060,5.161853
-552790041C-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.487858,5.161946
-552790041C-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489474,5.161413
-552790041C-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489265,5.161561
-552790041C-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489369,5.161342
-552790041C-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489268,5.162132
-552790041C-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489234,5.161411
-552790041C-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489302,5.162289
-552790042D-1,1,Ruelle du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489410,5.162298
-552790045G-1,1,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490991,5.163266
-552790045G-2,2,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491024,5.163228
-552790045G-3,3,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491067,5.163178
-552790045G-4,4,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491123,5.163112
-552790045G-5,5,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491175,5.163046
-552790045G-6,6,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491246,5.162953
-552790045G-7,7,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491341,5.162829
-552790045G-8,8,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491413,5.162733
-552790045G-9,9,Place de la Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491512,5.162579
-552790050M-2,2,Rue de la Gare,55700,Laneuville-sur-Meuse,CAD,49.493339,5.170299
-552790050M-4,4,Rue de la Gare,55700,Laneuville-sur-Meuse,CAD,49.493178,5.170674
-552790050M-6,6,Rue de la Gare,55700,Laneuville-sur-Meuse,CAD,49.492715,5.171679
-552790050M-7,7,Rue de la Gare,55700,Laneuville-sur-Meuse,CAD,49.493076,5.171155
-552790060Y-1,1,Rue des Jardins,55700,Laneuville-sur-Meuse,CAD,49.492101,5.165181
-552790060Y-3,3,Rue des Jardins,55700,Laneuville-sur-Meuse,CAD,49.491902,5.165288
-552790060Y-4,4,Rue des Jardins,55700,Laneuville-sur-Meuse,CAD,49.491188,5.165400
-552790065D-12,12,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490095,5.161934
-552790065D-14,14,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490089,5.161795
-552790065D-16,16,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490070,5.161643
-552790065D-2,2,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490810,5.163081
-552790065D-3,3,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490845,5.163446
-552790065D-4,4,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490365,5.162449
-552790065D-5,5,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490803,5.163340
-552790065D-6,6,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490341,5.162411
-552790065D-7,7,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490677,5.163164
-552790065D-8,8,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490299,5.162371
-552790065D-9,9,Rue de la Lieuse,55700,Laneuville-sur-Meuse,CAD,49.490504,5.162912
-552790070J-1,1,Place de la Mairie,55700,Laneuville-sur-Meuse,CAD,49.491347,5.164373
-552790070J-4,4,Place de la Mairie,55700,Laneuville-sur-Meuse,CAD,49.491177,5.164005
-552790070J-5,5,Place de la Mairie,55700,Laneuville-sur-Meuse,CAD,49.491093,5.163803
-552790070J-6,6,Place de la Mairie,55700,Laneuville-sur-Meuse,CAD,49.491066,5.163740
-552790070J-7,7,Place de la Mairie,55700,Laneuville-sur-Meuse,CAD,49.491046,5.163688
-552790075P-12,12,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.492929,5.163294
-552790075P-14,14,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493008,5.163211
-552790075P-16,16,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493093,5.163129
-552790075P-17,17,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493680,5.162426
-552790075P-20,20,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493545,5.162665
-552790075P-22,22,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493700,5.162502
-552790075P-2,2,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.492436,5.163787
-552790075P-23,23,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493769,5.161065
-552790075P-24,24,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493921,5.162256
-552790075P-26,26,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.494118,5.162047
-552790075P-3,3,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.492526,5.163484
-552790075P-4,4,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.492562,5.163662
-552790075P-5,5,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.492725,5.163327
-552790075P-7,7,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.492886,5.163192
-552790075P-8,8,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.492757,5.163472
-552790075P-9,9,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,CAD,49.493037,5.163057
-552790080V-10,10,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490677,5.160908
-552790080V-1,1,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.489989,5.161130
-552790080V-13,13,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490965,5.160606
-552790080V-14,14,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491071,5.160674
-552790080V-16,16,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491265,5.160707
-552790080V-17,17,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491445,5.160908
-552790080V-18,18,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491245,5.160920
-552790080V-19,19,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491441,5.161007
-552790080V-20,20,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.491303,5.160951
-552790080V-2,2,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490210,5.161511
-552790080V-3,3,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490099,5.161072
-552790080V-4,4,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490284,5.161492
-552790080V-5,5,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490237,5.160998
-552790080V-8,8,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490521,5.160992
-552790080V-9,9,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,CAD,49.490546,5.160833
-552790085A-11,11,Petite Rue Petite Rue,55700,Laneuville-sur-Meuse,CAD,49.490512,5.164012
-552790085A-1,1,Petite Rue Petite Rue,55700,Laneuville-sur-Meuse,CAD,49.490655,5.164665
-552790085A-3,3,Petite Rue Petite Rue,55700,Laneuville-sur-Meuse,CAD,49.490607,5.164481
-552790085A-5,5,Petite Rue Petite Rue,55700,Laneuville-sur-Meuse,CAD,49.490575,5.164360
-552790085A-7,7,Petite Rue Petite Rue,55700,Laneuville-sur-Meuse,CAD,49.490553,5.164276
-552790085A-9,9,Petite Rue Petite Rue,55700,Laneuville-sur-Meuse,CAD,49.490534,5.164202
-552790090F-10,10,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489570,5.159693
-552790090F-11,11,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489326,5.159206
-552790090F-1,1,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489724,5.160986
-552790090F-13,13,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489206,5.158676
-552790090F-14,14,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489489,5.159306
-552790090F-2,2,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489883,5.161116
-552790090F-3,3,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489649,5.160613
-552790090F-3B,3BIS,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489637,5.160557
-552790090F-4,4,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489855,5.160989
-552790090F-6,6,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489832,5.160887
-552790090F-9,9,Route de Reims,55700,Laneuville-sur-Meuse,CAD,49.489383,5.159458
-552790095L-2,2,Route de Stenay,55700,Laneuville-sur-Meuse,CAD,49.491831,5.164615
-552790095L-7,7,Route de Stenay,55700,Laneuville-sur-Meuse,CAD,49.493186,5.166688
-552790095L-9,9,Route de Stenay,55700,Laneuville-sur-Meuse,CAD,49.493266,5.167025
-552790095L-9B,9BIS,Route de Stenay,55700,Laneuville-sur-Meuse,CAD,49.493399,5.167398
-552790100S-11,11,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.486074,5.162608
-552790100S-1,1,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.487589,5.162070
-552790100S-14,14,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.486423,5.162326
-552790100S-2,2,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.487444,5.161968
-552790100S-3,3,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.487297,5.162206
-552790100S-4,4,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.487277,5.162044
-552790100S-6,6,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.487072,5.162136
-552790100S-9,9,Route de Wiseppe,55700,Laneuville-sur-Meuse,CAD,49.486415,5.162507
-55279A005H-11,11,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485913,5.161086
-55279A005H-1,1,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485844,5.161962
-55279A005H-2,2,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485657,5.161655
-55279A005H-3,3,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485660,5.162022
-55279A005H-4,4,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485596,5.161215
-55279A005H-5,5,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485596,5.161747
-55279A005H-7,7,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485539,5.161328
-55279A005H-9,9,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,CAD,49.485481,5.160910
+552790005N-10,10,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492246,5.164034
+552790005N-11,11,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492692,5.165024
+552790005N-13,13,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492768,5.165280
+552790005N-2,2,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.491916,5.164266
+552790005N-3,3,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492286,5.163790
+552790005N-4,4,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492000,5.164201
+552790005N-5,5,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492434,5.164039
+552790005N-6,6,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492063,5.164115
+552790005N-7,7,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492483,5.164198
+552790005N-7B,7BIS,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492498,5.164377
+552790005N-9,9,Ancienne Route,55700,Laneuville-sur-Meuse,C+O,49.492526,5.164465
+552790010U-10,10,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495407,5.159163
+552790010U-11,11,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495957,5.158083
+552790010U-1,1,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.494713,5.159875
+552790010U-12,12,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495564,5.158935
+552790010U-16,16,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495996,5.158308
+552790010U-17,17,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.497438,5.155845
+552790010U-18,18,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.496151,5.158086
+552790010U-20,20,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.496272,5.157911
+552790010U-21,21,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.497478,5.155506
+552790010U-22,22,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.496413,5.157707
+552790010U-2,2,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.494788,5.160060
+552790010U-23,23,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.497950,5.155132
+552790010U-24,24,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.496608,5.157424
+552790010U-25,25,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498075,5.154925
+552790010U-26,26,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.496762,5.157202
+552790010U-27,27,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498330,5.154667
+552790010U-28,28,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.497005,5.156853
+552790010U-29,29,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498626,5.154213
+552790010U-31,31,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498848,5.153891
+552790010U-32,32,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.497432,5.156203
+552790010U-33,33,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.499210,5.153364
+552790010U-3,3,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.494848,5.159685
+552790010U-34,34,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.497636,5.155944
+552790010U-36,36,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498076,5.155303
+552790010U-38,38,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498290,5.154993
+552790010U-40,40,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498523,5.154653
+552790010U-41,41,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.500011,5.152201
+552790010U-42,42,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.498790,5.154264
+552790010U-44,44,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.499006,5.153951
+552790010U-4,4,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.494992,5.159767
+552790010U-46,46,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.499244,5.153606
+552790010U-48,48,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.499486,5.153254
+552790010U-50,50,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.499688,5.152962
+552790010U-5,5,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.494945,5.159540
+552790010U-6,6,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495122,5.159579
+552790010U-7,7,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495121,5.159285
+552790010U-8,8,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495266,5.159368
+552790010U-9,9,Route de Beaumont,55700,Laneuville-sur-Meuse,C+O,49.495685,5.158471
+552790015Z-2,2,Chemin de Blancheron,55700,Laneuville-sur-Meuse,C+O,49.489413,5.158584
+552790015Z-6,6,Chemin de Blancheron,55700,Laneuville-sur-Meuse,C+O,49.490041,5.157704
+552790020E-1,1,Place du Château,55700,Laneuville-sur-Meuse,C+O,49.490522,5.165276
+552790020E-4,4,Place du Château,55700,Laneuville-sur-Meuse,C+O,49.490761,5.166085
+552790020E-6,6,Place du Château,55700,Laneuville-sur-Meuse,C+O,49.490240,5.166542
+552790021F-11,11,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491172,5.164969
+552790021F-1,1,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491647,5.164474
+552790021F-13,13,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491223,5.165080
+552790021F-15,15,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491247,5.165141
+552790021F-17,17,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491029,5.164975
+552790021F-19,19,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.490926,5.165053
+552790021F-2,2,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.490959,5.164707
+552790021F-3,3,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491514,5.164558
+552790021F-5,5,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491333,5.164687
+552790021F-7,7,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491207,5.164799
+552790021F-9,9,Rue du Château,55700,Laneuville-sur-Meuse,C+O,49.491133,5.164873
+552790025K-1,1,Impasse des Chenevières,55700,Laneuville-sur-Meuse,C+O,49.488812,5.159226
+552790025K-2,2,Impasse des Chenevières,55700,Laneuville-sur-Meuse,C+O,49.489026,5.159100
+552790030R-1,1,Rue de l'Église,55700,Laneuville-sur-Meuse,C+O,49.491724,5.163017
+552790030R-3,3,Rue de l'Église,55700,Laneuville-sur-Meuse,C+O,49.491920,5.163669
+552790030R-5,5,Rue de l'Église,55700,Laneuville-sur-Meuse,C+O,49.491960,5.163909
+552790035W-1,1,Chemin des Egyptiens,55700,Laneuville-sur-Meuse,C+O,49.489996,5.166524
+552790040B-1,1,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489011,5.161853
+552790040B-2,2,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488968,5.161891
+552790040B-3,3,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488921,5.161933
+552790040B-4,4,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489111,5.162022
+552790040B-5,5,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488807,5.162051
+552790042D-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489134,5.161464
+552790042D-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489439,5.162867
+552790042D-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489404,5.162459
+552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489410,5.162298
+552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489603,5.161354
+552790042D-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489021,5.161510
+552790042D-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489248,5.162720
+552790042D-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488821,5.161551
+552790042D-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488764,5.162275
+552790042D-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488754,5.161560
+552790042D-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488793,5.161946
+552790042D-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488514,5.161574
+552790042D-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488782,5.161903
+552790042D-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488650,5.161931
+552790042D-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488761,5.161805
+552790042D-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488077,5.161679
+552790042D-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489700,5.161140
+552790042D-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488494,5.161731
+552790042D-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488060,5.161853
+552790042D-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.487858,5.161946
+552790042D-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489474,5.161413
+552790042D-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489265,5.161561
+552790042D-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489369,5.161342
+552790042D-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489268,5.162132
+552790042D-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489234,5.161411
+552790042D-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489302,5.162289
+552790045G-1,1,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490991,5.163266
+552790045G-2,2,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491024,5.163228
+552790045G-3,3,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491067,5.163178
+552790045G-4,4,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491123,5.163112
+552790045G-5,5,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491175,5.163046
+552790045G-6,6,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491246,5.162953
+552790045G-7,7,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491341,5.162829
+552790045G-8,8,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491413,5.162733
+552790045G-9,9,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491512,5.162579
+552790050M-2,2,Rue de la Gare,55700,Laneuville-sur-Meuse,C+O,49.493339,5.170299
+552790050M-4,4,Rue de la Gare,55700,Laneuville-sur-Meuse,C+O,49.493178,5.170674
+552790050M-6,6,Rue de la Gare,55700,Laneuville-sur-Meuse,C+O,49.492715,5.171679
+552790050M-7,7,Rue de la Gare,55700,Laneuville-sur-Meuse,C+O,49.493076,5.171155
+552790060Y-1,1,Rue des Jardins,55700,Laneuville-sur-Meuse,C+O,49.492101,5.165181
+552790060Y-3,3,Rue des Jardins,55700,Laneuville-sur-Meuse,C+O,49.491902,5.165288
+552790060Y-4,4,Rue des Jardins,55700,Laneuville-sur-Meuse,C+O,49.491188,5.165400
+552790065D-12,12,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490095,5.161934
+552790065D-14,14,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490089,5.161795
+552790065D-16,16,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490070,5.161643
+552790065D-2,2,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490810,5.163081
+552790065D-3,3,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490845,5.163446
+552790065D-4,4,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490365,5.162449
+552790065D-5,5,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490803,5.163340
+552790065D-6,6,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490341,5.162411
+552790065D-7,7,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490677,5.163164
+552790065D-8,8,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490299,5.162371
+552790065D-9,9,Rue de la Lieuse,55700,Laneuville-sur-Meuse,C+O,49.490504,5.162912
+552790070J-1,1,Place de la Mairie,55700,Laneuville-sur-Meuse,C+O,49.491347,5.164373
+552790070J-4,4,Place de la Mairie,55700,Laneuville-sur-Meuse,C+O,49.491177,5.164005
+552790070J-5,5,Place de la Mairie,55700,Laneuville-sur-Meuse,C+O,49.491093,5.163803
+552790070J-6,6,Place de la Mairie,55700,Laneuville-sur-Meuse,C+O,49.491066,5.163740
+552790070J-7,7,Place de la Mairie,55700,Laneuville-sur-Meuse,C+O,49.491046,5.163688
+552790075P-12,12,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.492929,5.163294
+552790075P-14,14,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493008,5.163211
+552790075P-16,16,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493093,5.163129
+552790075P-17,17,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493680,5.162426
+552790075P-20,20,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493545,5.162665
+552790075P-22,22,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493700,5.162502
+552790075P-2,2,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.492436,5.163787
+552790075P-23,23,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493769,5.161065
+552790075P-24,24,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493921,5.162256
+552790075P-26,26,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.494118,5.162047
+552790075P-3,3,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.492526,5.163484
+552790075P-4,4,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.492562,5.163662
+552790075P-5,5,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.492725,5.163327
+552790075P-7,7,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.492886,5.163192
+552790075P-8,8,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.492757,5.163472
+552790075P-9,9,Rue de la Maison Carrée,55700,Laneuville-sur-Meuse,C+O,49.493037,5.163057
+552790080V-10,10,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490677,5.160908
+552790080V-1,1,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.489989,5.161130
+552790080V-13,13,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490965,5.160606
+552790080V-14,14,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491071,5.160674
+552790080V-16,16,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491265,5.160707
+552790080V-17,17,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491445,5.160908
+552790080V-18,18,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491245,5.160920
+552790080V-19,19,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491441,5.161007
+552790080V-20,20,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491303,5.160951
+552790080V-2,2,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490210,5.161511
+552790080V-3,3,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490099,5.161072
+552790080V-4,4,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490284,5.161492
+552790080V-5,5,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490237,5.160998
+552790080V-8,8,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490521,5.160992
+552790080V-9,9,Rue de la Petite Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490546,5.160833
+552790085A-11,11,Petite Rue,55700,Laneuville-sur-Meuse,C+O,49.490512,5.164012
+552790085A-1,1,Petite Rue,55700,Laneuville-sur-Meuse,C+O,49.490655,5.164665
+552790085A-3,3,Petite Rue,55700,Laneuville-sur-Meuse,C+O,49.490607,5.164481
+552790085A-5,5,Petite Rue,55700,Laneuville-sur-Meuse,C+O,49.490575,5.164360
+552790085A-7,7,Petite Rue,55700,Laneuville-sur-Meuse,C+O,49.490553,5.164276
+552790085A-9,9,Petite Rue,55700,Laneuville-sur-Meuse,C+O,49.490534,5.164202
+552790090F-10,10,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489570,5.159693
+552790090F-11,11,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489326,5.159206
+552790090F-1,1,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489724,5.160986
+552790090F-13,13,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489206,5.158676
+552790090F-14,14,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489489,5.159306
+552790090F-2,2,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489883,5.161116
+552790090F-3,3,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489649,5.160613
+552790090F-3B,3BIS,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489637,5.160557
+552790090F-4,4,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489855,5.160989
+552790090F-6,6,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489832,5.160887
+552790090F-9,9,Route de Reims,55700,Laneuville-sur-Meuse,C+O,49.489383,5.159458
+552790095L-2,2,Route de Stenay,55700,Laneuville-sur-Meuse,C+O,49.491831,5.164615
+552790095L-7,7,Route de Stenay,55700,Laneuville-sur-Meuse,C+O,49.493186,5.166688
+552790095L-9,9,Route de Stenay,55700,Laneuville-sur-Meuse,C+O,49.493266,5.167025
+552790095L-9B,9BIS,Route de Stenay,55700,Laneuville-sur-Meuse,C+O,49.493399,5.167398
+552790100S-11,11,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.486074,5.162608
+552790100S-1,1,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.487589,5.162070
+552790100S-14,14,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.486423,5.162326
+552790100S-2,2,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.487444,5.161968
+552790100S-3,3,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.487297,5.162206
+552790100S-4,4,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.487277,5.162044
+552790100S-6,6,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.487072,5.162136
+552790100S-9,9,Route de Wiseppe,55700,Laneuville-sur-Meuse,C+O,49.486415,5.162507
+55279A095H-11,11,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485913,5.161086
+55279A095H-1,1,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485844,5.161962
+55279A095H-2,2,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485657,5.161655
+55279A095H-3,3,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485660,5.162022
+55279A095H-4,4,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485596,5.161215
+55279A095H-5,5,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485596,5.161747
+55279A095H-7,7,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485539,5.161328
+55279A095H-9,9,Lotissement du Dieulet,55700,Laneuville-sur-Meuse,C+O,49.485481,5.160910
 552910018A-2,2,Impasse de l'Abreuvoir,55500,Ligny-en-Barrois,CAD,48.688067,5.323597
 552910020C-10,10,Rue de l'Abreuvoir,55500,Ligny-en-Barrois,C+O,48.687863,5.324083
 552910020C-11,11,Rue de l'Abreuvoir,55500,Ligny-en-Barrois,C+O,48.687661,5.324283
@@ -12826,27 +12826,27 @@
 555020035B-7,7,Place de l'Artillerie,55700,Stenay,CAD,49.491114,5.187820
 555020035B-9,9,Place de l'Artillerie,55700,Stenay,CAD,49.491099,5.187983
 555020037D-1,1,Rue Barbe,55700,Stenay,CAD,49.491642,5.192484
-555020045M-11,11,Rue Basse des Remparts,55700,Stenay,CAD,49.492319,5.184980
-555020045M-1,1,Rue Basse des Remparts,55700,Stenay,CAD,49.491050,5.185292
-555020045M-13,13,Rue Basse des Remparts,55700,Stenay,CAD,49.492443,5.184999
-555020045M-14,14,Rue Basse des Remparts,55700,Stenay,CAD,49.493289,5.185367
-555020045M-14B,14BIS,Rue Basse des Remparts,55700,Stenay,CAD,49.494396,5.185575
-555020045M-15,15,Rue Basse des Remparts,55700,Stenay,CAD,49.492774,5.185101
-555020045M-15B,15BIS,Rue Basse des Remparts,55700,Stenay,CAD,49.492977,5.185154
-555020045M-15T,15TER,Rue Basse des Remparts,55700,Stenay,CAD,49.493176,5.185185
-555020045M-16,16,Rue Basse des Remparts,55700,Stenay,CAD,49.494579,5.185671
-555020045M-17,17,Rue Basse des Remparts,55700,Stenay,CAD,49.493477,5.185188
-555020045M-18,18,Rue Basse des Remparts,55700,Stenay,CAD,49.494831,5.186072
-555020045M-19,19,Rue Basse des Remparts,55700,Stenay,CAD,49.493831,5.185162
-555020045M-19B,19BIS,Rue Basse des Remparts,55700,Stenay,CAD,49.494226,5.185336
-555020045M-20,20,Rue Basse des Remparts,55700,Stenay,CAD,49.494897,5.186288
-555020045M-21,21,Rue Basse des Remparts,55700,Stenay,CAD,49.494348,5.185429
-555020045M-23,23,Rue Basse des Remparts,55700,Stenay,CAD,49.494838,5.185569
-555020045M-25,25,Rue Basse des Remparts,55700,Stenay,CAD,49.495039,5.186254
-555020045M-8,8,Rue Basse des Remparts,55700,Stenay,CAD,49.492093,5.185327
-555020045M-9,9,Rue Basse des Remparts,55700,Stenay,CAD,49.492103,5.184994
-555020045M-9B,9BIS,Rue Basse des Remparts,55700,Stenay,CAD,49.492155,5.184986
-555020045M-9T,9TER,Rue Basse des Remparts,55700,Stenay,CAD,49.492185,5.184985
+555020045M-11,11,Rue Basse des Remparts,55700,Stenay,C+O,49.492319,5.184980
+555020045M-1,1,Rue Basse des Remparts,55700,Stenay,C+O,49.491050,5.185292
+555020045M-13,13,Rue Basse des Remparts,55700,Stenay,C+O,49.492443,5.184999
+555020045M-14,14,Rue Basse des Remparts,55700,Stenay,C+O,49.493289,5.185367
+555020045M-14B,14BIS,Rue Basse des Remparts,55700,Stenay,C+O,49.494396,5.185575
+555020045M-15,15,Rue Basse des Remparts,55700,Stenay,C+O,49.492774,5.185101
+555020045M-15B,15BIS,Rue Basse des Remparts,55700,Stenay,C+O,49.492977,5.185154
+555020045M-15T,15TER,Rue Basse des Remparts,55700,Stenay,C+O,49.493176,5.185185
+555020045M-16,16,Rue Basse des Remparts,55700,Stenay,C+O,49.494579,5.185671
+555020045M-17,17,Rue Basse des Remparts,55700,Stenay,C+O,49.493477,5.185188
+555020045M-18,18,Rue Basse des Remparts,55700,Stenay,C+O,49.494831,5.186072
+555020045M-19,19,Rue Basse des Remparts,55700,Stenay,C+O,49.493831,5.185162
+555020045M-19B,19BIS,Rue Basse des Remparts,55700,Stenay,C+O,49.494226,5.185336
+555020045M-20,20,Rue Basse des Remparts,55700,Stenay,C+O,49.494897,5.186288
+555020045M-21,21,Rue Basse des Remparts,55700,Stenay,C+O,49.494348,5.185429
+555020045M-23,23,Rue Basse des Remparts,55700,Stenay,C+O,49.494838,5.185569
+555020045M-25,25,Rue Basse des Remparts,55700,Stenay,C+O,49.495039,5.186254
+555020045M-8,8,Rue Basse des Remparts,55700,Stenay,C+O,49.492093,5.185327
+555020045M-9,9,Rue Basse des Remparts,55700,Stenay,C+O,49.492103,5.184994
+555020045M-9B,9BIS,Rue Basse des Remparts,55700,Stenay,C+O,49.492155,5.184986
+555020045M-9T,9TER,Rue Basse des Remparts,55700,Stenay,C+O,49.492185,5.184985
 555020050T-10,10,Rue Beaugrand,55700,Stenay,C+O,49.493347,5.188071
 555020050T-11,11,Rue Beaugrand,55700,Stenay,C+O,49.493244,5.187992
 555020050T-1,1,Rue Beaugrand,55700,Stenay,C+O,49.492773,5.188081
@@ -12898,14 +12898,14 @@
 555020070P-5,5,Rue Carnot,55700,Stenay,C+O,49.491679,5.188694
 555020070P-8,8,Rue Carnot,55700,Stenay,C+O,49.491422,5.188811
 555020070P-9,9,Rue Carnot,55700,Stenay,C+O,49.491890,5.188683
-555020080A-10,10,Rue des Cerisiers,55700,Stenay,CAD,49.496899,5.188015
-555020080A-1,1,Rue des Cerisiers,55700,Stenay,CAD,49.497019,5.188223
-555020080A-2,2,Rue des Cerisiers,55700,Stenay,CAD,49.496921,5.188418
-555020080A-3,3,Rue des Cerisiers,55700,Stenay,CAD,49.497007,5.188092
-555020080A-4,4,Rue des Cerisiers,55700,Stenay,CAD,49.496916,5.188330
-555020080A-5,5,Rue des Cerisiers,55700,Stenay,CAD,49.497002,5.187997
-555020080A-6,6,Rue des Cerisiers,55700,Stenay,CAD,49.496910,5.188219
-555020080A-8,8,Rue des Cerisiers,55700,Stenay,CAD,49.496904,5.188108
+555020080A-10,10,Rue des Cerisiers,55700,Stenay,C+O,49.496899,5.188015
+555020080A-1,1,Rue des Cerisiers,55700,Stenay,C+O,49.497019,5.188223
+555020080A-2,2,Rue des Cerisiers,55700,Stenay,C+O,49.496921,5.188418
+555020080A-3,3,Rue des Cerisiers,55700,Stenay,C+O,49.497007,5.188092
+555020080A-4,4,Rue des Cerisiers,55700,Stenay,C+O,49.496916,5.188330
+555020080A-5,5,Rue des Cerisiers,55700,Stenay,C+O,49.497002,5.187997
+555020080A-6,6,Rue des Cerisiers,55700,Stenay,C+O,49.496910,5.188219
+555020080A-8,8,Rue des Cerisiers,55700,Stenay,C+O,49.496904,5.188108
 555020082C-1,1,Chemin de Cervisy,55700,Stenay,CAD,49.504737,5.183615
 555020082C-16,16,Chemin de Cervisy,55700,Stenay,CAD,49.503062,5.182813
 555020082C-2,2,Chemin de Cervisy,55700,Stenay,CAD,49.504755,5.183440
@@ -12964,34 +12964,34 @@
 555020100X-7,7,Rue de la Citadelle,55700,Stenay,C+O,49.489797,5.187417
 555020100X-8,8,Rue de la Citadelle,55700,Stenay,C+O,49.489466,5.187332
 555020100X-9,9,Rue de la Citadelle,55700,Stenay,C+O,49.489650,5.187438
-555020105C-10,10,Clos Le Clos,55700,Stenay,CAD,49.493872,5.183586
-555020105C-11,11,Clos Le Clos,55700,Stenay,CAD,49.494075,5.182510
-555020105C-1,1,Clos Le Clos,55700,Stenay,CAD,49.493918,5.184627
-555020105C-12,12,Clos Le Clos,55700,Stenay,CAD,49.493870,5.183364
-555020105C-13,13,Clos Le Clos,55700,Stenay,CAD,49.494137,5.182480
-555020105C-14,14,Clos Le Clos,55700,Stenay,CAD,49.493989,5.182793
-555020105C-15,15,Clos Le Clos,55700,Stenay,CAD,49.494300,5.182404
-555020105C-16,16,Clos Le Clos,55700,Stenay,CAD,49.494175,5.182705
-555020105C-17,17,Clos Le Clos,55700,Stenay,CAD,49.494469,5.182545
-555020105C-18,18,Clos Le Clos,55700,Stenay,CAD,49.494479,5.182648
-555020105C-20,20,Clos Le Clos,55700,Stenay,CAD,49.494640,5.182814
-555020105C-21,21,Clos Le Clos,55700,Stenay,CAD,49.494595,5.183870
-555020105C-22,22,Clos Le Clos,55700,Stenay,CAD,49.494742,5.183098
-555020105C-2,2,Clos Le Clos,55700,Stenay,CAD,49.493994,5.184883
-555020105C-23,23,Clos Le Clos,55700,Stenay,CAD,49.494542,5.183932
-555020105C-24,24,Clos Le Clos,55700,Stenay,CAD,49.494579,5.183665
-555020105C-25,25,Clos Le Clos,55700,Stenay,CAD,49.494373,5.183842
-555020105C-26,26,Clos Le Clos,55700,Stenay,CAD,49.494518,5.183627
-555020105C-27,27,Clos Le Clos,55700,Stenay,CAD,49.494277,5.183845
-555020105C-28,28,Clos Le Clos,55700,Stenay,CAD,49.494445,5.183664
-555020105C-30,30,Clos Le Clos,55700,Stenay,CAD,49.494264,5.183737
-555020105C-3,3,Clos Le Clos,55700,Stenay,CAD,49.493913,5.184305
-555020105C-4,4,Clos Le Clos,55700,Stenay,CAD,49.493989,5.184606
-555020105C-5,5,Clos Le Clos,55700,Stenay,CAD,49.493910,5.184074
-555020105C-6,6,Clos Le Clos,55700,Stenay,CAD,49.493984,5.184372
-555020105C-7B,7BIS,Clos Le Clos,55700,Stenay,CAD,49.493775,5.183442
-555020105C-8,8,Clos Le Clos,55700,Stenay,CAD,49.493981,5.184117
-555020105C-9,9,Clos Le Clos,55700,Stenay,CAD,49.493956,5.182698
+555020105C-10,10,Rue le Clos,55700,Stenay,C+O,49.493872,5.183586
+555020105C-11,11,Rue le Clos,55700,Stenay,C+O,49.494075,5.182510
+555020105C-1,1,Rue le Clos,55700,Stenay,C+O,49.493918,5.184627
+555020105C-12,12,Rue le Clos,55700,Stenay,C+O,49.493870,5.183364
+555020105C-13,13,Rue le Clos,55700,Stenay,C+O,49.494137,5.182480
+555020105C-14,14,Rue le Clos,55700,Stenay,C+O,49.493989,5.182793
+555020105C-15,15,Rue le Clos,55700,Stenay,C+O,49.494300,5.182404
+555020105C-16,16,Rue le Clos,55700,Stenay,C+O,49.494175,5.182705
+555020105C-17,17,Rue le Clos,55700,Stenay,C+O,49.494469,5.182545
+555020105C-18,18,Rue le Clos,55700,Stenay,C+O,49.494479,5.182648
+555020105C-20,20,Rue le Clos,55700,Stenay,C+O,49.494640,5.182814
+555020105C-21,21,Rue le Clos,55700,Stenay,C+O,49.494595,5.183870
+555020105C-22,22,Rue le Clos,55700,Stenay,C+O,49.494742,5.183098
+555020105C-2,2,Rue le Clos,55700,Stenay,C+O,49.493994,5.184883
+555020105C-23,23,Rue le Clos,55700,Stenay,C+O,49.494542,5.183932
+555020105C-24,24,Rue le Clos,55700,Stenay,C+O,49.494579,5.183665
+555020105C-25,25,Rue le Clos,55700,Stenay,C+O,49.494373,5.183842
+555020105C-26,26,Rue le Clos,55700,Stenay,C+O,49.494518,5.183627
+555020105C-27,27,Rue le Clos,55700,Stenay,C+O,49.494277,5.183845
+555020105C-28,28,Rue le Clos,55700,Stenay,C+O,49.494445,5.183664
+555020105C-30,30,Rue le Clos,55700,Stenay,C+O,49.494264,5.183737
+555020105C-3,3,Rue le Clos,55700,Stenay,C+O,49.493913,5.184305
+555020105C-4,4,Rue le Clos,55700,Stenay,C+O,49.493989,5.184606
+555020105C-5,5,Rue le Clos,55700,Stenay,C+O,49.493910,5.184074
+555020105C-6,6,Rue le Clos,55700,Stenay,C+O,49.493984,5.184372
+555020105C-7B,7BIS,Rue le Clos,55700,Stenay,C+O,49.493775,5.183442
+555020105C-8,8,Rue le Clos,55700,Stenay,C+O,49.493981,5.184117
+555020105C-9,9,Rue le Clos,55700,Stenay,C+O,49.493956,5.182698
 555020106D-10,10,Rue de la Grande Corne,55700,Stenay,C+O,49.489875,5.196667
 555020106D-11,11,Rue de la Grande Corne,55700,Stenay,C+O,49.489894,5.196572
 555020106D-1,1,Rue de la Grande Corne,55700,Stenay,C+O,49.489656,5.194786
@@ -13095,23 +13095,23 @@
 555020155G-3,3,Rue Général Marguerite,55700,Stenay,CAD,49.491847,5.187600
 555020155G-4,4,Rue Général Marguerite,55700,Stenay,CAD,49.491756,5.187307
 555020155G-8,8,Rue Général Marguerite,55700,Stenay,CAD,49.491783,5.187435
-555020156H-11,11,Rue du Docteur Ginestet,55700,Stenay,CAD,49.495745,5.187823
-555020156H-1,1,Rue du Docteur Ginestet,55700,Stenay,CAD,49.495333,5.187898
-555020156H-13,13,Rue du Docteur Ginestet,55700,Stenay,CAD,49.495864,5.187801
-555020156H-15,15,Rue du Docteur Ginestet,55700,Stenay,CAD,49.495928,5.187790
-555020156H-17,17,Rue du Docteur Ginestet,55700,Stenay,CAD,49.496037,5.187770
-555020156H-19,19,Rue du Docteur Ginestet,55700,Stenay,CAD,49.496095,5.187760
-555020156H-21,21,Rue du Docteur Ginestet,55700,Stenay,CAD,49.496231,5.187735
-555020156H-23,23,Rue du Docteur Ginestet,55700,Stenay,CAD,49.496299,5.187722
-555020156H-25,25,Rue du Docteur Ginestet,55700,Stenay,CAD,49.496410,5.187701
-555020156H-29,29,Rue du Docteur Ginestet,55700,Stenay,CAD,49.496575,5.187670
-555020156H-31,31,Rue du Docteur Ginestet,55700,Stenay,CAD,49.496649,5.187656
-555020156H-5,5,Rue du Docteur Ginestet,55700,Stenay,CAD,49.495508,5.187866
-555020156H-7,7,Rue du Docteur Ginestet,55700,Stenay,CAD,49.495577,5.187854
-555020156H-9,9,Rue du Docteur Ginestet,55700,Stenay,CAD,49.495684,5.187834
-555020157J-1,1,Rue des Glaieuls,55700,Stenay,CAD,49.497228,5.189198
-555020157J-2,2,Rue des Glaieuls,55700,Stenay,CAD,49.497346,5.189160
-555020157J-4,4,Rue des Glaieuls,55700,Stenay,CAD,49.497348,5.189333
+555020156H-11,11,Rue du Docteur Ginestet,55700,Stenay,C+O,49.495745,5.187823
+555020156H-1,1,Rue du Docteur Ginestet,55700,Stenay,C+O,49.495333,5.187898
+555020156H-13,13,Rue du Docteur Ginestet,55700,Stenay,C+O,49.495864,5.187801
+555020156H-15,15,Rue du Docteur Ginestet,55700,Stenay,C+O,49.495928,5.187790
+555020156H-17,17,Rue du Docteur Ginestet,55700,Stenay,C+O,49.496037,5.187770
+555020156H-19,19,Rue du Docteur Ginestet,55700,Stenay,C+O,49.496095,5.187760
+555020156H-21,21,Rue du Docteur Ginestet,55700,Stenay,C+O,49.496231,5.187735
+555020156H-23,23,Rue du Docteur Ginestet,55700,Stenay,C+O,49.496299,5.187722
+555020156H-25,25,Rue du Docteur Ginestet,55700,Stenay,C+O,49.496410,5.187701
+555020156H-29,29,Rue du Docteur Ginestet,55700,Stenay,C+O,49.496575,5.187670
+555020156H-31,31,Rue du Docteur Ginestet,55700,Stenay,C+O,49.496649,5.187656
+555020156H-5,5,Rue du Docteur Ginestet,55700,Stenay,C+O,49.495508,5.187866
+555020156H-7,7,Rue du Docteur Ginestet,55700,Stenay,C+O,49.495577,5.187854
+555020156H-9,9,Rue du Docteur Ginestet,55700,Stenay,C+O,49.495684,5.187834
+555020157J-1,1,Rue des Gaïeuls,55700,Stenay,C+O,49.497228,5.189198
+555020157J-2,2,Rue des Gaïeuls,55700,Stenay,C+O,49.497346,5.189160
+555020157J-4,4,Rue des Gaïeuls,55700,Stenay,C+O,49.497348,5.189333
 555020162P-1,1,Chemin de la Haie Marron,55700,Stenay,CAD,49.507965,5.186101
 555020162P-2,2,Chemin de la Haie Marron,55700,Stenay,CAD,49.507920,5.186160
 555020162P-4,4,Chemin de la Haie Marron,55700,Stenay,CAD,49.508000,5.186314
@@ -13155,12 +13155,12 @@
 555020170Y-6,6,Rue de l'Hôpital,55700,Stenay,C+O,49.490915,5.186309
 555020170Y-7,7,Rue de l'Hôpital,55700,Stenay,C+O,49.490931,5.186155
 555020170Y-8,8,Rue de l'Hôpital,55700,Stenay,C+O,49.491006,5.186297
-555020175D-1,1,Rue des Iris,55700,Stenay,CAD,49.497857,5.188800
-555020175D-2,2,Rue des Iris,55700,Stenay,CAD,49.497907,5.188662
-555020175D-3,3,Rue des Iris,55700,Stenay,CAD,49.497778,5.189112
-555020175D-4,4,Rue des Iris,55700,Stenay,CAD,49.497949,5.188945
-555020175D-5,5,Rue des Iris,55700,Stenay,CAD,49.497881,5.189173
-555020175D-6,6,Rue des Iris,55700,Stenay,CAD,49.497973,5.189113
+555020175D-1,1,Rue des Iris,55700,Stenay,C+O,49.497857,5.188800
+555020175D-2,2,Rue des Iris,55700,Stenay,C+O,49.497907,5.188662
+555020175D-3,3,Rue des Iris,55700,Stenay,C+O,49.497778,5.189112
+555020175D-4,4,Rue des Iris,55700,Stenay,C+O,49.497949,5.188945
+555020175D-5,5,Rue des Iris,55700,Stenay,C+O,49.497881,5.189173
+555020175D-6,6,Rue des Iris,55700,Stenay,C+O,49.497973,5.189113
 555020185P-11,11,Place Jean Ancel,55700,Stenay,C+O,49.491587,5.186585
 555020185P-1,1,Place Jean Ancel,55700,Stenay,C+O,49.491530,5.185912
 555020185P-9,9,Place Jean Ancel,55700,Stenay,C+O,49.491578,5.186478
@@ -13227,27 +13227,27 @@
 555020200F-2,2,Rue Jeanne d'Arc,55700,Stenay,C+O,49.491629,5.186273
 555020200F-4,4,Rue Jeanne d'Arc,55700,Stenay,C+O,49.491663,5.186234
 555020200F-8,8,Rue Jeanne d'Arc,55700,Stenay,C+O,49.491721,5.186217
-555020202H-10,10,Rue du Jolibois,55700,Stenay,CAD,49.499479,5.188273
-555020202H-11,11,Rue du Jolibois,55700,Stenay,CAD,49.499047,5.187961
-555020202H-1,1,Rue du Jolibois,55700,Stenay,CAD,49.500118,5.187842
-555020202H-12,12,Rue du Jolibois,55700,Stenay,CAD,49.499294,5.188287
-555020202H-2,2,Rue du Jolibois,55700,Stenay,CAD,49.500209,5.187928
-555020202H-3,3,Rue du Jolibois,55700,Stenay,CAD,49.499990,5.187935
-555020202H-4,4,Rue du Jolibois,55700,Stenay,CAD,49.500016,5.188026
-555020202H-5,5,Rue du Jolibois,55700,Stenay,CAD,49.499827,5.188028
-555020202H-7,7,Rue du Jolibois,55700,Stenay,CAD,49.499643,5.188097
-555020202H-8,8,Rue du Jolibois,55700,Stenay,CAD,49.499654,5.188232
-555020202H-9,9,Rue du Jolibois,55700,Stenay,CAD,49.499406,5.188145
-555020203J-10,10,Rue des Jonquilles,55700,Stenay,CAD,49.498573,5.188689
-555020203J-1,1,Rue des Jonquilles,55700,Stenay,CAD,49.498949,5.188356
-555020203J-12,12,Rue des Jonquilles,55700,Stenay,CAD,49.498443,5.188847
-555020203J-14,14,Rue des Jonquilles,55700,Stenay,CAD,49.498350,5.188914
-555020203J-3,3,Rue des Jonquilles,55700,Stenay,CAD,49.498735,5.188421
-555020203J-4,4,Rue des Jonquilles,55700,Stenay,CAD,49.499092,5.188428
-555020203J-5,5,Rue des Jonquilles,55700,Stenay,CAD,49.498593,5.188513
-555020203J-6,6,Rue des Jonquilles,55700,Stenay,CAD,49.498937,5.188498
-555020203J-7,7,Rue des Jonquilles,55700,Stenay,CAD,49.498348,5.188607
-555020203J-8,8,Rue des Jonquilles,55700,Stenay,CAD,49.498744,5.188560
+555020202H-10,10,Rue du Jolibois,55700,Stenay,C+O,49.499479,5.188273
+555020202H-11,11,Rue du Jolibois,55700,Stenay,C+O,49.499047,5.187961
+555020202H-1,1,Rue du Jolibois,55700,Stenay,C+O,49.500118,5.187842
+555020202H-12,12,Rue du Jolibois,55700,Stenay,C+O,49.499294,5.188287
+555020202H-2,2,Rue du Jolibois,55700,Stenay,C+O,49.500209,5.187928
+555020202H-3,3,Rue du Jolibois,55700,Stenay,C+O,49.499990,5.187935
+555020202H-4,4,Rue du Jolibois,55700,Stenay,C+O,49.500016,5.188026
+555020202H-5,5,Rue du Jolibois,55700,Stenay,C+O,49.499827,5.188028
+555020202H-7,7,Rue du Jolibois,55700,Stenay,C+O,49.499643,5.188097
+555020202H-8,8,Rue du Jolibois,55700,Stenay,C+O,49.499654,5.188232
+555020202H-9,9,Rue du Jolibois,55700,Stenay,C+O,49.499406,5.188145
+555020203J-10,10,Rue des Jonquilles,55700,Stenay,C+O,49.498573,5.188689
+555020203J-1,1,Rue des Jonquilles,55700,Stenay,C+O,49.498949,5.188356
+555020203J-12,12,Rue des Jonquilles,55700,Stenay,C+O,49.498443,5.188847
+555020203J-14,14,Rue des Jonquilles,55700,Stenay,C+O,49.498350,5.188914
+555020203J-3,3,Rue des Jonquilles,55700,Stenay,C+O,49.498735,5.188421
+555020203J-4,4,Rue des Jonquilles,55700,Stenay,C+O,49.499092,5.188428
+555020203J-5,5,Rue des Jonquilles,55700,Stenay,C+O,49.498593,5.188513
+555020203J-6,6,Rue des Jonquilles,55700,Stenay,C+O,49.498937,5.188498
+555020203J-7,7,Rue des Jonquilles,55700,Stenay,C+O,49.498348,5.188607
+555020203J-8,8,Rue des Jonquilles,55700,Stenay,C+O,49.498744,5.188560
 555020205L-1,1,Place Jules Ferry,55700,Stenay,C+O,49.490713,5.186841
 555020205L-12,12,Place Jules Ferry,55700,Stenay,C+O,49.490438,5.186858
 555020205L-14,14,Place Jules Ferry,55700,Stenay,C+O,49.490416,5.186933
@@ -13477,104 +13477,104 @@
 555020285Y-7,7,Rue Porte de Bourgogne,55700,Stenay,CAD,49.492181,5.191372
 555020285Y-8,8,Rue Porte de Bourgogne,55700,Stenay,CAD,49.492077,5.191850
 555020285Y-9,9,Rue Porte de Bourgogne,55700,Stenay,CAD,49.492191,5.191535
-555020290D-5,5,Place Porte de France,55700,Stenay,CAD,49.490715,5.184873
-555020290D-7,7,Place Porte de France,55700,Stenay,CAD,49.490761,5.185063
-555020290D-9,9,Place Porte de France,55700,Stenay,CAD,49.490792,5.185208
-555020300P-2,2,Rue des Primevères,55700,Stenay,CAD,49.497870,5.187650
-555020300P-4,4,Rue des Primevères,55700,Stenay,CAD,49.497841,5.187413
-555020300P-5,5,Rue des Primevères,55700,Stenay,CAD,49.497930,5.187118
-555020300P-6,6,Rue des Primevères,55700,Stenay,CAD,49.497783,5.187108
-555020300P-7,7,Rue des Primevères,55700,Stenay,CAD,49.497944,5.187001
-555020300P-9,9,Rue des Primevères,55700,Stenay,CAD,49.497960,5.186874
-555020307X-11,11,Rue du Général Radet,55700,Stenay,CAD,49.496385,5.186190
-555020307X-1,1,Rue du Général Radet,55700,Stenay,CAD,49.496578,5.186565
-555020307X-13,13,Rue du Général Radet,55700,Stenay,CAD,49.496281,5.185828
-555020307X-15,15,Rue du Général Radet,55700,Stenay,CAD,49.496414,5.186069
-555020307X-17,17,Rue du Général Radet,55700,Stenay,CAD,49.496469,5.185329
-555020307X-3,3,Rue du Général Radet,55700,Stenay,CAD,49.496513,5.186446
-555020307X-4,4,Rue du Général Radet,55700,Stenay,CAD,49.496607,5.185537
-555020307X-5,5,Rue du Général Radet,55700,Stenay,CAD,49.496478,5.186376
-555020307X-6,6,Rue du Général Radet,55700,Stenay,CAD,49.496541,5.185294
-555020307X-7,7,Rue du Général Radet,55700,Stenay,CAD,49.496449,5.186316
-555020307X-9,9,Rue du Général Radet,55700,Stenay,CAD,49.496420,5.186259
-555020310A-10,10,Place Raymond Poincaré,55700,Stenay,C+O,49.491976,5.188896
-555020310A-11,11,Place Raymond Poincaré,55700,Stenay,C+O,49.492185,5.189157
-555020310A-1,1,Place Raymond Poincaré,55700,Stenay,C+O,49.492228,5.188537
-555020310A-12,12,Place Raymond Poincaré,55700,Stenay,C+O,49.491980,5.189010
-555020310A-13,13,Place Raymond Poincaré,55700,Stenay,C+O,49.491984,5.189111
-555020310A-16,16,Place Raymond Poincaré,55700,Stenay,C+O,49.491989,5.189226
-555020310A-17,17,Place Raymond Poincaré,55700,Stenay,C+O,49.491992,5.189323
-555020310A-19,19,Place Raymond Poincaré,55700,Stenay,C+O,49.491994,5.189404
-555020310A-2,2,Place Raymond Poincaré,55700,Stenay,C+O,49.491917,5.188298
-555020310A-6,6,Place Raymond Poincaré,55700,Stenay,C+O,49.491958,5.188490
-555020310A-7,7,Place Raymond Poincaré,55700,Stenay,C+O,49.492183,5.188947
-555020310A-9,9,Place Raymond Poincaré,55700,Stenay,C+O,49.492184,5.189061
-555020315F-10,10,Place de la République,55700,Stenay,C+O,49.492322,5.188926
-555020315F-11,11,Place de la République,55700,Stenay,C+O,49.492325,5.188174
-555020315F-1,1,Place de la République,55700,Stenay,C+O,49.492014,5.188259
-555020315F-13,13,Place de la République,55700,Stenay,C+O,49.492488,5.188142
-555020315F-17,17,Place de la République,55700,Stenay,C+O,49.492551,5.187924
-555020315F-19,19,Place de la République,55700,Stenay,C+O,49.492711,5.188271
-555020315F-21,21,Place de la République,55700,Stenay,C+O,49.492713,5.188375
-555020315F-25,25,Place de la République,55700,Stenay,C+O,49.492722,5.188561
-555020315F-31,31,Place de la République,55700,Stenay,C+O,49.492727,5.188778
-555020315F-33,33,Place de la République,55700,Stenay,C+O,49.492727,5.188882
-555020315F-3,3,Place de la République,55700,Stenay,C+O,49.492093,5.188286
-555020315F-35,35,Place de la République,55700,Stenay,C+O,49.492727,5.188987
-555020315F-37,37,Place de la République,55700,Stenay,C+O,49.492732,5.189088
-555020315F-39,39,Place de la République,55700,Stenay,C+O,49.492738,5.189179
-555020315F-41,41,Place de la République,55700,Stenay,C+O,49.492746,5.189271
-555020315F-45,45,Place de la République,55700,Stenay,C+O,49.492616,5.189527
-555020315F-49,49,Place de la République,55700,Stenay,C+O,49.492479,5.189553
-555020315F-51,51,Place de la République,55700,Stenay,C+O,49.492452,5.189558
-555020315F-53,53,Place de la République,55700,Stenay,C+O,49.492344,5.189566
-555020315F-55,55,Place de la République,55700,Stenay,C+O,49.492283,5.189570
-555020315F-5,5,Place de la République,55700,Stenay,C+O,49.492146,5.188276
-555020315F-57,57,Place de la République,55700,Stenay,C+O,49.492181,5.189581
-555020315F-7,7,Place de la République,55700,Stenay,C+O,49.492184,5.188269
-555020315F-8,8,Place de la République,55700,Stenay,C+O,49.492327,5.188696
-555020315F-9,9,Place de la République,55700,Stenay,C+O,49.492230,5.188256
+555020290D-5,5,Place Porte de France,55700,Stenay,C+O,49.490715,5.184873
+555020290D-7,7,Place Porte de France,55700,Stenay,C+O,49.490761,5.185063
+555020290D-9,9,Place Porte de France,55700,Stenay,C+O,49.490792,5.185208
+555020300P-2,2,Rue des Primevères,55700,Stenay,C+O,49.497870,5.187650
+555020300P-4,4,Rue des Primevères,55700,Stenay,C+O,49.497841,5.187413
+555020300P-5,5,Rue des Primevères,55700,Stenay,C+O,49.497930,5.187118
+555020300P-6,6,Rue des Primevères,55700,Stenay,C+O,49.497783,5.187108
+555020300P-7,7,Rue des Primevères,55700,Stenay,C+O,49.497944,5.187001
+555020300P-9,9,Rue des Primevères,55700,Stenay,C+O,49.497960,5.186874
+555020307X-11,11,Rue du Général Radet,55700,Stenay,C+O,49.496385,5.186190
+555020307X-1,1,Rue du Général Radet,55700,Stenay,C+O,49.496578,5.186565
+555020307X-13,13,Rue du Général Radet,55700,Stenay,C+O,49.496281,5.185828
+555020307X-15,15,Rue du Général Radet,55700,Stenay,C+O,49.496414,5.186069
+555020307X-17,17,Rue du Général Radet,55700,Stenay,C+O,49.496469,5.185329
+555020307X-3,3,Rue du Général Radet,55700,Stenay,C+O,49.496513,5.186446
+555020307X-4,4,Rue du Général Radet,55700,Stenay,C+O,49.496607,5.185537
+555020307X-5,5,Rue du Général Radet,55700,Stenay,C+O,49.496478,5.186376
+555020307X-6,6,Rue du Général Radet,55700,Stenay,C+O,49.496541,5.185294
+555020307X-7,7,Rue du Général Radet,55700,Stenay,C+O,49.496449,5.186316
+555020307X-9,9,Rue du Général Radet,55700,Stenay,C+O,49.496420,5.186259
+555020310A-10,10,Place Raymond Poincaré,55700,Stenay,CAD,49.491976,5.188896
+555020310A-11,11,Place Raymond Poincaré,55700,Stenay,CAD,49.492185,5.189157
+555020310A-1,1,Place Raymond Poincaré,55700,Stenay,CAD,49.492228,5.188537
+555020310A-12,12,Place Raymond Poincaré,55700,Stenay,CAD,49.491980,5.189010
+555020310A-13,13,Place Raymond Poincaré,55700,Stenay,CAD,49.491984,5.189111
+555020310A-16,16,Place Raymond Poincaré,55700,Stenay,CAD,49.491989,5.189226
+555020310A-17,17,Place Raymond Poincaré,55700,Stenay,CAD,49.491992,5.189323
+555020310A-19,19,Place Raymond Poincaré,55700,Stenay,CAD,49.491994,5.189404
+555020310A-2,2,Place Raymond Poincaré,55700,Stenay,CAD,49.491917,5.188298
+555020310A-6,6,Place Raymond Poincaré,55700,Stenay,CAD,49.491958,5.188490
+555020310A-7,7,Place Raymond Poincaré,55700,Stenay,CAD,49.492183,5.188947
+555020310A-9,9,Place Raymond Poincaré,55700,Stenay,CAD,49.492184,5.189061
+555020315F-10,10,Place de la République,55700,Stenay,CAD,49.492322,5.188926
+555020315F-11,11,Place de la République,55700,Stenay,CAD,49.492325,5.188174
+555020315F-1,1,Place de la République,55700,Stenay,CAD,49.492014,5.188259
+555020315F-13,13,Place de la République,55700,Stenay,CAD,49.492488,5.188142
+555020315F-17,17,Place de la République,55700,Stenay,CAD,49.492551,5.187924
+555020315F-19,19,Place de la République,55700,Stenay,CAD,49.492711,5.188271
+555020315F-21,21,Place de la République,55700,Stenay,CAD,49.492713,5.188375
+555020315F-25,25,Place de la République,55700,Stenay,CAD,49.492722,5.188561
+555020315F-31,31,Place de la République,55700,Stenay,CAD,49.492727,5.188778
+555020315F-33,33,Place de la République,55700,Stenay,CAD,49.492727,5.188882
+555020315F-3,3,Place de la République,55700,Stenay,CAD,49.492093,5.188286
+555020315F-35,35,Place de la République,55700,Stenay,CAD,49.492727,5.188987
+555020315F-37,37,Place de la République,55700,Stenay,CAD,49.492732,5.189088
+555020315F-39,39,Place de la République,55700,Stenay,CAD,49.492738,5.189179
+555020315F-41,41,Place de la République,55700,Stenay,CAD,49.492746,5.189271
+555020315F-45,45,Place de la République,55700,Stenay,CAD,49.492616,5.189527
+555020315F-49,49,Place de la République,55700,Stenay,CAD,49.492479,5.189553
+555020315F-51,51,Place de la République,55700,Stenay,CAD,49.492452,5.189558
+555020315F-53,53,Place de la République,55700,Stenay,CAD,49.492344,5.189566
+555020315F-55,55,Place de la République,55700,Stenay,CAD,49.492283,5.189570
+555020315F-5,5,Place de la République,55700,Stenay,CAD,49.492146,5.188276
+555020315F-57,57,Place de la République,55700,Stenay,CAD,49.492181,5.189581
+555020315F-7,7,Place de la République,55700,Stenay,CAD,49.492184,5.188269
+555020315F-8,8,Place de la République,55700,Stenay,CAD,49.492327,5.188696
+555020315F-9,9,Place de la République,55700,Stenay,CAD,49.492230,5.188256
 555020320L-1,1,Chemin des Roches,55700,Stenay,CAD,49.504114,5.187101
 555020320L-2,2,Chemin des Roches,55700,Stenay,CAD,49.504053,5.187134
 555020320L-4,4,Chemin des Roches,55700,Stenay,CAD,49.504020,5.187604
 555020320L-6,6,Chemin des Roches,55700,Stenay,CAD,49.503999,5.188017
-555020325S-10,10,Rue des Rosiers,55700,Stenay,CAD,49.497621,5.188271
-555020325S-11,11,Rue des Rosiers,55700,Stenay,CAD,49.496703,5.189190
-555020325S-1,1,Rue des Rosiers,55700,Stenay,CAD,49.496348,5.189402
-555020325S-12,12,Rue des Rosiers,55700,Stenay,CAD,49.497814,5.188166
-555020325S-13,13,Rue des Rosiers,55700,Stenay,CAD,49.496766,5.189199
-555020325S-14,14,Rue des Rosiers,55700,Stenay,CAD,49.498163,5.187700
-555020325S-15,15,Rue des Rosiers,55700,Stenay,CAD,49.496820,5.189206
-555020325S-16,16,Rue des Rosiers,55700,Stenay,CAD,49.498241,5.187675
-555020325S-17,17,Rue des Rosiers,55700,Stenay,CAD,49.496828,5.189139
-555020325S-18,18,Rue des Rosiers,55700,Stenay,CAD,49.498327,5.187648
-555020325S-19,19,Rue des Rosiers,55700,Stenay,CAD,49.496823,5.189078
-555020325S-20,20,Rue des Rosiers,55700,Stenay,CAD,49.498409,5.187620
-555020325S-21,21,Rue des Rosiers,55700,Stenay,CAD,49.497082,5.188819
-555020325S-22,22,Rue des Rosiers,55700,Stenay,CAD,49.498480,5.187597
-555020325S-2,2,Rue des Rosiers,55700,Stenay,CAD,49.496842,5.188847
-555020325S-23,23,Rue des Rosiers,55700,Stenay,CAD,49.497366,5.188622
-555020325S-24,24,Rue des Rosiers,55700,Stenay,CAD,49.498537,5.187599
-555020325S-25,25,Rue des Rosiers,55700,Stenay,CAD,49.497539,5.188485
-555020325S-26,26,Rue des Rosiers,55700,Stenay,CAD,49.498565,5.187588
-555020325S-27,27,Rue des Rosiers,55700,Stenay,CAD,49.497687,5.188361
-555020325S-29,29,Rue des Rosiers,55700,Stenay,CAD,49.497958,5.188229
-555020325S-33,33,Rue des Rosiers,55700,Stenay,CAD,49.498217,5.187816
-555020325S-3,3,Rue des Rosiers,55700,Stenay,CAD,49.496333,5.189293
-555020325S-35,35,Rue des Rosiers,55700,Stenay,CAD,49.498432,5.187744
-555020325S-37,37,Rue des Rosiers,55700,Stenay,CAD,49.498615,5.187683
-555020325S-39,39,Rue des Rosiers,55700,Stenay,CAD,49.499120,5.187331
-555020325S-41,41,Rue des Rosiers,55700,Stenay,CAD,49.499308,5.187346
-555020325S-43,43,Rue des Rosiers,55700,Stenay,CAD,49.499492,5.187305
-555020325S-4,4,Rue des Rosiers,55700,Stenay,CAD,49.496902,5.188805
-555020325S-45,45,Rue des Rosiers,55700,Stenay,CAD,49.499683,5.187214
-555020325S-47,47,Rue des Rosiers,55700,Stenay,CAD,49.499850,5.187134
-555020325S-49,49,Rue des Rosiers,55700,Stenay,CAD,49.500032,5.187054
-555020325S-5,5,Rue des Rosiers,55700,Stenay,CAD,49.496327,5.189227
-555020325S-6,6,Rue des Rosiers,55700,Stenay,CAD,49.496975,5.188755
-555020325S-7,7,Rue des Rosiers,55700,Stenay,CAD,49.496563,5.189174
-555020325S-8,8,Rue des Rosiers,55700,Stenay,CAD,49.497183,5.188593
-555020325S-9,9,Rue des Rosiers,55700,Stenay,CAD,49.496637,5.189182
+555020325S-10,10,Rue des Rosiers,55700,Stenay,C+O,49.497621,5.188271
+555020325S-11,11,Rue des Rosiers,55700,Stenay,C+O,49.496703,5.189190
+555020325S-1,1,Rue des Rosiers,55700,Stenay,C+O,49.496348,5.189402
+555020325S-12,12,Rue des Rosiers,55700,Stenay,C+O,49.497814,5.188166
+555020325S-13,13,Rue des Rosiers,55700,Stenay,C+O,49.496766,5.189199
+555020325S-14,14,Rue des Rosiers,55700,Stenay,C+O,49.498163,5.187700
+555020325S-15,15,Rue des Rosiers,55700,Stenay,C+O,49.496820,5.189206
+555020325S-16,16,Rue des Rosiers,55700,Stenay,C+O,49.498241,5.187675
+555020325S-17,17,Rue des Rosiers,55700,Stenay,C+O,49.496828,5.189139
+555020325S-18,18,Rue des Rosiers,55700,Stenay,C+O,49.498327,5.187648
+555020325S-19,19,Rue des Rosiers,55700,Stenay,C+O,49.496823,5.189078
+555020325S-20,20,Rue des Rosiers,55700,Stenay,C+O,49.498409,5.187620
+555020325S-21,21,Rue des Rosiers,55700,Stenay,C+O,49.497082,5.188819
+555020325S-22,22,Rue des Rosiers,55700,Stenay,C+O,49.498480,5.187597
+555020325S-2,2,Rue des Rosiers,55700,Stenay,C+O,49.496842,5.188847
+555020325S-23,23,Rue des Rosiers,55700,Stenay,C+O,49.497366,5.188622
+555020325S-24,24,Rue des Rosiers,55700,Stenay,C+O,49.498537,5.187599
+555020325S-25,25,Rue des Rosiers,55700,Stenay,C+O,49.497539,5.188485
+555020325S-26,26,Rue des Rosiers,55700,Stenay,C+O,49.498565,5.187588
+555020325S-27,27,Rue des Rosiers,55700,Stenay,C+O,49.497687,5.188361
+555020325S-29,29,Rue des Rosiers,55700,Stenay,C+O,49.497958,5.188229
+555020325S-33,33,Rue des Rosiers,55700,Stenay,C+O,49.498217,5.187816
+555020325S-3,3,Rue des Rosiers,55700,Stenay,C+O,49.496333,5.189293
+555020325S-35,35,Rue des Rosiers,55700,Stenay,C+O,49.498432,5.187744
+555020325S-37,37,Rue des Rosiers,55700,Stenay,C+O,49.498615,5.187683
+555020325S-39,39,Rue des Rosiers,55700,Stenay,C+O,49.499120,5.187331
+555020325S-41,41,Rue des Rosiers,55700,Stenay,C+O,49.499308,5.187346
+555020325S-43,43,Rue des Rosiers,55700,Stenay,C+O,49.499492,5.187305
+555020325S-4,4,Rue des Rosiers,55700,Stenay,C+O,49.496902,5.188805
+555020325S-45,45,Rue des Rosiers,55700,Stenay,C+O,49.499683,5.187214
+555020325S-47,47,Rue des Rosiers,55700,Stenay,C+O,49.499850,5.187134
+555020325S-49,49,Rue des Rosiers,55700,Stenay,C+O,49.500032,5.187054
+555020325S-5,5,Rue des Rosiers,55700,Stenay,C+O,49.496327,5.189227
+555020325S-6,6,Rue des Rosiers,55700,Stenay,C+O,49.496975,5.188755
+555020325S-7,7,Rue des Rosiers,55700,Stenay,C+O,49.496563,5.189174
+555020325S-8,8,Rue des Rosiers,55700,Stenay,C+O,49.497183,5.188593
+555020325S-9,9,Rue des Rosiers,55700,Stenay,C+O,49.496637,5.189182
 555020334B-1,1,Rue Tabaga,55700,Stenay,CAD,49.491730,5.191641
 555020345N-10,10,Avenue des Tilleuls,55700,Stenay,C+O,49.497393,5.186846
 555020345N-1,1,Avenue des Tilleuls,55700,Stenay,C+O,49.496150,5.186798
@@ -13619,20 +13619,20 @@
 555020351V-4,4,Rue des Tuileries,55700,Stenay,C+O,49.491160,5.196468
 555020351V-6,6,Rue des Tuileries,55700,Stenay,C+O,49.491013,5.196764
 555020351V-8,8,Rue des Tuileries,55700,Stenay,C+O,49.490706,5.197642
-555020355Z-10,10,Rue des Tulipes,55700,Stenay,CAD,49.496982,5.187594
-555020355Z-11,11,Rue des Tulipes,55700,Stenay,CAD,49.496800,5.187558
-555020355Z-1,1,Rue des Tulipes,55700,Stenay,CAD,49.497445,5.187891
-555020355Z-12,12,Rue des Tulipes,55700,Stenay,CAD,49.496911,5.187610
-555020355Z-14,14,Rue des Tulipes,55700,Stenay,CAD,49.496823,5.187629
-555020355Z-16,16,Rue des Tulipes,55700,Stenay,CAD,49.496777,5.187639
-555020355Z-2,2,Rue des Tulipes,55700,Stenay,CAD,49.497434,5.188219
-555020355Z-3,3,Rue des Tulipes,55700,Stenay,CAD,49.497401,5.187591
-555020355Z-4,4,Rue des Tulipes,55700,Stenay,CAD,49.497397,5.187966
-555020355Z-5,5,Rue des Tulipes,55700,Stenay,CAD,49.497374,5.187351
-555020355Z-6,6,Rue des Tulipes,55700,Stenay,CAD,49.497351,5.187662
-555020355Z-7,7,Rue des Tulipes,55700,Stenay,CAD,49.497239,5.187346
-555020355Z-8,8,Rue des Tulipes,55700,Stenay,CAD,49.497043,5.187581
-555020355Z-9,9,Rue des Tulipes,55700,Stenay,CAD,49.496988,5.187520
+555020355Z-10,10,Rue des Tulipes,55700,Stenay,C+O,49.496982,5.187594
+555020355Z-11,11,Rue des Tulipes,55700,Stenay,C+O,49.496800,5.187558
+555020355Z-1,1,Rue des Tulipes,55700,Stenay,C+O,49.497445,5.187891
+555020355Z-12,12,Rue des Tulipes,55700,Stenay,C+O,49.496911,5.187610
+555020355Z-14,14,Rue des Tulipes,55700,Stenay,C+O,49.496823,5.187629
+555020355Z-16,16,Rue des Tulipes,55700,Stenay,C+O,49.496777,5.187639
+555020355Z-2,2,Rue des Tulipes,55700,Stenay,C+O,49.497434,5.188219
+555020355Z-3,3,Rue des Tulipes,55700,Stenay,C+O,49.497401,5.187591
+555020355Z-4,4,Rue des Tulipes,55700,Stenay,C+O,49.497397,5.187966
+555020355Z-5,5,Rue des Tulipes,55700,Stenay,C+O,49.497374,5.187351
+555020355Z-6,6,Rue des Tulipes,55700,Stenay,C+O,49.497351,5.187662
+555020355Z-7,7,Rue des Tulipes,55700,Stenay,C+O,49.497239,5.187346
+555020355Z-8,8,Rue des Tulipes,55700,Stenay,C+O,49.497043,5.187581
+555020355Z-9,9,Rue des Tulipes,55700,Stenay,C+O,49.496988,5.187520
 555020360E-12,12,Rue Vauban,55700,Stenay,C+O,49.490903,5.189915
 555020360E-2,2,Rue Vauban,55700,Stenay,C+O,49.490936,5.189210
 555020360E-6,6,Rue Vauban,55700,Stenay,C+O,49.490858,5.189757
@@ -20868,13 +20868,13 @@
 555800026C-8,8,Rue Principale,55150,Wavrille,CAD,49.327815,5.388912
 555800026C-9,9,Rue Principale,55150,Wavrille,CAD,49.327875,5.388569
 555800026C-9B,9BIS,Rue Principale,55150,Wavrille,CAD,49.327690,5.388703
-555820005W-2,2,Rue de l'École,55700,Wiseppe,CAD,49.456721,5.173118
-555820005W-4,4,Rue de l'École,55700,Wiseppe,CAD,49.456640,5.172913
-555820010B-1,1,Rue de l'Église,55700,Wiseppe,CAD,49.456594,5.174371
-555820010B-3,3,Rue de l'Église,55700,Wiseppe,CAD,49.456622,5.174417
-555820010B-5,5,Rue de l'Église,55700,Wiseppe,CAD,49.456655,5.174471
-555820010B-7,7,Rue de l'Église,55700,Wiseppe,CAD,49.456724,5.174585
-555820010B-9,9,Rue de l'Église,55700,Wiseppe,CAD,49.456789,5.174715
+555820005W-2,2,Rue de l'École,55700,Wiseppe,C+O,49.456721,5.173118
+555820005W-4,4,Rue de l'École,55700,Wiseppe,C+O,49.456640,5.172913
+555820010B-1,1,Rue de l'Église,55700,Wiseppe,C+O,49.456594,5.174371
+555820010B-3,3,Rue de l'Église,55700,Wiseppe,C+O,49.456622,5.174417
+555820010B-5,5,Rue de l'Église,55700,Wiseppe,C+O,49.456655,5.174471
+555820010B-7,7,Rue de l'Église,55700,Wiseppe,C+O,49.456724,5.174585
+555820010B-9,9,Rue de l'Église,55700,Wiseppe,C+O,49.456789,5.174715
 555820015G-11,11,Rue du Grand Pâquis,55700,Wiseppe,CAD,49.456696,5.177110
 555820015G-1,1,Rue du Grand Pâquis,55700,Wiseppe,CAD,49.456060,5.175018
 555820015G-2,2,Rue du Grand Pâquis,55700,Wiseppe,CAD,49.455945,5.176420
@@ -20886,10 +20886,10 @@
 555820015G-9,9,Rue du Grand Pâquis,55700,Wiseppe,CAD,49.456536,5.176803
 555820025T-1,1,Rue Haute,55700,Wiseppe,CAD,49.457140,5.172657
 555820025T-2,2,Rue Haute,55700,Wiseppe,CAD,49.457217,5.172621
-555820035D-10,10,Rue Montorgueil,55700,Wiseppe,CAD,49.457956,5.174268
-555820035D-2,2,Rue Montorgueil,55700,Wiseppe,CAD,49.457469,5.174457
-555820035D-4,4,Rue Montorgueil,55700,Wiseppe,CAD,49.457665,5.174401
-555820035D-8,8,Rue Montorgueil,55700,Wiseppe,CAD,49.457863,5.174319
+555820035D-10,10,Rue Montorgueil,55700,Wiseppe,C+O,49.457956,5.174268
+555820035D-2,2,Rue Montorgueil,55700,Wiseppe,C+O,49.457469,5.174457
+555820035D-4,4,Rue Montorgueil,55700,Wiseppe,C+O,49.457665,5.174401
+555820035D-8,8,Rue Montorgueil,55700,Wiseppe,C+O,49.457863,5.174319
 555820040J-1,1,Rue du Moulin,55700,Wiseppe,CAD,49.455951,5.172110
 555820040J-2,2,Rue du Moulin,55700,Wiseppe,CAD,49.456190,5.173276
 555820040J-4,4,Rue du Moulin,55700,Wiseppe,CAD,49.456168,5.172889
