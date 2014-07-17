@@ -612,9 +612,9 @@
 040190125R-198,198,Place du 157 Eme R.I.A,04400,Barcelonnette,CAD,44.388115,6.647283
 040190125R-198B,198BIS,Place du 157 Eme R.I.A,04400,Barcelonnette,CAD,44.387852,6.647916
 040190125R-200,200,Place du 157 Eme R.I.A,04400,Barcelonnette,CAD,44.386442,6.647247
-040190135B-1,1,Rue des Chardonnerets,04400,Barcelonnette,CAD,44.388409,6.663572
-040190135B-2,2,Rue des Chardonnerets,04400,Barcelonnette,CAD,44.388577,6.663452
-040190135B-3,3,Rue des Chardonnerets,04400,Barcelonnette,CAD,44.388578,6.663505
+040190135B-1,1,Rue des Chardonnerets,04400,Barcelonnette,C+O,44.388409,6.663572
+040190135B-2,2,Rue des Chardonnerets,04400,Barcelonnette,C+O,44.388577,6.663452
+040190135B-3,3,Rue des Chardonnerets,04400,Barcelonnette,C+O,44.388578,6.663505
 040190136C-1,1,Rue du Cheval de Bois,04400,Barcelonnette,C+O,44.383966,6.639319
 040190136C-3,3,Rue du Cheval de Bois,04400,Barcelonnette,C+O,44.384350,6.639219
 040190138E-2,2,Chemin de Claveau,04400,Barcelonnette,C+O,44.388878,6.665309
@@ -644,25 +644,25 @@
 040190140G-8,8,Rue du Commandant Car,04400,Barcelonnette,C+O,44.387042,6.650614
 040190140G-9,9,Rue du Commandant Car,04400,Barcelonnette,C+O,44.387136,6.650623
 040190143K-2,2,Avenue de Cornille,04400,Barcelonnette,CAD,44.391170,6.649862
-040190144L-10,10,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384690,6.632993
-040190144L-11,11,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384818,6.633309
-040190144L-1,1,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384682,6.632606
-040190144L-12,12,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384725,6.633098
-040190144L-13,13,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.385102,6.633520
-040190144L-14,14,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384754,6.633221
-040190144L-15,15,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.385110,6.633651
-040190144L-16,16,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384802,6.633378
-040190144L-18,18,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384859,6.633433
-040190144L-20,20,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.385065,6.633536
-040190144L-22,22,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.385069,6.633629
-040190144L-2,2,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384655,6.632549
-040190144L-3,3,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384664,6.632727
-040190144L-4,4,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384637,6.632632
-040190144L-5,5,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384714,6.632939
-040190144L-6,6,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384628,6.632671
-040190144L-7,7,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384752,6.633041
-040190144L-8,8,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384630,6.632789
-040190144L-9,9,Rue Chapeau de Gendarme,04400,Barcelonnette,CAD,44.384779,6.633155
+040190144L-10,10,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384690,6.632993
+040190144L-11,11,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384818,6.633309
+040190144L-1,1,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384682,6.632606
+040190144L-12,12,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384725,6.633098
+040190144L-13,13,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.385102,6.633520
+040190144L-14,14,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384754,6.633221
+040190144L-15,15,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.385110,6.633651
+040190144L-16,16,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384802,6.633378
+040190144L-18,18,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384859,6.633433
+040190144L-20,20,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.385065,6.633536
+040190144L-22,22,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.385069,6.633629
+040190144L-2,2,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384655,6.632549
+040190144L-3,3,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384664,6.632727
+040190144L-4,4,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384637,6.632632
+040190144L-5,5,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384714,6.632939
+040190144L-6,6,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384628,6.632671
+040190144L-7,7,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384752,6.633041
+040190144L-8,8,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384630,6.632789
+040190144L-9,9,Rue Chapeau de Gendarme,04400,Barcelonnette,C+O,44.384779,6.633155
 040190145M-2,2,Chemin de Cornille,04400,Barcelonnette,C+O,44.378629,6.629056
 040190145M-3,3,Chemin de Cornille,04400,Barcelonnette,C+O,44.378551,6.629276
 040190145M-4,4,Chemin de Cornille,04400,Barcelonnette,C+O,44.378536,6.629526
@@ -721,10 +721,10 @@
 040190155Y-3,3,Place Dela l'Eau,04400,Barcelonnette,CAD,44.383752,6.649649
 040190155Y-4,4,Place Dela l'Eau,04400,Barcelonnette,CAD,44.383623,6.649461
 040190157A-7090,7090,Route de la Digue,04400,Barcelonnette,CAD,44.384114,6.656065
-040190158B-1,1,Rue du Dix Neuf Mars 1962,04400,Barcelonnette,CAD,44.385339,6.652046
-040190158B-3,3,Rue du Dix Neuf Mars 1962,04400,Barcelonnette,CAD,44.385228,6.652077
-040190158B-3B,3BIS,Rue du Dix Neuf Mars 1962,04400,Barcelonnette,CAD,44.385163,6.652096
-040190158B-4,4,Rue du Dix Neuf Mars 1962,04400,Barcelonnette,CAD,44.384717,6.652131
+040190158B-1,1,Rue du 19 Mars 1962,04400,Barcelonnette,C+O,44.385339,6.652046
+040190158B-3,3,Rue du 19 Mars 1962,04400,Barcelonnette,C+O,44.385228,6.652077
+040190158B-3B,3BIS,Rue du 19 Mars 1962,04400,Barcelonnette,C+O,44.385163,6.652096
+040190158B-4,4,Rue du 19 Mars 1962,04400,Barcelonnette,C+O,44.384717,6.652131
 040190159C-1,1,Allée de Volgelaye,04400,Barcelonnette,C+O,44.378765,6.627581
 040190159C-2,2,Allée de Volgelaye,04400,Barcelonnette,C+O,44.378468,6.627628
 040190159C-2B,2BIS,Allée de Volgelaye,04400,Barcelonnette,C+O,44.378319,6.627956
@@ -737,14 +737,14 @@
 040190165J-7089,7089,Place du Docteur Louis Signoret,04400,Barcelonnette,CAD,44.387616,6.650939
 040190170P-3,3,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388112,6.653624
 040190170P-5,5,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388056,6.653818
-040190180A-2,2,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384846,6.650703
-040190180A-5,5,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.383831,6.651807
-040190180A-7003,7003,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385201,6.651369
-040190180A-7003A,7003A,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385193,6.651616
-040190180A-7003B,7003B,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385127,6.651634
-040190180A-7003C,7003C,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384970,6.651858
-040190180A-7091,7091,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385046,6.651312
-040190180A-7,7,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.382845,6.651150
+040190180A-2,2,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384846,6.650703
+040190180A-5,5,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.383831,6.651807
+040190180A-7003,7003,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385201,6.651369
+040190180A-7003A,7003A,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385193,6.651616
+040190180A-7003B,7003B,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385127,6.651634
+040190180A-7003C,7003C,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384970,6.651858
+040190180A-7091,7091,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385046,6.651312
+040190180A-7,7,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.382845,6.651150
 040190190L-1,1,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388450,6.644921
 040190190L-2,2,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388400,6.645217
 040190190L-3,3,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388557,6.644638
@@ -3364,8 +3364,6 @@
 040490528Y-7,7,Route Nationale 96,04600,Château-Arnoux-Saint-Auban,CAD,44.073339,5.990340
 040490528Y-813,813,Route Nationale 96,04600,Château-Arnoux-Saint-Auban,CAD,44.073143,5.991018
 040490528Y-9,9,Route Nationale 96,04600,Château-Arnoux-Saint-Auban,CAD,44.073529,5.990468
-040490533D-2,2,Ancienne Route Ancienne Route de Nice,04600,Château-Arnoux-Saint-Auban,CAD,44.088634,6.011007
-040490533D-3,3,Ancienne Route Ancienne Route de Nice,04600,Château-Arnoux-Saint-Auban,CAD,44.089444,6.010959
 040490535F-11,11,Route de Nice,04600,Château-Arnoux-Saint-Auban,C+O,44.091990,6.010032
 040490535F-1,1,Route de Nice,04600,Château-Arnoux-Saint-Auban,C+O,44.092561,6.009345
 040490535F-14,14,Route de Nice,04600,Château-Arnoux-Saint-Auban,C+O,44.089742,6.010235
@@ -3939,53 +3937,53 @@
 040620065N-4,4,Rue du Bien Être,04530,La Condamine-Châtelard,CAD,44.456323,6.744311
 040620065N-5,5,Rue du Bien Être,04530,La Condamine-Châtelard,CAD,44.456505,6.744791
 040620065N-7,7,Rue du Bien Être,04530,La Condamine-Châtelard,CAD,44.456491,6.744971
-040620066P-2,2,Chemin du Parpaillon,04530,La Condamine-Châtelard,CAD,44.457738,6.745126
-040620067R-11,11,Rue des Tardets,04530,La Condamine-Châtelard,CAD,44.456602,6.746246
-040620067R-1,1,Rue des Tardets,04530,La Condamine-Châtelard,CAD,44.457826,6.745503
-040620067R-17,17,Rue des Tardets,04530,La Condamine-Châtelard,CAD,44.456261,6.746464
-040620067R-3,3,Rue des Tardets,04530,La Condamine-Châtelard,CAD,44.457692,6.745610
-040620067R-5,5,Rue des Tardets,04530,La Condamine-Châtelard,CAD,44.457408,6.745841
-040620067R-7,7,Rue des Tardets,04530,La Condamine-Châtelard,CAD,44.457312,6.745997
-040620067R-9,9,Rue des Tardets,04530,La Condamine-Châtelard,CAD,44.456860,6.746185
+040620066P-2,2,Chemin du Parpaillon,04530,La Condamine-Châtelard,C+O,44.457738,6.745126
+040620067R-11,11,Rue des Tardets,04530,La Condamine-Châtelard,C+O,44.456602,6.746246
+040620067R-1,1,Rue des Tardets,04530,La Condamine-Châtelard,C+O,44.457826,6.745503
+040620067R-17,17,Rue des Tardets,04530,La Condamine-Châtelard,C+O,44.456261,6.746464
+040620067R-3,3,Rue des Tardets,04530,La Condamine-Châtelard,C+O,44.457692,6.745610
+040620067R-5,5,Rue des Tardets,04530,La Condamine-Châtelard,C+O,44.457408,6.745841
+040620067R-7,7,Rue des Tardets,04530,La Condamine-Châtelard,C+O,44.457312,6.745997
+040620067R-9,9,Rue des Tardets,04530,La Condamine-Châtelard,C+O,44.456860,6.746185
 040620068S-1,1,Rue du Stade,04530,La Condamine-Châtelard,C+O,44.460295,6.747845
-040620070U-2,2,Rue Pointe Fine,04530,La Condamine-Châtelard,CAD,44.458196,6.744338
-040620070U-6,6,Rue Pointe Fine,04530,La Condamine-Châtelard,CAD,44.457936,6.744434
-040620071V-2,2,Rue du Chateau,04530,La Condamine-Châtelard,CAD,44.458204,6.744076
-040620071V-3,3,Rue du Chateau,04530,La Condamine-Châtelard,CAD,44.457914,6.744298
-040620071V-6,6,Rue du Chateau,04530,La Condamine-Châtelard,CAD,44.458052,6.744106
-040620071V-8,8,Rue du Chateau,04530,La Condamine-Châtelard,CAD,44.457801,6.744126
-040620072W-2,2,Rue de Nice,04530,La Condamine-Châtelard,CAD,44.458192,6.743890
-040620072W-4,4,Rue de Nice,04530,La Condamine-Châtelard,CAD,44.458127,6.743816
-040620072W-6,6,Rue de Nice,04530,La Condamine-Châtelard,CAD,44.457879,6.743744
-040620073X-10,10,Route de Sainte-Anne,04530,La Condamine-Châtelard,CAD,44.458806,6.744073
-040620073X-12,12,Route de Sainte-Anne,04530,La Condamine-Châtelard,CAD,44.458319,6.744612
-040620073X-14,14,Route de Sainte-Anne,04530,La Condamine-Châtelard,CAD,44.458754,6.743743
-040620073X-2,2,Route de Sainte-Anne,04530,La Condamine-Châtelard,CAD,44.458353,6.745278
-040620073X-4,4,Route de Sainte-Anne,04530,La Condamine-Châtelard,CAD,44.458328,6.745169
-040620073X-6,6,Route de Sainte-Anne,04530,La Condamine-Châtelard,CAD,44.458364,6.745133
-040620073X-8,8,Route de Sainte-Anne,04530,La Condamine-Châtelard,CAD,44.458777,6.744335
-040620074Y-11,11,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.457824,6.745055
-040620074Y-1,1,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.458112,6.746340
-040620074Y-12,12,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.457388,6.744277
-040620074Y-13,13,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.457747,6.744990
-040620074Y-15,15,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.457686,6.745058
-040620074Y-17,17,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.457493,6.744976
-040620074Y-2,2,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.458149,6.744789
-040620074Y-4,4,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.458066,6.744698
-040620074Y-5,5,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.458034,6.745919
-040620074Y-6,6,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.457575,6.744244
-040620074Y-7,7,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.458027,6.745739
-040620074Y-8,8,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.457556,6.744430
-040620074Y-9,9,Route d'Italie,04530,La Condamine-Châtelard,CAD,44.458017,6.745440
-040620076A-1,1,Rue Honoré Bonnet,04530,La Condamine-Châtelard,CAD,44.458286,6.745460
-040620076A-12,12,Rue Honoré Bonnet,04530,La Condamine-Châtelard,CAD,44.458640,6.745490
-040620076A-2,2,Rue Honoré Bonnet,04530,La Condamine-Châtelard,CAD,44.458475,6.746237
-040620076A-4,4,Rue Honoré Bonnet,04530,La Condamine-Châtelard,CAD,44.458547,6.746085
-040620076A-8,8,Rue Honoré Bonnet,04530,La Condamine-Châtelard,CAD,44.458568,6.745733
-040620077B-2,2,Traverse des Manettes,04530,La Condamine-Châtelard,CAD,44.458706,6.745361
-040620080E-4,4,Rue Sainte-Catherine,04530,La Condamine-Châtelard,CAD,44.458862,6.744871
-040620080E-6,6,Rue Sainte-Catherine,04530,La Condamine-Châtelard,CAD,44.458887,6.744764
-040620080E-8,8,Rue Sainte-Catherine,04530,La Condamine-Châtelard,CAD,44.458902,6.744590
+040620070U-2,2,Rue de Pointe Fine,04530,La Condamine-Châtelard,C+O,44.458196,6.744338
+040620070U-6,6,Rue de Pointe Fine,04530,La Condamine-Châtelard,C+O,44.457936,6.744434
+040620071V-2,2,Rue du Château,04530,La Condamine-Châtelard,C+O,44.458204,6.744076
+040620071V-3,3,Rue du Château,04530,La Condamine-Châtelard,C+O,44.457914,6.744298
+040620071V-6,6,Rue du Château,04530,La Condamine-Châtelard,C+O,44.458052,6.744106
+040620071V-8,8,Rue du Château,04530,La Condamine-Châtelard,C+O,44.457801,6.744126
+040620072W-2,2,Rue de Nice,04530,La Condamine-Châtelard,C+O,44.458192,6.743890
+040620072W-4,4,Rue de Nice,04530,La Condamine-Châtelard,C+O,44.458127,6.743816
+040620072W-6,6,Rue de Nice,04530,La Condamine-Châtelard,C+O,44.457879,6.743744
+040620073X-10,10,Route de Sainte-Anne,04530,La Condamine-Châtelard,C+O,44.458806,6.744073
+040620073X-12,12,Route de Sainte-Anne,04530,La Condamine-Châtelard,C+O,44.458319,6.744612
+040620073X-14,14,Route de Sainte-Anne,04530,La Condamine-Châtelard,C+O,44.458754,6.743743
+040620073X-2,2,Route de Sainte-Anne,04530,La Condamine-Châtelard,C+O,44.458353,6.745278
+040620073X-4,4,Route de Sainte-Anne,04530,La Condamine-Châtelard,C+O,44.458328,6.745169
+040620073X-6,6,Route de Sainte-Anne,04530,La Condamine-Châtelard,C+O,44.458364,6.745133
+040620073X-8,8,Route de Sainte-Anne,04530,La Condamine-Châtelard,C+O,44.458777,6.744335
+040620074Y-11,11,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.457824,6.745055
+040620074Y-1,1,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.458112,6.746340
+040620074Y-12,12,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.457388,6.744277
+040620074Y-13,13,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.457747,6.744990
+040620074Y-15,15,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.457686,6.745058
+040620074Y-17,17,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.457493,6.744976
+040620074Y-2,2,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.458149,6.744789
+040620074Y-4,4,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.458066,6.744698
+040620074Y-5,5,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.458034,6.745919
+040620074Y-6,6,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.457575,6.744244
+040620074Y-7,7,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.458027,6.745739
+040620074Y-8,8,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.457556,6.744430
+040620074Y-9,9,Route d'Italie,04530,La Condamine-Châtelard,C+O,44.458017,6.745440
+040620076A-1,1,Rue Honoré Bonnet,04530,La Condamine-Châtelard,C+O,44.458286,6.745460
+040620076A-12,12,Rue Honoré Bonnet,04530,La Condamine-Châtelard,C+O,44.458640,6.745490
+040620076A-2,2,Rue Honoré Bonnet,04530,La Condamine-Châtelard,C+O,44.458475,6.746237
+040620076A-4,4,Rue Honoré Bonnet,04530,La Condamine-Châtelard,C+O,44.458547,6.746085
+040620076A-8,8,Rue Honoré Bonnet,04530,La Condamine-Châtelard,C+O,44.458568,6.745733
+040620077B-2,2,Traverse des Manettes,04530,La Condamine-Châtelard,C+O,44.458706,6.745361
+040620080E-4,4,Rue de Sainte-Catherine,04530,La Condamine-Châtelard,C+O,44.458862,6.744871
+040620080E-6,6,Rue de Sainte-Catherine,04530,La Condamine-Châtelard,C+O,44.458887,6.744764
+040620080E-8,8,Rue de Sainte-Catherine,04530,La Condamine-Châtelard,C+O,44.458902,6.744590
 040620081F-10,10,Rue du Serres,04530,La Condamine-Châtelard,CAD,44.459057,6.745194
 040620081F-12,12,Rue du Serres,04530,La Condamine-Châtelard,CAD,44.459153,6.744927
 040620081F-14,14,Rue du Serres,04530,La Condamine-Châtelard,CAD,44.459154,6.744702
@@ -4788,16 +4786,16 @@
 040700220X-9,9,Rue Bonthoux,04000,Digne-les-Bains,C+O,44.089857,6.233817
 040700230H-14,14,Terrasse de la Boucherie,04000,Digne-les-Bains,CAD,44.092490,6.235417
 040700230H-2,2,Terrasse de la Boucherie,04000,Digne-les-Bains,CAD,44.092461,6.235320
-040700231J-11,11,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076883,6.178587
-040700231J-1,1,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077105,6.178148
-040700231J-2,2,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076458,6.178331
-040700231J-3,3,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077342,6.177917
-040700231J-4,4,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076811,6.178095
-040700231J-5,5,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077494,6.178262
-040700231J-6,6,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077024,6.178216
-040700231J-7,7,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077203,6.178313
-040700231J-8,8,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076802,6.178582
-040700231J-9,9,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077131,6.178341
+040700231J-11,11,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076883,6.178587
+040700231J-1,1,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077105,6.178148
+040700231J-2,2,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076458,6.178331
+040700231J-3,3,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077342,6.177917
+040700231J-4,4,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076811,6.178095
+040700231J-5,5,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077494,6.178262
+040700231J-6,6,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077024,6.178216
+040700231J-7,7,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077203,6.178313
+040700231J-8,8,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076802,6.178582
+040700231J-9,9,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077131,6.178341
 040700235N-1,1,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.089897,6.223156
 040700235N-2,2,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.090022,6.222557
 040700235N-3,3,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.089827,6.222778
@@ -7814,50 +7812,50 @@
 04070B143V-4T,4TER,Saint Pierre,04000,Digne-les-Bains,CAD,44.091591,6.235008
 04070B143V-5T,5TER,Saint Pierre,04000,Digne-les-Bains,CAD,44.091673,6.234889
 04070B143V-6T,6TER,Saint Pierre,04000,Digne-les-Bains,CAD,44.091658,6.235003
-040730003Y-7067,7067,Impasse du Bonnet Vert,04400,Enchastrayes,CAD,44.388207,6.671349
-040730003Y-7082,7082,Impasse du Bonnet Vert,04400,Enchastrayes,CAD,44.388206,6.671060
-040730003Y-79,79,Impasse du Bonnet Vert,04400,Enchastrayes,CAD,44.387879,6.671261
-040730003Y-80,80,Impasse du Bonnet Vert,04400,Enchastrayes,CAD,44.387947,6.671659
-040730005A-53,53,Rue du Brec,04400,Enchastrayes,CAD,44.387645,6.672439
-040730005A-5,5,Rue du Brec,04400,Enchastrayes,CAD,44.387448,6.672044
-040730005A-7017,7017,Rue du Brec,04400,Enchastrayes,CAD,44.388241,6.672107
-040730005A-7018,7018,Rue du Brec,04400,Enchastrayes,CAD,44.388180,6.671589
-040730005A-7043,7043,Rue du Brec,04400,Enchastrayes,CAD,44.387774,6.672205
-040730005A-7054,7054,Rue du Brec,04400,Enchastrayes,CAD,44.388215,6.671902
-040730005A-7065,7065,Rue du Brec,04400,Enchastrayes,CAD,44.387536,6.672878
-040730005A-7066,7066,Rue du Brec,04400,Enchastrayes,CAD,44.388199,6.672411
-040730005A-7088,7088,Rue du Brec,04400,Enchastrayes,CAD,44.387429,6.672351
-040730005A-7092,7092,Rue du Brec,04400,Enchastrayes,CAD,44.388285,6.672973
-040730005A-7095,7095,Rue du Brec,04400,Enchastrayes,CAD,44.388265,6.672613
-040730005A-7103,7103,Rue du Brec,04400,Enchastrayes,CAD,44.387890,6.673065
-040730005A-7108,7108,Rue du Brec,04400,Enchastrayes,CAD,44.387910,6.672797
-040730005A-7110,7110,Rue du Brec,04400,Enchastrayes,CAD,44.387788,6.671704
-040730005A-81,81,Rue du Brec,04400,Enchastrayes,CAD,44.388035,6.672010
-040730005A-83,83,Rue du Brec,04400,Enchastrayes,CAD,44.387930,6.672401
-040730007C-7107,7107,Rue de la Croix de l'Alp,04400,Enchastrayes,CAD,44.387278,6.672151
-040730007C-7148,7148,Rue de la Croix de l'Alp,04400,Enchastrayes,CAD,44.386900,6.671578
-040730007C-7149,7149,Rue de la Croix de l'Alp,04400,Enchastrayes,CAD,44.386674,6.671614
-040730007C-7182,7182,Rue de la Croix de l'Alp,04400,Enchastrayes,CAD,44.387044,6.672387
-040730007C-72,72,Rue de la Croix de l'Alp,04400,Enchastrayes,CAD,44.387143,6.671929
-040730011G-7046,7046,Rue des Fanets,04400,Enchastrayes,CAD,44.385829,6.673783
-040730014K-24,24,Rue de Lan,04400,Enchastrayes,CAD,44.385282,6.674171
-040730014K-7103,7103,Rue de Lan,04400,Enchastrayes,CAD,44.384851,6.674405
-040730014K-7104,7104,Rue de Lan,04400,Enchastrayes,CAD,44.384765,6.673990
-040730017N-7023,7023,Rue de la Méa,04400,Enchastrayes,CAD,44.386455,6.671793
-040730017N-7026,7026,Rue de la Méa,04400,Enchastrayes,CAD,44.386264,6.672049
-040730017N-7041,7041,Rue de la Méa,04400,Enchastrayes,CAD,44.385723,6.672667
-040730019R-7005,7005,Impasse de Soleil Boeuf,04400,Enchastrayes,CAD,44.385773,6.673517
-040730019R-7019,7019,Impasse de Soleil Boeuf,04400,Enchastrayes,CAD,44.386139,6.673399
-040730019R-7022,7022,Impasse de Soleil Boeuf,04400,Enchastrayes,CAD,44.386160,6.673606
-040730020S-46,46,Place de la Soudane,04400,Enchastrayes,CAD,44.386926,6.672578
-040730020S-7024,7024,Place de la Soudane,04400,Enchastrayes,CAD,44.386789,6.672826
-040730020S-7042,7042,Place de la Soudane,04400,Enchastrayes,CAD,44.387257,6.672698
-040730020S-7070,7070,Place de la Soudane,04400,Enchastrayes,CAD,44.387013,6.673262
-040730023V-7044,7044,Impasse des Terres Pleines,04400,Enchastrayes,CAD,44.386313,6.672698
-040730023V-7045,7045,Impasse des Terres Pleines,04400,Enchastrayes,CAD,44.386518,6.672102
-040730023V-7068,7068,Impasse des Terres Pleines,04400,Enchastrayes,CAD,44.386537,6.672431
-040730023V-7105,7105,Impasse des Terres Pleines,04400,Enchastrayes,CAD,44.386457,6.672982
-040730023V-7134,7134,Impasse des Terres Pleines,04400,Enchastrayes,CAD,44.386564,6.672606
+040730003Y-7067,7067,Impasse du Bonnet Vert,04400,Enchastrayes,C+O,44.388207,6.671349
+040730003Y-7082,7082,Impasse du Bonnet Vert,04400,Enchastrayes,C+O,44.388206,6.671060
+040730003Y-79,79,Impasse du Bonnet Vert,04400,Enchastrayes,C+O,44.387879,6.671261
+040730003Y-80,80,Impasse du Bonnet Vert,04400,Enchastrayes,C+O,44.387947,6.671659
+040730005A-53,53,Rue du Brec,04400,Enchastrayes,C+O,44.387645,6.672439
+040730005A-5,5,Rue du Brec,04400,Enchastrayes,C+O,44.387448,6.672044
+040730005A-7017,7017,Rue du Brec,04400,Enchastrayes,C+O,44.388241,6.672107
+040730005A-7018,7018,Rue du Brec,04400,Enchastrayes,C+O,44.388180,6.671589
+040730005A-7043,7043,Rue du Brec,04400,Enchastrayes,C+O,44.387774,6.672205
+040730005A-7054,7054,Rue du Brec,04400,Enchastrayes,C+O,44.388215,6.671902
+040730005A-7065,7065,Rue du Brec,04400,Enchastrayes,C+O,44.387536,6.672878
+040730005A-7066,7066,Rue du Brec,04400,Enchastrayes,C+O,44.388199,6.672411
+040730005A-7088,7088,Rue du Brec,04400,Enchastrayes,C+O,44.387429,6.672351
+040730005A-7092,7092,Rue du Brec,04400,Enchastrayes,C+O,44.388285,6.672973
+040730005A-7095,7095,Rue du Brec,04400,Enchastrayes,C+O,44.388265,6.672613
+040730005A-7103,7103,Rue du Brec,04400,Enchastrayes,C+O,44.387890,6.673065
+040730005A-7108,7108,Rue du Brec,04400,Enchastrayes,C+O,44.387910,6.672797
+040730005A-7110,7110,Rue du Brec,04400,Enchastrayes,C+O,44.387788,6.671704
+040730005A-81,81,Rue du Brec,04400,Enchastrayes,C+O,44.388035,6.672010
+040730005A-83,83,Rue du Brec,04400,Enchastrayes,C+O,44.387930,6.672401
+040730007C-7107,7107,Rue de la Croix de l'Alp,04400,Enchastrayes,C+O,44.387278,6.672151
+040730007C-7148,7148,Rue de la Croix de l'Alp,04400,Enchastrayes,C+O,44.386900,6.671578
+040730007C-7149,7149,Rue de la Croix de l'Alp,04400,Enchastrayes,C+O,44.386674,6.671614
+040730007C-7182,7182,Rue de la Croix de l'Alp,04400,Enchastrayes,C+O,44.387044,6.672387
+040730007C-72,72,Rue de la Croix de l'Alp,04400,Enchastrayes,C+O,44.387143,6.671929
+040730011G-7046,7046,Rue des Fanets,04400,Enchastrayes,C+O,44.385829,6.673783
+040730014K-24,24,Rue du Lan,04400,Enchastrayes,C+O,44.385282,6.674171
+040730014K-7103,7103,Rue du Lan,04400,Enchastrayes,C+O,44.384851,6.674405
+040730014K-7104,7104,Rue du Lan,04400,Enchastrayes,C+O,44.384765,6.673990
+040730017N-7023,7023,Rue de la Méa,04400,Enchastrayes,C+O,44.386455,6.671793
+040730017N-7026,7026,Rue de la Méa,04400,Enchastrayes,C+O,44.386264,6.672049
+040730017N-7041,7041,Rue de la Méa,04400,Enchastrayes,C+O,44.385723,6.672667
+040730019R-7005,7005,Impasse de Soleil Boeuf,04400,Enchastrayes,C+O,44.385773,6.673517
+040730019R-7019,7019,Impasse de Soleil Boeuf,04400,Enchastrayes,C+O,44.386139,6.673399
+040730019R-7022,7022,Impasse de Soleil Boeuf,04400,Enchastrayes,C+O,44.386160,6.673606
+040730020S-46,46,Place de la Soudane,04400,Enchastrayes,C+O,44.386926,6.672578
+040730020S-7024,7024,Place de la Soudane,04400,Enchastrayes,C+O,44.386789,6.672826
+040730020S-7042,7042,Place de la Soudane,04400,Enchastrayes,C+O,44.387257,6.672698
+040730020S-7070,7070,Place de la Soudane,04400,Enchastrayes,C+O,44.387013,6.673262
+040730023V-7044,7044,Impasse des Terres Pleines,04400,Enchastrayes,C+O,44.386313,6.672698
+040730023V-7045,7045,Impasse des Terres Pleines,04400,Enchastrayes,C+O,44.386518,6.672102
+040730023V-7068,7068,Impasse des Terres Pleines,04400,Enchastrayes,C+O,44.386537,6.672431
+040730023V-7105,7105,Impasse des Terres Pleines,04400,Enchastrayes,C+O,44.386457,6.672982
+040730023V-7134,7134,Impasse des Terres Pleines,04400,Enchastrayes,C+O,44.386564,6.672606
 04073A015F-1,1,Residence l'Alp,04400,Enchastrayes,CAD,44.371885,6.682416
 04073B077K-1,1,Le Villard,04400,Enchastrayes,CAD,44.389294,6.697119
 040760006N-10,10,Rue du Milieu,04320,Entrevaux,CAD,43.950249,6.811428
@@ -9081,14 +9079,14 @@
 040940055N-9,9,Rue du Château,04800,Gréoux-les-Bains,C+O,43.758980,5.883909
 040940056P-17,17,Traverse du Château,04800,Gréoux-les-Bains,C+O,43.759097,5.884058
 040940056P-6,6,Traverse du Château,04800,Gréoux-les-Bains,C+O,43.759014,5.884065
-040940058S-13,13,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.759055,5.885159
-040940058S-19,19,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.759258,5.885136
-040940058S-2,2,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.758933,5.885343
-040940058S-3,3,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.758689,5.884997
-040940058S-4,4,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.759067,5.885375
-040940058S-7034,7034,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.759287,5.885545
-040940058S-7235,7235,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.759168,5.885148
-040940058S-7,7,Chemin Neuf,04800,Gréoux-les-Bains,CAD,43.758885,5.885108
+040940058S-13,13,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.759055,5.885159
+040940058S-19,19,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.759258,5.885136
+040940058S-2,2,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.758933,5.885343
+040940058S-3,3,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.758689,5.884997
+040940058S-4,4,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.759067,5.885375
+040940058S-7034,7034,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.759287,5.885545
+040940058S-7235,7235,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.759168,5.885148
+040940058S-7,7,Chemin Neuf,04800,Gréoux-les-Bains,C+O,43.758885,5.885108
 040940059T-1,1,Impasse des Clairettes,04800,Gréoux-les-Bains,CAD,43.762737,5.891499
 040940059T-3,3,Impasse des Clairettes,04800,Gréoux-les-Bains,CAD,43.762737,5.891511
 040940059T-6,6,Impasse des Clairettes,04800,Gréoux-les-Bains,CAD,43.762737,5.891524
@@ -9188,13 +9186,13 @@
 040940101N-7,7,Rue Grande,04800,Gréoux-les-Bains,C+O,43.758732,5.882729
 040940101N-8,8,Rue Grande,04800,Gréoux-les-Bains,C+O,43.758683,5.882547
 040940101N-9,9,Rue Grande,04800,Gréoux-les-Bains,C+O,43.758724,5.882839
-040940115D-20,20,Rue de l'Hopital,04800,Gréoux-les-Bains,CAD,43.758216,5.882848
-040940115D-3,3,Rue de l'Hopital,04800,Gréoux-les-Bains,CAD,43.758491,5.883120
-040940115D-5,5,Rue de l'Hopital,04800,Gréoux-les-Bains,CAD,43.758408,5.883177
-040940115D-6,6,Rue de l'Hopital,04800,Gréoux-les-Bains,CAD,43.758070,5.882626
-040940115D-7257,7257,Rue de l'Hopital,04800,Gréoux-les-Bains,CAD,43.758248,5.882738
-040940115D-7258,7258,Rue de l'Hopital,04800,Gréoux-les-Bains,CAD,43.758199,5.882607
-040940115D-7B,7BIS,Rue de l'Hopital,04800,Gréoux-les-Bains,CAD,43.758296,5.882979
+040940115D-20,20,Rue de l'Hôpital,04800,Gréoux-les-Bains,C+O,43.758216,5.882848
+040940115D-3,3,Rue de l'Hôpital,04800,Gréoux-les-Bains,C+O,43.758491,5.883120
+040940115D-5,5,Rue de l'Hôpital,04800,Gréoux-les-Bains,C+O,43.758408,5.883177
+040940115D-6,6,Rue de l'Hôpital,04800,Gréoux-les-Bains,C+O,43.758070,5.882626
+040940115D-7257,7257,Rue de l'Hôpital,04800,Gréoux-les-Bains,C+O,43.758248,5.882738
+040940115D-7258,7258,Rue de l'Hôpital,04800,Gréoux-les-Bains,C+O,43.758199,5.882607
+040940115D-7B,7BIS,Rue de l'Hôpital,04800,Gréoux-les-Bains,C+O,43.758296,5.882979
 040940121K-10,10,Place de l'Hôtel de Ville,04800,Gréoux-les-Bains,C+O,43.758037,5.883373
 040940121K-11,11,Place de l'Hôtel de Ville,04800,Gréoux-les-Bains,C+O,43.757928,5.883721
 040940121K-13,13,Place de l'Hôtel de Ville,04800,Gréoux-les-Bains,C+O,43.757887,5.883741
@@ -10015,9 +10013,11 @@
 041120066X-179,179,Impasse Lucie Aubrac,04100,Manosque,OSM,43.832752,5.802798
 041120066X-49,49,Impasse Lucie Aubrac,04100,Manosque,OSM,43.833884,5.803173
 041120066X-69,69,Impasse Lucie Aubrac,04100,Manosque,OSM,43.833581,5.803409
+041120067Y-111,111,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820092,5.791908
 041120067Y-112,112,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820165,5.791576
-041120067Y-132,132,Impasse Augustin Fresnel,04100,Manosque,C+O,43.819881,5.791880
+041120067Y-132,132,Impasse Augustin Fresnel,04100,Manosque,OSM,43.819911,5.791684
 041120067Y-19,19,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820681,5.792673
+041120067Y-28,28,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820838,5.792162
 041120067Y-89,89,Impasse Augustin Fresnel,04100,Manosque,OSM,43.820345,5.792364
 041120070B-10,10,Rue Arthur Robert,04100,Manosque,C+O,43.833064,5.782625
 041120070B-11,11,Rue Arthur Robert,04100,Manosque,C+O,43.833073,5.782760
@@ -10040,21 +10040,23 @@
 041120074F-25,25,Rue de l'Asparagus,04100,Manosque,OSM,43.821647,5.782841
 041120074F-36,36,Rue de l'Asparagus,04100,Manosque,OSM,43.821820,5.782565
 041120074F-51,51,Rue de l'Asparagus,04100,Manosque,OSM,43.821494,5.782686
+041120074F-5,5,Rue de l'Asparagus,04100,Manosque,OSM,43.821280,5.782858
 041120074F-56,56,Rue de l'Asparagus,04100,Manosque,OSM,43.821729,5.782343
 041120074F-60,60,Rue de l'Asparagus,04100,Manosque,OSM,43.821563,5.782245
-041120074F-7,7,Rue de l'Asparagus,04100,Manosque,C+O,43.821266,5.783150
+041120074F-7,7,Rue de l'Asparagus,04100,Manosque,OSM,43.821476,5.783098
+041120074F-8,8,Rue de l'Asparagus,04100,Manosque,OSM,43.821596,5.783215
 041120075G-181,181,Rue Lucie Aubrac,04100,Manosque,CAD,43.832800,5.802750
 041120076H-11,11,Promenade Aubert Millot,04100,Manosque,CAD,43.832310,5.784858
 041120076H-1,1,Promenade Aubert Millot,04100,Manosque,OSM,43.831851,5.784083
 041120076H-15,15,Promenade Aubert Millot,04100,Manosque,CAD,43.832443,5.785020
 041120076H-17,17,Promenade Aubert Millot,04100,Manosque,CAD,43.832513,5.785098
 041120076H-19,19,Promenade Aubert Millot,04100,Manosque,CAD,43.832556,5.785146
-041120076H-1T,1TER,Promenade Aubert Millot,04100,Manosque,OSM,43.832010,5.784396
+041120076H-1T,1TER,Promenade Aubert Millot,04100,Manosque,CAD,43.832086,5.784322
 041120076H-21,21,Promenade Aubert Millot,04100,Manosque,CAD,43.832607,5.785198
 041120076H-25,25,Promenade Aubert Millot,04100,Manosque,CAD,43.832693,5.785275
 041120076H-29,29,Promenade Aubert Millot,04100,Manosque,CAD,43.832782,5.785353
 041120076H-33,33,Promenade Aubert Millot,04100,Manosque,CAD,43.832862,5.785424
-041120076H-3,3,Promenade Aubert Millot,04100,Manosque,OSM,43.831925,5.784285
+041120076H-3,3,Promenade Aubert Millot,04100,Manosque,CAD,43.831960,5.784216
 041120076H-37,37,Promenade Aubert Millot,04100,Manosque,CAD,43.832934,5.785489
 041120076H-39,39,Promenade Aubert Millot,04100,Manosque,CAD,43.832988,5.785536
 041120076H-3B,3BIS,Promenade Aubert Millot,04100,Manosque,CAD,43.832070,5.784498
@@ -10473,21 +10475,21 @@
 041120160Z-8,8,Rue Chacundier,04100,Manosque,C+O,43.833309,5.785257
 041120160Z-9,9,Rue Chacundier,04100,Manosque,C+O,43.833916,5.785397
 041120162B-898D,898D,Chemin Chanteprunier,04100,Manosque,CAD,43.832624,5.809399
-041120164D-268,268,Chemin Champs de Pruniers,04100,Manosque,OSM,43.829289,5.800530
-041120164D-298,298,Chemin Champs de Pruniers,04100,Manosque,C+O,43.829566,5.801089
-041120164D-298A,298A,Chemin Champs de Pruniers,04100,Manosque,C+O,43.829652,5.800896
-041120164D-402,402,Chemin Champs de Pruniers,04100,Manosque,C+O,43.830502,5.801619
-041120164D-498,498,Chemin Champs de Pruniers,04100,Manosque,C+O,43.829764,5.795009
-041120164D-500,500,Chemin Champs de Pruniers,04100,Manosque,C+O,43.831070,5.802318
-041120164D-536,536,Chemin Champs de Pruniers,04100,Manosque,C+O,43.831217,5.803000
-041120164D-614,614,Chemin Champs de Pruniers,04100,Manosque,C+O,43.831835,5.803134
-041120164D-690,690,Chemin Champs de Pruniers,04100,Manosque,C+O,43.832474,5.804141
-041120164D-7000,7000,Chemin Champs de Pruniers,04100,Manosque,C+O,43.830843,5.802726
-041120164D-7001,7001,Chemin Champs de Pruniers,04100,Manosque,C+O,43.831271,5.802653
-041120164D-7002,7002,Chemin Champs de Pruniers,04100,Manosque,C+O,43.831057,5.802879
-041120164D-7003,7003,Chemin Champs de Pruniers,04100,Manosque,C+O,43.831000,5.802527
-041120164D-838,838,Chemin Champs de Pruniers,04100,Manosque,C+O,43.833279,5.805184
-041120164D-898,898,Chemin Champs de Pruniers,04100,Manosque,OSM,43.833490,5.805811
+041120164D-268,268,Chemin des Champs de Pruniers,04100,Manosque,OSM,43.829289,5.800530
+041120164D-298,298,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.829566,5.801089
+041120164D-298A,298A,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.829652,5.800896
+041120164D-402,402,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.830502,5.801619
+041120164D-498,498,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.829764,5.795009
+041120164D-500,500,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.831070,5.802318
+041120164D-536,536,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.831217,5.803000
+041120164D-614,614,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.831835,5.803134
+041120164D-690,690,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.832474,5.804141
+041120164D-7000,7000,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.830843,5.802726
+041120164D-7001,7001,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.831271,5.802653
+041120164D-7002,7002,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.831057,5.802879
+041120164D-7003,7003,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.831000,5.802527
+041120164D-838,838,Chemin des Champs de Pruniers,04100,Manosque,C+O,43.833279,5.805184
+041120164D-898,898,Chemin des Champs de Pruniers,04100,Manosque,OSM,43.833490,5.805811
 041120166F-132,132,Montée des Cigales,04100,Manosque,C+O,43.838417,5.776207
 041120166F-19,19,Montée des Cigales,04100,Manosque,C+O,43.837677,5.776798
 041120166F-71,71,Montée des Cigales,04100,Manosque,C+O,43.837848,5.776256
@@ -11009,6 +11011,7 @@
 041120322A-70,70,Place Esclapon,04100,Manosque,C+O,43.826885,5.773300
 041120323B-1,1,Chemin des Esquirolles,04100,Manosque,OSM,43.827480,5.750007
 041120323B-16,16,Chemin des Esquirolles,04100,Manosque,OSM,43.829193,5.748644
+041120323B-17,17,Chemin des Esquirolles,04100,Manosque,OSM,43.829555,5.748265
 041120323B-18,18,Chemin des Esquirolles,04100,Manosque,OSM,43.829801,5.748086
 041120323B-19,19,Chemin des Esquirolles,04100,Manosque,OSM,43.830046,5.747887
 041120323B-20,20,Chemin des Esquirolles,04100,Manosque,OSM,43.830336,5.747570
@@ -11159,6 +11162,7 @@
 041120351G-76,76,Rue de la Font,04100,Manosque,C+O,43.842181,5.771339
 041120351G-94,94,Rue de la Font,04100,Manosque,C+O,43.842347,5.771413
 041120352H-15,15,Rue Félix Touvat,04100,Manosque,C+O,43.827059,5.778536
+041120352H-178,178,Rue Félix Touvat,04100,Manosque,OSM,43.827086,5.779241
 041120352H-76,76,Rue Félix Touvat,04100,Manosque,C+O,43.826455,5.778622
 041120355L-10,10,Avenue Frédéric Mistral,04100,Manosque,C+O,43.821198,5.787242
 041120355L-150,150,Avenue Frédéric Mistral,04100,Manosque,C+O,43.823897,5.787408
@@ -11849,21 +11853,21 @@
 041120527Y-7061,7061,Avenue Joseph Cugnot,04100,Manosque,C+O,43.823446,5.801429
 041120527Y-777,777,Avenue Joseph Cugnot,04100,Manosque,OSM,43.823924,5.801281
 041120527Y-966,966,Avenue Joseph Cugnot,04100,Manosque,OSM,43.825680,5.804169
-041120528Z-106,106,Avenue Joliot-Curie,04100,Manosque,OSM,43.822480,5.798180
-"041120528Z-114,164","114;164",Avenue Joliot-Curie,04100,Manosque,OSM,43.822807,5.798523
-041120528Z-13,13,Avenue Joliot-Curie,04100,Manosque,C+O,43.842159,5.778695
-041120528Z-15,15,Avenue Joliot-Curie,04100,Manosque,C+O,43.841655,5.778994
-041120528Z-16,16,Avenue Joliot-Curie,04100,Manosque,C+O,43.841448,5.779238
-041120528Z-17,17,Avenue Joliot-Curie,04100,Manosque,C+O,43.842172,5.778531
-041120528Z-18,18,Avenue Joliot-Curie,04100,Manosque,C+O,43.841864,5.778787
-041120528Z-19,19,Avenue Joliot-Curie,04100,Manosque,C+O,43.841753,5.778863
-041120528Z-20,20,Avenue Joliot-Curie,04100,Manosque,C+O,43.841497,5.779043
-041120528Z-21,21,Avenue Joliot-Curie,04100,Manosque,C+O,43.841336,5.779066
-041120528Z-22,22,Avenue Joliot-Curie,04100,Manosque,C+O,43.841284,5.779184
-041120528Z-24,24,Avenue Joliot-Curie,04100,Manosque,C+O,43.841323,5.779302
-041120528Z-260,260,Avenue Joliot-Curie,04100,Manosque,OSM,43.823780,5.799066
-041120528Z-320,320,Avenue Joliot-Curie,04100,Manosque,OSM,43.824090,5.799399
-041120528Z-358,358,Avenue Joliot-Curie,04100,Manosque,OSM,43.824380,5.799656
+041120528Z-106,106,Avenue Joliot Curie,04100,Manosque,OSM,43.822480,5.798180
+"041120528Z-114,164","114;164",Avenue Joliot Curie,04100,Manosque,OSM,43.822807,5.798523
+041120528Z-13,13,Avenue Joliot Curie,04100,Manosque,C+O,43.842159,5.778695
+041120528Z-15,15,Avenue Joliot Curie,04100,Manosque,C+O,43.841655,5.778994
+041120528Z-16,16,Avenue Joliot Curie,04100,Manosque,C+O,43.841448,5.779238
+041120528Z-17,17,Avenue Joliot Curie,04100,Manosque,C+O,43.842172,5.778531
+041120528Z-18,18,Avenue Joliot Curie,04100,Manosque,C+O,43.841864,5.778787
+041120528Z-19,19,Avenue Joliot Curie,04100,Manosque,C+O,43.841753,5.778863
+041120528Z-20,20,Avenue Joliot Curie,04100,Manosque,C+O,43.841497,5.779043
+041120528Z-21,21,Avenue Joliot Curie,04100,Manosque,C+O,43.841336,5.779066
+041120528Z-22,22,Avenue Joliot Curie,04100,Manosque,C+O,43.841284,5.779184
+041120528Z-24,24,Avenue Joliot Curie,04100,Manosque,C+O,43.841323,5.779302
+041120528Z-260,260,Avenue Joliot Curie,04100,Manosque,OSM,43.823780,5.799066
+041120528Z-320,320,Avenue Joliot Curie,04100,Manosque,OSM,43.824090,5.799399
+041120528Z-358,358,Avenue Joliot Curie,04100,Manosque,OSM,43.824380,5.799656
 041120530B-10,10,Rue Kleber,04100,Manosque,C+O,43.831974,5.782257
 041120530B-1,1,Rue Kleber,04100,Manosque,C+O,43.832106,5.782162
 041120530B-12,12,Rue Kleber,04100,Manosque,C+O,43.831935,5.782280
@@ -12201,18 +12205,18 @@
 041120613S-467,467,Boulevard du Maréchal Juin,04100,Manosque,C+O,43.832604,5.795645
 041120613S-712,712,Boulevard du Maréchal Juin,04100,Manosque,OSM,43.833532,5.798757
 041120616V-7080,7080,Route de Marseille,04100,Manosque,C+O,43.809427,5.787201
-041120620Z-11B,11BIS,Rue Martels,04100,Manosque,C+O,43.833976,5.781450
-041120620Z-13,13,Rue Martels,04100,Manosque,C+O,43.834613,5.781751
-041120620Z-14,14,Rue Martels,04100,Manosque,C+O,43.834669,5.781998
-041120620Z-2,2,Rue Martels,04100,Manosque,C+O,43.833655,5.781471
-041120620Z-3,3,Rue Martels,04100,Manosque,C+O,43.833589,5.781455
-041120620Z-4,4,Rue Martels,04100,Manosque,C+O,43.833714,5.781464
-041120620Z-5,5,Rue Martels,04100,Manosque,C+O,43.833607,5.781282
-041120620Z-5B,5BIS,Rue Martels,04100,Manosque,C+O,43.833671,5.781361
-041120620Z-5T,5TER,Rue Martels,04100,Manosque,C+O,43.833709,5.781367
-041120620Z-6,6,Rue Martels,04100,Manosque,C+O,43.833764,5.781464
-041120620Z-7,7,Rue Martels,04100,Manosque,C+O,43.833754,5.781423
-041120620Z-8,8,Rue Martels,04100,Manosque,C+O,43.833834,5.781473
+041120620Z-11B,11BIS,Rue des Martels,04100,Manosque,C+O,43.833976,5.781450
+041120620Z-13,13,Rue des Martels,04100,Manosque,C+O,43.834613,5.781751
+041120620Z-14,14,Rue des Martels,04100,Manosque,C+O,43.834669,5.781998
+041120620Z-2,2,Rue des Martels,04100,Manosque,C+O,43.833655,5.781471
+041120620Z-3,3,Rue des Martels,04100,Manosque,C+O,43.833589,5.781455
+041120620Z-4,4,Rue des Martels,04100,Manosque,C+O,43.833714,5.781464
+041120620Z-5,5,Rue des Martels,04100,Manosque,C+O,43.833607,5.781282
+041120620Z-5B,5BIS,Rue des Martels,04100,Manosque,C+O,43.833671,5.781361
+041120620Z-5T,5TER,Rue des Martels,04100,Manosque,C+O,43.833709,5.781367
+041120620Z-6,6,Rue des Martels,04100,Manosque,C+O,43.833764,5.781464
+041120620Z-7,7,Rue des Martels,04100,Manosque,C+O,43.833754,5.781423
+041120620Z-8,8,Rue des Martels,04100,Manosque,C+O,43.833834,5.781473
 041120625E-5,5,Rue Martial Bonnet,04100,Manosque,C+O,43.828124,5.785716
 041120630K-10,10,Boulevard Martin Bret,04100,Manosque,CAD,43.835787,5.781562
 041120630K-11,11,Boulevard Martin Bret,04100,Manosque,CAD,43.835989,5.781276
@@ -12950,7 +12954,6 @@
 041120908M-140,140,Impasse du Chemin du Relais,04100,Manosque,C+O,43.846286,5.786131
 041120908M-52,52,Impasse du Chemin du Relais,04100,Manosque,C+O,43.846017,5.787300
 041120908M-85,85,Impasse du Chemin du Relais,04100,Manosque,C+O,43.846000,5.787090
-041120909N-560,560,Avenue Régis Ryckebush,04100,Manosque,OSM,43.833512,5.802168
 041120910P-1,1,Rue de la République,04100,Manosque,C+O,43.834039,5.783799
 041120910P-12,12,Rue de la République,04100,Manosque,C+O,43.834388,5.783513
 041120910P-14,14,Rue de la République,04100,Manosque,C+O,43.834477,5.783672
@@ -13624,9 +13627,10 @@
 041121060C-41A,41A,Boulevard des Tilleuls,04100,Manosque,OSM,43.834642,5.785040
 041121060C-41B,41B,Boulevard des Tilleuls,04100,Manosque,OSM,43.834591,5.785118
 041121060C-42,42,Boulevard des Tilleuls,04100,Manosque,OSM,43.834910,5.783855
-041121060C-42B,42BIS,Boulevard des Tilleuls,04100,Manosque,OSM,43.834621,5.784338
+041121060C-42B,42BIS,Boulevard des Tilleuls,04100,Manosque,C+O,43.834864,5.783919
 041121060C-42Q,42QUATER,Boulevard des Tilleuls,04100,Manosque,C+O,43.834855,5.783799
 041121060C-43,43,Boulevard des Tilleuls,04100,Manosque,OSM,43.834401,5.785339
+041121060C-44,44,Boulevard des Tilleuls,04100,Manosque,OSM,43.834621,5.784338
 041121060C-4,4,Boulevard des Tilleuls,04100,Manosque,OSM,43.835367,5.781994
 041121060C-45,45,Boulevard des Tilleuls,04100,Manosque,OSM,43.834342,5.785487
 "041121060C-46,46B","46;46B",Boulevard des Tilleuls,04100,Manosque,OSM,43.834537,5.784884
@@ -19689,7 +19693,7 @@
 041970225A-7338A,7338A,Esplanade Max Trouche,04220,Sainte-Tulle,CAD,43.786712,5.766808
 041970225A-7338B,7338B,Esplanade Max Trouche,04220,Sainte-Tulle,CAD,43.786712,5.766820
 041970225A-7338C,7338C,Esplanade Max Trouche,04220,Sainte-Tulle,CAD,43.786712,5.766832
-041970229E-7217,7217,Route de Montfuron,04220,Sainte-Tulle,CAD,43.790415,5.751891
+041970229E-7217,7217,Route de Montfuron,04220,Sainte-Tulle,C+O,43.790415,5.751891
 041970230F-119,119,Rue de Montfuron,04220,Sainte-Tulle,C+O,43.785993,5.760092
 041970230F-121,121,Rue de Montfuron,04220,Sainte-Tulle,C+O,43.786015,5.760037
 041970230F-125,125,Rue de Montfuron,04220,Sainte-Tulle,C+O,43.786032,5.760006
@@ -20202,11 +20206,11 @@
 042090195R-4,4,Rue du Bosquet,04200,Sisteron,CAD,44.181334,5.942941
 042090195R-6,6,Rue du Bosquet,04200,Sisteron,CAD,44.181417,5.942879
 042090195R-8,8,Rue du Bosquet,04200,Sisteron,CAD,44.181587,5.942965
-042090200W-1,1,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
-042090200W-32,32,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
-042090200W-420,420,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
-042090200W-5B,5BIS,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
-042090200W-6,6,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
+042090200W-1,1,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
+042090200W-32,32,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
+042090200W-420,420,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
+042090200W-5B,5BIS,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
+042090200W-6,6,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
 042090206C-46,46,Chemin de la Bousquette,04200,Sisteron,CAD,44.218006,5.915048
 042090214L-1,1,Impasse des Cerisiers,04200,Sisteron,CAD,44.184405,5.948502
 042090214L-3,3,Impasse des Cerisiers,04200,Sisteron,CAD,44.184042,5.948317
