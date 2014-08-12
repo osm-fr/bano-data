@@ -3605,9 +3605,9 @@
 190310130V-71,71,Avenue Alfred de Musset,19100,Brive-la-Gaillarde,C+O,45.162666,1.523331
 190310130V-7,7,Avenue Alfred de Musset,19100,Brive-la-Gaillarde,C+O,45.162071,1.528649
 190310130V-9,9,Avenue Alfred de Musset,19100,Brive-la-Gaillarde,C+O,45.162099,1.528508
-190310135A-1,1,Rue Alfred Deshors,19100,Brive-la-Gaillarde,CAD,45.139445,1.478129
-190310135A-2,2,Rue Alfred Deshors,19100,Brive-la-Gaillarde,CAD,45.139507,1.476571
-190310135A-5,5,Rue Alfred Deshors,19100,Brive-la-Gaillarde,CAD,45.138812,1.479522
+190310135A-1,1,Rue Alfred Deshors,19100,Brive-la-Gaillarde,C+O,45.139445,1.478129
+190310135A-2,2,Rue Alfred Deshors,19100,Brive-la-Gaillarde,C+O,45.139507,1.476571
+190310135A-5,5,Rue Alfred Deshors,19100,Brive-la-Gaillarde,C+O,45.138812,1.479522
 190310140F-10,10,Rue Alfred de Vigny,19100,Brive-la-Gaillarde,C+O,45.153440,1.511651
 190310140F-11,11,Rue Alfred de Vigny,19100,Brive-la-Gaillarde,C+O,45.153445,1.511908
 190310140F-12,12,Rue Alfred de Vigny,19100,Brive-la-Gaillarde,C+O,45.153350,1.511716
@@ -4359,38 +4359,38 @@
 190310371G-7B,7BIS,Rue des Aubaredes,19100,Brive-la-Gaillarde,C+O,45.165177,1.526136
 190310371G-8,8,Rue des Aubaredes,19100,Brive-la-Gaillarde,C+O,45.165277,1.526167
 190310371G-9,9,Rue des Aubaredes,19100,Brive-la-Gaillarde,C+O,45.165368,1.526003
-190310375L-10,10,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146591,1.497277
-190310375L-11,11,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146344,1.497006
-190310375L-1,1,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.145463,1.497538
-190310375L-12,12,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146591,1.497289
-190310375L-13,13,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146451,1.496942
-190310375L-14,14,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146591,1.497302
-190310375L-16,16,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146591,1.497315
-190310375L-17,17,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146880,1.496686
-190310375L-18,18,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146591,1.497328
-190310375L-19,19,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.147096,1.496557
-190310375L-20,20,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146591,1.497340
-190310375L-22,22,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146592,1.497352
-190310375L-24,24,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146592,1.497366
-190310375L-26,26,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146592,1.497378
-190310375L-28,28,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146592,1.497391
-190310375L-30,30,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146592,1.497404
-190310375L-32,32,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146592,1.497416
-190310375L-34,34,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146593,1.497429
-190310375L-36,36,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146593,1.497442
-190310375L-38,38,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146593,1.497454
-190310375L-40,40,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146593,1.497467
-190310375L-42,42,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146593,1.497479
-190310375L-44,44,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146593,1.497492
-190310375L-4,4,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146590,1.497233
-190310375L-46,46,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146594,1.497505
-190310375L-48,48,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146594,1.497518
-190310375L-50,50,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146594,1.497531
-190310375L-5,5,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.145981,1.497224
-190310375L-6,6,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146590,1.497246
-190310375L-7,7,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146074,1.497168
-190310375L-8,8,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146590,1.497259
-190310375L-9,9,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,CAD,45.146201,1.497092
+190310375L-10,10,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146591,1.497277
+190310375L-11,11,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146344,1.497006
+190310375L-1,1,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.145463,1.497538
+190310375L-12,12,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146591,1.497289
+190310375L-13,13,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146451,1.496942
+190310375L-14,14,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146591,1.497302
+190310375L-16,16,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146591,1.497315
+190310375L-17,17,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146880,1.496686
+190310375L-18,18,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146591,1.497328
+190310375L-19,19,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.147096,1.496557
+190310375L-20,20,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146591,1.497340
+190310375L-22,22,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146592,1.497352
+190310375L-24,24,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146592,1.497366
+190310375L-26,26,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146592,1.497378
+190310375L-28,28,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146592,1.497391
+190310375L-30,30,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146592,1.497404
+190310375L-32,32,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146592,1.497416
+190310375L-34,34,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146593,1.497429
+190310375L-36,36,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146593,1.497442
+190310375L-38,38,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146593,1.497454
+190310375L-40,40,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146593,1.497467
+190310375L-42,42,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146593,1.497479
+190310375L-44,44,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146593,1.497492
+190310375L-4,4,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146590,1.497233
+190310375L-46,46,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146594,1.497505
+190310375L-48,48,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146594,1.497518
+190310375L-50,50,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146594,1.497531
+190310375L-5,5,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.145981,1.497224
+190310375L-6,6,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146590,1.497246
+190310375L-7,7,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146074,1.497168
+190310375L-8,8,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146590,1.497259
+190310375L-9,9,Rue Auguste Bartholdi,19100,Brive-la-Gaillarde,C+O,45.146201,1.497092
 190310379R-1,1,Allée Auguste Blanqui,19100,Brive-la-Gaillarde,CAD,45.168553,1.541169
 190310379R-2,2,Allée Auguste Blanqui,19100,Brive-la-Gaillarde,CAD,45.168293,1.540878
 190310379R-4,4,Allée Auguste Blanqui,19100,Brive-la-Gaillarde,CAD,45.168293,1.540891
@@ -4599,17 +4599,17 @@
 190310492N-96,96,Chemin de Bassaler,19100,Brive-la-Gaillarde,C+O,45.143328,1.500162
 190310492N-98,98,Chemin de Bassaler,19100,Brive-la-Gaillarde,C+O,45.143300,1.499941
 190310492N-9,9,Chemin de Bassaler,19100,Brive-la-Gaillarde,C+O,45.145389,1.520402
-190310493P-10,10,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.146867,1.500737
-190310493P-10B,10BIS,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.146897,1.500845
-190310493P-12,12,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.147102,1.500663
-190310493P-14,14,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.147297,1.500603
-190310493P-15,15,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.147138,1.500553
-190310493P-18,18,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.147510,1.500530
-190310493P-19,19,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.147555,1.500425
-190310493P-2,2,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.146243,1.500932
-190310493P-4,4,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.146433,1.500872
-190310493P-6,6,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.146612,1.500789
-190310493P-8,8,Impasse Bassaler,19100,Brive-la-Gaillarde,CAD,45.146765,1.500769
+190310493P-10,10,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.146867,1.500737
+190310493P-10B,10BIS,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.146897,1.500845
+190310493P-12,12,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.147102,1.500663
+190310493P-14,14,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.147297,1.500603
+190310493P-15,15,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.147138,1.500553
+190310493P-18,18,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.147510,1.500530
+190310493P-19,19,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.147555,1.500425
+190310493P-2,2,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.146243,1.500932
+190310493P-4,4,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.146433,1.500872
+190310493P-6,6,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.146612,1.500789
+190310493P-8,8,Impasse Bassaler,19100,Brive-la-Gaillarde,C+O,45.146765,1.500769
 190310500X-10,10,Rue Basse,19100,Brive-la-Gaillarde,C+O,45.159906,1.534868
 190310500X-11,11,Rue Basse,19100,Brive-la-Gaillarde,C+O,45.160105,1.534798
 190310500X-1,1,Rue Basse,19100,Brive-la-Gaillarde,C+O,45.159524,1.534555
@@ -8179,18 +8179,18 @@
 190312341Y-5,5,Chemin Ancien Chem de Fadat,19100,Brive-la-Gaillarde,CAD,45.184062,1.537775
 190312341Y-7,7,Chemin Ancien Chem de Fadat,19100,Brive-la-Gaillarde,CAD,45.183933,1.537973
 190312341Y-9,9,Chemin Ancien Chem de Fadat,19100,Brive-la-Gaillarde,CAD,45.183849,1.538182
-190312345C-10,10,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145561,1.496237
-190312345C-11,11,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145460,1.496223
-190312345C-1,1,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145752,1.497192
-190312345C-12,12,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145482,1.495977
-190312345C-13,13,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145389,1.495991
-190312345C-3,3,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145710,1.497053
-190312345C-4,4,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145757,1.496881
-190312345C-5,5,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145650,1.496854
-190312345C-6,6,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145696,1.496680
-190312345C-7,7,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145611,1.496657
-190312345C-8,8,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145626,1.496451
-190312345C-9,9,Rue Falguiere Alexandre,19100,Brive-la-Gaillarde,CAD,45.145521,1.496425
+190312345C-10,10,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145561,1.496237
+190312345C-11,11,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145460,1.496223
+190312345C-1,1,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145752,1.497192
+190312345C-12,12,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145482,1.495977
+190312345C-13,13,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145389,1.495991
+190312345C-3,3,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145710,1.497053
+190312345C-4,4,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145757,1.496881
+190312345C-5,5,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145650,1.496854
+190312345C-6,6,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145696,1.496680
+190312345C-7,7,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145611,1.496657
+190312345C-8,8,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145626,1.496451
+190312345C-9,9,Rue Falguière Alexandre,19100,Brive-la-Gaillarde,C+O,45.145521,1.496425
 190312350H-10,10,Rue Faraday,19100,Brive-la-Gaillarde,C+O,45.155948,1.523615
 190312350H-11,11,Rue Faraday,19100,Brive-la-Gaillarde,C+O,45.155929,1.523516
 190312350H-1,1,Rue Faraday,19100,Brive-la-Gaillarde,C+O,45.155477,1.523789
@@ -10704,15 +10704,15 @@
 190313303U-7,7,Impasse Jean Antoine Chaptal,19100,Brive-la-Gaillarde,C+O,45.154572,1.520169
 190313303U-8,8,Impasse Jean Antoine Chaptal,19100,Brive-la-Gaillarde,C+O,45.154593,1.520297
 190313303U-9,9,Impasse Jean Antoine Chaptal,19100,Brive-la-Gaillarde,C+O,45.154768,1.520132
-190313305W-10,10,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146412,1.495807
-190313305W-12,12,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146447,1.495411
-190313305W-3,3,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146503,1.496380
-190313305W-4,4,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146614,1.496478
-190313305W-5,5,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146463,1.496250
-190313305W-6,6,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146552,1.496272
-190313305W-7,7,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146421,1.496111
-190313305W-8,8,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146485,1.496050
-190313305W-9,9,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,CAD,45.146298,1.495920
+190313305W-10,10,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146412,1.495807
+190313305W-12,12,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146447,1.495411
+190313305W-3,3,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146503,1.496380
+190313305W-4,4,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146614,1.496478
+190313305W-5,5,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146463,1.496250
+190313305W-6,6,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146552,1.496272
+190313305W-7,7,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146421,1.496111
+190313305W-8,8,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146485,1.496050
+190313305W-9,9,Rue Jean Antoine Houdon,19100,Brive-la-Gaillarde,C+O,45.146298,1.495920
 190313310B-10,10,Rue Jean Audiau,19100,Brive-la-Gaillarde,C+O,45.153545,1.518756
 190313310B-11,11,Rue Jean Audiau,19100,Brive-la-Gaillarde,C+O,45.153446,1.518686
 190313310B-12,12,Rue Jean Audiau,19100,Brive-la-Gaillarde,C+O,45.153623,1.518697
@@ -10788,29 +10788,29 @@
 190313350V-7,7,Rue J Baptiste Lamarck,19100,Brive-la-Gaillarde,CAD,45.162241,1.511214
 190313350V-8,8,Rue J Baptiste Lamarck,19100,Brive-la-Gaillarde,CAD,45.162155,1.511211
 190313350V-9,9,Rue J Baptiste Lamarck,19100,Brive-la-Gaillarde,CAD,45.162239,1.511426
-190313360F-11,11,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.143975,1.492108
-190313360F-13,13,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144106,1.492063
-190313360F-14,14,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144514,1.492021
-190313360F-15,15,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144254,1.492010
-190313360F-16,16,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144650,1.491973
-190313360F-17,17,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144392,1.491961
-190313360F-18,18,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144824,1.491911
-190313360F-19,19,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144525,1.491911
-190313360F-20,20,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.145013,1.491844
-190313360F-21,21,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144658,1.491865
-190313360F-22,22,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.145140,1.491799
-190313360F-2,2,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.143617,1.492477
-190313360F-23,23,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144788,1.491820
-190313360F-25,25,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144914,1.491775
-190313360F-27,27,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.145048,1.491726
-190313360F-29,29,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.145179,1.491679
-190313360F-31,31,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.145325,1.491630
-190313360F-33,33,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.145468,1.491578
-190313360F-5,5,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.143614,1.492239
-190313360F-6,6,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.143785,1.492279
-190313360F-7,7,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.143726,1.492195
-190313360F-8,8,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.144123,1.492159
-190313360F-9,9,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,CAD,45.143844,1.492126
+190313360F-11,11,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.143975,1.492108
+190313360F-13,13,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144106,1.492063
+190313360F-14,14,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144514,1.492021
+190313360F-15,15,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144254,1.492010
+190313360F-16,16,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144650,1.491973
+190313360F-17,17,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144392,1.491961
+190313360F-18,18,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144824,1.491911
+190313360F-19,19,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144525,1.491911
+190313360F-20,20,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.145013,1.491844
+190313360F-21,21,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144658,1.491865
+190313360F-22,22,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.145140,1.491799
+190313360F-2,2,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.143617,1.492477
+190313360F-23,23,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144788,1.491820
+190313360F-25,25,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144914,1.491775
+190313360F-27,27,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.145048,1.491726
+190313360F-29,29,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.145179,1.491679
+190313360F-31,31,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.145325,1.491630
+190313360F-33,33,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.145468,1.491578
+190313360F-5,5,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.143614,1.492239
+190313360F-6,6,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.143785,1.492279
+190313360F-7,7,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.143726,1.492195
+190313360F-8,8,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.144123,1.492159
+190313360F-9,9,Rue Jean Baptiste Siorat,19100,Brive-la-Gaillarde,C+O,45.143844,1.492126
 190313370S-10,10,Rue Jean Baptiste Sirey,19100,Brive-la-Gaillarde,C+O,45.152178,1.543615
 190313370S-1,1,Rue Jean Baptiste Sirey,19100,Brive-la-Gaillarde,C+O,45.151851,1.543681
 190313370S-12,12,Rue Jean Baptiste Sirey,19100,Brive-la-Gaillarde,C+O,45.152265,1.543562
@@ -10978,16 +10978,16 @@
 190313397W-7,7,Avenue Jean Chastre,19100,Brive-la-Gaillarde,C+O,45.161659,1.541488
 190313397W-8,8,Avenue Jean Chastre,19100,Brive-la-Gaillarde,C+O,45.161608,1.541791
 190313397W-9,9,Avenue Jean Chastre,19100,Brive-la-Gaillarde,C+O,45.161694,1.541658
-190313398X-10,10,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139515,1.472445
-190313398X-1,1,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139030,1.476264
-190313398X-2,2,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139730,1.476507
-190313398X-3,3,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139446,1.475698
-190313398X-4,4,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139749,1.475338
-190313398X-5,5,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139407,1.474640
-190313398X-6,6,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139576,1.474100
-190313398X-7,7,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139361,1.473365
-190313398X-8,8,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139544,1.473223
-190313398X-9,9,Rue Jean Dallet,19100,Brive-la-Gaillarde,CAD,45.139329,1.472490
+190313398X-10,10,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139515,1.472445
+190313398X-1,1,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139030,1.476264
+190313398X-2,2,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139730,1.476507
+190313398X-3,3,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139446,1.475698
+190313398X-4,4,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139749,1.475338
+190313398X-5,5,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139407,1.474640
+190313398X-6,6,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139576,1.474100
+190313398X-7,7,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139361,1.473365
+190313398X-8,8,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139544,1.473223
+190313398X-9,9,Rue Jean Dallet,19100,Brive-la-Gaillarde,C+O,45.139329,1.472490
 190313402B-11B,11BIS,Rue Jean Dutheil,19100,Brive-la-Gaillarde,CAD,45.146251,1.511711
 190313402B-14,14,Rue Jean Dutheil,19100,Brive-la-Gaillarde,CAD,45.146416,1.511134
 190313402B-17,17,Rue Jean Dutheil,19100,Brive-la-Gaillarde,CAD,45.146210,1.511354
@@ -11770,61 +11770,61 @@
 190313548K-6,6,Rue Joséphine Baker,19100,Brive-la-Gaillarde,C+O,45.156277,1.490697
 190313548K-8,8,Rue Joséphine Baker,19100,Brive-la-Gaillarde,C+O,45.155536,1.490980
 190313556U-8,8,Rue Jules Bouchet,19100,Brive-la-Gaillarde,C+O,45.160621,1.480213
-190313560Y-10,10,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147158,1.495772
-190313560Y-11,11,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146874,1.495312
-190313560Y-12,12,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147135,1.495679
-190313560Y-13,13,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146816,1.495097
-190313560Y-13B,13BIS,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146784,1.494975
-190313560Y-14,14,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147111,1.495581
-190313560Y-15,15,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146805,1.494733
-190313560Y-16,16,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147062,1.495388
-190313560Y-17,17,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146734,1.494493
-190313560Y-17B,17BIS,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146641,1.494259
-190313560Y-18,18,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147038,1.495302
-190313560Y-19A,19A,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146630,1.494163
-190313560Y-19B,19B,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.145935,1.494496
-190313560Y-19C,19C,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.145715,1.494600
-190313560Y-19D,19D,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.145775,1.494465
-190313560Y-19E,19E,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.145962,1.494377
-190313560Y-19F,19F,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146615,1.494107
-190313560Y-20,20,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147017,1.495223
-190313560Y-22,22,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146998,1.495155
-190313560Y-23,23,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146531,1.493812
-190313560Y-23B,23BIS,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146487,1.493654
-190313560Y-23T,23TER,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146454,1.493559
-190313560Y-24,24,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146979,1.495084
-190313560Y-25,25,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146409,1.493398
-190313560Y-26,26,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146974,1.495005
-190313560Y-27,27,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146324,1.493111
-190313560Y-29,29,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146188,1.492901
-190313560Y-30,30,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146828,1.494557
-190313560Y-31,31,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146153,1.492702
-190313560Y-32,32,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146778,1.494390
-190313560Y-33,33,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146091,1.492491
-190313560Y-3,3,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147152,1.496139
-190313560Y-34,34,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146721,1.494197
-190313560Y-35,35,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146041,1.492237
-190313560Y-36,36,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146657,1.493983
-190313560Y-37,37,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.145968,1.491989
-190313560Y-38,38,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146595,1.493774
-190313560Y-40,40,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146579,1.493553
-190313560Y-42,42,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146530,1.493386
-190313560Y-44,44,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146430,1.493214
-190313560Y-4,4,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147213,1.496000
-190313560Y-46,46,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146367,1.493001
-190313560Y-48,48,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146304,1.492789
-190313560Y-50,50,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146245,1.492589
-190313560Y-52,52,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146192,1.492411
-190313560Y-54,54,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146136,1.492221
-190313560Y-5,5,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147096,1.495918
-190313560Y-56,56,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146063,1.491974
-190313560Y-58,58,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146008,1.491791
-190313560Y-60,60,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.145963,1.491640
-190313560Y-62,62,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.145883,1.491368
-190313560Y-6,6,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147198,1.495933
-190313560Y-7,7,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147041,1.495701
-190313560Y-8,8,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.147178,1.495853
-190313560Y-9,9,Rue Jules Dalou,19100,Brive-la-Gaillarde,CAD,45.146988,1.495488
+190313560Y-10,10,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147158,1.495772
+190313560Y-11,11,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146874,1.495312
+190313560Y-12,12,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147135,1.495679
+190313560Y-13,13,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146816,1.495097
+190313560Y-13B,13BIS,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146784,1.494975
+190313560Y-14,14,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147111,1.495581
+190313560Y-15,15,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146805,1.494733
+190313560Y-16,16,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147062,1.495388
+190313560Y-17,17,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146734,1.494493
+190313560Y-17B,17BIS,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146641,1.494259
+190313560Y-18,18,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147038,1.495302
+190313560Y-19A,19A,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146630,1.494163
+190313560Y-19B,19B,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.145935,1.494496
+190313560Y-19C,19C,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.145715,1.494600
+190313560Y-19D,19D,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.145775,1.494465
+190313560Y-19E,19E,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.145962,1.494377
+190313560Y-19F,19F,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146615,1.494107
+190313560Y-20,20,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147017,1.495223
+190313560Y-22,22,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146998,1.495155
+190313560Y-23,23,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146531,1.493812
+190313560Y-23B,23BIS,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146487,1.493654
+190313560Y-23T,23TER,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146454,1.493559
+190313560Y-24,24,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146979,1.495084
+190313560Y-25,25,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146409,1.493398
+190313560Y-26,26,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146974,1.495005
+190313560Y-27,27,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146324,1.493111
+190313560Y-29,29,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146188,1.492901
+190313560Y-30,30,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146828,1.494557
+190313560Y-31,31,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146153,1.492702
+190313560Y-32,32,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146778,1.494390
+190313560Y-33,33,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146091,1.492491
+190313560Y-3,3,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147152,1.496139
+190313560Y-34,34,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146721,1.494197
+190313560Y-35,35,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146041,1.492237
+190313560Y-36,36,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146657,1.493983
+190313560Y-37,37,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.145968,1.491989
+190313560Y-38,38,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146595,1.493774
+190313560Y-40,40,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146579,1.493553
+190313560Y-42,42,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146530,1.493386
+190313560Y-44,44,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146430,1.493214
+190313560Y-4,4,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147213,1.496000
+190313560Y-46,46,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146367,1.493001
+190313560Y-48,48,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146304,1.492789
+190313560Y-50,50,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146245,1.492589
+190313560Y-52,52,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146192,1.492411
+190313560Y-54,54,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146136,1.492221
+190313560Y-5,5,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147096,1.495918
+190313560Y-56,56,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146063,1.491974
+190313560Y-58,58,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146008,1.491791
+190313560Y-60,60,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.145963,1.491640
+190313560Y-62,62,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.145883,1.491368
+190313560Y-6,6,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147198,1.495933
+190313560Y-7,7,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147041,1.495701
+190313560Y-8,8,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.147178,1.495853
+190313560Y-9,9,Rue Jules Dalou,19100,Brive-la-Gaillarde,C+O,45.146988,1.495488
 190313570J-10,10,Boulevard Jules Ferry,19100,Brive-la-Gaillarde,C+O,45.157172,1.535435
 190313570J-11,11,Boulevard Jules Ferry,19100,Brive-la-Gaillarde,C+O,45.158268,1.536171
 190313570J-1,1,Boulevard Jules Ferry,19100,Brive-la-Gaillarde,C+O,45.157499,1.536668
@@ -12476,61 +12476,61 @@
 190313960H-4B,4BIS,Rue Léonard de Vinci,19100,Brive-la-Gaillarde,C+O,45.159867,1.516973
 190313960H-6,6,Rue Léonard de Vinci,19100,Brive-la-Gaillarde,C+O,45.159851,1.516831
 190313960H-7,7,Rue Léonard de Vinci,19100,Brive-la-Gaillarde,C+O,45.159777,1.516841
-190313970U-11,11,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145863,1.499787
-190313970U-1,1,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145997,1.500578
-190313970U-15,15,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145768,1.499366
-190313970U-17,17,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145711,1.499178
-190313970U-19,19,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145665,1.499045
-190313970U-21,21,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145581,1.498909
-190313970U-22,22,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145118,1.497195
-190313970U-22B,22BIS,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145049,1.497005
-190313970U-2,2,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.146107,1.500769
-190313970U-23,23,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145516,1.498637
-190313970U-24,24,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144902,1.496596
-190313970U-24B,24BIS,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144831,1.496397
-190313970U-25,25,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145468,1.498501
-190313970U-26,26,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144760,1.496217
-190313970U-27,27,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145375,1.498291
-190313970U-28,28,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145596,1.495381
-190313970U-29,29,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145308,1.498112
-190313970U-31,31,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145257,1.497964
-190313970U-33,33,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145245,1.497836
-190313970U-35,35,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145167,1.497678
-190313970U-36,36,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144499,1.495517
-190313970U-37,37,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145124,1.497497
-190313970U-38,38,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144424,1.495318
-190313970U-38B,38BIS,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144398,1.495271
-190313970U-38T,38TER,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145036,1.494980
-190313970U-39,39,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145086,1.497391
-190313970U-40,40,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144321,1.495013
-190313970U-41,41,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144896,1.497419
-190313970U-41B,41BIS,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145004,1.497192
-190313970U-42,42,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144264,1.494823
-190313970U-43,43,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144974,1.497112
-190313970U-4,4,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.147303,1.500058
-190313970U-46,46,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144168,1.494508
-190313970U-49,49,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144778,1.496662
-190313970U-4A,4A,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.147303,1.500076
-190313970U-4B,4B,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.146506,1.500351
-190313970U-50,50,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144078,1.494229
-190313970U-51,51,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144693,1.496445
-190313970U-53,53,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144633,1.496273
-190313970U-60,60,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143736,1.493230
-190313970U-61,61,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144287,1.495295
-190313970U-62,62,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143655,1.493040
-190313970U-63,63,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144227,1.495092
-190313970U-64,64,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143575,1.492846
-190313970U-65,65,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144175,1.494901
-190313970U-6,6,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.146034,1.500302
-190313970U-67,67,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144109,1.494692
-190313970U-69,69,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.144025,1.494422
-190313970U-70,70,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143140,1.492032
-190313970U-71,71,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143925,1.494089
-190313970U-72,72,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143151,1.491724
-190313970U-7,7,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145911,1.500105
-190313970U-83,83,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143260,1.492752
-190313970U-85,85,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.143260,1.492765
-190313970U-9,9,Rue Leonce Bourliaguet,19100,Brive-la-Gaillarde,CAD,45.145898,1.499952
+190313970U-11,11,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145863,1.499787
+190313970U-1,1,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145997,1.500578
+190313970U-15,15,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145768,1.499366
+190313970U-17,17,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145711,1.499178
+190313970U-19,19,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145665,1.499045
+190313970U-21,21,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145581,1.498909
+190313970U-22,22,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145118,1.497195
+190313970U-22B,22BIS,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145049,1.497005
+190313970U-2,2,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.146107,1.500769
+190313970U-23,23,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145516,1.498637
+190313970U-24,24,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144902,1.496596
+190313970U-24B,24BIS,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144831,1.496397
+190313970U-25,25,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145468,1.498501
+190313970U-26,26,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144760,1.496217
+190313970U-27,27,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145375,1.498291
+190313970U-28,28,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145596,1.495381
+190313970U-29,29,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145308,1.498112
+190313970U-31,31,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145257,1.497964
+190313970U-33,33,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145245,1.497836
+190313970U-35,35,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145167,1.497678
+190313970U-36,36,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144499,1.495517
+190313970U-37,37,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145124,1.497497
+190313970U-38,38,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144424,1.495318
+190313970U-38B,38BIS,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144398,1.495271
+190313970U-38T,38TER,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145036,1.494980
+190313970U-39,39,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145086,1.497391
+190313970U-40,40,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144321,1.495013
+190313970U-41,41,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144896,1.497419
+190313970U-41B,41BIS,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145004,1.497192
+190313970U-42,42,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144264,1.494823
+190313970U-43,43,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144974,1.497112
+190313970U-4,4,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.147303,1.500058
+190313970U-46,46,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144168,1.494508
+190313970U-49,49,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144778,1.496662
+190313970U-4A,4A,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.147303,1.500076
+190313970U-4B,4B,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.146506,1.500351
+190313970U-50,50,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144078,1.494229
+190313970U-51,51,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144693,1.496445
+190313970U-53,53,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144633,1.496273
+190313970U-60,60,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143736,1.493230
+190313970U-61,61,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144287,1.495295
+190313970U-62,62,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143655,1.493040
+190313970U-63,63,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144227,1.495092
+190313970U-64,64,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143575,1.492846
+190313970U-65,65,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144175,1.494901
+190313970U-6,6,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.146034,1.500302
+190313970U-67,67,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144109,1.494692
+190313970U-69,69,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.144025,1.494422
+190313970U-70,70,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143140,1.492032
+190313970U-71,71,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143925,1.494089
+190313970U-72,72,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143151,1.491724
+190313970U-7,7,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145911,1.500105
+190313970U-83,83,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143260,1.492752
+190313970U-85,85,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.143260,1.492765
+190313970U-9,9,Rue Léonce Bourliaguet,19100,Brive-la-Gaillarde,C+O,45.145898,1.499952
 190313980E-10,10,Rue Léopold Lachaud,19100,Brive-la-Gaillarde,C+O,45.152685,1.533979
 190313980E-10B,10BIS,Rue Léopold Lachaud,19100,Brive-la-Gaillarde,C+O,45.152547,1.533881
 190313980E-10T,10TER,Rue Léopold Lachaud,19100,Brive-la-Gaillarde,C+O,45.152470,1.533828
@@ -13064,17 +13064,17 @@
 190314190H-9,9,Avenue Louis Pons,19100,Brive-la-Gaillarde,C+O,45.151652,1.533820
 190314190H-9B,9BIS,Avenue Louis Pons,19100,Brive-la-Gaillarde,C+O,45.151624,1.533896
 190314190H-9T,9TER,Avenue Louis Pons,19100,Brive-la-Gaillarde,C+O,45.151586,1.533999
-190314191J-10,10,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.141031,1.470786
-190314191J-11,11,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.140915,1.470790
-190314191J-1,1,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.139887,1.474541
-190314191J-2,2,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.140155,1.474612
-190314191J-3,3,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.140223,1.474438
-190314191J-4,4,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.139749,1.475338
-190314191J-5,5,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.140788,1.474258
-190314191J-6,6,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.141266,1.473674
-190314191J-7,7,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.141088,1.472937
-190314191J-8,8,Rue Louis Rodas,19100,Brive-la-Gaillarde,CAD,45.141092,1.471553
-190314192K-9,9,Rue Louis Taurisson,19100,Brive-la-Gaillarde,CAD,45.143069,1.482536
+190314191J-10,10,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.141031,1.470786
+190314191J-11,11,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.140915,1.470790
+190314191J-1,1,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.139887,1.474541
+190314191J-2,2,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.140155,1.474612
+190314191J-3,3,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.140223,1.474438
+190314191J-4,4,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.139749,1.475338
+190314191J-5,5,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.140788,1.474258
+190314191J-6,6,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.141266,1.473674
+190314191J-7,7,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.141088,1.472937
+190314191J-8,8,Rue Louis Rodas,19100,Brive-la-Gaillarde,C+O,45.141092,1.471553
+190314192K-9,9,Rue Louis Taurisson,19100,Brive-la-Gaillarde,C+O,45.143069,1.482536
 190314195N-18,18,Rue Louis de Saint-Germain,19100,Brive-la-Gaillarde,CAD,45.147488,1.515434
 190314195N-19,19,Rue Louis de Saint-Germain,19100,Brive-la-Gaillarde,CAD,45.147586,1.515554
 190314195N-20,20,Rue Louis de Saint-Germain,19100,Brive-la-Gaillarde,CAD,45.147420,1.515741
@@ -13681,10 +13681,10 @@
 190314440E-6,6,Boulevard Marechal Lyautey,19100,Brive-la-Gaillarde,C+O,45.156821,1.532960
 190314440E-7,7,Boulevard Marechal Lyautey,19100,Brive-la-Gaillarde,C+O,45.156658,1.532433
 190314440E-9,9,Boulevard Marechal Lyautey,19100,Brive-la-Gaillarde,C+O,45.156665,1.532722
-190314451S-11,11,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,CAD,45.144231,1.497258
-190314451S-4,4,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,CAD,45.144050,1.496760
-190314451S-5,5,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,CAD,45.144113,1.496694
-190314451S-9,9,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,CAD,45.144219,1.497112
+190314451S-11,11,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,C+O,45.144231,1.497258
+190314451S-4,4,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,C+O,45.144050,1.496760
+190314451S-5,5,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,C+O,45.144113,1.496694
+190314451S-9,9,Impasse Marguerite Gaillot Priolo,19100,Brive-la-Gaillarde,C+O,45.144219,1.497112
 190314453U-1,1,Rue Marguerite Genes,19100,Brive-la-Gaillarde,CAD,45.148657,1.514079
 190314453U-14,14,Rue Marguerite Genes,19100,Brive-la-Gaillarde,CAD,45.147526,1.514828
 190314453U-17,17,Rue Marguerite Genes,19100,Brive-la-Gaillarde,CAD,45.147510,1.515036
@@ -15514,9 +15514,9 @@
 190315275M-7,7,Rue Pierre Lescot,19100,Brive-la-Gaillarde,C+O,45.171908,1.543291
 190315275M-8,8,Rue Pierre Lescot,19100,Brive-la-Gaillarde,C+O,45.172146,1.543586
 190315275M-9,9,Rue Pierre Lescot,19100,Brive-la-Gaillarde,C+O,45.172177,1.542965
-190315279S-2,2,Rue Pierre Marcou,19100,Brive-la-Gaillarde,CAD,45.139540,1.470219
-190315279S-4,4,Rue Pierre Marcou,19100,Brive-la-Gaillarde,CAD,45.139431,1.468605
-190315279S-5,5,Rue Pierre Marcou,19100,Brive-la-Gaillarde,CAD,45.137910,1.468107
+190315279S-2,2,Rue Pierre Marcou,19100,Brive-la-Gaillarde,C+O,45.139540,1.470219
+190315279S-4,4,Rue Pierre Marcou,19100,Brive-la-Gaillarde,C+O,45.139431,1.468605
+190315279S-5,5,Rue Pierre Marcou,19100,Brive-la-Gaillarde,C+O,45.137910,1.468107
 190315280T-10,10,Rue Pierre Loti,19100,Brive-la-Gaillarde,C+O,45.157145,1.545351
 190315280T-11,11,Rue Pierre Loti,19100,Brive-la-Gaillarde,C+O,45.157001,1.545451
 190315280T-12,12,Rue Pierre Loti,19100,Brive-la-Gaillarde,C+O,45.157010,1.545375
@@ -16286,18 +16286,18 @@
 190315620M-6,6,Avenue du 14 Juillet,19100,Brive-la-Gaillarde,C+O,45.161285,1.534103
 190315620M-8,8,Avenue du 14 Juillet,19100,Brive-la-Gaillarde,C+O,45.161229,1.534168
 190315631Z-4,4,Avenue du 4 Juillet 1776,19100,Brive-la-Gaillarde,CAD,45.159118,1.475441
-190315653Y-10,10,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144772,1.493237
-190315653Y-11,11,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144385,1.493548
-190315653Y-1,1,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.145145,1.493210
-190315653Y-12,12,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144621,1.493302
-190315653Y-14,14,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144468,1.493369
-190315653Y-15,15,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144062,1.493716
-190315653Y-16,16,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144305,1.493441
-190315653Y-18,18,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144160,1.493504
-190315653Y-20,20,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144014,1.493568
-190315653Y-2,2,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.145445,1.492897
-190315653Y-3,3,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144976,1.493286
-190315653Y-6,6,Rue du Quebec,19100,Brive-la-Gaillarde,CAD,45.144941,1.493163
+190315653Y-10,10,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144772,1.493237
+190315653Y-11,11,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144385,1.493548
+190315653Y-1,1,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.145145,1.493210
+190315653Y-12,12,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144621,1.493302
+190315653Y-14,14,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144468,1.493369
+190315653Y-15,15,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144062,1.493716
+190315653Y-16,16,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144305,1.493441
+190315653Y-18,18,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144160,1.493504
+190315653Y-20,20,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144014,1.493568
+190315653Y-2,2,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.145445,1.492897
+190315653Y-3,3,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144976,1.493286
+190315653Y-6,6,Rue du Québec,19100,Brive-la-Gaillarde,C+O,45.144941,1.493163
 190315659E-1,1,Cours du 15 Août 1944,19100,Brive-la-Gaillarde,C+O,45.161166,1.530866
 190315659E-1A,1A,Cours du 15 Août 1944,19100,Brive-la-Gaillarde,C+O,45.161136,1.530842
 190315659E-2,2,Cours du 15 Août 1944,19100,Brive-la-Gaillarde,C+O,45.161343,1.530718
@@ -16406,7 +16406,7 @@
 190315705E-5,5,Rue Raymond Laborde,19100,Brive-la-Gaillarde,C+O,45.160332,1.519463
 190315705E-6,6,Rue Raymond Laborde,19100,Brive-la-Gaillarde,C+O,45.160400,1.519330
 190315705E-8,8,Rue Raymond Laborde,19100,Brive-la-Gaillarde,C+O,45.160257,1.519344
-190315708H-4,4,Rue Raymond Siorat,19100,Brive-la-Gaillarde,CAD,45.142481,1.482128
+190315708H-4,4,Rue Raymond Siorat,19100,Brive-la-Gaillarde,C+O,45.142481,1.482128
 190315710K-10,10,Rue Raymond Monteil,19100,Brive-la-Gaillarde,CAD,45.152558,1.523206
 190315710K-11,11,Rue Raymond Monteil,19100,Brive-la-Gaillarde,CAD,45.152202,1.523015
 190315710K-12,12,Rue Raymond Monteil,19100,Brive-la-Gaillarde,CAD,45.152444,1.523108
@@ -16476,10 +16476,10 @@
 190315770A-6,6,Rue Remi Coste,19100,Brive-la-Gaillarde,C+O,45.166521,1.502506
 190315770A-8,8,Rue Remi Coste,19100,Brive-la-Gaillarde,C+O,45.166685,1.502161
 190315770A-9,9,Rue Remi Coste,19100,Brive-la-Gaillarde,C+O,45.166280,1.502045
-190315775F-1,1,Rue René Jean,19100,Brive-la-Gaillarde,CAD,45.139880,1.470321
-190315775F-3,3,Rue René Jean,19100,Brive-la-Gaillarde,CAD,45.141102,1.469969
-190315775F-4,4,Rue René Jean,19100,Brive-la-Gaillarde,CAD,45.140598,1.470385
-190315775F-6,6,Rue René Jean,19100,Brive-la-Gaillarde,CAD,45.141308,1.470197
+190315775F-1,1,Rue René Jean,19100,Brive-la-Gaillarde,C+O,45.139880,1.470321
+190315775F-3,3,Rue René Jean,19100,Brive-la-Gaillarde,C+O,45.141102,1.469969
+190315775F-4,4,Rue René Jean,19100,Brive-la-Gaillarde,C+O,45.140598,1.470385
+190315775F-6,6,Rue René Jean,19100,Brive-la-Gaillarde,C+O,45.141308,1.470197
 190315780L-1,1,Rue René Antoine Reaumur,19100,Brive-la-Gaillarde,C+O,45.162730,1.510708
 190315780L-4,4,Rue René Antoine Reaumur,19100,Brive-la-Gaillarde,C+O,45.162638,1.511044
 190315780L-6,6,Rue René Antoine Reaumur,19100,Brive-la-Gaillarde,C+O,45.162635,1.511262
@@ -17159,14 +17159,14 @@
 190316050E-4,4,Rue Saint-Joseph,19100,Brive-la-Gaillarde,C+O,45.157609,1.530933
 190316050E-5,5,Rue Saint-Joseph,19100,Brive-la-Gaillarde,C+O,45.157480,1.531038
 190316050E-6,6,Rue Saint-Joseph,19100,Brive-la-Gaillarde,C+O,45.157505,1.530987
-190316052G-10,10,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143648,1.495048
-190316052G-1,1,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143873,1.495992
-190316052G-3,3,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143643,1.495888
-190316052G-4,4,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143842,1.495650
-190316052G-5,5,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143695,1.495536
-190316052G-6,6,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143764,1.495450
-190316052G-8,8,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143693,1.495266
-190316052G-9,9,Impasse Saint-Just,19100,Brive-la-Gaillarde,CAD,45.143506,1.495136
+190316052G-10,10,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143648,1.495048
+190316052G-1,1,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143873,1.495992
+190316052G-3,3,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143643,1.495888
+190316052G-4,4,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143842,1.495650
+190316052G-5,5,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143695,1.495536
+190316052G-6,6,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143764,1.495450
+190316052G-8,8,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143693,1.495266
+190316052G-9,9,Impasse Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143506,1.495136
 190316053H-1,1,Rue Saint-Just,19100,Brive-la-Gaillarde,C+O,45.144283,1.495887
 190316053H-12,12,Rue Saint-Just,19100,Brive-la-Gaillarde,C+O,45.143151,1.495558
 190316053H-14,14,Rue Saint-Just,19100,Brive-la-Gaillarde,C+O,45.142838,1.495353
@@ -23977,31 +23977,31 @@
 191070036M-7,7,Rue Alexis Jaubert,19600,Larche,C+O,45.122821,1.413925
 191070036M-8,8,Rue Alexis Jaubert,19600,Larche,C+O,45.122827,1.413519
 191070036M-9,9,Rue Alexis Jaubert,19600,Larche,C+O,45.122747,1.414326
-191070037N-10,10,Rue du Chant du Merle,19600,Larche,C+O,45.114167,1.417697
-191070037N-11,11,Rue du Chant du Merle,19600,Larche,C+O,45.114507,1.417707
-191070037N-1,1,Rue du Chant du Merle,19600,Larche,OSM,45.114290,1.416995
-191070037N-12,12,Rue du Chant du Merle,19600,Larche,C+O,45.113931,1.417905
-191070037N-13,13,Rue du Chant du Merle,19600,Larche,C+O,45.114344,1.417783
-191070037N-14,14,Rue du Chant du Merle,19600,Larche,C+O,45.113841,1.418042
-191070037N-15,15,Rue du Chant du Merle,19600,Larche,C+O,45.114197,1.417884
-191070037N-15B,15BIS,Rue du Chant du Merle,19600,Larche,C+O,45.114281,1.418357
-191070037N-16,16,Rue du Chant du Merle,19600,Larche,C+O,45.113783,1.418218
-191070037N-17,17,Rue du Chant du Merle,19600,Larche,C+O,45.113957,1.418053
-191070037N-17B,17BIS,Rue du Chant du Merle,19600,Larche,C+O,45.114257,1.418377
-191070037N-18,18,Rue du Chant du Merle,19600,Larche,C+O,45.113709,1.418628
-191070037N-19,19,Rue du Chant du Merle,19600,Larche,C+O,45.113845,1.418311
-191070037N-20,20,Rue du Chant du Merle,19600,Larche,C+O,45.113530,1.418646
-191070037N-21,21,Rue du Chant du Merle,19600,Larche,C+O,45.113812,1.418595
-191070037N-22,22,Rue du Chant du Merle,19600,Larche,C+O,45.113491,1.418787
-191070037N-2,2,Rue du Chant du Merle,19600,Larche,OSM,45.113954,1.417003
-191070037N-23,23,Rue du Chant du Merle,19600,Larche,C+O,45.113700,1.418818
-191070037N-3,3,Rue du Chant du Merle,19600,Larche,C+O,45.114198,1.417304
-191070037N-4,4,Rue du Chant du Merle,19600,Larche,C+O,45.113808,1.417168
-191070037N-5,5,Rue du Chant du Merle,19600,Larche,C+O,45.114242,1.417533
-191070037N-6,6,Rue du Chant du Merle,19600,Larche,C+O,45.113807,1.417227
-191070037N-7,7,Rue du Chant du Merle,19600,Larche,C+O,45.114861,1.417602
-191070037N-8,8,Rue du Chant du Merle,19600,Larche,C+O,45.114109,1.417305
-191070037N-9,9,Rue du Chant du Merle,19600,Larche,C+O,45.114676,1.417690
+191070037N-10,10,Rue du Chant de Merle,19600,Larche,C+O,45.114167,1.417697
+191070037N-11,11,Rue du Chant de Merle,19600,Larche,C+O,45.114507,1.417707
+191070037N-1,1,Rue du Chant de Merle,19600,Larche,OSM,45.114290,1.416995
+191070037N-12,12,Rue du Chant de Merle,19600,Larche,C+O,45.113931,1.417905
+191070037N-13,13,Rue du Chant de Merle,19600,Larche,C+O,45.114344,1.417783
+191070037N-14,14,Rue du Chant de Merle,19600,Larche,C+O,45.113841,1.418042
+191070037N-15,15,Rue du Chant de Merle,19600,Larche,C+O,45.114197,1.417884
+191070037N-15B,15BIS,Rue du Chant de Merle,19600,Larche,C+O,45.114281,1.418357
+191070037N-16,16,Rue du Chant de Merle,19600,Larche,C+O,45.113783,1.418218
+191070037N-17,17,Rue du Chant de Merle,19600,Larche,C+O,45.113957,1.418053
+191070037N-17B,17BIS,Rue du Chant de Merle,19600,Larche,C+O,45.114257,1.418377
+191070037N-18,18,Rue du Chant de Merle,19600,Larche,C+O,45.113709,1.418628
+191070037N-19,19,Rue du Chant de Merle,19600,Larche,C+O,45.113845,1.418311
+191070037N-20,20,Rue du Chant de Merle,19600,Larche,C+O,45.113530,1.418646
+191070037N-21,21,Rue du Chant de Merle,19600,Larche,C+O,45.113812,1.418595
+191070037N-22,22,Rue du Chant de Merle,19600,Larche,C+O,45.113491,1.418787
+191070037N-2,2,Rue du Chant de Merle,19600,Larche,OSM,45.113954,1.417003
+191070037N-23,23,Rue du Chant de Merle,19600,Larche,C+O,45.113700,1.418818
+191070037N-3,3,Rue du Chant de Merle,19600,Larche,C+O,45.114198,1.417304
+191070037N-4,4,Rue du Chant de Merle,19600,Larche,C+O,45.113808,1.417168
+191070037N-5,5,Rue du Chant de Merle,19600,Larche,C+O,45.114242,1.417533
+191070037N-6,6,Rue du Chant de Merle,19600,Larche,C+O,45.113807,1.417227
+191070037N-7,7,Rue du Chant de Merle,19600,Larche,C+O,45.114861,1.417602
+191070037N-8,8,Rue du Chant de Merle,19600,Larche,C+O,45.114109,1.417305
+191070037N-9,9,Rue du Chant de Merle,19600,Larche,C+O,45.114676,1.417690
 191070038P-1,1,Rue du Château Français,19600,Larche,C+O,45.123451,1.414313
 191070038P-2,2,Rue du Château Français,19600,Larche,C+O,45.123663,1.414150
 191070038P-4,4,Rue du Château Français,19600,Larche,C+O,45.124125,1.413520
@@ -25909,7 +25909,8 @@
 191230230D-11,11,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,C+O,45.170213,1.563554
 191230230D-1,1,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,C+O,45.169858,1.562089
 191230230D-13,13,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,C+O,45.170259,1.563748
-191230230D-14-16,14-16,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,OSM,45.169970,1.564063
+191230230D-14,14,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,OSM,45.169970,1.564063
+191230230D-16,16,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,OSM,45.169970,1.564063
 191230230D-18,18,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,C+O,45.170342,1.564686
 191230230D-19,19,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,C+O,45.170505,1.564853
 191230230D-2,2,Avenue Jean Jaurès,19360,Malemort-sur-Corrèze,C+O,45.169720,1.562125
@@ -30976,6 +30977,8 @@
 191920047E-1B,1BIS,Chemin du Puy Grand,19380,Saint-Chamant,CAD,45.129335,1.891243
 191920060U-22,22,Rue du Vieux Bourg,19380,Saint-Chamant,CAD,45.126872,1.894745
 191940016M-1,1,Route de la Gare,19700,Saint-Clément,CAD,45.341162,1.684134
+191940024W-1,1,Place de la Mairie,19700,Saint-Clément,OSM,45.341593,1.686091
+191940032E-5,5,route des Monédières,19700,Saint-Clément,OSM,45.342797,1.686068
 191960001M-2,2,Place du Chanoine Varolle,19130,Saint-Cyr-la-Roche,CAD,45.270445,1.393408
 191960002N-1,1,Rue de la Chapelle,19130,Saint-Cyr-la-Roche,CAD,45.271659,1.390698
 191960002N-3,3,Rue de la Chapelle,19130,Saint-Cyr-la-Roche,CAD,45.271682,1.390779
@@ -31770,10 +31773,10 @@
 192290007A-62,62,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144332,1.442476
 192290007A-79,79,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144207,1.442608
 192290007A-80,80,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144207,1.442465
-192290008B-125,125,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,CAD,45.131881,1.409116
-192290008B-6195,6195,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,CAD,45.132613,1.409681
-192290008B-6369,6369,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,CAD,45.132238,1.408976
-192290008B-75,75,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,CAD,45.131551,1.409107
+192290008B-125,125,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.131881,1.409116
+192290008B-6195,6195,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.132613,1.409681
+192290008B-6369,6369,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.132238,1.408976
+192290008B-75,75,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.131551,1.409107
 192290010D-129,129,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131118,1.404098
 192290010D-145,145,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.130995,1.403981
 192290010D-155,155,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.130765,1.404012
@@ -34519,7 +34522,7 @@
 192550012T-20,20,Avenue Jean Vinatier,19700,Seilhac,C+O,45.368652,1.718038
 192550012T-21,21,Avenue Jean Vinatier,19700,Seilhac,C+O,45.367717,1.715311
 192550012T-22,22,Avenue Jean Vinatier,19700,Seilhac,C+O,45.368711,1.718214
-192550012T-2,2,Avenue Jean Vinatier,19700,Seilhac,OSM,45.367548,1.713613
+192550012T-2,2,Avenue Jean Vinatier,19700,Seilhac,OSM,45.367520,1.713478
 192550012T-23,23,Avenue Jean Vinatier,19700,Seilhac,C+O,45.368209,1.716915
 192550012T-24,24,Avenue Jean Vinatier,19700,Seilhac,C+O,45.368772,1.718484
 192550012T-25,25,Avenue Jean Vinatier,19700,Seilhac,C+O,45.368311,1.717231
@@ -42703,16 +42706,16 @@
 192751190L-5,5,Rue Saint-Martin,19200,Ussel,C+O,45.546892,2.308461
 192751190L-7,7,Rue Saint-Martin,19200,Ussel,C+O,45.546933,2.308592
 192751190L-8,8,Rue Saint-Martin,19200,Ussel,C+O,45.546890,2.308634
-192751202Z-10,10,Route de Sagard,19200,Ussel,CAD,45.532336,2.296865
-192751202Z-1,1,Route de Sagard,19200,Ussel,CAD,45.537320,2.298728
-192751202Z-12,12,Route de Sagard,19200,Ussel,CAD,45.532539,2.296272
-192751202Z-14,14,Route de Sagard,19200,Ussel,CAD,45.531963,2.296092
-192751202Z-20,20,Route de Sagard,19200,Ussel,CAD,45.530411,2.292886
-192751202Z-2,2,Route de Sagard,19200,Ussel,CAD,45.536974,2.287549
-192751202Z-3,3,Route de Sagard,19200,Ussel,CAD,45.532612,2.298155
-192751202Z-4,4,Route de Sagard,19200,Ussel,CAD,45.536363,2.298634
-192751202Z-5,5,Route de Sagard,19200,Ussel,CAD,45.531989,2.294831
-192751202Z-6,6,Route de Sagard,19200,Ussel,CAD,45.536256,2.298782
+192751202Z-10,10,route du sagard,19200,Ussel,C+O,45.532336,2.296865
+192751202Z-1,1,route du sagard,19200,Ussel,C+O,45.537320,2.298728
+192751202Z-12,12,route du sagard,19200,Ussel,C+O,45.532539,2.296272
+192751202Z-14,14,route du sagard,19200,Ussel,C+O,45.531963,2.296092
+192751202Z-20,20,route du sagard,19200,Ussel,C+O,45.530411,2.292886
+192751202Z-2,2,route du sagard,19200,Ussel,C+O,45.536974,2.287549
+192751202Z-3,3,route du sagard,19200,Ussel,C+O,45.532612,2.298155
+192751202Z-4,4,route du sagard,19200,Ussel,C+O,45.536363,2.298634
+192751202Z-5,5,route du sagard,19200,Ussel,C+O,45.531989,2.294831
+192751202Z-6,6,route du sagard,19200,Ussel,OSM,45.536166,2.298584
 192751206D-10,10,Rue du Sancy,19200,Ussel,CAD,45.556917,2.304199
 192751206D-11,11,Rue du Sancy,19200,Ussel,CAD,45.556836,2.303545
 192751206D-1,1,Rue du Sancy,19200,Ussel,CAD,45.556180,2.302996
@@ -44114,7 +44117,7 @@
 192850009J-17,17,Rue Centrale,19410,Vigeois,OSM,45.379854,1.517481
 192850009J-18,18,Rue Centrale,19410,Vigeois,OSM,45.379674,1.517605
 192850009J-20,20,Rue Centrale,19410,Vigeois,C+O,45.379635,1.517691
-192850009J-2,2,Rue Centrale,19410,Vigeois,OSM,45.379563,1.516567
+192850009J-2,2,Rue Centrale,19410,Vigeois,OSM,45.379535,1.516559
 192850009J-3,3,Rue Centrale,19410,Vigeois,OSM,45.379755,1.516707
 192850009J-4,4,Rue Centrale,19410,Vigeois,OSM,45.379553,1.516644
 192850009J-5,5,Rue Centrale,19410,Vigeois,OSM,45.379737,1.516941

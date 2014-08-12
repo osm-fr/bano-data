@@ -6055,7 +6055,7 @@
 230390035U-8B,8BIS,Rue de la Marche,23800,La Celle-Dunoise,CAD,46.308592,1.769444
 230390035U-9,9,Rue de la Marche,23800,La Celle-Dunoise,CAD,46.308919,1.769683
 230390040Z-11,11,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311414,1.768617
-230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310334,1.769524
+230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310415,1.769245
 230390040Z-13,13,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311698,1.768479
 230390040Z-15,15,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311893,1.768409
 230390040Z-17,17,Route des Peintres,23800,La Celle-Dunoise,C+O,46.312112,1.768313
@@ -6423,7 +6423,7 @@
 230450320C-29,29,Rue des Forts,23170,Chambon-sur-Voueize,C+O,46.190055,2.423714
 230450320C-30,30,Rue des Forts,23170,Chambon-sur-Voueize,C+O,46.190040,2.423988
 230450320C-31,31,Rue des Forts,23170,Chambon-sur-Voueize,C+O,46.190086,2.423626
-230450320C-32,32,Rue des Forts,23170,Chambon-sur-Voueize,C+O,46.190067,2.423919
+230450320C-32,32,Rue des Forts,23170,Chambon-sur-Voueize,OSM,46.190118,2.423742
 230450320C-3,3,Rue des Forts,23170,Chambon-sur-Voueize,C+O,46.189622,2.424760
 230450320C-38,38,Rue des Forts,23170,Chambon-sur-Voueize,C+O,46.190153,2.423683
 230450320C-40,40,Rue des Forts,23170,Chambon-sur-Voueize,C+O,46.190175,2.423616
@@ -12812,50 +12812,50 @@
 230960373N-5,5,Route de Chabrieres,23000,Guéret,C+O,46.147188,1.866015
 230960373N-7,7,Route de Chabrieres,23000,Guéret,C+O,46.147005,1.866053
 230960373N-8,8,Route de Chabrieres,23000,Guéret,C+O,46.147313,1.866138
-230960390G-10,10,Rue Champegaud,23000,Guéret,C+O,46.168331,1.863605
-230960390G-11,11,Rue Champegaud,23000,Guéret,C+O,46.167994,1.863023
-230960390G-1,1,Rue Champegaud,23000,Guéret,C+O,46.168781,1.863618
-230960390G-12,12,Rue Champegaud,23000,Guéret,C+O,46.168100,1.863272
-230960390G-14,14,Rue Champegaud,23000,Guéret,C+O,46.167801,1.863034
-230960390G-16,16,Rue Champegaud,23000,Guéret,C+O,46.167624,1.862992
-230960390G-18,18,Rue Champegaud,23000,Guéret,C+O,46.167385,1.862998
-230960390G-20,20,Rue Champegaud,23000,Guéret,C+O,46.167122,1.862768
-230960390G-21,21,Rue Champegaud,23000,Guéret,C+O,46.167180,1.862572
-230960390G-22,22,Rue Champegaud,23000,Guéret,C+O,46.166929,1.862594
-230960390G-23,23,Rue Champegaud,23000,Guéret,C+O,46.167054,1.862458
-230960390G-24,24,Rue Champegaud,23000,Guéret,C+O,46.166783,1.862462
-230960390G-25,25,Rue Champegaud,23000,Guéret,C+O,46.166931,1.862347
-230960390G-26,26,Rue Champegaud,23000,Guéret,C+O,46.166620,1.862313
-230960390G-27,27,Rue Champegaud,23000,Guéret,C+O,46.166804,1.862231
-230960390G-28,28,Rue Champegaud,23000,Guéret,C+O,46.166446,1.862152
-230960390G-29,29,Rue Champegaud,23000,Guéret,C+O,46.166670,1.862109
-230960390G-30,30,Rue Champegaud,23000,Guéret,C+O,46.166288,1.862008
-230960390G-31,31,Rue Champegaud,23000,Guéret,C+O,46.166545,1.861994
-230960390G-32,32,Rue Champegaud,23000,Guéret,C+O,46.166164,1.861897
-230960390G-33,33,Rue Champegaud,23000,Guéret,C+O,46.166426,1.861887
-230960390G-3,3,Rue Champegaud,23000,Guéret,C+O,46.168633,1.863570
-230960390G-34,34,Rue Champegaud,23000,Guéret,C+O,46.165964,1.861714
-230960390G-35,35,Rue Champegaud,23000,Guéret,C+O,46.166274,1.861733
-230960390G-36,36,Rue Champegaud,23000,Guéret,C+O,46.165968,1.861414
-230960390G-37,37,Rue Champegaud,23000,Guéret,C+O,46.166113,1.861486
-230960390G-39,39,Rue Champegaud,23000,Guéret,C+O,46.166017,1.861242
-230960390G-41,41,Rue Champegaud,23000,Guéret,C+O,46.165951,1.861050
-230960390G-43,43,Rue Champegaud,23000,Guéret,C+O,46.165885,1.860865
-230960390G-45,45,Rue Champegaud,23000,Guéret,C+O,46.165816,1.860666
-230960390G-47,47,Rue Champegaud,23000,Guéret,C+O,46.165734,1.860440
-230960390G-5,5,Rue Champegaud,23000,Guéret,C+O,46.168418,1.863480
-230960390G-61,61,Rue Champegaud,23000,Guéret,C+O,46.164643,1.859625
-230960390G-63,63,Rue Champegaud,23000,Guéret,C+O,46.164443,1.859630
-230960390G-65,65,Rue Champegaud,23000,Guéret,C+O,46.164263,1.859675
-230960390G-67,67,Rue Champegaud,23000,Guéret,C+O,46.164066,1.859740
-230960390G-69,69,Rue Champegaud,23000,Guéret,C+O,46.163919,1.859792
-230960390G-71,71,Rue Champegaud,23000,Guéret,C+O,46.163758,1.859844
-230960390G-73,73,Rue Champegaud,23000,Guéret,C+O,46.163570,1.859916
-230960390G-75,75,Rue Champegaud,23000,Guéret,C+O,46.163357,1.860018
-230960390G-77,77,Rue Champegaud,23000,Guéret,C+O,46.163199,1.860123
-230960390G-7,7,Rue Champegaud,23000,Guéret,C+O,46.168267,1.863330
-230960390G-79,79,Rue Champegaud,23000,Guéret,C+O,46.162976,1.859982
-230960390G-9,9,Rue Champegaud,23000,Guéret,C+O,46.168119,1.863155
+230960390G-10,10,Rue de Champegaud,23000,Guéret,C+O,46.168331,1.863605
+230960390G-11,11,Rue de Champegaud,23000,Guéret,C+O,46.167994,1.863023
+230960390G-1,1,Rue de Champegaud,23000,Guéret,C+O,46.168781,1.863618
+230960390G-12,12,Rue de Champegaud,23000,Guéret,C+O,46.168100,1.863272
+230960390G-14,14,Rue de Champegaud,23000,Guéret,C+O,46.167801,1.863034
+230960390G-16,16,Rue de Champegaud,23000,Guéret,C+O,46.167624,1.862992
+230960390G-18,18,Rue de Champegaud,23000,Guéret,C+O,46.167385,1.862998
+230960390G-20,20,Rue de Champegaud,23000,Guéret,C+O,46.167122,1.862768
+230960390G-21,21,Rue de Champegaud,23000,Guéret,C+O,46.167180,1.862572
+230960390G-22,22,Rue de Champegaud,23000,Guéret,C+O,46.166929,1.862594
+230960390G-23,23,Rue de Champegaud,23000,Guéret,C+O,46.167054,1.862458
+230960390G-24,24,Rue de Champegaud,23000,Guéret,C+O,46.166783,1.862462
+230960390G-25,25,Rue de Champegaud,23000,Guéret,C+O,46.166931,1.862347
+230960390G-26,26,Rue de Champegaud,23000,Guéret,C+O,46.166620,1.862313
+230960390G-27,27,Rue de Champegaud,23000,Guéret,C+O,46.166804,1.862231
+230960390G-28,28,Rue de Champegaud,23000,Guéret,C+O,46.166446,1.862152
+230960390G-29,29,Rue de Champegaud,23000,Guéret,C+O,46.166670,1.862109
+230960390G-30,30,Rue de Champegaud,23000,Guéret,C+O,46.166288,1.862008
+230960390G-31,31,Rue de Champegaud,23000,Guéret,C+O,46.166545,1.861994
+230960390G-32,32,Rue de Champegaud,23000,Guéret,C+O,46.166164,1.861897
+230960390G-33,33,Rue de Champegaud,23000,Guéret,C+O,46.166426,1.861887
+230960390G-3,3,Rue de Champegaud,23000,Guéret,C+O,46.168633,1.863570
+230960390G-34,34,Rue de Champegaud,23000,Guéret,C+O,46.165964,1.861714
+230960390G-35,35,Rue de Champegaud,23000,Guéret,C+O,46.166274,1.861733
+230960390G-36,36,Rue de Champegaud,23000,Guéret,C+O,46.165968,1.861414
+230960390G-37,37,Rue de Champegaud,23000,Guéret,C+O,46.166113,1.861486
+230960390G-39,39,Rue de Champegaud,23000,Guéret,C+O,46.166017,1.861242
+230960390G-41,41,Rue de Champegaud,23000,Guéret,C+O,46.165951,1.861050
+230960390G-43,43,Rue de Champegaud,23000,Guéret,C+O,46.165885,1.860865
+230960390G-45,45,Rue de Champegaud,23000,Guéret,C+O,46.165816,1.860666
+230960390G-47,47,Rue de Champegaud,23000,Guéret,C+O,46.165734,1.860440
+230960390G-5,5,Rue de Champegaud,23000,Guéret,C+O,46.168418,1.863480
+230960390G-61,61,Rue de Champegaud,23000,Guéret,C+O,46.164643,1.859625
+230960390G-63,63,Rue de Champegaud,23000,Guéret,C+O,46.164443,1.859630
+230960390G-65,65,Rue de Champegaud,23000,Guéret,C+O,46.164263,1.859675
+230960390G-67,67,Rue de Champegaud,23000,Guéret,C+O,46.164066,1.859740
+230960390G-69,69,Rue de Champegaud,23000,Guéret,C+O,46.163919,1.859792
+230960390G-71,71,Rue de Champegaud,23000,Guéret,C+O,46.163758,1.859844
+230960390G-73,73,Rue de Champegaud,23000,Guéret,C+O,46.163570,1.859916
+230960390G-75,75,Rue de Champegaud,23000,Guéret,C+O,46.163357,1.860018
+230960390G-77,77,Rue de Champegaud,23000,Guéret,C+O,46.163199,1.860123
+230960390G-7,7,Rue de Champegaud,23000,Guéret,C+O,46.168267,1.863330
+230960390G-79,79,Rue de Champegaud,23000,Guéret,C+O,46.162976,1.859982
+230960390G-9,9,Rue de Champegaud,23000,Guéret,C+O,46.168119,1.863155
 230960410D-1,1,Chemin de Chandonnet,23000,Guéret,CAD,46.176016,1.862857
 230960422S-1,1,Allée du Chanoine Plazanet,23000,Guéret,C+O,46.166722,1.875296
 230960422S-5,5,Allée du Chanoine Plazanet,23000,Guéret,C+O,46.167160,1.875183
@@ -14905,7 +14905,7 @@
 230961318R-19,19,Rue du Maréchal Leclerc,23000,Guéret,C+O,46.175960,1.883936
 230961318R-1B,1BIS,Rue du Maréchal Leclerc,23000,Guéret,C+O,46.177312,1.877611
 230961318R-21,21,Rue du Maréchal Leclerc,23000,Guéret,C+O,46.176083,1.884132
-230961318R-2,2,Rue du Maréchal Leclerc,23000,Guéret,OSM,46.177568,1.877869
+230961318R-2,2,Rue du Maréchal Leclerc,23000,Guéret,OSM,46.177600,1.877830
 230961318R-23,23,Rue du Maréchal Leclerc,23000,Guéret,C+O,46.176198,1.884313
 230961318R-29,29,Rue du Maréchal Leclerc,23000,Guéret,C+O,46.176650,1.885312
 230961318R-31,31,Rue du Maréchal Leclerc,23000,Guéret,C+O,46.176680,1.885498
@@ -19275,29 +19275,29 @@
 231430045C-3,3,Chemin du Puits,23300,Noth,C+O,46.233603,1.586521
 231430045C-4,4,Chemin du Puits,23300,Noth,C+O,46.233258,1.586457
 231430045C-5,5,Chemin du Puits,23300,Noth,C+O,46.233524,1.587201
-231460060F-1,1,Rue du Lavoir,23600,Nouzerines,CAD,46.388539,2.107145
-231460065L-10,10,Rue des Lilas,23600,Nouzerines,CAD,46.387998,2.109684
-231460065L-1,1,Rue des Lilas,23600,Nouzerines,CAD,46.388318,2.108361
-231460065L-2,2,Rue des Lilas,23600,Nouzerines,CAD,46.388282,2.108119
-231460065L-6,6,Rue des Lilas,23600,Nouzerines,CAD,46.388108,2.109087
-231460065L-8,8,Rue des Lilas,23600,Nouzerines,CAD,46.388066,2.109314
-231460067N-1,1,Place de la Mairie,23600,Nouzerines,CAD,46.388616,2.108099
-231460070S-1,1,Rue des Noisetiers,23600,Nouzerines,CAD,46.388899,2.108710
-231460070S-2,2,Rue des Noisetiers,23600,Nouzerines,CAD,46.389425,2.108564
-231460070S-3,3,Rue des Noisetiers,23600,Nouzerines,CAD,46.389624,2.108628
-231460075X-10,10,Rue des Noyers,23600,Nouzerines,CAD,46.388880,2.109288
-231460075X-11,11,Rue des Noyers,23600,Nouzerines,CAD,46.389535,2.110320
-231460075X-1,1,Rue des Noyers,23600,Nouzerines,CAD,46.388682,2.108541
-231460075X-12,12,Rue des Noyers,23600,Nouzerines,CAD,46.389055,2.109648
-231460075X-14,14,Rue des Noyers,23600,Nouzerines,CAD,46.389352,2.110178
-231460075X-2,2,Rue des Noyers,23600,Nouzerines,CAD,46.388624,2.108609
-231460075X-3,3,Rue des Noyers,23600,Nouzerines,CAD,46.389060,2.109488
-231460075X-4,4,Rue des Noyers,23600,Nouzerines,CAD,46.388684,2.108757
-231460075X-5,5,Rue des Noyers,23600,Nouzerines,CAD,46.389137,2.109627
-231460075X-6,6,Rue des Noyers,23600,Nouzerines,CAD,46.388729,2.108873
-231460075X-8,8,Rue des Noyers,23600,Nouzerines,CAD,46.388779,2.109005
-231460075X-9,9,Rue des Noyers,23600,Nouzerines,CAD,46.389250,2.109827
-231460080C-1,1,Rue des Tilleuls,23600,Nouzerines,CAD,46.388006,2.107292
+231460060F-1,1,Rue du Lavoir,23600,Nouzerines,C+O,46.388539,2.107145
+231460065L-10,10,Rue des Lilas,23600,Nouzerines,C+O,46.387998,2.109684
+231460065L-1,1,Rue des Lilas,23600,Nouzerines,C+O,46.388318,2.108361
+231460065L-2,2,Rue des Lilas,23600,Nouzerines,C+O,46.388282,2.108119
+231460065L-6,6,Rue des Lilas,23600,Nouzerines,C+O,46.388108,2.109087
+231460065L-8,8,Rue des Lilas,23600,Nouzerines,C+O,46.388066,2.109314
+231460067N-1,1,Place de la Mairie,23600,Nouzerines,C+O,46.388616,2.108099
+231460070S-1,1,Rue des Noisetiers,23600,Nouzerines,C+O,46.388899,2.108710
+231460070S-2,2,Rue des Noisetiers,23600,Nouzerines,C+O,46.389425,2.108564
+231460070S-3,3,Rue des Noisetiers,23600,Nouzerines,C+O,46.389624,2.108628
+231460075X-10,10,Rue des Noyers,23600,Nouzerines,C+O,46.388880,2.109288
+231460075X-11,11,Rue des Noyers,23600,Nouzerines,C+O,46.389535,2.110320
+231460075X-1,1,Rue des Noyers,23600,Nouzerines,C+O,46.388682,2.108541
+231460075X-12,12,Rue des Noyers,23600,Nouzerines,C+O,46.389055,2.109648
+231460075X-14,14,Rue des Noyers,23600,Nouzerines,C+O,46.389352,2.110178
+231460075X-2,2,Rue des Noyers,23600,Nouzerines,C+O,46.388624,2.108609
+231460075X-3,3,Rue des Noyers,23600,Nouzerines,C+O,46.389060,2.109488
+231460075X-4,4,Rue des Noyers,23600,Nouzerines,C+O,46.388684,2.108757
+231460075X-5,5,Rue des Noyers,23600,Nouzerines,C+O,46.389137,2.109627
+231460075X-6,6,Rue des Noyers,23600,Nouzerines,C+O,46.388729,2.108873
+231460075X-8,8,Rue des Noyers,23600,Nouzerines,C+O,46.388779,2.109005
+231460075X-9,9,Rue des Noyers,23600,Nouzerines,C+O,46.389250,2.109827
+231460080C-1,1,Rue des Tilleuls,23600,Nouzerines,C+O,46.388006,2.107292
 231490001D-10,10,Avenue de la Gare,23140,Parsac,CAD,46.197142,2.159332
 231490001D-11,11,Avenue de la Gare,23140,Parsac,CAD,46.196835,2.161218
 231490001D-1,1,Avenue de la Gare,23140,Parsac,CAD,46.197539,2.153069
@@ -22525,60 +22525,60 @@
 231761395B-7,7,Rue Salvador Allende,23300,La Souterraine,C+O,46.233983,1.479670
 231761395B-8,8,Rue Salvador Allende,23300,La Souterraine,C+O,46.234599,1.478611
 231761395B-9,9,Rue Salvador Allende,23300,La Souterraine,C+O,46.234043,1.479531
-231761400G-10,10,Rue du Sauzet,23300,La Souterraine,C+O,46.234907,1.498398
-231761400G-1,1,Rue du Sauzet,23300,La Souterraine,C+O,46.234166,1.496620
-231761400G-12,12,Rue du Sauzet,23300,La Souterraine,C+O,46.235005,1.498575
-231761400G-14,14,Rue du Sauzet,23300,La Souterraine,C+O,46.235108,1.498735
-231761400G-15,15,Rue du Sauzet,23300,La Souterraine,C+O,46.234777,1.497940
-231761400G-16,16,Rue du Sauzet,23300,La Souterraine,C+O,46.235236,1.498922
-231761400G-17,17,Rue du Sauzet,23300,La Souterraine,C+O,46.235031,1.498452
-231761400G-18,18,Rue du Sauzet,23300,La Souterraine,C+O,46.235383,1.499138
-231761400G-19,19,Rue du Sauzet,23300,La Souterraine,C+O,46.235297,1.498855
-231761400G-20,20,Rue du Sauzet,23300,La Souterraine,C+O,46.235713,1.499625
-231761400G-21,21,Rue du Sauzet,23300,La Souterraine,C+O,46.235494,1.499144
-231761400G-2,2,Rue du Sauzet,23300,La Souterraine,C+O,46.233995,1.496289
-231761400G-23,23,Rue du Sauzet,23300,La Souterraine,C+O,46.235629,1.499346
-231761400G-25,25,Rue du Sauzet,23300,La Souterraine,C+O,46.236282,1.500474
-231761400G-27,27,Rue du Sauzet,23300,La Souterraine,C+O,46.236412,1.500742
-231761400G-28,28,Rue du Sauzet,23300,La Souterraine,C+O,46.236326,1.500737
-231761400G-29,29,Rue du Sauzet,23300,La Souterraine,C+O,46.236604,1.501136
-231761400G-30,30,Rue du Sauzet,23300,La Souterraine,C+O,46.236444,1.500995
-231761400G-31,31,Rue du Sauzet,23300,La Souterraine,C+O,46.236722,1.501387
-231761400G-32,32,Rue du Sauzet,23300,La Souterraine,C+O,46.236535,1.501197
-231761400G-33,33,Rue du Sauzet,23300,La Souterraine,C+O,46.236908,1.501837
-231761400G-3,3,Rue du Sauzet,23300,La Souterraine,C+O,46.234308,1.497016
-231761400G-34,34,Rue du Sauzet,23300,La Souterraine,C+O,46.236471,1.501632
-231761400G-35,35,Rue du Sauzet,23300,La Souterraine,C+O,46.237166,1.502413
-231761400G-36,36,Rue du Sauzet,23300,La Souterraine,C+O,46.236658,1.501465
-231761400G-37,37,Rue du Sauzet,23300,La Souterraine,C+O,46.237275,1.502711
-231761400G-39,39,Rue du Sauzet,23300,La Souterraine,C+O,46.237363,1.502894
-231761400G-40,40,Rue du Sauzet,23300,La Souterraine,C+O,46.236750,1.501670
-231761400G-41,41,Rue du Sauzet,23300,La Souterraine,C+O,46.237492,1.503179
-231761400G-42,42,Rue du Sauzet,23300,La Souterraine,C+O,46.236858,1.502013
-231761400G-43,43,Rue du Sauzet,23300,La Souterraine,C+O,46.237831,1.503556
-231761400G-43B,43BIS,Rue du Sauzet,23300,La Souterraine,C+O,46.237958,1.503441
-231761400G-44,44,Rue du Sauzet,23300,La Souterraine,C+O,46.237038,1.502429
-231761400G-4,4,Rue du Sauzet,23300,La Souterraine,C+O,46.234145,1.496871
-231761400G-45,45,Rue du Sauzet,23300,La Souterraine,C+O,46.237769,1.503973
-231761400G-46,46,Rue du Sauzet,23300,La Souterraine,C+O,46.237140,1.502631
-231761400G-46B,46BIS,Rue du Sauzet,23300,La Souterraine,C+O,46.237205,1.502761
-231761400G-47,47,Rue du Sauzet,23300,La Souterraine,C+O,46.237879,1.504349
-231761400G-48,48,Rue du Sauzet,23300,La Souterraine,C+O,46.237288,1.502928
-231761400G-49,49,Rue du Sauzet,23300,La Souterraine,C+O,46.238601,1.505325
-231761400G-50,50,Rue du Sauzet,23300,La Souterraine,C+O,46.237390,1.503139
-231761400G-52,52,Rue du Sauzet,23300,La Souterraine,C+O,46.237589,1.503647
-231761400G-5,5,Rue du Sauzet,23300,La Souterraine,C+O,46.234471,1.497332
-231761400G-56,56,Rue du Sauzet,23300,La Souterraine,C+O,46.237790,1.504281
-231761400G-60,60,Rue du Sauzet,23300,La Souterraine,C+O,46.238104,1.505163
-231761400G-62,62,Rue du Sauzet,23300,La Souterraine,C+O,46.238308,1.505347
-231761400G-64,64,Rue du Sauzet,23300,La Souterraine,C+O,46.238445,1.505468
-231761400G-66,66,Rue du Sauzet,23300,La Souterraine,C+O,46.238698,1.505733
-231761400G-6,6,Rue du Sauzet,23300,La Souterraine,C+O,46.234675,1.497939
-231761400G-683,683,Rue du Sauzet,23300,La Souterraine,C+O,46.238656,1.505893
-231761400G-7,7,Rue du Sauzet,23300,La Souterraine,C+O,46.234611,1.497604
-231761400G-7B,7BIS,Rue du Sauzet,23300,La Souterraine,C+O,46.234545,1.497474
-231761400G-8,8,Rue du Sauzet,23300,La Souterraine,C+O,46.234789,1.498168
-231761400G-98,98,Rue du Sauzet,23300,La Souterraine,C+O,46.240307,1.511855
+231761400G-10,10,Rue de Sauzet,23300,La Souterraine,C+O,46.234907,1.498398
+231761400G-1,1,Rue de Sauzet,23300,La Souterraine,C+O,46.234166,1.496620
+231761400G-12,12,Rue de Sauzet,23300,La Souterraine,C+O,46.235005,1.498575
+231761400G-14,14,Rue de Sauzet,23300,La Souterraine,C+O,46.235108,1.498735
+231761400G-15,15,Rue de Sauzet,23300,La Souterraine,C+O,46.234777,1.497940
+231761400G-16,16,Rue de Sauzet,23300,La Souterraine,C+O,46.235236,1.498922
+231761400G-17,17,Rue de Sauzet,23300,La Souterraine,C+O,46.235031,1.498452
+231761400G-18,18,Rue de Sauzet,23300,La Souterraine,C+O,46.235383,1.499138
+231761400G-19,19,Rue de Sauzet,23300,La Souterraine,C+O,46.235297,1.498855
+231761400G-20,20,Rue de Sauzet,23300,La Souterraine,C+O,46.235713,1.499625
+231761400G-21,21,Rue de Sauzet,23300,La Souterraine,C+O,46.235494,1.499144
+231761400G-2,2,Rue de Sauzet,23300,La Souterraine,C+O,46.233995,1.496289
+231761400G-23,23,Rue de Sauzet,23300,La Souterraine,C+O,46.235629,1.499346
+231761400G-25,25,Rue de Sauzet,23300,La Souterraine,C+O,46.236282,1.500474
+231761400G-27,27,Rue de Sauzet,23300,La Souterraine,C+O,46.236412,1.500742
+231761400G-28,28,Rue de Sauzet,23300,La Souterraine,C+O,46.236326,1.500737
+231761400G-29,29,Rue de Sauzet,23300,La Souterraine,C+O,46.236604,1.501136
+231761400G-30,30,Rue de Sauzet,23300,La Souterraine,C+O,46.236444,1.500995
+231761400G-31,31,Rue de Sauzet,23300,La Souterraine,C+O,46.236722,1.501387
+231761400G-32,32,Rue de Sauzet,23300,La Souterraine,C+O,46.236535,1.501197
+231761400G-33,33,Rue de Sauzet,23300,La Souterraine,C+O,46.236908,1.501837
+231761400G-3,3,Rue de Sauzet,23300,La Souterraine,C+O,46.234308,1.497016
+231761400G-34,34,Rue de Sauzet,23300,La Souterraine,C+O,46.236471,1.501632
+231761400G-35,35,Rue de Sauzet,23300,La Souterraine,C+O,46.237166,1.502413
+231761400G-36,36,Rue de Sauzet,23300,La Souterraine,C+O,46.236658,1.501465
+231761400G-37,37,Rue de Sauzet,23300,La Souterraine,C+O,46.237275,1.502711
+231761400G-39,39,Rue de Sauzet,23300,La Souterraine,C+O,46.237363,1.502894
+231761400G-40,40,Rue de Sauzet,23300,La Souterraine,C+O,46.236750,1.501670
+231761400G-41,41,Rue de Sauzet,23300,La Souterraine,C+O,46.237492,1.503179
+231761400G-42,42,Rue de Sauzet,23300,La Souterraine,C+O,46.236858,1.502013
+231761400G-43,43,Rue de Sauzet,23300,La Souterraine,C+O,46.237831,1.503556
+231761400G-43B,43BIS,Rue de Sauzet,23300,La Souterraine,C+O,46.237958,1.503441
+231761400G-44,44,Rue de Sauzet,23300,La Souterraine,C+O,46.237038,1.502429
+231761400G-4,4,Rue de Sauzet,23300,La Souterraine,C+O,46.234145,1.496871
+231761400G-45,45,Rue de Sauzet,23300,La Souterraine,C+O,46.237769,1.503973
+231761400G-46,46,Rue de Sauzet,23300,La Souterraine,C+O,46.237140,1.502631
+231761400G-46B,46BIS,Rue de Sauzet,23300,La Souterraine,C+O,46.237205,1.502761
+231761400G-47,47,Rue de Sauzet,23300,La Souterraine,C+O,46.237879,1.504349
+231761400G-48,48,Rue de Sauzet,23300,La Souterraine,C+O,46.237288,1.502928
+231761400G-49,49,Rue de Sauzet,23300,La Souterraine,C+O,46.238601,1.505325
+231761400G-50,50,Rue de Sauzet,23300,La Souterraine,C+O,46.237390,1.503139
+231761400G-52,52,Rue de Sauzet,23300,La Souterraine,C+O,46.237589,1.503647
+231761400G-5,5,Rue de Sauzet,23300,La Souterraine,C+O,46.234471,1.497332
+231761400G-56,56,Rue de Sauzet,23300,La Souterraine,C+O,46.237790,1.504281
+231761400G-60,60,Rue de Sauzet,23300,La Souterraine,C+O,46.238104,1.505163
+231761400G-62,62,Rue de Sauzet,23300,La Souterraine,C+O,46.238308,1.505347
+231761400G-64,64,Rue de Sauzet,23300,La Souterraine,C+O,46.238445,1.505468
+231761400G-66,66,Rue de Sauzet,23300,La Souterraine,C+O,46.238698,1.505733
+231761400G-6,6,Rue de Sauzet,23300,La Souterraine,C+O,46.234675,1.497939
+231761400G-683,683,Rue de Sauzet,23300,La Souterraine,C+O,46.238656,1.505893
+231761400G-7,7,Rue de Sauzet,23300,La Souterraine,C+O,46.234611,1.497604
+231761400G-7B,7BIS,Rue de Sauzet,23300,La Souterraine,C+O,46.234545,1.497474
+231761400G-8,8,Rue de Sauzet,23300,La Souterraine,C+O,46.234789,1.498168
+231761400G-98,98,Rue de Sauzet,23300,La Souterraine,C+O,46.240307,1.511855
 231761430P-1,1,Rue de la Séguine,23300,La Souterraine,C+O,46.237150,1.497725
 231761430P-1B,1BIS,Rue de la Séguine,23300,La Souterraine,C+O,46.237100,1.497639
 231761430P-2,2,Rue de la Séguine,23300,La Souterraine,C+O,46.237187,1.497628
@@ -25002,7 +25002,7 @@
 232230004K-7,7,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853908,1.689322
 232230004K-9,9,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853813,1.689560
 232230005L-1,1,Route des Écoles,23400,Saint-Moreil,C+O,45.852558,1.689655
-232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851986,1.688807
+232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851774,1.688718
 232230005L-3,3,Route des Écoles,23400,Saint-Moreil,C+O,45.852004,1.689390
 232230006M-11,11,Place de l'Église,23400,Saint-Moreil,C+O,45.853061,1.689426
 232230006M-1,1,Place de l'Église,23400,Saint-Moreil,C+O,45.853711,1.689400
@@ -25723,584 +25723,294 @@
 232440032Z-3,3,Chemin des Tilleuls,23800,Saint-Sulpice-le-Dunois,CAD,46.296012,1.716167
 232440032Z-4,4,Chemin des Tilleuls,23800,Saint-Sulpice-le-Dunois,CAD,46.295970,1.715681
 232450005R-1,1,Chemin des Amoureux,23000,Saint-Sulpice-le-Guérétois,C+O,46.201061,1.827937
-232450005R-1,1,Chemin des Amoureux,23000,Saint-Sulpice-le-Guérétois,C+O,46.201061,1.827937
-232450005R-3,3,Chemin des Amoureux,23000,Saint-Sulpice-le-Guérétois,C+O,46.201143,1.827930
 232450005R-3,3,Chemin des Amoureux,23000,Saint-Sulpice-le-Guérétois,C+O,46.201143,1.827930
 232450020G-10,10,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197242,1.830277
-232450020G-10,10,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197242,1.830277
-232450020G-3,3,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197859,1.831026
 232450020G-3,3,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197859,1.831026
 232450020G-4,4,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197801,1.830802
-232450020G-4,4,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197801,1.830802
-232450020G-6,6,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197612,1.830585
 232450020G-6,6,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197612,1.830585
 232450020G-8,8,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197389,1.830382
-232450020G-8,8,Allée Carnot,23000,Saint-Sulpice-le-Guérétois,C+O,46.197389,1.830382
-232450030T-10,10,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201219,1.826786
 232450030T-10,10,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201219,1.826786
 232450030T-11,11,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201141,1.826768
-232450030T-11,11,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201141,1.826768
-232450030T-1,1,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200713,1.828714
 232450030T-1,1,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200713,1.828714
 232450030T-12,12,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201262,1.826674
-232450030T-12,12,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201262,1.826674
-232450030T-14,14,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201328,1.826514
 232450030T-14,14,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201328,1.826514
 232450030T-23,23,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.203875,1.822580
-232450030T-23,23,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.203875,1.822580
-232450030T-26,26,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.203119,1.824479
 232450030T-26,26,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.203119,1.824479
 232450030T-5,5,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200878,1.828362
-232450030T-5,5,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200878,1.828362
-232450030T-6,6,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201111,1.827067
 232450030T-6,6,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201111,1.827067
 232450030T-7,7,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200893,1.828214
-232450030T-7,7,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200893,1.828214
-232450030T-8,8,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201177,1.826899
 232450030T-8,8,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.201177,1.826899
 232450030T-9,9,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200903,1.828044
-232450030T-9,9,Route de Cher les Faures,23000,Saint-Sulpice-le-Guérétois,C+O,46.200903,1.828044
-232450060A-10,10,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198812,1.827874
 232450060A-10,10,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198812,1.827874
 232450060A-11,11,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198958,1.827752
-232450060A-11,11,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198958,1.827752
-232450060A-1,1,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199534,1.829701
 232450060A-1,1,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199534,1.829701
 232450060A-12,12,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199125,1.827637
-232450060A-12,12,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199125,1.827637
-232450060A-13,13,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199322,1.827423
 232450060A-13,13,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199322,1.827423
 232450060A-14,14,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199399,1.827093
-232450060A-14,14,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199399,1.827093
-232450060A-15,15,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199252,1.826727
 232450060A-15,15,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199252,1.826727
 232450060A-16,16,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199412,1.826667
-232450060A-16,16,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199412,1.826667
-232450060A-17,17,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199476,1.826983
 232450060A-17,17,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199476,1.826983
 232450060A-18,18,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199467,1.827244
-232450060A-18,18,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199467,1.827244
-232450060A-19,19,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199398,1.827469
 232450060A-19,19,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199398,1.827469
 232450060A-20,20,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199234,1.827687
-232450060A-20,20,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199234,1.827687
-232450060A-21,21,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199010,1.827846
 232450060A-21,21,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199010,1.827846
 232450060A-2,2,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199387,1.829351
-232450060A-2,2,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199387,1.829351
-232450060A-23,23,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199087,1.828442
 232450060A-23,23,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199087,1.828442
 232450060A-24,24,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199229,1.828498
-232450060A-24,24,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199229,1.828498
-232450060A-25,25,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199522,1.828452
 232450060A-25,25,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199522,1.828452
 232450060A-26,26,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199660,1.828153
-232450060A-26,26,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199660,1.828153
-232450060A-29,29,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199809,1.828065
 232450060A-29,29,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199809,1.828065
 232450060A-30,30,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199696,1.828310
-232450060A-30,30,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199696,1.828310
-232450060A-31,31,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199569,1.828587
 232450060A-31,31,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199569,1.828587
 232450060A-32,32,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199437,1.828942
-232450060A-32,32,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199437,1.828942
-232450060A-33,33,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199553,1.829490
 232450060A-33,33,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199553,1.829490
 232450060A-3,3,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199285,1.829161
-232450060A-3,3,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199285,1.829161
-232450060A-4,4,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199160,1.828991
 232450060A-4,4,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199160,1.828991
 232450060A-5,5,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199006,1.828825
-232450060A-5,5,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.199006,1.828825
-232450060A-6,6,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198817,1.828651
 232450060A-6,6,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198817,1.828651
 232450060A-7,7,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198727,1.828485
-232450060A-7,7,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198727,1.828485
-232450060A-8,8,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198691,1.828228
 232450060A-8,8,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198691,1.828228
 232450060A-9,9,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198732,1.828022
-232450060A-9,9,Rue de la Garime,23000,Saint-Sulpice-le-Guérétois,C+O,46.198732,1.828022
-232450065F-1,1,Impasse George Sand,23000,Saint-Sulpice-le-Guérétois,C+O,46.196685,1.831660
 232450065F-1,1,Impasse George Sand,23000,Saint-Sulpice-le-Guérétois,C+O,46.196685,1.831660
 232450065F-2,2,Impasse George Sand,23000,Saint-Sulpice-le-Guérétois,C+O,46.196499,1.831393
-232450065F-2,2,Impasse George Sand,23000,Saint-Sulpice-le-Guérétois,C+O,46.196499,1.831393
-232450070L-3B,3BIS,Route de la Grange,23000,Saint-Sulpice-le-Guérétois,C+O,46.203180,1.825677
 232450070L-3B,3BIS,Route de la Grange,23000,Saint-Sulpice-le-Guérétois,C+O,46.203180,1.825677
 232450070L-9,9,Route de la Grange,23000,Saint-Sulpice-le-Guérétois,C+O,46.204250,1.825430
-232450070L-9,9,Route de la Grange,23000,Saint-Sulpice-le-Guérétois,C+O,46.204250,1.825430
-232450070L-9B,9BIS,Route de la Grange,23000,Saint-Sulpice-le-Guérétois,C+O,46.204319,1.825035
 232450070L-9B,9BIS,Route de la Grange,23000,Saint-Sulpice-le-Guérétois,C+O,46.204319,1.825035
 232450080X-1,1,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200432,1.829182
-232450080X-1,1,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200432,1.829182
-232450080X-2,2,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200297,1.829201
 232450080X-2,2,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200297,1.829201
 232450080X-3,3,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200533,1.829310
-232450080X-3,3,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200533,1.829310
-232450080X-5,5,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200597,1.829394
 232450080X-5,5,Impasse Henri Delannoy,23000,Saint-Sulpice-le-Guérétois,CAD,46.200597,1.829394
 232450100U-10,10,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195368,1.834293
-232450100U-10,10,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195368,1.834293
-232450100U-1,1,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195642,1.834223
 232450100U-1,1,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195642,1.834223
 232450100U-12,12,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195290,1.834329
-232450100U-12,12,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195290,1.834329
-232450100U-14,14,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195039,1.834428
 232450100U-14,14,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195039,1.834428
 232450100U-4,4,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195832,1.833975
-232450100U-4,4,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195832,1.833975
-232450100U-6,6,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195708,1.834034
 232450100U-6,6,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195708,1.834034
 232450100U-8,8,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195575,1.834169
-232450100U-8,8,Impasse Jean de Cessac,23000,Saint-Sulpice-le-Guérétois,C+O,46.195575,1.834169
-232450122T-3,3,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198808,1.829920
 232450122T-3,3,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198808,1.829920
 232450122T-4,4,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198967,1.830009
-232450122T-4,4,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198967,1.830009
-232450122T-6,6,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198778,1.829694
 232450122T-6,6,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198778,1.829694
 232450122T-8,8,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198631,1.829448
-232450122T-8,8,Allée Martin Nadaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.198631,1.829448
-232450124V-12,12,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165521,1.849514
 232450124V-12,12,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165521,1.849514
 232450124V-14,14,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165436,1.849207
-232450124V-14,14,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165436,1.849207
-232450124V-16,16,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165313,1.848956
 232450124V-16,16,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165313,1.848956
 232450124V-18,18,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165358,1.848890
-232450124V-18,18,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165358,1.848890
-232450124V-20,20,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165536,1.849284
 232450124V-20,20,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165536,1.849284
 232450124V-22,22,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165787,1.849466
-232450124V-22,22,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165787,1.849466
-232450124V-24,24,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165997,1.848920
 232450124V-24,24,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.165997,1.848920
 232450124V-26,26,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.166522,1.848974
-232450124V-26,26,Impasse du Maupuy,23000,Saint-Sulpice-le-Guérétois,CAD,46.166522,1.848974
-232450125W-11,11,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202332,1.831228
 232450125W-11,11,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202332,1.831228
 232450125W-13,13,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202600,1.831620
-232450125W-13,13,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202600,1.831620
-232450125W-14,14,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201905,1.830542
 232450125W-14,14,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201905,1.830542
 232450125W-16,16,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202040,1.830840
-232450125W-16,16,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202040,1.830840
-232450125W-2,2,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.200827,1.829068
 232450125W-2,2,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.200827,1.829068
 232450125W-24,24,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202783,1.832384
-232450125W-24,24,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202783,1.832384
-232450125W-3,3,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201501,1.829491
 232450125W-3,3,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201501,1.829491
 232450125W-4,4,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.200962,1.829158
-232450125W-4,4,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.200962,1.829158
-232450125W-5,5,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201846,1.830218
 232450125W-5,5,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201846,1.830218
 232450125W-6,6,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201112,1.829259
-232450125W-6,6,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.201112,1.829259
-232450125W-9,9,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202081,1.830704
 232450125W-9,9,Rue de la Nave,23000,Saint-Sulpice-le-Guérétois,C+O,46.202081,1.830704
 232450130B-1,1,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201018,1.828302
-232450130B-1,1,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201018,1.828302
-232450130B-3,3,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201150,1.828487
 232450130B-3,3,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201150,1.828487
 232450130B-5,5,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201307,1.828609
-232450130B-5,5,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201307,1.828609
-232450130B-7,7,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201356,1.828850
 232450130B-7,7,Rue de la Liberté,23000,Saint-Sulpice-le-Guérétois,CAD,46.201356,1.828850
 232450140M-10,10,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195129,1.835492
-232450140M-10,10,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195129,1.835492
-232450140M-12,12,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195257,1.835815
 232450140M-12,12,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195257,1.835815
 232450140M-14,14,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195391,1.836186
-232450140M-14,14,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195391,1.836186
-232450140M-2,2,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195540,1.835219
 232450140M-2,2,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195540,1.835219
 232450140M-4,4,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195446,1.835147
-232450140M-4,4,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195446,1.835147
-232450140M-6,6,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195034,1.835166
 232450140M-6,6,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195034,1.835166
 232450140M-8,8,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195077,1.835346
-232450140M-8,8,Impasse des Luchaudes,23000,Saint-Sulpice-le-Guérétois,CAD,46.195077,1.835346
-232450150Y-1,1,Impasse Marcel Jouhandeau,23000,Saint-Sulpice-le-Guérétois,CAD,46.201233,1.828306
 232450150Y-1,1,Impasse Marcel Jouhandeau,23000,Saint-Sulpice-le-Guérétois,CAD,46.201233,1.828306
 232450150Y-5,5,Impasse Marcel Jouhandeau,23000,Saint-Sulpice-le-Guérétois,CAD,46.201359,1.828385
-232450150Y-5,5,Impasse Marcel Jouhandeau,23000,Saint-Sulpice-le-Guérétois,CAD,46.201359,1.828385
-232450155D-11,11,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199820,1.829698
 232450155D-11,11,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199820,1.829698
 232450155D-11B,11BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199761,1.829791
-232450155D-11B,11BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199761,1.829791
-232450155D-1,1,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200539,1.829028
 232450155D-1,1,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200539,1.829028
 232450155D-13B,13BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199715,1.829861
-232450155D-13B,13BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199715,1.829861
-232450155D-15,15,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199637,1.829973
 232450155D-15,15,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.199637,1.829973
 232450155D-16,16,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197751,1.831569
-232450155D-16,16,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197751,1.831569
-232450155D-18,18,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197522,1.831713
 232450155D-18,18,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197522,1.831713
 232450155D-19,19,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196921,1.832423
-232450155D-19,19,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196921,1.832423
-232450155D-20,20,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197318,1.831862
 232450155D-20,20,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197318,1.831862
 232450155D-21,21,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196644,1.832839
-232450155D-21,21,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196644,1.832839
-232450155D-22,22,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197138,1.831975
 232450155D-22,22,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.197138,1.831975
 232450155D-23,23,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196459,1.833127
-232450155D-23,23,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196459,1.833127
-232450155D-25,25,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196309,1.833369
 232450155D-25,25,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196309,1.833369
 232450155D-26,26,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196916,1.832216
-232450155D-26,26,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196916,1.832216
-232450155D-26B,26BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196254,1.832516
 232450155D-26B,26BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196254,1.832516
 232450155D-26T,26TER,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196215,1.832568
-232450155D-26T,26TER,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196215,1.832568
-232450155D-28,28,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196402,1.832978
 232450155D-28,28,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196402,1.832978
 232450155D-28B,28BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196249,1.833242
-232450155D-28B,28BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196249,1.833242
-232450155D-28Q,28QUATER,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195827,1.833502
 232450155D-28Q,28QUATER,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195827,1.833502
 232450155D-28T,28TER,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196172,1.833375
-232450155D-28T,28TER,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.196172,1.833375
-232450155D-3,3,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200198,1.829284
 232450155D-3,3,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200198,1.829284
 232450155D-35,35,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195591,1.835900
-232450155D-35,35,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195591,1.835900
-232450155D-36,36,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.193821,1.839283
 232450155D-36,36,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.193821,1.839283
 232450155D-37,37,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195553,1.836386
-232450155D-37,37,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195553,1.836386
-232450155D-39,39,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195134,1.838917
 232450155D-39,39,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195134,1.838917
 232450155D-41,41,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195041,1.839266
-232450155D-41,41,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.195041,1.839266
-232450155D-43,43,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.194939,1.839645
 232450155D-43,43,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.194939,1.839645
 232450155D-45,45,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.194810,1.840137
-232450155D-45,45,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.194810,1.840137
-232450155D-5,5,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200103,1.829372
 232450155D-5,5,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200103,1.829372
 232450155D-6,6,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200075,1.829260
-232450155D-6,6,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200075,1.829260
-232450155D-6B,6BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200189,1.829193
 232450155D-6B,6BIS,Route de la Marche,23000,Saint-Sulpice-le-Guérétois,C+O,46.200189,1.829193
 232450157F-2,2,Route des Moulins,23000,Saint-Sulpice-le-Guérétois,CAD,46.205701,1.843735
-232450157F-2,2,Route des Moulins,23000,Saint-Sulpice-le-Guérétois,CAD,46.205701,1.843735
-232450157F-4,4,Route des Moulins,23000,Saint-Sulpice-le-Guérétois,CAD,46.205865,1.844510
 232450157F-4,4,Route des Moulins,23000,Saint-Sulpice-le-Guérétois,CAD,46.205865,1.844510
 232450160J-11,11,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200967,1.823943
-232450160J-11,11,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200967,1.823943
-232450160J-12,12,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201096,1.824647
 232450160J-12,12,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201096,1.824647
 232450160J-13,13,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200947,1.823669
-232450160J-13,13,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200947,1.823669
-232450160J-14,14,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201347,1.824235
 232450160J-14,14,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201347,1.824235
 232450160J-15,15,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200923,1.823352
-232450160J-15,15,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200923,1.823352
-232450160J-16,16,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201039,1.823918
 232450160J-16,16,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201039,1.823918
 232450160J-21,21,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201257,1.821070
-232450160J-21,21,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201257,1.821070
-232450160J-22,22,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201153,1.822449
 232450160J-22,22,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201153,1.822449
 232450160J-2,2,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201363,1.826277
-232450160J-2,2,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201363,1.826277
-232450160J-23,23,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201248,1.819148
 232450160J-23,23,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201248,1.819148
 232450160J-25,25,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201234,1.818757
-232450160J-25,25,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201234,1.818757
-232450160J-26,26,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201302,1.821847
 232450160J-26,26,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201302,1.821847
 232450160J-27,27,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201210,1.818193
-232450160J-27,27,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201210,1.818193
-232450160J-30,30,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201334,1.820996
 232450160J-30,30,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201334,1.820996
 232450160J-31,31,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201138,1.817700
-232450160J-31,31,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201138,1.817700
-232450160J-33,33,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201119,1.817037
 232450160J-33,33,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201119,1.817037
 232450160J-3,3,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201187,1.825726
-232450160J-3,3,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201187,1.825726
-232450160J-34,34,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201333,1.819490
 232450160J-34,34,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201333,1.819490
 232450160J-35,35,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201230,1.817767
-232450160J-35,35,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201230,1.817767
-232450160J-36,36,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201320,1.819160
 232450160J-36,36,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201320,1.819160
 232450160J-37,37,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201282,1.820169
-232450160J-37,37,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201282,1.820169
-232450160J-38,38,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201307,1.818775
 232450160J-38,38,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201307,1.818775
 232450160J-39,39,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200554,1.820624
-232450160J-39,39,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200554,1.820624
-232450160J-41,41,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200446,1.821417
 232450160J-41,41,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200446,1.821417
 232450160J-43,43,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200795,1.822410
-232450160J-43,43,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200795,1.822410
-232450160J-44,44,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201139,1.819934
 232450160J-44,44,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201139,1.819934
 232450160J-4,4,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201353,1.826173
-232450160J-4,4,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201353,1.826173
-232450160J-60,60,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200482,1.821775
 232450160J-60,60,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200482,1.821775
 232450160J-62,62,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200580,1.822051
-232450160J-62,62,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200580,1.822051
-232450160J-64,64,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200697,1.822388
 232450160J-64,64,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200697,1.822388
 232450160J-66,66,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200820,1.822732
-232450160J-66,66,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.200820,1.822732
-232450160J-6,6,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201339,1.826040
 232450160J-6,6,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201339,1.826040
 232450160J-7,7,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201521,1.819760
-232450160J-7,7,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201521,1.819760
-232450160J-8,8,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201230,1.825634
 232450160J-8,8,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201230,1.825634
 232450160J-9,9,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201004,1.824465
-232450160J-9,9,Rue du Moulin du Champ,23000,Saint-Sulpice-le-Guérétois,CAD,46.201004,1.824465
-232450190S-7B,7BIS,Rue du Perasseau,23000,Saint-Sulpice-le-Guérétois,C+O,46.200037,1.828072
 232450190S-7B,7BIS,Rue du Perasseau,23000,Saint-Sulpice-le-Guérétois,C+O,46.200037,1.828072
 232450195X-1,1,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.201782,1.828883
-232450195X-1,1,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.201782,1.828883
-232450195X-3,3,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202146,1.829069
 232450195X-3,3,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202146,1.829069
 232450195X-5,5,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202201,1.829227
-232450195X-5,5,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202201,1.829227
-232450195X-6,6,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202226,1.829797
 232450195X-6,6,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202226,1.829797
 232450195X-7,7,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202283,1.829461
-232450195X-7,7,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202283,1.829461
-232450195X-8,8,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202519,1.830019
 232450195X-8,8,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.202519,1.830019
 232450195X-9,9,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.201484,1.828699
-232450195X-9,9,Rue des Planches,23000,Saint-Sulpice-le-Guérétois,C+O,46.201484,1.828699
-232450220Z-2,2,Allée du Ris Chaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.199929,1.826712
 232450220Z-2,2,Allée du Ris Chaud,23000,Saint-Sulpice-le-Guérétois,CAD,46.199929,1.826712
 232450225E-1,1,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.201890,1.828462
-232450225E-1,1,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.201890,1.828462
-232450225E-2,2,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.202074,1.828864
 232450225E-2,2,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.202074,1.828864
 232450225E-3,3,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.201982,1.828292
-232450225E-3,3,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.201982,1.828292
-232450225E-4,4,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.201990,1.828621
 232450225E-4,4,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.201990,1.828621
 232450225E-5,5,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.202064,1.828136
-232450225E-5,5,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.202064,1.828136
-232450225E-6,6,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.202006,1.828391
 232450225E-6,6,Rue du Ris du Mal,23000,Saint-Sulpice-le-Guérétois,CAD,46.202006,1.828391
 232450240W-2,2,Impasse du Stade,23000,Saint-Sulpice-le-Guérétois,C+O,46.201901,1.820591
-232450240W-2,2,Impasse du Stade,23000,Saint-Sulpice-le-Guérétois,C+O,46.201901,1.820591
-232450251H-50B,50BIS,Rue des Bambous Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169725,1.847547
 232450251H-50B,50BIS,Rue des Bambous Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169725,1.847547
 232450252J-6,6,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170806,1.843786
-232450252J-6,6,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170806,1.843786
-232450252J-6B,6BIS,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170524,1.843489
 232450252J-6B,6BIS,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170524,1.843489
 232450252J-8,8,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170405,1.843454
-232450252J-8,8,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170405,1.843454
-232450252J-94,94,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169494,1.842687
 232450252J-94,94,Rue des Carriers Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169494,1.842687
 232450253K-25,25,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171076,1.845821
-232450253K-25,25,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171076,1.845821
-232450253K-26,26,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170700,1.846264
 232450253K-26,26,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170700,1.846264
 232450253K-27,27,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170716,1.845843
-232450253K-27,27,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170716,1.845843
-232450253K-29,29,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170748,1.845939
 232450253K-29,29,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170748,1.845939
 232450253K-30,30,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170897,1.846817
-232450253K-30,30,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170897,1.846817
-232450253K-31,31,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171379,1.845736
 232450253K-31,31,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171379,1.845736
 232450253K-32,32,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170867,1.847468
-232450253K-32,32,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170867,1.847468
-232450253K-32B,32BIS,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170638,1.848193
 232450253K-32B,32BIS,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170638,1.848193
 232450253K-35,35,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170972,1.847201
-232450253K-35,35,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170972,1.847201
-232450253K-36,36,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171285,1.848153
 232450253K-36,36,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171285,1.848153
 232450253K-37,37,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170939,1.847322
-232450253K-37,37,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170939,1.847322
-232450253K-38,38,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171050,1.848240
 232450253K-38,38,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171050,1.848240
 232450253K-39,39,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170922,1.847639
-232450253K-39,39,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170922,1.847639
-232450253K-40,40,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170460,1.848505
 232450253K-40,40,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170460,1.848505
 232450253K-41,41,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171127,1.847593
-232450253K-41,41,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171127,1.847593
-232450253K-42,42,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169793,1.848230
 232450253K-42,42,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169793,1.848230
 232450253K-43,43,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171161,1.847632
-232450253K-43,43,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171161,1.847632
-232450253K-44,44,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169594,1.848171
 232450253K-44,44,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169594,1.848171
 232450253K-46,46,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168449,1.847499
-232450253K-46,46,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168449,1.847499
-232450253K-47,47,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171542,1.846858
 232450253K-47,47,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171542,1.846858
 232450253K-49,49,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171277,1.847949
-232450253K-49,49,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171277,1.847949
-232450253K-53,53,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171372,1.848002
 232450253K-53,53,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171372,1.848002
 232450253K-55,55,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171613,1.848033
-232450253K-55,55,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171613,1.848033
-232450253K-57,57,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171722,1.848130
 232450253K-57,57,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171722,1.848130
 232450253K-59,59,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170348,1.848700
-232450253K-59,59,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170348,1.848700
-232450253K-59B,59BIS,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169406,1.849774
 232450253K-59B,59BIS,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169406,1.849774
 232450253K-59T,59TER,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169961,1.849948
-232450253K-59T,59TER,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169961,1.849948
-232450253K-61,61,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169514,1.849282
 232450253K-61,61,Rue des Ecureuils Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169514,1.849282
 232450254L-2,2,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171638,1.844406
-232450254L-2,2,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171638,1.844406
-232450254L-48,48,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169122,1.847185
 232450254L-48,48,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169122,1.847185
 232450254L-50,50,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169423,1.846924
-232450254L-50,50,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169423,1.846924
-232450254L-52,52,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169913,1.846516
 232450254L-52,52,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169913,1.846516
 232450254L-52B,52BIS,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170438,1.846028
-232450254L-52B,52BIS,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170438,1.846028
-232450254L-61B,61BIS,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168202,1.847475
 232450254L-61B,61BIS,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168202,1.847475
 232450255M-105,105,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169358,1.842430
-232450255M-105,105,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169358,1.842430
-232450255M-67,67,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.167604,1.847468
 232450255M-67,67,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.167604,1.847468
 232450255M-67B,67BIS,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.167280,1.847129
-232450255M-67B,67BIS,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.167280,1.847129
-232450255M-80,80,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169070,1.844064
 232450255M-80,80,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169070,1.844064
 232450255M-82,82,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169123,1.843881
-232450255M-82,82,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169123,1.843881
-232450255M-84,84,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169187,1.843661
 232450255M-84,84,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169187,1.843661
 232450255M-86,86,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169279,1.843371
-232450255M-86,86,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169279,1.843371
-232450255M-89,89,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168481,1.844705
 232450255M-89,89,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168481,1.844705
 232450255M-90,90,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169301,1.843276
-232450255M-90,90,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169301,1.843276
-232450255M-91,91,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168460,1.843999
 232450255M-91,91,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168460,1.843999
 232450255M-92,92,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169388,1.843026
-232450255M-92,92,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169388,1.843026
-232450255M-95,95,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168714,1.842866
 232450255M-95,95,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168714,1.842866
 232450256N-56,56,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167906,1.846841
-232450256N-56,56,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167906,1.846841
-232450256N-58,58,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167470,1.846536
 232450256N-58,58,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167470,1.846536
 232450256N-60,60,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167271,1.846394
-232450256N-60,60,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167271,1.846394
-232450256N-61,61,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167083,1.846261
 232450256N-61,61,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167083,1.846261
 232450256N-64,64,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166856,1.846097
-232450256N-64,64,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166856,1.846097
-232450256N-69,69,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167959,1.846963
 232450256N-69,69,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167959,1.846963
 232450256N-71,71,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167690,1.846783
-232450256N-71,71,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167690,1.846783
-232450256N-73,73,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167411,1.846593
 232450256N-73,73,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167411,1.846593
 232450256N-75,75,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167247,1.846484
-232450256N-75,75,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167247,1.846484
-232450256N-77,77,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167160,1.846397
 232450256N-77,77,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.167160,1.846397
 232450256N-79,79,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166982,1.846308
-232450256N-79,79,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166982,1.846308
-232450256N-81,81,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166900,1.846845
 232450256N-81,81,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166900,1.846845
 232450256N-83,83,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166787,1.846832
-232450256N-83,83,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166787,1.846832
-232450256N-85,85,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166414,1.846872
 232450256N-85,85,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166414,1.846872
 232450256N-87,87,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166460,1.846826
-232450256N-87,87,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166460,1.846826
-232450256N-87B,87BIS,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166727,1.846096
 232450256N-87B,87BIS,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166727,1.846096
 232450257P-10,10,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170807,1.844073
-232450257P-10,10,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170807,1.844073
-232450257P-1,1,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171056,1.843577
 232450257P-1,1,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171056,1.843577
 232450257P-12,12,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170650,1.844340
-232450257P-12,12,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170650,1.844340
-232450257P-15,15,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170735,1.844643
 232450257P-15,15,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170735,1.844643
 232450257P-16,16,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170415,1.844513
-232450257P-16,16,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170415,1.844513
-232450257P-18,18,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170449,1.844755
 232450257P-18,18,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170449,1.844755
 232450257P-20,20,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170450,1.845105
-232450257P-20,20,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170450,1.845105
-232450257P-21,21,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170642,1.844720
 232450257P-21,21,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170642,1.844720
 232450257P-23,23,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170676,1.844626
-232450257P-23,23,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170676,1.844626
-232450257P-25,25,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170610,1.844790
 232450257P-25,25,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170610,1.844790
 232450257P-4,4,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171118,1.843286
-232450257P-4,4,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.171118,1.843286
-232450257P-5,5,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170993,1.844174
 232450257P-5,5,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170993,1.844174
 232450257P-7,7,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170978,1.844251
-232450257P-7,7,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170978,1.844251
-232450257P-7B,7BIS,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170854,1.844472
 232450257P-7B,7BIS,Rue Cher Soubrant Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.170854,1.844472
 232450258R-107,107,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169171,1.841755
-232450258R-107,107,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169171,1.841755
-232450258R-109,109,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169290,1.841974
 232450258R-109,109,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169290,1.841974
 232450258R-111,111,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168948,1.841247
-232450258R-111,111,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168948,1.841247
-232450258R-113,113,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168749,1.841415
 232450258R-113,113,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168749,1.841415
 232450258R-115,115,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168821,1.840949
-232450258R-115,115,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168821,1.840949
-232450258R-117,117,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168630,1.840558
 232450258R-117,117,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.168630,1.840558
 232450258R-119,119,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166357,1.840394
-232450258R-119,119,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.166357,1.840394
-232450258R-121,121,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169276,1.840983
 232450258R-121,121,Rue de la Source Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169276,1.840983
 232450259S-66,66,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169017,1.845283
-232450259S-66,66,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169017,1.845283
-232450259S-68,68,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169320,1.844968
 232450259S-68,68,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169320,1.844968
 232450259S-70,70,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169366,1.844749
-232450259S-70,70,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169366,1.844749
-232450259S-72,72,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169318,1.844666
 232450259S-72,72,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169318,1.844666
 232450259S-74,74,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169235,1.844759
-232450259S-74,74,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169235,1.844759
-232450259S-76,76,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169167,1.844999
 232450259S-76,76,Rue des Tilleuls Coussières,23000,Saint-Sulpice-le-Guérétois,CAD,46.169167,1.844999
 23245A100N-11B,11BIS,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.187712,1.830940
-23245A100N-11B,11BIS,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.187712,1.830940
-23245A100N-17,17,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.186912,1.830631
 23245A100N-17,17,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.186912,1.830631
 23245A100N-4,4,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185053,1.829957
-23245A100N-4,4,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185053,1.829957
-23245A100N-6,6,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185452,1.831062
 23245A100N-6,6,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185452,1.831062
 23245A100N-8,8,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185069,1.830091
-23245A100N-8,8,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185069,1.830091
-23245A100N-8B,8BIS,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185453,1.831080
 23245A100N-8B,8BIS,Zi du Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.185453,1.831080
 23245B038H-21,21,Glane,23000,Saint-Sulpice-le-Guérétois,CAD,46.199821,1.856554
-23245B038H-21,21,Glane,23000,Saint-Sulpice-le-Guérétois,CAD,46.199821,1.856554
-23245B038H-47,47,Glane,23000,Saint-Sulpice-le-Guérétois,CAD,46.200612,1.859347
 23245B038H-47,47,Glane,23000,Saint-Sulpice-le-Guérétois,CAD,46.200612,1.859347
 23245B084H-42,42,Le Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.181381,1.826267
-23245B084H-42,42,Le Monteil,23000,Saint-Sulpice-le-Guérétois,CAD,46.181381,1.826267
-23245B085J-1,1,La Ribière,23000,Saint-Sulpice-le-Guérétois,CAD,46.209258,1.815739
 23245B085J-1,1,La Ribière,23000,Saint-Sulpice-le-Guérétois,CAD,46.209258,1.815739
 232460001G-10,10,Route d'Ahun,23480,Saint-Sulpice-les-Champs,CAD,45.996163,2.022397
 232460001G-11,11,Route d'Ahun,23480,Saint-Sulpice-les-Champs,CAD,45.996236,2.022084
