@@ -7981,10 +7981,10 @@
 460950025P-7,7,Rue des Cigales,46090,Espère,CAD,44.514492,1.368366
 460950025P-8,8,Rue des Cigales,46090,Espère,CAD,44.513039,1.371118
 460950025P-9,9,Rue des Cigales,46090,Espère,CAD,44.514832,1.368465
-460950030V-2,2,Rue du Clau,46090,Espère,C+O,44.508937,1.378683
-460950030V-4,4,Rue du Clau,46090,Espère,C+O,44.509108,1.378843
-460950030V-6,6,Rue du Clau,46090,Espère,C+O,44.509226,1.378942
-460950030V-8,8,Rue du Clau,46090,Espère,C+O,44.509764,1.379621
+460950030V-2,2,Rue de Clau,46090,Espère,C+O,44.508937,1.378683
+460950030V-4,4,Rue de Clau,46090,Espère,C+O,44.509108,1.378843
+460950030V-6,6,Rue de Clau,46090,Espère,C+O,44.509226,1.378942
+460950030V-8,8,Rue de Clau,46090,Espère,C+O,44.509764,1.379621
 460950035A-20,20,Rue du Colombier,46090,Espère,CAD,44.514070,1.379417
 460950035A-23,23,Rue du Colombier,46090,Espère,CAD,44.514638,1.379497
 460950035A-29,29,Rue du Colombier,46090,Espère,CAD,44.515444,1.380178
@@ -13433,15 +13433,15 @@
 461280085L-7033,7033,Rue Joviale,46500,Gramat,C+O,44.778663,1.723405
 461280085L-7,7,Rue Joviale,46500,Gramat,C+O,44.778190,1.723230
 461280085L-8,8,Rue Joviale,46500,Gramat,C+O,44.778982,1.723745
-461280087N-115B,115BIS,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788645,1.722954
-461280087N-120B,120BIS,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788162,1.723142
-461280087N-150,150,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788609,1.723375
-461280087N-35,35,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788381,1.721802
-461280087N-60,60,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788325,1.722181
-461280087N-7165,7165,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788828,1.724335
-461280087N-7618F,7618F,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788946,1.723304
-461280087N-90,90,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788370,1.722634
-461280087N-95,95,Rue Jean Henri Fabre,46500,Gramat,CAD,44.788437,1.722542
+461280087N-115B,115BIS,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788645,1.722954
+461280087N-120B,120BIS,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788162,1.723142
+461280087N-150,150,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788609,1.723375
+461280087N-35,35,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788381,1.721802
+461280087N-60,60,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788325,1.722181
+461280087N-7165,7165,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788828,1.724335
+461280087N-7618F,7618F,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788946,1.723304
+461280087N-90,90,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788370,1.722634
+461280087N-95,95,Rue Jean-Henri Fabre,46500,Gramat,C+O,44.788437,1.722542
 461280091T-110,110,Rue Lamartine,46500,Gramat,C+O,44.781710,1.733164
 461280091T-140,140,Rue Lamartine,46500,Gramat,C+O,44.781612,1.732962
 461280091T-150,150,Rue Lamartine,46500,Gramat,C+O,44.781444,1.732963
@@ -20056,56 +20056,56 @@
 462730007W-351,351,Chemin des Béquenques,46400,Saint-Laurent-les-Tours,C+O,44.869835,1.893963
 462730007W-90,90,Chemin des Béquenques,46400,Saint-Laurent-les-Tours,C+O,44.869223,1.891120
 462730008X-11,11,Allée des Buissons,46400,Saint-Laurent-les-Tours,CAD,44.864851,1.895219
-462730009Y-200,200,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.869398,1.882269
-462730009Y-214,214,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.869558,1.881976
-462730009Y-251,251,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.869797,1.881197
-462730009Y-270,270,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.869991,1.881867
-462730009Y-283,283,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.870133,1.881748
-462730009Y-286,286,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.870242,1.881837
-462730009Y-306,306,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.870419,1.881816
-462730009Y-334,334,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.870597,1.881796
-462730009Y-339,339,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.870572,1.881696
-462730009Y-356,356,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.870794,1.881772
-462730009Y-357,357,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.870849,1.881662
-462730009Y-399,399,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.871192,1.881622
-462730009Y-406,406,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.871343,1.881685
-462730009Y-409,409,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.871393,1.880792
-462730009Y-430,430,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.871450,1.881661
-462730009Y-440,440,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.871527,1.881603
-462730009Y-455,455,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.871832,1.881159
-462730009Y-531,531,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.872126,1.881059
-462730009Y-550,550,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.872333,1.881109
-462730009Y-562,562,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.872689,1.880958
-462730009Y-581,581,Rue des Cartoules,46400,Saint-Laurent-les-Tours,CAD,44.872733,1.880575
+462730009Y-200,200,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.869398,1.882269
+462730009Y-214,214,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.869558,1.881976
+462730009Y-251,251,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.869797,1.881197
+462730009Y-270,270,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.869991,1.881867
+462730009Y-283,283,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.870133,1.881748
+462730009Y-286,286,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.870242,1.881837
+462730009Y-306,306,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.870419,1.881816
+462730009Y-334,334,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.870597,1.881796
+462730009Y-339,339,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.870572,1.881696
+462730009Y-356,356,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.870794,1.881772
+462730009Y-357,357,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.870849,1.881662
+462730009Y-399,399,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.871192,1.881622
+462730009Y-406,406,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.871343,1.881685
+462730009Y-409,409,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.871393,1.880792
+462730009Y-430,430,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.871450,1.881661
+462730009Y-440,440,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.871527,1.881603
+462730009Y-455,455,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.871832,1.881159
+462730009Y-531,531,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.872126,1.881059
+462730009Y-550,550,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.872333,1.881109
+462730009Y-562,562,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.872689,1.880958
+462730009Y-581,581,Rue des Cartoules,46400,Saint-Laurent-les-Tours,C+O,44.872733,1.880575
 462730010Z-119,119,Rue Chanteclerc,46400,Saint-Laurent-les-Tours,C+O,44.873481,1.877315
 462730010Z-136,136,Rue Chanteclerc,46400,Saint-Laurent-les-Tours,C+O,44.873565,1.877242
 462730010Z-164,164,Rue Chanteclerc,46400,Saint-Laurent-les-Tours,C+O,44.873573,1.876392
 462730013C-68,68,Impasse Copernic,46400,Saint-Laurent-les-Tours,C+O,44.866218,1.881995
 462730013C-83,83,Impasse Copernic,46400,Saint-Laurent-les-Tours,C+O,44.866293,1.882277
-462730014D-15,15,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.870240,1.889101
-462730014D-153,153,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.871299,1.889963
-462730014D-181,181,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.871492,1.890110
-462730014D-18,18,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.870120,1.889233
-462730014D-189,189,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.871554,1.890169
-462730014D-207,207,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.871693,1.890304
-462730014D-88,88,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.870744,1.889709
-462730014D-92,92,Rue de Costerousset,46400,Saint-Laurent-les-Tours,CAD,44.870716,1.889690
-462730015E-124,124,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.867759,1.881281
-462730015E-136,136,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.867782,1.881049
-462730015E-156,156,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.867809,1.880777
-462730015E-194,194,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868301,1.880522
-462730015E-198,198,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868816,1.880441
-462730015E-242,242,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.867967,1.879713
-462730015E-266,266,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868506,1.879909
-462730015E-272,272,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.869312,1.880093
-462730015E-280,280,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868044,1.879264
-462730015E-328,328,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868191,1.878672
-462730015E-348,348,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868164,1.878318
-462730015E-362,362,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868337,1.878285
-462730015E-382,382,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.868530,1.878025
-462730015E-60,60,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.867687,1.882009
-462730015E-76,76,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.867713,1.881745
-462730015E-92,92,Rue des Coteaux,46400,Saint-Laurent-les-Tours,CAD,44.867730,1.881578
+462730014D-15,15,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.870240,1.889101
+462730014D-153,153,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.871299,1.889963
+462730014D-181,181,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.871492,1.890110
+462730014D-18,18,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.870120,1.889233
+462730014D-189,189,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.871554,1.890169
+462730014D-207,207,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.871693,1.890304
+462730014D-88,88,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.870744,1.889709
+462730014D-92,92,Rue de Costerousset,46400,Saint-Laurent-les-Tours,C+O,44.870716,1.889690
+462730015E-124,124,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.867759,1.881281
+462730015E-136,136,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.867782,1.881049
+462730015E-156,156,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.867809,1.880777
+462730015E-194,194,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868301,1.880522
+462730015E-198,198,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868816,1.880441
+462730015E-242,242,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.867967,1.879713
+462730015E-266,266,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868506,1.879909
+462730015E-272,272,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.869312,1.880093
+462730015E-280,280,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868044,1.879264
+462730015E-328,328,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868191,1.878672
+462730015E-348,348,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868164,1.878318
+462730015E-362,362,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868337,1.878285
+462730015E-382,382,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.868530,1.878025
+462730015E-60,60,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.867687,1.882009
+462730015E-76,76,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.867713,1.881745
+462730015E-92,92,Rue des Coteaux,46400,Saint-Laurent-les-Tours,C+O,44.867730,1.881578
 462730016F-205,205,Rue des Crêtes,46400,Saint-Laurent-les-Tours,C+O,44.873138,1.874703
 462730016F-271,271,Rue des Crêtes,46400,Saint-Laurent-les-Tours,C+O,44.873601,1.875464
 462730016F-76,76,Rue des Crêtes,46400,Saint-Laurent-les-Tours,C+O,44.872130,1.875048
@@ -20136,7 +20136,7 @@
 462730018H-636,636,Rue des Cyprès,46400,Saint-Laurent-les-Tours,CAD,44.872957,1.878617
 462730018H-647,647,Rue des Cyprès,46400,Saint-Laurent-les-Tours,CAD,44.873141,1.878513
 462730018H-71,71,Rue des Cyprès,46400,Saint-Laurent-les-Tours,CAD,44.868455,1.880699
-462730019J-49,49,Rue Henri Degat,46400,Saint-Laurent-les-Tours,CAD,44.870153,1.881155
+462730019J-49,49,Rue Henri Degat,46400,Saint-Laurent-les-Tours,C+O,44.870153,1.881155
 462730020K-114,114,Rue des Écoliers,46400,Saint-Laurent-les-Tours,C+O,44.867999,1.890047
 462730020K-140,140,Rue des Écoliers,46400,Saint-Laurent-les-Tours,C+O,44.868097,1.890111
 462730020K-147,147,Rue des Écoliers,46400,Saint-Laurent-les-Tours,C+O,44.868318,1.890070
@@ -20149,11 +20149,11 @@
 462730020K-62,62,Rue des Écoliers,46400,Saint-Laurent-les-Tours,C+O,44.867479,1.889589
 462730020K-6,6,Rue des Écoliers,46400,Saint-Laurent-les-Tours,C+O,44.867228,1.889350
 462730020K-90,90,Rue des Écoliers,46400,Saint-Laurent-les-Tours,C+O,44.867748,1.889845
-462730021L-15,15,Chemin des Eglantiers,46400,Saint-Laurent-les-Tours,CAD,44.872086,1.890487
-462730021L-45,45,Chemin des Eglantiers,46400,Saint-Laurent-les-Tours,CAD,44.872290,1.890311
-462730021L-54,54,Chemin des Eglantiers,46400,Saint-Laurent-les-Tours,CAD,44.872407,1.890354
-462730021L-65,65,Chemin des Eglantiers,46400,Saint-Laurent-les-Tours,CAD,44.872588,1.890142
-462730021L-67,67,Chemin des Eglantiers,46400,Saint-Laurent-les-Tours,CAD,44.872679,1.890029
+462730021L-15,15,Chemin des Églantiers,46400,Saint-Laurent-les-Tours,C+O,44.872086,1.890487
+462730021L-45,45,Chemin des Églantiers,46400,Saint-Laurent-les-Tours,C+O,44.872290,1.890311
+462730021L-54,54,Chemin des Églantiers,46400,Saint-Laurent-les-Tours,C+O,44.872407,1.890354
+462730021L-65,65,Chemin des Églantiers,46400,Saint-Laurent-les-Tours,C+O,44.872588,1.890142
+462730021L-67,67,Chemin des Églantiers,46400,Saint-Laurent-les-Tours,C+O,44.872679,1.890029
 462730023N-32,32,Avenue de l'Europe,46400,Saint-Laurent-les-Tours,C+O,44.866339,1.882671
 462730025R-122,122,Rue de Gary,46400,Saint-Laurent-les-Tours,C+O,44.866371,1.881140
 462730025R-149,149,Rue de Gary,46400,Saint-Laurent-les-Tours,C+O,44.866163,1.880763
@@ -20226,7 +20226,7 @@
 462730030W-243,243,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.871995,1.899338
 462730030W-67,67,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.873638,1.899857
 462730030W-759,759,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.867936,1.896902
-462730031X-46,46,Rue des Lilas,46400,Saint-Laurent-les-Tours,CAD,44.873731,1.894295
+462730031X-46,46,Rue des Lilas,46400,Saint-Laurent-les-Tours,C+O,44.873731,1.894295
 462730032Y-1030,1030,Avenue Jean Lurcat,46400,Saint-Laurent-les-Tours,C+O,44.867992,1.893568
 462730032Y-1068,1068,Avenue Jean Lurcat,46400,Saint-Laurent-les-Tours,C+O,44.868203,1.893935
 462730032Y-1188,1188,Avenue Jean Lurcat,46400,Saint-Laurent-les-Tours,C+O,44.868149,1.894986
@@ -20252,9 +20252,9 @@
 462730033Z-44,44,Allée des Termes,46400,Saint-Laurent-les-Tours,CAD,44.867654,1.884649
 462730033Z-68,68,Allée des Termes,46400,Saint-Laurent-les-Tours,CAD,44.867750,1.884464
 462730033Z-90,90,Allée des Termes,46400,Saint-Laurent-les-Tours,CAD,44.867663,1.884168
-462730034A-20,20,Impasse des Trois Lunes,46400,Saint-Laurent-les-Tours,CAD,44.868157,1.881680
-462730034A-34,34,Impasse des Trois Lunes,46400,Saint-Laurent-les-Tours,CAD,44.868182,1.881440
-462730034A-52,52,Impasse des Trois Lunes,46400,Saint-Laurent-les-Tours,CAD,44.868206,1.881190
+462730034A-20,20,Impasse des 3 Lunes,46400,Saint-Laurent-les-Tours,C+O,44.868157,1.881680
+462730034A-34,34,Impasse des 3 Lunes,46400,Saint-Laurent-les-Tours,C+O,44.868182,1.881440
+462730034A-52,52,Impasse des 3 Lunes,46400,Saint-Laurent-les-Tours,C+O,44.868206,1.881190
 462730035B-102,102,Chemin du Moulin,46400,Saint-Laurent-les-Tours,C+O,44.867686,1.876356
 462730035B-237,237,Chemin du Moulin,46400,Saint-Laurent-les-Tours,C+O,44.865887,1.877020
 462730035B-41,41,Chemin du Moulin,46400,Saint-Laurent-les-Tours,C+O,44.867071,1.879192
@@ -20386,15 +20386,15 @@
 462730052V-104,104,Rue Bellevue,46400,Saint-Laurent-les-Tours,C+O,44.871372,1.896431
 462730052V-60,60,Rue Bellevue,46400,Saint-Laurent-les-Tours,C+O,44.871400,1.895858
 462730058B-50,50,Impasse Impasses des Acacias,46400,Saint-Laurent-les-Tours,CAD,44.872083,1.879391
-462730059C-330,330,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.872290,1.891267
-462730059C-340,340,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.872018,1.892183
-462730059C-379,379,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.872798,1.891871
-462730059C-411,411,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.873289,1.892689
-462730059C-525,525,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.873670,1.893344
-462730059C-555,555,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.873814,1.893499
-462730059C-611,611,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.874167,1.893977
-462730059C-621,621,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.874207,1.894244
-462730059C-940,940,Rue Louis Boris,46400,Saint-Laurent-les-Tours,CAD,44.873792,1.898190
+462730059C-330,330,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.872290,1.891267
+462730059C-340,340,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.872018,1.892183
+462730059C-379,379,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.872798,1.891871
+462730059C-411,411,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.873289,1.892689
+462730059C-525,525,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.873670,1.893344
+462730059C-555,555,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.873814,1.893499
+462730059C-611,611,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.874167,1.893977
+462730059C-621,621,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.874207,1.894244
+462730059C-940,940,Rue Louis Boris,46400,Saint-Laurent-les-Tours,C+O,44.873792,1.898190
 462730061E-106,106,Rue Actipole Les Pres,46400,Saint-Laurent-les-Tours,CAD,44.868873,1.873048
 462730061E-134,134,Rue Actipole Les Pres,46400,Saint-Laurent-les-Tours,CAD,44.868436,1.872732
 463090005M-1,1,Place de l'Abbaye,46200,Souillac,C+O,44.894238,1.477257
