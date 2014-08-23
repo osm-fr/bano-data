@@ -8716,14 +8716,14 @@
 461020460G-7B,7BIS,Rue Caviale,46100,Figeac,C+O,44.608101,2.031590
 461020460G-8,8,Rue Caviale,46100,Figeac,C+O,44.607989,2.031689
 461020460G-9,9,Rue Caviale,46100,Figeac,C+O,44.608425,2.031962
-461020495V-11,11,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.610835,2.031242
-461020495V-13,13,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.610909,2.030987
-461020495V-15,15,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.610999,2.030807
-461020495V-17,17,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.611053,2.030660
-461020495V-3,3,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.610574,2.031849
-461020495V-5,5,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.610625,2.031636
-461020495V-7,7,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.610755,2.031526
-461020495V-9,9,Rue du Champ Saint Barthélémy,46100,Figeac,C+O,44.610807,2.031341
+461020495V-11,11,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.610835,2.031242
+461020495V-13,13,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.610909,2.030987
+461020495V-15,15,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.610999,2.030807
+461020495V-17,17,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.611053,2.030660
+461020495V-3,3,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.610574,2.031849
+461020495V-5,5,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.610625,2.031636
+461020495V-7,7,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.610755,2.031526
+461020495V-9,9,Rue du Champ Saint-Barthélémy,46100,Figeac,C+O,44.610807,2.031341
 461020500A-10,10,Impasse Champollion,46100,Figeac,C+O,44.609686,2.034398
 461020500A-2B,2BIS,Impasse Champollion,46100,Figeac,C+O,44.609717,2.034376
 461020500A-2T,2TER,Impasse Champollion,46100,Figeac,C+O,44.609733,2.034321
@@ -18723,8 +18723,8 @@
 462510080W-55,55,Rue du Cherche Midi,46400,Saint-Céré,CAD,44.861400,1.892102
 462510080W-89,89,Rue du Cherche Midi,46400,Saint-Céré,CAD,44.861520,1.891819
 462510080W-99,99,Rue du Cherche Midi,46400,Saint-Céré,CAD,44.861581,1.891675
-462510091H-121,121,Rue Clos Pierre Loti,46400,Saint-Céré,CAD,44.856310,1.894076
-462510091H-48,48,Rue Clos Pierre Loti,46400,Saint-Céré,CAD,44.856849,1.894078
+462510091H-121,121,Rue Clos Pierre Loti,46400,Saint-Céré,C+O,44.856310,1.894076
+462510091H-48,48,Rue Clos Pierre Loti,46400,Saint-Céré,C+O,44.856849,1.894078
 462510092J-129,129,Chemin du Commandant Lavaysse,46400,Saint-Céré,C+O,44.858908,1.900123
 462510092J-210,210,Chemin du Commandant Lavaysse,46400,Saint-Céré,C+O,44.859195,1.901170
 462510092J-244,244,Chemin du Commandant Lavaysse,46400,Saint-Céré,C+O,44.858858,1.901855
@@ -18850,22 +18850,22 @@
 462510130A-50,50,Allée de l'Espérance,46400,Saint-Céré,C+O,44.855722,1.896472
 462510130A-55,55,Allée de l'Espérance,46400,Saint-Céré,C+O,44.855613,1.896546
 462510130A-95,95,Allée de l'Espérance,46400,Saint-Céré,C+O,44.855246,1.896449
-462510131B-112,112,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853193,1.888655
-462510131B-115,115,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853563,1.888823
-462510131B-120,120,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853270,1.888817
-462510131B-127,127,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853678,1.889099
-462510131B-13,13,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853564,1.887622
-462510131B-140,140,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853428,1.888821
-462510131B-22,22,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853432,1.887706
-462510131B-273,273,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853775,1.890810
-462510131B-33,33,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853543,1.887875
-462510131B-40,40,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853414,1.887909
-462510131B-49,49,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853523,1.888126
-462510131B-58,58,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853395,1.888130
-462510131B-6367,6367,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853019,1.889050
-462510131B-77,77,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853519,1.888352
-462510131B-92,92,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853290,1.888512
-462510131B-97,97,Rue du Clos Saint-Cirq,46400,Saint-Céré,CAD,44.853541,1.888600
+462510131B-112,112,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853193,1.888655
+462510131B-115,115,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853563,1.888823
+462510131B-120,120,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853270,1.888817
+462510131B-127,127,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853678,1.889099
+462510131B-13,13,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853564,1.887622
+462510131B-140,140,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853428,1.888821
+462510131B-22,22,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853432,1.887706
+462510131B-273,273,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853775,1.890810
+462510131B-33,33,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853543,1.887875
+462510131B-40,40,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853414,1.887909
+462510131B-49,49,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853523,1.888126
+462510131B-58,58,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853395,1.888130
+462510131B-6367,6367,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853019,1.889050
+462510131B-77,77,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853519,1.888352
+462510131B-92,92,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853290,1.888512
+462510131B-97,97,Rue du Clos Saint-Cirq,46400,Saint-Céré,C+O,44.853541,1.888600
 462510132C-64564,64564,Avenue de l'Europe,46400,Saint-Céré,C+O,44.863883,1.882308
 462510132C-6560,6560,Avenue de l'Europe,46400,Saint-Céré,C+O,44.864052,1.881260
 462510132C-6595,6595,Avenue de l'Europe,46400,Saint-Céré,C+O,44.861438,1.881639
@@ -19451,7 +19451,7 @@
 462510272E-7,7,Rue Mozart,46400,Saint-Céré,C+O,44.857488,1.881558
 462510272E-8,8,Rue Mozart,46400,Saint-Céré,C+O,44.857611,1.881382
 462510272E-9,9,Rue Mozart,46400,Saint-Céré,C+O,44.857737,1.881780
-462510273F-90,90,Rue du Narbonnet,46400,Saint-Céré,CAD,44.857353,1.886357
+462510273F-90,90,Rue du Narbonnet,46400,Saint-Céré,C+O,44.857353,1.886357
 462510274G-11,11,Chemin du Narbonnet,46400,Saint-Céré,CAD,44.856275,1.887333
 462510274G-135,135,Chemin du Narbonnet,46400,Saint-Céré,CAD,44.856737,1.887154
 462510274G-147,147,Chemin du Narbonnet,46400,Saint-Céré,CAD,44.856489,1.887878
@@ -19767,7 +19767,7 @@
 462510375S-7,7,Rue du Sol-de-Trémeille,46400,Saint-Céré,C+O,44.860449,1.887706
 462510375S-8,8,Rue du Sol-de-Trémeille,46400,Saint-Céré,C+O,44.860504,1.887925
 462510380X-5,5,Rue du Square Bourseuil,46400,Saint-Céré,CAD,44.859470,1.888586
-462510385C-17,17,Rue du Stade,46400,Saint-Céré,CAD,44.861264,1.886311
+462510385C-17,17,Rue du Stade,46400,Saint-Céré,C+O,44.861264,1.886311
 462510395N-4,4,Rue Sainte-Spérie,46400,Saint-Céré,C+O,44.859819,1.889750
 462510395N-8,8,Rue Sainte-Spérie,46400,Saint-Céré,C+O,44.859844,1.889595
 462510400U-2,2,Rue des Termes,46400,Saint-Céré,CAD,44.859447,1.895586
@@ -20016,26 +20016,26 @@
 462730001P-954,954,Avenue Charles de Gaulle,46400,Saint-Laurent-les-Tours,CAD,44.867870,1.878900
 462730001P-957,957,Avenue Charles de Gaulle,46400,Saint-Laurent-les-Tours,CAD,44.867782,1.878815
 462730001P-976,976,Avenue Charles de Gaulle,46400,Saint-Laurent-les-Tours,CAD,44.867953,1.878591
-462730003S-105,105,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.868171,1.874217
-462730003S-121,121,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.868028,1.874136
-462730003S-126,126,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.868186,1.874085
-462730003S-135,135,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867920,1.874073
-462730003S-147,147,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867833,1.874024
-462730003S-157,157,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867853,1.874415
-462730003S-176,176,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867602,1.873749
-462730003S-20,20,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.869017,1.874492
-462730003S-208,208,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867436,1.873655
-462730003S-211,211,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867311,1.873723
-462730003S-254,254,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867078,1.873452
-462730003S-273,273,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.866691,1.873370
-462730003S-339,339,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.866905,1.872501
-462730003S-363,363,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.866805,1.872109
-462730003S-429,429,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.867098,1.871657
-462730003S-453,453,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.866888,1.871411
-462730003S-494,494,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.866124,1.871783
-462730003S-517,517,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.866535,1.871472
-462730003S-66,66,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.868450,1.874217
-462730003S-71,71,Rue Actipole Les Tours,46400,Saint-Laurent-les-Tours,CAD,44.868488,1.874381
+462730003S-105,105,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.868171,1.874217
+462730003S-121,121,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.868028,1.874136
+462730003S-126,126,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.868186,1.874085
+462730003S-135,135,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867920,1.874073
+462730003S-147,147,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867833,1.874024
+462730003S-157,157,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867853,1.874415
+462730003S-176,176,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867602,1.873749
+462730003S-20,20,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.869017,1.874492
+462730003S-208,208,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867436,1.873655
+462730003S-211,211,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867311,1.873723
+462730003S-254,254,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867078,1.873452
+462730003S-273,273,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.866691,1.873370
+462730003S-339,339,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.866905,1.872501
+462730003S-363,363,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.866805,1.872109
+462730003S-429,429,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.867098,1.871657
+462730003S-453,453,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.866888,1.871411
+462730003S-494,494,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.866124,1.871783
+462730003S-517,517,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.866535,1.871472
+462730003S-66,66,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.868450,1.874217
+462730003S-71,71,Rue Actipole les Tours,46400,Saint-Laurent-les-Tours,C+O,44.868488,1.874381
 462730004T-101,101,Impasse des Artisans,46400,Saint-Laurent-les-Tours,C+O,44.865329,1.879995
 462730004T-102,102,Impasse des Artisans,46400,Saint-Laurent-les-Tours,C+O,44.865197,1.879544
 462730004T-27,27,Impasse des Artisans,46400,Saint-Laurent-les-Tours,C+O,44.866137,1.880116
@@ -20220,12 +20220,12 @@
 462730029V-707,707,Rue de Lapascalie,46400,Saint-Laurent-les-Tours,C+O,44.873628,1.898729
 462730029V-787,787,Rue de Lapascalie,46400,Saint-Laurent-les-Tours,C+O,44.874250,1.899349
 462730029V-788,788,Rue de Lapascalie,46400,Saint-Laurent-les-Tours,C+O,44.874251,1.899542
-462730030W-109,109,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.873121,1.899806
-462730030W-159,159,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.872926,1.899763
-462730030W-171,171,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.872769,1.899696
-462730030W-243,243,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.871995,1.899338
-462730030W-67,67,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.873638,1.899857
-462730030W-759,759,Rue de Lestrade,46400,Saint-Laurent-les-Tours,CAD,44.867936,1.896902
+462730030W-109,109,Rue de Lestrade,46400,Saint-Laurent-les-Tours,C+O,44.873121,1.899806
+462730030W-159,159,Rue de Lestrade,46400,Saint-Laurent-les-Tours,C+O,44.872926,1.899763
+462730030W-171,171,Rue de Lestrade,46400,Saint-Laurent-les-Tours,C+O,44.872769,1.899696
+462730030W-243,243,Rue de Lestrade,46400,Saint-Laurent-les-Tours,C+O,44.871995,1.899338
+462730030W-67,67,Rue de Lestrade,46400,Saint-Laurent-les-Tours,C+O,44.873638,1.899857
+462730030W-759,759,Rue de Lestrade,46400,Saint-Laurent-les-Tours,C+O,44.867936,1.896902
 462730031X-46,46,Rue des Lilas,46400,Saint-Laurent-les-Tours,C+O,44.873731,1.894295
 462730032Y-1030,1030,Avenue Jean Lurcat,46400,Saint-Laurent-les-Tours,C+O,44.867992,1.893568
 462730032Y-1068,1068,Avenue Jean Lurcat,46400,Saint-Laurent-les-Tours,C+O,44.868203,1.893935

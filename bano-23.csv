@@ -2882,26 +2882,26 @@
 230200015E-8,8,Rue Basse,23190,Bellegarde-en-Marche,C+O,45.982064,2.299135
 230200015E-9,9,Rue Basse,23190,Bellegarde-en-Marche,C+O,45.981869,2.299780
 230200017G-10,10,Rue des Bouquets,23190,Bellegarde-en-Marche,C+O,45.980039,2.298381
-230200017G-12,12,Rue des Bouquets,23190,Bellegarde-en-Marche,C+O,45.979478,2.298666
+230200017G-12,12,Rue des Bouquets,23190,Bellegarde-en-Marche,OSM,45.979419,2.298393
 230200017G-5,5,Rue des Bouquets,23190,Bellegarde-en-Marche,C+O,45.979093,2.298806
 230200017G-6,6,Rue des Bouquets,23190,Bellegarde-en-Marche,C+O,45.980491,2.298055
 230200017G-8,8,Rue des Bouquets,23190,Bellegarde-en-Marche,C+O,45.980383,2.298148
-230200018H-2,2,Route du Breu,23190,Bellegarde-en-Marche,CAD,45.982201,2.293397
-230200018H-4,4,Route du Breu,23190,Bellegarde-en-Marche,CAD,45.982259,2.293346
-230200018H-5,5,Route du Breu,23190,Bellegarde-en-Marche,CAD,45.982860,2.293088
-230200018H-8,8,Route du Breu,23190,Bellegarde-en-Marche,CAD,45.982709,2.293094
-230200019J-10,10,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985768,2.293711
-230200019J-1,1,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985756,2.294270
-230200019J-2,2,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985599,2.294819
-230200019J-3,3,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985835,2.294045
-230200019J-4,4,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985624,2.294654
-230200019J-5,5,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985936,2.293879
-230200019J-6,6,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985690,2.294209
-230200019J-7,7,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985899,2.293766
-230200019J-8,8,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985773,2.293997
-230200019J-9,9,Impasse des Bigaudis,23190,Bellegarde-en-Marche,CAD,45.985830,2.293663
-230200020K-1,1,Rue de la Chapelle,23190,Bellegarde-en-Marche,CAD,45.984067,2.295528
-230200020K-4,4,Rue de la Chapelle,23190,Bellegarde-en-Marche,CAD,45.984248,2.295607
+230200018H-2,2,Route du Breu,23190,Bellegarde-en-Marche,C+O,45.982201,2.293397
+230200018H-4,4,Route du Breu,23190,Bellegarde-en-Marche,C+O,45.982259,2.293346
+230200018H-5,5,Route du Breu,23190,Bellegarde-en-Marche,C+O,45.982860,2.293088
+230200018H-8,8,Route du Breu,23190,Bellegarde-en-Marche,C+O,45.982709,2.293094
+230200019J-10,10,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985768,2.293711
+230200019J-1,1,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985756,2.294270
+230200019J-2,2,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985599,2.294819
+230200019J-3,3,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985835,2.294045
+230200019J-4,4,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985624,2.294654
+230200019J-5,5,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985936,2.293879
+230200019J-6,6,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985690,2.294209
+230200019J-7,7,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985899,2.293766
+230200019J-8,8,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985773,2.293997
+230200019J-9,9,Impasse des Bigaudis,23190,Bellegarde-en-Marche,C+O,45.985830,2.293663
+230200020K-1,1,Rue de la Chapelle,23190,Bellegarde-en-Marche,C+O,45.984067,2.295528
+230200020K-4,4,Rue de la Chapelle,23190,Bellegarde-en-Marche,C+O,45.984248,2.295607
 230200025R-2,2,Chemin Rural de Chante Alouette,23190,Bellegarde-en-Marche,CAD,45.982869,2.302622
 230200030W-10,10,Rue du Château,23190,Bellegarde-en-Marche,C+O,45.983845,2.299506
 230200030W-1,1,Rue du Château,23190,Bellegarde-en-Marche,C+O,45.982838,2.298470
@@ -2914,28 +2914,29 @@
 230200037D-1,1,Allée de la Clé des Champs,23190,Bellegarde-en-Marche,CAD,45.985818,2.294714
 230200037D-3,3,Allée de la Clé des Champs,23190,Bellegarde-en-Marche,CAD,45.985994,2.294479
 230200037D-5,5,Allée de la Clé des Champs,23190,Bellegarde-en-Marche,CAD,45.986152,2.294266
+230200040G-1,1,Chemin de l 'École,23190,Bellegarde-en-Marche,OSM,45.979931,2.298085
 230200040G-5,5,Chemin de l 'École,23190,Bellegarde-en-Marche,C+O,45.980087,2.297097
-230200045M-11,11,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981387,2.292847
-230200045M-1,1,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981425,2.293305
-230200045M-13,13,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981380,2.292784
-230200045M-15,15,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981373,2.292710
-230200045M-15B,15BIS,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981362,2.292599
-230200045M-17,17,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981354,2.292521
-230200045M-19,19,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981343,2.292411
-230200045M-2,2,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981511,2.293132
-230200045M-3,3,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981420,2.293206
-230200045M-4,4,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981482,2.292780
-230200045M-5,5,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981413,2.293124
-230200045M-6,6,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981454,2.292537
-230200045M-7,7,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981406,2.293051
-230200045M-8,8,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981436,2.292398
-230200045M-9,9,Rue de l'Etang,23190,Bellegarde-en-Marche,CAD,45.981392,2.292925
-230200052V-1,1,Rue des Fosses,23190,Bellegarde-en-Marche,C+O,45.980887,2.293734
-230200052V-3,3,Rue des Fosses,23190,Bellegarde-en-Marche,C+O,45.980969,2.293487
-230200055Y-1,1,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,CAD,45.982635,2.299253
-230200055Y-2,2,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,CAD,45.982513,2.298391
-230200055Y-3,3,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,CAD,45.982643,2.299438
-230200055Y-8,8,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,CAD,45.982754,2.299277
+230200045M-11,11,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981387,2.292847
+230200045M-1,1,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981425,2.293305
+230200045M-13,13,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981380,2.292784
+230200045M-15,15,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981373,2.292710
+230200045M-15B,15BIS,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981362,2.292599
+230200045M-17,17,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981354,2.292521
+230200045M-19,19,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981343,2.292411
+230200045M-2,2,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981511,2.293132
+230200045M-3,3,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981420,2.293206
+230200045M-4,4,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981482,2.292780
+230200045M-5,5,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981413,2.293124
+230200045M-6,6,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981454,2.292537
+230200045M-7,7,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981406,2.293051
+230200045M-8,8,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981436,2.292398
+230200045M-9,9,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981392,2.292925
+230200052V-1,1,Rue des Fossés,23190,Bellegarde-en-Marche,C+O,45.980887,2.293734
+230200052V-3,3,Rue des Fossés,23190,Bellegarde-en-Marche,C+O,45.980969,2.293487
+230200055Y-1,1,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,C+O,45.982635,2.299253
+230200055Y-2,2,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,C+O,45.982513,2.298391
+230200055Y-3,3,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,C+O,45.982643,2.299438
+230200055Y-8,8,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,C+O,45.982754,2.299277
 230200065J-11,11,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981585,2.294298
 230200065J-11B,11BIS,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981595,2.294471
 230200065J-12,12,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981638,2.294085
@@ -2948,7 +2949,7 @@
 230200065J-22,22,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981730,2.294743
 230200065J-2,2,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981559,2.293545
 230200065J-23,23,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981762,2.295443
-230200065J-24,24,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981738,2.294843
+230200065J-24,24,Rue Grande,23190,Bellegarde-en-Marche,OSM,45.981914,2.295422
 230200065J-25,25,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981770,2.295515
 230200065J-26,26,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981762,2.294956
 230200065J-27,27,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981774,2.295570
@@ -2958,11 +2959,11 @@
 230200065J-31,31,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981775,2.295697
 230200065J-32,32,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981840,2.295246
 230200065J-33,33,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981776,2.295784
-230200065J-3,3,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981527,2.293851
+230200065J-3,3,Rue Grande,23190,Bellegarde-en-Marche,OSM,45.981481,2.293940
 230200065J-34,34,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981859,2.295311
 230200065J-35,35,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981788,2.295940
 230200065J-36,36,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981878,2.295400
-230200065J-37,37,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981795,2.296029
+230200065J-37,37,Rue Grande,23190,Bellegarde-en-Marche,OSM,45.981745,2.296069
 230200065J-38,38,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981902,2.295565
 230200065J-39,39,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981802,2.296123
 230200065J-40,40,Rue Grande,23190,Bellegarde-en-Marche,C+O,45.981910,2.295706
@@ -3008,12 +3009,12 @@
 230200070P-4,4,Rue Jacqueron,23190,Bellegarde-en-Marche,C+O,45.982495,2.295561
 230200070P-6,6,Rue Jacqueron,23190,Bellegarde-en-Marche,C+O,45.982583,2.295612
 230200070P-8,8,Rue Jacqueron,23190,Bellegarde-en-Marche,C+O,45.982645,2.295659
-230200073T-1,1,Impasse Lionel Marmier,23190,Bellegarde-en-Marche,CAD,45.986231,2.295074
-230200073T-2,2,Impasse Lionel Marmier,23190,Bellegarde-en-Marche,CAD,45.986308,2.295311
-230200073T-3,3,Impasse Lionel Marmier,23190,Bellegarde-en-Marche,CAD,45.986681,2.296343
-230200073T-4,4,Impasse Lionel Marmier,23190,Bellegarde-en-Marche,CAD,45.986460,2.295718
-230200073T-5,5,Impasse Lionel Marmier,23190,Bellegarde-en-Marche,CAD,45.986584,2.296476
-230200073T-7,7,Impasse Lionel Marmier,23190,Bellegarde-en-Marche,CAD,45.986465,2.296455
+230200073T-1,1,Impasse Lionel de Marmier,23190,Bellegarde-en-Marche,C+O,45.986231,2.295074
+230200073T-2,2,Impasse Lionel de Marmier,23190,Bellegarde-en-Marche,C+O,45.986308,2.295311
+230200073T-3,3,Impasse Lionel de Marmier,23190,Bellegarde-en-Marche,C+O,45.986681,2.296343
+230200073T-4,4,Impasse Lionel de Marmier,23190,Bellegarde-en-Marche,C+O,45.986460,2.295718
+230200073T-5,5,Impasse Lionel de Marmier,23190,Bellegarde-en-Marche,C+O,45.986584,2.296476
+230200073T-7,7,Impasse Lionel de Marmier,23190,Bellegarde-en-Marche,C+O,45.986465,2.296455
 230200075V-11,11,Rue de la Magdelaine,23190,Bellegarde-en-Marche,C+O,45.983433,2.294879
 230200075V-12,12,Rue de la Magdelaine,23190,Bellegarde-en-Marche,C+O,45.982416,2.293973
 230200075V-14,14,Rue de la Magdelaine,23190,Bellegarde-en-Marche,C+O,45.982462,2.294023
@@ -3055,32 +3056,32 @@
 230200082C-1,1,Chemin de Mandonneix,23190,Bellegarde-en-Marche,CAD,45.980876,2.293425
 230200082C-2,2,Chemin de Mandonneix,23190,Bellegarde-en-Marche,CAD,45.980506,2.293198
 230200082C-3,3,Chemin de Mandonneix,23190,Bellegarde-en-Marche,CAD,45.980488,2.293265
-230200085F-1,1,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.981102,2.294654
-230200085F-12,12,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.981486,2.296232
-230200085F-14,14,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.981574,2.296601
-230200085F-2,2,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.980926,2.294395
-230200085F-3,3,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.981134,2.294746
-230200085F-4,4,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.980985,2.294543
-230200085F-5,5,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.981166,2.294844
-230200085F-6,6,Boulevard Meridional,23190,Bellegarde-en-Marche,C+O,45.981148,2.295069
-230200090L-11,11,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.979666,2.295631
-230200090L-1,1,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.981338,2.293800
-230200090L-12,12,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.981057,2.293858
-230200090L-14,14,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.981004,2.293905
-230200090L-15,15,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.979305,2.295967
-230200090L-16,16,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.980941,2.293959
-230200090L-17,17,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.979034,2.296203
-230200090L-18,18,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.980765,2.294101
-230200090L-22,22,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.980027,2.295026
-230200090L-28,28,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.979359,2.295781
-230200090L-3,3,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.981136,2.293899
-230200090L-4,4,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.981288,2.293600
-230200090L-5,5,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.980187,2.294936
-230200090L-6,6,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.981258,2.293611
-230200090L-7,7,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.980018,2.295189
-230200090L-8,8,Rue Notre Dame,23190,Bellegarde-en-Marche,CAD,45.981213,2.293687
-230200095S-2,2,Place de la Poste,23190,Bellegarde-en-Marche,CAD,45.981378,2.294734
-230200095S-3,3,Place de la Poste,23190,Bellegarde-en-Marche,CAD,45.981400,2.294825
+230200085F-1,1,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.981102,2.294654
+230200085F-12,12,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.981486,2.296232
+230200085F-14,14,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.981574,2.296601
+230200085F-2,2,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.980926,2.294395
+230200085F-3,3,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.981134,2.294746
+230200085F-4,4,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.980985,2.294543
+230200085F-5,5,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.981166,2.294844
+230200085F-6,6,Boulevard Méridional,23190,Bellegarde-en-Marche,C+O,45.981148,2.295069
+230200090L-11,11,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.979666,2.295631
+230200090L-1,1,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.981338,2.293800
+230200090L-12,12,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.981057,2.293858
+230200090L-14,14,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.981004,2.293905
+230200090L-15,15,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.979305,2.295967
+230200090L-16,16,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.980941,2.293959
+230200090L-17,17,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.979034,2.296203
+230200090L-18,18,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.980765,2.294101
+230200090L-22,22,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.980027,2.295026
+230200090L-28,28,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.979359,2.295781
+230200090L-3,3,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.981136,2.293899
+230200090L-4,4,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.981288,2.293600
+230200090L-5,5,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.980187,2.294936
+230200090L-6,6,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.981258,2.293611
+230200090L-7,7,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.980018,2.295189
+230200090L-8,8,Rue Notre-Dame,23190,Bellegarde-en-Marche,C+O,45.981213,2.293687
+230200095S-2,2,Place de la Poste,23190,Bellegarde-en-Marche,C+O,45.981378,2.294734
+230200095S-3,3,Place de la Poste,23190,Bellegarde-en-Marche,C+O,45.981400,2.294825
 230200097U-10,10,Route de Puy Roche,23190,Bellegarde-en-Marche,C+O,45.983768,2.301560
 230200097U-1,1,Route de Puy Roche,23190,Bellegarde-en-Marche,C+O,45.982243,2.300733
 230200097U-3,3,Route de Puy Roche,23190,Bellegarde-en-Marche,C+O,45.982321,2.301398
@@ -3094,21 +3095,21 @@
 230200105C-1,1,Boulevard Septentrional,23190,Bellegarde-en-Marche,CAD,45.982117,2.293795
 230200105C-12,12,Boulevard Septentrional,23190,Bellegarde-en-Marche,CAD,45.982230,2.295424
 230200105C-14,14,Boulevard Septentrional,23190,Bellegarde-en-Marche,CAD,45.982244,2.295619
-230200110H-2,2,Chemin de la Tapisserie,23190,Bellegarde-en-Marche,CAD,45.983170,2.294986
-230200110H-5,5,Chemin de la Tapisserie,23190,Bellegarde-en-Marche,CAD,45.983120,2.295114
-230200115N-10,10,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982348,2.297720
-230200115N-12,12,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982330,2.297644
-230200115N-14,14,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982307,2.297562
-230200115N-16,16,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982248,2.297393
-230200115N-18,18,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982187,2.297220
-230200115N-2,2,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982419,2.298117
-230200115N-4,4,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982400,2.298011
-230200115N-6,6,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982382,2.297902
-230200115N-8,8,Place du Treix,23190,Bellegarde-en-Marche,CAD,45.982367,2.297813
-23020A002K-1,1,Lotissement Francois Denhaut,23190,Bellegarde-en-Marche,CAD,45.976866,2.297809
-23020A002K-2,2,Lotissement Francois Denhaut,23190,Bellegarde-en-Marche,CAD,45.976711,2.297450
-23020A002K-3,3,Lotissement Francois Denhaut,23190,Bellegarde-en-Marche,CAD,45.977001,2.297153
-23020A002K-4,4,Lotissement Francois Denhaut,23190,Bellegarde-en-Marche,CAD,45.977168,2.297534
+230200110H-2,2,Chemin de la Tapisserie,23190,Bellegarde-en-Marche,C+O,45.983170,2.294986
+230200110H-5,5,Chemin de la Tapisserie,23190,Bellegarde-en-Marche,C+O,45.983120,2.295114
+230200115N-10,10,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982348,2.297720
+230200115N-12,12,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982330,2.297644
+230200115N-14,14,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982307,2.297562
+230200115N-16,16,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982248,2.297393
+230200115N-18,18,Place du Treix,23190,Bellegarde-en-Marche,OSM,45.982117,2.297182
+230200115N-2,2,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982419,2.298117
+230200115N-4,4,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982400,2.298011
+230200115N-6,6,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982382,2.297902
+230200115N-8,8,Place du Treix,23190,Bellegarde-en-Marche,C+O,45.982367,2.297813
+23020A002K-1,1,Lotissement François Denhaut,23190,Bellegarde-en-Marche,C+O,45.976866,2.297809
+23020A002K-2,2,Lotissement François Denhaut,23190,Bellegarde-en-Marche,C+O,45.976711,2.297450
+23020A002K-3,3,Lotissement François Denhaut,23190,Bellegarde-en-Marche,C+O,45.977001,2.297153
+23020A002K-4,4,Lotissement François Denhaut,23190,Bellegarde-en-Marche,C+O,45.977168,2.297534
 230210020F-10,10,Rue Auguste Fauré,23210,Bénévent-l'Abbaye,C+O,46.117214,1.629915
 230210020F-12,12,Rue Auguste Fauré,23210,Bénévent-l'Abbaye,C+O,46.117202,1.630033
 230210020F-14,14,Rue Auguste Fauré,23210,Bénévent-l'Abbaye,C+O,46.117192,1.630122
@@ -6718,8 +6719,8 @@
 230470400F-7,7,Rue de la Tour,23240,Chamborand,C+O,46.156042,1.572385
 230470400F-8,8,Rue de la Tour,23240,Chamborand,C+O,46.156162,1.572322
 230470400F-9,9,Rue de la Tour,23240,Chamborand,C+O,46.155986,1.572366
-230480003V-2,2,Route d'Auvergne,23190,Champagnat,CAD,46.017047,2.283367
-230480003V-8,8,Route d'Auvergne,23190,Champagnat,CAD,46.017098,2.284766
+230480003V-2,2,Route d'Auvergne,23190,Champagnat,C+O,46.017047,2.283367
+230480003V-8,8,Route d'Auvergne,23190,Champagnat,C+O,46.017098,2.284766
 230480005X-10,10,Rue Basse,23190,Champagnat,C+O,46.016927,2.283291
 230480005X-12,12,Rue Basse,23190,Champagnat,C+O,46.016799,2.283339
 230480005X-2,2,Rue Basse,23190,Champagnat,C+O,46.017484,2.282763
@@ -6733,40 +6734,40 @@
 230480007Z-6,6,Rue des Combrailles,23190,Champagnat,C+O,46.018797,2.285101
 230480007Z-7,7,Rue des Combrailles,23190,Champagnat,C+O,46.018380,2.283733
 230480007Z-8,8,Rue des Combrailles,23190,Champagnat,C+O,46.018763,2.285324
-230480009B-4,4,Chemin des Ecoliers,23190,Champagnat,CAD,46.018955,2.282726
+230480009B-4,4,Chemin des Ecoliers,23190,Champagnat,C+O,46.018955,2.282726
 230480013F-14,14,Route des Etangs,23190,Champagnat,C+O,46.020437,2.283905
-230480015H-10,10,Rue de la Forge,23190,Champagnat,CAD,46.016381,2.284661
-230480015H-2,2,Rue de la Forge,23190,Champagnat,CAD,46.016642,2.284811
-230480015H-4,4,Rue de la Forge,23190,Champagnat,CAD,46.016565,2.284767
-230480015H-6,6,Rue de la Forge,23190,Champagnat,CAD,46.016513,2.284737
-230480015H-8,8,Rue de la Forge,23190,Champagnat,CAD,46.016447,2.284700
+230480015H-10,10,Rue de la Forge,23190,Champagnat,C+O,46.016381,2.284661
+230480015H-2,2,Rue de la Forge,23190,Champagnat,C+O,46.016642,2.284811
+230480015H-4,4,Rue de la Forge,23190,Champagnat,C+O,46.016565,2.284767
+230480015H-6,6,Rue de la Forge,23190,Champagnat,C+O,46.016513,2.284737
+230480015H-8,8,Rue de la Forge,23190,Champagnat,C+O,46.016447,2.284700
 230480016J-1,1,Place Jean Guitton,23190,Champagnat,C+O,46.017670,2.282810
 230480016J-2,2,Place Jean Guitton,23190,Champagnat,C+O,46.017904,2.283299
 230480016J-4,4,Place Jean Guitton,23190,Champagnat,C+O,46.018099,2.283149
 230480016J-5,5,Place Jean Guitton,23190,Champagnat,C+O,46.017871,2.282909
 230480016J-8,8,Place Jean Guitton,23190,Champagnat,C+O,46.018226,2.282968
-230480017K-11,11,Rue de la Marche,23190,Champagnat,CAD,46.019265,2.281262
-230480017K-1,1,Rue de la Marche,23190,Champagnat,CAD,46.018481,2.282448
-230480017K-14,14,Rue de la Marche,23190,Champagnat,CAD,46.018932,2.281959
-230480017K-15,15,Rue de la Marche,23190,Champagnat,CAD,46.019308,2.281156
-230480017K-21,21,Rue de la Marche,23190,Champagnat,CAD,46.019537,2.280165
-230480017K-22,22,Rue de la Marche,23190,Champagnat,CAD,46.019521,2.280663
-230480017K-4,4,Rue de la Marche,23190,Champagnat,CAD,46.018442,2.282676
-230480017K-5,5,Rue de la Marche,23190,Champagnat,CAD,46.019027,2.281647
-230480017K-7,7,Rue de la Marche,23190,Champagnat,CAD,46.019148,2.281452
-230480017K-8,8,Rue de la Marche,23190,Champagnat,CAD,46.018539,2.282535
-230480017K-9,9,Rue de la Marche,23190,Champagnat,CAD,46.019239,2.281312
-230480019M-10,10,Rue des Prades,23190,Champagnat,CAD,46.017552,2.282380
-230480019M-12,12,Rue des Prades,23190,Champagnat,CAD,46.017497,2.282327
-230480019M-14,14,Rue des Prades,23190,Champagnat,CAD,46.017461,2.282291
-230480019M-16,16,Rue des Prades,23190,Champagnat,CAD,46.017420,2.282250
-230480019M-8,8,Rue des Prades,23190,Champagnat,CAD,46.017615,2.282437
-230480023S-1,1,Route des Quais,23190,Champagnat,CAD,46.016735,2.285023
-230480025U-14,14,Allée du Redouillat,23190,Champagnat,CAD,46.019285,2.284302
-230480025U-18,18,Allée du Redouillat,23190,Champagnat,CAD,46.019256,2.284128
-230480025U-2,2,Allée du Redouillat,23190,Champagnat,CAD,46.018945,2.284901
-230480025U-4,4,Allée du Redouillat,23190,Champagnat,CAD,46.019046,2.284815
-230480027W-1,1,Allée du Stade,23190,Champagnat,CAD,46.017386,2.282364
+230480017K-11,11,Rue de la Marche,23190,Champagnat,C+O,46.019265,2.281262
+230480017K-1,1,Rue de la Marche,23190,Champagnat,C+O,46.018481,2.282448
+230480017K-14,14,Rue de la Marche,23190,Champagnat,C+O,46.018932,2.281959
+230480017K-15,15,Rue de la Marche,23190,Champagnat,C+O,46.019308,2.281156
+230480017K-21,21,Rue de la Marche,23190,Champagnat,C+O,46.019537,2.280165
+230480017K-22,22,Rue de la Marche,23190,Champagnat,C+O,46.019521,2.280663
+230480017K-4,4,Rue de la Marche,23190,Champagnat,C+O,46.018442,2.282676
+230480017K-5,5,Rue de la Marche,23190,Champagnat,C+O,46.019027,2.281647
+230480017K-7,7,Rue de la Marche,23190,Champagnat,C+O,46.019148,2.281452
+230480017K-8,8,Rue de la Marche,23190,Champagnat,C+O,46.018539,2.282535
+230480017K-9,9,Rue de la Marche,23190,Champagnat,C+O,46.019239,2.281312
+230480019M-10,10,Rue des Prades,23190,Champagnat,C+O,46.017552,2.282380
+230480019M-12,12,Rue des Prades,23190,Champagnat,C+O,46.017497,2.282327
+230480019M-14,14,Rue des Prades,23190,Champagnat,C+O,46.017461,2.282291
+230480019M-16,16,Rue des Prades,23190,Champagnat,C+O,46.017420,2.282250
+230480019M-8,8,Rue des Prades,23190,Champagnat,C+O,46.017615,2.282437
+230480023S-1,1,Route des Quais,23190,Champagnat,C+O,46.016735,2.285023
+230480025U-14,14,Allée Redouillat,23190,Champagnat,C+O,46.019285,2.284302
+230480025U-18,18,Allée Redouillat,23190,Champagnat,C+O,46.019256,2.284128
+230480025U-2,2,Allée Redouillat,23190,Champagnat,C+O,46.018945,2.284901
+230480025U-4,4,Allée Redouillat,23190,Champagnat,C+O,46.019046,2.284815
+230480027W-1,1,Allée du Stade,23190,Champagnat,C+O,46.017386,2.282364
 23048B270S-11,11,Gouzat,23190,Champagnat,CAD,46.028857,2.286018
 23048B369Z-16,16,Pont de Haut,23190,Champagnat,CAD,46.033832,2.317987
 230490015D-1,1,Rue du 19 Mars 1962,23220,Champsanglard,CAD,46.273903,1.882255
@@ -23178,31 +23179,31 @@
 231890035S-9,9,Rue Vieille,23400,Saint-Dizier-Leyrenne,CAD,46.029403,1.713065
 23189B165P-1,1,Mameix,23400,Saint-Dizier-Leyrenne,CAD,46.061721,1.707465
 23189B176B-24,24,Montarichard,23400,Saint-Dizier-Leyrenne,CAD,46.007688,1.721144
-231900001A-2,2,Rue de la Bascule,23190,Saint-Domet,CAD,46.043360,2.299951
-231900001A-4,4,Rue de la Bascule,23190,Saint-Domet,CAD,46.043799,2.300367
-231900001A-5,5,Rue de la Bascule,23190,Saint-Domet,CAD,46.042679,2.299959
-231900002B-1,1,Rue du Château,23190,Saint-Domet,CAD,46.042983,2.300537
-231900002B-2,2,Rue du Château,23190,Saint-Domet,CAD,46.043000,2.300342
-231900002B-3,3,Rue du Château,23190,Saint-Domet,CAD,46.042893,2.300389
-231900003C-1,1,Place de l'Eglise,23190,Saint-Domet,CAD,46.043679,2.300824
-231900003C-2,2,Place de l'Eglise,23190,Saint-Domet,CAD,46.043651,2.300527
-231900003C-3,3,Place de l'Eglise,23190,Saint-Domet,CAD,46.043305,2.300732
-231900003C-4,4,Place de l'Eglise,23190,Saint-Domet,CAD,46.043495,2.300569
-231900003C-6,6,Place de l'Eglise,23190,Saint-Domet,CAD,46.043330,2.300613
-231900004D-10,10,Rue de l'Etang,23190,Saint-Domet,CAD,46.042003,2.298734
-231900004D-1,1,Rue de l'Etang,23190,Saint-Domet,CAD,46.042363,2.299428
-231900004D-12,12,Rue de l'Etang,23190,Saint-Domet,CAD,46.041747,2.298409
-231900004D-14,14,Rue de l'Etang,23190,Saint-Domet,CAD,46.041482,2.297993
-231900004D-16,16,Rue de l'Etang,23190,Saint-Domet,CAD,46.041372,2.297300
-231900004D-2,2,Rue de l'Etang,23190,Saint-Domet,CAD,46.042553,2.299593
-231900004D-3,3,Rue de l'Etang,23190,Saint-Domet,CAD,46.042290,2.299367
-231900004D-4,4,Rue de l'Etang,23190,Saint-Domet,CAD,46.042329,2.299229
-231900004D-5,5,Rue de l'Etang,23190,Saint-Domet,CAD,46.042186,2.299136
-231900004D-6,6,Rue de l'Etang,23190,Saint-Domet,CAD,46.042194,2.299022
-231900004D-7,7,Rue de l'Etang,23190,Saint-Domet,CAD,46.042073,2.298997
-231900004D-8,8,Rue de l'Etang,23190,Saint-Domet,CAD,46.042099,2.298879
-231900004D-9,9,Rue de l'Etang,23190,Saint-Domet,CAD,46.041804,2.298714
-231900005E-2,2,Rue de la Fontaine,23190,Saint-Domet,CAD,46.042040,2.300304
+231900001A-2,2,Rue de la Bascule,23190,Saint-Domet,C+O,46.043360,2.299951
+231900001A-4,4,Rue de la Bascule,23190,Saint-Domet,C+O,46.043799,2.300367
+231900001A-5,5,Rue de la Bascule,23190,Saint-Domet,C+O,46.042679,2.299959
+231900002B-1,1,Rue du Château,23190,Saint-Domet,C+O,46.042983,2.300537
+231900002B-2,2,Rue du Château,23190,Saint-Domet,C+O,46.043000,2.300342
+231900002B-3,3,Rue du Château,23190,Saint-Domet,C+O,46.042893,2.300389
+231900003C-1,1,Place de l'Église,23190,Saint-Domet,C+O,46.043679,2.300824
+231900003C-2,2,Place de l'Église,23190,Saint-Domet,C+O,46.043651,2.300527
+231900003C-3,3,Place de l'Église,23190,Saint-Domet,C+O,46.043305,2.300732
+231900003C-4,4,Place de l'Église,23190,Saint-Domet,C+O,46.043495,2.300569
+231900003C-6,6,Place de l'Église,23190,Saint-Domet,C+O,46.043330,2.300613
+231900004D-10,10,Rue de l'Etang,23190,Saint-Domet,C+O,46.042003,2.298734
+231900004D-1,1,Rue de l'Etang,23190,Saint-Domet,C+O,46.042363,2.299428
+231900004D-12,12,Rue de l'Etang,23190,Saint-Domet,C+O,46.041747,2.298409
+231900004D-14,14,Rue de l'Etang,23190,Saint-Domet,C+O,46.041482,2.297993
+231900004D-16,16,Rue de l'Etang,23190,Saint-Domet,C+O,46.041372,2.297300
+231900004D-2,2,Rue de l'Etang,23190,Saint-Domet,C+O,46.042553,2.299593
+231900004D-3,3,Rue de l'Etang,23190,Saint-Domet,C+O,46.042290,2.299367
+231900004D-4,4,Rue de l'Etang,23190,Saint-Domet,C+O,46.042329,2.299229
+231900004D-5,5,Rue de l'Etang,23190,Saint-Domet,C+O,46.042186,2.299136
+231900004D-6,6,Rue de l'Etang,23190,Saint-Domet,C+O,46.042194,2.299022
+231900004D-7,7,Rue de l'Etang,23190,Saint-Domet,C+O,46.042073,2.298997
+231900004D-8,8,Rue de l'Etang,23190,Saint-Domet,C+O,46.042099,2.298879
+231900004D-9,9,Rue de l'Etang,23190,Saint-Domet,C+O,46.041804,2.298714
+231900005E-2,2,Rue de la Fontaine,23190,Saint-Domet,C+O,46.042040,2.300304
 231900006F-11,11,Rue de la Gravelle,23190,Saint-Domet,CAD,46.045245,2.301846
 231900006F-1,1,Rue de la Gravelle,23190,Saint-Domet,CAD,46.044165,2.300738
 231900006F-2,2,Rue de la Gravelle,23190,Saint-Domet,CAD,46.043901,2.300703
@@ -23211,8 +23212,8 @@
 231900006F-5,5,Rue de la Gravelle,23190,Saint-Domet,CAD,46.044606,2.301137
 231900006F-7,7,Rue de la Gravelle,23190,Saint-Domet,CAD,46.045067,2.301589
 231900006F-9,9,Rue de la Gravelle,23190,Saint-Domet,CAD,46.045130,2.301651
-231900007G-1,1,Place de la Mairie,23190,Saint-Domet,CAD,46.042545,2.299871
-231900007G-2,2,Place de la Mairie,23190,Saint-Domet,CAD,46.042367,2.299799
+231900007G-1,1,Place de la Mairie,23190,Saint-Domet,C+O,46.042545,2.299871
+231900007G-2,2,Place de la Mairie,23190,Saint-Domet,C+O,46.042367,2.299799
 231900008H-2,2,Route du Prieuré,23190,Saint-Domet,CAD,46.043892,2.299637
 231900008H-8,8,Route du Prieuré,23190,Saint-Domet,CAD,46.045450,2.299086
 231900009J-3,3,Rue du Stade,23190,Saint-Domet,CAD,46.041768,2.299968
@@ -24028,40 +24029,40 @@
 232040002R-7,7,Place des Anciennes Douves,23130,Saint-Julien-le-Châtel,CAD,46.117219,2.268941
 232040002R-8,8,Place des Anciennes Douves,23130,Saint-Julien-le-Châtel,CAD,46.117405,2.268983
 232040002R-9,9,Place des Anciennes Douves,23130,Saint-Julien-le-Châtel,CAD,46.117480,2.269398
-232040004T-10,10,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.118156,2.271622
-232040004T-11,11,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117989,2.270625
-232040004T-1,1,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117770,2.269583
-232040004T-12,12,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.118188,2.271711
-232040004T-15,15,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.118029,2.270785
-232040004T-17,17,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.118061,2.270913
-232040004T-19,19,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.118083,2.271003
-232040004T-21,21,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.118161,2.271335
-232040004T-2,2,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117676,2.269498
-232040004T-23,23,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117908,2.273184
-232040004T-3,3,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117851,2.269639
-232040004T-5,5,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117821,2.269925
-232040004T-6,6,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117947,2.270746
-232040004T-7,7,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117915,2.270319
-232040004T-8,8,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.118124,2.271484
-232040004T-9,9,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,CAD,46.117948,2.270455
-232040007W-10,10,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.118478,2.270064
-232040007W-1,1,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.117659,2.268998
-232040007W-12,12,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.118477,2.269269
-232040007W-14,14,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.118967,2.269443
-232040007W-16,16,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.119281,2.269454
-232040007W-18,18,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.119449,2.269460
-232040007W-20,20,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.119904,2.269429
-232040007W-2,2,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.117804,2.269419
-232040007W-3,3,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.118660,2.269207
-232040007W-4,4,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.117883,2.269396
-232040007W-5,5,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.120054,2.269281
-232040007W-6,6,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.118120,2.269331
-232040007W-7,7,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.121229,2.269194
-232040007W-8,8,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.118275,2.269297
-232040007W-9,9,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,CAD,46.121998,2.269427
-232040013C-1,1,Rue du Lavoir,23130,Saint-Julien-le-Châtel,CAD,46.115901,2.269326
-232040013C-3,3,Rue du Lavoir,23130,Saint-Julien-le-Châtel,CAD,46.115803,2.269333
-232040016F-1,1,Rue des Prairies,23130,Saint-Julien-le-Châtel,CAD,46.117433,2.267279
+232040004T-10,10,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.118156,2.271622
+232040004T-11,11,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117989,2.270625
+232040004T-1,1,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117770,2.269583
+232040004T-12,12,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.118188,2.271711
+232040004T-15,15,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.118029,2.270785
+232040004T-17,17,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.118061,2.270913
+232040004T-19,19,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.118083,2.271003
+232040004T-21,21,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.118161,2.271335
+232040004T-2,2,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117676,2.269498
+232040004T-23,23,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117908,2.273184
+232040004T-3,3,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117851,2.269639
+232040004T-5,5,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117821,2.269925
+232040004T-6,6,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117947,2.270746
+232040004T-7,7,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117915,2.270319
+232040004T-8,8,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.118124,2.271484
+232040004T-9,9,Rue du Champ du Clocher,23130,Saint-Julien-le-Châtel,C+O,46.117948,2.270455
+232040007W-10,10,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.118478,2.270064
+232040007W-1,1,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.117659,2.268998
+232040007W-12,12,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.118477,2.269269
+232040007W-14,14,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.118967,2.269443
+232040007W-16,16,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.119281,2.269454
+232040007W-18,18,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.119449,2.269460
+232040007W-20,20,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.119904,2.269429
+232040007W-2,2,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.117804,2.269419
+232040007W-3,3,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.118660,2.269207
+232040007W-4,4,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.117883,2.269396
+232040007W-5,5,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.120054,2.269281
+232040007W-6,6,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.118120,2.269331
+232040007W-7,7,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.121229,2.269194
+232040007W-8,8,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.118275,2.269297
+232040007W-9,9,Rue des Choucas des Tours,23130,Saint-Julien-le-Châtel,C+O,46.121998,2.269427
+232040013C-1,1,Rue du Lavoir,23130,Saint-Julien-le-Châtel,C+O,46.115901,2.269326
+232040013C-3,3,Rue du Lavoir,23130,Saint-Julien-le-Châtel,C+O,46.115803,2.269333
+232040016F-1,1,Rue des Prairies,23130,Saint-Julien-le-Châtel,C+O,46.117433,2.267279
 232050001K-1,1,Route de Peyrat Le Château,23400,Saint-Junien-la-Bregère,CAD,45.886552,1.756546
 232050001K-2,2,Route de Peyrat Le Château,23400,Saint-Junien-la-Bregère,CAD,45.886335,1.756077
 232050001K-3,3,Route de Peyrat Le Château,23400,Saint-Junien-la-Bregère,CAD,45.882511,1.752144

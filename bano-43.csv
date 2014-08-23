@@ -19253,7 +19253,7 @@
 431770087K-10,10,Boulevard des Jardins,43140,Saint-Didier-en-Velay,CAD,45.301781,4.277692
 431770087K-1,1,Boulevard des Jardins,43140,Saint-Didier-en-Velay,CAD,45.302292,4.277677
 431770087K-4,4,Boulevard des Jardins,43140,Saint-Didier-en-Velay,CAD,45.302468,4.277794
-431770087K-5,5,Boulevard des Jardins,43140,Saint-Didier-en-Velay,CAD,45.301961,4.277620
+431770087K-5,5,Boulevard des Jardins,43140,Saint-Didier-en-Velay,OSM,45.301883,4.277389
 431770087K-6,6,Boulevard des Jardins,43140,Saint-Didier-en-Velay,CAD,45.302397,4.277785
 431770087K-8,8,Boulevard des Jardins,43140,Saint-Didier-en-Velay,CAD,45.301942,4.277717
 431770090N-1,1,Place Jeanne d'Arc,43140,Saint-Didier-en-Velay,CAD,45.303113,4.277494
@@ -19331,7 +19331,7 @@
 431770125B-33A,33A,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,CAD,45.299921,4.276482
 431770125B-33B,33B,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,CAD,45.300052,4.276462
 431770125B-3,3,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,CAD,45.301407,4.276853
-431770125B-35,35,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,CAD,45.299151,4.276263
+431770125B-35,35,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,OSM,45.299590,4.276516
 431770125B-4,4,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,CAD,45.301490,4.276826
 431770125B-5,5,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,CAD,45.301299,4.276807
 431770125B-6,6,Faubourg de Montfaucon,43140,Saint-Didier-en-Velay,CAD,45.301426,4.276799
@@ -19592,6 +19592,7 @@
 43177B024Y-2,2,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,CAD,45.302171,4.273950
 43177B024Y-6,6,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,CAD,45.301950,4.274594
 43177B024Y-8,8,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,CAD,45.301881,4.274796
+43177B024Y-9,9,Boulevard Pelissac,43140,Saint-Didier-en-Velay,OSM,45.301836,4.274741
 43177B059L-10,10,Faubourg de la Font,43140,Saint-Didier-en-Velay,CAD,45.303689,4.277203
 43177B059L-1,1,Faubourg de la Font,43140,Saint-Didier-en-Velay,CAD,45.303380,4.277035
 43177B059L-12,12,Faubourg de la Font,43140,Saint-Didier-en-Velay,CAD,45.303756,4.277207
