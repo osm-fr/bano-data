@@ -11133,16 +11133,16 @@
 150900004P-7,7,Rue Albos,15130,Lafeuillade-en-Vézie,C+O,44.791512,2.458027
 150900004P-8,8,Rue Albos,15130,Lafeuillade-en-Vézie,C+O,44.791517,2.458167
 150900004P-9,9,Rue Albos,15130,Lafeuillade-en-Vézie,C+O,44.791635,2.458260
-150900005R-1,1,Rue du Bois,15130,Lafeuillade-en-Vézie,CAD,44.790524,2.460071
-150900005R-2,2,Rue du Bois,15130,Lafeuillade-en-Vézie,CAD,44.790632,2.460274
-150900005R-3,3,Rue du Bois,15130,Lafeuillade-en-Vézie,CAD,44.790722,2.460282
-150900005R-4,4,Rue du Bois,15130,Lafeuillade-en-Vézie,CAD,44.790798,2.460447
-150900005R-5,5,Rue du Bois,15130,Lafeuillade-en-Vézie,CAD,44.790894,2.460462
-150900007T-1,1,Route de Cances,15130,Lafeuillade-en-Vézie,CAD,44.791029,2.464524
-150900007T-2,2,Route de Cances,15130,Lafeuillade-en-Vézie,CAD,44.789869,2.464835
-150900007T-3,3,Route de Cances,15130,Lafeuillade-en-Vézie,CAD,44.791029,2.464536
-150900007T-5,5,Route de Cances,15130,Lafeuillade-en-Vézie,CAD,44.790826,2.465290
-150900007T-6,6,Route de Cances,15130,Lafeuillade-en-Vézie,CAD,44.790733,2.465974
+150900005R-1,1,Rue du Bois,15130,Lafeuillade-en-Vézie,C+O,44.790524,2.460071
+150900005R-2,2,Rue du Bois,15130,Lafeuillade-en-Vézie,C+O,44.790632,2.460274
+150900005R-3,3,Rue du Bois,15130,Lafeuillade-en-Vézie,C+O,44.790722,2.460282
+150900005R-4,4,Rue du Bois,15130,Lafeuillade-en-Vézie,C+O,44.790798,2.460447
+150900005R-5,5,Rue du Bois,15130,Lafeuillade-en-Vézie,C+O,44.790894,2.460462
+150900007T-1,1,Route de Cances,15130,Lafeuillade-en-Vézie,C+O,44.791029,2.464524
+150900007T-2,2,Route de Cances,15130,Lafeuillade-en-Vézie,C+O,44.789869,2.464835
+150900007T-3,3,Route de Cances,15130,Lafeuillade-en-Vézie,C+O,44.791029,2.464536
+150900007T-5,5,Route de Cances,15130,Lafeuillade-en-Vézie,C+O,44.790826,2.465290
+150900007T-6,6,Route de Cances,15130,Lafeuillade-en-Vézie,C+O,44.790733,2.465974
 150900009V-11,11,Rue de la Croux,15130,Lafeuillade-en-Vézie,C+O,44.794338,2.466259
 150900009V-1,1,Rue de la Croux,15130,Lafeuillade-en-Vézie,C+O,44.794004,2.464903
 150900009V-14,14,Rue de la Croux,15130,Lafeuillade-en-Vézie,C+O,44.794619,2.466555
@@ -11245,9 +11245,9 @@
 150900052S-7,7,Rue Germain Prat,15130,Lafeuillade-en-Vézie,C+O,44.787938,2.458392
 150900052S-8,8,Rue Germain Prat,15130,Lafeuillade-en-Vézie,C+O,44.787723,2.458018
 150900052S-9,9,Rue Germain Prat,15130,Lafeuillade-en-Vézie,C+O,44.788079,2.458773
-150900053T-2,2,Chemin du Puech Damas,15130,Lafeuillade-en-Vézie,CAD,44.790471,2.463890
-150900053T-3,3,Chemin du Puech Damas,15130,Lafeuillade-en-Vézie,CAD,44.790739,2.464058
-150900053T-4,4,Chemin du Puech Damas,15130,Lafeuillade-en-Vézie,CAD,44.789912,2.463755
+150900053T-2,2,Chemin du Puech Damas,15130,Lafeuillade-en-Vézie,C+O,44.790471,2.463890
+150900053T-3,3,Chemin du Puech Damas,15130,Lafeuillade-en-Vézie,C+O,44.790739,2.464058
+150900053T-4,4,Chemin du Puech Damas,15130,Lafeuillade-en-Vézie,C+O,44.789912,2.463755
 150940040L-6057,6057,Rue Damont,15150,Laroquebrou,C+O,44.968496,2.193682
 150940045S-6040,6040,Rue du 19 Mars 1962,15150,Laroquebrou,C+O,44.967450,2.197450
 150940050X-1,1,Place de l'Église,15150,Laroquebrou,C+O,44.968254,2.190257
@@ -11428,7 +11428,7 @@
 151190023J-16,16,Route de Bonnac,15500,Massiac,OSM,45.248641,3.194194
 151190023J-16,16,Route de Bonnac,15500,Massiac,OSM,45.248641,3.194195
 151190023J-2,2,Route de Bonnac,15500,Massiac,OSM,45.250562,3.195468
-151190023J-2,2,Route de Bonnac,15500,Massiac,OSM,45.250562,3.195468
+151190023J-2,2,Route de Bonnac,15500,Massiac,OSM,45.251387,3.197120
 151190023J-4,4,Route de Bonnac,15500,Massiac,OSM,45.249943,3.195234
 151190023J-4,4,Route de Bonnac,15500,Massiac,OSM,45.249943,3.195234
 151190027N-10,10,Rue de la Branche,15500,Massiac,OSM,45.256962,3.197718
@@ -11474,7 +11474,7 @@
 151190045H-19,19,Avenue de Courcelles,15500,Massiac,OSM,45.246875,3.187858
 151190045H-21,21,Avenue de Courcelles,15500,Massiac,OSM,45.246888,3.187388
 151190045H-23,23,Avenue de Courcelles,15500,Massiac,OSM,45.246900,3.187238
-151190045H-3B,3BIS,Avenue de Courcelles,15500,Massiac,OSM,45.250355,3.192193
+151190045H-3B,3BIS,Avenue de Courcelles,15500,Massiac,OSM,45.250698,3.196092
 151190045H-5,5,Avenue de Courcelles,15500,Massiac,OSM,45.250110,3.192165
 151190045H-6132,6132,Avenue de Courcelles,15500,Massiac,C+O,45.250040,3.194224
 151190045H-6134,6134,Avenue de Courcelles,15500,Massiac,C+O,45.250415,3.194280
@@ -14023,8 +14023,8 @@
 151221060Y-7B,7BIS,Route du Vallon,15600,Maurs,CAD,44.706171,2.197246
 151221060Y-8,8,Route du Vallon,15600,Maurs,CAD,44.706029,2.196762
 151221060Y-9,9,Route du Vallon,15600,Maurs,CAD,44.705993,2.196842
-151340010E-20P,20P,Rue de l'Abbaye,15120,Montsalvy,CAD,44.706504,2.500577
-151340015K-6111,6111,Chemin du Petit Abreuvoir,15120,Montsalvy,CAD,44.706147,2.501543
+151340010E-20P,20P,Rue de L'abbaye,15120,Montsalvy,C+O,44.706504,2.500577
+151340015K-6111,6111,Chemin du Petit Abreuvoir,15120,Montsalvy,C+O,44.706147,2.501543
 151340060J-6036,6036,Avenue d'Aurillac,15120,Montsalvy,C+O,44.709248,2.500897
 151340100C-6032,6032,Rue Basse des Remparts,15120,Montsalvy,C+O,44.706937,2.499804
 151340118X-6063,6063,Rue de la Clémence,15120,Montsalvy,C+O,44.706712,2.499033
@@ -14040,19 +14040,19 @@
 151340320S-6104,6104,Avenue Lucie Colomb,15120,Montsalvy,C+O,44.701833,2.505770
 151340320S-6105,6105,Avenue Lucie Colomb,15120,Montsalvy,C+O,44.703891,2.501266
 151340380G-6007,6007,Rue du Moulin,15120,Montsalvy,C+O,44.707238,2.502635
-151340393W-6084,6084,Rue Pastourelle,15120,Montsalvy,CAD,44.708089,2.499334
+151340393W-6084,6084,Rue Pastourelle,15120,Montsalvy,C+O,44.708089,2.499334
 151340420A-6025,6025,Route de Pons,15120,Montsalvy,C+O,44.706430,2.503421
 151340420A-6054,6054,Route de Pons,15120,Montsalvy,C+O,44.706110,2.504140
 151340420A-6110,6110,Route de Pons,15120,Montsalvy,C+O,44.706050,2.505116
 151340420A-6117,6117,Route de Pons,15120,Montsalvy,C+O,44.705899,2.505510
-151340440X-6095,6095,Rue du Pré d'Alby,15120,Montsalvy,CAD,44.708763,2.499728
+151340440X-6095,6095,Rue du Pré d'Alby,15120,Montsalvy,C+O,44.708763,2.499728
 151340460U-6008,6008,Rue du Pré de Dom,15120,Montsalvy,C+O,44.708662,2.504789
 151340460U-6074,6074,Rue du Pré de Dom,15120,Montsalvy,C+O,44.708121,2.501592
 151340480R-6016,6016,Rue du Puy de l'Arbre,15120,Montsalvy,CAD,44.711732,2.502666
 151340482T-6027,6027,Rue du Puy Lacroix,15120,Montsalvy,C+O,44.705124,2.493592
 151340482T-6048,6048,Rue du Puy Lacroix,15120,Montsalvy,C+O,44.705001,2.494761
 151340482T-6062,6062,Rue du Puy Lacroix,15120,Montsalvy,C+O,44.704817,2.495013
-151340493E-6042,6042,Faubourg Saint-Francois,15120,Montsalvy,CAD,44.704736,2.501587
+151340493E-6042,6042,Faubourg Saint-François,15120,Montsalvy,C+O,44.704736,2.501587
 151340560C-6068,6068,Rue du Tour de Ville,15120,Montsalvy,C+O,44.706277,2.499689
 151340560C-6089,6089,Rue du Tour de Ville,15120,Montsalvy,C+O,44.706863,2.499465
 151340565H-6001,6001,Avenue de Turenne,15120,Montsalvy,C+O,44.710869,2.499500
@@ -14952,19 +14952,19 @@
 151400086L-4,4,Place du 19 Mars 1962,15250,Naucelles,C+O,44.959335,2.416734
 151400086L-6,6,Place du 19 Mars 1962,15250,Naucelles,C+O,44.959279,2.416669
 151400086L-8,8,Place du 19 Mars 1962,15250,Naucelles,C+O,44.958899,2.416444
-151400089P-10,10,Rue du Terrou,15250,Naucelles,C+O,44.957049,2.414478
-151400089P-11,11,Rue du Terrou,15250,Naucelles,C+O,44.957463,2.418031
-151400089P-1,1,Rue du Terrou,15250,Naucelles,C+O,44.957133,2.419850
-151400089P-12,12,Rue du Terrou,15250,Naucelles,C+O,44.956891,2.413955
-151400089P-13,13,Rue du Terrou,15250,Naucelles,C+O,44.957112,2.416012
-151400089P-2,2,Rue du Terrou,15250,Naucelles,C+O,44.957159,2.416086
-151400089P-3,3,Rue du Terrou,15250,Naucelles,C+O,44.957139,2.416834
-151400089P-4,4,Rue du Terrou,15250,Naucelles,C+O,44.957221,2.415547
-151400089P-5,5,Rue du Terrou,15250,Naucelles,C+O,44.957139,2.416822
-151400089P-6260,6260,Rue du Terrou,15250,Naucelles,C+O,44.958642,2.416551
-151400089P-6,6,Rue du Terrou,15250,Naucelles,C+O,44.957347,2.415082
-151400089P-7,7,Rue du Terrou,15250,Naucelles,C+O,44.957134,2.417196
-151400089P-8,8,Rue du Terrou,15250,Naucelles,C+O,44.957169,2.414853
+151400089P-10,10,Rue de Terrou,15250,Naucelles,C+O,44.957049,2.414478
+151400089P-11,11,Rue de Terrou,15250,Naucelles,C+O,44.957463,2.418031
+151400089P-1,1,Rue de Terrou,15250,Naucelles,C+O,44.957133,2.419850
+151400089P-12,12,Rue de Terrou,15250,Naucelles,C+O,44.956891,2.413955
+151400089P-13,13,Rue de Terrou,15250,Naucelles,C+O,44.957112,2.416012
+151400089P-2,2,Rue de Terrou,15250,Naucelles,C+O,44.957159,2.416086
+151400089P-3,3,Rue de Terrou,15250,Naucelles,C+O,44.957139,2.416834
+151400089P-4,4,Rue de Terrou,15250,Naucelles,C+O,44.957221,2.415547
+151400089P-5,5,Rue de Terrou,15250,Naucelles,C+O,44.957139,2.416822
+151400089P-6260,6260,Rue de Terrou,15250,Naucelles,C+O,44.958642,2.416551
+151400089P-6,6,Rue de Terrou,15250,Naucelles,C+O,44.957347,2.415082
+151400089P-7,7,Rue de Terrou,15250,Naucelles,C+O,44.957134,2.417196
+151400089P-8,8,Rue de Terrou,15250,Naucelles,C+O,44.957169,2.414853
 151400090R-1,1,Rue du Puy Mary,15250,Naucelles,C+O,44.956734,2.416036
 151400090R-2,2,Rue du Puy Mary,15250,Naucelles,C+O,44.956685,2.415747
 151400090R-3,3,Rue du Puy Mary,15250,Naucelles,C+O,44.956688,2.415515
@@ -17614,94 +17614,94 @@
 151600550D-2,2,Chemin Lou Carreyrou,15250,Reilhac,CAD,44.955866,2.394010
 151600550D-4,4,Chemin Lou Carreyrou,15250,Reilhac,CAD,44.956020,2.394179
 15160A020X-45,45,Cite des Landes,15250,Reilhac,CAD,44.975639,2.417816
-151620010H-1,1,Rue de l'Aide Major Moins,15400,Riom-ès-Montagnes,CAD,45.281895,2.656565
-151620010H-2,2,Rue de l'Aide Major Moins,15400,Riom-ès-Montagnes,CAD,45.281858,2.656712
-151620010H-4,4,Rue de l'Aide Major Moins,15400,Riom-ès-Montagnes,CAD,45.281986,2.656602
-151620015N-11,11,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283255,2.657014
-151620015N-1,1,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283269,2.658639
-151620015N-14,14,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283475,2.657766
-151620015N-16,16,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283377,2.657349
-151620015N-18,18,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283332,2.656971
-151620015N-18B,18BIS,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283633,2.656885
-151620015N-20,20,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283297,2.656664
-151620015N-24,24,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283241,2.656177
-151620015N-3,3,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283358,2.658235
-151620015N-5,5,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283311,2.657476
-151620015N-7,7,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283285,2.657288
-151620015N-8,8,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283555,2.658150
-151620015N-9,9,Rue Alfred Durand,15400,Riom-ès-Montagnes,CAD,45.283271,2.657155
-151620020U-1,1,Rue Alphonse Besson,15400,Riom-ès-Montagnes,CAD,45.283335,2.655115
-151620020U-3,3,Rue Alphonse Besson,15400,Riom-ès-Montagnes,CAD,45.283317,2.655174
-151620020U-4,4,Rue Alphonse Besson,15400,Riom-ès-Montagnes,CAD,45.283543,2.656049
-151620020U-6,6,Rue Alphonse Besson,15400,Riom-ès-Montagnes,CAD,45.283746,2.655552
-151620023X-2,2,Allée des Anémones,15400,Riom-ès-Montagnes,CAD,45.273689,2.659937
-151620025Z-10,10,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282670,2.667336
-151620025Z-11,11,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282767,2.667027
-151620025Z-1,1,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.283595,2.665240
-151620025Z-2,2,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282633,2.666458
-151620025Z-3,3,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.283489,2.665393
-151620025Z-4,4,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282643,2.666677
-151620025Z-5,5,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282803,2.665764
-151620025Z-6,6,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282654,2.666923
-151620025Z-7,7,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282533,2.665813
-151620025Z-8,8,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282663,2.667138
-151620025Z-9,9,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,CAD,45.282743,2.666488
-151620030E-10,10,Rue du Bac,15400,Riom-ès-Montagnes,CAD,45.281531,2.657258
-151620030E-1,1,Rue du Bac,15400,Riom-ès-Montagnes,CAD,45.282142,2.656281
-151620030E-13,13,Rue du Bac,15400,Riom-ès-Montagnes,CAD,45.281602,2.657238
-151620030E-15,15,Rue du Bac,15400,Riom-ès-Montagnes,CAD,45.281570,2.657318
-151620030E-2,2,Rue du Bac,15400,Riom-ès-Montagnes,CAD,45.281844,2.656037
-151620035K-4,4,Place du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280013,2.659324
-151620035K-6073,6073,Place du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280306,2.658931
-151620035K-6,6,Place du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280147,2.658767
-151620040R-1,1,Rue du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280551,2.659368
-151620040R-2,2,Rue du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280110,2.659305
-151620040R-3,3,Rue du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280234,2.659570
-151620040R-5,5,Rue du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280292,2.659510
-151620040R-6,6,Rue du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280063,2.659572
-151620040R-6B,6BIS,Rue du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280016,2.659522
-151620040R-7,7,Rue du Bar Soubro,15400,Riom-ès-Montagnes,CAD,45.280170,2.659622
-151620043U-10,10,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.271504,2.659983
-151620043U-11,11,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272212,2.660706
-151620043U-12,12,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.271544,2.659716
-151620043U-13,13,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272008,2.660883
-151620043U-17,17,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.271315,2.660211
-151620043U-19,19,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.271405,2.660006
-151620043U-20,20,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272546,2.659284
-151620043U-24,24,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272927,2.658927
-151620043U-29,29,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272162,2.659103
-151620043U-3,3,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272911,2.660876
-151620043U-34,34,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.274022,2.658345
-151620043U-36,36,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.274271,2.658574
-151620043U-41,41,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.273007,2.658295
-151620043U-4,4,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272086,2.660607
-151620043U-57,57,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.274383,2.658002
-151620043U-6100,6100,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272708,2.659202
-151620043U-6,6,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.271804,2.660587
-151620043U-69,69,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.276940,2.657960
-151620043U-73,73,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.277360,2.658167
-151620043U-7,7,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272625,2.660752
-151620043U-8,8,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.271551,2.660270
-151620043U-9,9,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,CAD,45.272410,2.660696
-151620044V-3,3,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,CAD,45.272444,2.660210
-151620044V-5,5,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,CAD,45.272628,2.660122
-151620044V-6079,6079,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,CAD,45.272344,2.660150
-151620044V-7,7,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,CAD,45.272764,2.660010
-151620044V-9,9,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,CAD,45.272917,2.659850
-151620045W-1,1,Allée des Bruyères,15400,Riom-ès-Montagnes,CAD,45.271341,2.659523
-151620045W-3,3,Allée des Bruyères,15400,Riom-ès-Montagnes,CAD,45.271281,2.659521
-151620045W-4,4,Allée des Bruyères,15400,Riom-ès-Montagnes,CAD,45.271286,2.659445
-151620050B-10,10,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281530,2.659046
-151620050B-1,1,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281723,2.659736
-151620050B-12,12,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281440,2.659042
-151620050B-2,2,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281760,2.659557
-151620050B-3,3,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281580,2.659521
-151620050B-4,4,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281727,2.659325
-151620050B-5,5,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281489,2.659425
-151620050B-6,6,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281593,2.659371
-151620050B-7,7,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281419,2.659266
-151620050B-8,8,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281523,2.659272
-151620050B-9,9,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,CAD,45.281398,2.659124
+151620010H-1,1,Rue de l'Aide Major Moins,15400,Riom-ès-Montagnes,C+O,45.281895,2.656565
+151620010H-2,2,Rue de l'Aide Major Moins,15400,Riom-ès-Montagnes,C+O,45.281858,2.656712
+151620010H-4,4,Rue de l'Aide Major Moins,15400,Riom-ès-Montagnes,C+O,45.281986,2.656602
+151620015N-11,11,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283255,2.657014
+151620015N-1,1,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283269,2.658639
+151620015N-14,14,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283475,2.657766
+151620015N-16,16,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283377,2.657349
+151620015N-18,18,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283332,2.656971
+151620015N-18B,18BIS,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283633,2.656885
+151620015N-20,20,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283297,2.656664
+151620015N-24,24,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283241,2.656177
+151620015N-3,3,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283358,2.658235
+151620015N-5,5,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283311,2.657476
+151620015N-7,7,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283285,2.657288
+151620015N-8,8,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283555,2.658150
+151620015N-9,9,Rue Alfred Durand,15400,Riom-ès-Montagnes,C+O,45.283271,2.657155
+151620020U-1,1,Rue Alphonse Besson,15400,Riom-ès-Montagnes,C+O,45.283335,2.655115
+151620020U-3,3,Rue Alphonse Besson,15400,Riom-ès-Montagnes,C+O,45.283317,2.655174
+151620020U-4,4,Rue Alphonse Besson,15400,Riom-ès-Montagnes,C+O,45.283543,2.656049
+151620020U-6,6,Rue Alphonse Besson,15400,Riom-ès-Montagnes,C+O,45.283746,2.655552
+151620023X-2,2,Allée des Anémones,15400,Riom-ès-Montagnes,C+O,45.273689,2.659937
+151620025Z-10,10,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282670,2.667336
+151620025Z-11,11,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282767,2.667027
+151620025Z-1,1,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.283595,2.665240
+151620025Z-2,2,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282633,2.666458
+151620025Z-3,3,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.283489,2.665393
+151620025Z-4,4,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282643,2.666677
+151620025Z-5,5,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282803,2.665764
+151620025Z-6,6,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282654,2.666923
+151620025Z-7,7,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282533,2.665813
+151620025Z-8,8,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282663,2.667138
+151620025Z-9,9,Rue Arsène Vermenouze,15400,Riom-ès-Montagnes,C+O,45.282743,2.666488
+151620030E-10,10,Rue du Bac,15400,Riom-ès-Montagnes,C+O,45.281531,2.657258
+151620030E-1,1,Rue du Bac,15400,Riom-ès-Montagnes,C+O,45.282142,2.656281
+151620030E-13,13,Rue du Bac,15400,Riom-ès-Montagnes,C+O,45.281602,2.657238
+151620030E-15,15,Rue du Bac,15400,Riom-ès-Montagnes,C+O,45.281570,2.657318
+151620030E-2,2,Rue du Bac,15400,Riom-ès-Montagnes,C+O,45.281844,2.656037
+151620035K-4,4,Place du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280013,2.659324
+151620035K-6073,6073,Place du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280306,2.658931
+151620035K-6,6,Place du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280147,2.658767
+151620040R-1,1,Rue du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280551,2.659368
+151620040R-2,2,Rue du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280110,2.659305
+151620040R-3,3,Rue du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280234,2.659570
+151620040R-5,5,Rue du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280292,2.659510
+151620040R-6,6,Rue du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280063,2.659572
+151620040R-6B,6BIS,Rue du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280016,2.659522
+151620040R-7,7,Rue du Bar Soubro,15400,Riom-ès-Montagnes,C+O,45.280170,2.659622
+151620043U-10,10,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.271504,2.659983
+151620043U-11,11,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272212,2.660706
+151620043U-12,12,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.271544,2.659716
+151620043U-13,13,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272008,2.660883
+151620043U-17,17,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.271315,2.660211
+151620043U-19,19,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.271405,2.660006
+151620043U-20,20,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272546,2.659284
+151620043U-24,24,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272927,2.658927
+151620043U-29,29,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272162,2.659103
+151620043U-3,3,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272911,2.660876
+151620043U-34,34,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.274022,2.658345
+151620043U-36,36,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.274271,2.658574
+151620043U-41,41,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.273007,2.658295
+151620043U-4,4,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272086,2.660607
+151620043U-57,57,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.274383,2.658002
+151620043U-6100,6100,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272708,2.659202
+151620043U-6,6,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.271804,2.660587
+151620043U-69,69,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.276940,2.657960
+151620043U-73,73,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.277360,2.658167
+151620043U-7,7,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272625,2.660752
+151620043U-8,8,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.271551,2.660270
+151620043U-9,9,Rue du Bois de la Tourne,15400,Riom-ès-Montagnes,C+O,45.272410,2.660696
+151620044V-3,3,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,C+O,45.272444,2.660210
+151620044V-5,5,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,C+O,45.272628,2.660122
+151620044V-6079,6079,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,C+O,45.272344,2.660150
+151620044V-7,7,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,C+O,45.272764,2.660010
+151620044V-9,9,Allée des Boutons d'Or,15400,Riom-ès-Montagnes,C+O,45.272917,2.659850
+151620045W-1,1,Allée des Bruyères,15400,Riom-ès-Montagnes,C+O,45.271341,2.659523
+151620045W-3,3,Allée des Bruyères,15400,Riom-ès-Montagnes,C+O,45.271281,2.659521
+151620045W-4,4,Allée des Bruyères,15400,Riom-ès-Montagnes,C+O,45.271286,2.659445
+151620050B-10,10,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281530,2.659046
+151620050B-1,1,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281723,2.659736
+151620050B-12,12,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281440,2.659042
+151620050B-2,2,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281760,2.659557
+151620050B-3,3,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281580,2.659521
+151620050B-4,4,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281727,2.659325
+151620050B-5,5,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281489,2.659425
+151620050B-6,6,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281593,2.659371
+151620050B-7,7,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281419,2.659266
+151620050B-8,8,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281523,2.659272
+151620050B-9,9,Rue du Capitaine Chevalier,15400,Riom-ès-Montagnes,C+O,45.281398,2.659124
 151620055G-10,10,Rue Cap de Corvette A Marche,15400,Riom-ès-Montagnes,CAD,45.282176,2.658423
 151620055G-12,12,Rue Cap de Corvette A Marche,15400,Riom-ès-Montagnes,CAD,45.282103,2.658365
 151620055G-14,14,Rue Cap de Corvette A Marche,15400,Riom-ès-Montagnes,CAD,45.282056,2.658323
@@ -17715,119 +17715,119 @@
 151620055G-7,7,Rue Cap de Corvette A Marche,15400,Riom-ès-Montagnes,CAD,45.282237,2.658627
 151620055G-8,8,Rue Cap de Corvette A Marche,15400,Riom-ès-Montagnes,CAD,45.282308,2.658492
 151620055G-9,9,Rue Cap de Corvette A Marche,15400,Riom-ès-Montagnes,CAD,45.282149,2.658750
-151620060M-11,11,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284178,2.656688
-151620060M-1,1,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284278,2.657680
-151620060M-13,13,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284167,2.656498
-151620060M-15,15,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284154,2.656062
-151620060M-5,5,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284232,2.657306
-151620060M-6136,6136,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284733,2.652855
-151620060M-6150,6150,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284647,2.653448
-151620060M-7,7,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284211,2.657143
-151620060M-9,9,Rue du Champ de Foire,15400,Riom-ès-Montagnes,CAD,45.284189,2.656893
-151620061N-1,1,Place Charles de Gaulle,15400,Riom-ès-Montagnes,CAD,45.281295,2.660194
-151620061N-12,12,Place Charles de Gaulle,15400,Riom-ès-Montagnes,CAD,45.281251,2.659779
-151620061N-4,4,Place Charles de Gaulle,15400,Riom-ès-Montagnes,CAD,45.281500,2.659637
-151620061N-6,6,Place Charles de Gaulle,15400,Riom-ès-Montagnes,CAD,45.281466,2.659700
-151620062P-10,10,Impasse de la Chaussade,15400,Riom-ès-Montagnes,CAD,45.283900,2.668732
-151620062P-12,12,Impasse de la Chaussade,15400,Riom-ès-Montagnes,CAD,45.283975,2.668241
-151620062P-2,2,Impasse de la Chaussade,15400,Riom-ès-Montagnes,CAD,45.283180,2.668180
-151620062P-4,4,Impasse de la Chaussade,15400,Riom-ès-Montagnes,CAD,45.283362,2.668293
-151620062P-6006,6006,Impasse de la Chaussade,15400,Riom-ès-Montagnes,CAD,45.283873,2.667843
-151620062P-6,6,Impasse de la Chaussade,15400,Riom-ès-Montagnes,CAD,45.283530,2.668371
-151620062P-8,8,Impasse de la Chaussade,15400,Riom-ès-Montagnes,CAD,45.283702,2.668362
+151620060M-11,11,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284178,2.656688
+151620060M-1,1,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284278,2.657680
+151620060M-13,13,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284167,2.656498
+151620060M-15,15,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284154,2.656062
+151620060M-5,5,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284232,2.657306
+151620060M-6136,6136,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284733,2.652855
+151620060M-6150,6150,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284647,2.653448
+151620060M-7,7,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284211,2.657143
+151620060M-9,9,Rue du Champ de Foire,15400,Riom-ès-Montagnes,C+O,45.284189,2.656893
+151620061N-1,1,Place Charles de Gaulle,15400,Riom-ès-Montagnes,C+O,45.281295,2.660194
+151620061N-12,12,Place Charles de Gaulle,15400,Riom-ès-Montagnes,C+O,45.281251,2.659779
+151620061N-4,4,Place Charles de Gaulle,15400,Riom-ès-Montagnes,C+O,45.281500,2.659637
+151620061N-6,6,Place Charles de Gaulle,15400,Riom-ès-Montagnes,C+O,45.281466,2.659700
+151620062P-10,10,Impasse de la Chaussade,15400,Riom-ès-Montagnes,C+O,45.283900,2.668732
+151620062P-12,12,Impasse de la Chaussade,15400,Riom-ès-Montagnes,C+O,45.283975,2.668241
+151620062P-2,2,Impasse de la Chaussade,15400,Riom-ès-Montagnes,C+O,45.283180,2.668180
+151620062P-4,4,Impasse de la Chaussade,15400,Riom-ès-Montagnes,C+O,45.283362,2.668293
+151620062P-6006,6006,Impasse de la Chaussade,15400,Riom-ès-Montagnes,C+O,45.283873,2.667843
+151620062P-6,6,Impasse de la Chaussade,15400,Riom-ès-Montagnes,C+O,45.283530,2.668371
+151620062P-8,8,Impasse de la Chaussade,15400,Riom-ès-Montagnes,C+O,45.283702,2.668362
 151620064S-6007,6007,Chemin Departemental Chemin Departemental °678,15400,Riom-ès-Montagnes,CAD,45.285184,2.669005
 151620064S-6008,6008,Chemin Departemental Chemin Departemental °678,15400,Riom-ès-Montagnes,CAD,45.285398,2.669095
 151620064S-6009,6009,Chemin Departemental Chemin Departemental °678,15400,Riom-ès-Montagnes,CAD,45.285615,2.669185
 151620064S-6010,6010,Chemin Departemental Chemin Departemental °678,15400,Riom-ès-Montagnes,CAD,45.285837,2.669279
 151620064S-6021,6021,Chemin Departemental Chemin Departemental °678,15400,Riom-ès-Montagnes,CAD,45.286545,2.669399
 151620064S-6037,6037,Chemin Departemental Chemin Departemental °678,15400,Riom-ès-Montagnes,CAD,45.286164,2.669389
-151620065T-10,10,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.278896,2.661183
-151620065T-11,11,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.278711,2.661340
-151620065T-1,1,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279372,2.661168
-151620065T-12,12,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.277807,2.661216
-151620065T-13,13,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.278380,2.661831
-151620065T-14,14,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.277402,2.661229
-151620065T-15,15,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.275172,2.661255
-151620065T-17,17,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.277005,2.661420
-151620065T-18,18,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.276864,2.661312
-151620065T-20,20,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.276654,2.661208
-151620065T-21,21,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.274557,2.661636
-151620065T-22,22,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.276538,2.661113
-151620065T-2,2,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279629,2.661105
-151620065T-22B,22BIS,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.276536,2.660759
-151620065T-24,24,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.276441,2.661014
-151620065T-25,25,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.274070,2.661799
-151620065T-26,26,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.276337,2.661046
-151620065T-27,27,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.273806,2.661789
-151620065T-29,29,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.273617,2.661757
-151620065T-30,30,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.275696,2.661110
-151620065T-31,31,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.273441,2.661721
-151620065T-32,32,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.275434,2.661069
-151620065T-3,3,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279242,2.661182
-151620065T-34,34,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.275236,2.661085
-151620065T-35,35,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.273010,2.661600
-151620065T-36,36,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.272894,2.661407
-151620065T-38,38,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.272718,2.661368
-151620065T-40,40,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.272561,2.661334
-151620065T-42,42,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.272407,2.661302
-151620065T-44,44,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.272247,2.661271
-151620065T-4,4,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279525,2.661094
-151620065T-46,46,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.272132,2.661261
-151620065T-48,48,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.271877,2.661154
-151620065T-5,5,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279061,2.661234
-151620065T-6070,6070,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.275946,2.660984
-151620065T-6181,6181,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279378,2.661657
-151620065T-6,6,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279275,2.661074
-151620065T-7,7,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.278685,2.661450
-151620065T-8,8,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.279076,2.661129
-151620065T-9,9,Avenue de Collandres,15400,Riom-ès-Montagnes,CAD,45.278380,2.661813
-151620070Y-10,10,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282056,2.659427
-151620070Y-11,11,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282205,2.658916
-151620070Y-1,1,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.281731,2.659441
-151620070Y-12,12,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282040,2.659313
-151620070Y-13,13,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282264,2.658932
-151620070Y-14,14,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282103,2.659275
-151620070Y-15,15,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282322,2.658944
-151620070Y-16,16,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282186,2.659225
-151620070Y-17,17,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282382,2.658959
-151620070Y-18,18,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282307,2.659167
-151620070Y-20,20,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282394,2.659134
-151620070Y-22,22,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282437,2.659116
-151620070Y-22B,22BIS,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282522,2.659221
-151620070Y-24,24,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282588,2.659048
-151620070Y-26,26,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282626,2.659031
-151620070Y-3,3,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.281794,2.659398
-151620070Y-4,4,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.281818,2.659496
-151620070Y-5,5,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.281844,2.659343
-151620070Y-6,6,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.281921,2.659454
-151620070Y-7,7,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.281973,2.659225
-151620070Y-9,9,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,CAD,45.282021,2.659156
-151620072A-3,3,Route de Condat,15400,Riom-ès-Montagnes,CAD,45.279822,2.665846
+151620065T-10,10,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.278896,2.661183
+151620065T-11,11,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.278711,2.661340
+151620065T-1,1,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279372,2.661168
+151620065T-12,12,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.277807,2.661216
+151620065T-13,13,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.278380,2.661831
+151620065T-14,14,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.277402,2.661229
+151620065T-15,15,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.275172,2.661255
+151620065T-17,17,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.277005,2.661420
+151620065T-18,18,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.276864,2.661312
+151620065T-20,20,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.276654,2.661208
+151620065T-21,21,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.274557,2.661636
+151620065T-22,22,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.276538,2.661113
+151620065T-2,2,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279629,2.661105
+151620065T-22B,22BIS,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.276536,2.660759
+151620065T-24,24,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.276441,2.661014
+151620065T-25,25,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.274070,2.661799
+151620065T-26,26,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.276337,2.661046
+151620065T-27,27,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.273806,2.661789
+151620065T-29,29,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.273617,2.661757
+151620065T-30,30,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.275696,2.661110
+151620065T-31,31,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.273441,2.661721
+151620065T-32,32,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.275434,2.661069
+151620065T-3,3,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279242,2.661182
+151620065T-34,34,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.275236,2.661085
+151620065T-35,35,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.273010,2.661600
+151620065T-36,36,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.272894,2.661407
+151620065T-38,38,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.272718,2.661368
+151620065T-40,40,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.272561,2.661334
+151620065T-42,42,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.272407,2.661302
+151620065T-44,44,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.272247,2.661271
+151620065T-4,4,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279525,2.661094
+151620065T-46,46,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.272132,2.661261
+151620065T-48,48,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.271877,2.661154
+151620065T-5,5,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279061,2.661234
+151620065T-6070,6070,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.275946,2.660984
+151620065T-6181,6181,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279378,2.661657
+151620065T-6,6,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279275,2.661074
+151620065T-7,7,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.278685,2.661450
+151620065T-8,8,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.279076,2.661129
+151620065T-9,9,Avenue de Collandres,15400,Riom-ès-Montagnes,C+O,45.278380,2.661813
+151620070Y-10,10,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282056,2.659427
+151620070Y-11,11,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282205,2.658916
+151620070Y-1,1,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.281731,2.659441
+151620070Y-12,12,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282040,2.659313
+151620070Y-13,13,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282264,2.658932
+151620070Y-14,14,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282103,2.659275
+151620070Y-15,15,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282322,2.658944
+151620070Y-16,16,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282186,2.659225
+151620070Y-17,17,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282382,2.658959
+151620070Y-18,18,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282307,2.659167
+151620070Y-20,20,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282394,2.659134
+151620070Y-22,22,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282437,2.659116
+151620070Y-22B,22BIS,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282522,2.659221
+151620070Y-24,24,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282588,2.659048
+151620070Y-26,26,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282626,2.659031
+151620070Y-3,3,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.281794,2.659398
+151620070Y-4,4,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.281818,2.659496
+151620070Y-5,5,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.281844,2.659343
+151620070Y-6,6,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.281921,2.659454
+151620070Y-7,7,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.281973,2.659225
+151620070Y-9,9,Rue du Commandant Robert Monier,15400,Riom-ès-Montagnes,C+O,45.282021,2.659156
+151620072A-3,3,Route de Condat,15400,Riom-ès-Montagnes,C+O,45.279822,2.665846
 151620075D-1,1,Rue du Couderc,15400,Riom-ès-Montagnes,C+O,45.283125,2.660323
 151620075D-3,3,Rue du Couderc,15400,Riom-ès-Montagnes,C+O,45.283097,2.660505
 151620075D-5,5,Rue du Couderc,15400,Riom-ès-Montagnes,C+O,45.283074,2.660668
 151620080J-2,2,Rue du Cul de Lampe,15400,Riom-ès-Montagnes,CAD,45.280819,2.659778
 151620080J-6001,6001,Rue du Cul de Lampe,15400,Riom-ès-Montagnes,CAD,45.280848,2.659597
-151620085P-10,10,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284404,2.663421
-151620085P-11,11,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284551,2.663324
-151620085P-1,1,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283404,2.662306
-151620085P-12,12,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284399,2.663223
-151620085P-13,13,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284231,2.663240
-151620085P-14,14,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284110,2.663192
-151620085P-15,15,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283988,2.663077
-151620085P-16,16,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283881,2.662901
-151620085P-17,17,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283815,2.662729
-151620085P-18,18,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283747,2.662549
-151620085P-19,19,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283673,2.662360
-151620085P-20,20,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283555,2.662222
-151620085P-2,2,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283654,2.662497
-151620085P-3,3,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283725,2.662687
-151620085P-4,4,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283802,2.662891
-151620085P-5,5,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283851,2.663105
-151620085P-6,6,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.283950,2.663214
-151620085P-7,7,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284109,2.663290
-151620085P-8,8,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284274,2.663361
-151620085P-9,9,Cité Delteil,15400,Riom-ès-Montagnes,CAD,45.284336,2.663428
+151620085P-10,10,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284404,2.663421
+151620085P-11,11,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284551,2.663324
+151620085P-1,1,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283404,2.662306
+151620085P-12,12,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284399,2.663223
+151620085P-13,13,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284231,2.663240
+151620085P-14,14,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284110,2.663192
+151620085P-15,15,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283988,2.663077
+151620085P-16,16,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283881,2.662901
+151620085P-17,17,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283815,2.662729
+151620085P-18,18,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283747,2.662549
+151620085P-19,19,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283673,2.662360
+151620085P-20,20,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283555,2.662222
+151620085P-2,2,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283654,2.662497
+151620085P-3,3,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283725,2.662687
+151620085P-4,4,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283802,2.662891
+151620085P-5,5,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283851,2.663105
+151620085P-6,6,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.283950,2.663214
+151620085P-7,7,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284109,2.663290
+151620085P-8,8,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284274,2.663361
+151620085P-9,9,Cité Delteil,15400,Riom-ès-Montagnes,C+O,45.284336,2.663428
 151620087S-10,10,Rue du Dix Neuf Mars 1962,15400,Riom-ès-Montagnes,CAD,45.283931,2.669242
 151620087S-11,11,Rue du Dix Neuf Mars 1962,15400,Riom-ès-Montagnes,CAD,45.283773,2.669507
 151620087S-1,1,Rue du Dix Neuf Mars 1962,15400,Riom-ès-Montagnes,CAD,45.284840,2.668866
@@ -17849,43 +17849,43 @@
 151620087S-7,7,Rue du Dix Neuf Mars 1962,15400,Riom-ès-Montagnes,CAD,45.284387,2.669426
 151620087S-8,8,Rue du Dix Neuf Mars 1962,15400,Riom-ès-Montagnes,CAD,45.284238,2.669203
 151620087S-9,9,Rue du Dix Neuf Mars 1962,15400,Riom-ès-Montagnes,CAD,45.283980,2.669461
-151620088T-10,10,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281160,2.664004
-151620088T-11,11,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281303,2.664055
-151620088T-1,1,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281574,2.662636
-151620088T-12,12,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281065,2.664270
-151620088T-14,14,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281174,2.664415
-151620088T-2,2,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281449,2.662928
-151620088T-3,3,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281535,2.662930
-151620088T-4,4,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281411,2.663175
-151620088T-5,5,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281529,2.663217
-151620088T-6,6,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281365,2.663456
-151620088T-7,7,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281489,2.663462
-151620088T-8,8,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281293,2.663763
-151620088T-9,9,Rue du Docteur Mary,15400,Riom-ès-Montagnes,CAD,45.281398,2.663739
-151620090V-11,11,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282538,2.659658
-151620090V-1,1,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282006,2.659646
-151620090V-2,2,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282006,2.659722
-151620090V-3,3,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282079,2.659626
-151620090V-4,4,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282543,2.659854
-151620090V-5,5,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282155,2.659598
-151620090V-6,6,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282729,2.660220
-151620090V-7,7,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282360,2.659481
-151620090V-8,8,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282722,2.660530
-151620090V-9,9,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282428,2.659378
-151620090V-9B,9BIS,Rue des Écoles,15400,Riom-ès-Montagnes,CAD,45.282471,2.659441
-151620095A-10,10,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283457,2.666630
-151620095A-11,11,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283732,2.666286
-151620095A-1,1,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283043,2.666503
-151620095A-13,13,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283938,2.666246
-151620095A-22,22,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.284095,2.666242
-151620095A-2,2,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.282979,2.666752
-151620095A-3,3,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283227,2.666517
-151620095A-4,4,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283159,2.666740
-151620095A-5,5,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283381,2.666319
-151620095A-6,6,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283329,2.666771
-151620095A-7,7,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283550,2.666266
-151620095A-8,8,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283426,2.666774
-151620095A-9,9,Rue Emile Duclaux,15400,Riom-ès-Montagnes,CAD,45.283728,2.666161
+151620088T-10,10,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281160,2.664004
+151620088T-11,11,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281303,2.664055
+151620088T-1,1,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281574,2.662636
+151620088T-12,12,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281065,2.664270
+151620088T-14,14,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281174,2.664415
+151620088T-2,2,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281449,2.662928
+151620088T-3,3,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281535,2.662930
+151620088T-4,4,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281411,2.663175
+151620088T-5,5,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281529,2.663217
+151620088T-6,6,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281365,2.663456
+151620088T-7,7,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281489,2.663462
+151620088T-8,8,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281293,2.663763
+151620088T-9,9,Rue du Docteur Mary,15400,Riom-ès-Montagnes,C+O,45.281398,2.663739
+151620090V-11,11,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282538,2.659658
+151620090V-1,1,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282006,2.659646
+151620090V-2,2,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282006,2.659722
+151620090V-3,3,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282079,2.659626
+151620090V-4,4,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282543,2.659854
+151620090V-5,5,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282155,2.659598
+151620090V-6,6,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282729,2.660220
+151620090V-7,7,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282360,2.659481
+151620090V-8,8,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282722,2.660530
+151620090V-9,9,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282428,2.659378
+151620090V-9B,9BIS,Rue des Ecoles,15400,Riom-ès-Montagnes,C+O,45.282471,2.659441
+151620095A-10,10,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283457,2.666630
+151620095A-11,11,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283732,2.666286
+151620095A-1,1,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283043,2.666503
+151620095A-13,13,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283938,2.666246
+151620095A-22,22,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.284095,2.666242
+151620095A-2,2,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.282979,2.666752
+151620095A-3,3,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283227,2.666517
+151620095A-4,4,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283159,2.666740
+151620095A-5,5,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283381,2.666319
+151620095A-6,6,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283329,2.666771
+151620095A-7,7,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283550,2.666266
+151620095A-8,8,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283426,2.666774
+151620095A-9,9,Rue Emile Duclaux,15400,Riom-ès-Montagnes,C+O,45.283728,2.666161
 151620100F-1,1,Rue de l'Escalier,15400,Riom-ès-Montagnes,CAD,45.280761,2.658904
 151620105L-10,10,Avenue Fernand Brun,15400,Riom-ès-Montagnes,C+O,45.280662,2.660188
 151620105L-11,11,Avenue Fernand Brun,15400,Riom-ès-Montagnes,C+O,45.280342,2.660937
@@ -17911,71 +17911,71 @@
 151620105L-7,7,Avenue Fernand Brun,15400,Riom-ès-Montagnes,C+O,45.280735,2.660342
 151620105L-8,8,Avenue Fernand Brun,15400,Riom-ès-Montagnes,C+O,45.280729,2.660124
 151620105L-9,9,Avenue Fernand Brun,15400,Riom-ès-Montagnes,C+O,45.280611,2.660680
-151620115X-10,10,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279826,2.659458
-151620115X-11,11,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279041,2.660251
-151620115X-1,1,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.278126,2.660900
-151620115X-12,12,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279888,2.659373
-151620115X-13,13,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279202,2.660075
-151620115X-14,14,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279998,2.658849
-151620115X-15,15,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279286,2.659985
-151620115X-16,16,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.280031,2.658536
-151620115X-17,17,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279418,2.659851
-151620115X-19B,19BIS,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279740,2.659352
-151620115X-21,21,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279852,2.659275
-151620115X-23,23,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279847,2.659019
-151620115X-25,25,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279843,2.658879
-151620115X-27,27,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279841,2.658785
-151620115X-4,4,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279628,2.660186
-151620115X-5,5,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.278540,2.660722
-151620115X-6,6,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279606,2.659728
-151620115X-7,7,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279874,2.658751
-151620115X-8,8,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.279735,2.659563
-151620115X-9,9,Rue du Foumounard,15400,Riom-ès-Montagnes,CAD,45.278900,2.660424
-151620117Z-10,10,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283405,2.668847
-151620117Z-11,11,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283497,2.668823
-151620117Z-1,1,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.282978,2.668506
-151620117Z-12,12,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283519,2.668954
-151620117Z-13,13,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283727,2.669046
-151620117Z-14,14,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283702,2.669126
-151620117Z-2,2,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.282588,2.668585
-151620117Z-3,3,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.282817,2.668506
-151620117Z-4,4,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.282815,2.668599
-151620117Z-5,5,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.282616,2.668505
-151620117Z-6,6,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283060,2.668616
-151620117Z-7,7,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283185,2.668499
-151620117Z-8,8,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283199,2.668676
-151620117Z-9,9,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,CAD,45.283346,2.668680
-151620120C-11,11,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.279864,2.658287
-151620120C-1,1,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.279651,2.657748
-151620120C-13,13,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.280116,2.658006
-151620120C-15,15,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.280280,2.657653
-151620120C-2,2,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.279959,2.658889
-151620120C-3,3,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.279939,2.658062
-151620120C-4,4,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.279925,2.658619
-151620120C-5,5,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.280070,2.657942
-151620120C-6,6,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.279912,2.658481
-151620120C-7,7,Rue des Frères Jouve,15400,Riom-ès-Montagnes,CAD,45.280047,2.657812
-151620125H-10,10,Rue des Frères Rodde,15400,Riom-ès-Montagnes,CAD,45.284270,2.653383
-151620125H-2,2,Rue des Frères Rodde,15400,Riom-ès-Montagnes,CAD,45.283567,2.653071
-151620125H-8,8,Rue des Frères Rodde,15400,Riom-ès-Montagnes,CAD,45.284186,2.653346
-151620130N-1,1,Avenue de la Gare,15400,Riom-ès-Montagnes,CAD,45.284200,2.658411
-151620130N-2,2,Avenue de la Gare,15400,Riom-ès-Montagnes,CAD,45.284154,2.658643
-151620130N-4,4,Avenue de la Gare,15400,Riom-ès-Montagnes,CAD,45.284269,2.658545
-151620135U-3,3,Place de la Gare,15400,Riom-ès-Montagnes,CAD,45.284318,2.658160
-151620135U-6142,6142,Place de la Gare,15400,Riom-ès-Montagnes,CAD,45.284970,2.658677
-151620136V-1,1,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.284698,2.658939
-151620136V-22,22,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.286017,2.664786
-151620136V-22B,22BIS,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.285875,2.665214
-151620136V-2,2,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.284463,2.658662
-151620136V-24,24,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.287334,2.667563
-151620136V-25,25,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.288539,2.668899
-151620136V-26,26,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.287192,2.668050
-151620136V-3,3,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.284815,2.659255
-151620136V-3B,3BIS,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.285009,2.659503
-151620136V-4,4,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.284661,2.659077
-151620136V-5,5,Rue de la Gentiane,15400,Riom-ès-Montagnes,CAD,45.284929,2.659562
-151620137W-1,1,Allée des Geraniums,15400,Riom-ès-Montagnes,CAD,45.274012,2.659812
-151620137W-6,6,Allée des Geraniums,15400,Riom-ès-Montagnes,CAD,45.274684,2.659391
+151620115X-10,10,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279826,2.659458
+151620115X-11,11,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279041,2.660251
+151620115X-1,1,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.278126,2.660900
+151620115X-12,12,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279888,2.659373
+151620115X-13,13,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279202,2.660075
+151620115X-14,14,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279998,2.658849
+151620115X-15,15,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279286,2.659985
+151620115X-16,16,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.280031,2.658536
+151620115X-17,17,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279418,2.659851
+151620115X-19B,19BIS,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279740,2.659352
+151620115X-21,21,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279852,2.659275
+151620115X-23,23,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279847,2.659019
+151620115X-25,25,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279843,2.658879
+151620115X-27,27,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279841,2.658785
+151620115X-4,4,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279628,2.660186
+151620115X-5,5,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.278540,2.660722
+151620115X-6,6,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279606,2.659728
+151620115X-7,7,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279874,2.658751
+151620115X-8,8,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.279735,2.659563
+151620115X-9,9,Rue du Foumounard,15400,Riom-ès-Montagnes,C+O,45.278900,2.660424
+151620117Z-10,10,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283405,2.668847
+151620117Z-11,11,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283497,2.668823
+151620117Z-1,1,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.282978,2.668506
+151620117Z-12,12,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283519,2.668954
+151620117Z-13,13,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283727,2.669046
+151620117Z-14,14,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283702,2.669126
+151620117Z-2,2,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.282588,2.668585
+151620117Z-3,3,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.282817,2.668506
+151620117Z-4,4,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.282815,2.668599
+151620117Z-5,5,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.282616,2.668505
+151620117Z-6,6,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283060,2.668616
+151620117Z-7,7,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283185,2.668499
+151620117Z-8,8,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283199,2.668676
+151620117Z-9,9,Rue du Foyer Auvergnat,15400,Riom-ès-Montagnes,C+O,45.283346,2.668680
+151620120C-11,11,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.279864,2.658287
+151620120C-1,1,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.279651,2.657748
+151620120C-13,13,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.280116,2.658006
+151620120C-15,15,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.280280,2.657653
+151620120C-2,2,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.279959,2.658889
+151620120C-3,3,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.279939,2.658062
+151620120C-4,4,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.279925,2.658619
+151620120C-5,5,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.280070,2.657942
+151620120C-6,6,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.279912,2.658481
+151620120C-7,7,Rue des Frères Jouve,15400,Riom-ès-Montagnes,C+O,45.280047,2.657812
+151620125H-10,10,Rue des Frères Rodde,15400,Riom-ès-Montagnes,C+O,45.284270,2.653383
+151620125H-2,2,Rue des Frères Rodde,15400,Riom-ès-Montagnes,C+O,45.283567,2.653071
+151620125H-8,8,Rue des Frères Rodde,15400,Riom-ès-Montagnes,C+O,45.284186,2.653346
+151620130N-1,1,Avenue de la Gare,15400,Riom-ès-Montagnes,C+O,45.284200,2.658411
+151620130N-2,2,Avenue de la Gare,15400,Riom-ès-Montagnes,C+O,45.284154,2.658643
+151620130N-4,4,Avenue de la Gare,15400,Riom-ès-Montagnes,C+O,45.284269,2.658545
+151620135U-3,3,Place de la Gare,15400,Riom-ès-Montagnes,C+O,45.284318,2.658160
+151620135U-6142,6142,Place de la Gare,15400,Riom-ès-Montagnes,C+O,45.284970,2.658677
+151620136V-1,1,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.284698,2.658939
+151620136V-22,22,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.286017,2.664786
+151620136V-22B,22BIS,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.285875,2.665214
+151620136V-2,2,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.284463,2.658662
+151620136V-24,24,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.287334,2.667563
+151620136V-25,25,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.288539,2.668899
+151620136V-26,26,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.287192,2.668050
+151620136V-3,3,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.284815,2.659255
+151620136V-3B,3BIS,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.285009,2.659503
+151620136V-4,4,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.284661,2.659077
+151620136V-5,5,Rue de la Gentiane,15400,Riom-ès-Montagnes,C+O,45.284929,2.659562
+151620137W-1,1,Allée des Géraniums,15400,Riom-ès-Montagnes,C+O,45.274012,2.659812
+151620137W-6,6,Allée des Géraniums,15400,Riom-ès-Montagnes,C+O,45.274684,2.659391
 151620138X-2,2,Allée des Glycines,15400,Riom-ès-Montagnes,CAD,45.272265,2.659305
 151620140Z-1,1,Place de la Grande Fontaine,15400,Riom-ès-Montagnes,CAD,45.281325,2.659058
 151620140Z-2,2,Place de la Grande Fontaine,15400,Riom-ès-Montagnes,CAD,45.281441,2.658862
@@ -17984,9 +17984,9 @@
 151620140Z-5,5,Place de la Grande Fontaine,15400,Riom-ès-Montagnes,CAD,45.281186,2.658597
 151620140Z-7,7,Place de la Grande Fontaine,15400,Riom-ès-Montagnes,CAD,45.281200,2.658654
 151620140Z-9,9,Place de la Grande Fontaine,15400,Riom-ès-Montagnes,CAD,45.281276,2.658312
-151620142B-1,1,Rue de la Grange du Sédour,15400,Riom-ès-Montagnes,CAD,45.282942,2.668075
-151620142B-3,3,Rue de la Grange du Sédour,15400,Riom-ès-Montagnes,CAD,45.282744,2.668133
-151620142B-5,5,Rue de la Grange du Sédour,15400,Riom-ès-Montagnes,CAD,45.282569,2.668186
+151620142B-1,1,Rue de la Grange du Sédour,15400,Riom-ès-Montagnes,C+O,45.282942,2.668075
+151620142B-3,3,Rue de la Grange du Sédour,15400,Riom-ès-Montagnes,C+O,45.282744,2.668133
+151620142B-5,5,Rue de la Grange du Sédour,15400,Riom-ès-Montagnes,C+O,45.282569,2.668186
 151620145E-1,1,Place de la Halle,15400,Riom-ès-Montagnes,CAD,45.282056,2.658826
 151620145E-16,16,Place de la Halle,15400,Riom-ès-Montagnes,CAD,45.281916,2.658916
 151620145E-2,2,Place de la Halle,15400,Riom-ès-Montagnes,CAD,45.281814,2.658294
@@ -17994,24 +17994,24 @@
 151620145E-5,5,Place de la Halle,15400,Riom-ès-Montagnes,CAD,45.281702,2.658561
 151620145E-6,6,Place de la Halle,15400,Riom-ès-Montagnes,CAD,45.281826,2.659062
 151620145E-8,8,Place de la Halle,15400,Riom-ès-Montagnes,CAD,45.281773,2.658521
-151620147G-10,10,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284717,2.669973
-151620147G-11,11,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284045,2.670091
-151620147G-1,1,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.285198,2.670020
-151620147G-12,12,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.285139,2.669977
-151620147G-13,13,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.283770,2.670074
-151620147G-15,15,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.283590,2.669978
-151620147G-17,17,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.283457,2.669841
-151620147G-19,19,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.283266,2.669717
-151620147G-21,21,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.283052,2.669667
-151620147G-2,2,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.283822,2.669995
-151620147G-23,23,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.282749,2.669520
-151620147G-3,3,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284888,2.670113
-151620147G-4,4,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284045,2.669994
-151620147G-5,5,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284693,2.670062
-151620147G-6,6,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284302,2.669963
-151620147G-7,7,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284490,2.670177
-151620147G-8,8,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284528,2.669949
-151620147G-9,9,Rue du Haut Sédour,15400,Riom-ès-Montagnes,CAD,45.284306,2.670057
+151620147G-10,10,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284717,2.669973
+151620147G-11,11,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284045,2.670091
+151620147G-1,1,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.285198,2.670020
+151620147G-12,12,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.285139,2.669977
+151620147G-13,13,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.283770,2.670074
+151620147G-15,15,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.283590,2.669978
+151620147G-17,17,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.283457,2.669841
+151620147G-19,19,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.283266,2.669717
+151620147G-21,21,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.283052,2.669667
+151620147G-2,2,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.283822,2.669995
+151620147G-23,23,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.282749,2.669520
+151620147G-3,3,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284888,2.670113
+151620147G-4,4,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284045,2.669994
+151620147G-5,5,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284693,2.670062
+151620147G-6,6,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284302,2.669963
+151620147G-7,7,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284490,2.670177
+151620147G-8,8,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284528,2.669949
+151620147G-9,9,Rue du Haut Sédour,15400,Riom-ès-Montagnes,C+O,45.284306,2.670057
 151620155R-10,10,Rue du 8 Mai 1945,15400,Riom-ès-Montagnes,C+O,45.281153,2.661495
 151620155R-11,11,Rue du 8 Mai 1945,15400,Riom-ès-Montagnes,C+O,45.282546,2.661007
 151620155R-1,1,Rue du 8 Mai 1945,15400,Riom-ès-Montagnes,C+O,45.280371,2.661258
@@ -18029,130 +18029,130 @@
 151620155R-7,7,Rue du 8 Mai 1945,15400,Riom-ès-Montagnes,C+O,45.281934,2.660945
 151620155R-8,8,Rue du 8 Mai 1945,15400,Riom-ès-Montagnes,C+O,45.280976,2.661479
 151620155R-9,9,Rue du 8 Mai 1945,15400,Riom-ès-Montagnes,C+O,45.282248,2.661048
-151620160W-4,4,Impasse de l'Industrie,15400,Riom-ès-Montagnes,CAD,45.278951,2.661799
-151620160W-6138,6138,Impasse de l'Industrie,15400,Riom-ès-Montagnes,CAD,45.279355,2.661430
-151620160W-6,6,Impasse de l'Industrie,15400,Riom-ès-Montagnes,CAD,45.278835,2.661798
-151620160W-8,8,Impasse de l'Industrie,15400,Riom-ès-Montagnes,CAD,45.278702,2.661798
-151620165B-10,10,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.281373,2.662373
-151620165B-11,11,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.281428,2.662251
-151620165B-1,1,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.280468,2.662105
-151620165B-13,13,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.281706,2.662310
-151620165B-15,15,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.282673,2.662016
-151620165B-17,17,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.282765,2.662169
-151620165B-2,2,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.280164,2.662203
-151620165B-3,3,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.280714,2.662127
-151620165B-4,4,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.280449,2.662233
-151620165B-5,5,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.280876,2.662143
-151620165B-6,6,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.280789,2.662268
-151620165B-7,7,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.281045,2.662161
-151620165B-8,8,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.281221,2.662327
-151620165B-9,9,Rue Jean Ménardie,15400,Riom-ès-Montagnes,CAD,45.281269,2.662207
-151620169F-1,1,Impasse du Lt Basset,15400,Riom-ès-Montagnes,CAD,45.284194,2.651341
-151620169F-2,2,Impasse du Lt Basset,15400,Riom-ès-Montagnes,CAD,45.284529,2.650994
-151620169F-3,3,Impasse du Lt Basset,15400,Riom-ès-Montagnes,CAD,45.284111,2.651463
-151620169F-4,4,Impasse du Lt Basset,15400,Riom-ès-Montagnes,CAD,45.284299,2.651006
-151620170G-10,10,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282828,2.657301
-151620170G-11,11,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283282,2.655504
-151620170G-12,12,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282887,2.657108
-151620170G-13,13,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283367,2.654983
-151620170G-13B,13BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283367,2.655001
-151620170G-14,14,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282947,2.656908
-151620170G-14B,14BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283079,2.656883
-151620170G-15,15,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283474,2.654882
-151620170G-16,16,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283014,2.656690
-151620170G-17,17,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283528,2.654707
-151620170G-18,18,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283075,2.656489
-151620170G-19,19,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283571,2.654566
-151620170G-1B,1BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282392,2.657943
-151620170G-1T,1TER,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282466,2.657730
-151620170G-20,20,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283852,2.653973
-151620170G-22,22,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283949,2.653660
-151620170G-22B,22BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284069,2.653639
-151620170G-23,23,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283771,2.653916
-151620170G-24,24,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283999,2.653497
-151620170G-24B,24BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284101,2.653440
-151620170G-25,25,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283867,2.653603
-151620170G-28,28,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284160,2.653070
-151620170G-30,30,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284167,2.652948
-151620170G-31,31,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284011,2.652452
-151620170G-32,32,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284226,2.652759
-151620170G-33,33,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284255,2.652339
-151620170G-3,3,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282613,2.657667
-151620170G-34,34,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284302,2.652514
-151620170G-35,35,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284323,2.652123
-151620170G-36,36,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284413,2.652157
-151620170G-37,37,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284378,2.651942
-151620170G-39,39,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284448,2.651716
-151620170G-3B,3BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282547,2.657429
-151620170G-40,40,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284583,2.651607
-151620170G-41,41,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284516,2.651497
-151620170G-42,42,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284740,2.651235
-151620170G-43,43,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284162,2.651225
-151620170G-44,44,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284794,2.651030
-151620170G-44B,44BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284794,2.651048
-151620170G-45,45,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284006,2.651455
-151620170G-46,46,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285087,2.649923
-151620170G-49,49,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284260,2.651114
-151620170G-50,50,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285205,2.649436
-151620170G-51,51,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284592,2.651173
-151620170G-52,52,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285283,2.649020
-151620170G-53,53,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284684,2.650653
-151620170G-55,55,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284850,2.650340
-151620170G-5,5,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282709,2.657352
-151620170G-57,57,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284898,2.650170
-151620170G-59,59,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.284955,2.649967
-151620170G-5B,5BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282615,2.657074
-151620170G-5T,5TER,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282705,2.656933
-151620170G-6030,6030,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282466,2.657753
-151620170G-61,61,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285015,2.649753
-151620170G-63,63,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285080,2.649480
-151620170G-65,65,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285122,2.649278
-151620170G-65B,65BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285068,2.649121
-151620170G-6,6,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282590,2.658062
-151620170G-67,67,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285181,2.648948
-151620170G-75,75,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285311,2.647901
-151620170G-77,77,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.285316,2.647672
-151620170G-7,7,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282909,2.656710
-151620170G-8,8,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.282729,2.657619
-151620170G-9,9,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,CAD,45.283044,2.656272
-151620175M-10,10,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280481,2.659597
-151620175M-11,11,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280561,2.659643
-151620175M-12,12,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280409,2.659719
-151620175M-13,13,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280511,2.659707
-151620175M-14,14,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280319,2.659778
-151620175M-15,15,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280425,2.659793
-151620175M-16,16,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280195,2.660054
-151620175M-17,17,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280268,2.659946
-151620175M-18,18,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280078,2.660314
-151620175M-1B,1BIS,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280869,2.659169
-151620175M-20,20,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.279984,2.660489
-151620175M-2,2,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280773,2.659126
-151620175M-3,3,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280764,2.659268
-151620175M-5,5,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280724,2.659345
-151620175M-6,6,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280549,2.659573
-151620175M-7,7,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280689,2.659434
-151620175M-8,8,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280515,2.659560
-151620175M-9,9,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,CAD,45.280652,2.659513
-151620177P-10,10,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274889,2.660426
-151620177P-11,11,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274758,2.660070
-151620177P-12,12,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.275083,2.660313
-151620177P-14,14,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.275268,2.660422
-151620177P-16,16,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.275460,2.660529
-151620177P-18,18,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.275687,2.660518
-151620177P-20,20,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.275862,2.660466
-151620177P-22,22,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.276128,2.660428
-151620177P-2,2,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274097,2.660311
-151620177P-3,3,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.273869,2.660266
-151620177P-4,4,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274251,2.660188
-151620177P-5,5,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274303,2.660012
-151620177P-6092,6092,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274470,2.659811
-151620177P-6,6,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274494,2.660123
-151620177P-8,8,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274683,2.660156
-151620177P-9,9,Rue des Lilas,15400,Riom-ès-Montagnes,CAD,45.274582,2.659994
-151620180T-1,1,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,CAD,45.282998,2.661547
-151620180T-2,2,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,CAD,45.282418,2.661696
-151620180T-4,4,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,CAD,45.281993,2.662600
-151620180T-6,6,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,CAD,45.281969,2.662968
+151620160W-4,4,Impasse de l'Industrie,15400,Riom-ès-Montagnes,C+O,45.278951,2.661799
+151620160W-6138,6138,Impasse de l'Industrie,15400,Riom-ès-Montagnes,C+O,45.279355,2.661430
+151620160W-6,6,Impasse de l'Industrie,15400,Riom-ès-Montagnes,C+O,45.278835,2.661798
+151620160W-8,8,Impasse de l'Industrie,15400,Riom-ès-Montagnes,C+O,45.278702,2.661798
+151620165B-10,10,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.281373,2.662373
+151620165B-11,11,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.281428,2.662251
+151620165B-1,1,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.280468,2.662105
+151620165B-13,13,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.281706,2.662310
+151620165B-15,15,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.282673,2.662016
+151620165B-17,17,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.282765,2.662169
+151620165B-2,2,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.280164,2.662203
+151620165B-3,3,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.280714,2.662127
+151620165B-4,4,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.280449,2.662233
+151620165B-5,5,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.280876,2.662143
+151620165B-6,6,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.280789,2.662268
+151620165B-7,7,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.281045,2.662161
+151620165B-8,8,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.281221,2.662327
+151620165B-9,9,Rue Jean Ménardie,15400,Riom-ès-Montagnes,C+O,45.281269,2.662207
+151620169F-1,1,Impasse du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284194,2.651341
+151620169F-2,2,Impasse du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284529,2.650994
+151620169F-3,3,Impasse du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284111,2.651463
+151620169F-4,4,Impasse du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284299,2.651006
+151620170G-10,10,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282828,2.657301
+151620170G-11,11,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283282,2.655504
+151620170G-12,12,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282887,2.657108
+151620170G-13,13,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283367,2.654983
+151620170G-13B,13BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283367,2.655001
+151620170G-14,14,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282947,2.656908
+151620170G-14B,14BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283079,2.656883
+151620170G-15,15,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283474,2.654882
+151620170G-16,16,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283014,2.656690
+151620170G-17,17,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283528,2.654707
+151620170G-18,18,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283075,2.656489
+151620170G-19,19,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283571,2.654566
+151620170G-1B,1BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282392,2.657943
+151620170G-1T,1TER,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282466,2.657730
+151620170G-20,20,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283852,2.653973
+151620170G-22,22,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283949,2.653660
+151620170G-22B,22BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284069,2.653639
+151620170G-23,23,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283771,2.653916
+151620170G-24,24,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283999,2.653497
+151620170G-24B,24BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284101,2.653440
+151620170G-25,25,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283867,2.653603
+151620170G-28,28,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284160,2.653070
+151620170G-30,30,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284167,2.652948
+151620170G-31,31,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284011,2.652452
+151620170G-32,32,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284226,2.652759
+151620170G-33,33,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284255,2.652339
+151620170G-3,3,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282613,2.657667
+151620170G-34,34,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284302,2.652514
+151620170G-35,35,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284323,2.652123
+151620170G-36,36,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284413,2.652157
+151620170G-37,37,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284378,2.651942
+151620170G-39,39,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284448,2.651716
+151620170G-3B,3BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282547,2.657429
+151620170G-40,40,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284583,2.651607
+151620170G-41,41,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284516,2.651497
+151620170G-42,42,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284740,2.651235
+151620170G-43,43,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284162,2.651225
+151620170G-44,44,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284794,2.651030
+151620170G-44B,44BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284794,2.651048
+151620170G-45,45,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284006,2.651455
+151620170G-46,46,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285087,2.649923
+151620170G-49,49,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284260,2.651114
+151620170G-50,50,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285205,2.649436
+151620170G-51,51,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284592,2.651173
+151620170G-52,52,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285283,2.649020
+151620170G-53,53,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284684,2.650653
+151620170G-55,55,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284850,2.650340
+151620170G-5,5,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282709,2.657352
+151620170G-57,57,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284898,2.650170
+151620170G-59,59,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.284955,2.649967
+151620170G-5B,5BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282615,2.657074
+151620170G-5T,5TER,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282705,2.656933
+151620170G-6030,6030,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282466,2.657753
+151620170G-61,61,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285015,2.649753
+151620170G-63,63,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285080,2.649480
+151620170G-65,65,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285122,2.649278
+151620170G-65B,65BIS,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285068,2.649121
+151620170G-6,6,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282590,2.658062
+151620170G-67,67,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285181,2.648948
+151620170G-75,75,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285311,2.647901
+151620170G-77,77,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.285316,2.647672
+151620170G-7,7,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282909,2.656710
+151620170G-8,8,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.282729,2.657619
+151620170G-9,9,Rue du Lieutenant Basset,15400,Riom-ès-Montagnes,C+O,45.283044,2.656272
+151620175M-10,10,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280481,2.659597
+151620175M-11,11,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280561,2.659643
+151620175M-12,12,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280409,2.659719
+151620175M-13,13,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280511,2.659707
+151620175M-14,14,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280319,2.659778
+151620175M-15,15,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280425,2.659793
+151620175M-16,16,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280195,2.660054
+151620175M-17,17,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280268,2.659946
+151620175M-18,18,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280078,2.660314
+151620175M-1B,1BIS,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280869,2.659169
+151620175M-20,20,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.279984,2.660489
+151620175M-2,2,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280773,2.659126
+151620175M-3,3,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280764,2.659268
+151620175M-5,5,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280724,2.659345
+151620175M-6,6,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280549,2.659573
+151620175M-7,7,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280689,2.659434
+151620175M-8,8,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280515,2.659560
+151620175M-9,9,Rue du Lieutenant Cantournet,15400,Riom-ès-Montagnes,C+O,45.280652,2.659513
+151620177P-10,10,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274889,2.660426
+151620177P-11,11,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274758,2.660070
+151620177P-12,12,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.275083,2.660313
+151620177P-14,14,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.275268,2.660422
+151620177P-16,16,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.275460,2.660529
+151620177P-18,18,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.275687,2.660518
+151620177P-20,20,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.275862,2.660466
+151620177P-22,22,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.276128,2.660428
+151620177P-2,2,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274097,2.660311
+151620177P-3,3,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.273869,2.660266
+151620177P-4,4,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274251,2.660188
+151620177P-5,5,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274303,2.660012
+151620177P-6092,6092,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274470,2.659811
+151620177P-6,6,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274494,2.660123
+151620177P-8,8,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274683,2.660156
+151620177P-9,9,Rue des Lilas,15400,Riom-ès-Montagnes,C+O,45.274582,2.659994
+151620180T-1,1,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,C+O,45.282998,2.661547
+151620180T-2,2,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,C+O,45.282418,2.661696
+151620180T-4,4,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,C+O,45.281993,2.662600
+151620180T-6,6,Rue Marguerite Meynial,15400,Riom-ès-Montagnes,C+O,45.281969,2.662968
 151620182V-11,11,Avenue de Mauriac,15400,Riom-ès-Montagnes,C+O,45.284632,2.649016
 151620182V-1,1,Avenue de Mauriac,15400,Riom-ès-Montagnes,C+O,45.284126,2.650291
 151620182V-12,12,Avenue de Mauriac,15400,Riom-ès-Montagnes,C+O,45.284580,2.649504
@@ -18191,9 +18191,9 @@
 151620182V-7,7,Avenue de Mauriac,15400,Riom-ès-Montagnes,C+O,45.284464,2.649525
 151620182V-8,8,Avenue de Mauriac,15400,Riom-ès-Montagnes,C+O,45.284445,2.649840
 151620182V-9,9,Avenue de Mauriac,15400,Riom-ès-Montagnes,C+O,45.284555,2.649258
-151620185Y-1,1,Avenue Monseigneur Martrou,15400,Riom-ès-Montagnes,CAD,45.282998,2.661547
-151620185Y-5,5,Avenue Monseigneur Martrou,15400,Riom-ès-Montagnes,CAD,45.283595,2.664053
-151620185Y-7,7,Avenue Monseigneur Martrou,15400,Riom-ès-Montagnes,CAD,45.283659,2.664460
+151620185Y-1,1,Avenue Monseigneur Martrou,15400,Riom-ès-Montagnes,C+O,45.282998,2.661547
+151620185Y-5,5,Avenue Monseigneur Martrou,15400,Riom-ès-Montagnes,C+O,45.283595,2.664053
+151620185Y-7,7,Avenue Monseigneur Martrou,15400,Riom-ès-Montagnes,C+O,45.283659,2.664460
 151620190D-10,10,Place du Monument,15400,Riom-ès-Montagnes,C+O,45.283242,2.659973
 151620190D-10B,10BIS,Place du Monument,15400,Riom-ès-Montagnes,C+O,45.283317,2.660142
 151620190D-11,11,Place du Monument,15400,Riom-ès-Montagnes,C+O,45.283131,2.658800
@@ -18226,28 +18226,28 @@
 151620190D-7,7,Place du Monument,15400,Riom-ès-Montagnes,C+O,45.283000,2.658797
 151620190D-8,8,Place du Monument,15400,Riom-ès-Montagnes,C+O,45.282899,2.659795
 151620190D-9,9,Place du Monument,15400,Riom-ès-Montagnes,C+O,45.283057,2.658817
-151620195J-10,10,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284646,2.661959
-151620195J-10B,10BIS,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284442,2.662773
-151620195J-11,11,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284190,2.661356
-151620195J-12,12,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284791,2.662033
-151620195J-14,14,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284903,2.662092
-151620195J-14B,14BIS,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284741,2.662808
-151620195J-16,16,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.285122,2.662214
-151620195J-2,2,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.283389,2.661115
-151620195J-3,3,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.283521,2.661050
-151620195J-4,4,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.283586,2.661175
-151620195J-4B,4BIS,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.283841,2.661660
-151620195J-5,5,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.283571,2.660716
-151620195J-6124,6124,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.285072,2.661905
-151620195J-6,6,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284379,2.661707
-151620195J-7,7,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.283942,2.661043
-151620195J-8,8,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.284531,2.661874
-151620195J-9,9,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,CAD,45.283942,2.661056
-151620198M-1,1,Allée du Muguet,15400,Riom-ès-Montagnes,CAD,45.275428,2.657900
-151620198M-3,3,Allée du Muguet,15400,Riom-ès-Montagnes,CAD,45.275224,2.657877
-151620198M-5,5,Allée du Muguet,15400,Riom-ès-Montagnes,CAD,45.274944,2.657716
-151620198M-6095,6095,Allée du Muguet,15400,Riom-ès-Montagnes,CAD,45.275260,2.657640
-151620201R-1,1,Route de Murat,15400,Riom-ès-Montagnes,CAD,45.279811,2.665362
+151620195J-10,10,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284646,2.661959
+151620195J-10B,10BIS,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284442,2.662773
+151620195J-11,11,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284190,2.661356
+151620195J-12,12,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284791,2.662033
+151620195J-14,14,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284903,2.662092
+151620195J-14B,14BIS,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284741,2.662808
+151620195J-16,16,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.285122,2.662214
+151620195J-2,2,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.283389,2.661115
+151620195J-3,3,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.283521,2.661050
+151620195J-4,4,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.283586,2.661175
+151620195J-4B,4BIS,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.283841,2.661660
+151620195J-5,5,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.283571,2.660716
+151620195J-6124,6124,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.285072,2.661905
+151620195J-6,6,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284379,2.661707
+151620195J-7,7,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.283942,2.661043
+151620195J-8,8,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.284531,2.661874
+151620195J-9,9,Rue du Moulin de Ribier,15400,Riom-ès-Montagnes,C+O,45.283942,2.661056
+151620198M-1,1,Allée du Muguet,15400,Riom-ès-Montagnes,C+O,45.275428,2.657900
+151620198M-3,3,Allée du Muguet,15400,Riom-ès-Montagnes,C+O,45.275224,2.657877
+151620198M-5,5,Allée du Muguet,15400,Riom-ès-Montagnes,C+O,45.274944,2.657716
+151620198M-6095,6095,Allée du Muguet,15400,Riom-ès-Montagnes,C+O,45.275260,2.657640
+151620201R-1,1,Route de Murat,15400,Riom-ès-Montagnes,C+O,45.279811,2.665362
 151620205V-2,2,Impasse Nouvelle,15400,Riom-ès-Montagnes,CAD,45.283939,2.658004
 151620205V-4,4,Impasse Nouvelle,15400,Riom-ès-Montagnes,CAD,45.283970,2.658102
 151620205V-6,6,Impasse Nouvelle,15400,Riom-ès-Montagnes,CAD,45.284135,2.658087
@@ -18262,88 +18262,88 @@
 151620210A-7,7,Rue du 11 Novembre,15400,Riom-ès-Montagnes,C+O,45.281114,2.659370
 151620210A-8,8,Rue du 11 Novembre,15400,Riom-ès-Montagnes,C+O,45.281195,2.659401
 151620210A-9,9,Rue du 11 Novembre,15400,Riom-ès-Montagnes,C+O,45.281134,2.659240
-151620215F-10,10,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283779,2.667247
-151620215F-11,11,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283549,2.667601
-151620215F-1,1,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.284088,2.666735
-151620215F-12,12,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283710,2.667467
-151620215F-13,13,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283385,2.667523
-151620215F-14,14,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283489,2.667326
-151620215F-15,15,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283243,2.667456
-151620215F-16,16,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283359,2.667268
-151620215F-17,17,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283025,2.667435
-151620215F-18,18,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283205,2.667347
-151620215F-20,20,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283047,2.667342
-151620215F-22,22,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.282898,2.667360
-151620215F-2,2,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.284009,2.666516
-151620215F-3,3,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.284003,2.667005
-151620215F-4,4,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283952,2.666699
-151620215F-5,5,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283926,2.667249
-151620215F-6,6,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283894,2.666881
-151620215F-7,7,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283854,2.667480
-151620215F-8,8,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283835,2.667066
-151620215F-9,9,Rue Paul Doumer,15400,Riom-ès-Montagnes,CAD,45.283672,2.667616
-151620220L-6080,6080,Chemin de la Pièce,15400,Riom-ès-Montagnes,CAD,45.281927,2.653274
-151620220L-6081,6081,Chemin de la Pièce,15400,Riom-ès-Montagnes,CAD,45.281745,2.653133
-151620220L-6114,6114,Chemin de la Pièce,15400,Riom-ès-Montagnes,CAD,45.282289,2.654410
-151620220L-6155,6155,Chemin de la Pièce,15400,Riom-ès-Montagnes,CAD,45.281165,2.648404
-151620220L-6162,6162,Chemin de la Pièce,15400,Riom-ès-Montagnes,CAD,45.281774,2.652824
-151620220L-6164,6164,Chemin de la Pièce,15400,Riom-ès-Montagnes,CAD,45.281523,2.652879
-151620225S-10,10,Chemin de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281462,2.657709
-151620225S-13,13,Chemin de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281384,2.657696
-151620225S-3,3,Chemin de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281097,2.658480
-151620225S-4,4,Chemin de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281236,2.658535
-151620225S-5,5,Chemin de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281125,2.658384
-151620225S-6,6,Chemin de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281158,2.658441
-151620235C-11,11,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281469,2.656745
-151620235C-1,1,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281243,2.657068
-151620235C-15,15,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281544,2.656716
-151620235C-2,2,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281264,2.657371
-151620235C-3,3,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281283,2.657014
-151620235C-4,4,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281323,2.657257
-151620235C-4B,4BIS,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281452,2.657210
-151620235C-5,5,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281322,2.656960
-151620235C-6,6,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281521,2.657063
-151620235C-7,7,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281367,2.656897
-151620235C-8,8,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281539,2.656850
-151620235C-9,9,Place de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281423,2.656813
-151620240H-2,2,Rue de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281668,2.657450
-151620240H-3,3,Rue de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281603,2.657604
-151620240H-5,5,Rue de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281214,2.657766
-151620240H-7,7,Rue de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281147,2.657654
-151620245N-11,11,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.285083,2.661349
-151620245N-1,1,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284345,2.661480
-151620245N-3,3,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284428,2.661472
-151620245N-4,4,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284588,2.661547
-151620245N-5,5,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284538,2.661453
-151620245N-6,6,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284728,2.661519
-151620245N-7,7,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284678,2.661421
-151620245N-8,8,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284875,2.661488
-151620245N-9,9,Rue de la Planchoune,15400,Riom-ès-Montagnes,CAD,45.284969,2.661287
+151620215F-10,10,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283779,2.667247
+151620215F-11,11,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283549,2.667601
+151620215F-1,1,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.284088,2.666735
+151620215F-12,12,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283710,2.667467
+151620215F-13,13,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283385,2.667523
+151620215F-14,14,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283489,2.667326
+151620215F-15,15,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283243,2.667456
+151620215F-16,16,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283359,2.667268
+151620215F-17,17,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283025,2.667435
+151620215F-18,18,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283205,2.667347
+151620215F-20,20,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283047,2.667342
+151620215F-22,22,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.282898,2.667360
+151620215F-2,2,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.284009,2.666516
+151620215F-3,3,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.284003,2.667005
+151620215F-4,4,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283952,2.666699
+151620215F-5,5,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283926,2.667249
+151620215F-6,6,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283894,2.666881
+151620215F-7,7,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283854,2.667480
+151620215F-8,8,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283835,2.667066
+151620215F-9,9,Rue Paul Doumer,15400,Riom-ès-Montagnes,C+O,45.283672,2.667616
+151620220L-6080,6080,Chemin de la Pièce,15400,Riom-ès-Montagnes,C+O,45.281927,2.653274
+151620220L-6081,6081,Chemin de la Pièce,15400,Riom-ès-Montagnes,C+O,45.281745,2.653133
+151620220L-6114,6114,Chemin de la Pièce,15400,Riom-ès-Montagnes,C+O,45.282289,2.654410
+151620220L-6155,6155,Chemin de la Pièce,15400,Riom-ès-Montagnes,C+O,45.281165,2.648404
+151620220L-6162,6162,Chemin de la Pièce,15400,Riom-ès-Montagnes,C+O,45.281774,2.652824
+151620220L-6164,6164,Chemin de la Pièce,15400,Riom-ès-Montagnes,C+O,45.281523,2.652879
+151620225S-10,10,Chemin de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281462,2.657709
+151620225S-13,13,Chemin de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281384,2.657696
+151620225S-3,3,Chemin de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281097,2.658480
+151620225S-4,4,Chemin de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281236,2.658535
+151620225S-5,5,Chemin de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281125,2.658384
+151620225S-6,6,Chemin de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281158,2.658441
+151620235C-11,11,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281469,2.656745
+151620235C-1,1,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281243,2.657068
+151620235C-15,15,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281544,2.656716
+151620235C-2,2,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281264,2.657371
+151620235C-3,3,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281283,2.657014
+151620235C-4,4,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281323,2.657257
+151620235C-4B,4BIS,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281452,2.657210
+151620235C-5,5,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281322,2.656960
+151620235C-6,6,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281521,2.657063
+151620235C-7,7,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281367,2.656897
+151620235C-8,8,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281539,2.656850
+151620235C-9,9,Place de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281423,2.656813
+151620240H-2,2,Rue de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281668,2.657450
+151620240H-3,3,Rue de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281603,2.657604
+151620240H-5,5,Rue de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281214,2.657766
+151620240H-7,7,Rue de la Pireyre,15400,Riom-ès-Montagnes,C+O,45.281147,2.657654
+151620245N-11,11,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.285083,2.661349
+151620245N-1,1,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284345,2.661480
+151620245N-3,3,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284428,2.661472
+151620245N-4,4,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284588,2.661547
+151620245N-5,5,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284538,2.661453
+151620245N-6,6,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284728,2.661519
+151620245N-7,7,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284678,2.661421
+151620245N-8,8,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284875,2.661488
+151620245N-9,9,Rue de la Planchoune,15400,Riom-ès-Montagnes,C+O,45.284969,2.661287
 151620250U-4,4,Quartier du Pont,15400,Riom-ès-Montagnes,CAD,45.279685,2.662793
-151620251V-10,10,Rue du Pont Neuf,15400,Riom-ès-Montagnes,CAD,45.284824,2.664491
-151620251V-12,12,Rue du Pont Neuf,15400,Riom-ès-Montagnes,CAD,45.284979,2.664699
-151620251V-14,14,Rue du Pont Neuf,15400,Riom-ès-Montagnes,CAD,45.285151,2.664925
-151620251V-2,2,Rue du Pont Neuf,15400,Riom-ès-Montagnes,CAD,45.284000,2.664056
-151620251V-4,4,Rue du Pont Neuf,15400,Riom-ès-Montagnes,CAD,45.284192,2.664103
-151620251V-6,6,Rue du Pont Neuf,15400,Riom-ès-Montagnes,CAD,45.284394,2.664130
-151620251V-8,8,Rue du Pont Neuf,15400,Riom-ès-Montagnes,CAD,45.284670,2.664288
-151620253X-2,2,Allée des Primevères,15400,Riom-ès-Montagnes,CAD,45.271503,2.660778
-151620253X-3,3,Allée des Primevères,15400,Riom-ès-Montagnes,CAD,45.271494,2.660972
-151620253X-4,4,Allée des Primevères,15400,Riom-ès-Montagnes,CAD,45.271429,2.660765
-151620253X-6,6,Allée des Primevères,15400,Riom-ès-Montagnes,CAD,45.271421,2.660858
-151620253X-8,8,Allée des Primevères,15400,Riom-ès-Montagnes,CAD,45.271378,2.661059
-151620255Z-10,10,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.283642,2.665834
-151620255Z-1,1,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.284213,2.666567
-151620255Z-12,12,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.283804,2.665783
-151620255Z-14,14,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.283993,2.665736
-151620255Z-16,16,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.284173,2.665719
-151620255Z-18,18,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.284344,2.665707
-151620255Z-1B,1BIS,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.284389,2.666374
-151620255Z-20,20,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.284337,2.666163
-151620255Z-2,2,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.282846,2.666206
-151620255Z-4,4,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.283109,2.666078
-151620255Z-6,6,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.283259,2.666003
-151620255Z-8,8,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,CAD,45.283453,2.665912
+151620251V-10,10,Rue du Pont Neuf,15400,Riom-ès-Montagnes,C+O,45.284824,2.664491
+151620251V-12,12,Rue du Pont Neuf,15400,Riom-ès-Montagnes,C+O,45.284979,2.664699
+151620251V-14,14,Rue du Pont Neuf,15400,Riom-ès-Montagnes,C+O,45.285151,2.664925
+151620251V-2,2,Rue du Pont Neuf,15400,Riom-ès-Montagnes,C+O,45.284000,2.664056
+151620251V-4,4,Rue du Pont Neuf,15400,Riom-ès-Montagnes,C+O,45.284192,2.664103
+151620251V-6,6,Rue du Pont Neuf,15400,Riom-ès-Montagnes,C+O,45.284394,2.664130
+151620251V-8,8,Rue du Pont Neuf,15400,Riom-ès-Montagnes,C+O,45.284670,2.664288
+151620253X-2,2,Allée des Primevères,15400,Riom-ès-Montagnes,C+O,45.271503,2.660778
+151620253X-3,3,Allée des Primevères,15400,Riom-ès-Montagnes,C+O,45.271494,2.660972
+151620253X-4,4,Allée des Primevères,15400,Riom-ès-Montagnes,C+O,45.271429,2.660765
+151620253X-6,6,Allée des Primevères,15400,Riom-ès-Montagnes,C+O,45.271421,2.660858
+151620253X-8,8,Allée des Primevères,15400,Riom-ès-Montagnes,C+O,45.271378,2.661059
+151620255Z-10,10,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.283642,2.665834
+151620255Z-1,1,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.284213,2.666567
+151620255Z-12,12,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.283804,2.665783
+151620255Z-14,14,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.283993,2.665736
+151620255Z-16,16,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.284173,2.665719
+151620255Z-18,18,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.284344,2.665707
+151620255Z-1B,1BIS,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.284389,2.666374
+151620255Z-20,20,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.284337,2.666163
+151620255Z-2,2,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.282846,2.666206
+151620255Z-4,4,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.283109,2.666078
+151620255Z-6,6,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.283259,2.666003
+151620255Z-8,8,Rue du Professeur Mondor,15400,Riom-ès-Montagnes,C+O,45.283453,2.665912
 151620260E-10,10,Rue des Quatre Frères Laurent,15400,Riom-ès-Montagnes,C+O,45.279706,2.660697
 151620260E-11,11,Rue des Quatre Frères Laurent,15400,Riom-ès-Montagnes,C+O,45.279550,2.660617
 151620260E-12,12,Rue des Quatre Frères Laurent,15400,Riom-ès-Montagnes,C+O,45.279561,2.660764
@@ -18442,166 +18442,166 @@
 151620265K-9,9,Avenue de la République,15400,Riom-ès-Montagnes,C+O,45.281580,2.658160
 151620268N-6113,6113,Chemin de Rignac,15400,Riom-ès-Montagnes,CAD,45.283257,2.647688
 151620268N-6173,6173,Chemin de Rignac,15400,Riom-ès-Montagnes,CAD,45.283425,2.647254
-151620270R-1,1,Place La Riomoise,15400,Riom-ès-Montagnes,CAD,45.284544,2.659602
-151620270R-2,2,Place La Riomoise,15400,Riom-ès-Montagnes,CAD,45.284492,2.660058
-151620270R-3,3,Place La Riomoise,15400,Riom-ès-Montagnes,CAD,45.284609,2.659724
-151620270R-4,4,Place La Riomoise,15400,Riom-ès-Montagnes,CAD,45.284603,2.660033
-151620270R-5,5,Place La Riomoise,15400,Riom-ès-Montagnes,CAD,45.284747,2.659969
-151620270R-6,6,Place La Riomoise,15400,Riom-ès-Montagnes,CAD,45.284725,2.660073
-151620272T-10,10,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273823,2.659020
-151620272T-1,1,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273057,2.658659
-151620272T-12,12,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.274023,2.659169
-151620272T-2,2,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273155,2.659048
-151620272T-4,4,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273280,2.658991
-151620272T-6096,6096,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273473,2.658726
-151620272T-6182,6182,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273632,2.658687
-151620272T-6,6,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273450,2.658917
-151620272T-8,8,Allée des Roses,15400,Riom-ès-Montagnes,CAD,45.273634,2.658949
-151620275W-1,1,Rue de la Sablière,15400,Riom-ès-Montagnes,CAD,45.284620,2.650486
-151620275W-2,2,Rue de la Sablière,15400,Riom-ès-Montagnes,CAD,45.284235,2.650626
-151620285G-1,1,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.283121,2.657669
-151620285G-12,12,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.283725,2.657959
-151620285G-14,14,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.284077,2.657911
-151620285G-3,3,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.283688,2.657859
-151620285G-4,4,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.282840,2.658172
-151620285G-5,5,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.283918,2.657825
-151620285G-6,6,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.283034,2.657960
-151620285G-7,7,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.284008,2.657812
-151620285G-8,8,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.283288,2.657978
-151620285G-9,9,Rue Saint-Georges,15400,Riom-ès-Montagnes,CAD,45.284139,2.657792
-151620290M-1,1,Rue Saint-Michel,15400,Riom-ès-Montagnes,CAD,45.280520,2.659133
-151620290M-2,2,Rue Saint-Michel,15400,Riom-ès-Montagnes,CAD,45.280566,2.659116
-151620290M-3,3,Rue Saint-Michel,15400,Riom-ès-Montagnes,CAD,45.280550,2.658911
-151620290M-4,4,Rue Saint-Michel,15400,Riom-ès-Montagnes,CAD,45.280629,2.658809
-151620290M-5,5,Rue Saint-Michel,15400,Riom-ès-Montagnes,CAD,45.280569,2.658794
-151620290M-6,6,Rue Saint-Michel,15400,Riom-ès-Montagnes,CAD,45.280723,2.658574
-151620290M-7,7,Rue Saint-Michel,15400,Riom-ès-Montagnes,CAD,45.280635,2.658636
-151620295T-11,11,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284788,2.665292
-151620295T-1,1,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.283918,2.664959
-151620295T-13,13,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284889,2.665475
-151620295T-15,15,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.285892,2.666275
-151620295T-2,2,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.283871,2.665112
-151620295T-3,3,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284079,2.664989
-151620295T-4,4,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284037,2.665137
-151620295T-5,5,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284363,2.665036
-151620295T-6033,6033,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.285122,2.666139
-151620295T-6035,6035,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284661,2.665675
-151620295T-6054,6054,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.285504,2.666400
-151620295T-6151,6151,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.285120,2.667120
-151620295T-6,6,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284176,2.665159
-151620295T-7,7,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284469,2.665055
-151620295T-8,8,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284317,2.665183
-151620295T-9,9,Rue de la Santoire,15400,Riom-ès-Montagnes,CAD,45.284609,2.665124
-151620300Y-10,10,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.278298,2.658958
-151620300Y-11,11,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.278955,2.659078
-151620300Y-1,1,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.279777,2.658474
-151620300Y-12,12,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.277997,2.658918
-151620300Y-13,13,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.278594,2.659217
-151620300Y-14,14,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.277741,2.658793
-151620300Y-15,15,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.278034,2.658986
-151620300Y-16,16,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.277505,2.658027
-151620300Y-17,17,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.277555,2.658684
-151620300Y-19,19,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.279171,2.659129
-151620300Y-20,20,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.277895,2.657100
-151620300Y-2,2,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.279735,2.658405
-151620300Y-3,3,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.279745,2.658686
-151620300Y-4,4,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.279281,2.658841
-151620300Y-6,6,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.278875,2.659024
-151620300Y-8,8,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.278667,2.659021
-151620300Y-8B,8BIS,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.278573,2.658585
-151620300Y-9,9,Rue du Sard,15400,Riom-ès-Montagnes,CAD,45.279161,2.658998
-151620302A-10,10,Rue de la Sarlingue,15400,Riom-ès-Montagnes,CAD,45.285982,2.669518
-151620302A-12,12,Rue de la Sarlingue,15400,Riom-ès-Montagnes,CAD,45.286153,2.669580
-151620302A-2,2,Rue de la Sarlingue,15400,Riom-ès-Montagnes,CAD,45.285053,2.669150
-151620302A-4,4,Rue de la Sarlingue,15400,Riom-ès-Montagnes,CAD,45.285327,2.669261
-151620302A-6,6,Rue de la Sarlingue,15400,Riom-ès-Montagnes,CAD,45.285548,2.669350
-151620302A-8,8,Rue de la Sarlingue,15400,Riom-ès-Montagnes,CAD,45.285754,2.669435
-151620306E-10,10,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.282590,2.665074
-151620306E-11,11,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.282359,2.665118
-151620306E-1,1,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.283242,2.665309
-151620306E-12,12,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.282380,2.665027
-151620306E-2,2,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.283340,2.665238
-151620306E-3,3,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.283044,2.665268
-151620306E-4,4,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.283182,2.665204
-151620306E-5,5,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.282880,2.665233
-151620306E-6109,6109,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.283469,2.665115
-151620306E-6,6,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.283037,2.665172
-151620306E-7,7,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.282751,2.665204
-151620306E-8,8,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.282829,2.665012
-151620306E-9,9,Impasse du Sédour,15400,Riom-ès-Montagnes,CAD,45.282574,2.665165
-151620312L-11,11,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.274018,2.661424
-151620312L-1,1,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273968,2.660553
-151620312L-13,13,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273868,2.661358
-151620312L-15,15,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273728,2.661309
-151620312L-17,17,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273624,2.661418
-151620312L-19,19,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273446,2.661380
-151620312L-2,2,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273899,2.660718
-151620312L-3,3,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.274193,2.660752
-151620312L-4,4,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273974,2.661136
-151620312L-5,5,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.274096,2.660928
-151620312L-6,6,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273572,2.660955
-151620312L-7,7,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.274247,2.661092
-151620312L-8,8,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.273437,2.661063
-151620312L-9,9,Allée des Tulipes,15400,Riom-ès-Montagnes,CAD,45.274117,2.661398
-151620315P-10,10,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.281967,2.662193
-151620315P-11,11,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.282103,2.661897
-151620315P-1,1,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.281673,2.660315
-151620315P-12,12,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.282002,2.662073
-151620315P-13,13,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.282155,2.662108
-151620315P-2,2,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.281581,2.660334
-151620315P-6,6,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.281768,2.661033
-151620315P-8,8,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.281733,2.661938
-151620315P-9,9,Rue de la Véronne,15400,Riom-ès-Montagnes,CAD,45.282009,2.661511
-151620320V-1,1,Allée des Violettes,15400,Riom-ès-Montagnes,CAD,45.276562,2.658580
-151620320V-2,2,Allée des Violettes,15400,Riom-ès-Montagnes,CAD,45.276549,2.658674
-151620320V-3,3,Allée des Violettes,15400,Riom-ès-Montagnes,CAD,45.276918,2.659268
-151620320V-4,4,Allée des Violettes,15400,Riom-ès-Montagnes,CAD,45.276471,2.659037
-151620320V-5,5,Allée des Violettes,15400,Riom-ès-Montagnes,CAD,45.276402,2.659167
-151620321W-10,10,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285309,2.661952
-151620321W-11,11,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285289,2.661263
-151620321W-12,12,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285416,2.662657
-151620321W-13,13,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285485,2.661558
-151620321W-14,14,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285539,2.663262
-151620321W-16,16,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285698,2.663785
-151620321W-17,17,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285485,2.662620
-151620321W-18,18,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285816,2.664154
-151620321W-19,19,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285656,2.663294
-151620321W-19B,19BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285796,2.663657
-151620321W-20,20,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285920,2.664396
-151620321W-21,21,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285953,2.663910
-151620321W-21B,21BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.286215,2.663925
-151620321W-21T,21TER,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.286467,2.664311
-151620321W-22,22,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.286187,2.664684
-151620321W-22B,22BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285797,2.665014
-151620321W-23,23,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.286021,2.664201
-151620321W-6,6,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285078,2.660671
-151620321W-7B,7BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285331,2.660544
-151620321W-8,8,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285057,2.660910
-151620321W-8B,8BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285110,2.661678
-151620321W-8T,8TER,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285249,2.661816
-151620321W-9,9,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,CAD,45.285235,2.660881
-15162A003V-10,10,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.283052,2.662526
-15162A003V-11,11,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.283058,2.662377
-15162A003V-1,1,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282212,2.662949
-15162A003V-12,12,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282815,2.662317
-15162A003V-12B,12BIS,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282713,2.662426
-15162A003V-14,14,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282484,2.662340
-15162A003V-15,15,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282276,2.662472
-15162A003V-16,16,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282202,2.662666
-15162A003V-17,17,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282338,2.662971
-15162A003V-18,18,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282506,2.662926
-15162A003V-19,19,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282592,2.663079
-15162A003V-20,20,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282862,2.662958
-15162A003V-21,21,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282914,2.662819
-15162A003V-22,22,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282972,2.662667
-15162A003V-2,2,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282355,2.663056
-15162A003V-3,3,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282473,2.663144
-15162A003V-4,4,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282580,2.663279
-15162A003V-5,5,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282651,2.663258
-15162A003V-6,6,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282798,2.663116
-15162A003V-7,7,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.282954,2.663043
-15162A003V-8,8,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.283011,2.662898
-15162A003V-9,9,Cité de l'Abbaye,15400,Riom-ès-Montagnes,CAD,45.283080,2.662721
+151620270R-1,1,Place La Riomoise,15400,Riom-ès-Montagnes,C+O,45.284544,2.659602
+151620270R-2,2,Place La Riomoise,15400,Riom-ès-Montagnes,C+O,45.284492,2.660058
+151620270R-3,3,Place La Riomoise,15400,Riom-ès-Montagnes,C+O,45.284609,2.659724
+151620270R-4,4,Place La Riomoise,15400,Riom-ès-Montagnes,C+O,45.284603,2.660033
+151620270R-5,5,Place La Riomoise,15400,Riom-ès-Montagnes,C+O,45.284747,2.659969
+151620270R-6,6,Place La Riomoise,15400,Riom-ès-Montagnes,C+O,45.284725,2.660073
+151620272T-10,10,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273823,2.659020
+151620272T-1,1,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273057,2.658659
+151620272T-12,12,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.274023,2.659169
+151620272T-2,2,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273155,2.659048
+151620272T-4,4,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273280,2.658991
+151620272T-6096,6096,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273473,2.658726
+151620272T-6182,6182,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273632,2.658687
+151620272T-6,6,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273450,2.658917
+151620272T-8,8,Allée des Roses,15400,Riom-ès-Montagnes,C+O,45.273634,2.658949
+151620275W-1,1,Rue de la Sablière,15400,Riom-ès-Montagnes,C+O,45.284620,2.650486
+151620275W-2,2,Rue de la Sablière,15400,Riom-ès-Montagnes,C+O,45.284235,2.650626
+151620285G-1,1,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.283121,2.657669
+151620285G-12,12,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.283725,2.657959
+151620285G-14,14,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.284077,2.657911
+151620285G-3,3,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.283688,2.657859
+151620285G-4,4,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.282840,2.658172
+151620285G-5,5,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.283918,2.657825
+151620285G-6,6,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.283034,2.657960
+151620285G-7,7,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.284008,2.657812
+151620285G-8,8,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.283288,2.657978
+151620285G-9,9,Rue Saint-Georges,15400,Riom-ès-Montagnes,C+O,45.284139,2.657792
+151620290M-1,1,Rue Saint-Michel,15400,Riom-ès-Montagnes,C+O,45.280520,2.659133
+151620290M-2,2,Rue Saint-Michel,15400,Riom-ès-Montagnes,C+O,45.280566,2.659116
+151620290M-3,3,Rue Saint-Michel,15400,Riom-ès-Montagnes,C+O,45.280550,2.658911
+151620290M-4,4,Rue Saint-Michel,15400,Riom-ès-Montagnes,C+O,45.280629,2.658809
+151620290M-5,5,Rue Saint-Michel,15400,Riom-ès-Montagnes,C+O,45.280569,2.658794
+151620290M-6,6,Rue Saint-Michel,15400,Riom-ès-Montagnes,C+O,45.280723,2.658574
+151620290M-7,7,Rue Saint-Michel,15400,Riom-ès-Montagnes,C+O,45.280635,2.658636
+151620295T-11,11,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284788,2.665292
+151620295T-1,1,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.283918,2.664959
+151620295T-13,13,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284889,2.665475
+151620295T-15,15,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.285892,2.666275
+151620295T-2,2,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.283871,2.665112
+151620295T-3,3,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284079,2.664989
+151620295T-4,4,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284037,2.665137
+151620295T-5,5,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284363,2.665036
+151620295T-6033,6033,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.285122,2.666139
+151620295T-6035,6035,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284661,2.665675
+151620295T-6054,6054,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.285504,2.666400
+151620295T-6151,6151,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.285120,2.667120
+151620295T-6,6,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284176,2.665159
+151620295T-7,7,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284469,2.665055
+151620295T-8,8,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284317,2.665183
+151620295T-9,9,Rue de la Santoire,15400,Riom-ès-Montagnes,C+O,45.284609,2.665124
+151620300Y-10,10,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.278298,2.658958
+151620300Y-11,11,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.278955,2.659078
+151620300Y-1,1,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.279777,2.658474
+151620300Y-12,12,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.277997,2.658918
+151620300Y-13,13,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.278594,2.659217
+151620300Y-14,14,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.277741,2.658793
+151620300Y-15,15,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.278034,2.658986
+151620300Y-16,16,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.277505,2.658027
+151620300Y-17,17,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.277555,2.658684
+151620300Y-19,19,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.279171,2.659129
+151620300Y-20,20,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.277895,2.657100
+151620300Y-2,2,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.279735,2.658405
+151620300Y-3,3,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.279745,2.658686
+151620300Y-4,4,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.279281,2.658841
+151620300Y-6,6,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.278875,2.659024
+151620300Y-8,8,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.278667,2.659021
+151620300Y-8B,8BIS,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.278573,2.658585
+151620300Y-9,9,Rue du Sard,15400,Riom-ès-Montagnes,C+O,45.279161,2.658998
+151620302A-10,10,Rue de la Sarlingue,15400,Riom-ès-Montagnes,C+O,45.285982,2.669518
+151620302A-12,12,Rue de la Sarlingue,15400,Riom-ès-Montagnes,C+O,45.286153,2.669580
+151620302A-2,2,Rue de la Sarlingue,15400,Riom-ès-Montagnes,C+O,45.285053,2.669150
+151620302A-4,4,Rue de la Sarlingue,15400,Riom-ès-Montagnes,C+O,45.285327,2.669261
+151620302A-6,6,Rue de la Sarlingue,15400,Riom-ès-Montagnes,C+O,45.285548,2.669350
+151620302A-8,8,Rue de la Sarlingue,15400,Riom-ès-Montagnes,C+O,45.285754,2.669435
+151620306E-10,10,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.282590,2.665074
+151620306E-11,11,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.282359,2.665118
+151620306E-1,1,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.283242,2.665309
+151620306E-12,12,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.282380,2.665027
+151620306E-2,2,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.283340,2.665238
+151620306E-3,3,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.283044,2.665268
+151620306E-4,4,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.283182,2.665204
+151620306E-5,5,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.282880,2.665233
+151620306E-6109,6109,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.283469,2.665115
+151620306E-6,6,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.283037,2.665172
+151620306E-7,7,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.282751,2.665204
+151620306E-8,8,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.282829,2.665012
+151620306E-9,9,Impasse du Sédour,15400,Riom-ès-Montagnes,C+O,45.282574,2.665165
+151620312L-11,11,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.274018,2.661424
+151620312L-1,1,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273968,2.660553
+151620312L-13,13,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273868,2.661358
+151620312L-15,15,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273728,2.661309
+151620312L-17,17,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273624,2.661418
+151620312L-19,19,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273446,2.661380
+151620312L-2,2,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273899,2.660718
+151620312L-3,3,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.274193,2.660752
+151620312L-4,4,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273974,2.661136
+151620312L-5,5,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.274096,2.660928
+151620312L-6,6,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273572,2.660955
+151620312L-7,7,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.274247,2.661092
+151620312L-8,8,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.273437,2.661063
+151620312L-9,9,Allée des Tulipes,15400,Riom-ès-Montagnes,C+O,45.274117,2.661398
+151620315P-10,10,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.281967,2.662193
+151620315P-11,11,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.282103,2.661897
+151620315P-1,1,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.281673,2.660315
+151620315P-12,12,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.282002,2.662073
+151620315P-13,13,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.282155,2.662108
+151620315P-2,2,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.281581,2.660334
+151620315P-6,6,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.281768,2.661033
+151620315P-8,8,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.281733,2.661938
+151620315P-9,9,Rue de la Véronne,15400,Riom-ès-Montagnes,C+O,45.282009,2.661511
+151620320V-1,1,Allée des Violettes,15400,Riom-ès-Montagnes,C+O,45.276562,2.658580
+151620320V-2,2,Allée des Violettes,15400,Riom-ès-Montagnes,C+O,45.276549,2.658674
+151620320V-3,3,Allée des Violettes,15400,Riom-ès-Montagnes,C+O,45.276918,2.659268
+151620320V-4,4,Allée des Violettes,15400,Riom-ès-Montagnes,C+O,45.276471,2.659037
+151620320V-5,5,Allée des Violettes,15400,Riom-ès-Montagnes,C+O,45.276402,2.659167
+151620321W-10,10,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285309,2.661952
+151620321W-11,11,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285289,2.661263
+151620321W-12,12,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285416,2.662657
+151620321W-13,13,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285485,2.661558
+151620321W-14,14,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285539,2.663262
+151620321W-16,16,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285698,2.663785
+151620321W-17,17,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285485,2.662620
+151620321W-18,18,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285816,2.664154
+151620321W-19,19,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285656,2.663294
+151620321W-19B,19BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285796,2.663657
+151620321W-20,20,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285920,2.664396
+151620321W-21,21,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285953,2.663910
+151620321W-21B,21BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.286215,2.663925
+151620321W-21T,21TER,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.286467,2.664311
+151620321W-22,22,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.286187,2.664684
+151620321W-22B,22BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285797,2.665014
+151620321W-23,23,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.286021,2.664201
+151620321W-6,6,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285078,2.660671
+151620321W-7B,7BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285331,2.660544
+151620321W-8,8,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285057,2.660910
+151620321W-8B,8BIS,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285110,2.661678
+151620321W-8T,8TER,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285249,2.661816
+151620321W-9,9,Boulevard des Sarrazins,15400,Riom-ès-Montagnes,C+O,45.285235,2.660881
+15162A003V-10,10,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.283052,2.662526
+15162A003V-11,11,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.283058,2.662377
+15162A003V-1,1,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282212,2.662949
+15162A003V-12,12,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282815,2.662317
+15162A003V-12B,12BIS,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282713,2.662426
+15162A003V-14,14,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282484,2.662340
+15162A003V-15,15,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282276,2.662472
+15162A003V-16,16,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282202,2.662666
+15162A003V-17,17,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282338,2.662971
+15162A003V-18,18,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282506,2.662926
+15162A003V-19,19,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282592,2.663079
+15162A003V-20,20,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282862,2.662958
+15162A003V-21,21,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282914,2.662819
+15162A003V-22,22,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282972,2.662667
+15162A003V-2,2,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282355,2.663056
+15162A003V-3,3,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282473,2.663144
+15162A003V-4,4,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282580,2.663279
+15162A003V-5,5,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282651,2.663258
+15162A003V-6,6,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282798,2.663116
+15162A003V-7,7,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.282954,2.663043
+15162A003V-8,8,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.283011,2.662898
+15162A003V-9,9,Cité de l'Abbaye,15400,Riom-ès-Montagnes,C+O,45.283080,2.662721
 15162A020N-10,10,Cité de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281111,2.657895
 15162A020N-1,1,Cité de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.280807,2.658236
 15162A020N-12,12,Cité de la Pireyre,15400,Riom-ès-Montagnes,CAD,45.281074,2.657822
