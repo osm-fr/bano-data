@@ -14,8 +14,8 @@
 050060004M-6,6,Rue des Aiguillons,05120,L'Argentière-la-Bessée,C+O,44.798294,6.565067
 050060004M-8,8,Rue des Aiguillons,05120,L'Argentière-la-Bessée,C+O,44.797926,6.564937
 050060004M-9,9,Rue des Aiguillons,05120,L'Argentière-la-Bessée,C+O,44.797981,6.565617
-050060007R-7,7,Rue des Anfours,05120,L'Argentière-la-Bessée,CAD,44.795464,6.562221
-050060007R-7B,7BIS,Rue des Anfours,05120,L'Argentière-la-Bessée,CAD,44.795745,6.561883
+050060007R-7,7,Rue des Anfours,05120,L'Argentière-la-Bessée,C+O,44.795464,6.562221
+050060007R-7B,7BIS,Rue des Anfours,05120,L'Argentière-la-Bessée,C+O,44.795745,6.561883
 050060011V-1,1,Rue de l'Ascension,05120,L'Argentière-la-Bessée,C+O,44.796561,6.563221
 050060011V-12,12,Rue de l'Ascension,05120,L'Argentière-la-Bessée,C+O,44.795309,6.563646
 050060011V-13,13,Rue de l'Ascension,05120,L'Argentière-la-Bessée,C+O,44.795200,6.564027
@@ -113,16 +113,16 @@
 050060033U-12B,12BIS,Rue des Collets,05120,L'Argentière-la-Bessée,C+O,44.795879,6.555050
 050060036X-5,5,Rue du Coucardier,05120,L'Argentière-la-Bessée,C+O,44.797091,6.564114
 050060036X-7,7,Rue du Coucardier,05120,L'Argentière-la-Bessée,C+O,44.797341,6.564390
-050060044F-1,1,Rue des Écoles,05120,L'Argentière-la-Bessée,CAD,44.794660,6.560310
-050060044F-3,3,Rue des Écoles,05120,L'Argentière-la-Bessée,CAD,44.794599,6.560115
-050060048K-10,10,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786231,6.550515
-050060048K-11,11,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786564,6.550307
-050060048K-12,12,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786305,6.550426
-050060048K-14,14,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786443,6.550488
-050060048K-16,16,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786485,6.550630
-050060048K-5,5,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786291,6.550258
-050060048K-7,7,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786405,6.550203
-050060048K-8,8,Rue de l'Église,05120,L'Argentière-la-Bessée,CAD,44.786082,6.550389
+050060044F-1,1,Rue des Écoles,05120,L'Argentière-la-Bessée,C+O,44.794660,6.560310
+050060044F-3,3,Rue des Écoles,05120,L'Argentière-la-Bessée,C+O,44.794599,6.560115
+050060048K-10,10,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786231,6.550515
+050060048K-11,11,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786564,6.550307
+050060048K-12,12,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786305,6.550426
+050060048K-14,14,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786443,6.550488
+050060048K-16,16,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786485,6.550630
+050060048K-5,5,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786291,6.550258
+050060048K-7,7,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786405,6.550203
+050060048K-8,8,Rue de l'Église,05120,L'Argentière-la-Bessée,C+O,44.786082,6.550389
 050060050M-6,6,Rue des Espagnols,05120,L'Argentière-la-Bessée,CAD,44.777220,6.555154
 050060050M-8,8,Rue des Espagnols,05120,L'Argentière-la-Bessée,CAD,44.777109,6.555151
 050060054S-16,16,Chemin des Fonzes,05120,L'Argentière-la-Bessée,C+O,44.786075,6.552493
@@ -154,33 +154,33 @@
 050060066E-6,6,Rue du Génépi,05120,L'Argentière-la-Bessée,C+O,44.793692,6.557660
 050060066E-7,7,Rue du Génépi,05120,L'Argentière-la-Bessée,C+O,44.794330,6.557939
 050060066E-8,8,Rue du Génépi,05120,L'Argentière-la-Bessée,C+O,44.793564,6.557703
-050060070J-10,10,Rue des Giraudes,05120,L'Argentière-la-Bessée,CAD,44.794568,6.561475
-050060070J-1,1,Rue des Giraudes,05120,L'Argentière-la-Bessée,CAD,44.794533,6.561675
-050060070J-12,12,Rue des Giraudes,05120,L'Argentière-la-Bessée,CAD,44.794536,6.561406
-050060070J-2,2,Rue des Giraudes,05120,L'Argentière-la-Bessée,CAD,44.794410,6.561811
-050060070J-5,5,Rue des Giraudes,05120,L'Argentière-la-Bessée,CAD,44.794568,6.561581
-050060070J-9,9,Rue des Giraudes,05120,L'Argentière-la-Bessée,CAD,44.794532,6.561300
-050060072L-17,17,Rue du Gourand,05120,L'Argentière-la-Bessée,CAD,44.789561,6.555447
-050060072L-23,23,Rue du Gourand,05120,L'Argentière-la-Bessée,CAD,44.790835,6.555857
-050060072L-7,7,Rue du Gourand,05120,L'Argentière-la-Bessée,CAD,44.788421,6.555013
-050060074N-40,40,Chemin des Grands Sagnes,05120,L'Argentière-la-Bessée,CAD,44.787581,6.548777
-050060075P-11,11,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.780940,6.556407
-050060075P-11A,11A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.780726,6.556588
-050060075P-1,1,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781380,6.556960
-050060075P-13,13,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781839,6.556721
-050060075P-1A,1A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781190,6.557010
-050060075P-2,2,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781500,6.556586
-050060075P-3,3,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781350,6.556848
-050060075P-3A,3A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781188,6.556975
-050060075P-4,4,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781539,6.556714
-050060075P-5,5,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781096,6.556884
-050060075P-5A,5A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.780706,6.556920
-050060075P-6,6,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781244,6.556586
-050060075P-6A,6A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.781398,6.556533
-050060075P-7,7,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.780868,6.556775
-050060075P-7A,7A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.780701,6.556873
-050060075P-9,9,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.780973,6.556544
-050060075P-9A,9A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,CAD,44.780733,6.556628
+050060070J-10,10,Rue des Giraudes,05120,L'Argentière-la-Bessée,C+O,44.794568,6.561475
+050060070J-1,1,Rue des Giraudes,05120,L'Argentière-la-Bessée,C+O,44.794533,6.561675
+050060070J-12,12,Rue des Giraudes,05120,L'Argentière-la-Bessée,C+O,44.794536,6.561406
+050060070J-2,2,Rue des Giraudes,05120,L'Argentière-la-Bessée,C+O,44.794410,6.561811
+050060070J-5,5,Rue des Giraudes,05120,L'Argentière-la-Bessée,C+O,44.794568,6.561581
+050060070J-9,9,Rue des Giraudes,05120,L'Argentière-la-Bessée,C+O,44.794532,6.561300
+050060072L-17,17,Rue du Gourand,05120,L'Argentière-la-Bessée,C+O,44.789561,6.555447
+050060072L-23,23,Rue du Gourand,05120,L'Argentière-la-Bessée,C+O,44.790835,6.555857
+050060072L-7,7,Rue du Gourand,05120,L'Argentière-la-Bessée,C+O,44.788421,6.555013
+050060074N-40,40,Chemin des Grands Sagnes,05120,L'Argentière-la-Bessée,C+O,44.787581,6.548777
+050060075P-11,11,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.780940,6.556407
+050060075P-11A,11A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.780726,6.556588
+050060075P-1,1,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781380,6.556960
+050060075P-13,13,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781839,6.556721
+050060075P-1A,1A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781190,6.557010
+050060075P-2,2,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781500,6.556586
+050060075P-3,3,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781350,6.556848
+050060075P-3A,3A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781188,6.556975
+050060075P-4,4,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781539,6.556714
+050060075P-5,5,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781096,6.556884
+050060075P-5A,5A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.780706,6.556920
+050060075P-6,6,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781244,6.556586
+050060075P-6A,6A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.781398,6.556533
+050060075P-7,7,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.780868,6.556775
+050060075P-7A,7A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.780701,6.556873
+050060075P-9,9,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.780973,6.556544
+050060075P-9A,9A,Rue du Granit de Pelvoux,05120,L'Argentière-la-Bessée,C+O,44.780733,6.556628
 050060077S-10,10,Rue de l'Hort la Cour,05120,L'Argentière-la-Bessée,C+O,44.785086,6.548081
 050060077S-13,13,Rue de l'Hort la Cour,05120,L'Argentière-la-Bessée,C+O,44.784981,6.547970
 050060077S-15,15,Rue de l'Hort la Cour,05120,L'Argentière-la-Bessée,C+O,44.784925,6.547733
@@ -224,18 +224,18 @@
 050060086B-5,5,Rue du Lys des Alpes,05120,L'Argentière-la-Bessée,C+O,44.793246,6.557734
 050060086B-6,6,Rue du Lys des Alpes,05120,L'Argentière-la-Bessée,C+O,44.793431,6.557686
 050060086B-8,8,Rue du Lys des Alpes,05120,L'Argentière-la-Bessée,C+O,44.793427,6.557603
-050060089E-11,11,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.796088,6.561678
-050060089E-13,13,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.796220,6.561440
-050060089E-15,15,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.796172,6.561618
-050060089E-3,3,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.795475,6.561198
-050060089E-5,5,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.795939,6.560793
-050060089E-7,7,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.795636,6.561265
-050060089E-8,8,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.796144,6.562197
-050060089E-9,9,Rue des Méalhans,05120,L'Argentière-la-Bessée,CAD,44.795739,6.561374
-050060090F-2,2,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,CAD,44.780333,6.554153
-050060090F-4,4,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,CAD,44.780322,6.554250
-050060090F-6,6,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,CAD,44.780311,6.554348
-050060090F-8,8,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,CAD,44.780296,6.554488
+050060089E-11,11,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.796088,6.561678
+050060089E-13,13,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.796220,6.561440
+050060089E-15,15,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.796172,6.561618
+050060089E-3,3,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.795475,6.561198
+050060089E-5,5,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.795939,6.560793
+050060089E-7,7,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.795636,6.561265
+050060089E-8,8,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.796144,6.562197
+050060089E-9,9,Rue des Méalhans,05120,L'Argentière-la-Bessée,C+O,44.795739,6.561374
+050060090F-2,2,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,C+O,44.780333,6.554153
+050060090F-4,4,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,C+O,44.780322,6.554250
+050060090F-6,6,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,C+O,44.780311,6.554348
+050060090F-8,8,Rue des Mines d'Argent,05120,L'Argentière-la-Bessée,C+O,44.780296,6.554488
 050060091G-13,13,Rue du Montbrison,05120,L'Argentière-la-Bessée,C+O,44.795931,6.556819
 050060091G-14,14,Rue du Montbrison,05120,L'Argentière-la-Bessée,C+O,44.796205,6.557748
 050060091G-22,22,Rue du Montbrison,05120,L'Argentière-la-Bessée,C+O,44.796778,6.557531
@@ -261,50 +261,50 @@
 050060100S-39,39,Rue du Plan d'Ergue,05120,L'Argentière-la-Bessée,C+O,44.799138,6.556641
 050060100S-6,6,Rue du Plan d'Ergue,05120,L'Argentière-la-Bessée,C+O,44.797637,6.558049
 050060100S-9,9,Rue du Plan d'Ergue,05120,L'Argentière-la-Bessée,C+O,44.797905,6.556631
-050060104W-11,11,Rue de Portin,05120,L'Argentière-la-Bessée,CAD,44.783713,6.547546
-050060104W-13,13,Rue de Portin,05120,L'Argentière-la-Bessée,CAD,44.784066,6.547254
-050060104W-19,19,Rue de Portin,05120,L'Argentière-la-Bessée,CAD,44.784492,6.548439
-050060104W-4,4,Rue de Portin,05120,L'Argentière-la-Bessée,CAD,44.783801,6.549120
-050060104W-7,7,Rue de Portin,05120,L'Argentière-la-Bessée,CAD,44.783519,6.548191
-050060108A-11,11,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.782076,6.556802
-050060108A-1,1,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.782324,6.557157
-050060108A-13,13,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.781216,6.556503
-050060108A-13A,13A,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.781379,6.556496
-050060108A-18,18,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.784849,6.556136
-050060108A-20,20,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.784701,6.556384
-050060108A-21,21,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780537,6.556741
-050060108A-2,2,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.786785,6.555549
-050060108A-24,24,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.782956,6.556623
-050060108A-25,25,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780331,6.556361
-050060108A-26,26,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.782304,6.556093
-050060108A-29,29,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780025,6.556512
-050060108A-31,31,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.779863,6.556209
-050060108A-31A,31A,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.779993,6.556104
-050060108A-42,42,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.781474,6.556226
-050060108A-42B,42BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.781625,6.556198
-050060108A-44,44,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.781165,6.555744
-050060108A-46,46,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.781191,6.555966
-050060108A-48B,48BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780597,6.556013
-050060108A-50,50,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780947,6.555556
-050060108A-50B,50BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780591,6.555701
-050060108A-52,52,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780768,6.555246
-050060108A-52B,52BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780785,6.555644
-050060108A-56,56,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.780208,6.555897
-050060108A-64,64,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.779274,6.555675
-050060108A-64B,64BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.779169,6.555469
-050060108A-66,66,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.779092,6.555115
-050060108A-6,6,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.786292,6.555646
-050060108A-68,68,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.779181,6.554774
-050060108A-70,70,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.778947,6.555397
-050060108A-76,76,Rue du Quartz,05120,L'Argentière-la-Bessée,CAD,44.778080,6.555295
-050060113F-18,18,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.795283,6.560852
-050060113F-21,21,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.794997,6.560399
-050060113F-25,25,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.794668,6.558871
-050060113F-30,30,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.794965,6.560066
-050060113F-32,32,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.794897,6.559038
-050060113F-32A,32A,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.794948,6.559166
-050060113F-38,38,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.794959,6.558857
-050060113F-46,46,Place de la République,05120,L'Argentière-la-Bessée,CAD,44.795119,6.558125
+050060104W-11,11,Rue de Portin,05120,L'Argentière-la-Bessée,C+O,44.783713,6.547546
+050060104W-13,13,Rue de Portin,05120,L'Argentière-la-Bessée,C+O,44.784066,6.547254
+050060104W-19,19,Rue de Portin,05120,L'Argentière-la-Bessée,C+O,44.784492,6.548439
+050060104W-4,4,Rue de Portin,05120,L'Argentière-la-Bessée,C+O,44.783801,6.549120
+050060104W-7,7,Rue de Portin,05120,L'Argentière-la-Bessée,C+O,44.783519,6.548191
+050060108A-11,11,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.782076,6.556802
+050060108A-1,1,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.782324,6.557157
+050060108A-13,13,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.781216,6.556503
+050060108A-13A,13A,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.781379,6.556496
+050060108A-18,18,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.784849,6.556136
+050060108A-20,20,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.784701,6.556384
+050060108A-21,21,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780537,6.556741
+050060108A-2,2,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.786785,6.555549
+050060108A-24,24,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.782956,6.556623
+050060108A-25,25,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780331,6.556361
+050060108A-26,26,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.782304,6.556093
+050060108A-29,29,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780025,6.556512
+050060108A-31,31,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.779863,6.556209
+050060108A-31A,31A,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.779993,6.556104
+050060108A-42,42,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.781474,6.556226
+050060108A-42B,42BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.781625,6.556198
+050060108A-44,44,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.781165,6.555744
+050060108A-46,46,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.781191,6.555966
+050060108A-48B,48BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780597,6.556013
+050060108A-50,50,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780947,6.555556
+050060108A-50B,50BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780591,6.555701
+050060108A-52,52,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780768,6.555246
+050060108A-52B,52BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780785,6.555644
+050060108A-56,56,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.780208,6.555897
+050060108A-64,64,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.779274,6.555675
+050060108A-64B,64BIS,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.779169,6.555469
+050060108A-66,66,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.779092,6.555115
+050060108A-6,6,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.786292,6.555646
+050060108A-68,68,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.779181,6.554774
+050060108A-70,70,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.778947,6.555397
+050060108A-76,76,Rue du Quartz,05120,L'Argentière-la-Bessée,C+O,44.778080,6.555295
+050060113F-18,18,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.795283,6.560852
+050060113F-21,21,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.794997,6.560399
+050060113F-25,25,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.794668,6.558871
+050060113F-30,30,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.794965,6.560066
+050060113F-32,32,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.794897,6.559038
+050060113F-32A,32A,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.794948,6.559166
+050060113F-38,38,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.794959,6.558857
+050060113F-46,46,Place de la République,05120,L'Argentière-la-Bessée,C+O,44.795119,6.558125
 050060114G-14,14,Rue de la République,05120,L'Argentière-la-Bessée,C+O,44.795337,6.561057
 050060114G-19,19,Rue de la République,05120,L'Argentière-la-Bessée,C+O,44.794974,6.560699
 050060114G-23,23,Rue de la République,05120,L'Argentière-la-Bessée,C+O,44.794819,6.560285
@@ -316,13 +316,13 @@
 050060114G-46,46,Rue de la République,05120,L'Argentière-la-Bessée,C+O,44.794899,6.558001
 050060114G-46A,46A,Rue de la République,05120,L'Argentière-la-Bessée,C+O,44.795107,6.557903
 050060114G-50,50,Rue de la République,05120,L'Argentière-la-Bessée,C+O,44.794913,6.557141
-050060117K-2,2,Rue de la Rochassille,05120,L'Argentière-la-Bessée,CAD,44.787788,6.555305
-050060117K-3,3,Rue de la Rochassille,05120,L'Argentière-la-Bessée,CAD,44.788067,6.555457
-050060117K-6,6,Rue de la Rochassille,05120,L'Argentière-la-Bessée,CAD,44.787751,6.554658
-050060119M-14,14,Rue de la Rorée,05120,L'Argentière-la-Bessée,CAD,44.796286,6.560371
-050060119M-15,15,Rue de la Rorée,05120,L'Argentière-la-Bessée,CAD,44.796898,6.560504
-050060119M-4,4,Rue de la Rorée,05120,L'Argentière-la-Bessée,CAD,44.795394,6.560740
-050060119M-6,6,Rue de la Rorée,05120,L'Argentière-la-Bessée,CAD,44.795458,6.560740
+050060117K-2,2,Rue de la Rochassille,05120,L'Argentière-la-Bessée,C+O,44.787788,6.555305
+050060117K-3,3,Rue de la Rochassille,05120,L'Argentière-la-Bessée,C+O,44.788067,6.555457
+050060117K-6,6,Rue de la Rochassille,05120,L'Argentière-la-Bessée,C+O,44.787751,6.554658
+050060119M-14,14,Rue de la Rorée,05120,L'Argentière-la-Bessée,C+O,44.796286,6.560371
+050060119M-15,15,Rue de la Rorée,05120,L'Argentière-la-Bessée,C+O,44.796898,6.560504
+050060119M-4,4,Rue de la Rorée,05120,L'Argentière-la-Bessée,C+O,44.795394,6.560740
+050060119M-6,6,Rue de la Rorée,05120,L'Argentière-la-Bessée,C+O,44.795458,6.560740
 050060121P-10,10,Chemin des Rouyriès,05120,L'Argentière-la-Bessée,CAD,44.800468,6.564094
 050060121P-12,12,Chemin des Rouyriès,05120,L'Argentière-la-Bessée,CAD,44.800144,6.564206
 050060121P-2,2,Chemin des Rouyriès,05120,L'Argentière-la-Bessée,CAD,44.799907,6.564948
@@ -404,16 +404,16 @@
 050060137G-6,6,Rue Saint-Michel,05120,L'Argentière-la-Bessée,C+O,44.799008,6.564693
 050060137G-7,7,Rue Saint-Michel,05120,L'Argentière-la-Bessée,C+O,44.799194,6.564633
 050060137G-8,8,Rue Saint-Michel,05120,L'Argentière-la-Bessée,C+O,44.799026,6.565067
-050060140K-10,10,Rue de Serre,05120,L'Argentière-la-Bessée,C+O,44.786981,6.554105
-050060140K-14,14,Rue de Serre,05120,L'Argentière-la-Bessée,C+O,44.787173,6.553391
-050060140K-4,4,Rue de Serre,05120,L'Argentière-la-Bessée,C+O,44.786833,6.554080
-050060140K-6,6,Rue de Serre,05120,L'Argentière-la-Bessée,C+O,44.786871,6.554026
-050060140K-7,7,Rue de Serre,05120,L'Argentière-la-Bessée,C+O,44.786778,6.553776
-050060141L-11,11,Rue du Serre Bas,05120,L'Argentière-la-Bessée,CAD,44.786970,6.553518
-050060141L-2,2,Rue du Serre Bas,05120,L'Argentière-la-Bessée,CAD,44.786784,6.554055
-050060142M-3,3,Rue du Serre Haut,05120,L'Argentière-la-Bessée,CAD,44.788579,6.553915
-050060142M-9,9,Rue du Serre Haut,05120,L'Argentière-la-Bessée,CAD,44.788579,6.553902
-050060147T-65,65,Rue de l'Ubac,05120,L'Argentière-la-Bessée,CAD,44.778818,6.547468
+050060140K-10,10,Rue de Serre,05120,L'Argentière-la-Bessée,CAD,44.786981,6.554105
+050060140K-14,14,Rue de Serre,05120,L'Argentière-la-Bessée,CAD,44.787173,6.553391
+050060140K-4,4,Rue de Serre,05120,L'Argentière-la-Bessée,CAD,44.786833,6.554080
+050060140K-6,6,Rue de Serre,05120,L'Argentière-la-Bessée,CAD,44.786871,6.554026
+050060140K-7,7,Rue de Serre,05120,L'Argentière-la-Bessée,CAD,44.786778,6.553776
+050060141L-11,11,Rue du Serre Bas,05120,L'Argentière-la-Bessée,C+O,44.786970,6.553518
+050060141L-2,2,Rue du Serre Bas,05120,L'Argentière-la-Bessée,C+O,44.786784,6.554055
+050060142M-3,3,Rue du Serre Haut,05120,L'Argentière-la-Bessée,C+O,44.788579,6.553915
+050060142M-9,9,Rue du Serre Haut,05120,L'Argentière-la-Bessée,C+O,44.788579,6.553902
+050060147T-65,65,Rue de l'Ubac,05120,L'Argentière-la-Bessée,C+O,44.778818,6.547468
 050060151X-11,11,Avenue de Vallouise,05120,L'Argentière-la-Bessée,C+O,44.795432,6.559160
 050060151X-14,14,Avenue de Vallouise,05120,L'Argentière-la-Bessée,C+O,44.795732,6.559181
 050060151X-15,15,Avenue de Vallouise,05120,L'Argentière-la-Bessée,C+O,44.795732,6.558793
@@ -442,14 +442,14 @@
 050060155B-2,2,Rue du Vernet,05120,L'Argentière-la-Bessée,C+O,44.785804,6.554516
 050060155B-8,8,Rue du Vernet,05120,L'Argentière-la-Bessée,C+O,44.785083,6.555016
 050060155B-9,9,Rue du Vernet,05120,L'Argentière-la-Bessée,C+O,44.785198,6.555061
-050060157D-23,23,Chemin de Ville,05120,L'Argentière-la-Bessée,CAD,44.784458,6.544732
-050060157D-30,30,Chemin de Ville,05120,L'Argentière-la-Bessée,CAD,44.784621,6.544418
-050060159F-13,13,Chemin des Violins,05120,L'Argentière-la-Bessée,CAD,44.785715,6.547712
-050060159F-42,42,Chemin des Violins,05120,L'Argentière-la-Bessée,CAD,44.787726,6.549032
-050060159F-43A,43A,Chemin des Violins,05120,L'Argentière-la-Bessée,CAD,44.786528,6.548666
-050060159F-44,44,Chemin des Violins,05120,L'Argentière-la-Bessée,CAD,44.787840,6.549130
-050060159F-46,46,Chemin des Violins,05120,L'Argentière-la-Bessée,CAD,44.788182,6.549339
-050060159F-5,5,Chemin des Violins,05120,L'Argentière-la-Bessée,CAD,44.786095,6.548890
+050060157D-23,23,Chemin de Ville,05120,L'Argentière-la-Bessée,C+O,44.784458,6.544732
+050060157D-30,30,Chemin de Ville,05120,L'Argentière-la-Bessée,C+O,44.784621,6.544418
+050060159F-13,13,Chemin des Violins,05120,L'Argentière-la-Bessée,C+O,44.785715,6.547712
+050060159F-42,42,Chemin des Violins,05120,L'Argentière-la-Bessée,C+O,44.787726,6.549032
+050060159F-43A,43A,Chemin des Violins,05120,L'Argentière-la-Bessée,C+O,44.786528,6.548666
+050060159F-44,44,Chemin des Violins,05120,L'Argentière-la-Bessée,C+O,44.787840,6.549130
+050060159F-46,46,Chemin des Violins,05120,L'Argentière-la-Bessée,C+O,44.788182,6.549339
+050060159F-5,5,Chemin des Violins,05120,L'Argentière-la-Bessée,C+O,44.786095,6.548890
 050060165M-11,11,Rue Edward Whymper,05120,L'Argentière-la-Bessée,C+O,44.791706,6.558616
 05006A008L-185,185,Cite Polonaise,05120,L'Argentière-la-Bessée,CAD,44.791356,6.558358
 050100132J-4,4,Chemin des Glacières,05140,Aspres-sur-Buëch,C+O,44.523999,5.759824
@@ -591,25 +591,25 @@
 050170173Y-69,69,Rue de la Bise,05230,La Bâtie-Neuve,C+O,44.567313,6.201525
 050170173Y-77,77,Rue de la Bise,05230,La Bâtie-Neuve,C+O,44.567397,6.201027
 050170175A-128,128,Rue du Blizzard,05230,La Bâtie-Neuve,C+O,44.570136,6.213668
-050170180F-142,142,route des Borels,05230,La Bâtie-Neuve,C+O,44.565188,6.201698
-050170180F-1838,1838,route des Borels,05230,La Bâtie-Neuve,C+O,44.571134,6.220081
-050170180F-1875,1875,route des Borels,05230,La Bâtie-Neuve,C+O,44.571420,6.220667
-050170180F-1892,1892,route des Borels,05230,La Bâtie-Neuve,C+O,44.571715,6.220941
-050170180F-1941,1941,route des Borels,05230,La Bâtie-Neuve,C+O,44.571843,6.220362
-050170180F-1942,1942,route des Borels,05230,La Bâtie-Neuve,C+O,44.572062,6.220823
-050170180F-1993,1993,route des Borels,05230,La Bâtie-Neuve,C+O,44.571914,6.222152
-050170180F-2061,2061,route des Borels,05230,La Bâtie-Neuve,C+O,44.572507,6.222380
-050170180F-206,206,route des Borels,05230,La Bâtie-Neuve,C+O,44.567494,6.200769
-050170180F-208,208,route des Borels,05230,La Bâtie-Neuve,C+O,44.565394,6.202514
-050170180F-2216,2216,route des Borels,05230,La Bâtie-Neuve,C+O,44.573285,6.223341
-050170180F-2227,2227,route des Borels,05230,La Bâtie-Neuve,C+O,44.573374,6.223375
-050170180F-238,238,route des Borels,05230,La Bâtie-Neuve,C+O,44.565487,6.202811
-050170180F-286,286,route des Borels,05230,La Bâtie-Neuve,C+O,44.566774,6.202847
-050170180F-316,316,route des Borels,05230,La Bâtie-Neuve,C+O,44.566295,6.202820
-050170180F-386,386,route des Borels,05230,La Bâtie-Neuve,C+O,44.566746,6.203669
-050170180F-419,419,route des Borels,05230,La Bâtie-Neuve,C+O,44.566312,6.203738
-050170180F-635,635,route des Borels,05230,La Bâtie-Neuve,C+O,44.568394,6.206972
-050170180F-762,762,route des Borels,05230,La Bâtie-Neuve,C+O,44.568052,6.207565
+050170180F-142,142,Route des Borels,05230,La Bâtie-Neuve,C+O,44.565188,6.201698
+050170180F-1838,1838,Route des Borels,05230,La Bâtie-Neuve,C+O,44.571134,6.220081
+050170180F-1875,1875,Route des Borels,05230,La Bâtie-Neuve,C+O,44.571420,6.220667
+050170180F-1892,1892,Route des Borels,05230,La Bâtie-Neuve,C+O,44.571715,6.220941
+050170180F-1941,1941,Route des Borels,05230,La Bâtie-Neuve,C+O,44.571843,6.220362
+050170180F-1942,1942,Route des Borels,05230,La Bâtie-Neuve,C+O,44.572062,6.220823
+050170180F-1993,1993,Route des Borels,05230,La Bâtie-Neuve,C+O,44.571914,6.222152
+050170180F-2061,2061,Route des Borels,05230,La Bâtie-Neuve,C+O,44.572507,6.222380
+050170180F-206,206,Route des Borels,05230,La Bâtie-Neuve,C+O,44.567494,6.200769
+050170180F-208,208,Route des Borels,05230,La Bâtie-Neuve,C+O,44.565394,6.202514
+050170180F-2216,2216,Route des Borels,05230,La Bâtie-Neuve,C+O,44.573285,6.223341
+050170180F-2227,2227,Route des Borels,05230,La Bâtie-Neuve,C+O,44.573374,6.223375
+050170180F-238,238,Route des Borels,05230,La Bâtie-Neuve,C+O,44.565487,6.202811
+050170180F-286,286,Route des Borels,05230,La Bâtie-Neuve,C+O,44.566774,6.202847
+050170180F-316,316,Route des Borels,05230,La Bâtie-Neuve,C+O,44.566295,6.202820
+050170180F-386,386,Route des Borels,05230,La Bâtie-Neuve,C+O,44.566746,6.203669
+050170180F-419,419,Route des Borels,05230,La Bâtie-Neuve,C+O,44.566312,6.203738
+050170180F-635,635,Route des Borels,05230,La Bâtie-Neuve,C+O,44.568394,6.206972
+050170180F-762,762,Route des Borels,05230,La Bâtie-Neuve,C+O,44.568052,6.207565
 050170185L-100,100,Route des Brès,05230,La Bâtie-Neuve,CAD,44.573024,6.224867
 050170185L-1185,1185,Route des Brès,05230,La Bâtie-Neuve,CAD,44.569821,6.237184
 050170185L-1256,1256,Route des Brès,05230,La Bâtie-Neuve,CAD,44.569723,6.238065
@@ -1584,7 +1584,7 @@
 050230087D-10,10,Rue Georges Bermond Gonnet,05100,Briançon,C+O,44.892308,6.632205
 050230087D-11,11,Rue Georges Bermond Gonnet,05100,Briançon,OSM,44.892392,6.632513
 050230087D-1,1,Rue Georges Bermond Gonnet,05100,Briançon,C+O,44.891761,6.632465
-050230087D-12,12,Rue Georges Bermond Gonnet,05100,Briançon,C+O,44.891853,6.631760
+050230087D-12,12,Rue Georges Bermond Gonnet,05100,Briançon,OSM,44.891942,6.631545
 050230087D-13,13,Rue Georges Bermond Gonnet,05100,Briançon,OSM,44.892103,6.632452
 050230087D-13B,13BIS,Rue Georges Bermond Gonnet,05100,Briançon,C+O,44.891743,6.632879
 050230087D-14,14,Rue Georges Bermond Gonnet,05100,Briançon,C+O,44.891675,6.631292
@@ -1923,10 +1923,10 @@
 050230281P-1,1,Chemin de Fontchristiane,05100,Briançon,OSM,44.891374,6.646792
 050230281P-12,12,Chemin de Fontchristiane,05100,Briançon,OSM,44.891112,6.644914
 050230281P-13,13,Chemin de Fontchristiane,05100,Briançon,OSM,44.891275,6.645920
-050230281P-14,14,Chemin de Fontchristiane,05100,Briançon,C+O,44.890508,6.645011
+050230281P-14,14,Chemin de Fontchristiane,05100,Briançon,OSM,44.890928,6.644806
 050230281P-15,15,Chemin de Fontchristiane,05100,Briançon,OSM,44.891230,6.645707
-050230281P-16,16,Chemin de Fontchristiane,05100,Briançon,C+O,44.891037,6.644510
-050230281P-18,18,Chemin de Fontchristiane,05100,Briançon,C+O,44.891036,6.643973
+050230281P-16,16,Chemin de Fontchristiane,05100,Briançon,OSM,44.891038,6.644505
+050230281P-18,18,Chemin de Fontchristiane,05100,Briançon,OSM,44.891163,6.643944
 050230281P-19,19,Chemin de Fontchristiane,05100,Briançon,OSM,44.891152,6.644794
 050230281P-20,20,Chemin de Fontchristiane,05100,Briançon,OSM,44.890196,6.642264
 050230281P-20D,20D,Chemin de Fontchristiane,05100,Briançon,OSM,44.891309,6.643444
@@ -2286,7 +2286,7 @@
 050230460J-25,25,Rue Joseph Silvestre,05100,Briançon,OSM,44.884905,6.633444
 050230460J-26,26,Rue Joseph Silvestre,05100,Briançon,OSM,44.885965,6.634211
 050230460J-27,27,Rue Joseph Silvestre,05100,Briançon,OSM,44.884428,6.633171
-050230460J-27B,27B,Rue Joseph Silvestre,05100,Briançon,OSM,44.884544,6.633811
+050230460J-27B,27BIS,Rue Joseph Silvestre,05100,Briançon,OSM,44.884544,6.633811
 050230460J-28,28,Rue Joseph Silvestre,05100,Briançon,OSM,44.885996,6.634033
 050230460J-28A,28A,Rue Joseph Silvestre,05100,Briançon,OSM,44.885861,6.634067
 050230460J-28B,28B,Rue Joseph Silvestre,05100,Briançon,OSM,44.885927,6.633869
@@ -2307,7 +2307,7 @@
 050230460J-33H,33H,Rue Joseph Silvestre,05100,Briançon,OSM,44.884330,6.634029
 050230460J-33I,33I,Rue Joseph Silvestre,05100,Briançon,OSM,44.884033,6.633736
 050230460J-33I,33I,Rue Joseph Silvestre,05100,Briançon,OSM,44.884176,6.633850
-050230460J-33K,33K,Rue Joseph Silvestre,05100,Briançon,OSM,44.884002,6.633231
+050230460J-33K,33K,Rue Joseph Silvestre,05100,Briançon,OSM,44.884231,6.633378
 050230460J-3,3,Rue Joseph Silvestre,05100,Briançon,OSM,44.888451,6.634023
 050230460J-34,34,Rue Joseph Silvestre,05100,Briançon,OSM,44.885415,6.633900
 050230460J-35,35,Rue Joseph Silvestre,05100,Briançon,OSM,44.883900,6.633043
@@ -2453,57 +2453,57 @@
 050230530K-1,1,Rue Marius Chancel,05100,Briançon,C+O,44.899055,6.640046
 050230530K-2,2,Rue Marius Chancel,05100,Briançon,C+O,44.899508,6.639983
 050230530K-4,4,Rue Marius Chancel,05100,Briançon,C+O,44.899292,6.640103
-050230545B-10,10,Chemin du Mas Blais,05100,Briançon,C+O,44.912517,6.623482
-050230545B-11,11,Chemin du Mas Blais,05100,Briançon,C+O,44.912436,6.623290
-050230545B-1,1,Chemin du Mas Blais,05100,Briançon,C+O,44.911346,6.623959
-050230545B-12,12,Chemin du Mas Blais,05100,Briançon,C+O,44.912639,6.623311
-050230545B-13,13,Chemin du Mas Blais,05100,Briançon,C+O,44.912597,6.623207
-050230545B-15,15,Chemin du Mas Blais,05100,Briançon,C+O,44.912741,6.622680
-050230545B-15A,15A,Chemin du Mas Blais,05100,Briançon,C+O,44.912800,6.622844
-050230545B-16,16,Chemin du Mas Blais,05100,Briançon,C+O,44.912995,6.622922
-050230545B-19,19,Chemin du Mas Blais,05100,Briançon,C+O,44.913263,6.622563
-050230545B-20,20,Chemin du Mas Blais,05100,Briançon,C+O,44.913427,6.622531
-050230545B-21,21,Chemin du Mas Blais,05100,Briançon,C+O,44.913434,6.622430
-050230545B-22,22,Chemin du Mas Blais,05100,Briançon,C+O,44.913695,6.622385
-050230545B-23,23,Chemin du Mas Blais,05100,Briançon,C+O,44.913643,6.622308
-050230545B-23B,23BIS,Chemin du Mas Blais,05100,Briançon,C+O,44.913439,6.622286
-050230545B-24,24,Chemin du Mas Blais,05100,Briançon,C+O,44.913988,6.622592
-050230545B-25,25,Chemin du Mas Blais,05100,Briançon,C+O,44.913834,6.622247
-050230545B-26,26,Chemin du Mas Blais,05100,Briançon,C+O,44.914292,6.622440
-050230545B-27,27,Chemin du Mas Blais,05100,Briançon,C+O,44.914212,6.621996
-050230545B-28,28,Chemin du Mas Blais,05100,Briançon,C+O,44.914509,6.622155
-050230545B-32,32,Chemin du Mas Blais,05100,Briançon,C+O,44.914741,6.622004
-050230545B-3,3,Chemin du Mas Blais,05100,Briançon,C+O,44.911531,6.623803
-050230545B-35,35,Chemin du Mas Blais,05100,Briançon,C+O,44.914606,6.621968
-050230545B-36,36,Chemin du Mas Blais,05100,Briançon,C+O,44.915010,6.621597
-050230545B-37,37,Chemin du Mas Blais,05100,Briançon,C+O,44.914677,6.621842
-050230545B-38,38,Chemin du Mas Blais,05100,Briançon,C+O,44.915216,6.621468
-050230545B-39,39,Chemin du Mas Blais,05100,Briançon,C+O,44.914724,6.621810
-050230545B-44,44,Chemin du Mas Blais,05100,Briançon,C+O,44.915750,6.621102
-050230545B-44A,44A,Chemin du Mas Blais,05100,Briançon,C+O,44.915851,6.621293
-050230545B-51,51,Chemin du Mas Blais,05100,Briançon,C+O,44.915602,6.621139
-050230545B-55,55,Chemin du Mas Blais,05100,Briançon,C+O,44.916020,6.620176
-050230545B-57,57,Chemin du Mas Blais,05100,Briançon,C+O,44.916342,6.620413
-050230545B-59,59,Chemin du Mas Blais,05100,Briançon,C+O,44.916284,6.619974
-050230545B-59B,59B,Chemin du Mas Blais,05100,Briançon,C+O,44.916773,6.619160
-050230545B-59C,59C,Chemin du Mas Blais,05100,Briançon,C+O,44.916255,6.620032
-050230545B-60,60,Chemin du Mas Blais,05100,Briançon,C+O,44.917252,6.619175
-050230545B-65,65,Chemin du Mas Blais,05100,Briançon,C+O,44.916434,6.619182
-050230545B-65A,65A,Chemin du Mas Blais,05100,Briançon,C+O,44.916773,6.619173
-050230545B-65B,65B,Chemin du Mas Blais,05100,Briançon,C+O,44.916434,6.619175
-050230545B-65C,65C,Chemin du Mas Blais,05100,Briançon,C+O,44.916246,6.619633
-050230545B-65D,65D,Chemin du Mas Blais,05100,Briançon,C+O,44.916434,6.619201
-050230545B-6,6,Chemin du Mas Blais,05100,Briançon,C+O,44.911954,6.623591
-050230545B-67,67,Chemin du Mas Blais,05100,Briançon,C+O,44.917226,6.618850
-050230545B-68,68,Chemin du Mas Blais,05100,Briançon,C+O,44.917923,6.618401
-050230545B-69B,69B,Chemin du Mas Blais,05100,Briançon,C+O,44.916864,6.618348
-050230545B-69C,69C,Chemin du Mas Blais,05100,Briançon,C+O,44.917089,6.618255
-050230545B-6A,6A,Chemin du Mas Blais,05100,Briançon,C+O,44.911791,6.623821
-050230545B-6B,6B,Chemin du Mas Blais,05100,Briançon,C+O,44.914331,6.623568
-050230545B-70A,70A,Chemin du Mas Blais,05100,Briançon,C+O,44.918100,6.618455
-050230545B-70B,70B,Chemin du Mas Blais,05100,Briançon,C+O,44.917892,6.618647
-050230545B-71,71,Chemin du Mas Blais,05100,Briançon,C+O,44.917395,6.618346
-050230545B-9,9,Chemin du Mas Blais,05100,Briançon,C+O,44.912136,6.623437
+050230545B-10,10,Chemin de Mas de Blais,05100,Briançon,C+O,44.912517,6.623482
+050230545B-11,11,Chemin de Mas de Blais,05100,Briançon,C+O,44.912436,6.623290
+050230545B-1,1,Chemin de Mas de Blais,05100,Briançon,C+O,44.911346,6.623959
+050230545B-12,12,Chemin de Mas de Blais,05100,Briançon,C+O,44.912639,6.623311
+050230545B-13,13,Chemin de Mas de Blais,05100,Briançon,C+O,44.912597,6.623207
+050230545B-15,15,Chemin de Mas de Blais,05100,Briançon,C+O,44.912741,6.622680
+050230545B-15A,15A,Chemin de Mas de Blais,05100,Briançon,C+O,44.912800,6.622844
+050230545B-16,16,Chemin de Mas de Blais,05100,Briançon,C+O,44.912995,6.622922
+050230545B-19,19,Chemin de Mas de Blais,05100,Briançon,C+O,44.913263,6.622563
+050230545B-20,20,Chemin de Mas de Blais,05100,Briançon,C+O,44.913427,6.622531
+050230545B-21,21,Chemin de Mas de Blais,05100,Briançon,C+O,44.913434,6.622430
+050230545B-22,22,Chemin de Mas de Blais,05100,Briançon,C+O,44.913695,6.622385
+050230545B-23,23,Chemin de Mas de Blais,05100,Briançon,C+O,44.913643,6.622308
+050230545B-23B,23BIS,Chemin de Mas de Blais,05100,Briançon,C+O,44.913439,6.622286
+050230545B-24,24,Chemin de Mas de Blais,05100,Briançon,C+O,44.913988,6.622592
+050230545B-25,25,Chemin de Mas de Blais,05100,Briançon,C+O,44.913834,6.622247
+050230545B-26,26,Chemin de Mas de Blais,05100,Briançon,C+O,44.914292,6.622440
+050230545B-27,27,Chemin de Mas de Blais,05100,Briançon,C+O,44.914212,6.621996
+050230545B-28,28,Chemin de Mas de Blais,05100,Briançon,C+O,44.914509,6.622155
+050230545B-32,32,Chemin de Mas de Blais,05100,Briançon,C+O,44.914741,6.622004
+050230545B-3,3,Chemin de Mas de Blais,05100,Briançon,C+O,44.911531,6.623803
+050230545B-35,35,Chemin de Mas de Blais,05100,Briançon,C+O,44.914606,6.621968
+050230545B-36,36,Chemin de Mas de Blais,05100,Briançon,C+O,44.915010,6.621597
+050230545B-37,37,Chemin de Mas de Blais,05100,Briançon,C+O,44.914677,6.621842
+050230545B-38,38,Chemin de Mas de Blais,05100,Briançon,C+O,44.915216,6.621468
+050230545B-39,39,Chemin de Mas de Blais,05100,Briançon,C+O,44.914724,6.621810
+050230545B-44,44,Chemin de Mas de Blais,05100,Briançon,C+O,44.915750,6.621102
+050230545B-44A,44A,Chemin de Mas de Blais,05100,Briançon,C+O,44.915851,6.621293
+050230545B-51,51,Chemin de Mas de Blais,05100,Briançon,C+O,44.915602,6.621139
+050230545B-55,55,Chemin de Mas de Blais,05100,Briançon,C+O,44.916020,6.620176
+050230545B-57,57,Chemin de Mas de Blais,05100,Briançon,C+O,44.916342,6.620413
+050230545B-59,59,Chemin de Mas de Blais,05100,Briançon,C+O,44.916284,6.619974
+050230545B-59B,59B,Chemin de Mas de Blais,05100,Briançon,C+O,44.916773,6.619160
+050230545B-59C,59C,Chemin de Mas de Blais,05100,Briançon,C+O,44.916255,6.620032
+050230545B-60,60,Chemin de Mas de Blais,05100,Briançon,C+O,44.917252,6.619175
+050230545B-65,65,Chemin de Mas de Blais,05100,Briançon,C+O,44.916434,6.619182
+050230545B-65A,65A,Chemin de Mas de Blais,05100,Briançon,C+O,44.916773,6.619173
+050230545B-65B,65B,Chemin de Mas de Blais,05100,Briançon,C+O,44.916434,6.619175
+050230545B-65C,65C,Chemin de Mas de Blais,05100,Briançon,C+O,44.916246,6.619633
+050230545B-65D,65D,Chemin de Mas de Blais,05100,Briançon,C+O,44.916434,6.619201
+050230545B-6,6,Chemin de Mas de Blais,05100,Briançon,C+O,44.911954,6.623591
+050230545B-67,67,Chemin de Mas de Blais,05100,Briançon,C+O,44.917226,6.618850
+050230545B-68,68,Chemin de Mas de Blais,05100,Briançon,C+O,44.917923,6.618401
+050230545B-69B,69B,Chemin de Mas de Blais,05100,Briançon,C+O,44.916864,6.618348
+050230545B-69C,69C,Chemin de Mas de Blais,05100,Briançon,C+O,44.917089,6.618255
+050230545B-6A,6A,Chemin de Mas de Blais,05100,Briançon,C+O,44.911791,6.623821
+050230545B-6B,6B,Chemin de Mas de Blais,05100,Briançon,C+O,44.914331,6.623568
+050230545B-70A,70A,Chemin de Mas de Blais,05100,Briançon,C+O,44.918100,6.618455
+050230545B-70B,70B,Chemin de Mas de Blais,05100,Briançon,C+O,44.917892,6.618647
+050230545B-71,71,Chemin de Mas de Blais,05100,Briançon,C+O,44.917395,6.618346
+050230545B-9,9,Chemin de Mas de Blais,05100,Briançon,C+O,44.912136,6.623437
 050230550G-10,10,Avenue Maurice Petsche,05100,Briançon,OSM,44.895329,6.631507
 050230550G-11,11,Avenue Maurice Petsche,05100,Briançon,OSM,44.895555,6.631848
 050230550G-120,120,Avenue Maurice Petsche,05100,Briançon,C+O,44.895309,6.631717
@@ -10943,13 +10943,13 @@
 051610010V-2,2,Chemin de l'Amandier,05240,La Salle-les-Alpes,C+O,44.951801,6.554195
 051610010V-3B,3BIS,Chemin de l'Amandier,05240,La Salle-les-Alpes,C+O,44.951296,6.555194
 051610030S-6,6,Chemin des Asters,05240,La Salle-les-Alpes,C+O,44.944607,6.571572
-051610080W-1,1,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.938544,6.577194
-051610080W-20,20,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.938948,6.573519
-051610080W-21,21,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.944901,6.563073
-051610080W-5,5,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.939672,6.573156
 051610090G-13,13,Place du Cadran Solaire,05240,La Salle-les-Alpes,C+O,44.944670,6.570711
 051610120P-11,11,Chemin du Cavaillou,05240,La Salle-les-Alpes,C+O,44.944386,6.552828
-051610125V-3,3,Rue Centrale,05240,La Salle-les-Alpes,CAD,44.945046,6.564306
+051610125V-10,10,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.944545,6.565305
+051610125V-3,3,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.945046,6.564306
+051610125V-59,59,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.945938,6.562592
+051610125V-69,69,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.947028,6.560337
+051610125V-73,73,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.947526,6.559562
 051610130A-12,12,Chemin de Champ Féraud,05240,La Salle-les-Alpes,C+O,44.948871,6.560823
 051610130A-17,17,Chemin de Champ Féraud,05240,La Salle-les-Alpes,C+O,44.948609,6.561343
 051610250F-11,11,Chemin des Écoles,05240,La Salle-les-Alpes,C+O,44.944123,6.573566
@@ -10959,12 +10959,12 @@
 051610280N-9B,9BIS,Chemin des Faisses,05240,La Salle-les-Alpes,C+O,44.948834,6.559923
 051610330T-11,11,Chemin de la Frisette,05240,La Salle-les-Alpes,C+O,44.938625,6.571132
 051610330T-7,7,Chemin de la Frisette,05240,La Salle-les-Alpes,C+O,44.939166,6.570743
-051610360A-12,12,Route de Grenoble,05240,La Salle-les-Alpes,CAD,44.938617,6.574850
-051610360A-16,16,Route de Grenoble,05240,La Salle-les-Alpes,CAD,44.951040,6.553963
-051610368J-10,10,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.944545,6.565305
-051610368J-59,59,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.945938,6.562592
-051610368J-69,69,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.947028,6.560337
-051610368J-73,73,Rue de la Guisane,05240,La Salle-les-Alpes,C+O,44.947526,6.559562
+051610360A-1,1,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.938544,6.577194
+051610360A-12,12,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.938617,6.574850
+051610360A-16,16,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.951040,6.553963
+051610360A-20,20,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.938948,6.573519
+051610360A-21,21,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.944901,6.563073
+051610360A-5,5,Route de Briançon,05240,La Salle-les-Alpes,C+O,44.939672,6.573156
 051610380X-1,1,Chemin Impérial,05240,La Salle-les-Alpes,C+O,44.940534,6.571950
 051610400U-1,1,Chemin de Jourdaret,05240,La Salle-les-Alpes,C+O,44.943467,6.576096
 051610415K-4,4,Route du Lary,05240,La Salle-les-Alpes,C+O,44.941029,6.575432
@@ -10973,7 +10973,7 @@
 051610530K-5,5,Rue du Pied de la Salle,05240,La Salle-les-Alpes,C+O,44.944884,6.570222
 051610660B-18,18,Chemin de Rivo,05240,La Salle-les-Alpes,C+O,44.944083,6.576147
 051610660B-18A,18A,Chemin de Rivo,05240,La Salle-les-Alpes,C+O,44.944042,6.576264
-051610710F-4,4,Chemin de Saint Antoine,05240,La Salle-les-Alpes,C+O,44.940165,6.573418
+051610710F-4,4,Chemin de Saint-Antoine,05240,La Salle-les-Alpes,C+O,44.940165,6.573418
 051610736J-14,14,Chemin de Saint-Jacques,05240,La Salle-les-Alpes,C+O,44.947876,6.562263
 051610736J-7,7,Chemin de Saint-Jacques,05240,La Salle-les-Alpes,C+O,44.946723,6.562392
 051610785M-6,6,Traverse du Torrent,05240,La Salle-les-Alpes,C+O,44.940149,6.575291
@@ -12843,8 +12843,8 @@
 051830270G-1,1,Impasse de la Fontaine,05100,Villar-Saint-Pancrace,C+O,44.872845,6.626119
 051830270G-5,5,Impasse de la Fontaine,05100,Villar-Saint-Pancrace,C+O,44.872786,6.626246
 051830280T-2,2,Impasse de la Forge,05100,Villar-Saint-Pancrace,C+O,44.871777,6.624539
-051830300P-3,3,Impasse des Frenes,05100,Villar-Saint-Pancrace,CAD,44.872284,6.625092
-051830300P-4,4,Impasse des Frenes,05100,Villar-Saint-Pancrace,CAD,44.872271,6.625211
+051830300P-3,3,Impasse des Frenes,05100,Villar-Saint-Pancrace,C+O,44.872284,6.625092
+051830300P-4,4,Impasse des Frenes,05100,Villar-Saint-Pancrace,C+O,44.872271,6.625211
 051830310A-1,1,Rue Gatchelou,05100,Villar-Saint-Pancrace,C+O,44.882490,6.632501
 051830310A-12,12,Rue Gatchelou,05100,Villar-Saint-Pancrace,C+O,44.882463,6.632368
 051830310A-14,14,Rue Gatchelou,05100,Villar-Saint-Pancrace,C+O,44.882353,6.632108
