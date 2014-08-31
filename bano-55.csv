@@ -514,7 +514,7 @@
 550220017U-7,7,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566179,5.390499
 550220017U-9,9,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566247,5.390461
 550220018V-10,10,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566577,5.390942
-550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566454,5.390873
+550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566483,5.390965
 550220018V-1,1,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.567272,5.390848
 550220018V-12,12,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566304,5.391260
 550220018V-14,14,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566325,5.391413
@@ -4733,21 +4733,21 @@
 551860010Y-7,7,Rue de Begarenne,55000,Fains-Véel,C+O,48.786290,5.132883
 551860010Y-8,8,Rue de Begarenne,55000,Fains-Véel,C+O,48.786205,5.132896
 551860010Y-9,9,Rue de Begarenne,55000,Fains-Véel,C+O,48.786242,5.133120
-551860014C-11,11,Rue Cachon,55000,Fains-Véel,OSM,48.790334,5.122737
+551860014C-11,11,Rue du Cachon,55000,Fains-Véel,OSM,48.790334,5.122737
 551860014C-1,1,Rue du Cachon,55000,Fains-Véel,C+O,48.790066,5.123102
-551860014C-13,13,Rue Cachon,55000,Fains-Véel,OSM,48.790415,5.122749
-551860014C-15,15,Rue Cachon,55000,Fains-Véel,OSM,48.790451,5.122810
-551860014C-17,17,Rue Cachon,55000,Fains-Véel,OSM,48.790514,5.122882
-551860014C-19,19,Rue Cachon,55000,Fains-Véel,OSM,48.790548,5.123031
-551860014C-21,21,Rue Cachon,55000,Fains-Véel,OSM,48.790624,5.123107
-551860014C-2,2,Rue Cachon,55000,Fains-Véel,OSM,48.790009,5.123420
-551860014C-3,3,Rue Cachon,55000,Fains-Véel,OSM,48.790006,5.123083
-551860014C-4,4,Rue Cachon,55000,Fains-Véel,OSM,48.790188,5.123213
-551860014C-5,5,Rue Cachon,55000,Fains-Véel,OSM,48.790092,5.122996
-551860014C-6,6,Rue Cachon,55000,Fains-Véel,OSM,48.790271,5.123081
-551860014C-7,7,Rue Cachon,55000,Fains-Véel,OSM,48.790126,5.122846
-551860014C-8,8,Rue Cachon,55000,Fains-Véel,OSM,48.790419,5.123254
-551860014C-9,9,Rue Cachon,55000,Fains-Véel,OSM,48.790228,5.122687
+551860014C-13,13,Rue du Cachon,55000,Fains-Véel,OSM,48.790415,5.122749
+551860014C-15,15,Rue du Cachon,55000,Fains-Véel,OSM,48.790451,5.122810
+551860014C-17,17,Rue du Cachon,55000,Fains-Véel,OSM,48.790514,5.122882
+551860014C-19,19,Rue du Cachon,55000,Fains-Véel,OSM,48.790548,5.123031
+551860014C-21,21,Rue du Cachon,55000,Fains-Véel,OSM,48.790624,5.123107
+551860014C-2,2,Rue du Cachon,55000,Fains-Véel,OSM,48.790009,5.123420
+551860014C-3,3,Rue du Cachon,55000,Fains-Véel,OSM,48.790006,5.123083
+551860014C-4,4,Rue du Cachon,55000,Fains-Véel,OSM,48.790188,5.123213
+551860014C-5,5,Rue du Cachon,55000,Fains-Véel,OSM,48.790092,5.122996
+551860014C-6,6,Rue du Cachon,55000,Fains-Véel,OSM,48.790271,5.123081
+551860014C-7,7,Rue du Cachon,55000,Fains-Véel,OSM,48.790126,5.122846
+551860014C-8,8,Rue du Cachon,55000,Fains-Véel,OSM,48.790419,5.123254
+551860014C-9,9,Rue du Cachon,55000,Fains-Véel,OSM,48.790228,5.122687
 551860018G-11,11,Rue de la Chalaide,55000,Fains-Véel,CAD,48.789316,5.121996
 551860018G-1,1,Rue de la Chalaide,55000,Fains-Véel,CAD,48.789506,5.122473
 551860018G-12,12,Rue de la Chalaide,55000,Fains-Véel,CAD,48.789087,5.121328
@@ -6231,7 +6231,7 @@
 552280075L-6,6,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038623,5.656788
 552280075L-8,8,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038338,5.656188
 552280085X-2,2,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038353,5.659221
-552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038788,5.659434
+552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038771,5.658994
 552280095H-10,10,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037507,5.657100
 552280095H-11,11,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037034,5.657047
 552280095H-11B,11BIS,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.036839,5.656716
@@ -6263,7 +6263,7 @@
 552280125R-8,8,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037715,5.658861
 552280125R-9,9,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037062,5.660162
 552280135B-3,3,Rue de Wadonville,55210,Hannonville-sous-les-Côtes,OSM,49.043799,5.662341
-55228B055W-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043358,5.662999
+55228B055W-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
 55228B055W-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
 55228B055W-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
 55228B055W-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
@@ -11772,6 +11772,61 @@
 553910060L-7B,7BIS,Rue de l'Usine,55700,Olizy-sur-Chiers,CAD,49.554899,5.224200
 553910060L-8,8,Rue de l'Usine,55700,Olizy-sur-Chiers,CAD,49.555337,5.222297
 553910060L-9,9,Rue de l'Usine,55700,Olizy-sur-Chiers,CAD,49.552192,5.226436
+553980010B-10,10,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689150,5.721969
+553980010B-11,11,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689410,5.721967
+553980010B-1,1,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.688833,5.720328
+553980010B-13,13,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689466,5.722054
+553980010B-14,14,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689437,5.722409
+553980010B-15,15,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689602,5.722243
+553980010B-16,16,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689630,5.722603
+553980010B-17,17,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689708,5.722359
+553980010B-18,18,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689696,5.722706
+553980010B-19,19,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689946,5.722445
+553980010B-20,20,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689854,5.722961
+553980010B-21,21,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690000,5.722801
+553980010B-22,22,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689918,5.723061
+553980010B-2,2,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.688755,5.721176
+553980010B-23,23,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690169,5.722810
+553980010B-24,24,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690110,5.723350
+553980010B-25,25,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690270,5.723006
+553980010B-26,26,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690173,5.723446
+553980010B-27,27,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690432,5.723201
+553980010B-28,28,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690357,5.723739
+553980010B-29,29,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690754,5.723780
+553980010B-30,30,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690517,5.723985
+553980010B-31,31,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690946,5.724042
+553980010B-32,32,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690675,5.724218
+553980010B-33,33,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691075,5.724289
+553980010B-3,3,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.688927,5.720454
+553980010B-34,34,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690747,5.724326
+553980010B-35,35,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691206,5.724487
+553980010B-36,36,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.690912,5.724579
+553980010B-37,37,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691377,5.724609
+553980010B-38,38,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691054,5.724794
+553980010B-39,39,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691438,5.725004
+553980010B-40,40,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691125,5.724903
+553980010B-41,41,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691671,5.725371
+553980010B-42,42,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691176,5.725313
+553980010B-43,43,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691812,5.725594
+553980010B-43B,43B,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692206,5.726127
+553980010B-44,44,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691244,5.725418
+553980010B-4,4,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.688880,5.721396
+553980010B-45,45,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692379,5.726332
+553980010B-46,46,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691504,5.725486
+553980010B-47,47,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692520,5.726724
+553980010B-48,48,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691568,5.725583
+553980010B-49,49,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692735,5.727153
+553980010B-50,50,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691683,5.726088
+553980010B-51,51,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692959,5.727602
+553980010B-52,52,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.691885,5.726750
+553980010B-53,53,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.693095,5.727866
+553980010B-54A,54A,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692408,5.727296
+553980010B-54B,54B,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692267,5.727466
+553980010B-54C,54C,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692181,5.727562
+553980010B-54D,54D,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.692039,5.727726
+553980010B-55,55,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.693340,5.728363
+553980010B-5,5,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689077,5.721523
+553980010B-57,57,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.693436,5.728583
 553980010B-59,59,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.693563,5.728634
 553980010B-60,60,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.693804,5.729716
 553980010B-61,61,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.693615,5.728915
@@ -11780,6 +11835,7 @@
 553980010B-64,64,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.694124,5.730324
 553980010B-65,65,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.694157,5.729511
 553980010B-66,66,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.694622,5.731225
+553980010B-6,6,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689009,5.721620
 553980010B-67,67,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.694283,5.729580
 553980010B-68,68,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.694671,5.731508
 553980010B-69,69,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.694263,5.729879
@@ -11791,6 +11847,7 @@
 553980010B-75,75,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.694787,5.730853
 553980010B-76,76,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.695095,5.731900
 553980010B-77,77,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.695657,5.732334
+553980010B-7,7,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689259,5.721733
 553980010B-78,78,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.695279,5.732350
 553980010B-79,79,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.695752,5.732473
 553980010B-80,80,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.695330,5.732422
@@ -11805,6 +11862,8 @@
 553980010B-84B,84BIS,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.695841,5.733053
 553980010B-84T,84TER,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.695875,5.733102
 553980010B-86,86,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.696183,5.733401
+553980010B-8,8,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689051,5.721702
+553980010B-9,9,Avenue du Général de Gaulle,55190,Pagny-sur-Meuse,OSM,48.689363,5.721895
 553980014F-10,10,Rue Léon Chausson,55190,Pagny-sur-Meuse,OSM,48.694391,5.739434
 553980014F-11,11,Rue Léon Chausson,55190,Pagny-sur-Meuse,OSM,48.694524,5.739478
 553980014F-1,1,Rue Léon Chausson,55190,Pagny-sur-Meuse,OSM,48.694802,5.738204
@@ -11823,6 +11882,14 @@
 553980014F-7,7,Rue Léon Chausson,55190,Pagny-sur-Meuse,OSM,48.694624,5.738995
 553980014F-8,8,Rue Léon Chausson,55190,Pagny-sur-Meuse,OSM,48.694467,5.739068
 553980014F-9,9,Rue Léon Chausson,55190,Pagny-sur-Meuse,OSM,48.694545,5.739374
+553980016H-11,11,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.691111,5.726240
+553980016H-1,1,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.690432,5.725434
+553980016H-13,13,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.691245,5.726047
+553980016H-2,2,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.691290,5.726413
+553980016H-3,3,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.690548,5.725648
+553980016H-5,5,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.690698,5.725846
+553980016H-7,7,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.690769,5.726096
+553980016H-9,9,Rue des Marais,55190,Pagny-sur-Meuse,OSM,48.690898,5.726373
 553980019L-11,11,Rue de la Petite Livière,55190,Pagny-sur-Meuse,OSM,48.693601,5.732431
 553980019L-1,1,Rue de la Petite Livière,55190,Pagny-sur-Meuse,OSM,48.694294,5.731440
 553980019L-12,12,Rue de la Petite Livière,55190,Pagny-sur-Meuse,OSM,48.693754,5.731716
@@ -11855,6 +11922,29 @@
 553980019L-7,7,Rue de la Petite Livière,55190,Pagny-sur-Meuse,OSM,48.693821,5.732041
 553980019L-8,8,Rue de la Petite Livière,55190,Pagny-sur-Meuse,OSM,48.693945,5.731477
 553980019L-9,9,Rue de la Petite Livière,55190,Pagny-sur-Meuse,OSM,48.693754,5.732287
+553980029X-1,1,Rue du Mont,55190,Pagny-sur-Meuse,OSM,48.690223,5.719368
+553980029X-2,2,Rue du Mont,55190,Pagny-sur-Meuse,OSM,48.690510,5.720514
+553980029X-3,3,Rue du Mont,55190,Pagny-sur-Meuse,OSM,48.690470,5.718712
+553980029X-4,4,Rue du Mont,55190,Pagny-sur-Meuse,OSM,48.690850,5.720077
+553980029X-6,6,Rue du Mont,55190,Pagny-sur-Meuse,OSM,48.690736,5.719500
+553980031Z-10,10,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689932,5.724508
+553980031Z-1,1,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.690643,5.724880
+553980031Z-12,12,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689825,5.724329
+553980031Z-14,14,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689763,5.724211
+553980031Z-16,16,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689650,5.724038
+553980031Z-18,18,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689597,5.723949
+553980031Z-20,20,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689499,5.723768
+553980031Z-22,22,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689445,5.723488
+553980031Z-2,2,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.690453,5.724745
+553980031Z-24,24,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689551,5.723317
+553980031Z-26,26,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689713,5.723482
+553980031Z-28,28,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689831,5.723641
+553980031Z-30,30,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689889,5.723732
+553980031Z-32,32,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.689991,5.723905
+553980031Z-3,3,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.690518,5.725063
+553980031Z-4,4,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.690330,5.724936
+553980031Z-6,6,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.690203,5.724532
+553980031Z-8,8,Rue de la Souche,55190,Pagny-sur-Meuse,OSM,48.690084,5.724705
 553980033B-1,1,Rue du Perlot,55190,Pagny-sur-Meuse,OSM,48.695246,5.731627
 553980033B-2,2,Rue du Perlot,55190,Pagny-sur-Meuse,OSM,48.696022,5.732128
 553980033B-3,3,Rue du Perlot,55190,Pagny-sur-Meuse,OSM,48.695576,5.731776
@@ -11914,6 +12004,20 @@
 553980039H-5,5,Rue de la Vieille Usine,55190,Pagny-sur-Meuse,OSM,48.695125,5.735484
 553980039H-7,7,Rue de la Vieille Usine,55190,Pagny-sur-Meuse,OSM,48.695027,5.735431
 553980039H-9,9,Rue de la Vieille Usine,55190,Pagny-sur-Meuse,OSM,48.694964,5.735383
+553980041K-10,10,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.693094,5.729111
+553980041K-1,1,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692421,5.729338
+553980041K-12,12,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692955,5.728828
+553980041K-16,16,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692757,5.728420
+553980041K-18,18,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692631,5.728159
+553980041K-21,21,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692320,5.728073
+553980041K-22,22,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692133,5.728297
+553980041K-2,2,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692539,5.729582
+553980041K-23,23,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692189,5.728742
+553980041K-3,3,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692645,5.729783
+553980041K-4,4,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692711,5.729952
+553980041K-6,6,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.692930,5.729783
+553980041K-7,7,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.693118,5.729589
+553980041K-9,9,Rue des Jardins,55190,Pagny-sur-Meuse,OSM,48.693216,5.729318
 553990005S-10,10,Rue de l'Église,55160,Pareid,CAD,49.117445,5.715060
 553990005S-11,11,Rue de l'Église,55160,Pareid,CAD,49.117518,5.714311
 553990005S-1,1,Rue de l'Église,55160,Pareid,CAD,49.117155,5.712634
