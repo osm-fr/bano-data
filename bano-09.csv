@@ -115,11 +115,11 @@
 090500004H-4,4,Chemin de Calam,09100,Benagues,CAD,43.077704,1.612938
 090500004H-7,7,Chemin de Calam,09100,Benagues,CAD,43.078614,1.611604
 090500005J-3,3,Impasse Las Carrières,09100,Benagues,CAD,43.074476,1.611038
-090500006K-1,1,Chemin des carrières,09100,Benagues,C+O,43.076122,1.612677
-090500006K-1B,1BIS,Chemin des carrières,09100,Benagues,C+O,43.076301,1.612916
-090500006K-2,2,Chemin des carrières,09100,Benagues,C+O,43.075555,1.612231
-090500006K-4,4,Chemin des carrières,09100,Benagues,C+O,43.075192,1.612157
-090500006K-6,6,Chemin des carrières,09100,Benagues,C+O,43.074847,1.611929
+090500006K-1,1,Chemin des Carrières,09100,Benagues,C+O,43.076122,1.612677
+090500006K-1B,1BIS,Chemin des Carrières,09100,Benagues,C+O,43.076301,1.612916
+090500006K-2,2,Chemin des Carrières,09100,Benagues,C+O,43.075555,1.612231
+090500006K-4,4,Chemin des Carrières,09100,Benagues,C+O,43.075192,1.612157
+090500006K-6,6,Chemin des Carrières,09100,Benagues,C+O,43.074847,1.611929
 090500007L-1,1,Chemin de Charly,09100,Benagues,CAD,43.080389,1.618395
 090500007L-127,127,Chemin de Charly,09100,Benagues,CAD,43.080596,1.618202
 090500007L-128,128,Chemin de Charly,09100,Benagues,CAD,43.079600,1.618374
@@ -11505,10 +11505,10 @@
 092254560Z-8,8,Route de Villeneuve,09100,Pamiers,C+O,43.121571,1.614242
 092254560Z-9,9,Route de Villeneuve,09100,Pamiers,C+O,43.121895,1.615129
 092254560Z-9B,9BIS,Route de Villeneuve,09100,Pamiers,C+O,43.122164,1.615009
-092254561A-49,49,Impasse de la route de Villeneuve,09100,Pamiers,C+O,43.131209,1.622375
-092254561A-51,51,Impasse de la route de Villeneuve,09100,Pamiers,C+O,43.131261,1.622549
-092254561A-53,53,Impasse de la route de Villeneuve,09100,Pamiers,C+O,43.131396,1.622676
-092254561A-78,78,Impasse de la route de Villeneuve,09100,Pamiers,C+O,43.130899,1.621840
+092254561A-49,49,Impasse de la Route de Villeneuve,09100,Pamiers,C+O,43.131209,1.622375
+092254561A-51,51,Impasse de la Route de Villeneuve,09100,Pamiers,C+O,43.131261,1.622549
+092254561A-53,53,Impasse de la Route de Villeneuve,09100,Pamiers,C+O,43.131396,1.622676
+092254561A-78,78,Impasse de la Route de Villeneuve,09100,Pamiers,C+O,43.130899,1.621840
 092254574P-1,1,Chemin des Violettes,09100,Pamiers,C+O,43.110529,1.607734
 09225A014C-1,1,Lotissement des Canonges,09100,Pamiers,CAD,43.112321,1.624904
 09225A014C-2,2,Lotissement des Canonges,09100,Pamiers,CAD,43.112591,1.624806
@@ -12292,15 +12292,15 @@
 092450204C-9,9,Impasse des Iris,09120,Rieux-de-Pelleport,C+O,43.058066,1.615327
 092450205D-1,1,Impasse des Jardins,09120,Rieux-de-Pelleport,CAD,43.064999,1.613742
 092450205D-2,2,Impasse des Jardins,09120,Rieux-de-Pelleport,CAD,43.064846,1.613743
-092450207F-1,1,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.060741,1.612101
-092450207F-2,2,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.060749,1.611934
-092450207F-2B,2BIS,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.060897,1.611792
-092450207F-3,3,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.061177,1.611932
-092450207F-4,4,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.061461,1.611836
-092450207F-5,5,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.061347,1.612068
-092450207F-6,6,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.061346,1.612343
-092450207F-7,7,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.061283,1.612383
-092450207F-8,8,Rue des jonquilles,09120,Rieux-de-Pelleport,C+O,43.060805,1.612172
+092450207F-1,1,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.060741,1.612101
+092450207F-2,2,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.060749,1.611934
+092450207F-2B,2BIS,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.060897,1.611792
+092450207F-3,3,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.061177,1.611932
+092450207F-4,4,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.061461,1.611836
+092450207F-5,5,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.061347,1.612068
+092450207F-6,6,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.061346,1.612343
+092450207F-7,7,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.061283,1.612383
+092450207F-8,8,Rue des Jonquilles,09120,Rieux-de-Pelleport,C+O,43.060805,1.612172
 092450210J-10,10,Route de Loubens,09120,Rieux-de-Pelleport,CAD,43.056818,1.609105
 092450210J-11,11,Route de Loubens,09120,Rieux-de-Pelleport,CAD,43.057004,1.609397
 092450210J-1,1,Route de Loubens,09120,Rieux-de-Pelleport,CAD,43.057404,1.609702
@@ -12417,20 +12417,20 @@
 092450260N-2,2,Rue de Peyreblanque,09120,Rieux-de-Pelleport,CAD,43.057521,1.610072
 092450260N-3,3,Rue de Peyreblanque,09120,Rieux-de-Pelleport,CAD,43.057248,1.609915
 092450260N-6,6,Rue de Peyreblanque,09120,Rieux-de-Pelleport,CAD,43.057225,1.609736
-092450270Z-10,10,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066411,1.613515
-092450270Z-10B,10BIS,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066372,1.613706
-092450270Z-12,12,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066357,1.613798
-092450270Z-2,2,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066700,1.611844
-092450270Z-2B,2BIS,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066655,1.612118
-092450270Z-3,3,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066715,1.612821
-092450270Z-3B,3BIS,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066881,1.612908
-092450270Z-4,4,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066602,1.612442
-092450270Z-5,5,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066725,1.612975
-092450270Z-5B,5BIS,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066870,1.612973
-092450270Z-6,6,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066548,1.612787
-092450270Z-7,7,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066530,1.613359
-092450270Z-8,8,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066474,1.613208
-092450270Z-9,9,Chemin de la plaine,09120,Rieux-de-Pelleport,C+O,43.066464,1.613710
+092450270Z-10,10,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066411,1.613515
+092450270Z-10B,10BIS,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066372,1.613706
+092450270Z-12,12,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066357,1.613798
+092450270Z-2,2,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066700,1.611844
+092450270Z-2B,2BIS,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066655,1.612118
+092450270Z-3,3,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066715,1.612821
+092450270Z-3B,3BIS,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066881,1.612908
+092450270Z-4,4,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066602,1.612442
+092450270Z-5,5,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066725,1.612975
+092450270Z-5B,5BIS,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066870,1.612973
+092450270Z-6,6,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066548,1.612787
+092450270Z-7,7,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066530,1.613359
+092450270Z-8,8,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066474,1.613208
+092450270Z-9,9,Chemin de la Plaine,09120,Rieux-de-Pelleport,C+O,43.066464,1.613710
 092450272B-11,11,Rue du Plantaurel,09120,Rieux-de-Pelleport,CAD,43.059724,1.610333
 092450272B-1,1,Rue du Plantaurel,09120,Rieux-de-Pelleport,CAD,43.060303,1.609472
 092450272B-15,15,Rue du Plantaurel,09120,Rieux-de-Pelleport,CAD,43.060727,1.609985
@@ -12513,31 +12513,31 @@
 092450310T-3,3,Rue de Sicart,09120,Rieux-de-Pelleport,CAD,43.058714,1.610195
 092450310T-5,5,Rue de Sicart,09120,Rieux-de-Pelleport,CAD,43.058744,1.610325
 092450310T-7,7,Rue de Sicart,09120,Rieux-de-Pelleport,CAD,43.058881,1.610362
-092450320D-1,1,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.063272,1.609818
-092450320D-12,12,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.064569,1.610847
-092450320D-13,13,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.064663,1.610764
-092450320D-14,14,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.064633,1.610864
-092450320D-15,15,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.064922,1.610807
-092450320D-16,16,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065050,1.610958
-092450320D-17,17,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065077,1.610228
-092450320D-18,18,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065325,1.611440
-092450320D-19,19,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065134,1.610845
-092450320D-19B,19BIS,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065097,1.610838
-092450320D-20,20,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065681,1.611094
-092450320D-21,21,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065379,1.610905
-092450320D-2,2,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.063459,1.610651
-092450320D-23,23,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065752,1.610986
-092450320D-23B,23BIS,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065976,1.609625
-092450320D-24,24,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065864,1.611131
-092450320D-25,25,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.065860,1.611000
-092450320D-26,26,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.066358,1.611242
-092450320D-27,27,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.066098,1.611057
-092450320D-28,28,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.066589,1.611302
-092450320D-29,29,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.066289,1.611112
-092450320D-31,31,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.066440,1.611153
-092450320D-3,3,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.063461,1.610554
-092450320D-5,5,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.063455,1.609498
-092450320D-9,9,Chemin de terrefort,09120,Rieux-de-Pelleport,C+O,43.063976,1.610368
+092450320D-1,1,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.063272,1.609818
+092450320D-12,12,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.064569,1.610847
+092450320D-13,13,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.064663,1.610764
+092450320D-14,14,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.064633,1.610864
+092450320D-15,15,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.064922,1.610807
+092450320D-16,16,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065050,1.610958
+092450320D-17,17,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065077,1.610228
+092450320D-18,18,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065325,1.611440
+092450320D-19,19,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065134,1.610845
+092450320D-19B,19BIS,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065097,1.610838
+092450320D-20,20,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065681,1.611094
+092450320D-21,21,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065379,1.610905
+092450320D-2,2,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.063459,1.610651
+092450320D-23,23,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065752,1.610986
+092450320D-23B,23BIS,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065976,1.609625
+092450320D-24,24,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065864,1.611131
+092450320D-25,25,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.065860,1.611000
+092450320D-26,26,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.066358,1.611242
+092450320D-27,27,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.066098,1.611057
+092450320D-28,28,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.066589,1.611302
+092450320D-29,29,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.066289,1.611112
+092450320D-31,31,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.066440,1.611153
+092450320D-3,3,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.063461,1.610554
+092450320D-5,5,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.063455,1.609498
+092450320D-9,9,Chemin de Terrefort,09120,Rieux-de-Pelleport,C+O,43.063976,1.610368
 092450321E-2,2,Impasse du Terrefort,09120,Rieux-de-Pelleport,CAD,43.064276,1.610371
 092450321E-6,6,Impasse du Terrefort,09120,Rieux-de-Pelleport,CAD,43.064384,1.609175
 092450330P-11,11,Route de Varilhes,09120,Rieux-de-Pelleport,CAD,43.056038,1.615212
@@ -13671,31 +13671,31 @@
 092650090S-6,6,Rue de la Gare,09100,Saint-Jean-du-Falga,CAD,43.081658,1.630478
 092650090S-7,7,Rue de la Gare,09100,Saint-Jean-du-Falga,CAD,43.081737,1.630549
 092650090S-8,8,Rue de la Gare,09100,Saint-Jean-du-Falga,CAD,43.081617,1.630767
-092650095X-10,10,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.084099,1.628297
-092650095X-12,12,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.083620,1.628508
-092650095X-14,14,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.083371,1.628592
-092650095X-16,16,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.083197,1.628647
-092650095X-17,17,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.083074,1.628805
-092650095X-18,18,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.082384,1.628841
-092650095X-20,20,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.081524,1.629099
-092650095X-22,22,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.081271,1.629139
-092650095X-2,2,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.085105,1.627921
-092650095X-24,24,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.080860,1.628458
-092650095X-24B,24BIS,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.080860,1.628476
-092650095X-26,26,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.080999,1.629236
-092650095X-27,27,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.082193,1.629029
-092650095X-30,30,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.079984,1.629490
-092650095X-31,31,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.081470,1.629408
-092650095X-32,32,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.079605,1.629533
-092650095X-3,3,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.084471,1.628235
-092650095X-34,34,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.079238,1.629566
-092650095X-37,37,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.080840,1.629380
-092650095X-4,4,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.084723,1.628015
-092650095X-51,51,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.079553,1.629826
-092650095X-5,5,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.084360,1.628294
-092650095X-6,6,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.084678,1.628026
-092650095X-7,7,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.084138,1.628421
-092650095X-8,8,Rue gaston de foix,09100,Saint-Jean-du-Falga,C+O,43.084380,1.628159
+092650095X-10,10,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.084099,1.628297
+092650095X-12,12,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.083620,1.628508
+092650095X-14,14,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.083371,1.628592
+092650095X-16,16,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.083197,1.628647
+092650095X-17,17,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.083074,1.628805
+092650095X-18,18,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.082384,1.628841
+092650095X-20,20,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.081524,1.629099
+092650095X-22,22,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.081271,1.629139
+092650095X-2,2,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.085105,1.627921
+092650095X-24,24,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.080860,1.628458
+092650095X-24B,24BIS,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.080860,1.628476
+092650095X-26,26,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.080999,1.629236
+092650095X-27,27,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.082193,1.629029
+092650095X-30,30,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.079984,1.629490
+092650095X-31,31,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.081470,1.629408
+092650095X-32,32,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.079605,1.629533
+092650095X-3,3,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.084471,1.628235
+092650095X-34,34,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.079238,1.629566
+092650095X-37,37,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.080840,1.629380
+092650095X-4,4,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.084723,1.628015
+092650095X-51,51,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.079553,1.629826
+092650095X-5,5,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.084360,1.628294
+092650095X-6,6,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.084678,1.628026
+092650095X-7,7,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.084138,1.628421
+092650095X-8,8,Rue Gaston de Foix,09100,Saint-Jean-du-Falga,C+O,43.084380,1.628159
 092650096Y-10,10,Place du Général de Gaulle,09100,Saint-Jean-du-Falga,CAD,43.093983,1.618163
 092650096Y-1,1,Place du Général de Gaulle,09100,Saint-Jean-du-Falga,CAD,43.093718,1.618104
 092650096Y-12,12,Place du Général de Gaulle,09100,Saint-Jean-du-Falga,CAD,43.094049,1.617826
