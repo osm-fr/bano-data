@@ -1220,6 +1220,7 @@
 520600010F-114,114,Rue Amiral Pierre,52400,Bourbonne-les-Bains,C+O,47.951942,5.754236
 520600010F-118,118,Rue Amiral Pierre,52400,Bourbonne-les-Bains,C+O,47.951772,5.754362
 520600010F-1,1,Rue Amiral Pierre,52400,Bourbonne-les-Bains,C+O,47.951911,5.747588
+520600010F-12,12,Rue Amiral Pierre,52400,Bourbonne-les-Bains,OSM,47.951547,5.748339
 520600010F-22,22,Rue Amiral Pierre,52400,Bourbonne-les-Bains,C+O,47.951597,5.748751
 520600010F-2,2,Rue Amiral Pierre,52400,Bourbonne-les-Bains,C+O,47.951367,5.747570
 520600010F-24,24,Rue Amiral Pierre,52400,Bourbonne-les-Bains,C+O,47.951628,5.748894
@@ -1439,7 +1440,7 @@
 520600120A-16,16,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.949593,5.747319
 520600120A-17,17,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.950820,5.748159
 520600120A-18,18,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.949488,5.747305
-520600120A-19,19,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.950703,5.748149
+520600120A-19,19,Rue de la Chavanne,52400,Bourbonne-les-Bains,OSM,47.950672,5.748170
 520600120A-20B,20BIS,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.949401,5.747272
 520600120A-21,21,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.950642,5.748178
 520600120A-28,28,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.949263,5.747151
@@ -1864,7 +1865,7 @@
 520600370X-15,15,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.955308,5.753973
 520600370X-2,2,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.953966,5.752915
 520600370X-3,3,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.954127,5.752803
-520600370X-4,4,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.954030,5.752980
+520600370X-4,4,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,OSM,47.954057,5.752963
 520600370X-5,5,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.954335,5.753012
 520600370X-6,6,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.954134,5.753080
 520600370X-7,7,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.955017,5.753101
@@ -1981,7 +1982,7 @@
 520600430M-24,24,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950487,5.742968
 520600430M-25,25,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950666,5.744359
 520600430M-28,28,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950428,5.742398
-520600430M-29,29,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950606,5.744075
+520600430M-29,29,Rue d'Orfeuil,52400,Bourbonne-les-Bains,OSM,47.950631,5.744309
 520600430M-30,30,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950430,5.742266
 520600430M-32,32,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950438,5.741915
 520600430M-33,33,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950574,5.743879
@@ -2001,6 +2002,7 @@
 520600430M-53,53,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950404,5.743011
 520600430M-55,55,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950374,5.742879
 520600430M-5,5,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950800,5.745686
+520600430M-57,57,Rue d'Orfeuil,52400,Bourbonne-les-Bains,OSM,47.950320,5.742894
 520600430M-59,59,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950334,5.742695
 520600430M-61,61,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950317,5.742617
 520600430M-63,63,Rue d'Orfeuil,52400,Bourbonne-les-Bains,C+O,47.950357,5.742088
@@ -2060,7 +2062,7 @@
 520600450J-4,4,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953001,5.747653
 520600450J-6,6,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.952947,5.747609
 520600450J-7,7,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953207,5.747910
-520600450J-8,8,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.952858,5.747502
+520600450J-8,8,Rue Porte Gallon,52400,Bourbonne-les-Bains,OSM,47.952825,5.747527
 520600450J-9,9,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953097,5.747877
 520600459U-10,10,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951536,5.753414
 520600459U-11,11,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951258,5.752956
@@ -2387,7 +2389,7 @@
 520600590L-1,1,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.961285,5.757412
 520600590L-2,2,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.958675,5.755554
 520600590L-4,4,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.961622,5.757957
-520600590L-6,6,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.962500,5.758631
+520600590L-6,6,Route de Vittel,52400,Bourbonne-les-Bains,OSM,47.961990,5.758258
 520600590L-8,8,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.963704,5.760446
 520600600X-1,1,Rue Champagne A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917844,5.749929
 520600600X-3,3,Rue Champagne A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917966,5.749935
@@ -5388,7 +5390,7 @@
 521140100U-1,1,Rue Lasnet,52120,Châteauvillain,C+O,48.035043,4.918301
 521140100U-2,2,Rue Lasnet,52120,Châteauvillain,OSM,48.035235,4.918496
 521140100U-4,4,Rue Lasnet,52120,Châteauvillain,OSM,48.035205,4.918363
-521140100U-6,6,Rue Lasnet,52120,Châteauvillain,OSM,48.035150,4.918240
+521140100U-6,6,Rue Lasnet,52120,Châteauvillain,OSM,48.035224,4.918230
 521140103X-1,1,Rue des lavoirs,52120,Châteauvillain,C+O,48.039030,4.918971
 521140103X-2,2,Rue des lavoirs,52120,Châteauvillain,C+O,48.038947,4.918868
 521140103X-3,3,Rue des lavoirs,52120,Châteauvillain,C+O,48.039015,4.919396
