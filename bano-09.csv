@@ -730,22 +730,22 @@
 09099A025M-8,8,Lubenac,09000,Cos,CAD,42.973583,1.561312
 09099A032V-1,1,Le Planal,09000,Cos,CAD,42.978985,1.568891
 09099A032V-3,3,Le Planal,09000,Cos,CAD,42.978533,1.568115
-09099A033W-11,11,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.969995,1.580472
-09099A033W-1,1,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.969948,1.578737
-09099A033W-12,12,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970012,1.580126
-09099A033W-13,13,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970037,1.579748
-09099A033W-14,14,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970060,1.579379
-09099A033W-15,15,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970079,1.579035
-09099A033W-17,17,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970016,1.580886
-09099A033W-19,19,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.969876,1.581404
-09099A033W-20,20,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.969801,1.581341
-09099A033W-22,22,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.969933,1.580838
-09099A033W-2,2,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970140,1.578816
-09099A033W-3,3,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970163,1.579052
-09099A033W-4,4,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970138,1.579445
-09099A033W-5,5,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970120,1.579727
-09099A033W-6,6,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970094,1.580178
-09099A033W-7,7,Lotissement de la Plaine de Caussou,09000,Cos,CAD,42.970080,1.580479
+09099A033W-11,11,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.969995,1.580472
+09099A033W-1,1,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.969948,1.578737
+09099A033W-12,12,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970012,1.580126
+09099A033W-13,13,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970037,1.579748
+09099A033W-14,14,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970060,1.579379
+09099A033W-15,15,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970079,1.579035
+09099A033W-17,17,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970016,1.580886
+09099A033W-19,19,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.969876,1.581404
+09099A033W-20,20,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.969801,1.581341
+09099A033W-22,22,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.969933,1.580838
+09099A033W-2,2,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970140,1.578816
+09099A033W-3,3,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970163,1.579052
+09099A033W-4,4,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970138,1.579445
+09099A033W-5,5,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970120,1.579727
+09099A033W-6,6,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970094,1.580178
+09099A033W-7,7,Lotissement de la Plaine de Caussou,09000,Cos,C+O,42.970080,1.580479
 09099A035Y-1,1,La Renardiere,09000,Cos,CAD,42.984026,1.568909
 09099A035Y-3,3,La Renardiere,09000,Cos,CAD,42.984151,1.569788
 09099A035Y-5,5,La Renardiere,09000,Cos,CAD,42.984270,1.570008
@@ -858,265 +858,265 @@
 09116A020H-3,3,Hameau des Bastides,09100,Escosse,CAD,43.131949,1.554180
 09116A020H-4,4,Hameau des Bastides,09100,Escosse,CAD,43.132620,1.553438
 09116A020H-6,6,Hameau des Bastides,09100,Escosse,CAD,43.132749,1.552987
-091210001W-1A,1A,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.943655,1.618049
-091210001W-1B,1B,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.943438,1.617746
-091210001W-2,2,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.943675,1.616946
-091210001W-3,3,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.943498,1.616587
-091210001W-356,356,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.943207,1.617319
-091210001W-4,4,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.943596,1.616489
-091210001W-6,6,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.943391,1.616331
-091210001W-7,7,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.942504,1.616025
-091210001W-7B,7BIS,Allée de la Mairie,09000,Ferrières-sur-Ariège,CAD,42.942998,1.616098
-091210002X-11,11,Impasse Les Lauriéres,09000,Ferrières-sur-Ariège,CAD,42.948104,1.618662
-091210002X-1,1,Impasse Les Lauriéres,09000,Ferrières-sur-Ariège,CAD,42.947872,1.617239
-091210002X-3,3,Impasse Les Lauriéres,09000,Ferrières-sur-Ariège,CAD,42.947918,1.617640
-091210002X-5,5,Impasse Les Lauriéres,09000,Ferrières-sur-Ariège,CAD,42.947967,1.618047
-091210002X-7,7,Impasse Les Lauriéres,09000,Ferrières-sur-Ariège,CAD,42.948058,1.618440
-091210003Y-3,3,Chemin du Pages,09000,Ferrières-sur-Ariège,CAD,42.939863,1.615960
-091210003Y-5,5,Chemin du Pages,09000,Ferrières-sur-Ariège,CAD,42.939555,1.615990
-091210003Y-7,7,Chemin du Pages,09000,Ferrières-sur-Ariège,CAD,42.939301,1.616011
-091210004Z-10,10,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940874,1.619299
-091210004Z-10B,10BIS,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940692,1.619518
-091210004Z-11,11,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940876,1.619188
-091210004Z-12,12,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940574,1.619332
-091210004Z-12B,12BIS,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.939854,1.619486
-091210004Z-14,14,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940349,1.619323
-091210004Z-15,15,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940261,1.619187
-091210004Z-17,17,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940241,1.618511
-091210004Z-21,21,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940143,1.618834
-091210004Z-2,2,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.941578,1.619213
-091210004Z-23,23,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940058,1.618564
-091210004Z-24,24,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940018,1.618389
-091210004Z-25,25,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.939008,1.619005
-091210004Z-27,27,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.939993,1.617991
-091210004Z-336,336,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.939022,1.618718
-091210004Z-4,4,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.941503,1.619222
-091210004Z-5,5,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.941049,1.619165
-091210004Z-6,6,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.941278,1.620095
-091210004Z-7,7,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.941141,1.619152
-091210004Z-8,8,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.941046,1.619280
-091210004Z-9,9,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,CAD,42.940966,1.619176
-091210005A-1,1,Avenue de la Barriére,09000,Ferrières-sur-Ariège,CAD,42.946967,1.616671
-091210005A-2,2,Avenue de la Barriére,09000,Ferrières-sur-Ariège,CAD,42.947294,1.617122
-091210005A-2B,2BIS,Avenue de la Barriére,09000,Ferrières-sur-Ariège,CAD,42.947726,1.617144
-091210005A-3,3,Avenue de la Barriére,09000,Ferrières-sur-Ariège,CAD,42.946967,1.616683
-091210005A-3B,3BIS,Avenue de la Barriére,09000,Ferrières-sur-Ariège,CAD,42.946729,1.617053
-091210005A-4,4,Avenue de la Barriére,09000,Ferrières-sur-Ariège,CAD,42.946853,1.618345
-091210005A-5,5,Avenue de la Barriére,09000,Ferrières-sur-Ariège,CAD,42.946360,1.616543
-091210006B-1,1,Chemin de Labur,09000,Ferrières-sur-Ariège,CAD,42.940540,1.616327
-091210007C-11,11,Chemin de la Garosse,09000,Ferrières-sur-Ariège,CAD,42.943451,1.613923
-091210007C-1,1,Chemin de la Garosse,09000,Ferrières-sur-Ariège,CAD,42.943355,1.615603
-091210007C-9,9,Chemin de la Garosse,09000,Ferrières-sur-Ariège,CAD,42.943758,1.614047
-091210008D-10,10,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940781,1.613681
-091210008D-11,11,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.942169,1.613450
-091210008D-11A,11A,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.942323,1.613360
-091210008D-12,12,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940590,1.614060
-091210008D-13,13,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941976,1.613212
-091210008D-14,14,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940538,1.613723
-091210008D-14B,14BIS,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940368,1.613843
-091210008D-15,15,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941822,1.613450
-091210008D-16,16,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940277,1.613832
-091210008D-17,17,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941561,1.613377
-091210008D-18,18,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940245,1.613877
-091210008D-19,19,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941644,1.613316
-091210008D-20,20,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940023,1.614267
-091210008D-21,21,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940985,1.613450
-091210008D-2,2,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.942291,1.613674
-091210008D-23,23,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940584,1.613660
-091210008D-25,25,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940444,1.613669
-091210008D-27,27,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940347,1.613727
-091210008D-29,29,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.940296,1.613761
-091210008D-2B,2BIS,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941874,1.615258
-091210008D-4,4,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941984,1.613547
-091210008D-5,5,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.942003,1.614172
-091210008D-6,6,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941270,1.613386
-091210008D-7,7,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.942236,1.614023
-091210008D-8,8,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.941070,1.613457
-091210008D-9,9,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.942348,1.614008
-091210008D-9B,9BIS,Chemin de Sutra,09000,Ferrières-sur-Ariège,CAD,42.942739,1.614148
-091210009E-10,10,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944264,1.617936
-091210009E-1,1,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945885,1.617258
-091210009E-12,12,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944222,1.617938
-091210009E-13,13,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944592,1.617602
-091210009E-14,14,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944144,1.617989
-091210009E-16,16,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944288,1.618658
-091210009E-17,17,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944307,1.617787
-091210009E-18,18,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.943898,1.618236
-091210009E-20,20,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.943897,1.618366
-091210009E-22,22,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.943939,1.618491
-091210009E-2,2,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945857,1.617360
-091210009E-3,3,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945648,1.617315
-091210009E-4,4,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945685,1.617417
-091210009E-5,5,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945310,1.617124
-091210009E-6,6,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944809,1.617628
-091210009E-8,8,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.944746,1.618472
-091210009E-9,9,Avenue de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945094,1.617452
-091210010F-10,10,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.945872,1.615592
-091210010F-1,1,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.947310,1.615552
-091210010F-16,16,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.945160,1.615673
-091210010F-18,18,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.944957,1.615695
-091210010F-20,20,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.944642,1.615731
-091210010F-22,22,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.944655,1.615549
-091210010F-2,2,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.947183,1.615401
-091210010F-2B,2BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.946729,1.615500
-091210010F-2T,2TER,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.946917,1.615392
-091210010F-30,30,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.943823,1.615864
-091210010F-32,32,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.943768,1.615864
-091210010F-3,3,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.944708,1.615812
-091210010F-34,34,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.943840,1.615688
-091210010F-34B,34BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.943678,1.615839
-091210010F-36,36,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.943564,1.615862
-091210010F-38,38,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.943307,1.615856
-091210010F-40,40,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.942657,1.614610
-091210010F-42,42,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.942809,1.615866
-091210010F-44,44,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.942591,1.615837
-091210010F-4,4,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.946538,1.615521
-091210010F-46,46,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.942469,1.615819
-091210010F-48,48,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.942274,1.615790
-091210010F-4B,4BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.946397,1.614933
-091210010F-4T,4TER,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.946397,1.614946
-091210010F-50,50,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.941833,1.615746
-091210010F-52,52,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.941587,1.615778
-091210010F-54,54,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.941519,1.615780
-091210010F-5,5,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.944442,1.615962
-091210010F-56,56,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.941373,1.615796
-091210010F-58,58,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.941196,1.615820
-091210010F-60,60,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.940958,1.615852
-091210010F-60B,60BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.941011,1.614972
-091210010F-62,62,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.940744,1.615881
-091210010F-64,64,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.940672,1.615379
-091210010F-66,66,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.940643,1.615180
-091210010F-6,6,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.946317,1.615543
-091210010F-68,68,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.940343,1.615710
-091210010F-70,70,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.940322,1.615407
-091210010F-72,72,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.940084,1.614502
-091210010F-7,7,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.942504,1.616025
-091210010F-8,8,Chemin des Rives,09000,Ferrières-sur-Ariège,CAD,42.946020,1.615575
-091210011G-10,10,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942630,1.620396
-091210011G-11,11,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942931,1.618811
-091210011G-1,1,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943682,1.618276
-091210011G-11B,11BIS,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942883,1.618494
-091210011G-12,12,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942717,1.619576
-091210011G-15,15,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942467,1.618179
-091210011G-17,17,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942479,1.619001
-091210011G-19,19,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942287,1.618999
-091210011G-21,21,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942124,1.619020
-091210011G-2,2,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943596,1.618467
-091210011G-23,23,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.941903,1.619041
-091210011G-3,3,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943518,1.618406
-091210011G-4,4,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943232,1.619125
-091210011G-4B,4BIS,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943363,1.620361
-091210011G-5,5,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943215,1.618631
-091210011G-6,6,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942841,1.619151
-091210011G-6A,6A,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942965,1.620223
-091210011G-6B,6B,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942869,1.619636
-091210011G-7,7,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943019,1.618210
-091210011G-8,8,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.942662,1.619061
-091210011G-9,9,Avenue du Bernet,09000,Ferrières-sur-Ariège,CAD,42.943106,1.618712
-091210012H-11,11,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.941362,1.617518
-091210012H-1,1,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.941515,1.618735
-091210012H-13,13,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.941317,1.617114
-091210012H-3,3,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.941453,1.618304
-091210012H-358,358,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.941705,1.618158
-091210012H-4,4,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.941455,1.618824
-091210012H-5,5,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.941767,1.618366
-091210012H-7,7,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.942189,1.617958
-091210012H-9,9,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,CAD,42.942029,1.617933
-091210013J-2,2,Chemin du Col de la Perche,09000,Ferrières-sur-Ariège,CAD,42.941679,1.613186
-091210013J-2B,2BIS,Chemin du Col de la Perche,09000,Ferrières-sur-Ariège,CAD,42.941826,1.613227
-091210013J-4,4,Chemin du Col de la Perche,09000,Ferrières-sur-Ariège,CAD,42.941841,1.612883
+091210001W-1A,1A,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.943655,1.618049
+091210001W-1B,1B,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.943438,1.617746
+091210001W-2,2,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.943675,1.616946
+091210001W-3,3,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.943498,1.616587
+091210001W-356,356,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.943207,1.617319
+091210001W-4,4,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.943596,1.616489
+091210001W-6,6,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.943391,1.616331
+091210001W-7,7,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.942504,1.616025
+091210001W-7B,7BIS,Allée de la Mairie,09000,Ferrières-sur-Ariège,C+O,42.942998,1.616098
+091210002X-11,11,Impasse des Lauriéres,09000,Ferrières-sur-Ariège,C+O,42.948104,1.618662
+091210002X-1,1,Impasse des Lauriéres,09000,Ferrières-sur-Ariège,C+O,42.947872,1.617239
+091210002X-3,3,Impasse des Lauriéres,09000,Ferrières-sur-Ariège,C+O,42.947918,1.617640
+091210002X-5,5,Impasse des Lauriéres,09000,Ferrières-sur-Ariège,C+O,42.947967,1.618047
+091210002X-7,7,Impasse des Lauriéres,09000,Ferrières-sur-Ariège,C+O,42.948058,1.618440
+091210003Y-3,3,Chemin du Pages,09000,Ferrières-sur-Ariège,C+O,42.939863,1.615960
+091210003Y-5,5,Chemin du Pages,09000,Ferrières-sur-Ariège,C+O,42.939555,1.615990
+091210003Y-7,7,Chemin du Pages,09000,Ferrières-sur-Ariège,C+O,42.939301,1.616011
+091210004Z-10,10,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940874,1.619299
+091210004Z-10B,10BIS,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940692,1.619518
+091210004Z-11,11,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940876,1.619188
+091210004Z-12,12,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940574,1.619332
+091210004Z-12B,12BIS,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.939854,1.619486
+091210004Z-14,14,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940349,1.619323
+091210004Z-15,15,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940261,1.619187
+091210004Z-17,17,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940241,1.618511
+091210004Z-21,21,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940143,1.618834
+091210004Z-2,2,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.941578,1.619213
+091210004Z-23,23,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940058,1.618564
+091210004Z-24,24,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940018,1.618389
+091210004Z-25,25,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.939008,1.619005
+091210004Z-27,27,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.939993,1.617991
+091210004Z-336,336,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.939022,1.618718
+091210004Z-4,4,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.941503,1.619222
+091210004Z-5,5,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.941049,1.619165
+091210004Z-6,6,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.941278,1.620095
+091210004Z-7,7,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.941141,1.619152
+091210004Z-8,8,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.941046,1.619280
+091210004Z-9,9,Plaine des Cerisiers,09000,Ferrières-sur-Ariège,C+O,42.940966,1.619176
+091210005A-1,1,Avenue de la Barriére,09000,Ferrières-sur-Ariège,C+O,42.946967,1.616671
+091210005A-2,2,Avenue de la Barriére,09000,Ferrières-sur-Ariège,C+O,42.947294,1.617122
+091210005A-2B,2BIS,Avenue de la Barriére,09000,Ferrières-sur-Ariège,C+O,42.947726,1.617144
+091210005A-3,3,Avenue de la Barriére,09000,Ferrières-sur-Ariège,C+O,42.946967,1.616683
+091210005A-3B,3BIS,Avenue de la Barriére,09000,Ferrières-sur-Ariège,C+O,42.946729,1.617053
+091210005A-4,4,Avenue de la Barriére,09000,Ferrières-sur-Ariège,C+O,42.946853,1.618345
+091210005A-5,5,Avenue de la Barriére,09000,Ferrières-sur-Ariège,C+O,42.946360,1.616543
+091210006B-1,1,Chemin de Labur,09000,Ferrières-sur-Ariège,C+O,42.940540,1.616327
+091210007C-11,11,Chemin de la Garosse,09000,Ferrières-sur-Ariège,C+O,42.943451,1.613923
+091210007C-1,1,Chemin de la Garosse,09000,Ferrières-sur-Ariège,C+O,42.943355,1.615603
+091210007C-9,9,Chemin de la Garosse,09000,Ferrières-sur-Ariège,C+O,42.943758,1.614047
+091210008D-10,10,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940781,1.613681
+091210008D-11,11,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.942169,1.613450
+091210008D-11A,11A,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.942323,1.613360
+091210008D-12,12,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940590,1.614060
+091210008D-13,13,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941976,1.613212
+091210008D-14,14,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940538,1.613723
+091210008D-14B,14BIS,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940368,1.613843
+091210008D-15,15,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941822,1.613450
+091210008D-16,16,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940277,1.613832
+091210008D-17,17,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941561,1.613377
+091210008D-18,18,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940245,1.613877
+091210008D-19,19,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941644,1.613316
+091210008D-20,20,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940023,1.614267
+091210008D-21,21,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940985,1.613450
+091210008D-2,2,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.942291,1.613674
+091210008D-23,23,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940584,1.613660
+091210008D-25,25,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940444,1.613669
+091210008D-27,27,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940347,1.613727
+091210008D-29,29,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.940296,1.613761
+091210008D-2B,2BIS,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941874,1.615258
+091210008D-4,4,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941984,1.613547
+091210008D-5,5,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.942003,1.614172
+091210008D-6,6,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941270,1.613386
+091210008D-7,7,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.942236,1.614023
+091210008D-8,8,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.941070,1.613457
+091210008D-9,9,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.942348,1.614008
+091210008D-9B,9BIS,Chemin de Sutra,09000,Ferrières-sur-Ariège,C+O,42.942739,1.614148
+091210009E-10,10,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944264,1.617936
+091210009E-1,1,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945885,1.617258
+091210009E-12,12,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944222,1.617938
+091210009E-13,13,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944592,1.617602
+091210009E-14,14,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944144,1.617989
+091210009E-16,16,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944288,1.618658
+091210009E-17,17,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944307,1.617787
+091210009E-18,18,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.943898,1.618236
+091210009E-20,20,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.943897,1.618366
+091210009E-22,22,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.943939,1.618491
+091210009E-2,2,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945857,1.617360
+091210009E-3,3,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945648,1.617315
+091210009E-4,4,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945685,1.617417
+091210009E-5,5,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945310,1.617124
+091210009E-6,6,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944809,1.617628
+091210009E-8,8,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.944746,1.618472
+091210009E-9,9,Avenue de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945094,1.617452
+091210010F-10,10,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.945872,1.615592
+091210010F-1,1,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.947310,1.615552
+091210010F-16,16,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.945160,1.615673
+091210010F-18,18,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.944957,1.615695
+091210010F-20,20,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.944642,1.615731
+091210010F-22,22,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.944655,1.615549
+091210010F-2,2,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.947183,1.615401
+091210010F-2B,2BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.946729,1.615500
+091210010F-2T,2TER,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.946917,1.615392
+091210010F-30,30,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.943823,1.615864
+091210010F-32,32,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.943768,1.615864
+091210010F-3,3,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.944708,1.615812
+091210010F-34,34,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.943840,1.615688
+091210010F-34B,34BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.943678,1.615839
+091210010F-36,36,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.943564,1.615862
+091210010F-38,38,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.943307,1.615856
+091210010F-40,40,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.942657,1.614610
+091210010F-42,42,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.942809,1.615866
+091210010F-44,44,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.942591,1.615837
+091210010F-4,4,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.946538,1.615521
+091210010F-46,46,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.942469,1.615819
+091210010F-48,48,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.942274,1.615790
+091210010F-4B,4BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.946397,1.614933
+091210010F-4T,4TER,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.946397,1.614946
+091210010F-50,50,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.941833,1.615746
+091210010F-52,52,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.941587,1.615778
+091210010F-54,54,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.941519,1.615780
+091210010F-5,5,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.944442,1.615962
+091210010F-56,56,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.941373,1.615796
+091210010F-58,58,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.941196,1.615820
+091210010F-60,60,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.940958,1.615852
+091210010F-60B,60BIS,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.941011,1.614972
+091210010F-62,62,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.940744,1.615881
+091210010F-64,64,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.940672,1.615379
+091210010F-66,66,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.940643,1.615180
+091210010F-6,6,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.946317,1.615543
+091210010F-68,68,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.940343,1.615710
+091210010F-70,70,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.940322,1.615407
+091210010F-72,72,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.940084,1.614502
+091210010F-7,7,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.942504,1.616025
+091210010F-8,8,Chemin des Rives,09000,Ferrières-sur-Ariège,C+O,42.946020,1.615575
+091210011G-10,10,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942630,1.620396
+091210011G-11,11,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942931,1.618811
+091210011G-1,1,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943682,1.618276
+091210011G-11B,11BIS,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942883,1.618494
+091210011G-12,12,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942717,1.619576
+091210011G-15,15,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942467,1.618179
+091210011G-17,17,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942479,1.619001
+091210011G-19,19,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942287,1.618999
+091210011G-21,21,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942124,1.619020
+091210011G-2,2,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943596,1.618467
+091210011G-23,23,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.941903,1.619041
+091210011G-3,3,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943518,1.618406
+091210011G-4,4,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943232,1.619125
+091210011G-4B,4BIS,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943363,1.620361
+091210011G-5,5,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943215,1.618631
+091210011G-6,6,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942841,1.619151
+091210011G-6A,6A,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942965,1.620223
+091210011G-6B,6B,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942869,1.619636
+091210011G-7,7,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943019,1.618210
+091210011G-8,8,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.942662,1.619061
+091210011G-9,9,Avenue du Bernet,09000,Ferrières-sur-Ariège,C+O,42.943106,1.618712
+091210012H-11,11,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.941362,1.617518
+091210012H-1,1,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.941515,1.618735
+091210012H-13,13,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.941317,1.617114
+091210012H-3,3,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.941453,1.618304
+091210012H-358,358,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.941705,1.618158
+091210012H-4,4,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.941455,1.618824
+091210012H-5,5,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.941767,1.618366
+091210012H-7,7,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.942189,1.617958
+091210012H-9,9,Chemin d'Eychartous,09000,Ferrières-sur-Ariège,C+O,42.942029,1.617933
+091210013J-2,2,Chemin du Col de la Perche,09000,Ferrières-sur-Ariège,C+O,42.941679,1.613186
+091210013J-2B,2BIS,Chemin du Col de la Perche,09000,Ferrières-sur-Ariège,C+O,42.941826,1.613227
+091210013J-4,4,Chemin du Col de la Perche,09000,Ferrières-sur-Ariège,C+O,42.941841,1.612883
 091210020S-1,1,Avenue Jean Durroux,09000,Ferrières-sur-Ariège,CAD,42.948631,1.617225
 091210020S-3,3,Avenue Jean Durroux,09000,Ferrières-sur-Ariège,CAD,42.948632,1.617237
-091210025X-10,10,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946868,1.618413
-091210025X-1,1,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946978,1.619394
-091210025X-12,12,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946759,1.617806
-091210025X-13,13,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946653,1.617581
-091210025X-14,14,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946705,1.617427
-091210025X-15,15,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946597,1.617386
-091210025X-2,2,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.947032,1.619333
-091210025X-4,4,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946981,1.619048
-091210025X-5,5,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946868,1.618779
-091210025X-6,6,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946921,1.618713
-091210025X-7,7,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946653,1.618523
-091210025X-9,9,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,CAD,42.946749,1.618116
-091210030C-1,1,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947124,1.617251
-091210030C-1B,1BIS,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947294,1.617140
-091210030C-2,2,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947192,1.617669
-091210030C-3,3,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947228,1.617893
-091210030C-341,341,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947235,1.619853
-091210030C-4,4,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947309,1.618378
-091210030C-4B,4BIS,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947267,1.618888
-091210030C-5,5,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947152,1.617990
-091210030C-6,6,Rue Roger Deumié,09000,Ferrières-sur-Ariège,CAD,42.947303,1.619119
-09121A002S-1,1,Résidence du Verger,09000,Ferrières-sur-Ariège,CAD,42.939729,1.614056
-09121A002S-2,2,Résidence du Verger,09000,Ferrières-sur-Ariège,CAD,42.939604,1.613836
-09121A002S-3,3,Résidence du Verger,09000,Ferrières-sur-Ariège,CAD,42.939735,1.613265
-09121A002S-4,4,Résidence du Verger,09000,Ferrières-sur-Ariège,CAD,42.939496,1.613421
-09121A002S-5,5,Résidence du Verger,09000,Ferrières-sur-Ariège,CAD,42.939494,1.612964
-09121A002S-6,6,Résidence du Verger,09000,Ferrières-sur-Ariège,CAD,42.939480,1.613362
-09121A002S-7,7,Résidence du Verger,09000,Ferrières-sur-Ariège,CAD,42.939567,1.613187
-09121A003T-10,10,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939274,1.617629
-09121A003T-11,11,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939576,1.616889
-09121A003T-12,12,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939274,1.617316
-09121A003T-14,14,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939542,1.616949
-09121A003T-2,2,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939604,1.618871
-09121A003T-4,4,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939615,1.618512
-09121A003T-5,5,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939677,1.618220
-09121A003T-6,6,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939625,1.618196
-09121A003T-7,7,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939688,1.617874
-09121A003T-8,8,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939634,1.617816
-09121A003T-9,9,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,CAD,42.939579,1.617231
-09121A004U-10,10,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945694,1.619311
-09121A004U-11,11,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945691,1.618938
-09121A004U-1,1,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945428,1.617775
-09121A004U-12,12,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945779,1.619683
-09121A004U-13,13,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945744,1.619170
-09121A004U-14,14,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945850,1.620020
-09121A004U-15,15,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945796,1.619409
-09121A004U-16,16,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945563,1.620123
-09121A004U-17,17,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945850,1.619643
-09121A004U-18,18,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945482,1.619764
-09121A004U-19,19,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945904,1.619878
-09121A004U-20,20,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945402,1.619408
-09121A004U-21,21,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945956,1.620114
-09121A004U-22,22,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945329,1.619076
-09121A004U-2,2,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945311,1.617827
-09121A004U-23,23,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945994,1.620289
-09121A004U-24,24,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945253,1.618739
-09121A004U-25,25,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945531,1.620353
-09121A004U-26,26,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945171,1.618374
-09121A004U-27,27,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945462,1.620045
-09121A004U-29,29,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945412,1.619823
-09121A004U-31,31,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945359,1.619589
-09121A004U-33,33,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945306,1.619350
-09121A004U-3,3,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945480,1.618001
-09121A004U-35,35,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945252,1.619111
-09121A004U-37,37,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945201,1.618880
-09121A004U-39,39,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945149,1.618645
-09121A004U-41,41,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945096,1.618407
-09121A004U-43,43,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945046,1.618179
-09121A004U-4,4,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945446,1.618211
-09121A004U-5,5,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945532,1.618232
-09121A004U-6,6,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945523,1.618552
-09121A004U-7,7,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945585,1.618471
-09121A004U-8,8,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945609,1.618933
-09121A004U-9,9,Résidence de Lestang,09000,Ferrières-sur-Ariège,CAD,42.945637,1.618702
-09121A005V-1,1,Résidence Les Aulnes,09000,Ferrières-sur-Ariège,CAD,42.941894,1.617221
-09121A005V-2,2,Résidence Les Aulnes,09000,Ferrières-sur-Ariège,CAD,42.941731,1.617160
-09121A005V-3,3,Résidence Les Aulnes,09000,Ferrières-sur-Ariège,CAD,42.941668,1.616878
-09121A006W-1,1,Cite Marcel Paul,09000,Ferrières-sur-Ariège,CAD,42.941825,1.616368
-09121A006W-2,2,Cite Marcel Paul,09000,Ferrières-sur-Ariège,CAD,42.941717,1.616310
-09121A006W-3,3,Cite Marcel Paul,09000,Ferrières-sur-Ariège,CAD,42.941601,1.616248
-09121A006W-4,4,Cite Marcel Paul,09000,Ferrières-sur-Ariège,CAD,42.941348,1.616351
-09121A006W-5,5,Cite Marcel Paul,09000,Ferrières-sur-Ariège,CAD,42.941299,1.616274
-09121A006W-6,6,Cite Marcel Paul,09000,Ferrières-sur-Ariège,CAD,42.941688,1.616212
-09121A007X-11,11,Résidence Les Moraines,09000,Ferrières-sur-Ariège,CAD,42.943539,1.619956
-09121A007X-1,1,Résidence Les Moraines,09000,Ferrières-sur-Ariège,CAD,42.943429,1.618875
-09121A007X-13,13,Résidence Les Moraines,09000,Ferrières-sur-Ariège,CAD,42.943518,1.620120
-09121A007X-3,3,Résidence Les Moraines,09000,Ferrières-sur-Ariège,CAD,42.943446,1.618958
-09121A007X-5,5,Résidence Les Moraines,09000,Ferrières-sur-Ariège,CAD,42.943429,1.619062
-09121A007X-7,7,Résidence Les Moraines,09000,Ferrières-sur-Ariège,CAD,42.943477,1.619443
-09121A007X-9,9,Résidence Les Moraines,09000,Ferrières-sur-Ariège,CAD,42.943514,1.619734
+091210025X-10,10,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946868,1.618413
+091210025X-1,1,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946978,1.619394
+091210025X-12,12,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946759,1.617806
+091210025X-13,13,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946653,1.617581
+091210025X-14,14,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946705,1.617427
+091210025X-15,15,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946597,1.617386
+091210025X-2,2,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.947032,1.619333
+091210025X-4,4,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946981,1.619048
+091210025X-5,5,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946868,1.618779
+091210025X-6,6,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946921,1.618713
+091210025X-7,7,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946653,1.618523
+091210025X-9,9,Rue Lazare Ponticelli,09000,Ferrières-sur-Ariège,C+O,42.946749,1.618116
+091210030C-1,1,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947124,1.617251
+091210030C-1B,1BIS,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947294,1.617140
+091210030C-2,2,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947192,1.617669
+091210030C-3,3,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947228,1.617893
+091210030C-341,341,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947235,1.619853
+091210030C-4,4,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947309,1.618378
+091210030C-4B,4BIS,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947267,1.618888
+091210030C-5,5,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947152,1.617990
+091210030C-6,6,Rue Roger Deumié,09000,Ferrières-sur-Ariège,C+O,42.947303,1.619119
+09121A002S-1,1,Résidence du Verger,09000,Ferrières-sur-Ariège,C+O,42.939729,1.614056
+09121A002S-2,2,Résidence du Verger,09000,Ferrières-sur-Ariège,C+O,42.939604,1.613836
+09121A002S-3,3,Résidence du Verger,09000,Ferrières-sur-Ariège,C+O,42.939735,1.613265
+09121A002S-4,4,Résidence du Verger,09000,Ferrières-sur-Ariège,C+O,42.939496,1.613421
+09121A002S-5,5,Résidence du Verger,09000,Ferrières-sur-Ariège,C+O,42.939494,1.612964
+09121A002S-6,6,Résidence du Verger,09000,Ferrières-sur-Ariège,C+O,42.939480,1.613362
+09121A002S-7,7,Résidence du Verger,09000,Ferrières-sur-Ariège,C+O,42.939567,1.613187
+09121A003T-10,10,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939274,1.617629
+09121A003T-11,11,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939576,1.616889
+09121A003T-12,12,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939274,1.617316
+09121A003T-14,14,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939542,1.616949
+09121A003T-2,2,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939604,1.618871
+09121A003T-4,4,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939615,1.618512
+09121A003T-5,5,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939677,1.618220
+09121A003T-6,6,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939625,1.618196
+09121A003T-7,7,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939688,1.617874
+09121A003T-8,8,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939634,1.617816
+09121A003T-9,9,Résidence Jean Moulin,09000,Ferrières-sur-Ariège,C+O,42.939579,1.617231
+09121A004U-10,10,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945694,1.619311
+09121A004U-11,11,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945691,1.618938
+09121A004U-1,1,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945428,1.617775
+09121A004U-12,12,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945779,1.619683
+09121A004U-13,13,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945744,1.619170
+09121A004U-14,14,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945850,1.620020
+09121A004U-15,15,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945796,1.619409
+09121A004U-16,16,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945563,1.620123
+09121A004U-17,17,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945850,1.619643
+09121A004U-18,18,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945482,1.619764
+09121A004U-19,19,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945904,1.619878
+09121A004U-20,20,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945402,1.619408
+09121A004U-21,21,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945956,1.620114
+09121A004U-22,22,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945329,1.619076
+09121A004U-2,2,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945311,1.617827
+09121A004U-23,23,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945994,1.620289
+09121A004U-24,24,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945253,1.618739
+09121A004U-25,25,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945531,1.620353
+09121A004U-26,26,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945171,1.618374
+09121A004U-27,27,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945462,1.620045
+09121A004U-29,29,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945412,1.619823
+09121A004U-31,31,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945359,1.619589
+09121A004U-33,33,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945306,1.619350
+09121A004U-3,3,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945480,1.618001
+09121A004U-35,35,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945252,1.619111
+09121A004U-37,37,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945201,1.618880
+09121A004U-39,39,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945149,1.618645
+09121A004U-41,41,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945096,1.618407
+09121A004U-43,43,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945046,1.618179
+09121A004U-4,4,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945446,1.618211
+09121A004U-5,5,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945532,1.618232
+09121A004U-6,6,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945523,1.618552
+09121A004U-7,7,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945585,1.618471
+09121A004U-8,8,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945609,1.618933
+09121A004U-9,9,Résidence de Lestang,09000,Ferrières-sur-Ariège,C+O,42.945637,1.618702
+09121A005V-1,1,Résidence Les Aulnes,09000,Ferrières-sur-Ariège,C+O,42.941894,1.617221
+09121A005V-2,2,Résidence Les Aulnes,09000,Ferrières-sur-Ariège,C+O,42.941731,1.617160
+09121A005V-3,3,Résidence Les Aulnes,09000,Ferrières-sur-Ariège,C+O,42.941668,1.616878
+09121A006W-1,1,Cité Marcel Paul,09000,Ferrières-sur-Ariège,C+O,42.941825,1.616368
+09121A006W-2,2,Cité Marcel Paul,09000,Ferrières-sur-Ariège,C+O,42.941717,1.616310
+09121A006W-3,3,Cité Marcel Paul,09000,Ferrières-sur-Ariège,C+O,42.941601,1.616248
+09121A006W-4,4,Cité Marcel Paul,09000,Ferrières-sur-Ariège,C+O,42.941348,1.616351
+09121A006W-5,5,Cité Marcel Paul,09000,Ferrières-sur-Ariège,C+O,42.941299,1.616274
+09121A006W-6,6,Cité Marcel Paul,09000,Ferrières-sur-Ariège,C+O,42.941688,1.616212
+09121A007X-11,11,Résidence Les Moraines,09000,Ferrières-sur-Ariège,C+O,42.943539,1.619956
+09121A007X-1,1,Résidence Les Moraines,09000,Ferrières-sur-Ariège,C+O,42.943429,1.618875
+09121A007X-13,13,Résidence Les Moraines,09000,Ferrières-sur-Ariège,C+O,42.943518,1.620120
+09121A007X-3,3,Résidence Les Moraines,09000,Ferrières-sur-Ariège,C+O,42.943446,1.618958
+09121A007X-5,5,Résidence Les Moraines,09000,Ferrières-sur-Ariège,C+O,42.943429,1.619062
+09121A007X-7,7,Résidence Les Moraines,09000,Ferrières-sur-Ariège,C+O,42.943477,1.619443
+09121A007X-9,9,Résidence Les Moraines,09000,Ferrières-sur-Ariège,C+O,42.943514,1.619734
 09121A008Y-10,10,La Peupleraie,09000,Ferrières-sur-Ariège,CAD,42.941812,1.619473
 09121A008Y-1,1,La Peupleraie,09000,Ferrières-sur-Ariège,CAD,42.941816,1.619634
 09121A008Y-2,2,La Peupleraie,09000,Ferrières-sur-Ariège,CAD,42.941700,1.620219
@@ -1127,63 +1127,63 @@
 09121A008Y-7,7,La Peupleraie,09000,Ferrières-sur-Ariège,CAD,42.942144,1.619545
 09121A008Y-8,8,La Peupleraie,09000,Ferrières-sur-Ariège,CAD,42.942121,1.619531
 09121A008Y-9,9,La Peupleraie,09000,Ferrières-sur-Ariège,CAD,42.941827,1.619498
-09121A009Z-1,1,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,CAD,42.947282,1.616594
-09121A009Z-2,2,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,CAD,42.947215,1.616629
-09121A009Z-3,3,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,CAD,42.947235,1.616294
-09121A009Z-4,4,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,CAD,42.947161,1.616295
-09121A009Z-5,5,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,CAD,42.947236,1.615850
-09121A009Z-6,6,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,CAD,42.947130,1.616112
-09121A010A-1,1,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.946126,1.617043
-09121A010A-2,2,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.946025,1.616765
-09121A010A-3,3,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.946090,1.616812
-09121A010A-4,4,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.945991,1.616548
-09121A010A-5,5,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.946056,1.616602
-09121A010A-6,6,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.945931,1.616335
-09121A010A-7,7,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.946020,1.616377
-09121A010A-9,9,Résidence La Barriére,09000,Ferrières-sur-Ariège,CAD,42.945989,1.616291
-09121A020L-1,1,Résidence des Écoles,09000,Ferrières-sur-Ariège,CAD,42.944001,1.618938
-09121A020L-3,3,Résidence des Écoles,09000,Ferrières-sur-Ariège,CAD,42.944013,1.618994
-09121A020L-5,5,Résidence des Écoles,09000,Ferrières-sur-Ariège,CAD,42.944093,1.619374
-09121A030X-10,10,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939008,1.618035
-09121A030X-11,11,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939001,1.616794
-09121A030X-1,1,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939300,1.618841
-09121A030X-12,12,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938827,1.617722
-09121A030X-13,13,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938974,1.616790
-09121A030X-14,14,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938631,1.617910
-09121A030X-16,16,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938255,1.617447
-09121A030X-18,18,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938163,1.616959
-09121A030X-20,20,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938369,1.616893
-09121A030X-21,21,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938949,1.616981
-09121A030X-2,2,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939301,1.618716
-09121A030X-23,23,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938645,1.616991
-09121A030X-25,25,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938651,1.617213
-09121A030X-27,27,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938935,1.617334
-09121A030X-29,29,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938879,1.617690
-09121A030X-31,31,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.938664,1.617700
-09121A030X-3,3,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939301,1.618561
-09121A030X-4,4,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939320,1.618416
-09121A030X-5,5,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939321,1.618255
-09121A030X-6,6,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939302,1.618113
-09121A030X-7,7,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939323,1.617956
-09121A030X-8,8,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939304,1.617801
-09121A030X-9,9,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,CAD,42.939028,1.617644
-09121A031Y-1,1,Résidence Rives Faites,09000,Ferrières-sur-Ariège,CAD,42.937528,1.616144
-09121A031Y-2,2,Résidence Rives Faites,09000,Ferrières-sur-Ariège,CAD,42.937675,1.616764
-09121A031Y-3,3,Résidence Rives Faites,09000,Ferrières-sur-Ariège,CAD,42.937836,1.616046
-09121A040H-10,10,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947671,1.618397
-09121A040H-11,11,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947630,1.618198
-09121A040H-1,1,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947593,1.617665
-09121A040H-12,12,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947597,1.618017
-09121A040H-13,13,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947555,1.617724
-09121A040H-14,14,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947333,1.617616
-09121A040H-2,2,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947638,1.617981
-09121A040H-3,3,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947673,1.618178
-09121A040H-4,4,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947725,1.618440
-09121A040H-5,5,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947783,1.618729
-09121A040H-60,60,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947999,1.618958
-09121A040H-7,7,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947761,1.618928
-09121A040H-8,8,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947737,1.618875
-09121A040H-9,9,Résidence des Vignes,09000,Ferrières-sur-Ariège,CAD,42.947720,1.618641
+09121A009Z-1,1,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,C+O,42.947282,1.616594
+09121A009Z-2,2,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,C+O,42.947215,1.616629
+09121A009Z-3,3,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,C+O,42.947235,1.616294
+09121A009Z-4,4,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,C+O,42.947161,1.616295
+09121A009Z-5,5,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,C+O,42.947236,1.615850
+09121A009Z-6,6,Résidence Jean Cressot,09000,Ferrières-sur-Ariège,C+O,42.947130,1.616112
+09121A010A-1,1,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.946126,1.617043
+09121A010A-2,2,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.946025,1.616765
+09121A010A-3,3,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.946090,1.616812
+09121A010A-4,4,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.945991,1.616548
+09121A010A-5,5,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.946056,1.616602
+09121A010A-6,6,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.945931,1.616335
+09121A010A-7,7,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.946020,1.616377
+09121A010A-9,9,Résidence La Barriére,09000,Ferrières-sur-Ariège,C+O,42.945989,1.616291
+09121A020L-1,1,Résidence des Écoles,09000,Ferrières-sur-Ariège,C+O,42.944001,1.618938
+09121A020L-3,3,Résidence des Écoles,09000,Ferrières-sur-Ariège,C+O,42.944013,1.618994
+09121A020L-5,5,Résidence des Écoles,09000,Ferrières-sur-Ariège,C+O,42.944093,1.619374
+09121A030X-10,10,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939008,1.618035
+09121A030X-11,11,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939001,1.616794
+09121A030X-1,1,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939300,1.618841
+09121A030X-12,12,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938827,1.617722
+09121A030X-13,13,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938974,1.616790
+09121A030X-14,14,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938631,1.617910
+09121A030X-16,16,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938255,1.617447
+09121A030X-18,18,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938163,1.616959
+09121A030X-20,20,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938369,1.616893
+09121A030X-21,21,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938949,1.616981
+09121A030X-2,2,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939301,1.618716
+09121A030X-23,23,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938645,1.616991
+09121A030X-25,25,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938651,1.617213
+09121A030X-27,27,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938935,1.617334
+09121A030X-29,29,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938879,1.617690
+09121A030X-31,31,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.938664,1.617700
+09121A030X-3,3,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939301,1.618561
+09121A030X-4,4,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939320,1.618416
+09121A030X-5,5,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939321,1.618255
+09121A030X-6,6,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939302,1.618113
+09121A030X-7,7,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939323,1.617956
+09121A030X-8,8,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939304,1.617801
+09121A030X-9,9,Résidence Les Myrtilles,09000,Ferrières-sur-Ariège,C+O,42.939028,1.617644
+09121A031Y-1,1,Résidence Rives Faites,09000,Ferrières-sur-Ariège,C+O,42.937528,1.616144
+09121A031Y-2,2,Résidence Rives Faites,09000,Ferrières-sur-Ariège,C+O,42.937675,1.616764
+09121A031Y-3,3,Résidence Rives Faites,09000,Ferrières-sur-Ariège,C+O,42.937836,1.616046
+09121A040H-10,10,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947671,1.618397
+09121A040H-11,11,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947630,1.618198
+09121A040H-1,1,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947593,1.617665
+09121A040H-12,12,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947597,1.618017
+09121A040H-13,13,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947555,1.617724
+09121A040H-14,14,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947333,1.617616
+09121A040H-2,2,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947638,1.617981
+09121A040H-3,3,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947673,1.618178
+09121A040H-4,4,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947725,1.618440
+09121A040H-5,5,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947783,1.618729
+09121A040H-60,60,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947999,1.618958
+09121A040H-7,7,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947761,1.618928
+09121A040H-8,8,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947737,1.618875
+09121A040H-9,9,Résidence des Vignes,09000,Ferrières-sur-Ariège,C+O,42.947720,1.618641
 091220007Y-16,16,Rue Aimé Molinie Ch Pont Echo,09000,Foix,CAD,42.978154,1.607600
 091220007Y-20,20,Rue Aimé Molinie Ch Pont Echo,09000,Foix,CAD,42.977871,1.608629
 091220007Y-29,29,Rue Aimé Molinie Ch Pont Echo,09000,Foix,CAD,42.978227,1.609215
@@ -1214,34 +1214,34 @@
 091220020M-3,3,Rue d'Albret,09000,Foix,C+O,42.964911,1.607545
 091220020M-5,5,Rue d'Albret,09000,Foix,C+O,42.964907,1.607482
 091220020M-8,8,Rue d'Albret,09000,Foix,C+O,42.964858,1.607319
-091220021N-10,10,Rue Albert Camus,09000,Foix,CAD,42.995424,1.615880
-091220021N-11,11,Rue Albert Camus,09000,Foix,CAD,42.995110,1.615928
-091220021N-1,1,Rue Albert Camus,09000,Foix,CAD,42.994972,1.615804
-091220021N-12,12,Rue Albert Camus,09000,Foix,CAD,42.995435,1.615840
-091220021N-13,13,Rue Albert Camus,09000,Foix,CAD,42.995274,1.616029
-091220021N-14,14,Rue Albert Camus,09000,Foix,CAD,42.995458,1.615859
-091220021N-14B,14BIS,Rue Albert Camus,09000,Foix,CAD,42.995528,1.615922
-091220021N-15,15,Rue Albert Camus,09000,Foix,CAD,42.995494,1.616395
-091220021N-16,16,Rue Albert Camus,09000,Foix,CAD,42.995585,1.616006
-091220021N-18,18,Rue Albert Camus,09000,Foix,CAD,42.995619,1.616054
-091220021N-20,20,Rue Albert Camus,09000,Foix,CAD,42.995615,1.616105
-091220021N-22,22,Rue Albert Camus,09000,Foix,CAD,42.995592,1.616118
-091220021N-2,2,Rue Albert Camus,09000,Foix,CAD,42.995102,1.615577
-091220021N-24,24,Rue Albert Camus,09000,Foix,CAD,42.995565,1.616160
-091220021N-26,26,Rue Albert Camus,09000,Foix,CAD,42.995296,1.615995
-091220021N-28,28,Rue Albert Camus,09000,Foix,CAD,42.995351,1.616068
-091220021N-30,30,Rue Albert Camus,09000,Foix,CAD,42.995395,1.616118
-091220021N-32,32,Rue Albert Camus,09000,Foix,CAD,42.995481,1.616208
-091220021N-3,3,Rue Albert Camus,09000,Foix,CAD,42.994997,1.615748
-091220021N-34,34,Rue Albert Camus,09000,Foix,CAD,42.995510,1.616324
-091220021N-36,36,Rue Albert Camus,09000,Foix,CAD,42.995560,1.616426
-091220021N-4,4,Rue Albert Camus,09000,Foix,CAD,42.995155,1.615734
-091220021N-5,5,Rue Albert Camus,09000,Foix,CAD,42.995033,1.615758
-091220021N-6,6,Rue Albert Camus,09000,Foix,CAD,42.995228,1.615879
-091220021N-7,7,Rue Albert Camus,09000,Foix,CAD,42.995064,1.615800
-091220021N-7B,7BIS,Rue Albert Camus,09000,Foix,CAD,42.995034,1.615925
-091220021N-8,8,Rue Albert Camus,09000,Foix,CAD,42.995359,1.615838
-091220021N-9,9,Rue Albert Camus,09000,Foix,CAD,42.995077,1.615979
+091220021N-10,10,Rue Albert Camus,09000,Foix,C+O,42.995424,1.615880
+091220021N-11,11,Rue Albert Camus,09000,Foix,C+O,42.995110,1.615928
+091220021N-1,1,Rue Albert Camus,09000,Foix,C+O,42.994972,1.615804
+091220021N-12,12,Rue Albert Camus,09000,Foix,C+O,42.995435,1.615840
+091220021N-13,13,Rue Albert Camus,09000,Foix,C+O,42.995274,1.616029
+091220021N-14,14,Rue Albert Camus,09000,Foix,C+O,42.995458,1.615859
+091220021N-14B,14BIS,Rue Albert Camus,09000,Foix,C+O,42.995528,1.615922
+091220021N-15,15,Rue Albert Camus,09000,Foix,C+O,42.995494,1.616395
+091220021N-16,16,Rue Albert Camus,09000,Foix,C+O,42.995585,1.616006
+091220021N-18,18,Rue Albert Camus,09000,Foix,C+O,42.995619,1.616054
+091220021N-20,20,Rue Albert Camus,09000,Foix,C+O,42.995615,1.616105
+091220021N-22,22,Rue Albert Camus,09000,Foix,C+O,42.995592,1.616118
+091220021N-2,2,Rue Albert Camus,09000,Foix,C+O,42.995102,1.615577
+091220021N-24,24,Rue Albert Camus,09000,Foix,C+O,42.995565,1.616160
+091220021N-26,26,Rue Albert Camus,09000,Foix,C+O,42.995296,1.615995
+091220021N-28,28,Rue Albert Camus,09000,Foix,C+O,42.995351,1.616068
+091220021N-30,30,Rue Albert Camus,09000,Foix,C+O,42.995395,1.616118
+091220021N-32,32,Rue Albert Camus,09000,Foix,C+O,42.995481,1.616208
+091220021N-3,3,Rue Albert Camus,09000,Foix,C+O,42.994997,1.615748
+091220021N-34,34,Rue Albert Camus,09000,Foix,C+O,42.995510,1.616324
+091220021N-36,36,Rue Albert Camus,09000,Foix,C+O,42.995560,1.616426
+091220021N-4,4,Rue Albert Camus,09000,Foix,C+O,42.995155,1.615734
+091220021N-5,5,Rue Albert Camus,09000,Foix,C+O,42.995033,1.615758
+091220021N-6,6,Rue Albert Camus,09000,Foix,C+O,42.995228,1.615879
+091220021N-7,7,Rue Albert Camus,09000,Foix,C+O,42.995064,1.615800
+091220021N-7B,7BIS,Rue Albert Camus,09000,Foix,C+O,42.995034,1.615925
+091220021N-8,8,Rue Albert Camus,09000,Foix,C+O,42.995359,1.615838
+091220021N-9,9,Rue Albert Camus,09000,Foix,C+O,42.995077,1.615979
 091220042L-10,10,Boulevard Alsace-Lorraine,09000,Foix,C+O,42.962559,1.606825
 091220042L-10B,10B,Boulevard Alsace-Lorraine,09000,Foix,OSM,42.962616,1.607178
 091220042L-11,11,Boulevard Alsace-Lorraine,09000,Foix,C+O,42.962074,1.606764
@@ -1313,11 +1313,11 @@
 091220042L-9,9,Boulevard Alsace-Lorraine,09000,Foix,C+O,42.962234,1.606739
 091220042L-9B,9BIS,Boulevard Alsace-Lorraine,09000,Foix,C+O,42.962267,1.606742
 091220042L-9T,9TER,Boulevard Alsace-Lorraine,09000,Foix,C+O,42.962180,1.606752
-091220043M-14,14,Rue de l'Alses,09000,Foix,CAD,42.989570,1.619491
-091220043M-16,16,Rue de l'Alses,09000,Foix,CAD,42.989571,1.619503
-091220043M-20,20,Rue de l'Alses,09000,Foix,CAD,42.990656,1.619849
-091220043M-35,35,Rue de l'Alses,09000,Foix,CAD,42.995333,1.616980
-091220043M-8,8,Rue de l'Alses,09000,Foix,CAD,42.988307,1.618881
+091220043M-14,14,Rue de l'Alses,09000,Foix,C+O,42.989570,1.619491
+091220043M-16,16,Rue de l'Alses,09000,Foix,C+O,42.989571,1.619503
+091220043M-20,20,Rue de l'Alses,09000,Foix,C+O,42.990656,1.619849
+091220043M-35,35,Rue de l'Alses,09000,Foix,C+O,42.995333,1.616980
+091220043M-8,8,Rue de l'Alses,09000,Foix,C+O,42.988307,1.618881
 091220045P-10,10,Rue Anatole France,09000,Foix,C+O,42.950832,1.613829
 091220045P-11,11,Rue Anatole France,09000,Foix,C+O,42.950827,1.613576
 091220045P-11B,11BIS,Rue Anatole France,09000,Foix,C+O,42.950789,1.613601
@@ -1365,22 +1365,22 @@
 091220056B-9,9,Avenue de l'Ariège,09000,Foix,C+O,42.961464,1.612261
 091220056B-9B,9BIS,Avenue de l'Ariège,09000,Foix,C+O,42.962339,1.611685
 091220056B-9T,9TER,Avenue de l'Ariège,09000,Foix,C+O,42.962154,1.612152
-091220059E-11,11,Chemin d'Armeilhac,09000,Foix,CAD,42.981759,1.616086
-091220059E-12,12,Chemin d'Armeilhac,09000,Foix,CAD,42.981611,1.616304
-091220059E-12B,12BIS,Chemin d'Armeilhac,09000,Foix,CAD,42.981346,1.616913
-091220059E-13,13,Chemin d'Armeilhac,09000,Foix,CAD,42.981591,1.616245
-091220059E-14,14,Chemin d'Armeilhac,09000,Foix,CAD,42.981646,1.617135
-091220059E-16,16,Chemin d'Armeilhac,09000,Foix,CAD,42.981778,1.617460
-091220059E-17,17,Chemin d'Armeilhac,09000,Foix,CAD,42.981643,1.617296
-091220059E-24,24,Chemin d'Armeilhac,09000,Foix,CAD,42.982257,1.618788
-091220059E-25,25,Chemin d'Armeilhac,09000,Foix,CAD,42.982665,1.620068
-091220059E-28,28,Chemin d'Armeilhac,09000,Foix,CAD,42.982482,1.619687
-091220059E-34,34,Chemin d'Armeilhac,09000,Foix,CAD,42.982971,1.620387
-091220059E-36,36,Chemin d'Armeilhac,09000,Foix,CAD,42.983125,1.620680
-091220059E-5,5,Chemin d'Armeilhac,09000,Foix,CAD,42.982028,1.615743
-091220059E-7,7,Chemin d'Armeilhac,09000,Foix,CAD,42.981584,1.615523
-091220059E-8,8,Chemin d'Armeilhac,09000,Foix,CAD,42.982016,1.615826
-091220059E-9,9,Chemin d'Armeilhac,09000,Foix,CAD,42.981576,1.615584
+091220059E-11,11,Chemin d'Armeilhac,09000,Foix,C+O,42.981759,1.616086
+091220059E-12,12,Chemin d'Armeilhac,09000,Foix,C+O,42.981611,1.616304
+091220059E-12B,12BIS,Chemin d'Armeilhac,09000,Foix,C+O,42.981346,1.616913
+091220059E-13,13,Chemin d'Armeilhac,09000,Foix,C+O,42.981591,1.616245
+091220059E-14,14,Chemin d'Armeilhac,09000,Foix,C+O,42.981646,1.617135
+091220059E-16,16,Chemin d'Armeilhac,09000,Foix,C+O,42.981778,1.617460
+091220059E-17,17,Chemin d'Armeilhac,09000,Foix,C+O,42.981643,1.617296
+091220059E-24,24,Chemin d'Armeilhac,09000,Foix,C+O,42.982257,1.618788
+091220059E-25,25,Chemin d'Armeilhac,09000,Foix,C+O,42.982665,1.620068
+091220059E-28,28,Chemin d'Armeilhac,09000,Foix,C+O,42.982482,1.619687
+091220059E-34,34,Chemin d'Armeilhac,09000,Foix,C+O,42.982971,1.620387
+091220059E-36,36,Chemin d'Armeilhac,09000,Foix,C+O,42.983125,1.620680
+091220059E-5,5,Chemin d'Armeilhac,09000,Foix,C+O,42.982028,1.615743
+091220059E-7,7,Chemin d'Armeilhac,09000,Foix,C+O,42.981584,1.615523
+091220059E-8,8,Chemin d'Armeilhac,09000,Foix,C+O,42.982016,1.615826
+091220059E-9,9,Chemin d'Armeilhac,09000,Foix,C+O,42.981576,1.615584
 091220080C-10,10,Avenue de Barcelone,09000,Foix,C+O,42.961197,1.614514
 091220080C-11,11,Avenue de Barcelone,09000,Foix,C+O,42.961307,1.614232
 091220080C-1,1,Avenue de Barcelone,09000,Foix,C+O,42.962043,1.613268
@@ -1642,22 +1642,22 @@
 091220242D-4A,4A,Impasse du Cap de la Ville,09000,Foix,C+O,42.961036,1.599552
 091220242D-6,6,Impasse du Cap de la Ville,09000,Foix,C+O,42.961099,1.598892
 091220242D-7,7,Impasse du Cap de la Ville,09000,Foix,C+O,42.961458,1.599387
-091220245G-11B,11BIS,Chemin du Capitany,09000,Foix,CAD,42.985138,1.621093
-091220245G-1,1,Chemin du Capitany,09000,Foix,CAD,42.986562,1.619999
-091220245G-13,13,Chemin du Capitany,09000,Foix,CAD,42.984810,1.620876
-091220245G-15,15,Chemin du Capitany,09000,Foix,CAD,42.984753,1.620852
-091220245G-17,17,Chemin du Capitany,09000,Foix,CAD,42.984681,1.620867
-091220245G-19,19,Chemin du Capitany,09000,Foix,CAD,42.984621,1.620881
-091220245G-21,21,Chemin du Capitany,09000,Foix,CAD,42.984577,1.620895
-091220245G-23,23,Chemin du Capitany,09000,Foix,CAD,42.984554,1.620901
-091220245G-25,25,Chemin du Capitany,09000,Foix,CAD,42.984531,1.620907
-091220245G-29,29,Chemin du Capitany,09000,Foix,CAD,42.984315,1.620935
-091220245G-33,33,Chemin du Capitany,09000,Foix,CAD,42.983976,1.621015
-091220245G-3,3,Chemin du Capitany,09000,Foix,CAD,42.986393,1.620149
-091220245G-37,37,Chemin du Capitany,09000,Foix,CAD,42.983634,1.621067
-091220245G-39,39,Chemin du Capitany,09000,Foix,CAD,42.983545,1.621075
-091220245G-6,6,Chemin du Capitany,09000,Foix,CAD,42.985451,1.621170
-091220245G-8,8,Chemin du Capitany,09000,Foix,CAD,42.985458,1.621404
+091220245G-11B,11BIS,Chemin du Capitany,09000,Foix,C+O,42.985138,1.621093
+091220245G-1,1,Chemin du Capitany,09000,Foix,C+O,42.986562,1.619999
+091220245G-13,13,Chemin du Capitany,09000,Foix,C+O,42.984810,1.620876
+091220245G-15,15,Chemin du Capitany,09000,Foix,C+O,42.984753,1.620852
+091220245G-17,17,Chemin du Capitany,09000,Foix,C+O,42.984681,1.620867
+091220245G-19,19,Chemin du Capitany,09000,Foix,C+O,42.984621,1.620881
+091220245G-21,21,Chemin du Capitany,09000,Foix,C+O,42.984577,1.620895
+091220245G-23,23,Chemin du Capitany,09000,Foix,C+O,42.984554,1.620901
+091220245G-25,25,Chemin du Capitany,09000,Foix,C+O,42.984531,1.620907
+091220245G-29,29,Chemin du Capitany,09000,Foix,C+O,42.984315,1.620935
+091220245G-33,33,Chemin du Capitany,09000,Foix,C+O,42.983976,1.621015
+091220245G-3,3,Chemin du Capitany,09000,Foix,C+O,42.986393,1.620149
+091220245G-37,37,Chemin du Capitany,09000,Foix,C+O,42.983634,1.621067
+091220245G-39,39,Chemin du Capitany,09000,Foix,C+O,42.983545,1.621075
+091220245G-6,6,Chemin du Capitany,09000,Foix,C+O,42.985451,1.621170
+091220245G-8,8,Chemin du Capitany,09000,Foix,C+O,42.985458,1.621404
 091220250M-10,10,Avenue de la Carane,09000,Foix,CAD,42.969133,1.605343
 091220250M-11,11,Avenue de la Carane,09000,Foix,CAD,42.970059,1.604955
 091220250M-1,1,Avenue de la Carane,09000,Foix,CAD,42.967968,1.605251
@@ -1755,39 +1755,39 @@
 091220300S-7,7,Rue des Chapeliers,09000,Foix,C+O,42.966423,1.606071
 091220300S-8,8,Rue des Chapeliers,09000,Foix,C+O,42.966301,1.606112
 091220300S-9,9,Rue des Chapeliers,09000,Foix,C+O,42.966351,1.606054
-091220305X-10,10,Rue Charles Peguy,09000,Foix,CAD,42.976737,1.611393
-091220305X-1,1,Rue Charles Peguy,09000,Foix,CAD,42.976874,1.610826
-091220305X-12,12,Rue Charles Peguy,09000,Foix,CAD,42.976713,1.611552
-091220305X-14,14,Rue Charles Peguy,09000,Foix,CAD,42.976690,1.611583
-091220305X-2,2,Rue Charles Peguy,09000,Foix,CAD,42.976863,1.610614
-091220305X-3,3,Rue Charles Peguy,09000,Foix,CAD,42.976843,1.611017
-091220305X-4,4,Rue Charles Peguy,09000,Foix,CAD,42.976829,1.610825
-091220305X-5,5,Rue Charles Peguy,09000,Foix,CAD,42.976819,1.611164
-091220305X-6,6,Rue Charles Peguy,09000,Foix,CAD,42.976805,1.610974
-091220305X-7,7,Rue Charles Peguy,09000,Foix,CAD,42.976780,1.611403
-091220305X-8,8,Rue Charles Peguy,09000,Foix,CAD,42.976771,1.611185
-091220305X-9,9,Rue Charles Peguy,09000,Foix,CAD,42.976759,1.611581
+091220305X-10,10,Rue Charles Péguy,09000,Foix,C+O,42.976737,1.611393
+091220305X-1,1,Rue Charles Péguy,09000,Foix,C+O,42.976874,1.610826
+091220305X-12,12,Rue Charles Péguy,09000,Foix,C+O,42.976713,1.611552
+091220305X-14,14,Rue Charles Péguy,09000,Foix,C+O,42.976690,1.611583
+091220305X-2,2,Rue Charles Péguy,09000,Foix,C+O,42.976863,1.610614
+091220305X-3,3,Rue Charles Péguy,09000,Foix,C+O,42.976843,1.611017
+091220305X-4,4,Rue Charles Péguy,09000,Foix,C+O,42.976829,1.610825
+091220305X-5,5,Rue Charles Péguy,09000,Foix,C+O,42.976819,1.611164
+091220305X-6,6,Rue Charles Péguy,09000,Foix,C+O,42.976805,1.610974
+091220305X-7,7,Rue Charles Péguy,09000,Foix,C+O,42.976780,1.611403
+091220305X-8,8,Rue Charles Péguy,09000,Foix,C+O,42.976771,1.611185
+091220305X-9,9,Rue Charles Péguy,09000,Foix,C+O,42.976759,1.611581
 091220307Z-2,2,Impasse de la Chartreuse,09000,Foix,CAD,42.954303,1.615193
-091220323S-11,11,Chemin de Cinq Ardits,09000,Foix,CAD,42.965997,1.592414
-091220323S-13,13,Chemin de Cinq Ardits,09000,Foix,CAD,42.965997,1.592384
-091220323S-15,15,Chemin de Cinq Ardits,09000,Foix,CAD,42.966013,1.592341
-091220323S-16,16,Chemin de Cinq Ardits,09000,Foix,CAD,42.966133,1.591221
-091220323S-17,17,Chemin de Cinq Ardits,09000,Foix,CAD,42.966089,1.591921
-091220323S-18,18,Chemin de Cinq Ardits,09000,Foix,CAD,42.966102,1.590675
-091220323S-19,19,Chemin de Cinq Ardits,09000,Foix,CAD,42.966142,1.591573
-091220323S-20,20,Chemin de Cinq Ardits,09000,Foix,CAD,42.966059,1.590352
-091220323S-21,21,Chemin de Cinq Ardits,09000,Foix,CAD,42.966198,1.591209
-091220323S-22,22,Chemin de Cinq Ardits,09000,Foix,CAD,42.966064,1.590116
-091220323S-23,23,Chemin de Cinq Ardits,09000,Foix,CAD,42.966196,1.590912
-091220323S-24,24,Chemin de Cinq Ardits,09000,Foix,CAD,42.966119,1.589865
-091220323S-25,25,Chemin de Cinq Ardits,09000,Foix,CAD,42.966142,1.590600
-091220323S-27,27,Chemin de Cinq Ardits,09000,Foix,CAD,42.966112,1.590457
-091220323S-29,29,Chemin de Cinq Ardits,09000,Foix,CAD,42.966357,1.590613
-091220323S-31,31,Chemin de Cinq Ardits,09000,Foix,CAD,42.966245,1.590372
-091220323S-3,3,Chemin de Cinq Ardits,09000,Foix,CAD,42.965771,1.593621
-091220323S-5,5,Chemin de Cinq Ardits,09000,Foix,CAD,42.965913,1.593066
-091220323S-7,7,Chemin de Cinq Ardits,09000,Foix,CAD,42.965920,1.592925
-091220323S-9,9,Chemin de Cinq Ardits,09000,Foix,CAD,42.965956,1.592613
+091220323S-11,11,Chemin de Cinq Ardits,09000,Foix,C+O,42.965997,1.592414
+091220323S-13,13,Chemin de Cinq Ardits,09000,Foix,C+O,42.965997,1.592384
+091220323S-15,15,Chemin de Cinq Ardits,09000,Foix,C+O,42.966013,1.592341
+091220323S-16,16,Chemin de Cinq Ardits,09000,Foix,C+O,42.966133,1.591221
+091220323S-17,17,Chemin de Cinq Ardits,09000,Foix,C+O,42.966089,1.591921
+091220323S-18,18,Chemin de Cinq Ardits,09000,Foix,C+O,42.966102,1.590675
+091220323S-19,19,Chemin de Cinq Ardits,09000,Foix,C+O,42.966142,1.591573
+091220323S-20,20,Chemin de Cinq Ardits,09000,Foix,C+O,42.966059,1.590352
+091220323S-21,21,Chemin de Cinq Ardits,09000,Foix,C+O,42.966198,1.591209
+091220323S-22,22,Chemin de Cinq Ardits,09000,Foix,C+O,42.966064,1.590116
+091220323S-23,23,Chemin de Cinq Ardits,09000,Foix,C+O,42.966196,1.590912
+091220323S-24,24,Chemin de Cinq Ardits,09000,Foix,C+O,42.966119,1.589865
+091220323S-25,25,Chemin de Cinq Ardits,09000,Foix,C+O,42.966142,1.590600
+091220323S-27,27,Chemin de Cinq Ardits,09000,Foix,C+O,42.966112,1.590457
+091220323S-29,29,Chemin de Cinq Ardits,09000,Foix,C+O,42.966357,1.590613
+091220323S-31,31,Chemin de Cinq Ardits,09000,Foix,C+O,42.966245,1.590372
+091220323S-3,3,Chemin de Cinq Ardits,09000,Foix,C+O,42.965771,1.593621
+091220323S-5,5,Chemin de Cinq Ardits,09000,Foix,C+O,42.965913,1.593066
+091220323S-7,7,Chemin de Cinq Ardits,09000,Foix,C+O,42.965920,1.592925
+091220323S-9,9,Chemin de Cinq Ardits,09000,Foix,C+O,42.965956,1.592613
 091220325U-11,11,Place du 59éme Rgt Inf,09000,Foix,CAD,42.962605,1.608286
 091220325U-19,19,Place du 59éme Rgt Inf,09000,Foix,CAD,42.961685,1.608292
 091220325U-9,9,Place du 59éme Rgt Inf,09000,Foix,CAD,42.962760,1.608272
@@ -1814,46 +1814,46 @@
 091220345R-3,3,Rue du Comminge,09000,Foix,CAD,42.964840,1.604951
 091220345R-4,4,Rue du Comminge,09000,Foix,CAD,42.964788,1.604978
 091220345R-6,6,Rue du Comminge,09000,Foix,CAD,42.964846,1.604904
-091220361H-10,10,Avenue de Cos,09000,Foix,CAD,42.963763,1.588189
-091220361H-11,11,Avenue de Cos,09000,Foix,CAD,42.963822,1.588387
-091220361H-1,1,Avenue de Cos,09000,Foix,CAD,42.963402,1.590215
-091220361H-12,12,Avenue de Cos,09000,Foix,CAD,42.963785,1.588163
-091220361H-13,13,Avenue de Cos,09000,Foix,CAD,42.963909,1.588018
-091220361H-14,14,Avenue de Cos,09000,Foix,CAD,42.963792,1.588130
-091220361H-15,15,Avenue de Cos,09000,Foix,CAD,42.964049,1.587950
-091220361H-16,16,Avenue de Cos,09000,Foix,CAD,42.963800,1.588094
-091220361H-19,19,Avenue de Cos,09000,Foix,CAD,42.964226,1.586673
-091220361H-20,20,Avenue de Cos,09000,Foix,CAD,42.963837,1.587883
-091220361H-21,21,Avenue de Cos,09000,Foix,CAD,42.964976,1.586480
-091220361H-21T,21TER,Avenue de Cos,09000,Foix,CAD,42.965371,1.586773
-091220361H-22,22,Avenue de Cos,09000,Foix,CAD,42.963935,1.587468
-091220361H-2,2,Avenue de Cos,09000,Foix,CAD,42.963346,1.589990
-091220361H-23,23,Avenue de Cos,09000,Foix,CAD,42.965630,1.586394
-091220361H-24,24,Avenue de Cos,09000,Foix,CAD,42.964322,1.585954
-091220361H-25,25,Avenue de Cos,09000,Foix,CAD,42.964920,1.585416
-091220361H-26,26,Avenue de Cos,09000,Foix,CAD,42.964037,1.587015
-091220361H-27,27,Avenue de Cos,09000,Foix,CAD,42.965781,1.585028
-091220361H-28,28,Avenue de Cos,09000,Foix,CAD,42.964111,1.586700
-091220361H-30,30,Avenue de Cos,09000,Foix,CAD,42.964188,1.586353
-091220361H-3,3,Avenue de Cos,09000,Foix,CAD,42.963509,1.589738
-091220361H-36,36,Avenue de Cos,09000,Foix,CAD,42.965461,1.584727
-091220361H-38,38,Avenue de Cos,09000,Foix,CAD,42.965697,1.584499
-091220361H-40,40,Avenue de Cos,09000,Foix,CAD,42.966070,1.584146
-091220361H-42,42,Avenue de Cos,09000,Foix,CAD,42.966342,1.583889
-091220361H-44,44,Avenue de Cos,09000,Foix,CAD,42.966498,1.583785
-091220361H-46,46,Avenue de Cos,09000,Foix,CAD,42.966583,1.583676
-091220361H-48,48,Avenue de Cos,09000,Foix,CAD,42.966765,1.583533
-091220361H-50,50,Avenue de Cos,09000,Foix,CAD,42.967145,1.583161
-091220361H-52,52,Avenue de Cos,09000,Foix,CAD,42.967359,1.582963
-091220361H-54,54,Avenue de Cos,09000,Foix,CAD,42.967604,1.582730
-091220361H-5,5,Avenue de Cos,09000,Foix,CAD,42.963641,1.589164
-091220361H-56,56,Avenue de Cos,09000,Foix,CAD,42.967750,1.582582
-091220361H-58,58,Avenue de Cos,09000,Foix,CAD,42.967915,1.582236
-091220361H-62,62,Avenue de Cos,09000,Foix,CAD,42.968115,1.580504
-091220361H-64,64,Avenue de Cos,09000,Foix,CAD,42.968547,1.581832
-091220361H-7,7,Avenue de Cos,09000,Foix,CAD,42.963667,1.589064
-091220361H-8,8,Avenue de Cos,09000,Foix,CAD,42.963726,1.588347
-091220361H-9,9,Avenue de Cos,09000,Foix,CAD,42.965312,1.588876
+091220361H-10,10,Avenue de Cos,09000,Foix,C+O,42.963763,1.588189
+091220361H-11,11,Avenue de Cos,09000,Foix,C+O,42.963822,1.588387
+091220361H-1,1,Avenue de Cos,09000,Foix,C+O,42.963402,1.590215
+091220361H-12,12,Avenue de Cos,09000,Foix,C+O,42.963785,1.588163
+091220361H-13,13,Avenue de Cos,09000,Foix,C+O,42.963909,1.588018
+091220361H-14,14,Avenue de Cos,09000,Foix,C+O,42.963792,1.588130
+091220361H-15,15,Avenue de Cos,09000,Foix,C+O,42.964049,1.587950
+091220361H-16,16,Avenue de Cos,09000,Foix,C+O,42.963800,1.588094
+091220361H-19,19,Avenue de Cos,09000,Foix,C+O,42.964226,1.586673
+091220361H-20,20,Avenue de Cos,09000,Foix,C+O,42.963837,1.587883
+091220361H-21,21,Avenue de Cos,09000,Foix,C+O,42.964976,1.586480
+091220361H-21T,21TER,Avenue de Cos,09000,Foix,C+O,42.965371,1.586773
+091220361H-22,22,Avenue de Cos,09000,Foix,C+O,42.963935,1.587468
+091220361H-2,2,Avenue de Cos,09000,Foix,C+O,42.963346,1.589990
+091220361H-23,23,Avenue de Cos,09000,Foix,C+O,42.965630,1.586394
+091220361H-24,24,Avenue de Cos,09000,Foix,C+O,42.964322,1.585954
+091220361H-25,25,Avenue de Cos,09000,Foix,C+O,42.964920,1.585416
+091220361H-26,26,Avenue de Cos,09000,Foix,C+O,42.964037,1.587015
+091220361H-27,27,Avenue de Cos,09000,Foix,C+O,42.965781,1.585028
+091220361H-28,28,Avenue de Cos,09000,Foix,C+O,42.964111,1.586700
+091220361H-30,30,Avenue de Cos,09000,Foix,C+O,42.964188,1.586353
+091220361H-3,3,Avenue de Cos,09000,Foix,C+O,42.963509,1.589738
+091220361H-36,36,Avenue de Cos,09000,Foix,C+O,42.965461,1.584727
+091220361H-38,38,Avenue de Cos,09000,Foix,C+O,42.965697,1.584499
+091220361H-40,40,Avenue de Cos,09000,Foix,C+O,42.966070,1.584146
+091220361H-42,42,Avenue de Cos,09000,Foix,C+O,42.966342,1.583889
+091220361H-44,44,Avenue de Cos,09000,Foix,C+O,42.966498,1.583785
+091220361H-46,46,Avenue de Cos,09000,Foix,C+O,42.966583,1.583676
+091220361H-48,48,Avenue de Cos,09000,Foix,C+O,42.966765,1.583533
+091220361H-50,50,Avenue de Cos,09000,Foix,C+O,42.967145,1.583161
+091220361H-52,52,Avenue de Cos,09000,Foix,C+O,42.967359,1.582963
+091220361H-54,54,Avenue de Cos,09000,Foix,C+O,42.967604,1.582730
+091220361H-5,5,Avenue de Cos,09000,Foix,C+O,42.963641,1.589164
+091220361H-56,56,Avenue de Cos,09000,Foix,C+O,42.967750,1.582582
+091220361H-58,58,Avenue de Cos,09000,Foix,C+O,42.967915,1.582236
+091220361H-62,62,Avenue de Cos,09000,Foix,C+O,42.968115,1.580504
+091220361H-64,64,Avenue de Cos,09000,Foix,C+O,42.968547,1.581832
+091220361H-7,7,Avenue de Cos,09000,Foix,C+O,42.963667,1.589064
+091220361H-8,8,Avenue de Cos,09000,Foix,C+O,42.963726,1.588347
+091220361H-9,9,Avenue de Cos,09000,Foix,C+O,42.965312,1.588876
 091220370T-10,10,Rue de la Couate,09000,Foix,C+O,42.956888,1.610616
 091220370T-10B,10BIS,Rue de la Couate,09000,Foix,C+O,42.956699,1.610715
 091220370T-11,11,Rue de la Couate,09000,Foix,C+O,42.959153,1.609369
@@ -1911,62 +1911,62 @@
 091220415S-3,3,Chemin de la Croix,09000,Foix,C+O,42.960994,1.613379
 091220420X-2,2,Rue de la Crouzette,09000,Foix,C+O,42.959376,1.607083
 091220420X-4,4,Rue de la Crouzette,09000,Foix,C+O,42.959306,1.606878
-091220426D-10,10,Chemin du Cussol,09000,Foix,CAD,42.965085,1.582514
-091220426D-1,1,Chemin du Cussol,09000,Foix,CAD,42.964928,1.584869
-091220426D-12,12,Chemin du Cussol,09000,Foix,CAD,42.965468,1.581837
-091220426D-13,13,Chemin du Cussol,09000,Foix,CAD,42.964823,1.584470
-091220426D-15,15,Chemin du Cussol,09000,Foix,CAD,42.964767,1.584075
-091220426D-16,16,Chemin du Cussol,09000,Foix,CAD,42.965485,1.581489
-091220426D-16B,16BIS,Chemin du Cussol,09000,Foix,CAD,42.965647,1.581473
-091220426D-17,17,Chemin du Cussol,09000,Foix,CAD,42.963850,1.583314
-091220426D-18,18,Chemin du Cussol,09000,Foix,CAD,42.966145,1.581539
-091220426D-21,21,Chemin du Cussol,09000,Foix,CAD,42.963314,1.582846
-091220426D-22,22,Chemin du Cussol,09000,Foix,CAD,42.966136,1.582929
-091220426D-2,2,Chemin du Cussol,09000,Foix,CAD,42.964795,1.583721
-091220426D-23,23,Chemin du Cussol,09000,Foix,CAD,42.963733,1.583105
-091220426D-23B,23BIS,Chemin du Cussol,09000,Foix,CAD,42.963528,1.582968
-091220426D-24,24,Chemin du Cussol,09000,Foix,CAD,42.966220,1.582765
-091220426D-25,25,Chemin du Cussol,09000,Foix,CAD,42.963882,1.583201
-091220426D-26,26,Chemin du Cussol,09000,Foix,CAD,42.966314,1.582471
-091220426D-27,27,Chemin du Cussol,09000,Foix,CAD,42.964197,1.583409
-091220426D-28,28,Chemin du Cussol,09000,Foix,CAD,42.966374,1.582283
-091220426D-30,30,Chemin du Cussol,09000,Foix,CAD,42.966476,1.581934
-091220426D-32,32,Chemin du Cussol,09000,Foix,CAD,42.966937,1.581706
-091220426D-33,33,Chemin du Cussol,09000,Foix,CAD,42.964934,1.582869
-091220426D-3,3,Chemin du Cussol,09000,Foix,CAD,42.964741,1.584537
-091220426D-35,35,Chemin du Cussol,09000,Foix,CAD,42.964212,1.582265
-091220426D-37,37,Chemin du Cussol,09000,Foix,CAD,42.964040,1.582185
-091220426D-39,39,Chemin du Cussol,09000,Foix,CAD,42.964059,1.582149
-091220426D-43,43,Chemin du Cussol,09000,Foix,CAD,42.965030,1.582468
-091220426D-4,4,Chemin du Cussol,09000,Foix,CAD,42.964853,1.583341
-091220426D-47,47,Chemin du Cussol,09000,Foix,CAD,42.965178,1.582060
-091220426D-51,51,Chemin du Cussol,09000,Foix,CAD,42.965439,1.581428
-091220426D-53,53,Chemin du Cussol,09000,Foix,CAD,42.965717,1.581299
-091220426D-5,5,Chemin du Cussol,09000,Foix,CAD,42.964692,1.584467
-091220426D-59,59,Chemin du Cussol,09000,Foix,CAD,42.966444,1.581547
-091220426D-61,61,Chemin du Cussol,09000,Foix,CAD,42.966774,1.581639
-091220426D-63,63,Chemin du Cussol,09000,Foix,CAD,42.967589,1.580279
-091220426D-65,65,Chemin du Cussol,09000,Foix,CAD,42.967208,1.581729
-091220426D-6,6,Chemin du Cussol,09000,Foix,CAD,42.964852,1.583315
-091220426D-7,7,Chemin du Cussol,09000,Foix,CAD,42.964313,1.584164
-091220426D-8,8,Chemin du Cussol,09000,Foix,CAD,42.965018,1.582765
-091220426D-9,9,Chemin du Cussol,09000,Foix,CAD,42.964233,1.584048
-091220436P-10,10,Rue David Lautier,09000,Foix,CAD,42.985037,1.617717
-091220436P-1,1,Rue David Lautier,09000,Foix,CAD,42.984543,1.617010
-091220436P-12,12,Rue David Lautier,09000,Foix,CAD,42.985000,1.617691
-091220436P-14,14,Rue David Lautier,09000,Foix,CAD,42.984971,1.617656
-091220436P-16,16,Rue David Lautier,09000,Foix,CAD,42.984731,1.617411
-091220436P-18,18,Rue David Lautier,09000,Foix,CAD,42.984560,1.617103
-091220436P-20,20,Rue David Lautier,09000,Foix,CAD,42.984428,1.617043
-091220436P-2,2,Rue David Lautier,09000,Foix,CAD,42.984822,1.617181
-091220436P-3,3,Rue David Lautier,09000,Foix,CAD,42.984378,1.616909
-091220436P-4,4,Rue David Lautier,09000,Foix,CAD,42.985026,1.617330
-091220436P-5,5,Rue David Lautier,09000,Foix,CAD,42.984311,1.616912
-091220436P-6,6,Rue David Lautier,09000,Foix,CAD,42.985159,1.617427
-091220436P-7,7,Rue David Lautier,09000,Foix,CAD,42.984179,1.617066
-091220436P-8,8,Rue David Lautier,09000,Foix,CAD,42.985124,1.617586
+091220426D-10,10,Chemin de Cussol,09000,Foix,C+O,42.965085,1.582514
+091220426D-1,1,Chemin de Cussol,09000,Foix,C+O,42.964928,1.584869
+091220426D-12,12,Chemin de Cussol,09000,Foix,C+O,42.965468,1.581837
+091220426D-13,13,Chemin de Cussol,09000,Foix,C+O,42.964823,1.584470
+091220426D-15,15,Chemin de Cussol,09000,Foix,C+O,42.964767,1.584075
+091220426D-16,16,Chemin de Cussol,09000,Foix,C+O,42.965485,1.581489
+091220426D-16B,16BIS,Chemin de Cussol,09000,Foix,C+O,42.965647,1.581473
+091220426D-17,17,Chemin de Cussol,09000,Foix,C+O,42.963850,1.583314
+091220426D-18,18,Chemin de Cussol,09000,Foix,C+O,42.966145,1.581539
+091220426D-21,21,Chemin de Cussol,09000,Foix,C+O,42.963314,1.582846
+091220426D-22,22,Chemin de Cussol,09000,Foix,C+O,42.966136,1.582929
+091220426D-2,2,Chemin de Cussol,09000,Foix,C+O,42.964795,1.583721
+091220426D-23,23,Chemin de Cussol,09000,Foix,C+O,42.963733,1.583105
+091220426D-23B,23BIS,Chemin de Cussol,09000,Foix,C+O,42.963528,1.582968
+091220426D-24,24,Chemin de Cussol,09000,Foix,C+O,42.966220,1.582765
+091220426D-25,25,Chemin de Cussol,09000,Foix,C+O,42.963882,1.583201
+091220426D-26,26,Chemin de Cussol,09000,Foix,C+O,42.966314,1.582471
+091220426D-27,27,Chemin de Cussol,09000,Foix,C+O,42.964197,1.583409
+091220426D-28,28,Chemin de Cussol,09000,Foix,C+O,42.966374,1.582283
+091220426D-30,30,Chemin de Cussol,09000,Foix,C+O,42.966476,1.581934
+091220426D-32,32,Chemin de Cussol,09000,Foix,C+O,42.966937,1.581706
+091220426D-33,33,Chemin de Cussol,09000,Foix,C+O,42.964934,1.582869
+091220426D-3,3,Chemin de Cussol,09000,Foix,C+O,42.964741,1.584537
+091220426D-35,35,Chemin de Cussol,09000,Foix,C+O,42.964212,1.582265
+091220426D-37,37,Chemin de Cussol,09000,Foix,C+O,42.964040,1.582185
+091220426D-39,39,Chemin de Cussol,09000,Foix,C+O,42.964059,1.582149
+091220426D-43,43,Chemin de Cussol,09000,Foix,C+O,42.965030,1.582468
+091220426D-4,4,Chemin de Cussol,09000,Foix,C+O,42.964853,1.583341
+091220426D-47,47,Chemin de Cussol,09000,Foix,C+O,42.965178,1.582060
+091220426D-51,51,Chemin de Cussol,09000,Foix,C+O,42.965439,1.581428
+091220426D-53,53,Chemin de Cussol,09000,Foix,C+O,42.965717,1.581299
+091220426D-5,5,Chemin de Cussol,09000,Foix,C+O,42.964692,1.584467
+091220426D-59,59,Chemin de Cussol,09000,Foix,C+O,42.966444,1.581547
+091220426D-61,61,Chemin de Cussol,09000,Foix,C+O,42.966774,1.581639
+091220426D-63,63,Chemin de Cussol,09000,Foix,C+O,42.967589,1.580279
+091220426D-65,65,Chemin de Cussol,09000,Foix,C+O,42.967208,1.581729
+091220426D-6,6,Chemin de Cussol,09000,Foix,C+O,42.964852,1.583315
+091220426D-7,7,Chemin de Cussol,09000,Foix,C+O,42.964313,1.584164
+091220426D-8,8,Chemin de Cussol,09000,Foix,C+O,42.965018,1.582765
+091220426D-9,9,Chemin de Cussol,09000,Foix,C+O,42.964233,1.584048
+091220436P-10,10,Rue David Lautier,09000,Foix,C+O,42.985037,1.617717
+091220436P-1,1,Rue David Lautier,09000,Foix,C+O,42.984543,1.617010
+091220436P-12,12,Rue David Lautier,09000,Foix,C+O,42.985000,1.617691
+091220436P-14,14,Rue David Lautier,09000,Foix,C+O,42.984971,1.617656
+091220436P-16,16,Rue David Lautier,09000,Foix,C+O,42.984731,1.617411
+091220436P-18,18,Rue David Lautier,09000,Foix,C+O,42.984560,1.617103
+091220436P-20,20,Rue David Lautier,09000,Foix,C+O,42.984428,1.617043
+091220436P-2,2,Rue David Lautier,09000,Foix,C+O,42.984822,1.617181
+091220436P-3,3,Rue David Lautier,09000,Foix,C+O,42.984378,1.616909
+091220436P-4,4,Rue David Lautier,09000,Foix,C+O,42.985026,1.617330
+091220436P-5,5,Rue David Lautier,09000,Foix,C+O,42.984311,1.616912
+091220436P-6,6,Rue David Lautier,09000,Foix,C+O,42.985159,1.617427
+091220436P-7,7,Rue David Lautier,09000,Foix,C+O,42.984179,1.617066
+091220436P-8,8,Rue David Lautier,09000,Foix,C+O,42.985124,1.617586
 091220440U-8,8,Rue Debussy,09000,Foix,C+O,42.960313,1.600775
-091220442W-1,1,Rue du 19 Mars,09000,Foix,CAD,42.987534,1.616356
+091220442W-1,1,Rue du 19 Mars,09000,Foix,C+O,42.987534,1.616356
 091220446A-10,10,Rue Émile Zola,09000,Foix,C+O,42.950265,1.616527
 091220446A-11,11,Rue Émile Zola,09000,Foix,C+O,42.950655,1.616087
 091220446A-1,1,Rue Émile Zola,09000,Foix,C+O,42.951369,1.615608
@@ -2189,14 +2189,14 @@
 091220530S-7T,7TER,Avenue de Ferrières,09000,Foix,C+O,42.954304,1.614171
 091220530S-8,8,Avenue de Ferrières,09000,Foix,C+O,42.955111,1.613143
 091220530S-9,9,Avenue de Ferrières,09000,Foix,C+O,42.954054,1.614544
-091220539B-11,11,Chemin de Flassa,09000,Foix,CAD,42.972276,1.610756
-091220539B-2,2,Chemin de Flassa,09000,Foix,CAD,42.973780,1.609683
-091220539B-32,32,Chemin de Flassa,09000,Foix,CAD,42.970716,1.611009
-091220539B-35,35,Chemin de Flassa,09000,Foix,CAD,42.969536,1.612306
-091220539B-37,37,Chemin de Flassa,09000,Foix,CAD,42.969313,1.612581
-091220539B-38,38,Chemin de Flassa,09000,Foix,CAD,42.969631,1.612248
-091220539B-6,6,Chemin de Flassa,09000,Foix,CAD,42.973189,1.610535
-091220539B-9,9,Chemin de Flassa,09000,Foix,CAD,42.972657,1.610766
+091220539B-11,11,Chemin de Flassa,09000,Foix,C+O,42.972276,1.610756
+091220539B-2,2,Chemin de Flassa,09000,Foix,C+O,42.973780,1.609683
+091220539B-32,32,Chemin de Flassa,09000,Foix,C+O,42.970716,1.611009
+091220539B-35,35,Chemin de Flassa,09000,Foix,C+O,42.969536,1.612306
+091220539B-37,37,Chemin de Flassa,09000,Foix,C+O,42.969313,1.612581
+091220539B-38,38,Chemin de Flassa,09000,Foix,C+O,42.969631,1.612248
+091220539B-6,6,Chemin de Flassa,09000,Foix,C+O,42.973189,1.610535
+091220539B-9,9,Chemin de Flassa,09000,Foix,C+O,42.972657,1.610766
 091220548L-2,2,Rue Forgues,09000,Foix,C+O,42.965663,1.607422
 091220548L-3,3,Rue Forgues,09000,Foix,C+O,42.965560,1.607381
 091220560Z-10,10,Rue du Four d'Amont,09000,Foix,CAD,42.965397,1.606392
@@ -2441,85 +2441,85 @@
 091220610D-8,8,Avenue du Général de Gaulle,09000,Foix,C+O,42.962826,1.608967
 091220610D-9,9,Avenue du Général de Gaulle,09000,Foix,C+O,42.959488,1.609951
 091220610D-9B,9BIS,Avenue du Général de Gaulle,09000,Foix,C+O,42.959460,1.609961
-091220615J-10,10,Avenue du Général Leclerc,09000,Foix,CAD,42.972092,1.608005
-091220615J-11,11,Avenue du Général Leclerc,09000,Foix,CAD,42.970270,1.607987
-091220615J-1,1,Avenue du Général Leclerc,09000,Foix,CAD,42.970174,1.607995
-091220615J-13,13,Avenue du Général Leclerc,09000,Foix,CAD,42.970310,1.607984
-091220615J-14,14,Avenue du Général Leclerc,09000,Foix,CAD,42.972549,1.607991
-091220615J-15,15,Avenue du Général Leclerc,09000,Foix,CAD,42.970376,1.607979
-091220615J-16,16,Avenue du Général Leclerc,09000,Foix,CAD,42.972648,1.607985
-091220615J-16B,16BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.972702,1.607965
-091220615J-16T,16TER,Avenue du Général Leclerc,09000,Foix,CAD,42.973368,1.607928
-091220615J-17,17,Avenue du Général Leclerc,09000,Foix,CAD,42.970539,1.607973
-091220615J-19,19,Avenue du Général Leclerc,09000,Foix,CAD,42.970692,1.607968
-091220615J-20,20,Avenue du Général Leclerc,09000,Foix,CAD,42.973601,1.607907
-091220615J-21,21,Avenue du Général Leclerc,09000,Foix,CAD,42.970894,1.607958
-091220615J-21B,21BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.970984,1.607933
-091220615J-22,22,Avenue du Général Leclerc,09000,Foix,CAD,42.973785,1.607919
-091220615J-2,2,Avenue du Général Leclerc,09000,Foix,CAD,42.970683,1.608107
-091220615J-22B,22BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.973903,1.607916
-091220615J-23,23,Avenue du Général Leclerc,09000,Foix,CAD,42.971207,1.607938
-091220615J-23B,23BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.971338,1.607930
-091220615J-24,24,Avenue du Général Leclerc,09000,Foix,CAD,42.973998,1.607884
-091220615J-25,25,Avenue du Général Leclerc,09000,Foix,CAD,42.971417,1.607939
-091220615J-26,26,Avenue du Général Leclerc,09000,Foix,CAD,42.974116,1.607925
-091220615J-26B,26BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.974206,1.607910
-091220615J-27,27,Avenue du Général Leclerc,09000,Foix,CAD,42.971514,1.607918
-091220615J-28,28,Avenue du Général Leclerc,09000,Foix,CAD,42.974357,1.607935
-091220615J-29,29,Avenue du Général Leclerc,09000,Foix,CAD,42.971597,1.607913
-091220615J-2B,2BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.970852,1.608096
-091220615J-30,30,Avenue du Général Leclerc,09000,Foix,CAD,42.974473,1.607954
-091220615J-32,32,Avenue du Général Leclerc,09000,Foix,CAD,42.974635,1.608010
-091220615J-33,33,Avenue du Général Leclerc,09000,Foix,CAD,42.972547,1.607850
-091220615J-3,3,Avenue du Général Leclerc,09000,Foix,CAD,42.970199,1.608013
-091220615J-34,34,Avenue du Général Leclerc,09000,Foix,CAD,42.974699,1.608037
-091220615J-35,35,Avenue du Général Leclerc,09000,Foix,CAD,42.972677,1.607857
-091220615J-35A,35A,Avenue du Général Leclerc,09000,Foix,CAD,42.972753,1.607853
-091220615J-35B,35B,Avenue du Général Leclerc,09000,Foix,CAD,42.972802,1.607848
-091220615J-35D,35D,Avenue du Général Leclerc,09000,Foix,CAD,42.972890,1.607844
-091220615J-36,36,Avenue du Général Leclerc,09000,Foix,CAD,42.974901,1.608133
-091220615J-37,37,Avenue du Général Leclerc,09000,Foix,CAD,42.973091,1.607844
-091220615J-38,38,Avenue du Général Leclerc,09000,Foix,CAD,42.975138,1.609045
-091220615J-39,39,Avenue du Général Leclerc,09000,Foix,CAD,42.973526,1.607836
-091220615J-40,40,Avenue du Général Leclerc,09000,Foix,CAD,42.958535,1.610679
-091220615J-42,42,Avenue du Général Leclerc,09000,Foix,CAD,42.975067,1.608221
-091220615J-43,43,Avenue du Général Leclerc,09000,Foix,CAD,42.973769,1.607795
-091220615J-44,44,Avenue du Général Leclerc,09000,Foix,CAD,42.975219,1.608371
-091220615J-4,4,Avenue du Général Leclerc,09000,Foix,CAD,42.971099,1.608084
-091220615J-45,45,Avenue du Général Leclerc,09000,Foix,CAD,42.974017,1.607810
-091220615J-46,46,Avenue du Général Leclerc,09000,Foix,CAD,42.975339,1.608373
-091220615J-47,47,Avenue du Général Leclerc,09000,Foix,CAD,42.974065,1.607818
-091220615J-48,48,Avenue du Général Leclerc,09000,Foix,CAD,42.975461,1.608411
-091220615J-48B,48BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.975527,1.608443
-091220615J-49,49,Avenue du Général Leclerc,09000,Foix,CAD,42.974408,1.607838
-091220615J-50,50,Avenue du Général Leclerc,09000,Foix,CAD,42.975608,1.608465
-091220615J-50A,50A,Avenue du Général Leclerc,09000,Foix,CAD,42.975703,1.608527
-091220615J-51,51,Avenue du Général Leclerc,09000,Foix,CAD,42.974473,1.607863
-091220615J-53,53,Avenue du Général Leclerc,09000,Foix,CAD,42.974585,1.607878
-091220615J-54,54,Avenue du Général Leclerc,09000,Foix,CAD,42.976521,1.608959
-091220615J-55,55,Avenue du Général Leclerc,09000,Foix,CAD,42.974654,1.607891
-091220615J-5,5,Avenue du Général Leclerc,09000,Foix,CAD,42.970220,1.608009
-091220615J-55B,55BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.974717,1.607890
-091220615J-56,56,Avenue du Général Leclerc,09000,Foix,CAD,42.976668,1.609029
-091220615J-57,57,Avenue du Général Leclerc,09000,Foix,CAD,42.975825,1.608460
-091220615J-58,58,Avenue du Général Leclerc,09000,Foix,CAD,42.976861,1.609088
-091220615J-59,59,Avenue du Général Leclerc,09000,Foix,CAD,42.976068,1.608583
-091220615J-60,60,Avenue du Général Leclerc,09000,Foix,CAD,42.976978,1.609185
-091220615J-61,61,Avenue du Général Leclerc,09000,Foix,CAD,42.976291,1.608707
-091220615J-62,62,Avenue du Général Leclerc,09000,Foix,CAD,42.977140,1.609224
-091220615J-62A,62A,Avenue du Général Leclerc,09000,Foix,CAD,42.977798,1.609575
-091220615J-63,63,Avenue du Général Leclerc,09000,Foix,CAD,42.977125,1.609109
-091220615J-64,64,Avenue du Général Leclerc,09000,Foix,CAD,42.978369,1.609852
-091220615J-64B,64BIS,Avenue du Général Leclerc,09000,Foix,CAD,42.978442,1.609864
-091220615J-65,65,Avenue du Général Leclerc,09000,Foix,CAD,42.977513,1.609292
-091220615J-66,66,Avenue du Général Leclerc,09000,Foix,CAD,42.978464,1.609878
-091220615J-6,6,Avenue du Général Leclerc,09000,Foix,CAD,42.971430,1.608063
-091220615J-67,67,Avenue du Général Leclerc,09000,Foix,CAD,42.978193,1.609630
-091220615J-70,70,Avenue du Général Leclerc,09000,Foix,CAD,42.978532,1.609910
-091220615J-72,72,Avenue du Général Leclerc,09000,Foix,CAD,42.978858,1.610042
-091220615J-7,7,Avenue du Général Leclerc,09000,Foix,CAD,42.970243,1.608008
-091220615J-8,8,Avenue du Général Leclerc,09000,Foix,CAD,42.971783,1.608534
-091220615J-9,9,Avenue du Général Leclerc,09000,Foix,CAD,42.970257,1.608005
+091220615J-10,10,Avenue du Général Leclerc,09000,Foix,C+O,42.972092,1.608005
+091220615J-11,11,Avenue du Général Leclerc,09000,Foix,C+O,42.970270,1.607987
+091220615J-1,1,Avenue du Général Leclerc,09000,Foix,C+O,42.970174,1.607995
+091220615J-13,13,Avenue du Général Leclerc,09000,Foix,C+O,42.970310,1.607984
+091220615J-14,14,Avenue du Général Leclerc,09000,Foix,C+O,42.972549,1.607991
+091220615J-15,15,Avenue du Général Leclerc,09000,Foix,C+O,42.970376,1.607979
+091220615J-16,16,Avenue du Général Leclerc,09000,Foix,C+O,42.972648,1.607985
+091220615J-16B,16BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.972702,1.607965
+091220615J-16T,16TER,Avenue du Général Leclerc,09000,Foix,C+O,42.973368,1.607928
+091220615J-17,17,Avenue du Général Leclerc,09000,Foix,C+O,42.970539,1.607973
+091220615J-19,19,Avenue du Général Leclerc,09000,Foix,C+O,42.970692,1.607968
+091220615J-20,20,Avenue du Général Leclerc,09000,Foix,C+O,42.973601,1.607907
+091220615J-21,21,Avenue du Général Leclerc,09000,Foix,C+O,42.970894,1.607958
+091220615J-21B,21BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.970984,1.607933
+091220615J-22,22,Avenue du Général Leclerc,09000,Foix,C+O,42.973785,1.607919
+091220615J-2,2,Avenue du Général Leclerc,09000,Foix,C+O,42.970683,1.608107
+091220615J-22B,22BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.973903,1.607916
+091220615J-23,23,Avenue du Général Leclerc,09000,Foix,C+O,42.971207,1.607938
+091220615J-23B,23BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.971338,1.607930
+091220615J-24,24,Avenue du Général Leclerc,09000,Foix,C+O,42.973998,1.607884
+091220615J-25,25,Avenue du Général Leclerc,09000,Foix,C+O,42.971417,1.607939
+091220615J-26,26,Avenue du Général Leclerc,09000,Foix,C+O,42.974116,1.607925
+091220615J-26B,26BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.974206,1.607910
+091220615J-27,27,Avenue du Général Leclerc,09000,Foix,C+O,42.971514,1.607918
+091220615J-28,28,Avenue du Général Leclerc,09000,Foix,C+O,42.974357,1.607935
+091220615J-29,29,Avenue du Général Leclerc,09000,Foix,C+O,42.971597,1.607913
+091220615J-2B,2BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.970852,1.608096
+091220615J-30,30,Avenue du Général Leclerc,09000,Foix,C+O,42.974473,1.607954
+091220615J-32,32,Avenue du Général Leclerc,09000,Foix,C+O,42.974635,1.608010
+091220615J-33,33,Avenue du Général Leclerc,09000,Foix,C+O,42.972547,1.607850
+091220615J-3,3,Avenue du Général Leclerc,09000,Foix,C+O,42.970199,1.608013
+091220615J-34,34,Avenue du Général Leclerc,09000,Foix,C+O,42.974699,1.608037
+091220615J-35,35,Avenue du Général Leclerc,09000,Foix,C+O,42.972677,1.607857
+091220615J-35A,35A,Avenue du Général Leclerc,09000,Foix,C+O,42.972753,1.607853
+091220615J-35B,35B,Avenue du Général Leclerc,09000,Foix,C+O,42.972802,1.607848
+091220615J-35D,35D,Avenue du Général Leclerc,09000,Foix,C+O,42.972890,1.607844
+091220615J-36,36,Avenue du Général Leclerc,09000,Foix,C+O,42.974901,1.608133
+091220615J-37,37,Avenue du Général Leclerc,09000,Foix,C+O,42.973091,1.607844
+091220615J-38,38,Avenue du Général Leclerc,09000,Foix,C+O,42.975138,1.609045
+091220615J-39,39,Avenue du Général Leclerc,09000,Foix,C+O,42.973526,1.607836
+091220615J-40,40,Avenue du Général Leclerc,09000,Foix,C+O,42.958535,1.610679
+091220615J-42,42,Avenue du Général Leclerc,09000,Foix,C+O,42.975067,1.608221
+091220615J-43,43,Avenue du Général Leclerc,09000,Foix,C+O,42.973769,1.607795
+091220615J-44,44,Avenue du Général Leclerc,09000,Foix,C+O,42.975219,1.608371
+091220615J-4,4,Avenue du Général Leclerc,09000,Foix,C+O,42.971099,1.608084
+091220615J-45,45,Avenue du Général Leclerc,09000,Foix,C+O,42.974017,1.607810
+091220615J-46,46,Avenue du Général Leclerc,09000,Foix,C+O,42.975339,1.608373
+091220615J-47,47,Avenue du Général Leclerc,09000,Foix,C+O,42.974065,1.607818
+091220615J-48,48,Avenue du Général Leclerc,09000,Foix,C+O,42.975461,1.608411
+091220615J-48B,48BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.975527,1.608443
+091220615J-49,49,Avenue du Général Leclerc,09000,Foix,C+O,42.974408,1.607838
+091220615J-50,50,Avenue du Général Leclerc,09000,Foix,C+O,42.975608,1.608465
+091220615J-50A,50A,Avenue du Général Leclerc,09000,Foix,C+O,42.975703,1.608527
+091220615J-51,51,Avenue du Général Leclerc,09000,Foix,C+O,42.974473,1.607863
+091220615J-53,53,Avenue du Général Leclerc,09000,Foix,C+O,42.974585,1.607878
+091220615J-54,54,Avenue du Général Leclerc,09000,Foix,C+O,42.976521,1.608959
+091220615J-55,55,Avenue du Général Leclerc,09000,Foix,C+O,42.974654,1.607891
+091220615J-5,5,Avenue du Général Leclerc,09000,Foix,C+O,42.970220,1.608009
+091220615J-55B,55BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.974717,1.607890
+091220615J-56,56,Avenue du Général Leclerc,09000,Foix,C+O,42.976668,1.609029
+091220615J-57,57,Avenue du Général Leclerc,09000,Foix,C+O,42.975825,1.608460
+091220615J-58,58,Avenue du Général Leclerc,09000,Foix,C+O,42.976861,1.609088
+091220615J-59,59,Avenue du Général Leclerc,09000,Foix,C+O,42.976068,1.608583
+091220615J-60,60,Avenue du Général Leclerc,09000,Foix,C+O,42.976978,1.609185
+091220615J-61,61,Avenue du Général Leclerc,09000,Foix,C+O,42.976291,1.608707
+091220615J-62,62,Avenue du Général Leclerc,09000,Foix,C+O,42.977140,1.609224
+091220615J-62A,62A,Avenue du Général Leclerc,09000,Foix,C+O,42.977798,1.609575
+091220615J-63,63,Avenue du Général Leclerc,09000,Foix,C+O,42.977125,1.609109
+091220615J-64,64,Avenue du Général Leclerc,09000,Foix,C+O,42.978369,1.609852
+091220615J-64B,64BIS,Avenue du Général Leclerc,09000,Foix,C+O,42.978442,1.609864
+091220615J-65,65,Avenue du Général Leclerc,09000,Foix,C+O,42.977513,1.609292
+091220615J-66,66,Avenue du Général Leclerc,09000,Foix,C+O,42.978464,1.609878
+091220615J-6,6,Avenue du Général Leclerc,09000,Foix,C+O,42.971430,1.608063
+091220615J-67,67,Avenue du Général Leclerc,09000,Foix,C+O,42.978193,1.609630
+091220615J-70,70,Avenue du Général Leclerc,09000,Foix,C+O,42.978532,1.609910
+091220615J-72,72,Avenue du Général Leclerc,09000,Foix,C+O,42.978858,1.610042
+091220615J-7,7,Avenue du Général Leclerc,09000,Foix,C+O,42.970243,1.608008
+091220615J-8,8,Avenue du Général Leclerc,09000,Foix,C+O,42.971783,1.608534
+091220615J-9,9,Avenue du Général Leclerc,09000,Foix,C+O,42.970257,1.608005
 091220624U-5,5,Avenue Georges Soubrier,09000,Foix,CAD,42.951389,1.591528
 091220625V-10,10,Rue Georges Bordas,09000,Foix,C+O,42.965476,1.607868
 091220625V-1,1,Rue Georges Bordas,09000,Foix,C+O,42.965264,1.607913
@@ -2539,22 +2539,22 @@
 091220627X-7,7,Rue Georges Brassens,09000,Foix,C+O,42.951553,1.618200
 091220627X-8,8,Rue Georges Brassens,09000,Foix,C+O,42.951605,1.618144
 091220627X-9,9,Rue Georges Brassens,09000,Foix,C+O,42.951623,1.618443
-091220630A-1,1,Avenue Georges Clémenceau,09000,Foix,CAD,42.970466,1.608375
-091220630A-15,15,Avenue Georges Clémenceau,09000,Foix,CAD,42.974772,1.609509
-091220630A-16,16,Avenue Georges Clémenceau,09000,Foix,CAD,42.976584,1.609940
-091220630A-18,18,Avenue Georges Clémenceau,09000,Foix,CAD,42.977812,1.611141
-091220630A-19,19,Avenue Georges Clémenceau,09000,Foix,CAD,42.975259,1.609633
-091220630A-20,20,Avenue Georges Clémenceau,09000,Foix,CAD,42.978103,1.611297
-091220630A-20B,20BIS,Avenue Georges Clémenceau,09000,Foix,CAD,42.978347,1.611428
-091220630A-21,21,Avenue Georges Clémenceau,09000,Foix,CAD,42.975353,1.609656
-091220630A-22,22,Avenue Georges Clémenceau,09000,Foix,CAD,42.978670,1.611611
-091220630A-2,2,Avenue Georges Clémenceau,09000,Foix,CAD,42.970717,1.608091
-091220630A-23,23,Avenue Georges Clémenceau,09000,Foix,CAD,42.979052,1.613189
-091220630A-24,24,Avenue Georges Clémenceau,09000,Foix,CAD,42.979023,1.611874
-091220630A-4,4,Avenue Georges Clémenceau,09000,Foix,CAD,42.971099,1.608073
-091220630A-6,6,Avenue Georges Clémenceau,09000,Foix,CAD,42.971206,1.608790
-091220630A-7,7,Avenue Georges Clémenceau,09000,Foix,CAD,42.972027,1.609140
-091220630A-8,8,Avenue Georges Clémenceau,09000,Foix,CAD,42.971206,1.608802
+091220630A-1,1,Avenue Georges Clémenceau,09000,Foix,C+O,42.970466,1.608375
+091220630A-15,15,Avenue Georges Clémenceau,09000,Foix,C+O,42.974772,1.609509
+091220630A-16,16,Avenue Georges Clémenceau,09000,Foix,C+O,42.976584,1.609940
+091220630A-18,18,Avenue Georges Clémenceau,09000,Foix,C+O,42.977812,1.611141
+091220630A-19,19,Avenue Georges Clémenceau,09000,Foix,C+O,42.975259,1.609633
+091220630A-20,20,Avenue Georges Clémenceau,09000,Foix,C+O,42.978103,1.611297
+091220630A-20B,20BIS,Avenue Georges Clémenceau,09000,Foix,C+O,42.978347,1.611428
+091220630A-21,21,Avenue Georges Clémenceau,09000,Foix,C+O,42.975353,1.609656
+091220630A-22,22,Avenue Georges Clémenceau,09000,Foix,C+O,42.978670,1.611611
+091220630A-2,2,Avenue Georges Clémenceau,09000,Foix,C+O,42.970717,1.608091
+091220630A-23,23,Avenue Georges Clémenceau,09000,Foix,C+O,42.979052,1.613189
+091220630A-24,24,Avenue Georges Clémenceau,09000,Foix,C+O,42.979023,1.611874
+091220630A-4,4,Avenue Georges Clémenceau,09000,Foix,C+O,42.971099,1.608073
+091220630A-6,6,Avenue Georges Clémenceau,09000,Foix,C+O,42.971206,1.608790
+091220630A-7,7,Avenue Georges Clémenceau,09000,Foix,C+O,42.972027,1.609140
+091220630A-8,8,Avenue Georges Clémenceau,09000,Foix,C+O,42.971206,1.608802
 091220635F-10,10,Place Georges Dutilh,09000,Foix,CAD,42.965526,1.608945
 091220635F-11,11,Place Georges Dutilh,09000,Foix,CAD,42.965456,1.608869
 091220635F-12,12,Place Georges Dutilh,09000,Foix,CAD,42.965465,1.609005
@@ -2744,17 +2744,17 @@
 091220715T-8B,8B,Avenue Jean Monnet,09000,Foix,C+O,42.961470,1.600205
 091220715T-9,9,Avenue Jean Monnet,09000,Foix,C+O,42.962479,1.600325
 091220721Z-2,2,Rue Jean Jacques Delescazes,09000,Foix,CAD,42.966716,1.607166
-091220722A-10,10,Rue Jean Durroux,09000,Foix,CAD,42.985332,1.618275
-091220722A-1,1,Rue Jean Durroux,09000,Foix,CAD,42.985672,1.617620
-091220722A-12,12,Rue Jean Durroux,09000,Foix,CAD,42.985184,1.618470
-091220722A-2,2,Rue Jean Durroux,09000,Foix,CAD,42.985836,1.617611
-091220722A-3,3,Rue Jean Durroux,09000,Foix,CAD,42.985561,1.617864
-091220722A-4,4,Rue Jean Durroux,09000,Foix,CAD,42.985720,1.617765
-091220722A-5,5,Rue Jean Durroux,09000,Foix,CAD,42.985427,1.618041
-091220722A-6,6,Rue Jean Durroux,09000,Foix,CAD,42.985590,1.617936
-091220722A-7,7,Rue Jean Durroux,09000,Foix,CAD,42.985301,1.618208
-091220722A-8,8,Rue Jean Durroux,09000,Foix,CAD,42.985461,1.618105
-091220722A-9,9,Rue Jean Durroux,09000,Foix,CAD,42.985112,1.618407
+091220722A-10,10,Rue Jean Durroux,09000,Foix,C+O,42.985332,1.618275
+091220722A-1,1,Rue Jean Durroux,09000,Foix,C+O,42.985672,1.617620
+091220722A-12,12,Rue Jean Durroux,09000,Foix,C+O,42.985184,1.618470
+091220722A-2,2,Rue Jean Durroux,09000,Foix,C+O,42.985836,1.617611
+091220722A-3,3,Rue Jean Durroux,09000,Foix,C+O,42.985561,1.617864
+091220722A-4,4,Rue Jean Durroux,09000,Foix,C+O,42.985720,1.617765
+091220722A-5,5,Rue Jean Durroux,09000,Foix,C+O,42.985427,1.618041
+091220722A-6,6,Rue Jean Durroux,09000,Foix,C+O,42.985590,1.617936
+091220722A-7,7,Rue Jean Durroux,09000,Foix,C+O,42.985301,1.618208
+091220722A-8,8,Rue Jean Durroux,09000,Foix,C+O,42.985461,1.618105
+091220722A-9,9,Rue Jean Durroux,09000,Foix,C+O,42.985112,1.618407
 091220723B-11,11,Rue Jean Jaurès,09000,Foix,C+O,42.951528,1.617169
 091220723B-1,1,Rue Jean Jaurès,09000,Foix,C+O,42.951974,1.616876
 091220723B-13,13,Rue Jean Jaurès,09000,Foix,C+O,42.951340,1.617293
@@ -2762,71 +2762,71 @@
 091220723B-5,5,Rue Jean Jaurès,09000,Foix,C+O,42.951806,1.616988
 091220723B-7,7,Rue Jean Jaurès,09000,Foix,C+O,42.951716,1.617048
 091220723B-9,9,Rue Jean Jaurès,09000,Foix,C+O,42.951626,1.617105
-091220724C-10,10,Rue Jean Moulin,09000,Foix,CAD,42.984565,1.615326
-091220724C-11,11,Rue Jean Moulin,09000,Foix,CAD,42.983624,1.614996
-091220724C-12,12,Rue Jean Moulin,09000,Foix,CAD,42.984711,1.615377
-091220724C-13,13,Rue Jean Moulin,09000,Foix,CAD,42.983736,1.615102
-091220724C-14,14,Rue Jean Moulin,09000,Foix,CAD,42.984798,1.615484
-091220724C-15,15,Rue Jean Moulin,09000,Foix,CAD,42.983849,1.615210
-091220724C-16,16,Rue Jean Moulin,09000,Foix,CAD,42.985291,1.616320
-091220724C-17,17,Rue Jean Moulin,09000,Foix,CAD,42.983971,1.615318
-091220724C-18,18,Rue Jean Moulin,09000,Foix,CAD,42.985395,1.616312
-091220724C-19,19,Rue Jean Moulin,09000,Foix,CAD,42.984042,1.615360
-091220724C-20,20,Rue Jean Moulin,09000,Foix,CAD,42.985502,1.616286
-091220724C-22,22,Rue Jean Moulin,09000,Foix,CAD,42.985618,1.616255
-091220724C-2,2,Rue Jean Moulin,09000,Foix,CAD,42.982952,1.614263
-091220724C-27,27,Rue Jean Moulin,09000,Foix,CAD,42.985051,1.616262
-091220724C-2B,2BIS,Rue Jean Moulin,09000,Foix,CAD,42.983039,1.614340
-091220724C-3,3,Rue Jean Moulin,09000,Foix,CAD,42.983083,1.614481
-091220724C-4,4,Rue Jean Moulin,09000,Foix,CAD,42.983249,1.614490
-091220724C-5,5,Rue Jean Moulin,09000,Foix,CAD,42.983235,1.614625
-091220724C-6,6,Rue Jean Moulin,09000,Foix,CAD,42.983330,1.614492
-091220724C-7,7,Rue Jean Moulin,09000,Foix,CAD,42.983375,1.614758
-091220724C-8,8,Rue Jean Moulin,09000,Foix,CAD,42.984473,1.615317
-091220724C-9,9,Rue Jean Moulin,09000,Foix,CAD,42.983512,1.614889
-091220725D-10,10,Rue Jean Nayrou,09000,Foix,CAD,42.976055,1.610230
-091220725D-10B,10BIS,Rue Jean Nayrou,09000,Foix,CAD,42.976109,1.610227
-091220725D-11,11,Rue Jean Nayrou,09000,Foix,CAD,42.974037,1.609675
-091220725D-1,1,Rue Jean Nayrou,09000,Foix,CAD,42.976469,1.610303
-091220725D-12,12,Rue Jean Nayrou,09000,Foix,CAD,42.976206,1.610284
-091220725D-16,16,Rue Jean Nayrou,09000,Foix,CAD,42.975688,1.610145
-091220725D-18,18,Rue Jean Nayrou,09000,Foix,CAD,42.975652,1.610137
-091220725D-20,20,Rue Jean Nayrou,09000,Foix,CAD,42.975631,1.610116
-091220725D-20B,20BIS,Rue Jean Nayrou,09000,Foix,CAD,42.975601,1.610128
-091220725D-22,22,Rue Jean Nayrou,09000,Foix,CAD,42.975322,1.610287
-091220725D-2,2,Rue Jean Nayrou,09000,Foix,CAD,42.977907,1.611468
-091220725D-24,24,Rue Jean Nayrou,09000,Foix,CAD,42.975113,1.610371
-091220725D-2B,2BIS,Rue Jean Nayrou,09000,Foix,CAD,42.978582,1.611652
-091220725D-2T,2TER,Rue Jean Nayrou,09000,Foix,CAD,42.978822,1.611817
-091220725D-3,3,Rue Jean Nayrou,09000,Foix,CAD,42.976369,1.610270
-091220725D-4,4,Rue Jean Nayrou,09000,Foix,CAD,42.978012,1.612054
-091220725D-4B,4BIS,Rue Jean Nayrou,09000,Foix,CAD,42.978012,1.612072
-091220725D-5,5,Rue Jean Nayrou,09000,Foix,CAD,42.975929,1.610152
-091220725D-6,6,Rue Jean Nayrou,09000,Foix,CAD,42.977334,1.610866
-091220725D-6B,6BIS,Rue Jean Nayrou,09000,Foix,CAD,42.977144,1.610628
-091220725D-6T,6TER,Rue Jean Nayrou,09000,Foix,CAD,42.977117,1.610611
-091220725D-7,7,Rue Jean Nayrou,09000,Foix,CAD,42.975718,1.610099
-091220725D-9,9,Rue Jean Nayrou,09000,Foix,CAD,42.975024,1.609980
+091220724C-10,10,Rue Jean Moulin,09000,Foix,C+O,42.984565,1.615326
+091220724C-11,11,Rue Jean Moulin,09000,Foix,C+O,42.983624,1.614996
+091220724C-12,12,Rue Jean Moulin,09000,Foix,C+O,42.984711,1.615377
+091220724C-13,13,Rue Jean Moulin,09000,Foix,C+O,42.983736,1.615102
+091220724C-14,14,Rue Jean Moulin,09000,Foix,C+O,42.984798,1.615484
+091220724C-15,15,Rue Jean Moulin,09000,Foix,C+O,42.983849,1.615210
+091220724C-16,16,Rue Jean Moulin,09000,Foix,C+O,42.985291,1.616320
+091220724C-17,17,Rue Jean Moulin,09000,Foix,C+O,42.983971,1.615318
+091220724C-18,18,Rue Jean Moulin,09000,Foix,C+O,42.985395,1.616312
+091220724C-19,19,Rue Jean Moulin,09000,Foix,C+O,42.984042,1.615360
+091220724C-20,20,Rue Jean Moulin,09000,Foix,C+O,42.985502,1.616286
+091220724C-22,22,Rue Jean Moulin,09000,Foix,C+O,42.985618,1.616255
+091220724C-2,2,Rue Jean Moulin,09000,Foix,C+O,42.982952,1.614263
+091220724C-27,27,Rue Jean Moulin,09000,Foix,C+O,42.985051,1.616262
+091220724C-2B,2BIS,Rue Jean Moulin,09000,Foix,C+O,42.983039,1.614340
+091220724C-3,3,Rue Jean Moulin,09000,Foix,C+O,42.983083,1.614481
+091220724C-4,4,Rue Jean Moulin,09000,Foix,C+O,42.983249,1.614490
+091220724C-5,5,Rue Jean Moulin,09000,Foix,C+O,42.983235,1.614625
+091220724C-6,6,Rue Jean Moulin,09000,Foix,C+O,42.983330,1.614492
+091220724C-7,7,Rue Jean Moulin,09000,Foix,C+O,42.983375,1.614758
+091220724C-8,8,Rue Jean Moulin,09000,Foix,C+O,42.984473,1.615317
+091220724C-9,9,Rue Jean Moulin,09000,Foix,C+O,42.983512,1.614889
+091220725D-10,10,Rue Jean Nayrou,09000,Foix,C+O,42.976055,1.610230
+091220725D-10B,10BIS,Rue Jean Nayrou,09000,Foix,C+O,42.976109,1.610227
+091220725D-11,11,Rue Jean Nayrou,09000,Foix,C+O,42.974037,1.609675
+091220725D-1,1,Rue Jean Nayrou,09000,Foix,C+O,42.976469,1.610303
+091220725D-12,12,Rue Jean Nayrou,09000,Foix,C+O,42.976206,1.610284
+091220725D-16,16,Rue Jean Nayrou,09000,Foix,C+O,42.975688,1.610145
+091220725D-18,18,Rue Jean Nayrou,09000,Foix,C+O,42.975652,1.610137
+091220725D-20,20,Rue Jean Nayrou,09000,Foix,C+O,42.975631,1.610116
+091220725D-20B,20BIS,Rue Jean Nayrou,09000,Foix,C+O,42.975601,1.610128
+091220725D-22,22,Rue Jean Nayrou,09000,Foix,C+O,42.975322,1.610287
+091220725D-2,2,Rue Jean Nayrou,09000,Foix,C+O,42.977907,1.611468
+091220725D-24,24,Rue Jean Nayrou,09000,Foix,C+O,42.975113,1.610371
+091220725D-2B,2BIS,Rue Jean Nayrou,09000,Foix,C+O,42.978582,1.611652
+091220725D-2T,2TER,Rue Jean Nayrou,09000,Foix,C+O,42.978822,1.611817
+091220725D-3,3,Rue Jean Nayrou,09000,Foix,C+O,42.976369,1.610270
+091220725D-4,4,Rue Jean Nayrou,09000,Foix,C+O,42.978012,1.612054
+091220725D-4B,4BIS,Rue Jean Nayrou,09000,Foix,C+O,42.978012,1.612072
+091220725D-5,5,Rue Jean Nayrou,09000,Foix,C+O,42.975929,1.610152
+091220725D-6,6,Rue Jean Nayrou,09000,Foix,C+O,42.977334,1.610866
+091220725D-6B,6BIS,Rue Jean Nayrou,09000,Foix,C+O,42.977144,1.610628
+091220725D-6T,6TER,Rue Jean Nayrou,09000,Foix,C+O,42.977117,1.610611
+091220725D-7,7,Rue Jean Nayrou,09000,Foix,C+O,42.975718,1.610099
+091220725D-9,9,Rue Jean Nayrou,09000,Foix,C+O,42.975024,1.609980
 091220726E-11,11,Rue Jules Palmade,09000,Foix,C+O,42.952510,1.616523
 091220726E-2A,2A,Rue Jules Palmade,09000,Foix,C+O,42.953720,1.615501
 091220726E-5,5,Rue Jules Palmade,09000,Foix,C+O,42.953399,1.615655
 091220726E-6,6,Rue Jules Palmade,09000,Foix,C+O,42.952506,1.616581
 091220726E-7,7,Rue Jules Palmade,09000,Foix,C+O,42.953271,1.615787
 091220726E-9,9,Rue Jules Palmade,09000,Foix,C+O,42.953051,1.615974
-091220727F-10,10,Rue Jean Zay,09000,Foix,CAD,42.983708,1.614496
-091220727F-1,1,Rue Jean Zay,09000,Foix,CAD,42.983669,1.614512
-091220727F-12,12,Rue Jean Zay,09000,Foix,CAD,42.983805,1.614588
-091220727F-14,14,Rue Jean Zay,09000,Foix,CAD,42.983887,1.614667
-091220727F-16,16,Rue Jean Zay,09000,Foix,CAD,42.983961,1.614737
-091220727F-18,18,Rue Jean Zay,09000,Foix,CAD,42.984191,1.614848
-091220727F-20,20,Rue Jean Zay,09000,Foix,CAD,42.984289,1.614939
-091220727F-2,2,Rue Jean Zay,09000,Foix,CAD,42.983396,1.614196
-091220727F-3,3,Rue Jean Zay,09000,Foix,CAD,42.983842,1.614746
-091220727F-4,4,Rue Jean Zay,09000,Foix,CAD,42.983483,1.614279
-091220727F-5,5,Rue Jean Zay,09000,Foix,CAD,42.984015,1.614940
-091220727F-6,6,Rue Jean Zay,09000,Foix,CAD,42.983559,1.614352
-091220727F-7,7,Rue Jean Zay,09000,Foix,CAD,42.984156,1.615033
-091220727F-8,8,Rue Jean Zay,09000,Foix,CAD,42.983632,1.614422
+091220727F-10,10,Rue Jean Zay,09000,Foix,C+O,42.983708,1.614496
+091220727F-1,1,Rue Jean Zay,09000,Foix,C+O,42.983669,1.614512
+091220727F-12,12,Rue Jean Zay,09000,Foix,C+O,42.983805,1.614588
+091220727F-14,14,Rue Jean Zay,09000,Foix,C+O,42.983887,1.614667
+091220727F-16,16,Rue Jean Zay,09000,Foix,C+O,42.983961,1.614737
+091220727F-18,18,Rue Jean Zay,09000,Foix,C+O,42.984191,1.614848
+091220727F-20,20,Rue Jean Zay,09000,Foix,C+O,42.984289,1.614939
+091220727F-2,2,Rue Jean Zay,09000,Foix,C+O,42.983396,1.614196
+091220727F-3,3,Rue Jean Zay,09000,Foix,C+O,42.983842,1.614746
+091220727F-4,4,Rue Jean Zay,09000,Foix,C+O,42.983483,1.614279
+091220727F-5,5,Rue Jean Zay,09000,Foix,C+O,42.984015,1.614940
+091220727F-6,6,Rue Jean Zay,09000,Foix,C+O,42.983559,1.614352
+091220727F-7,7,Rue Jean Zay,09000,Foix,C+O,42.984156,1.615033
+091220727F-8,8,Rue Jean Zay,09000,Foix,C+O,42.983632,1.614422
 091220740V-10,10,Rue Labistour,09000,Foix,C+O,42.965579,1.607988
 091220740V-11,11,Rue Labistour,09000,Foix,C+O,42.965508,1.607764
 091220740V-1,1,Rue Labistour,09000,Foix,C+O,42.965518,1.608181
@@ -3041,16 +3041,16 @@
 091220880X-6,6,Rue Longue,09000,Foix,CAD,42.960187,1.608413
 091220880X-8,8,Rue Longue,09000,Foix,CAD,42.960263,1.608427
 091220880X-8B,8BIS,Rue Longue,09000,Foix,CAD,42.960364,1.608388
-091220881Y-10,10,Rue Louis Aragon,09000,Foix,CAD,42.985437,1.615874
-091220881Y-1,1,Rue Louis Aragon,09000,Foix,CAD,42.985217,1.615866
-091220881Y-12,12,Rue Louis Aragon,09000,Foix,CAD,42.985552,1.615936
-091220881Y-14,14,Rue Louis Aragon,09000,Foix,CAD,42.985641,1.615983
-091220881Y-16,16,Rue Louis Aragon,09000,Foix,CAD,42.985720,1.616023
-091220881Y-2,2,Rue Louis Aragon,09000,Foix,CAD,42.984979,1.615667
-091220881Y-3,3,Rue Louis Aragon,09000,Foix,CAD,42.985260,1.615971
-091220881Y-4,4,Rue Louis Aragon,09000,Foix,CAD,42.985076,1.615686
-091220881Y-6,6,Rue Louis Aragon,09000,Foix,CAD,42.985168,1.615731
-091220881Y-8,8,Rue Louis Aragon,09000,Foix,CAD,42.985298,1.615799
+091220881Y-10,10,Rue Louis Aragon,09000,Foix,C+O,42.985437,1.615874
+091220881Y-1,1,Rue Louis Aragon,09000,Foix,C+O,42.985217,1.615866
+091220881Y-12,12,Rue Louis Aragon,09000,Foix,C+O,42.985552,1.615936
+091220881Y-14,14,Rue Louis Aragon,09000,Foix,C+O,42.985641,1.615983
+091220881Y-16,16,Rue Louis Aragon,09000,Foix,C+O,42.985720,1.616023
+091220881Y-2,2,Rue Louis Aragon,09000,Foix,C+O,42.984979,1.615667
+091220881Y-3,3,Rue Louis Aragon,09000,Foix,C+O,42.985260,1.615971
+091220881Y-4,4,Rue Louis Aragon,09000,Foix,C+O,42.985076,1.615686
+091220881Y-6,6,Rue Louis Aragon,09000,Foix,C+O,42.985168,1.615731
+091220881Y-8,8,Rue Louis Aragon,09000,Foix,C+O,42.985298,1.615799
 091220889G-10,10,Rue Louis Palauqui,09000,Foix,C+O,42.962908,1.593834
 091220889G-11,11,Rue Louis Palauqui,09000,Foix,C+O,42.963178,1.594523
 091220889G-11B,11BIS,Rue Louis Palauqui,09000,Foix,C+O,42.963114,1.594322
@@ -3097,7 +3097,7 @@
 091220900U-4,4,Rue Louve,09000,Foix,C+O,42.964757,1.608409
 091220900U-6,6,Rue Louve,09000,Foix,C+O,42.964769,1.608329
 091220900U-8,8,Rue Louve,09000,Foix,C+O,42.964778,1.608267
-091220908C-3,3,Rue Lucie Aubrac,09000,Foix,CAD,42.964561,1.587910
+091220908C-3,3,Rue Lucie Aubrac,09000,Foix,C+O,42.964561,1.587910
 091220911F-10,10,Chemin de Malet,09000,Foix,C+O,42.953967,1.595030
 091220911F-11,11,Chemin de Malet,09000,Foix,C+O,42.953748,1.593025
 091220911F-12,12,Chemin de Malet,09000,Foix,C+O,42.953754,1.594536
@@ -3243,18 +3243,18 @@
 091221000C-7B,7BIS,Rue de Montgauzy,09000,Foix,C+O,42.958220,1.606866
 091221000C-8,8,Rue de Montgauzy,09000,Foix,C+O,42.958075,1.606908
 091221000C-9,9,Rue de Montgauzy,09000,Foix,C+O,42.958021,1.606853
-091221004G-10,10,Rue des Moraines,09000,Foix,CAD,42.984697,1.616085
-091221004G-11,11,Rue des Moraines,09000,Foix,CAD,42.984794,1.616191
-091221004G-1,1,Rue des Moraines,09000,Foix,CAD,42.984247,1.615612
-091221004G-13,13,Rue des Moraines,09000,Foix,CAD,42.984916,1.616102
-091221004G-2,2,Rue des Moraines,09000,Foix,CAD,42.984381,1.615764
-091221004G-3,3,Rue des Moraines,09000,Foix,CAD,42.984280,1.615784
-091221004G-4,4,Rue des Moraines,09000,Foix,CAD,42.984469,1.615739
-091221004G-5,5,Rue des Moraines,09000,Foix,CAD,42.984353,1.615886
-091221004G-6,6,Rue des Moraines,09000,Foix,CAD,42.984533,1.615790
-091221004G-7,7,Rue des Moraines,09000,Foix,CAD,42.984478,1.615977
-091221004G-8,8,Rue des Moraines,09000,Foix,CAD,42.984594,1.615923
-091221004G-9,9,Rue des Moraines,09000,Foix,CAD,42.984701,1.616151
+091221004G-10,10,Rue des Moraines,09000,Foix,C+O,42.984697,1.616085
+091221004G-11,11,Rue des Moraines,09000,Foix,C+O,42.984794,1.616191
+091221004G-1,1,Rue des Moraines,09000,Foix,C+O,42.984247,1.615612
+091221004G-13,13,Rue des Moraines,09000,Foix,C+O,42.984916,1.616102
+091221004G-2,2,Rue des Moraines,09000,Foix,C+O,42.984381,1.615764
+091221004G-3,3,Rue des Moraines,09000,Foix,C+O,42.984280,1.615784
+091221004G-4,4,Rue des Moraines,09000,Foix,C+O,42.984469,1.615739
+091221004G-5,5,Rue des Moraines,09000,Foix,C+O,42.984353,1.615886
+091221004G-6,6,Rue des Moraines,09000,Foix,C+O,42.984533,1.615790
+091221004G-7,7,Rue des Moraines,09000,Foix,C+O,42.984478,1.615977
+091221004G-8,8,Rue des Moraines,09000,Foix,C+O,42.984594,1.615923
+091221004G-9,9,Rue des Moraines,09000,Foix,C+O,42.984701,1.616151
 091221020Z-11,11,Rue des Moulins l'Arget,09000,Foix,CAD,42.966924,1.604662
 091221020Z-1,1,Rue des Moulins l'Arget,09000,Foix,CAD,42.967093,1.605065
 091221020Z-13,13,Rue des Moulins l'Arget,09000,Foix,CAD,42.966845,1.604541
@@ -3440,19 +3440,19 @@
 091221120H-7,7,Rue Pasteur,09000,Foix,C+O,42.962314,1.601714
 091221120H-8,8,Rue Pasteur,09000,Foix,C+O,42.962307,1.601430
 091221120H-9,9,Rue Pasteur,09000,Foix,C+O,42.962336,1.601493
-091221130U-10,10,Avenue Paul Bert,09000,Foix,CAD,42.983646,1.615653
-091221130U-11,11,Avenue Paul Bert,09000,Foix,CAD,42.983439,1.615578
-091221130U-12,12,Avenue Paul Bert,09000,Foix,CAD,42.983804,1.615789
-091221130U-13,13,Avenue Paul Bert,09000,Foix,CAD,42.983612,1.615741
-091221130U-14,14,Avenue Paul Bert,09000,Foix,CAD,42.983973,1.615932
-091221130U-15,15,Avenue Paul Bert,09000,Foix,CAD,42.984046,1.616462
-091221130U-17,17,Avenue Paul Bert,09000,Foix,CAD,42.984369,1.616426
-091221130U-2,2,Avenue Paul Bert,09000,Foix,CAD,42.982991,1.614992
-091221130U-4,4,Avenue Paul Bert,09000,Foix,CAD,42.983130,1.615158
-091221130U-6,6,Avenue Paul Bert,09000,Foix,CAD,42.983319,1.615340
-091221130U-7,7,Avenue Paul Bert,09000,Foix,CAD,42.983004,1.615191
-091221130U-8,8,Avenue Paul Bert,09000,Foix,CAD,42.983486,1.615500
-091221130U-9,9,Avenue Paul Bert,09000,Foix,CAD,42.983238,1.615426
+091221130U-10,10,Avenue Paul Bert,09000,Foix,C+O,42.983646,1.615653
+091221130U-11,11,Avenue Paul Bert,09000,Foix,C+O,42.983439,1.615578
+091221130U-12,12,Avenue Paul Bert,09000,Foix,C+O,42.983804,1.615789
+091221130U-13,13,Avenue Paul Bert,09000,Foix,C+O,42.983612,1.615741
+091221130U-14,14,Avenue Paul Bert,09000,Foix,C+O,42.983973,1.615932
+091221130U-15,15,Avenue Paul Bert,09000,Foix,C+O,42.984046,1.616462
+091221130U-17,17,Avenue Paul Bert,09000,Foix,C+O,42.984369,1.616426
+091221130U-2,2,Avenue Paul Bert,09000,Foix,C+O,42.982991,1.614992
+091221130U-4,4,Avenue Paul Bert,09000,Foix,C+O,42.983130,1.615158
+091221130U-6,6,Avenue Paul Bert,09000,Foix,C+O,42.983319,1.615340
+091221130U-7,7,Avenue Paul Bert,09000,Foix,C+O,42.983004,1.615191
+091221130U-8,8,Avenue Paul Bert,09000,Foix,C+O,42.983486,1.615500
+091221130U-9,9,Avenue Paul Bert,09000,Foix,C+O,42.983238,1.615426
 091221160B-20,20,Rue des Pénitents,09000,Foix,C+O,42.965149,1.606307
 091221160B-3,3,Rue des Pénitents,09000,Foix,C+O,42.965061,1.606866
 091221160B-4,4,Rue des Pénitents,09000,Foix,C+O,42.964977,1.606807
@@ -3479,16 +3479,16 @@
 091221182A-6,6,Rue de la Peyrade,09000,Foix,C+O,42.957413,1.612866
 091221182A-7,7,Rue de la Peyrade,09000,Foix,C+O,42.957215,1.613133
 091221182A-9,9,Rue de la Peyrade,09000,Foix,C+O,42.957278,1.613089
-091221183B-10,10,Impasse du Peyrou,09000,Foix,CAD,42.962045,1.579763
-091221183B-1,1,Impasse du Peyrou,09000,Foix,CAD,42.961348,1.579275
-091221183B-12,12,Impasse du Peyrou,09000,Foix,CAD,42.961747,1.580420
-091221183B-16,16,Impasse du Peyrou,09000,Foix,CAD,42.961607,1.580825
-091221183B-2,2,Impasse du Peyrou,09000,Foix,CAD,42.961204,1.579222
-091221183B-3,3,Impasse du Peyrou,09000,Foix,CAD,42.961628,1.579631
-091221183B-4,4,Impasse du Peyrou,09000,Foix,CAD,42.961691,1.579090
-091221183B-5,5,Impasse du Peyrou,09000,Foix,CAD,42.961707,1.579187
-091221183B-6,6,Impasse du Peyrou,09000,Foix,CAD,42.961812,1.579064
-091221183B-8,8,Impasse du Peyrou,09000,Foix,CAD,42.962096,1.579123
+091221183B-10,10,Impasse du Peyrou,09000,Foix,C+O,42.962045,1.579763
+091221183B-1,1,Impasse du Peyrou,09000,Foix,C+O,42.961348,1.579275
+091221183B-12,12,Impasse du Peyrou,09000,Foix,C+O,42.961747,1.580420
+091221183B-16,16,Impasse du Peyrou,09000,Foix,C+O,42.961607,1.580825
+091221183B-2,2,Impasse du Peyrou,09000,Foix,C+O,42.961204,1.579222
+091221183B-3,3,Impasse du Peyrou,09000,Foix,C+O,42.961628,1.579631
+091221183B-4,4,Impasse du Peyrou,09000,Foix,C+O,42.961691,1.579090
+091221183B-5,5,Impasse du Peyrou,09000,Foix,C+O,42.961707,1.579187
+091221183B-6,6,Impasse du Peyrou,09000,Foix,C+O,42.961812,1.579064
+091221183B-8,8,Impasse du Peyrou,09000,Foix,C+O,42.962096,1.579123
 091221200V-10,10,Rue Phoèbus,09000,Foix,C+O,42.964629,1.604573
 091221200V-1,1,Rue Phoèbus,09000,Foix,C+O,42.964649,1.605016
 091221200V-2,2,Rue Phoèbus,09000,Foix,C+O,42.964571,1.604950
@@ -3682,7 +3682,7 @@
 091221311R-8,8,Rue de la Résistance,09000,Foix,C+O,42.963390,1.596063
 091221311R-9,9,Rue de la Résistance,09000,Foix,C+O,42.962937,1.595651
 091221311R-9B,9BIS,Rue de la Résistance,09000,Foix,C+O,42.962639,1.595278
-091221312S-2,2,Avenue de la République,09000,Foix,CAD,42.987526,1.616593
+091221312S-2,2,Avenue de la République,09000,Foix,C+O,42.987526,1.616593
 091221313T-10,10,Rue Rhin et Danube,09000,Foix,C+O,42.953245,1.617200
 091221313T-2,2,Rue Rhin et Danube,09000,Foix,C+O,42.954009,1.616936
 091221313T-4,4,Rue Rhin et Danube,09000,Foix,C+O,42.953750,1.617026
@@ -4324,16 +4324,16 @@
 09122A008U-6,6,Lotissement de Caussou,09000,Foix,CAD,42.942341,1.634460
 09122A008U-7,7,Lotissement de Caussou,09000,Foix,CAD,42.942385,1.634350
 09122A008U-8,8,Lotissement de Caussou,09000,Foix,CAD,42.942438,1.634190
-09122A022J-11,11,Hameau du Cussol,09000,Foix,CAD,42.965030,1.580866
-09122A022J-13,13,Hameau du Cussol,09000,Foix,CAD,42.964996,1.580834
-09122A022J-17,17,Hameau du Cussol,09000,Foix,CAD,42.964946,1.580796
-09122A022J-19,19,Hameau du Cussol,09000,Foix,CAD,42.964584,1.580560
-09122A022J-3,3,Hameau du Cussol,09000,Foix,CAD,42.965445,1.581247
-09122A022J-5,5,Hameau du Cussol,09000,Foix,CAD,42.965362,1.581179
-09122A022J-6,6,Hameau du Cussol,09000,Foix,CAD,42.965050,1.580952
-09122A022J-7,7,Hameau du Cussol,09000,Foix,CAD,42.965171,1.581033
-09122A022J-8,8,Hameau du Cussol,09000,Foix,CAD,42.964920,1.580851
-09122A022J-9,9,Hameau du Cussol,09000,Foix,CAD,42.965053,1.580889
+09122A022J-11,11,Hameau de Cussol,09000,Foix,C+O,42.965030,1.580866
+09122A022J-13,13,Hameau de Cussol,09000,Foix,C+O,42.964996,1.580834
+09122A022J-17,17,Hameau de Cussol,09000,Foix,C+O,42.964946,1.580796
+09122A022J-19,19,Hameau de Cussol,09000,Foix,C+O,42.964584,1.580560
+09122A022J-3,3,Hameau de Cussol,09000,Foix,C+O,42.965445,1.581247
+09122A022J-5,5,Hameau de Cussol,09000,Foix,C+O,42.965362,1.581179
+09122A022J-6,6,Hameau de Cussol,09000,Foix,C+O,42.965050,1.580952
+09122A022J-7,7,Hameau de Cussol,09000,Foix,C+O,42.965171,1.581033
+09122A022J-8,8,Hameau de Cussol,09000,Foix,C+O,42.964920,1.580851
+09122A022J-9,9,Hameau de Cussol,09000,Foix,C+O,42.965053,1.580889
 09122A025M-1,1,Lotissement Eychenne Pujol,09000,Foix,C+O,42.960613,1.599816
 09122A025M-2,2,Lotissement Eychenne Pujol,09000,Foix,C+O,42.960665,1.599618
 09122A025M-3,3,Lotissement Eychenne Pujol,09000,Foix,C+O,42.960652,1.599434
@@ -4342,71 +4342,71 @@
 09122A025M-6,6,Lotissement Eychenne Pujol,09000,Foix,C+O,42.960729,1.598942
 09122A025M-7,7,Lotissement Eychenne Pujol,09000,Foix,C+O,42.960699,1.598680
 09122A025M-9,9,Lotissement Eychenne Pujol,09000,Foix,C+O,42.960839,1.598598
-09122A032V-1,1,Residence Les Hauts de Sibian,09000,Foix,CAD,42.963514,1.590323
-09122A032V-3,3,Residence Les Hauts de Sibian,09000,Foix,CAD,42.963747,1.590340
-09122A032V-5,5,Residence Les Hauts de Sibian,09000,Foix,CAD,42.964046,1.590609
-09122A032V-7,7,Residence Les Hauts de Sibian,09000,Foix,CAD,42.964138,1.590604
-09122A034X-10,10,Residence du Lac,09000,Foix,CAD,42.991709,1.616896
-09122A034X-11,11,Residence du Lac,09000,Foix,CAD,42.991299,1.616769
-09122A034X-1,1,Residence du Lac,09000,Foix,CAD,42.991992,1.617912
-09122A034X-12,12,Residence du Lac,09000,Foix,CAD,42.991686,1.616623
-09122A034X-13,13,Residence du Lac,09000,Foix,CAD,42.991251,1.616568
-09122A034X-14,14,Residence du Lac,09000,Foix,CAD,42.991644,1.616453
-09122A034X-15,15,Residence du Lac,09000,Foix,CAD,42.991216,1.616449
-09122A034X-16,16,Residence du Lac,09000,Foix,CAD,42.991616,1.616337
-09122A034X-17,17,Residence du Lac,09000,Foix,CAD,42.991709,1.616322
-09122A034X-18,18,Residence du Lac,09000,Foix,CAD,42.991798,1.616700
-09122A034X-19,19,Residence du Lac,09000,Foix,CAD,42.992007,1.616661
-09122A034X-20,20,Residence du Lac,09000,Foix,CAD,42.992112,1.616561
-09122A034X-21,21,Residence du Lac,09000,Foix,CAD,42.992220,1.616477
-09122A034X-22,22,Residence du Lac,09000,Foix,CAD,42.992333,1.616412
-09122A034X-2,2,Residence du Lac,09000,Foix,CAD,42.991943,1.617706
-09122A034X-23,23,Residence du Lac,09000,Foix,CAD,42.992448,1.616367
-09122A034X-24,24,Residence du Lac,09000,Foix,CAD,42.992569,1.616339
-09122A034X-25,25,Residence du Lac,09000,Foix,CAD,42.992680,1.616332
-09122A034X-26,26,Residence du Lac,09000,Foix,CAD,42.992821,1.616353
-09122A034X-27,27,Residence du Lac,09000,Foix,CAD,42.992950,1.616237
-09122A034X-28,28,Residence du Lac,09000,Foix,CAD,42.993010,1.616201
-09122A034X-29,29,Residence du Lac,09000,Foix,CAD,42.993038,1.616322
-09122A034X-30,30,Residence du Lac,09000,Foix,CAD,42.992765,1.616433
-09122A034X-31,31,Residence du Lac,09000,Foix,CAD,42.992897,1.616996
-09122A034X-32,32,Residence du Lac,09000,Foix,CAD,42.992628,1.616422
-09122A034X-33,33,Residence du Lac,09000,Foix,CAD,42.992752,1.617018
-09122A034X-3,3,Residence du Lac,09000,Foix,CAD,42.991736,1.617723
-09122A034X-34,34,Residence du Lac,09000,Foix,CAD,42.992491,1.616445
-09122A034X-35,35,Residence du Lac,09000,Foix,CAD,42.992621,1.617041
-09122A034X-36,36,Residence du Lac,09000,Foix,CAD,42.992361,1.616492
-09122A034X-37,37,Residence du Lac,09000,Foix,CAD,42.992490,1.617067
-09122A034X-38,38,Residence du Lac,09000,Foix,CAD,42.992237,1.616569
-09122A034X-39,39,Residence du Lac,09000,Foix,CAD,42.992366,1.617104
-09122A034X-40,40,Residence du Lac,09000,Foix,CAD,42.992041,1.616742
-09122A034X-41,41,Residence du Lac,09000,Foix,CAD,42.992237,1.617048
-09122A034X-42,42,Residence du Lac,09000,Foix,CAD,42.991917,1.616866
-09122A034X-43,43,Residence du Lac,09000,Foix,CAD,42.991899,1.617183
-09122A034X-44,44,Residence du Lac,09000,Foix,CAD,42.991939,1.617347
-09122A034X-4,4,Residence du Lac,09000,Foix,CAD,42.991722,1.617658
-09122A034X-45,45,Residence du Lac,09000,Foix,CAD,42.992247,1.617194
-09122A034X-46,46,Residence du Lac,09000,Foix,CAD,42.992425,1.617315
-09122A034X-47,47,Residence du Lac,09000,Foix,CAD,42.992561,1.617224
-09122A034X-48,48,Residence du Lac,09000,Foix,CAD,42.992739,1.617199
-09122A034X-49,49,Residence du Lac,09000,Foix,CAD,42.992856,1.617194
-09122A034X-50,50,Residence du Lac,09000,Foix,CAD,42.993004,1.617228
-09122A034X-51,51,Residence du Lac,09000,Foix,CAD,42.993170,1.617241
-09122A034X-52,52,Residence du Lac,09000,Foix,CAD,42.993308,1.617294
-09122A034X-53,53,Residence du Lac,09000,Foix,CAD,42.993398,1.617305
-09122A034X-54,54,Residence du Lac,09000,Foix,CAD,42.992021,1.618133
-09122A034X-55,55,Residence du Lac,09000,Foix,CAD,42.992087,1.618309
-09122A034X-5,5,Residence du Lac,09000,Foix,CAD,42.991867,1.617389
-09122A034X-56,56,Residence du Lac,09000,Foix,CAD,42.992115,1.618532
-09122A034X-6,6,Residence du Lac,09000,Foix,CAD,42.991701,1.617616
-09122A034X-7,7,Residence du Lac,09000,Foix,CAD,42.991605,1.617139
-09122A034X-8,8,Residence du Lac,09000,Foix,CAD,42.991499,1.617132
-09122A034X-9,9,Residence du Lac,09000,Foix,CAD,42.991347,1.616968
-09122A038B-1,1,Lotissement Les Pecheurs,09000,Foix,CAD,42.976463,1.605773
-09122A038B-3,3,Lotissement Les Pecheurs,09000,Foix,CAD,42.976599,1.605914
-09122A038B-5,5,Lotissement Les Pecheurs,09000,Foix,CAD,42.976646,1.605965
-09122A038B-7,7,Lotissement Les Pecheurs,09000,Foix,CAD,42.976691,1.605938
-09122A038B-9,9,Lotissement Les Pecheurs,09000,Foix,CAD,42.976686,1.605874
+09122A032V-1,1,Résidence Les Hauts de Sibian,09000,Foix,C+O,42.963514,1.590323
+09122A032V-3,3,Résidence Les Hauts de Sibian,09000,Foix,C+O,42.963747,1.590340
+09122A032V-5,5,Résidence Les Hauts de Sibian,09000,Foix,C+O,42.964046,1.590609
+09122A032V-7,7,Résidence Les Hauts de Sibian,09000,Foix,C+O,42.964138,1.590604
+09122A034X-10,10,Résidence du Lac,09000,Foix,C+O,42.991709,1.616896
+09122A034X-11,11,Résidence du Lac,09000,Foix,C+O,42.991299,1.616769
+09122A034X-1,1,Résidence du Lac,09000,Foix,C+O,42.991992,1.617912
+09122A034X-12,12,Résidence du Lac,09000,Foix,C+O,42.991686,1.616623
+09122A034X-13,13,Résidence du Lac,09000,Foix,C+O,42.991251,1.616568
+09122A034X-14,14,Résidence du Lac,09000,Foix,C+O,42.991644,1.616453
+09122A034X-15,15,Résidence du Lac,09000,Foix,C+O,42.991216,1.616449
+09122A034X-16,16,Résidence du Lac,09000,Foix,C+O,42.991616,1.616337
+09122A034X-17,17,Résidence du Lac,09000,Foix,C+O,42.991709,1.616322
+09122A034X-18,18,Résidence du Lac,09000,Foix,C+O,42.991798,1.616700
+09122A034X-19,19,Résidence du Lac,09000,Foix,C+O,42.992007,1.616661
+09122A034X-20,20,Résidence du Lac,09000,Foix,C+O,42.992112,1.616561
+09122A034X-21,21,Résidence du Lac,09000,Foix,C+O,42.992220,1.616477
+09122A034X-22,22,Résidence du Lac,09000,Foix,C+O,42.992333,1.616412
+09122A034X-2,2,Résidence du Lac,09000,Foix,C+O,42.991943,1.617706
+09122A034X-23,23,Résidence du Lac,09000,Foix,C+O,42.992448,1.616367
+09122A034X-24,24,Résidence du Lac,09000,Foix,C+O,42.992569,1.616339
+09122A034X-25,25,Résidence du Lac,09000,Foix,C+O,42.992680,1.616332
+09122A034X-26,26,Résidence du Lac,09000,Foix,C+O,42.992821,1.616353
+09122A034X-27,27,Résidence du Lac,09000,Foix,C+O,42.992950,1.616237
+09122A034X-28,28,Résidence du Lac,09000,Foix,C+O,42.993010,1.616201
+09122A034X-29,29,Résidence du Lac,09000,Foix,C+O,42.993038,1.616322
+09122A034X-30,30,Résidence du Lac,09000,Foix,C+O,42.992765,1.616433
+09122A034X-31,31,Résidence du Lac,09000,Foix,C+O,42.992897,1.616996
+09122A034X-32,32,Résidence du Lac,09000,Foix,C+O,42.992628,1.616422
+09122A034X-33,33,Résidence du Lac,09000,Foix,C+O,42.992752,1.617018
+09122A034X-3,3,Résidence du Lac,09000,Foix,C+O,42.991736,1.617723
+09122A034X-34,34,Résidence du Lac,09000,Foix,C+O,42.992491,1.616445
+09122A034X-35,35,Résidence du Lac,09000,Foix,C+O,42.992621,1.617041
+09122A034X-36,36,Résidence du Lac,09000,Foix,C+O,42.992361,1.616492
+09122A034X-37,37,Résidence du Lac,09000,Foix,C+O,42.992490,1.617067
+09122A034X-38,38,Résidence du Lac,09000,Foix,C+O,42.992237,1.616569
+09122A034X-39,39,Résidence du Lac,09000,Foix,C+O,42.992366,1.617104
+09122A034X-40,40,Résidence du Lac,09000,Foix,C+O,42.992041,1.616742
+09122A034X-41,41,Résidence du Lac,09000,Foix,C+O,42.992237,1.617048
+09122A034X-42,42,Résidence du Lac,09000,Foix,C+O,42.991917,1.616866
+09122A034X-43,43,Résidence du Lac,09000,Foix,C+O,42.991899,1.617183
+09122A034X-44,44,Résidence du Lac,09000,Foix,C+O,42.991939,1.617347
+09122A034X-4,4,Résidence du Lac,09000,Foix,C+O,42.991722,1.617658
+09122A034X-45,45,Résidence du Lac,09000,Foix,C+O,42.992247,1.617194
+09122A034X-46,46,Résidence du Lac,09000,Foix,C+O,42.992425,1.617315
+09122A034X-47,47,Résidence du Lac,09000,Foix,C+O,42.992561,1.617224
+09122A034X-48,48,Résidence du Lac,09000,Foix,C+O,42.992739,1.617199
+09122A034X-49,49,Résidence du Lac,09000,Foix,C+O,42.992856,1.617194
+09122A034X-50,50,Résidence du Lac,09000,Foix,C+O,42.993004,1.617228
+09122A034X-51,51,Résidence du Lac,09000,Foix,C+O,42.993170,1.617241
+09122A034X-52,52,Résidence du Lac,09000,Foix,C+O,42.993308,1.617294
+09122A034X-53,53,Résidence du Lac,09000,Foix,C+O,42.993398,1.617305
+09122A034X-54,54,Résidence du Lac,09000,Foix,C+O,42.992021,1.618133
+09122A034X-55,55,Résidence du Lac,09000,Foix,C+O,42.992087,1.618309
+09122A034X-5,5,Résidence du Lac,09000,Foix,C+O,42.991867,1.617389
+09122A034X-56,56,Résidence du Lac,09000,Foix,C+O,42.992115,1.618532
+09122A034X-6,6,Résidence du Lac,09000,Foix,C+O,42.991701,1.617616
+09122A034X-7,7,Résidence du Lac,09000,Foix,C+O,42.991605,1.617139
+09122A034X-8,8,Résidence du Lac,09000,Foix,C+O,42.991499,1.617132
+09122A034X-9,9,Résidence du Lac,09000,Foix,C+O,42.991347,1.616968
+09122A038B-1,1,Lotissement Les Pêcheurs,09000,Foix,C+O,42.976463,1.605773
+09122A038B-3,3,Lotissement Les Pêcheurs,09000,Foix,C+O,42.976599,1.605914
+09122A038B-5,5,Lotissement Les Pêcheurs,09000,Foix,C+O,42.976646,1.605965
+09122A038B-7,7,Lotissement Les Pêcheurs,09000,Foix,C+O,42.976691,1.605938
+09122A038B-9,9,Lotissement Les Pêcheurs,09000,Foix,C+O,42.976686,1.605874
 09122A040D-10,10,Résidence des Peyrisses,09000,Foix,C+O,42.949665,1.614875
 09122A040D-12,12,Résidence des Peyrisses,09000,Foix,C+O,42.949363,1.614819
 09122A040D-14,14,Résidence des Peyrisses,09000,Foix,C+O,42.949519,1.614407
@@ -4430,22 +4430,22 @@
 09122A053T-7,7,Residence Plein Sud,09000,Foix,CAD,42.952256,1.618695
 09122A053T-8,8,Residence Plein Sud,09000,Foix,CAD,42.952292,1.618926
 09122A053T-9,9,Residence Plein Sud,09000,Foix,CAD,42.952364,1.619047
-09122A055V-10,10,Cité du Pont de l'Echo,09000,Foix,CAD,42.977682,1.606193
-09122A055V-11,11,Cité du Pont de l'Echo,09000,Foix,CAD,42.977738,1.605997
-09122A055V-1,1,Cité du Pont de l'Echo,09000,Foix,CAD,42.978132,1.605910
-09122A055V-12,12,Cité du Pont de l'Echo,09000,Foix,CAD,42.977752,1.605866
-09122A055V-13,13,Cité du Pont de l'Echo,09000,Foix,CAD,42.977608,1.605561
-09122A055V-14,14,Cité du Pont de l'Echo,09000,Foix,CAD,42.977754,1.605623
-09122A055V-15,15,Cité du Pont de l'Echo,09000,Foix,CAD,42.977926,1.605667
-09122A055V-16,16,Cité du Pont de l'Echo,09000,Foix,CAD,42.978076,1.605689
-09122A055V-2,2,Cité du Pont de l'Echo,09000,Foix,CAD,42.978118,1.606036
-09122A055V-3,3,Cité du Pont de l'Echo,09000,Foix,CAD,42.978101,1.606167
-09122A055V-4,4,Cité du Pont de l'Echo,09000,Foix,CAD,42.978088,1.606277
-09122A055V-5,5,Cité du Pont de l'Echo,09000,Foix,CAD,42.978055,1.606521
-09122A055V-6,6,Cité du Pont de l'Echo,09000,Foix,CAD,42.978027,1.606765
-09122A055V-7,7,Cité du Pont de l'Echo,09000,Foix,CAD,42.977811,1.606566
-09122A055V-8,8,Cité du Pont de l'Echo,09000,Foix,CAD,42.977833,1.606400
-09122A055V-9,9,Cité du Pont de l'Echo,09000,Foix,CAD,42.977670,1.606284
+09122A055V-10,10,Cité du Pont de l'Écho,09000,Foix,C+O,42.977682,1.606193
+09122A055V-11,11,Cité du Pont de l'Écho,09000,Foix,C+O,42.977738,1.605997
+09122A055V-1,1,Cité du Pont de l'Écho,09000,Foix,C+O,42.978132,1.605910
+09122A055V-12,12,Cité du Pont de l'Écho,09000,Foix,C+O,42.977752,1.605866
+09122A055V-13,13,Cité du Pont de l'Écho,09000,Foix,C+O,42.977608,1.605561
+09122A055V-14,14,Cité du Pont de l'Écho,09000,Foix,C+O,42.977754,1.605623
+09122A055V-15,15,Cité du Pont de l'Écho,09000,Foix,C+O,42.977926,1.605667
+09122A055V-16,16,Cité du Pont de l'Écho,09000,Foix,C+O,42.978076,1.605689
+09122A055V-2,2,Cité du Pont de l'Écho,09000,Foix,C+O,42.978118,1.606036
+09122A055V-3,3,Cité du Pont de l'Écho,09000,Foix,C+O,42.978101,1.606167
+09122A055V-4,4,Cité du Pont de l'Écho,09000,Foix,C+O,42.978088,1.606277
+09122A055V-5,5,Cité du Pont de l'Écho,09000,Foix,C+O,42.978055,1.606521
+09122A055V-6,6,Cité du Pont de l'Écho,09000,Foix,C+O,42.978027,1.606765
+09122A055V-7,7,Cité du Pont de l'Écho,09000,Foix,C+O,42.977811,1.606566
+09122A055V-8,8,Cité du Pont de l'Écho,09000,Foix,C+O,42.977833,1.606400
+09122A055V-9,9,Cité du Pont de l'Écho,09000,Foix,C+O,42.977670,1.606284
 09122A056W-10,10,Lotissement Rieux,09000,Foix,CAD,42.953213,1.588709
 09122A056W-11,11,Lotissement Rieux,09000,Foix,CAD,42.952956,1.588138
 09122A056W-1,1,Lotissement Rieux,09000,Foix,CAD,42.953639,1.589142
@@ -6604,19 +6604,19 @@
 092070105K-609,609,Rue de la Roucateille,09330,Montgaillard,C+O,42.933684,1.635833
 092070105K-7,7,Rue de la Roucateille,09330,Montgaillard,C+O,42.933497,1.636127
 092070105K-8,8,Rue de la Roucateille,09330,Montgaillard,C+O,42.932702,1.636390
-092070107M-1,1,Rue La Ruelle,09330,Montgaillard,CAD,42.934296,1.634423
-092070107M-2,2,Rue La Ruelle,09330,Montgaillard,CAD,42.934489,1.634067
-092070107M-3,3,Rue La Ruelle,09330,Montgaillard,CAD,42.934176,1.634428
-092070107M-5,5,Rue La Ruelle,09330,Montgaillard,CAD,42.933989,1.634520
-092070107M-7,7,Rue La Ruelle,09330,Montgaillard,CAD,42.933866,1.634605
+092070107M-1,1,La Ruelle,09330,Montgaillard,C+O,42.934296,1.634423
+092070107M-2,2,La Ruelle,09330,Montgaillard,C+O,42.934489,1.634067
+092070107M-3,3,La Ruelle,09330,Montgaillard,C+O,42.934176,1.634428
+092070107M-5,5,La Ruelle,09330,Montgaillard,C+O,42.933989,1.634520
+092070107M-7,7,La Ruelle,09330,Montgaillard,C+O,42.933866,1.634605
 092070109P-5,5,Chemin de Salers,09330,Montgaillard,CAD,42.940474,1.634577
 092070109P-5B,5BIS,Chemin de Salers,09330,Montgaillard,CAD,42.940601,1.635084
-092070110R-1,1,Rue du Scios,09330,Montgaillard,CAD,42.933643,1.635462
-092070110R-2,2,Rue du Scios,09330,Montgaillard,CAD,42.933664,1.635347
-092070110R-3,3,Rue du Scios,09330,Montgaillard,CAD,42.933610,1.635371
-092070110R-4,4,Rue du Scios,09330,Montgaillard,CAD,42.933623,1.635268
-092070110R-5,5,Rue du Scios,09330,Montgaillard,CAD,42.933575,1.635275
-092070110R-7,7,Rue du Scios,09330,Montgaillard,CAD,42.933447,1.635027
+092070110R-1,1,Rue du Scios,09330,Montgaillard,C+O,42.933643,1.635462
+092070110R-2,2,Rue du Scios,09330,Montgaillard,C+O,42.933664,1.635347
+092070110R-3,3,Rue du Scios,09330,Montgaillard,C+O,42.933610,1.635371
+092070110R-4,4,Rue du Scios,09330,Montgaillard,C+O,42.933623,1.635268
+092070110R-5,5,Rue du Scios,09330,Montgaillard,C+O,42.933575,1.635275
+092070110R-7,7,Rue du Scios,09330,Montgaillard,C+O,42.933447,1.635027
 092070112T-6,6,Chemin du Stade,09330,Montgaillard,CAD,42.939113,1.635384
 092070115W-531,531,Route de Soula,09330,Montgaillard,CAD,42.941331,1.636142
 092070115W-649,649,Route de Soula,09330,Montgaillard,CAD,42.938866,1.638498
