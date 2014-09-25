@@ -18568,14 +18568,14 @@
 431620020C-77,77,Rue Baptiste Ribeyron,43130,Retournac,C+O,45.209168,4.030097
 431620054P-1,1,Rue des Berges,43130,Retournac,C+O,45.201123,4.043338
 431620065B-7,7,Chemin du Camping,43130,Retournac,CAD,45.198406,4.035845
-431620070G-10,10,Route de Chamalières,43130,Retournac,CAD,45.198519,4.033497
-431620070G-31,31,Route de Chamalières,43130,Retournac,CAD,45.199983,4.026004
+431620070G-10,10,Route de Chamalières,43130,Retournac,C+O,45.198519,4.033497
+431620070G-31,31,Route de Chamalières,43130,Retournac,C+O,45.199983,4.026004
 431620078R-3B,3BIS,Chemin de la Combe,43130,Retournac,C+O,45.204089,4.029648
 431620078R-6,6,Chemin de la Combe,43130,Retournac,C+O,45.204921,4.029265
 431620078R-78,78,Chemin de la Combe,43130,Retournac,C+O,45.204705,4.029786
 431620083W-1T,1TER,Rue du 18 Juin,43130,Retournac,CAD,45.205183,4.033521
-431620090D-10,10,Rue Raymond Dechiron,43130,Retournac,CAD,45.197460,4.032587
-431620090D-18,18,Rue Raymond Dechiron,43130,Retournac,CAD,45.197597,4.032162
+431620090D-10,10,Rue Raymond Déchiron,43130,Retournac,C+O,45.197460,4.032587
+431620090D-18,18,Rue Raymond Déchiron,43130,Retournac,C+O,45.197597,4.032162
 431620110A-1,1,Impasse de la Fontaine,43130,Retournac,CAD,45.198220,4.030193
 431620110A-6,6,Impasse de la Fontaine,43130,Retournac,CAD,45.198251,4.030483
 431620140H-6,6,Rue de l'Hôpital,43130,Retournac,C+O,45.203026,4.031838
@@ -18667,17 +18667,17 @@
 431620331R-4,4,Rue Sainte-Barbe,43130,Retournac,C+O,45.206709,4.034010
 431620331R-5,5,Rue Sainte-Barbe,43130,Retournac,C+O,45.206754,4.033886
 431620335V-7,7,Rue du Stade,43130,Retournac,C+O,45.205025,4.036355
-431620339Z-19,19,Chemin des Traverses,43130,Retournac,CAD,45.206597,4.022840
-431620339Z-3,3,Chemin des Traverses,43130,Retournac,CAD,45.204446,4.024714
-431620339Z-4,4,Chemin des Traverses,43130,Retournac,CAD,45.205656,4.024199
-431620339Z-6B,6BIS,Chemin des Traverses,43130,Retournac,CAD,45.206538,4.024204
+431620339Z-19,19,Chemin des Traverses,43130,Retournac,C+O,45.206597,4.022840
+431620339Z-3,3,Chemin des Traverses,43130,Retournac,C+O,45.204446,4.024714
+431620339Z-4,4,Chemin des Traverses,43130,Retournac,C+O,45.205656,4.024199
+431620339Z-6B,6BIS,Chemin des Traverses,43130,Retournac,C+O,45.206538,4.024204
 431620340A-12,12,Rue Traversière,43130,Retournac,C+O,45.198278,4.031259
 431620340A-2,2,Rue Traversière,43130,Retournac,C+O,45.197772,4.031887
 431620348J-13,13,Route du Vert,43130,Retournac,CAD,45.198982,4.045519
 431620348J-9,9,Route du Vert,43130,Retournac,CAD,45.198403,4.044453
 431620360X-17,17,Route de Vousse,43130,Retournac,C+O,45.203402,4.025412
 431620360X-6,6,Route de Vousse,43130,Retournac,C+O,45.204412,4.031949
-431620380U-3,3,Route d'Yssingeaux,43130,Retournac,CAD,45.198357,4.036927
+431620380U-3,3,Route d'Yssingeaux,43130,Retournac,C+O,45.198357,4.036927
 43162B005T-11,11,Avenue de la Gare,43130,Retournac,C+O,45.202875,4.034830
 43162B005T-61,61,Avenue de la Gare,43130,Retournac,C+O,45.201077,4.037085
 43162B005T-63,63,Avenue de la Gare,43130,Retournac,C+O,45.200956,4.037070
@@ -19627,17 +19627,17 @@
 43177B060M-6,6,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301448,4.277094
 43177B060M-8,8,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301455,4.277188
 43177B060M-9,9,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301814,4.278287
-431840003N-140,140,Chemin de l'Adret,43330,Saint-Ferréol-d'Auroure,CAD,45.368600,4.248584
-431840004P-170,170,Impasse de l'Adret,43330,Saint-Ferréol-d'Auroure,CAD,45.368550,4.250092
+431840003N-140,140,Chemin de l'Adret,43330,Saint-Ferréol-d'Auroure,C+O,45.368600,4.248584
+431840004P-170,170,Impasse de l'Adret,43330,Saint-Ferréol-d'Auroure,C+O,45.368550,4.250092
 431840005R-2,2,Impasse des Alouettes,43330,Saint-Ferréol-d'Auroure,CAD,45.361779,4.264209
 431840005R-4,4,Impasse des Alouettes,43330,Saint-Ferréol-d'Auroure,CAD,45.361649,4.264058
 431840005R-6,6,Impasse des Alouettes,43330,Saint-Ferréol-d'Auroure,CAD,45.361514,4.263720
-431840010W-919,919,Route d'Auvergne,43330,Saint-Ferréol-d'Auroure,CAD,45.349253,4.251170
-431840013Z-204,204,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,CAD,45.345543,4.261351
-431840013Z-321,321,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,CAD,45.344910,4.262352
-431840013Z-324,324,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,CAD,45.344672,4.262470
-431840013Z-350,350,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,CAD,45.344434,4.262673
-431840020G-60,60,Impasse Bel Air,43330,Saint-Ferréol-d'Auroure,CAD,45.353501,4.253241
+431840010W-919,919,Route d'Auvergne,43330,Saint-Ferréol-d'Auroure,C+O,45.349253,4.251170
+431840013Z-204,204,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,C+O,45.345543,4.261351
+431840013Z-321,321,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,C+O,45.344910,4.262352
+431840013Z-324,324,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,C+O,45.344672,4.262470
+431840013Z-350,350,Chemin d'Auroure,43330,Saint-Ferréol-d'Auroure,C+O,45.344434,4.262673
+431840020G-60,60,Impasse Bel Air,43330,Saint-Ferréol-d'Auroure,C+O,45.353501,4.253241
 431840028R-10,10,Allée des Chardonnerets,43330,Saint-Ferréol-d'Auroure,CAD,45.362768,4.261874
 431840028R-11,11,Allée des Chardonnerets,43330,Saint-Ferréol-d'Auroure,CAD,45.362803,4.261591
 431840028R-1,1,Allée des Chardonnerets,43330,Saint-Ferréol-d'Auroure,CAD,45.361946,4.262975
@@ -19651,10 +19651,10 @@
 431840028R-7,7,Allée des Chardonnerets,43330,Saint-Ferréol-d'Auroure,CAD,45.362625,4.261956
 431840028R-8,8,Allée des Chardonnerets,43330,Saint-Ferréol-d'Auroure,CAD,45.362499,4.262460
 431840028R-9,9,Allée des Chardonnerets,43330,Saint-Ferréol-d'Auroure,CAD,45.362699,4.261804
-431840030T-125,125,Route du Cimetiere,43330,Saint-Ferréol-d'Auroure,CAD,45.354075,4.253621
-431840036Z-129,129,Chemin de la Chapelle,43330,Saint-Ferréol-d'Auroure,CAD,45.350645,4.253209
-431840036Z-2,2,Chemin de la Chapelle,43330,Saint-Ferréol-d'Auroure,CAD,45.351550,4.253229
-431840036Z-445,445,Chemin de la Chapelle,43330,Saint-Ferréol-d'Auroure,CAD,45.349846,4.252257
+431840030T-125,125,Route du Cimetière,43330,Saint-Ferréol-d'Auroure,C+O,45.354075,4.253621
+431840036Z-129,129,Chemin de la Chapelle,43330,Saint-Ferréol-d'Auroure,C+O,45.350645,4.253209
+431840036Z-2,2,Chemin de la Chapelle,43330,Saint-Ferréol-d'Auroure,C+O,45.351550,4.253229
+431840036Z-445,445,Chemin de la Chapelle,43330,Saint-Ferréol-d'Auroure,C+O,45.349846,4.252257
 431840038B-1,1,Allée des Colombes,43330,Saint-Ferréol-d'Auroure,CAD,45.362519,4.264709
 431840038B-2,2,Allée des Colombes,43330,Saint-Ferréol-d'Auroure,CAD,45.362512,4.264906
 431840038B-3,3,Allée des Colombes,43330,Saint-Ferréol-d'Auroure,CAD,45.362583,4.264770
@@ -19691,8 +19691,8 @@
 431840060A-489,489,Route de Firminy,43330,Saint-Ferréol-d'Auroure,C+O,45.357599,4.259292
 431840060A-50,50,Route de Firminy,43330,Saint-Ferréol-d'Auroure,C+O,45.354915,4.255833
 431840060A-52,52,Route de Firminy,43330,Saint-Ferréol-d'Auroure,C+O,45.354993,4.255911
-431840079W-126,126,Chemin du Garay,43330,Saint-Ferréol-d'Auroure,CAD,45.367232,4.249611
-431840079W-206,206,Chemin du Garay,43330,Saint-Ferréol-d'Auroure,CAD,45.367430,4.248517
+431840079W-126,126,Chemin du Garay,43330,Saint-Ferréol-d'Auroure,C+O,45.367232,4.249611
+431840079W-206,206,Chemin du Garay,43330,Saint-Ferréol-d'Auroure,C+O,45.367430,4.248517
 431840080X-102,102,Chemin du Gault,43330,Saint-Ferréol-d'Auroure,CAD,45.345790,4.253359
 431840082Z-2,2,Chemin des Geais,43330,Saint-Ferréol-d'Auroure,CAD,45.362859,4.263540
 431840082Z-3,3,Chemin des Geais,43330,Saint-Ferréol-d'Auroure,CAD,45.362819,4.263358
@@ -19704,8 +19704,8 @@
 431840090H-4,4,Allée des Hirondelles,43330,Saint-Ferréol-d'Auroure,CAD,45.362154,4.264341
 431840090H-6,6,Allée des Hirondelles,43330,Saint-Ferréol-d'Auroure,CAD,45.362072,4.264450
 431840090H-8,8,Allée des Hirondelles,43330,Saint-Ferréol-d'Auroure,CAD,45.361803,4.264669
-431840120R-1071,1071,Chemin de Lafayette,43330,Saint-Ferréol-d'Auroure,CAD,45.364435,4.250807
-431840120R-1193,1193,Chemin de Lafayette,43330,Saint-Ferréol-d'Auroure,CAD,45.365439,4.249634
+431840120R-1071,1071,Chemin de Lafayette,43330,Saint-Ferréol-d'Auroure,C+O,45.364435,4.250807
+431840120R-1193,1193,Chemin de Lafayette,43330,Saint-Ferréol-d'Auroure,C+O,45.365439,4.249634
 431840121S-1,1,Route de Lafayette,43330,Saint-Ferréol-d'Auroure,CAD,45.368965,4.245692
 431840123U-54,54,Impasse Pierre Macardier,43330,Saint-Ferréol-d'Auroure,CAD,45.356419,4.256142
 431840123U-67,67,Impasse Pierre Macardier,43330,Saint-Ferréol-d'Auroure,CAD,45.356494,4.256192
@@ -19728,19 +19728,19 @@
 431840128Z-4,4,Allée des Martinets,43330,Saint-Ferréol-d'Auroure,C+O,45.359637,4.262501
 431840128Z-6,6,Allée des Martinets,43330,Saint-Ferréol-d'Auroure,C+O,45.359797,4.262642
 431840128Z-9,9,Allée des Martinets,43330,Saint-Ferréol-d'Auroure,C+O,45.361466,4.262550
-431840130B-26,26,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,CAD,45.355039,4.255220
-431840130B-317,317,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,CAD,45.357294,4.256701
-431840130B-91,91,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,CAD,45.355611,4.255151
-431840130B-98,98,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,CAD,45.355643,4.255243
+431840130B-26,26,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,C+O,45.355039,4.255220
+431840130B-317,317,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,C+O,45.357294,4.256701
+431840130B-91,91,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,C+O,45.355611,4.255151
+431840130B-98,98,Rue Mathieu Pichon,43330,Saint-Ferréol-d'Auroure,C+O,45.355643,4.255243
 431840131C-130,130,Rue des Mélézes,43330,Saint-Ferréol-d'Auroure,CAD,45.362730,4.269286
 431840132D-2,2,Allée des Mésanges,43330,Saint-Ferréol-d'Auroure,CAD,45.361956,4.264908
 431840132D-3,3,Allée des Mésanges,43330,Saint-Ferréol-d'Auroure,CAD,45.362268,4.265201
 431840132D-4,4,Allée des Mésanges,43330,Saint-Ferréol-d'Auroure,CAD,45.362481,4.265552
 431840132D-5,5,Allée des Mésanges,43330,Saint-Ferréol-d'Auroure,CAD,45.362646,4.266144
-431840135G-282,282,Rue du Mont,43330,Saint-Ferréol-d'Auroure,CAD,45.349216,4.257653
-431840135G-73,73,Rue du Mont,43330,Saint-Ferréol-d'Auroure,CAD,45.350771,4.255862
+431840135G-282,282,Rue du Mont,43330,Saint-Ferréol-d'Auroure,C+O,45.349216,4.257653
+431840135G-73,73,Rue du Mont,43330,Saint-Ferréol-d'Auroure,C+O,45.350771,4.255862
 431840136H-1128,1128,Chemin de Montauroux,43330,Saint-Ferréol-d'Auroure,CAD,45.376292,4.250698
-431840145T-380,380,Rue de l'Ouest,43330,Saint-Ferréol-d'Auroure,CAD,45.359192,4.254093
+431840145T-380,380,Rue de l'Ouest,43330,Saint-Ferréol-d'Auroure,C+O,45.359192,4.254093
 431840148W-10,10,Allée des Palombes,43330,Saint-Ferréol-d'Auroure,C+O,45.359918,4.261238
 431840148W-12,12,Allée des Palombes,43330,Saint-Ferréol-d'Auroure,C+O,45.359773,4.260832
 431840148W-14,14,Allée des Palombes,43330,Saint-Ferréol-d'Auroure,C+O,45.359653,4.260495
@@ -19761,10 +19761,10 @@
 431840148W-7,7,Allée des Palombes,43330,Saint-Ferréol-d'Auroure,C+O,45.359882,4.261404
 431840148W-8,8,Allée des Palombes,43330,Saint-Ferréol-d'Auroure,C+O,45.360041,4.261571
 431840148W-9,9,Allée des Palombes,43330,Saint-Ferréol-d'Auroure,C+O,45.359777,4.261104
-431840150Y-338,338,Rue du Paraboin,43330,Saint-Ferréol-d'Auroure,CAD,45.359118,4.255911
+431840150Y-338,338,Rue du Paraboin,43330,Saint-Ferréol-d'Auroure,C+O,45.359118,4.255911
 431840152A-1,1,Rue des Perdrix,43330,Saint-Ferréol-d'Auroure,CAD,45.362950,4.264289
-431840153B-187,187,Chemin du Piémontois,43330,Saint-Ferréol-d'Auroure,CAD,45.355056,4.246926
-431840153B-190,190,Chemin du Piémontois,43330,Saint-Ferréol-d'Auroure,CAD,45.355255,4.247108
+431840153B-187,187,Chemin du Piémontois,43330,Saint-Ferréol-d'Auroure,C+O,45.355056,4.246926
+431840153B-190,190,Chemin du Piémontois,43330,Saint-Ferréol-d'Auroure,C+O,45.355255,4.247108
 431840175A-10,10,Allée des Roitelets,43330,Saint-Ferréol-d'Auroure,CAD,45.361345,4.261770
 431840175A-1,1,Allée des Roitelets,43330,Saint-Ferréol-d'Auroure,CAD,45.361863,4.262123
 431840175A-12,12,Allée des Roitelets,43330,Saint-Ferréol-d'Auroure,CAD,45.361308,4.261824
@@ -19774,11 +19774,11 @@
 431840175A-5,5,Allée des Roitelets,43330,Saint-Ferréol-d'Auroure,CAD,45.361521,4.261908
 431840175A-6,6,Allée des Roitelets,43330,Saint-Ferréol-d'Auroure,CAD,45.361851,4.261958
 431840175A-8,8,Allée des Roitelets,43330,Saint-Ferréol-d'Auroure,CAD,45.361689,4.261812
-431840176B-11,11,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,CAD,45.342713,4.264401
-431840176B-381,381,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,CAD,45.342996,4.268303
-431840176B-55,55,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,CAD,45.342621,4.264729
-431840176B-75,75,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,CAD,45.342406,4.264616
-431840176B-89,89,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,CAD,45.342230,4.264920
+431840176B-11,11,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,C+O,45.342713,4.264401
+431840176B-381,381,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,C+O,45.342996,4.268303
+431840176B-55,55,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,C+O,45.342621,4.264729
+431840176B-75,75,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,C+O,45.342406,4.264616
+431840176B-89,89,Chemin des Rosiers,43330,Saint-Ferréol-d'Auroure,C+O,45.342230,4.264920
 431840178D-1,1,Allée des Rossignols,43330,Saint-Ferréol-d'Auroure,CAD,45.359126,4.262589
 431840178D-14,14,Allée des Rossignols,43330,Saint-Ferréol-d'Auroure,CAD,45.360098,4.263301
 431840178D-16,16,Allée des Rossignols,43330,Saint-Ferréol-d'Auroure,CAD,45.360171,4.263223
@@ -19790,14 +19790,14 @@
 431840178D-7,7,Allée des Rossignols,43330,Saint-Ferréol-d'Auroure,CAD,45.359694,4.263239
 431840178D-8,8,Allée des Rossignols,43330,Saint-Ferréol-d'Auroure,CAD,45.359329,4.263222
 431840178D-9,9,Allée des Rossignols,43330,Saint-Ferréol-d'Auroure,CAD,45.360155,4.263124
-431840190S-1668,1668,Route de Saint-Didier,43330,Saint-Ferréol-d'Auroure,CAD,45.342935,4.268560
-431840190S-311,311,Route de Saint-Didier,43330,Saint-Ferréol-d'Auroure,CAD,45.350723,4.257519
-431840190S-40,40,Route de Saint-Didier,43330,Saint-Ferréol-d'Auroure,CAD,45.351857,4.255775
-431840212R-358,358,Chemin de Varan,43330,Saint-Ferréol-d'Auroure,CAD,45.366021,4.252527
-431840213S-173,173,Impasse de Varan,43330,Saint-Ferréol-d'Auroure,CAD,45.366025,4.250515
-431840222B-123,123,Chemin des Violettes,43330,Saint-Ferréol-d'Auroure,CAD,45.343318,4.264586
-431840222B-123B,123BIS,Chemin des Violettes,43330,Saint-Ferréol-d'Auroure,CAD,45.343332,4.263974
-431840222B-90,90,Chemin des Violettes,43330,Saint-Ferréol-d'Auroure,CAD,45.343597,4.265621
+431840190S-1668,1668,Route de Saint-Didier,43330,Saint-Ferréol-d'Auroure,C+O,45.342935,4.268560
+431840190S-311,311,Route de Saint-Didier,43330,Saint-Ferréol-d'Auroure,C+O,45.350723,4.257519
+431840190S-40,40,Route de Saint-Didier,43330,Saint-Ferréol-d'Auroure,C+O,45.351857,4.255775
+431840212R-358,358,Chemin de Varan,43330,Saint-Ferréol-d'Auroure,C+O,45.366021,4.252527
+431840213S-173,173,Impasse de Varan,43330,Saint-Ferréol-d'Auroure,C+O,45.366025,4.250515
+431840222B-123,123,Chemin des Violettes,43330,Saint-Ferréol-d'Auroure,C+O,45.343318,4.264586
+431840222B-123B,123BIS,Chemin des Violettes,43330,Saint-Ferréol-d'Auroure,C+O,45.343332,4.263974
+431840222B-90,90,Chemin des Violettes,43330,Saint-Ferréol-d'Auroure,C+O,45.343597,4.265621
 43184A001F-10,10,Lotissement La Porte du Velay,43330,Saint-Ferréol-d'Auroure,CAD,45.365310,4.268548
 43184A001F-114,114,Lotissement La Porte du Velay,43330,Saint-Ferréol-d'Auroure,CAD,45.366113,4.267825
 43184A001F-1,1,Lotissement La Porte du Velay,43330,Saint-Ferréol-d'Auroure,CAD,45.366252,4.266859
@@ -23911,15 +23911,15 @@
 432110007A-40B,40B,Rue des Alsaciens,43200,Saint-Maurice-de-Lignon,C+O,45.210698,4.131823
 432110007A-40C,40C,Rue des Alsaciens,43200,Saint-Maurice-de-Lignon,C+O,45.211063,4.131704
 432110007A-50,50,Rue des Alsaciens,43200,Saint-Maurice-de-Lignon,C+O,45.210558,4.131505
-432110010D-100,100,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.240275,4.142371
-432110010D-10,10,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.239547,4.141734
-432110010D-20,20,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.239654,4.142101
-432110010D-40,40,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.239752,4.142172
-432110010D-50,50,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.239783,4.142227
-432110010D-55,55,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.239884,4.141812
-432110010D-65,65,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.240188,4.142004
-432110010D-70,70,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.239979,4.142456
-432110010D-80,80,Chemin de l'Assemblee,43200,Saint-Maurice-de-Lignon,CAD,45.240088,4.142488
+432110010D-100,100,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.240275,4.142371
+432110010D-10,10,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.239547,4.141734
+432110010D-20,20,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.239654,4.142101
+432110010D-40,40,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.239752,4.142172
+432110010D-50,50,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.239783,4.142227
+432110010D-55,55,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.239884,4.141812
+432110010D-65,65,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.240188,4.142004
+432110010D-70,70,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.239979,4.142456
+432110010D-80,80,Chemin de l'Assemblée,43200,Saint-Maurice-de-Lignon,C+O,45.240088,4.142488
 432110013G-110,110,Rue des Bachats,43200,Saint-Maurice-de-Lignon,C+O,45.211101,4.156219
 432110013G-125,125,Rue des Bachats,43200,Saint-Maurice-de-Lignon,C+O,45.211419,4.155991
 432110013G-155,155,Rue des Bachats,43200,Saint-Maurice-de-Lignon,C+O,45.211639,4.155983
@@ -24038,28 +24038,28 @@
 432110050X-52,52,Place de Chevalier,43200,Saint-Maurice-de-Lignon,C+O,45.224755,4.136435
 432110050X-72,72,Place de Chevalier,43200,Saint-Maurice-de-Lignon,C+O,45.223972,4.135449
 432110050X-92,92,Place de Chevalier,43200,Saint-Maurice-de-Lignon,C+O,45.224912,4.136049
-432110051Y-120,120,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.238786,4.140632
-432110051Y-180,180,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.239072,4.140413
-432110051Y-190,190,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.239156,4.140495
-432110051Y-195,195,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.239288,4.139885
-432110051Y-20,20,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.238575,4.141609
-432110051Y-210,210,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.239471,4.140382
-432110051Y-240,240,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.239808,4.140296
-432110051Y-250,250,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.239917,4.140206
-432110051Y-55,55,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.238284,4.140921
-432110051Y-65,65,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.238215,4.141018
-432110051Y-70,70,Rue des Clots,43200,Saint-Maurice-de-Lignon,CAD,45.238602,4.141258
-432110052Z-15,15,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.255891,4.150396
-432110052Z-25,25,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.255891,4.150408
-432110052Z-30,30,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.256303,4.150276
-432110052Z-40,40,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.256303,4.150288
-432110052Z-50,50,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.256303,4.150301
-432110052Z-515,515,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.257863,4.144770
-432110052Z-52,52,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.256366,4.150039
-432110052Z-54,54,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.256366,4.150052
-432110052Z-5,5,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.255891,4.150378
-432110052Z-58,58,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.256366,4.150065
-432110052Z-60,60,Route de Confolent,43200,Saint-Maurice-de-Lignon,CAD,45.256366,4.150078
+432110051Y-120,120,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.238786,4.140632
+432110051Y-180,180,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.239072,4.140413
+432110051Y-190,190,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.239156,4.140495
+432110051Y-195,195,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.239288,4.139885
+432110051Y-20,20,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.238575,4.141609
+432110051Y-210,210,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.239471,4.140382
+432110051Y-240,240,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.239808,4.140296
+432110051Y-250,250,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.239917,4.140206
+432110051Y-55,55,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.238284,4.140921
+432110051Y-65,65,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.238215,4.141018
+432110051Y-70,70,Rue des Clots,43200,Saint-Maurice-de-Lignon,C+O,45.238602,4.141258
+432110052Z-15,15,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.255891,4.150396
+432110052Z-25,25,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.255891,4.150408
+432110052Z-30,30,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.256303,4.150276
+432110052Z-40,40,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.256303,4.150288
+432110052Z-50,50,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.256303,4.150301
+432110052Z-515,515,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.257863,4.144770
+432110052Z-52,52,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.256366,4.150039
+432110052Z-54,54,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.256366,4.150052
+432110052Z-5,5,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.255891,4.150378
+432110052Z-58,58,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.256366,4.150065
+432110052Z-60,60,Route de Confolent,43200,Saint-Maurice-de-Lignon,C+O,45.256366,4.150078
 432110053A-50,50,Chemin de la Côte,43200,Saint-Maurice-de-Lignon,CAD,45.240725,4.143060
 432110054B-180,180,Rue des Coins,43200,Saint-Maurice-de-Lignon,CAD,45.228468,4.119213
 432110055C-24,24,Rue de la Coufinée,43200,Saint-Maurice-de-Lignon,CAD,45.224491,4.139509
@@ -24143,13 +24143,13 @@
 432110064M-545,545,Montée de la Croix des Sagnes,43200,Saint-Maurice-de-Lignon,C+O,45.212854,4.130554
 432110064M-55,55,Montée de la Croix des Sagnes,43200,Saint-Maurice-de-Lignon,C+O,45.217363,4.131116
 432110064M-575,575,Montée de la Croix des Sagnes,43200,Saint-Maurice-de-Lignon,C+O,45.212721,4.130340
-432110080E-20,20,Rue de l'École,43200,Saint-Maurice-de-Lignon,CAD,45.224829,4.138004
-432110080E-51,51,Rue de l'École,43200,Saint-Maurice-de-Lignon,CAD,45.224617,4.138215
-432110080E-54,54,Rue de l'École,43200,Saint-Maurice-de-Lignon,CAD,45.224594,4.138309
-432110080E-65,65,Rue de l'École,43200,Saint-Maurice-de-Lignon,CAD,45.224500,4.138361
-432110080E-68,68,Rue de l'École,43200,Saint-Maurice-de-Lignon,CAD,45.224506,4.138455
-432110080E-73,73,Rue de l'École,43200,Saint-Maurice-de-Lignon,CAD,45.224445,4.138446
-432110080E-80,80,Rue de l'École,43200,Saint-Maurice-de-Lignon,CAD,45.224464,4.138545
+432110080E-20,20,Rue de l'Ecole,43200,Saint-Maurice-de-Lignon,C+O,45.224829,4.138004
+432110080E-51,51,Rue de l'Ecole,43200,Saint-Maurice-de-Lignon,C+O,45.224617,4.138215
+432110080E-54,54,Rue de l'Ecole,43200,Saint-Maurice-de-Lignon,C+O,45.224594,4.138309
+432110080E-65,65,Rue de l'Ecole,43200,Saint-Maurice-de-Lignon,C+O,45.224500,4.138361
+432110080E-68,68,Rue de l'Ecole,43200,Saint-Maurice-de-Lignon,C+O,45.224506,4.138455
+432110080E-73,73,Rue de l'Ecole,43200,Saint-Maurice-de-Lignon,C+O,45.224445,4.138446
+432110080E-80,80,Rue de l'Ecole,43200,Saint-Maurice-de-Lignon,C+O,45.224464,4.138545
 432110100B-140,140,Place de l'Église,43200,Saint-Maurice-de-Lignon,C+O,45.224823,4.139213
 432110100B-146,146,Place de l'Église,43200,Saint-Maurice-de-Lignon,C+O,45.224841,4.139090
 432110100B-152,152,Place de l'Église,43200,Saint-Maurice-de-Lignon,C+O,45.224856,4.138983
@@ -24161,10 +24161,10 @@
 432110100B-20,20,Place de l'Église,43200,Saint-Maurice-de-Lignon,C+O,45.224540,4.139673
 432110100B-30,30,Place de l'Église,43200,Saint-Maurice-de-Lignon,C+O,45.224517,4.139765
 432110100B-98,98,Place de l'Église,43200,Saint-Maurice-de-Lignon,C+O,45.224904,4.139617
-432110110M-135,135,Route d'l'Envers,43200,Saint-Maurice-de-Lignon,CAD,45.239756,4.111362
-432110110M-45,45,Route d'l'Envers,43200,Saint-Maurice-de-Lignon,CAD,45.239300,4.112071
-432110110M-60,60,Route d'l'Envers,43200,Saint-Maurice-de-Lignon,CAD,45.239558,4.112186
-432110110M-85,85,Route d'l'Envers,43200,Saint-Maurice-de-Lignon,CAD,45.239475,4.111598
+432110110M-135,135,Route de l'Envers,43200,Saint-Maurice-de-Lignon,C+O,45.239756,4.111362
+432110110M-45,45,Route de l'Envers,43200,Saint-Maurice-de-Lignon,C+O,45.239300,4.112071
+432110110M-60,60,Route de l'Envers,43200,Saint-Maurice-de-Lignon,C+O,45.239558,4.112186
+432110110M-85,85,Route de l'Envers,43200,Saint-Maurice-de-Lignon,C+O,45.239475,4.111598
 432110112P-15,15,Impasse de la Faye,43200,Saint-Maurice-de-Lignon,CAD,45.193495,4.131615
 432110112P-55,55,Impasse de la Faye,43200,Saint-Maurice-de-Lignon,CAD,45.193304,4.131886
 432110113R-130A,130A,Rue de la Faye,43200,Saint-Maurice-de-Lignon,C+O,45.192686,4.131411
@@ -24193,9 +24193,9 @@
 432110120Y-45,45,Place Eugène Chapon,43200,Saint-Maurice-de-Lignon,C+O,45.223479,4.137473
 432110120Y-47,47,Place Eugène Chapon,43200,Saint-Maurice-de-Lignon,C+O,45.223331,4.137206
 432110120Y-55,55,Place Eugène Chapon,43200,Saint-Maurice-de-Lignon,C+O,45.223361,4.137117
-432110121Z-2,2,Impasse Fleurie,43200,Saint-Maurice-de-Lignon,CAD,45.240064,4.141018
-432110121Z-45,45,Impasse Fleurie,43200,Saint-Maurice-de-Lignon,CAD,45.240159,4.141434
-432110121Z-60,60,Impasse Fleurie,43200,Saint-Maurice-de-Lignon,CAD,45.240000,4.141681
+432110121Z-2,2,Impasse Fleurie,43200,Saint-Maurice-de-Lignon,C+O,45.240064,4.141018
+432110121Z-45,45,Impasse Fleurie,43200,Saint-Maurice-de-Lignon,C+O,45.240159,4.141434
+432110121Z-60,60,Impasse Fleurie,43200,Saint-Maurice-de-Lignon,C+O,45.240000,4.141681
 432110122A-130,130,Impasse de la Fonza,43200,Saint-Maurice-de-Lignon,C+O,45.237778,4.122084
 432110122A-160,160,Impasse de la Fonza,43200,Saint-Maurice-de-Lignon,C+O,45.239182,4.122921
 432110122A-40,40,Impasse de la Fonza,43200,Saint-Maurice-de-Lignon,C+O,45.237791,4.122140
@@ -24298,20 +24298,20 @@
 432110144Z-220,220,Rue de Larjaller,43200,Saint-Maurice-de-Lignon,C+O,45.230256,4.136217
 432110144Z-270,270,Rue de Larjaller,43200,Saint-Maurice-de-Lignon,C+O,45.229920,4.135989
 432110144Z-75,75,Rue de Larjaller,43200,Saint-Maurice-de-Lignon,C+O,45.230545,4.137246
-432110147C-10,10,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,CAD,45.239820,4.142377
-432110147C-20,20,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,CAD,45.239696,4.142389
-432110147C-25,25,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,CAD,45.240005,4.142607
-432110147C-30,30,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,CAD,45.239685,4.142589
-432110147C-35,35,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,CAD,45.239943,4.142812
-432110147C-40,40,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,CAD,45.239800,4.142926
-432110147C-55,55,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,CAD,45.239899,4.143165
-432110149E-96,96,Chemin des Listes,43200,Saint-Maurice-de-Lignon,CAD,45.232240,4.139966
-432110151G-100,100,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,CAD,45.243038,4.146319
-432110151G-20,20,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,CAD,45.241860,4.144830
-432110151G-30,30,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,CAD,45.241683,4.145041
-432110151G-40,40,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,CAD,45.242186,4.145094
-432110151G-55,55,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,CAD,45.242549,4.145382
-432110151G-60,60,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,CAD,45.242140,4.146142
+432110147C-10,10,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,C+O,45.239820,4.142377
+432110147C-20,20,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,C+O,45.239696,4.142389
+432110147C-25,25,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,C+O,45.240005,4.142607
+432110147C-30,30,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,C+O,45.239685,4.142589
+432110147C-35,35,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,C+O,45.239943,4.142812
+432110147C-40,40,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,C+O,45.239800,4.142926
+432110147C-55,55,Rue de la Lavande,43200,Saint-Maurice-de-Lignon,C+O,45.239899,4.143165
+432110149E-96,96,Chemin des Listes,43200,Saint-Maurice-de-Lignon,C+O,45.232240,4.139966
+432110151G-100,100,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,C+O,45.243038,4.146319
+432110151G-20,20,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,C+O,45.241860,4.144830
+432110151G-30,30,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,C+O,45.241683,4.145041
+432110151G-40,40,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,C+O,45.242186,4.145094
+432110151G-55,55,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,C+O,45.242549,4.145382
+432110151G-60,60,Chemin de Louprat,43200,Saint-Maurice-de-Lignon,C+O,45.242140,4.146142
 432110156M-15,15,Chemin des Combes,43200,Saint-Maurice-de-Lignon,CAD,45.207237,4.146168
 432110156M-80,80,Chemin des Combes,43200,Saint-Maurice-de-Lignon,CAD,45.210956,4.157525
 432110160S-103,103,Rue Marcel Crépon,43200,Saint-Maurice-de-Lignon,C+O,45.223068,4.139569
@@ -24378,16 +24378,16 @@
 432110165X-115,115,Chemin du Mariou,43200,Saint-Maurice-de-Lignon,CAD,45.218784,4.130280
 432110165X-195,195,Chemin du Mariou,43200,Saint-Maurice-de-Lignon,CAD,45.219219,4.129617
 432110166Y-245,245,Chemin de Mazard,43200,Saint-Maurice-de-Lignon,C+O,45.205179,4.150221
-432110167Z-110,110,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.240775,4.142334
-432110167Z-116,116,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.241017,4.142286
-432110167Z-120,120,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.241016,4.142299
-432110167Z-130,130,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.241016,4.142312
-432110167Z-135,135,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.241206,4.141493
-432110167Z-140,140,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.241329,4.141829
-432110167Z-50,50,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.240158,4.141588
-432110167Z-56,56,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.240168,4.141638
-432110167Z-60,60,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.240174,4.141742
-432110167Z-64,64,Chemin des Marronnieres,43200,Saint-Maurice-de-Lignon,CAD,45.240108,4.141844
+432110167Z-110,110,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.240775,4.142334
+432110167Z-116,116,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.241017,4.142286
+432110167Z-120,120,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.241016,4.142299
+432110167Z-130,130,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.241016,4.142312
+432110167Z-135,135,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.241206,4.141493
+432110167Z-140,140,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.241329,4.141829
+432110167Z-50,50,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.240158,4.141588
+432110167Z-56,56,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.240168,4.141638
+432110167Z-60,60,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.240174,4.141742
+432110167Z-64,64,Chemin des Marronnières,43200,Saint-Maurice-de-Lignon,C+O,45.240108,4.141844
 432110168A-280,280,Chemin de Lajoue,43200,Saint-Maurice-de-Lignon,CAD,45.209568,4.126777
 432110168A-40,40,Chemin de Lajoue,43200,Saint-Maurice-de-Lignon,CAD,45.210657,4.130169
 432110168A-50,50,Chemin de Lajoue,43200,Saint-Maurice-de-Lignon,CAD,45.210617,4.129159
@@ -24402,12 +24402,12 @@
 432110169B-42,42,Chemin de Maubourg,43200,Saint-Maurice-de-Lignon,C+O,45.222341,4.138152
 432110169B-90,90,Chemin de Maubourg,43200,Saint-Maurice-de-Lignon,C+O,45.222143,4.138820
 432110170C-45,45,Impasse Mirabeau,43200,Saint-Maurice-de-Lignon,CAD,45.212446,4.155333
-432110175H-385,385,Rue du Meunier,43200,Saint-Maurice-de-Lignon,CAD,45.238972,4.106372
-432110175H-405,405,Rue du Meunier,43200,Saint-Maurice-de-Lignon,CAD,45.238713,4.105610
-432110175H-550,550,Rue du Meunier,43200,Saint-Maurice-de-Lignon,CAD,45.239290,4.103906
-432110175H-585,585,Rue du Meunier,43200,Saint-Maurice-de-Lignon,CAD,45.239310,4.103691
-432110175H-600,600,Rue du Meunier,43200,Saint-Maurice-de-Lignon,CAD,45.239389,4.104135
-432110175H-610,610,Rue du Meunier,43200,Saint-Maurice-de-Lignon,CAD,45.239880,4.103732
+432110175H-385,385,Rue du Meunier,43200,Saint-Maurice-de-Lignon,C+O,45.238972,4.106372
+432110175H-405,405,Rue du Meunier,43200,Saint-Maurice-de-Lignon,C+O,45.238713,4.105610
+432110175H-550,550,Rue du Meunier,43200,Saint-Maurice-de-Lignon,C+O,45.239290,4.103906
+432110175H-585,585,Rue du Meunier,43200,Saint-Maurice-de-Lignon,C+O,45.239310,4.103691
+432110175H-600,600,Rue du Meunier,43200,Saint-Maurice-de-Lignon,C+O,45.239389,4.104135
+432110175H-610,610,Rue du Meunier,43200,Saint-Maurice-de-Lignon,C+O,45.239880,4.103732
 432110176J-100,100,Rue de Montjuan,43200,Saint-Maurice-de-Lignon,C+O,45.228550,4.117126
 432110176J-10,10,Rue de Montjuan,43200,Saint-Maurice-de-Lignon,C+O,45.227695,4.116194
 432110176J-105,105,Rue de Montjuan,43200,Saint-Maurice-de-Lignon,C+O,45.228875,4.116179
@@ -24418,22 +24418,22 @@
 432110176J-4,4,Rue de Montjuan,43200,Saint-Maurice-de-Lignon,C+O,45.227698,4.116109
 432110176J-90,90,Rue de Montjuan,43200,Saint-Maurice-de-Lignon,C+O,45.228148,4.116479
 432110181P-38,38,Rue du Moulinet,43200,Saint-Maurice-de-Lignon,C+O,45.223392,4.149984
-432110188X-100,100,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239233,4.135824
-432110188X-25,25,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239788,4.134947
-432110188X-30,30,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239508,4.135226
-432110188X-310,310,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239224,4.139221
-432110188X-320,320,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239482,4.139012
-432110188X-335,335,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239757,4.138994
-432110188X-375,375,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239859,4.139352
-432110188X-380A,380A,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239590,4.139276
-432110188X-380B,380B,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239379,4.139345
-432110188X-380C,380C,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239139,4.139372
-432110188X-405,405,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239988,4.139672
-432110188X-410,410,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239728,4.139868
-432110188X-450,450,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239937,4.140610
-432110188X-460,460,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.239937,4.140623
-432110188X-55,55,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.240092,4.135471
-432110188X-85,85,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,CAD,45.240056,4.135927
+432110188X-100,100,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239233,4.135824
+432110188X-25,25,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239788,4.134947
+432110188X-30,30,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239508,4.135226
+432110188X-310,310,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239224,4.139221
+432110188X-320,320,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239482,4.139012
+432110188X-335,335,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239757,4.138994
+432110188X-375,375,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239859,4.139352
+432110188X-380A,380A,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239590,4.139276
+432110188X-380B,380B,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239379,4.139345
+432110188X-380C,380C,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239139,4.139372
+432110188X-405,405,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239988,4.139672
+432110188X-410,410,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239728,4.139868
+432110188X-450,450,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239937,4.140610
+432110188X-460,460,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.239937,4.140623
+432110188X-55,55,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.240092,4.135471
+432110188X-85,85,Rue des Pêchers,43200,Saint-Maurice-de-Lignon,C+O,45.240056,4.135927
 432110189Y-25,25,Impasse de la Pal,43200,Saint-Maurice-de-Lignon,CAD,45.237544,4.121130
 432110189Y-35,35,Impasse de la Pal,43200,Saint-Maurice-de-Lignon,CAD,45.237438,4.120294
 432110189Y-45,45,Impasse de la Pal,43200,Saint-Maurice-de-Lignon,CAD,45.237773,4.120162
@@ -24533,22 +24533,22 @@
 432110190Z-83A,83A,Rue Nationale,43200,Saint-Maurice-de-Lignon,C+O,45.219625,4.133958
 432110190Z-85,85,Rue Nationale,43200,Saint-Maurice-de-Lignon,C+O,45.218983,4.133987
 432110190Z-9,9,Rue Nationale,43200,Saint-Maurice-de-Lignon,C+O,45.225704,4.139227
-432110191A-1050A,1050A,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.240097,4.134879
-432110191A-1050B,1050B,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.240097,4.134891
-432110191A-1100,1100,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.240536,4.135030
-432110191A-1105,1105,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.240874,4.133640
-432110191A-1150A,1150A,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.240945,4.134967
-432110191A-1415,1415,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.243406,4.133510
-432110191A-1435,1435,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.243593,4.133307
-432110191A-1460,1460,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.244047,4.134342
-432110191A-1710,1710,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.245933,4.133984
-432110191A-1720,1720,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.246068,4.134024
-432110191A-1975,1975,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.248262,4.135059
-432110191A-2840,2840,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.254271,4.141687
-432110191A-585,585,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.236181,4.134466
-432110191A-620,620,Route Napoléon,43200,Saint-Maurice-de-Lignon,CAD,45.236380,4.136018
-432110192B-25,25,Chemin des Peupliers,43200,Saint-Maurice-de-Lignon,CAD,45.238783,4.141923
-432110192B-50,50,Chemin des Peupliers,43200,Saint-Maurice-de-Lignon,CAD,45.238966,4.142050
+432110191A-1050A,1050A,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.240097,4.134879
+432110191A-1050B,1050B,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.240097,4.134891
+432110191A-1100,1100,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.240536,4.135030
+432110191A-1105,1105,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.240874,4.133640
+432110191A-1150A,1150A,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.240945,4.134967
+432110191A-1415,1415,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.243406,4.133510
+432110191A-1435,1435,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.243593,4.133307
+432110191A-1460,1460,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.244047,4.134342
+432110191A-1710,1710,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.245933,4.133984
+432110191A-1720,1720,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.246068,4.134024
+432110191A-1975,1975,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.248262,4.135059
+432110191A-2840,2840,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.254271,4.141687
+432110191A-585,585,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.236181,4.134466
+432110191A-620,620,Route Napoléon,43200,Saint-Maurice-de-Lignon,C+O,45.236380,4.136018
+432110192B-25,25,Chemin des Peupliers,43200,Saint-Maurice-de-Lignon,C+O,45.238783,4.141923
+432110192B-50,50,Chemin des Peupliers,43200,Saint-Maurice-de-Lignon,C+O,45.238966,4.142050
 432110193C-10,10,Rue des Ombres,43200,Saint-Maurice-de-Lignon,C+O,45.225669,4.118178
 432110193C-115,115,Rue des Ombres,43200,Saint-Maurice-de-Lignon,C+O,45.225077,4.119471
 432110193C-75,75,Rue des Ombres,43200,Saint-Maurice-de-Lignon,C+O,45.225403,4.119080
@@ -24607,14 +24607,14 @@
 432110213Z-785,785,Route de Pont de Lignon,43200,Saint-Maurice-de-Lignon,C+O,45.242739,4.144039
 432110213Z-810,810,Route de Pont de Lignon,43200,Saint-Maurice-de-Lignon,C+O,45.243127,4.145187
 432110213Z-825,825,Route de Pont de Lignon,43200,Saint-Maurice-de-Lignon,C+O,45.243389,4.144020
-432110215B-120,120,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.239169,4.142185
-432110215B-205,205,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.239563,4.141353
-432110215B-230,230,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.239964,4.141316
-432110215B-250,250,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.239995,4.141204
-432110215B-275,275,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.239887,4.140882
-432110215B-65,65,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.238635,4.143048
-432110215B-70,70,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.239391,4.142669
-432110215B-75,75,Rue Principale,43200,Saint-Maurice-de-Lignon,CAD,45.238680,4.142629
+432110215B-120,120,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.239169,4.142185
+432110215B-205,205,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.239563,4.141353
+432110215B-230,230,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.239964,4.141316
+432110215B-250,250,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.239995,4.141204
+432110215B-275,275,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.239887,4.140882
+432110215B-65,65,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.238635,4.143048
+432110215B-70,70,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.239391,4.142669
+432110215B-75,75,Rue Principale,43200,Saint-Maurice-de-Lignon,C+O,45.238680,4.142629
 432110220G-173,173,Rue de Presles,43200,Saint-Maurice-de-Lignon,C+O,45.225815,4.145642
 432110220G-200,200,Rue de Presles,43200,Saint-Maurice-de-Lignon,C+O,45.225957,4.146103
 432110220G-230,230,Rue de Presles,43200,Saint-Maurice-de-Lignon,C+O,45.226029,4.145996
@@ -24638,41 +24638,41 @@
 432110220G-507,507,Rue de Presles,43200,Saint-Maurice-de-Lignon,C+O,45.225512,4.146065
 432110220G-9,9,Rue de Presles,43200,Saint-Maurice-de-Lignon,C+O,45.224882,4.143868
 432110230T-50,50,Impasse de la Roche,43200,Saint-Maurice-de-Lignon,C+O,45.191108,4.132228
-432110239C-400,400,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.237847,4.115719
-432110239C-680,680,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.239617,4.113027
-432110239C-705,705,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.239678,4.112373
-432110239C-715,715,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.239869,4.112401
-432110239C-725,725,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.239939,4.112423
-432110239C-735,735,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.239933,4.112576
-432110239C-760,760,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240031,4.112742
-432110239C-770,770,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240234,4.112739
-432110239C-780,780,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240276,4.112654
-432110239C-785,785,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240275,4.112414
-432110239C-795,795,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240171,4.112294
-432110239C-810,810,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240383,4.112200
-432110239C-830,830,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240300,4.111865
-432110239C-885,885,Route du Roure,43200,Saint-Maurice-de-Lignon,CAD,45.240006,4.111000
-432110241E-1290,1290,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235669,4.105564
-432110241E-1330,1330,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235522,4.105325
-432110241E-1370,1370,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235309,4.104879
-432110241E-1385,1385,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.234954,4.105271
-432110241E-1410,1410,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235148,4.104519
-432110241E-1425,1425,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.234896,4.104335
-432110241E-1445,1445,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.234647,4.103888
-432110241E-1465,1465,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235081,4.103740
-432110241E-1470,1470,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235549,4.103928
-432110241E-1555,1555,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.234847,4.102771
-432110241E-1595,1595,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.234849,4.102347
-432110241E-1680,1680,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235384,4.101912
-432110241E-1720,1720,Route du Ramel,43200,Saint-Maurice-de-Lignon,CAD,45.235644,4.101819
-432110242F-35,35,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.256231,4.151062
-432110242F-45,45,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.255996,4.151054
-432110242F-50,50,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.255897,4.150995
-432110242F-55,55,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.256081,4.151124
-432110242F-5,5,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.256353,4.150758
-432110242F-65,65,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.255954,4.151256
-432110242F-70,70,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.255627,4.151513
-432110242F-75,75,Rue des René,43200,Saint-Maurice-de-Lignon,CAD,45.255978,4.151384
+432110239C-400,400,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.237847,4.115719
+432110239C-680,680,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.239617,4.113027
+432110239C-705,705,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.239678,4.112373
+432110239C-715,715,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.239869,4.112401
+432110239C-725,725,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.239939,4.112423
+432110239C-735,735,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.239933,4.112576
+432110239C-760,760,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240031,4.112742
+432110239C-770,770,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240234,4.112739
+432110239C-780,780,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240276,4.112654
+432110239C-785,785,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240275,4.112414
+432110239C-795,795,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240171,4.112294
+432110239C-810,810,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240383,4.112200
+432110239C-830,830,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240300,4.111865
+432110239C-885,885,Route du Roure,43200,Saint-Maurice-de-Lignon,C+O,45.240006,4.111000
+432110241E-1290,1290,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235669,4.105564
+432110241E-1330,1330,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235522,4.105325
+432110241E-1370,1370,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235309,4.104879
+432110241E-1385,1385,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.234954,4.105271
+432110241E-1410,1410,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235148,4.104519
+432110241E-1425,1425,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.234896,4.104335
+432110241E-1445,1445,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.234647,4.103888
+432110241E-1465,1465,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235081,4.103740
+432110241E-1470,1470,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235549,4.103928
+432110241E-1555,1555,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.234847,4.102771
+432110241E-1595,1595,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.234849,4.102347
+432110241E-1680,1680,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235384,4.101912
+432110241E-1720,1720,Route du Ramel,43200,Saint-Maurice-de-Lignon,C+O,45.235644,4.101819
+432110242F-35,35,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.256231,4.151062
+432110242F-45,45,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.255996,4.151054
+432110242F-50,50,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.255897,4.150995
+432110242F-55,55,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.256081,4.151124
+432110242F-5,5,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.256353,4.150758
+432110242F-65,65,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.255954,4.151256
+432110242F-70,70,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.255627,4.151513
+432110242F-75,75,Rue des René,43200,Saint-Maurice-de-Lignon,C+O,45.255978,4.151384
 432110244H-110,110,Rue de Ranc,43200,Saint-Maurice-de-Lignon,C+O,45.229286,4.114080
 432110244H-125,125,Rue de Ranc,43200,Saint-Maurice-de-Lignon,C+O,45.229159,4.113288
 432110244H-155,155,Rue de Ranc,43200,Saint-Maurice-de-Lignon,C+O,45.229511,4.113087
@@ -24835,33 +24835,33 @@
 432110505S-510,510,Chemin de Bouillou,43200,Saint-Maurice-de-Lignon,C+O,45.232507,4.133540
 432110505S-550,550,Chemin de Bouillou,43200,Saint-Maurice-de-Lignon,C+O,45.232616,4.133074
 432110505S-70,70,Chemin de Bouillou,43200,Saint-Maurice-de-Lignon,C+O,45.228488,4.134794
-432110515C-50,50,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,CAD,45.239480,4.144159
-432110515C-525,525,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,CAD,45.240800,4.150497
-432110515C-55,55,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,CAD,45.240056,4.144093
-432110515C-65,65,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,CAD,45.240177,4.144497
-432110515C-80,80,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,CAD,45.239661,4.144706
+432110515C-50,50,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,C+O,45.239480,4.144159
+432110515C-525,525,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,C+O,45.240800,4.150497
+432110515C-55,55,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,C+O,45.240056,4.144093
+432110515C-65,65,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,C+O,45.240177,4.144497
+432110515C-80,80,Chemin de la Borie,43200,Saint-Maurice-de-Lignon,C+O,45.239661,4.144706
 432110520H-735,735,Chemin des Iles,43200,Saint-Maurice-de-Lignon,CAD,45.236551,4.153563
 432110535Z-48,48,Rue Claudius et Alfred Reymond,43200,Saint-Maurice-de-Lignon,CAD,45.225916,4.136347
-432110545K-195,195,Chemin du Plat,43200,Saint-Maurice-de-Lignon,CAD,45.238711,4.111072
-432110545K-65,65,Chemin du Plat,43200,Saint-Maurice-de-Lignon,CAD,45.239213,4.110695
-432110545K-70,70,Chemin du Plat,43200,Saint-Maurice-de-Lignon,CAD,45.239545,4.110354
-432110550R-10,10,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237776,4.144308
-432110550R-115,115,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237770,4.143427
-432110550R-140,140,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.238075,4.143556
-432110550R-175,175,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237947,4.142795
-432110550R-190,190,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.238255,4.142892
-432110550R-220,220,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.238376,4.142550
-432110550R-235,235,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.238140,4.142243
-432110550R-240,240,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.238651,4.141842
-432110550R-25,25,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237376,4.144677
-432110550R-270,270,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.238288,4.141617
-432110550R-280,280,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.238120,4.141580
-432110550R-325,325,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237647,4.141667
-432110550R-355,355,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237360,4.141676
-432110550R-385,385,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237183,4.141516
-432110550R-415,415,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.236728,4.141224
-432110550R-45,45,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237185,4.144219
-432110550R-95,95,Rue du Verger,43200,Saint-Maurice-de-Lignon,CAD,45.237616,4.143859
+432110545K-195,195,Chemin du Plat,43200,Saint-Maurice-de-Lignon,C+O,45.238711,4.111072
+432110545K-65,65,Chemin du Plat,43200,Saint-Maurice-de-Lignon,C+O,45.239213,4.110695
+432110545K-70,70,Chemin du Plat,43200,Saint-Maurice-de-Lignon,C+O,45.239545,4.110354
+432110550R-10,10,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237776,4.144308
+432110550R-115,115,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237770,4.143427
+432110550R-140,140,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.238075,4.143556
+432110550R-175,175,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237947,4.142795
+432110550R-190,190,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.238255,4.142892
+432110550R-220,220,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.238376,4.142550
+432110550R-235,235,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.238140,4.142243
+432110550R-240,240,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.238651,4.141842
+432110550R-25,25,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237376,4.144677
+432110550R-270,270,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.238288,4.141617
+432110550R-280,280,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.238120,4.141580
+432110550R-325,325,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237647,4.141667
+432110550R-355,355,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237360,4.141676
+432110550R-385,385,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237183,4.141516
+432110550R-415,415,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.236728,4.141224
+432110550R-45,45,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237185,4.144219
+432110550R-95,95,Rue du Verger,43200,Saint-Maurice-de-Lignon,C+O,45.237616,4.143859
 432110555W-130,130,Chemin de Faure,43200,Saint-Maurice-de-Lignon,C+O,45.213094,4.128528
 432110555W-150,150,Chemin de Faure,43200,Saint-Maurice-de-Lignon,C+O,45.213155,4.128147
 432110555W-70,70,Chemin de Faure,43200,Saint-Maurice-de-Lignon,C+O,45.212783,4.129438
@@ -25305,6 +25305,24 @@
 432240450A-9,9,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241388,4.235932
 432240460L-19,19,Route de Monistrol,43600,Sainte-Sigolène,CAD,45.243958,4.227699
 432240460L-55,55,Route de Monistrol,43600,Sainte-Sigolène,CAD,45.246736,4.220682
+432240620K-10,10,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238269,4.237152
+432240620K-11,11,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238386,4.237366
+432240620K-1,1,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.239853,4.238159
+432240620K-12,12,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238455,4.237617
+432240620K-13,13,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238557,4.237822
+432240620K-14,14,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238676,4.238017
+432240620K-15,15,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238785,4.238220
+432240620K-16,16,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238878,4.238430
+432240620K-17,17,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238983,4.238642
+432240620K-18,18,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.239089,4.238891
+432240620K-2,2,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.239677,4.238362
+432240620K-3,3,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.239510,4.238512
+432240620K-4,4,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.239318,4.238610
+432240620K-5,5,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.239168,4.238369
+432240620K-6,6,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238967,4.237934
+432240620K-7,7,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238852,4.237703
+432240620K-8,8,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238729,4.237447
+432240620K-9,9,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238667,4.237151
 432240660D-10,10,Rue du Quartier Robin,43600,Sainte-Sigolène,C+O,45.240526,4.234550
 432240660D-1,1,Rue du Quartier Robin,43600,Sainte-Sigolène,C+O,45.240372,4.235465
 432240660D-12,12,Rue du Quartier Robin,43600,Sainte-Sigolène,C+O,45.240662,4.234395
@@ -27085,7 +27103,7 @@
 432650005N-3,3,Rue des Carrières,43600,Les Villettes,C+O,45.249536,4.168484
 432650006P-7,7,Rue des Cartables,43600,Les Villettes,C+O,45.235353,4.182380
 432650007R-19,19,Rue du Pré Clos,43600,Les Villettes,C+O,45.249567,4.173138
-432650008S-12T,12TER,Rue du Crêt,43600,Les Villettes,CAD,45.236252,4.184181
+432650008S-12T,12TER,Rue du Crêt,43600,Les Villettes,C+O,45.236252,4.184181
 432650011V-8,8,Place de l'Église,43600,Les Villettes,CAD,45.235649,4.182190
 432650012W-2,2,Rue des Lavoirs,43600,Les Villettes,C+O,45.250889,4.169723
 432650012W-3A,3A,Rue des Lavoirs,43600,Les Villettes,C+O,45.250693,4.169286
