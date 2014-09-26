@@ -25454,15 +25454,15 @@
 432510016L-4,4,Rue des Artisans,43750,Vals-près-le-Puy,C+O,45.028514,3.871025
 432510016L-6,6,Rue des Artisans,43750,Vals-près-le-Puy,C+O,45.028508,3.870680
 432510016L-8,8,Rue des Artisans,43750,Vals-près-le-Puy,C+O,45.028379,3.870370
-432510020R-10,10,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029207,3.875131
-432510020R-1,1,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029050,3.875200
-432510020R-12,12,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029342,3.874929
-432510020R-2,2,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.028998,3.875034
-432510020R-3,3,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029084,3.875259
-432510020R-4,4,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029031,3.875083
-432510020R-5,5,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029120,3.875216
-432510020R-6,6,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029061,3.875122
-432510020R-8,8,Rue du Beal,43750,Vals-près-le-Puy,CAD,45.029150,3.875130
+432510020R-10,10,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029207,3.875131
+432510020R-1,1,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029050,3.875200
+432510020R-12,12,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029342,3.874929
+432510020R-2,2,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.028998,3.875034
+432510020R-3,3,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029084,3.875259
+432510020R-4,4,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029031,3.875083
+432510020R-5,5,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029120,3.875216
+432510020R-6,6,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029061,3.875122
+432510020R-8,8,Rue du Beal,43750,Vals-près-le-Puy,C+O,45.029150,3.875130
 432510025W-11,11,Chemin de Bonnassou,43750,Vals-près-le-Puy,C+O,45.025339,3.877741
 432510025W-1,1,Chemin de Bonnassou,43750,Vals-près-le-Puy,C+O,45.026240,3.876406
 432510025W-12,12,Chemin de Bonnassou,43750,Vals-près-le-Puy,C+O,45.026159,3.876615
@@ -25484,67 +25484,67 @@
 432510029A-7,7,Rue du Bel Anis,43750,Vals-près-le-Puy,C+O,45.035439,3.878628
 432510029A-8,8,Rue du Bel Anis,43750,Vals-près-le-Puy,C+O,45.035390,3.879105
 432510029A-9,9,Rue du Bel Anis,43750,Vals-près-le-Puy,C+O,45.035607,3.878411
-432510031C-10,10,Chemin des Brioudes,43750,Vals-près-le-Puy,CAD,45.032555,3.875496
-432510031C-1,1,Chemin des Brioudes,43750,Vals-près-le-Puy,CAD,45.031961,3.876355
-432510031C-2,2,Chemin des Brioudes,43750,Vals-près-le-Puy,CAD,45.031842,3.877077
-432510031C-3,3,Chemin des Brioudes,43750,Vals-près-le-Puy,CAD,45.032184,3.875382
-432510031C-4,4,Chemin des Brioudes,43750,Vals-près-le-Puy,CAD,45.032680,3.876581
-432510031C-6,6,Chemin des Brioudes,43750,Vals-près-le-Puy,CAD,45.032194,3.876306
-432510035G-10,10,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.025667,3.873745
-432510035G-10B,10BIS,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.025615,3.875032
-432510035G-1,1,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.026179,3.875781
-432510035G-12,12,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.025404,3.874774
-432510035G-16,16,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.025171,3.873518
-432510035G-17,17,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024257,3.873550
-432510035G-19,19,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024141,3.873372
-432510035G-20,20,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024973,3.874259
-432510035G-20B,20BIS,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024713,3.873961
-432510035G-22,22,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024553,3.873774
-432510035G-22B,22BIS,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024344,3.873516
-432510035G-24,24,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024175,3.873294
-432510035G-25,25,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.023510,3.872374
-432510035G-25B,25BIS,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.023393,3.872195
-432510035G-26,26,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024032,3.873076
-432510035G-27,27,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.023248,3.871945
-432510035G-28,28,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.023791,3.872692
-432510035G-3,3,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.025933,3.875499
-432510035G-36,36,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.023228,3.871768
-432510035G-37,37,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.022058,3.870285
-432510035G-40,40,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.023016,3.870571
-432510035G-41,41,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.024734,3.873959
-432510035G-44,44,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.022709,3.869046
-432510035G-44B,44BIS,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.022145,3.869926
-432510035G-4,4,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.026220,3.875689
-432510035G-45,45,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.021237,3.871453
-432510035G-4B,4BIS,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.026131,3.875279
-432510035G-5,5,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.025751,3.875293
-432510035G-7,7,Route du Carmel,43750,Vals-près-le-Puy,CAD,45.025662,3.875191
-432510040M-10,10,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026208,3.872171
-432510040M-11,11,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026247,3.872097
-432510040M-12,12,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026125,3.872037
-432510040M-13,13,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026157,3.871957
-432510040M-14,14,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026045,3.871885
-432510040M-15,15,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026076,3.871807
-432510040M-16,16,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025983,3.871732
-432510040M-17,17,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026008,3.871629
-432510040M-18,18,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025937,3.871577
-432510040M-19,19,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025963,3.871411
-432510040M-20,20,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025902,3.871394
-432510040M-21,21,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025941,3.871177
-432510040M-22,22,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025885,3.871217
-432510040M-24,24,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025872,3.871049
-432510040M-26,26,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025858,3.870860
-432510040M-28,28,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025842,3.870633
-432510040M-4,4,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025999,3.872856
-432510040M-6,6,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025927,3.872194
-432510040M-6B,6BIS,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.025705,3.871910
-432510040M-7,7,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026456,3.872418
-432510040M-8,8,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026311,3.872321
-432510040M-9,9,Rue Centrale,43750,Vals-près-le-Puy,CAD,45.026337,3.872236
-432510048W-2,2,Rue du Charirou,43750,Vals-près-le-Puy,CAD,45.027795,3.873319
-432510048W-4,4,Rue du Charirou,43750,Vals-près-le-Puy,CAD,45.027505,3.873387
-432510048W-6,6,Rue du Charirou,43750,Vals-près-le-Puy,CAD,45.027530,3.873348
-432510048W-6B,6BIS,Rue du Charirou,43750,Vals-près-le-Puy,CAD,45.027626,3.873263
+432510031C-10,10,Chemin des Brioudes,43750,Vals-près-le-Puy,C+O,45.032555,3.875496
+432510031C-1,1,Chemin des Brioudes,43750,Vals-près-le-Puy,C+O,45.031961,3.876355
+432510031C-2,2,Chemin des Brioudes,43750,Vals-près-le-Puy,C+O,45.031842,3.877077
+432510031C-3,3,Chemin des Brioudes,43750,Vals-près-le-Puy,C+O,45.032184,3.875382
+432510031C-4,4,Chemin des Brioudes,43750,Vals-près-le-Puy,C+O,45.032680,3.876581
+432510031C-6,6,Chemin des Brioudes,43750,Vals-près-le-Puy,C+O,45.032194,3.876306
+432510035G-10,10,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.025667,3.873745
+432510035G-10B,10BIS,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.025615,3.875032
+432510035G-1,1,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.026179,3.875781
+432510035G-12,12,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.025404,3.874774
+432510035G-16,16,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.025171,3.873518
+432510035G-17,17,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024257,3.873550
+432510035G-19,19,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024141,3.873372
+432510035G-20,20,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024973,3.874259
+432510035G-20B,20BIS,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024713,3.873961
+432510035G-22,22,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024553,3.873774
+432510035G-22B,22BIS,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024344,3.873516
+432510035G-24,24,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024175,3.873294
+432510035G-25,25,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.023510,3.872374
+432510035G-25B,25BIS,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.023393,3.872195
+432510035G-26,26,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024032,3.873076
+432510035G-27,27,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.023248,3.871945
+432510035G-28,28,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.023791,3.872692
+432510035G-3,3,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.025933,3.875499
+432510035G-36,36,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.023228,3.871768
+432510035G-37,37,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.022058,3.870285
+432510035G-40,40,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.023016,3.870571
+432510035G-41,41,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.024734,3.873959
+432510035G-44,44,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.022709,3.869046
+432510035G-44B,44BIS,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.022145,3.869926
+432510035G-4,4,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.026220,3.875689
+432510035G-45,45,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.021237,3.871453
+432510035G-4B,4BIS,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.026131,3.875279
+432510035G-5,5,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.025751,3.875293
+432510035G-7,7,Route du Carmel,43750,Vals-près-le-Puy,C+O,45.025662,3.875191
+432510040M-10,10,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026208,3.872171
+432510040M-11,11,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026247,3.872097
+432510040M-12,12,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026125,3.872037
+432510040M-13,13,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026157,3.871957
+432510040M-14,14,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026045,3.871885
+432510040M-15,15,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026076,3.871807
+432510040M-16,16,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025983,3.871732
+432510040M-17,17,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026008,3.871629
+432510040M-18,18,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025937,3.871577
+432510040M-19,19,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025963,3.871411
+432510040M-20,20,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025902,3.871394
+432510040M-21,21,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025941,3.871177
+432510040M-22,22,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025885,3.871217
+432510040M-24,24,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025872,3.871049
+432510040M-26,26,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025858,3.870860
+432510040M-28,28,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025842,3.870633
+432510040M-4,4,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025999,3.872856
+432510040M-6,6,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025927,3.872194
+432510040M-6B,6BIS,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.025705,3.871910
+432510040M-7,7,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026456,3.872418
+432510040M-8,8,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026311,3.872321
+432510040M-9,9,Rue Centrale,43750,Vals-près-le-Puy,C+O,45.026337,3.872236
+432510048W-2,2,Rue du Charirou,43750,Vals-près-le-Puy,C+O,45.027795,3.873319
+432510048W-4,4,Rue du Charirou,43750,Vals-près-le-Puy,C+O,45.027505,3.873387
+432510048W-6,6,Rue du Charirou,43750,Vals-près-le-Puy,C+O,45.027530,3.873348
+432510048W-6B,6BIS,Rue du Charirou,43750,Vals-près-le-Puy,C+O,45.027626,3.873263
 432510050Y-10,10,Rue Charles Martin,43750,Vals-près-le-Puy,C+O,45.034591,3.878610
 432510050Y-11,11,Rue Charles Martin,43750,Vals-près-le-Puy,C+O,45.034914,3.877632
 432510050Y-1,1,Rue Charles Martin,43750,Vals-près-le-Puy,C+O,45.034579,3.878480
@@ -25576,65 +25576,65 @@
 432510070V-4,4,Rue Charles Nicolle,43750,Vals-près-le-Puy,CAD,45.028886,3.879155
 432510070V-6,6,Rue Charles Nicolle,43750,Vals-près-le-Puy,CAD,45.028808,3.879100
 432510070V-8,8,Rue Charles Nicolle,43750,Vals-près-le-Puy,CAD,45.028717,3.879036
-432510071W-1,1,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,CAD,45.023548,3.862219
-432510071W-3,3,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,CAD,45.023266,3.862095
-432510071W-5,5,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,CAD,45.022971,3.862153
-432510071W-7,7,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,CAD,45.022739,3.862224
-432510072X-10,10,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026690,3.871987
-432510072X-11,11,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026618,3.871583
-432510072X-1,1,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.027031,3.872814
-432510072X-12,12,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026615,3.871788
-432510072X-13,13,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026469,3.871270
-432510072X-13B,13BIS,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026375,3.871005
-432510072X-14,14,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026543,3.871617
-432510072X-15,15,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026352,3.870764
-432510072X-16,16,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026475,3.871470
-432510072X-17,17,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026330,3.870596
-432510072X-17A,17A,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026116,3.869466
-432510072X-18,18,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026387,3.871292
-432510072X-20,20,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026285,3.871085
-432510072X-22,22,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026177,3.870866
-432510072X-2,2,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026942,3.872804
-432510072X-24,24,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.025990,3.870568
-432510072X-3,3,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026991,3.872663
-432510072X-4,4,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026876,3.872558
-432510072X-5,5,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026961,3.872561
-432510072X-5B,5BIS,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026905,3.872386
-432510072X-6,6,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026815,3.872353
-432510072X-7,7,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026856,3.872242
-432510072X-8,8,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026750,3.872148
-432510072X-9,9,Rue Louis Brioude,43750,Vals-près-le-Puy,CAD,45.026765,3.871966
-432510080F-11,11,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029291,3.875826
-432510080F-1,1,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029796,3.876228
-432510080F-12,12,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029241,3.875771
-432510080F-13,13,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029194,3.875718
-432510080F-14,14,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029141,3.875659
-432510080F-15,15,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029101,3.875614
-432510080F-16,16,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029075,3.875583
-432510080F-17,17,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029031,3.875531
-432510080F-18,18,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028966,3.875442
-432510080F-19,19,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028935,3.875392
-432510080F-20,20,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028901,3.875334
-432510080F-21,21,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028877,3.875294
-432510080F-22,22,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028835,3.875218
-432510080F-2,2,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029754,3.876213
-432510080F-23,23,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028680,3.874869
-432510080F-25,25,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028580,3.874681
-432510080F-26,26,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028495,3.874514
-432510080F-27,27,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028460,3.874451
-432510080F-29,29,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028386,3.874312
-432510080F-32,32,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028308,3.874163
-432510080F-33,33,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028283,3.874086
-432510080F-35,35,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028249,3.873988
-432510080F-36,36,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028219,3.873899
-432510080F-39,39,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.028157,3.873663
-432510080F-41,41,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.027397,3.872066
-432510080F-41A,41A,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.027844,3.872628
-432510080F-4,4,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029633,3.876157
-432510080F-5,5,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029576,3.876103
-432510080F-6,6,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029542,3.876064
-432510080F-7,7,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029502,3.876019
-432510080F-8,8,Quai du Dolaizon,43750,Vals-près-le-Puy,CAD,45.029418,3.875941
+432510071W-1,1,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,C+O,45.023548,3.862219
+432510071W-3,3,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,C+O,45.023266,3.862095
+432510071W-5,5,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,C+O,45.022971,3.862153
+432510071W-7,7,Chemin de la Borie Blanche,43750,Vals-près-le-Puy,C+O,45.022739,3.862224
+432510072X-10,10,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026690,3.871987
+432510072X-11,11,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026618,3.871583
+432510072X-1,1,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.027031,3.872814
+432510072X-12,12,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026615,3.871788
+432510072X-13,13,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026469,3.871270
+432510072X-13B,13BIS,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026375,3.871005
+432510072X-14,14,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026543,3.871617
+432510072X-15,15,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026352,3.870764
+432510072X-16,16,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026475,3.871470
+432510072X-17,17,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026330,3.870596
+432510072X-17A,17A,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026116,3.869466
+432510072X-18,18,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026387,3.871292
+432510072X-20,20,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026285,3.871085
+432510072X-22,22,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026177,3.870866
+432510072X-2,2,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026942,3.872804
+432510072X-24,24,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.025990,3.870568
+432510072X-3,3,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026991,3.872663
+432510072X-4,4,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026876,3.872558
+432510072X-5,5,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026961,3.872561
+432510072X-5B,5BIS,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026905,3.872386
+432510072X-6,6,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026815,3.872353
+432510072X-7,7,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026856,3.872242
+432510072X-8,8,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026750,3.872148
+432510072X-9,9,Rue Louis Brioude,43750,Vals-près-le-Puy,C+O,45.026765,3.871966
+432510080F-11,11,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029291,3.875826
+432510080F-1,1,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029796,3.876228
+432510080F-12,12,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029241,3.875771
+432510080F-13,13,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029194,3.875718
+432510080F-14,14,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029141,3.875659
+432510080F-15,15,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029101,3.875614
+432510080F-16,16,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029075,3.875583
+432510080F-17,17,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029031,3.875531
+432510080F-18,18,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028966,3.875442
+432510080F-19,19,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028935,3.875392
+432510080F-20,20,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028901,3.875334
+432510080F-21,21,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028877,3.875294
+432510080F-22,22,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028835,3.875218
+432510080F-2,2,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029754,3.876213
+432510080F-23,23,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028680,3.874869
+432510080F-25,25,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028580,3.874681
+432510080F-26,26,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028495,3.874514
+432510080F-27,27,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028460,3.874451
+432510080F-29,29,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028386,3.874312
+432510080F-32,32,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028308,3.874163
+432510080F-33,33,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028283,3.874086
+432510080F-35,35,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028249,3.873988
+432510080F-36,36,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028219,3.873899
+432510080F-39,39,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.028157,3.873663
+432510080F-41,41,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.027397,3.872066
+432510080F-41A,41A,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.027844,3.872628
+432510080F-4,4,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029633,3.876157
+432510080F-5,5,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029576,3.876103
+432510080F-6,6,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029542,3.876064
+432510080F-7,7,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029502,3.876019
+432510080F-8,8,Quai du Dolaizon,43750,Vals-près-le-Puy,C+O,45.029418,3.875941
 432510081G-1,1,Avenue des Droits de l'Homme,43750,Vals-près-le-Puy,CAD,45.028122,3.871479
 432510081G-16,16,Avenue des Droits de l'Homme,43750,Vals-près-le-Puy,CAD,45.026888,3.866915
 432510081G-23,23,Avenue des Droits de l'Homme,43750,Vals-près-le-Puy,CAD,45.026621,3.867822
@@ -25673,28 +25673,28 @@
 432510090S-8,8,Rue des Écoles,43750,Vals-près-le-Puy,C+O,45.028068,3.875378
 432510090S-9,9,Rue des Écoles,43750,Vals-près-le-Puy,C+O,45.027939,3.874860
 432510100C-7B,7BIS,Rue de l'École Normale,43750,Vals-près-le-Puy,C+O,45.036674,3.879904
-432510102E-37,37,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.024062,3.867695
-432510102E-38,38,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023801,3.867755
-432510102E-39,39,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023904,3.867874
-432510102E-41,41,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023805,3.868086
-432510102E-42,42,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023575,3.868472
-432510102E-42B,42BIS,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.022269,3.866563
-432510102E-43,43,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023515,3.869339
-432510102E-44,44,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023297,3.869275
-432510102E-45,45,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023365,3.869442
-432510102E-46,46,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023132,3.869579
-432510102E-47,47,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023219,3.869717
-432510102E-48,48,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023048,3.869764
-432510102E-49,49,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023819,3.870643
-432510102E-49B,49BIS,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023535,3.870322
-432510102E-50,50,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.022959,3.870047
-432510102E-51,51,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.023053,3.870231
-432510102E-52,52,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.022915,3.870290
-432510102E-54,54,Avenue de l'Europe,43750,Vals-près-le-Puy,CAD,45.022873,3.870584
-432510104G-13,13,Chemin de la Girette,43750,Vals-près-le-Puy,CAD,45.027437,3.867567
-432510104G-15,15,Chemin de la Girette,43750,Vals-près-le-Puy,CAD,45.027229,3.867252
-432510104G-8,8,Chemin de la Girette,43750,Vals-près-le-Puy,CAD,45.028702,3.869881
-432510104G-9,9,Chemin de la Girette,43750,Vals-près-le-Puy,CAD,45.027898,3.868490
+432510102E-37,37,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.024062,3.867695
+432510102E-38,38,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023801,3.867755
+432510102E-39,39,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023904,3.867874
+432510102E-41,41,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023805,3.868086
+432510102E-42,42,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023575,3.868472
+432510102E-42B,42BIS,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.022269,3.866563
+432510102E-43,43,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023515,3.869339
+432510102E-44,44,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023297,3.869275
+432510102E-45,45,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023365,3.869442
+432510102E-46,46,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023132,3.869579
+432510102E-47,47,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023219,3.869717
+432510102E-48,48,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023048,3.869764
+432510102E-49,49,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023819,3.870643
+432510102E-49B,49BIS,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023535,3.870322
+432510102E-50,50,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.022959,3.870047
+432510102E-51,51,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.023053,3.870231
+432510102E-52,52,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.022915,3.870290
+432510102E-54,54,Avenue de l'Europe,43750,Vals-près-le-Puy,C+O,45.022873,3.870584
+432510104G-13,13,Chemin de la Girette,43750,Vals-près-le-Puy,C+O,45.027437,3.867567
+432510104G-15,15,Chemin de la Girette,43750,Vals-près-le-Puy,C+O,45.027229,3.867252
+432510104G-8,8,Chemin de la Girette,43750,Vals-près-le-Puy,C+O,45.028702,3.869881
+432510104G-9,9,Chemin de la Girette,43750,Vals-près-le-Puy,C+O,45.027898,3.868490
 432510110N-10,10,Chemin d'Eycenac,43750,Vals-près-le-Puy,C+O,45.025271,3.870611
 432510110N-11,11,Chemin d'Eycenac,43750,Vals-près-le-Puy,C+O,45.024837,3.870282
 432510110N-1,1,Chemin d'Eycenac,43750,Vals-près-le-Puy,C+O,45.025544,3.870628
@@ -25721,44 +25721,44 @@
 432510110N-6,6,Chemin d'Eycenac,43750,Vals-près-le-Puy,C+O,45.025334,3.870274
 432510110N-7,7,Chemin d'Eycenac,43750,Vals-près-le-Puy,C+O,45.024861,3.870622
 432510110N-8,8,Chemin d'Eycenac,43750,Vals-près-le-Puy,C+O,45.025263,3.870337
-432510117W-1,1,Rue Francisque Enjolras,43750,Vals-près-le-Puy,CAD,45.035082,3.882007
-432510117W-4,4,Rue Francisque Enjolras,43750,Vals-près-le-Puy,CAD,45.033117,3.881133
-432510120Z-1,1,Rue du Gen Baugier,43750,Vals-près-le-Puy,CAD,45.035606,3.881834
-432510140W-11,11,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,CAD,45.029291,3.874642
-432510140W-1,1,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,CAD,45.029534,3.875171
-432510140W-14,14,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,CAD,45.029113,3.874284
-432510140W-2,2,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,CAD,45.029050,3.874186
-432510140W-4,4,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,CAD,45.029137,3.874582
-432510140W-9,9,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,CAD,45.029324,3.874709
-432510144A-2,2,Rue du 8 Mai 1945,43750,Vals-près-le-Puy,CAD,45.034862,3.882748
-432510144A-8,8,Rue du 8 Mai 1945,43750,Vals-près-le-Puy,CAD,45.034631,3.882950
-432510150G-1,1,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028149,3.874427
-432510150G-13,13,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028161,3.874745
-432510150G-15,15,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028105,3.874815
-432510150G-16,16,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028153,3.874903
-432510150G-19,19,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028289,3.874925
-432510150G-21,21,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028363,3.874907
-432510150G-26,26,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028330,3.875022
-432510150G-28,28,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028405,3.874952
-432510150G-3,3,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028100,3.874484
-432510150G-4,4,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028060,3.874252
-432510150G-5,5,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028046,3.874546
-432510150G-6,6,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028107,3.874383
-432510150G-7,7,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028038,3.874646
-432510150G-8,8,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028033,3.874478
-432510150G-9,9,Rue des Jardiniers,43750,Vals-près-le-Puy,CAD,45.028057,3.874735
-432510155M-1,1,Rue Jacques Viscomte,43750,Vals-près-le-Puy,CAD,45.029822,3.876064
-432510155M-15,15,Rue Jacques Viscomte,43750,Vals-près-le-Puy,CAD,45.027515,3.870742
-432510155M-4,4,Rue Jacques Viscomte,43750,Vals-près-le-Puy,CAD,45.029270,3.873549
-432510155M-5,5,Rue Jacques Viscomte,43750,Vals-près-le-Puy,CAD,45.029576,3.876103
-432510155M-6,6,Rue Jacques Viscomte,43750,Vals-près-le-Puy,CAD,45.029670,3.872825
-432510155M-7,7,Rue Jacques Viscomte,43750,Vals-près-le-Puy,CAD,45.029775,3.875867
-432510156N-1,1,Rue Jean Monnet,43750,Vals-près-le-Puy,CAD,45.024424,3.868750
-432510156N-2,2,Rue Jean Monnet,43750,Vals-près-le-Puy,CAD,45.024266,3.868629
-432510156N-3,3,Rue Jean Monnet,43750,Vals-près-le-Puy,CAD,45.024244,3.868766
-432510156N-4,4,Rue Jean Monnet,43750,Vals-près-le-Puy,CAD,45.024067,3.868644
-432510156N-5,5,Rue Jean Monnet,43750,Vals-près-le-Puy,CAD,45.024001,3.868782
-432510156N-7,7,Rue Jean Monnet,43750,Vals-près-le-Puy,CAD,45.023790,3.868797
+432510117W-1,1,Rue Francisque Enjolras,43750,Vals-près-le-Puy,C+O,45.035082,3.882007
+432510117W-4,4,Rue Francisque Enjolras,43750,Vals-près-le-Puy,C+O,45.033117,3.881133
+432510120Z-1,1,Rue du Général Baugier,43750,Vals-près-le-Puy,C+O,45.035606,3.881834
+432510140W-11,11,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,C+O,45.029291,3.874642
+432510140W-1,1,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,C+O,45.029534,3.875171
+432510140W-14,14,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,C+O,45.029113,3.874284
+432510140W-2,2,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,C+O,45.029050,3.874186
+432510140W-4,4,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,C+O,45.029137,3.874582
+432510140W-9,9,Rue Guillaume Chabalier,43750,Vals-près-le-Puy,C+O,45.029324,3.874709
+432510144A-2,2,Rue du 8 Mai 1945,43750,Vals-près-le-Puy,C+O,45.034862,3.882748
+432510144A-8,8,Rue du 8 Mai 1945,43750,Vals-près-le-Puy,C+O,45.034631,3.882950
+432510150G-1,1,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028149,3.874427
+432510150G-13,13,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028161,3.874745
+432510150G-15,15,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028105,3.874815
+432510150G-16,16,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028153,3.874903
+432510150G-19,19,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028289,3.874925
+432510150G-21,21,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028363,3.874907
+432510150G-26,26,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028330,3.875022
+432510150G-28,28,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028405,3.874952
+432510150G-3,3,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028100,3.874484
+432510150G-4,4,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028060,3.874252
+432510150G-5,5,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028046,3.874546
+432510150G-6,6,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028107,3.874383
+432510150G-7,7,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028038,3.874646
+432510150G-8,8,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028033,3.874478
+432510150G-9,9,Rue des Jardiniers,43750,Vals-près-le-Puy,C+O,45.028057,3.874735
+432510155M-1,1,Rue Jacques Viscomte,43750,Vals-près-le-Puy,C+O,45.029822,3.876064
+432510155M-15,15,Rue Jacques Viscomte,43750,Vals-près-le-Puy,C+O,45.027515,3.870742
+432510155M-4,4,Rue Jacques Viscomte,43750,Vals-près-le-Puy,C+O,45.029270,3.873549
+432510155M-5,5,Rue Jacques Viscomte,43750,Vals-près-le-Puy,C+O,45.029576,3.876103
+432510155M-6,6,Rue Jacques Viscomte,43750,Vals-près-le-Puy,C+O,45.029670,3.872825
+432510155M-7,7,Rue Jacques Viscomte,43750,Vals-près-le-Puy,C+O,45.029775,3.875867
+432510156N-1,1,Rue Jean Monnet,43750,Vals-près-le-Puy,C+O,45.024424,3.868750
+432510156N-2,2,Rue Jean Monnet,43750,Vals-près-le-Puy,C+O,45.024266,3.868629
+432510156N-3,3,Rue Jean Monnet,43750,Vals-près-le-Puy,C+O,45.024244,3.868766
+432510156N-4,4,Rue Jean Monnet,43750,Vals-près-le-Puy,C+O,45.024067,3.868644
+432510156N-5,5,Rue Jean Monnet,43750,Vals-près-le-Puy,C+O,45.024001,3.868782
+432510156N-7,7,Rue Jean Monnet,43750,Vals-près-le-Puy,C+O,45.023790,3.868797
 432510158R-1,1,Avenue Jean Moulin,43750,Vals-près-le-Puy,CAD,45.025475,3.876744
 432510158R-2,2,Avenue Jean Moulin,43750,Vals-près-le-Puy,CAD,45.025559,3.876483
 432510158R-4,4,Avenue Jean Moulin,43750,Vals-près-le-Puy,CAD,45.025407,3.876586
@@ -25784,47 +25784,47 @@
 432510160T-7,7,Avenue Jeanne d'Arc,43750,Vals-près-le-Puy,C+O,45.026696,3.877387
 432510160T-8,8,Avenue Jeanne d'Arc,43750,Vals-près-le-Puy,C+O,45.026615,3.877246
 432510160T-9,9,Avenue Jeanne d'Arc,43750,Vals-près-le-Puy,C+O,45.026687,3.877668
-432510170D-10,10,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025627,3.868535
-432510170D-12,12,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025432,3.867771
-432510170D-14,14,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025309,3.867458
-432510170D-15,15,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025210,3.867511
-432510170D-16,16,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025558,3.865812
-432510170D-22,22,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.024324,3.864118
-432510170D-2,2,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.026020,3.870293
-432510170D-24,24,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.023998,3.863298
-432510170D-26,26,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.023952,3.862862
-432510170D-5,5,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025798,3.870065
-432510170D-6,6,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025753,3.869148
-432510170D-7,7,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025766,3.869590
-432510170D-8,8,Rue Joseph Rumillet,43750,Vals-près-le-Puy,CAD,45.025691,3.868899
-432510180P-10,10,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029212,3.874891
-432510180P-11,11,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029433,3.875455
-432510180P-1,1,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029746,3.875792
-432510180P-13,13,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029356,3.875327
-432510180P-14,14,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029079,3.874667
-432510180P-15,15,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029318,3.875205
-432510180P-18,18,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028983,3.874603
-432510180P-19,19,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029220,3.874952
-432510180P-22,22,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028831,3.874493
-432510180P-2,2,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029682,3.875563
-432510180P-23,23,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029119,3.874825
-432510180P-24,24,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028804,3.874557
-432510180P-25,25,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029024,3.874726
-432510180P-26,26,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028722,3.874517
-432510180P-28,28,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028686,3.874502
-432510180P-29,29,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028984,3.874702
-432510180P-30,30,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028642,3.874501
-432510180P-31,31,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028918,3.874662
-432510180P-33,33,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028840,3.874625
-432510180P-3,3,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029698,3.875673
-432510180P-35,35,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028801,3.874607
-432510180P-37,37,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028680,3.874556
-432510180P-39,39,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.028566,3.874605
-432510180P-5,5,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029634,3.875612
-432510180P-6,6,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029284,3.874979
-432510180P-7,7,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029585,3.875551
-432510180P-8,8,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029250,3.874936
-432510180P-9,9,Rue Laurent Brolles,43750,Vals-près-le-Puy,CAD,45.029534,3.875480
+432510170D-10,10,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025627,3.868535
+432510170D-12,12,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025432,3.867771
+432510170D-14,14,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025309,3.867458
+432510170D-15,15,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025210,3.867511
+432510170D-16,16,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025558,3.865812
+432510170D-22,22,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.024324,3.864118
+432510170D-2,2,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.026020,3.870293
+432510170D-24,24,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.023998,3.863298
+432510170D-26,26,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.023952,3.862862
+432510170D-5,5,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025798,3.870065
+432510170D-6,6,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025753,3.869148
+432510170D-7,7,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025766,3.869590
+432510170D-8,8,Rue Joseph Rumillet,43750,Vals-près-le-Puy,C+O,45.025691,3.868899
+432510180P-10,10,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029212,3.874891
+432510180P-11,11,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029433,3.875455
+432510180P-1,1,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029746,3.875792
+432510180P-13,13,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029356,3.875327
+432510180P-14,14,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029079,3.874667
+432510180P-15,15,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029318,3.875205
+432510180P-18,18,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028983,3.874603
+432510180P-19,19,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029220,3.874952
+432510180P-22,22,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028831,3.874493
+432510180P-2,2,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029682,3.875563
+432510180P-23,23,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029119,3.874825
+432510180P-24,24,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028804,3.874557
+432510180P-25,25,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029024,3.874726
+432510180P-26,26,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028722,3.874517
+432510180P-28,28,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028686,3.874502
+432510180P-29,29,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028984,3.874702
+432510180P-30,30,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028642,3.874501
+432510180P-31,31,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028918,3.874662
+432510180P-33,33,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028840,3.874625
+432510180P-3,3,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029698,3.875673
+432510180P-35,35,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028801,3.874607
+432510180P-37,37,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028680,3.874556
+432510180P-39,39,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.028566,3.874605
+432510180P-5,5,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029634,3.875612
+432510180P-6,6,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029284,3.874979
+432510180P-7,7,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029585,3.875551
+432510180P-8,8,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029250,3.874936
+432510180P-9,9,Rue Laurent Brolles,43750,Vals-près-le-Puy,C+O,45.029534,3.875480
 432510200L-11,11,Rue Marcel Pagnol,43750,Vals-près-le-Puy,C+O,45.028501,3.878003
 432510200L-1,1,Rue Marcel Pagnol,43750,Vals-près-le-Puy,C+O,45.028462,3.878586
 432510200L-13,13,Rue Marcel Pagnol,43750,Vals-près-le-Puy,C+O,45.028547,3.877934
@@ -25846,23 +25846,23 @@
 432510210X-1,1,Place du Monastère,43750,Vals-près-le-Puy,CAD,45.030005,3.876051
 432510210X-2,2,Place du Monastère,43750,Vals-près-le-Puy,CAD,45.030028,3.876407
 432510210X-4,4,Place du Monastère,43750,Vals-près-le-Puy,CAD,45.029861,3.876181
-432510220H-20,20,Place de la Mutualite,43750,Vals-près-le-Puy,CAD,45.028807,3.878112
-432510220H-21,21,Place de la Mutualite,43750,Vals-près-le-Puy,CAD,45.028777,3.877977
-432510220H-2,2,Place de la Mutualite,43750,Vals-près-le-Puy,CAD,45.028909,3.878091
-432510228S-3,3,Impasse du Pont,43750,Vals-près-le-Puy,CAD,45.028794,3.875457
-432510228S-7,7,Impasse du Pont,43750,Vals-près-le-Puy,CAD,45.028711,3.875368
-432510229T-3,3,Place du Pont,43750,Vals-près-le-Puy,CAD,45.028956,3.875007
-432510229T-4,4,Place du Pont,43750,Vals-près-le-Puy,CAD,45.028898,3.874986
-432510229T-6,6,Place du Pont,43750,Vals-près-le-Puy,CAD,45.028729,3.874924
-432510230U-10,10,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028364,3.875310
-432510230U-1,1,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028604,3.875244
-432510230U-12,12,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028314,3.875343
-432510230U-14,14,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028269,3.875368
-432510230U-16,16,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028236,3.875384
-432510230U-2,2,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028487,3.874942
-432510230U-4,4,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028524,3.875007
-432510230U-6,6,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028507,3.875206
-432510230U-8,8,Rue du Pont,43750,Vals-près-le-Puy,CAD,45.028437,3.875258
+432510220H-20,20,Place de la Mutualité,43750,Vals-près-le-Puy,C+O,45.028807,3.878112
+432510220H-21,21,Place de la Mutualité,43750,Vals-près-le-Puy,C+O,45.028777,3.877977
+432510220H-2,2,Place de la Mutualité,43750,Vals-près-le-Puy,C+O,45.028909,3.878091
+432510228S-3,3,Impasse du Pont,43750,Vals-près-le-Puy,C+O,45.028794,3.875457
+432510228S-7,7,Impasse du Pont,43750,Vals-près-le-Puy,C+O,45.028711,3.875368
+432510229T-3,3,Place du Pont,43750,Vals-près-le-Puy,C+O,45.028956,3.875007
+432510229T-4,4,Place du Pont,43750,Vals-près-le-Puy,C+O,45.028898,3.874986
+432510229T-6,6,Place du Pont,43750,Vals-près-le-Puy,C+O,45.028729,3.874924
+432510230U-10,10,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028364,3.875310
+432510230U-1,1,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028604,3.875244
+432510230U-12,12,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028314,3.875343
+432510230U-14,14,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028269,3.875368
+432510230U-16,16,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028236,3.875384
+432510230U-2,2,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028487,3.874942
+432510230U-4,4,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028524,3.875007
+432510230U-6,6,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028507,3.875206
+432510230U-8,8,Rue du Pont,43750,Vals-près-le-Puy,C+O,45.028437,3.875258
 432510238C-11,11,Route de Pranlary,43750,Vals-près-le-Puy,CAD,45.022691,3.876227
 432510238C-2,2,Route de Pranlary,43750,Vals-près-le-Puy,CAD,45.024327,3.874080
 432510238C-23,23,Route de Pranlary,43750,Vals-près-le-Puy,CAD,45.019971,3.876157
@@ -25876,9 +25876,9 @@
 432510250R-6,6,Rue du Riou,43750,Vals-près-le-Puy,C+O,45.027401,3.878049
 432510250R-7,7,Rue du Riou,43750,Vals-près-le-Puy,C+O,45.027316,3.878135
 432510250R-8,8,Rue du Riou,43750,Vals-près-le-Puy,C+O,45.027237,3.878054
-432510259A-2,2,Impasse Saint-Benoit,43750,Vals-près-le-Puy,CAD,45.028825,3.875782
-432510259A-4,4,Impasse Saint-Benoit,43750,Vals-près-le-Puy,CAD,45.028706,3.875824
-432510259A-5,5,Impasse Saint-Benoit,43750,Vals-près-le-Puy,CAD,45.028630,3.875938
+432510259A-2,2,Impasse Saint-Benoit,43750,Vals-près-le-Puy,C+O,45.028825,3.875782
+432510259A-4,4,Impasse Saint-Benoit,43750,Vals-près-le-Puy,C+O,45.028706,3.875824
+432510259A-5,5,Impasse Saint-Benoit,43750,Vals-près-le-Puy,C+O,45.028630,3.875938
 432510260B-10,10,Rue Saint-Benoît,43750,Vals-près-le-Puy,C+O,45.028351,3.875801
 432510260B-12,12,Rue Saint-Benoît,43750,Vals-près-le-Puy,C+O,45.028309,3.875773
 432510260B-13,13,Rue Saint-Benoît,43750,Vals-près-le-Puy,C+O,45.028288,3.875891
@@ -25975,24 +25975,24 @@
 432510281Z-5,5,Chemin de la Sermone Haute,43750,Vals-près-le-Puy,C+O,45.031460,3.867028
 432510281Z-66,66,Chemin de la Sermone Haute,43750,Vals-près-le-Puy,C+O,45.030988,3.867724
 432510281Z-6,6,Chemin de la Sermone Haute,43750,Vals-près-le-Puy,C+O,45.031676,3.868178
-432510297S-10,10,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031435,3.880446
-432510297S-11,11,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.030838,3.880975
-432510297S-1,1,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031619,3.881114
-432510297S-12,12,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031340,3.880226
-432510297S-13,13,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.030861,3.880588
-432510297S-14,14,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031155,3.880429
-432510297S-15,15,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.030599,3.880588
-432510297S-16,16,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.030925,3.880453
-432510297S-18,18,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.030769,3.880470
-432510297S-20,20,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.030579,3.880491
-432510297S-2,2,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031756,3.881184
-432510297S-3,3,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031356,3.880637
-432510297S-4,4,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031695,3.881044
-432510297S-5,5,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031213,3.880564
-432510297S-6,6,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031615,3.880863
-432510297S-7,7,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031070,3.880949
-432510297S-8,8,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031534,3.880676
-432510297S-9,9,Rue du Val Fleuri,43750,Vals-près-le-Puy,CAD,45.031016,3.880997
+432510297S-10,10,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031435,3.880446
+432510297S-11,11,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.030838,3.880975
+432510297S-1,1,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031619,3.881114
+432510297S-12,12,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031340,3.880226
+432510297S-13,13,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.030861,3.880588
+432510297S-14,14,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031155,3.880429
+432510297S-15,15,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.030599,3.880588
+432510297S-16,16,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.030925,3.880453
+432510297S-18,18,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.030769,3.880470
+432510297S-20,20,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.030579,3.880491
+432510297S-2,2,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031756,3.881184
+432510297S-3,3,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031356,3.880637
+432510297S-4,4,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031695,3.881044
+432510297S-5,5,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031213,3.880564
+432510297S-6,6,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031615,3.880863
+432510297S-7,7,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031070,3.880949
+432510297S-8,8,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031534,3.880676
+432510297S-9,9,Rue du Val Fleuri,43750,Vals-près-le-Puy,C+O,45.031016,3.880997
 432510300V-17,17,Avenue de Vals,43750,Vals-près-le-Puy,C+O,45.036165,3.881673
 432510300V-19,19,Avenue de Vals,43750,Vals-près-le-Puy,C+O,45.035997,3.881609
 432510300V-21,21,Avenue de Vals,43750,Vals-près-le-Puy,C+O,45.035850,3.881549
