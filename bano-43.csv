@@ -15704,7 +15704,7 @@
 431570820U-6,6,Rue Félix Boudignon,43750,Le Puy-en-Velay,CAD,45.042486,3.881893
 431570820U-7,7,Rue Félix Boudignon,43750,Le Puy-en-Velay,CAD,45.042381,3.881919
 431570820U-8,8,Rue Félix Boudignon,43750,Le Puy-en-Velay,CAD,45.042508,3.881779
-431570825Z-3,3,Chemin du Fieu,43750,Le Puy-en-Velay,OSM,45.033453,3.890226
+431570825Z-3,3,Chemin du Fieu,43750,Le Puy-en-Velay,OSM,45.033524,3.890222
 431570830E-11,11,Rue de la Fonderie,43750,Le Puy-en-Velay,C+O,45.039199,3.887241
 431570830E-13,13,Rue de la Fonderie,43750,Le Puy-en-Velay,C+O,45.039118,3.887144
 431570830E-15,15,Rue de la Fonderie,43750,Le Puy-en-Velay,C+O,45.039014,3.887033
@@ -25246,7 +25246,20 @@
 432240256P-17,17,Rue Fayard Guillaumond,43600,Sainte-Sigolène,C+O,45.244112,4.236730
 432240256P-19B,19BIS,Rue Fayard Guillaumond,43600,Sainte-Sigolène,C+O,45.244181,4.236943
 432240256P-35,35,Rue Fayard Guillaumond,43600,Sainte-Sigolène,C+O,45.244500,4.238045
+432240290B-19,19,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240770,4.236421
+432240290B-21,21,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240735,4.236517
+432240290B-23,23,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240717,4.236589
+432240290B-25,25,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240698,4.236661
+432240290B-27,27,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240677,4.236738
+432240290B-29,29,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240634,4.236889
+432240290B-31,31,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240607,4.236986
+432240290B-33,33,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240562,4.237112
+432240290B-35,35,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240507,4.237237
+432240290B-37,37,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240451,4.237363
+432240290B-39,39,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240312,4.237642
+432240290B-41,41,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240119,4.238025
 432240330V-3,3,Rue des Jardins,43600,Sainte-Sigolène,C+O,45.241682,4.232934
+432240370N-13,13,Avenue Lafayette,43600,Sainte-Sigolène,OSM,45.240186,4.233569
 432240370N-20,20,Avenue Lafayette,43600,Sainte-Sigolène,C+O,45.240530,4.233117
 432240370N-28,28,Avenue Lafayette,43600,Sainte-Sigolène,C+O,45.238951,4.232597
 432240370N-29,29,Avenue Lafayette,43600,Sainte-Sigolène,C+O,45.238433,4.232770
@@ -25285,26 +25298,33 @@
 432240450A-10,10,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.238952,4.235289
 432240450A-11,11,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241317,4.235982
 432240450A-1,1,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241709,4.235705
-432240450A-13,13,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241283,4.236006
+432240450A-13,13,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.238759,4.236192
 432240450A-15,15,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241219,4.236051
 432240450A-17,17,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241150,4.236101
 432240450A-19,19,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241097,4.236140
 432240450A-21,21,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241007,4.236203
 432240450A-2,2,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241035,4.236056
-432240450A-25,25,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.240786,4.236265
-432240450A-27,27,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.240622,4.236230
-432240450A-29,29,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.240458,4.236199
+432240450A-23,23,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.240802,4.236325
+432240450A-25,25,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.240802,4.236325
+432240450A-27,27,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.240623,4.236275
+432240450A-29,29,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.240455,4.236324
+432240450A-31,31,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.240117,4.236373
 432240450A-33,33,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.239484,4.236092
 432240450A-3,3,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241652,4.235744
 432240450A-35,35,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.238749,4.236007
 432240450A-4B,4BIS,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.240674,4.236151
 432240450A-5,5,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241551,4.235815
-432240450A-6,6,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.240427,4.236108
+432240450A-6,6,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.240410,4.235975
 432240450A-7,7,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241450,4.235887
-432240450A-8,8,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.240190,4.236079
+432240450A-8,8,Avenue de Marinéo,43600,Sainte-Sigolène,OSM,45.240254,4.235912
 432240450A-9,9,Avenue de Marinéo,43600,Sainte-Sigolène,C+O,45.241388,4.235932
 432240460L-19,19,Route de Monistrol,43600,Sainte-Sigolène,CAD,45.243958,4.227699
 432240460L-55,55,Route de Monistrol,43600,Sainte-Sigolène,CAD,45.246736,4.220682
+432240530M-11,11,Rue des Passementiers,43600,Sainte-Sigolène,OSM,45.239957,4.234721
+432240530M-13,13,Rue des Passementiers,43600,Sainte-Sigolène,OSM,45.239898,4.234798
+432240530M-5,5,Rue des Passementiers,43600,Sainte-Sigolène,OSM,45.240256,4.234378
+432240530M-7,7,Rue des Passementiers,43600,Sainte-Sigolène,OSM,45.240112,4.234547
+432240530M-9,9,Rue des Passementiers,43600,Sainte-Sigolène,OSM,45.240015,4.234657
 432240620K-10,10,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238269,4.237152
 432240620K-11,11,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.238386,4.237366
 432240620K-1,1,Rue de Plein Sud,43600,Sainte-Sigolène,OSM,45.239853,4.238159
@@ -25338,7 +25358,22 @@
 432240720U-29,29,Rue de Saint-Didier,43600,Sainte-Sigolène,C+O,45.245660,4.235497
 432240750B-7,7,Rue Sgt Garnier,43600,Sainte-Sigolène,CAD,45.243038,4.232908
 432240760M-24,24,Rue du Stade,43600,Sainte-Sigolène,CAD,45.238858,4.233762
-432240765T-16,16,Avenue du Stade,43600,Sainte-Sigolène,C+O,45.239319,4.233262
+432240765T-10,10,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239642,4.233127
+432240765T-12,12,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239580,4.233184
+432240765T-14,14,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239479,4.233277
+432240765T-16,16,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239343,4.233336
+432240765T-18,18,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239175,4.233524
+432240765T-20,20,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239175,4.233524
+432240765T-22,22,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.238953,4.233673
+432240765T-2,2,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239805,4.232902
+432240765T-24,24,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.238793,4.233638
+432240765T-26,26,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.238617,4.233818
+432240765T-28,28,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.238551,4.234080
+432240765T-30,30,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.238395,4.234188
+432240765T-32,32,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.238272,4.234352
+432240765T-4,4,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239754,4.232938
+432240765T-6,6,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239714,4.232990
+432240765T-8,8,Avenue du Stade,43600,Sainte-Sigolène,OSM,45.239675,4.233041
 432240820C-7,7,Rue de Verdun,43600,Sainte-Sigolène,C+O,45.242807,4.234612
 432240830N-12,12,Rue de La Victoire,43600,Sainte-Sigolène,C+O,45.242237,4.234392
 432240830N-2,2,Rue de La Victoire,43600,Sainte-Sigolène,OSM,45.242545,4.233901
@@ -25402,7 +25437,7 @@
 432360300K-5,5,Petite Place,43140,La Séauve-sur-Semène,CAD,45.293454,4.249069
 432360330T-5,5,Rue Jacques Prevert,43140,La Séauve-sur-Semène,CAD,45.300564,4.256072
 432360342F-9,9,Rue Sainte-Marguerite,43140,La Séauve-sur-Semène,CAD,45.292451,4.251483
-432360360A-88,88,Avenue de la Semène,43140,La Séauve-sur-Semène,OSM,45.295232,4.256296
+432360360A-88,88,Avenue de la Semène,43140,La Séauve-sur-Semène,OSM,45.295207,4.256303
 432410007V-1,1,Route de la Cascade,43370,Solignac-sur-Loire,CAD,44.967391,3.887848
 432410019H-10,10,Rue des Prades,43370,Solignac-sur-Loire,CAD,44.972860,3.883430
 432410019H-11,11,Rue des Prades,43370,Solignac-sur-Loire,CAD,44.972821,3.883336
