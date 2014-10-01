@@ -50,6 +50,7 @@ BANO est une base de données composite, constituée à partir de différentes s
   - Communauté Urbaine de Bordeaux (ODbL) - juin 2014
   - Communauté Urbaine de Strasbourg (Licence Ouverte) - février 2014
   - Communauté Urbaine de Lille Métropole (Licence Ouverte) - juin 2014
+  - Communauté d'Agglomération Metz Métropole (ODbL 1.0) - septembre 2014
 - données adresses collectées sur le site du cadastre et fichier FANTOIR (Licence Ouverte) - 2014
 
 
