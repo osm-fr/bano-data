@@ -737,14 +737,14 @@
 040190165J-7089,7089,Place du Docteur Louis Signoret,04400,Barcelonnette,CAD,44.387616,6.650939
 040190170P-3,3,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388112,6.653624
 040190170P-5,5,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388056,6.653818
-040190180A-2,2,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384846,6.650703
-040190180A-5,5,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.383831,6.651807
-040190180A-7003,7003,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385201,6.651369
-040190180A-7003A,7003A,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385193,6.651616
-040190180A-7003B,7003B,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385127,6.651634
-040190180A-7003C,7003C,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384970,6.651858
-040190180A-7091,7091,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385046,6.651312
-040190180A-7,7,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.382845,6.651150
+040190180A-2,2,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384846,6.650703
+040190180A-5,5,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.383831,6.651807
+040190180A-7003,7003,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385201,6.651369
+040190180A-7003A,7003A,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385193,6.651616
+040190180A-7003B,7003B,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385127,6.651634
+040190180A-7003C,7003C,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384970,6.651858
+040190180A-7091,7091,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385046,6.651312
+040190180A-7,7,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.382845,6.651150
 040190190L-1,1,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388450,6.644921
 040190190L-2,2,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388400,6.645217
 040190190L-3,3,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388557,6.644638
@@ -1663,7 +1663,7 @@
 040340029W-7034,7034,Route des Alpes,04700,La Brillanne,C+O,43.931400,5.890260
 040340029W-7080,7080,Route des Alpes,04700,La Brillanne,C+O,43.925787,5.890924
 040340029W-7088,7088,Route des Alpes,04700,La Brillanne,C+O,43.923234,5.890373
-040340030X-5,5,Place Sainte-Agathe,04700,La Brillanne,C+O,43.928035,5.891461
+040340030X-5,5,Place Sainte Agathe,04700,La Brillanne,C+O,43.928035,5.891461
 040340032Z-10,10,Place des Aires,04700,La Brillanne,CAD,43.927688,5.892155
 040340032Z-1,1,Place des Aires,04700,La Brillanne,CAD,43.927818,5.892035
 040340034B-14,14,Rue du Bac,04700,La Brillanne,C+O,43.926285,5.891957
@@ -19643,7 +19643,7 @@
 041970131Y-7068,7068,Impasse des Genêts,04220,Sainte-Tulle,C+O,43.793616,5.764117
 041970131Y-7142,7142,Impasse des Genêts,04220,Sainte-Tulle,C+O,43.793349,5.764812
 041970132Z-7239,7239,Avenue de Provence,04220,Sainte-Tulle,C+O,43.794666,5.778905
-041970134B-7235,7235,Chemin des Belles Pierres,04220,Sainte-Tulle,CAD,43.776116,5.762885
+041970134B-7235,7235,Chemin des Belles Pierres,04220,Sainte-Tulle,C+O,43.776116,5.762885
 041970135C-102,102,Rue des Glycines,04220,Sainte-Tulle,CAD,43.785395,5.767009
 041970135C-16,16,Rue des Glycines,04220,Sainte-Tulle,CAD,43.785783,5.766194
 041970135C-24,24,Rue des Glycines,04220,Sainte-Tulle,CAD,43.785794,5.766292

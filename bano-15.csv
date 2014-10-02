@@ -11109,9 +11109,9 @@
 15088A010Z-6,6,Lotissement Le Hameau du Rieu,15150,Lacapelle-Viescamp,CAD,44.920074,2.261971
 15088A010Z-7,7,Lotissement Le Hameau du Rieu,15150,Lacapelle-Viescamp,CAD,44.920033,2.262087
 15088A010Z-8,8,Lotissement Le Hameau du Rieu,15150,Lacapelle-Viescamp,CAD,44.919787,2.261948
-150900003N-1,1,Impasse Albos,15130,Lafeuillade-en-Vézie,CAD,44.790954,2.459009
-150900003N-3,3,Impasse Albos,15130,Lafeuillade-en-Vézie,CAD,44.790975,2.459124
-150900003N-5,5,Impasse Albos,15130,Lafeuillade-en-Vézie,CAD,44.790976,2.459197
+150900003N-1,1,Impasse Albos,15130,Lafeuillade-en-Vézie,C+O,44.790954,2.459009
+150900003N-3,3,Impasse Albos,15130,Lafeuillade-en-Vézie,C+O,44.790975,2.459124
+150900003N-5,5,Impasse Albos,15130,Lafeuillade-en-Vézie,C+O,44.790976,2.459197
 150900004P-10,10,Rue Albos,15130,Lafeuillade-en-Vézie,C+O,44.791195,2.458558
 150900004P-11,11,Rue Albos,15130,Lafeuillade-en-Vézie,C+O,44.790558,2.459039
 150900004P-1,1,Rue Albos,15130,Lafeuillade-en-Vézie,C+O,44.790988,2.457952
@@ -22177,8 +22177,8 @@
 152150082F-7,7,Chemin du Roudadou,15130,Saint-Simon,C+O,44.966101,2.462604
 152150082F-8,8,Chemin du Roudadou,15130,Saint-Simon,C+O,44.967394,2.462854
 152150082F-9,9,Chemin du Roudadou,15130,Saint-Simon,C+O,44.966358,2.462695
-152150084H-1,1,Chemin du Ruisseau,15130,Saint-Simon,CAD,44.967711,2.528178
-152150084H-3,3,Chemin du Ruisseau,15130,Saint-Simon,CAD,44.967276,2.527839
+152150084H-1,1,Chemin du Ruisseau,15130,Saint-Simon,C+O,44.967711,2.528178
+152150084H-3,3,Chemin du Ruisseau,15130,Saint-Simon,C+O,44.967276,2.527839
 152150086K-10,10,Rue des Sources,15130,Saint-Simon,C+O,44.966349,2.485417
 152150086K-12,12,Rue des Sources,15130,Saint-Simon,C+O,44.966420,2.485100
 152150086K-14,14,Rue des Sources,15130,Saint-Simon,C+O,44.966228,2.484978
