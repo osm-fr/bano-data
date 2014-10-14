@@ -15911,9 +15911,6 @@
 070780168W-6227,6227,Rue des Pins,07430,Davézieux,CAD,45.254724,4.686370
 070780168W-83,83,Rue des Pins,07430,Davézieux,CAD,45.254500,4.686899
 070780169X-101,101,Rue des Alpes,07430,Davézieux,C+O,45.253388,4.687829
-070780169X-31,31,Rue des Alpes,07430,Davézieux,OSM,45.251386,4.687489
-070780169X-33,33,Rue des Alpes,07430,Davézieux,OSM,45.251551,4.687407
-070780169X-7,7,Rue des Alpes,07430,Davézieux,OSM,45.248406,4.687952
 070780169X-85,85,Rue des Alpes,07430,Davézieux,C+O,45.253775,4.687958
 070780169X-88,88,Rue des Alpes,07430,Davézieux,C+O,45.253823,4.685949
 07078A013X-100,100,Lotissement Les Residences du Soleil,07430,Davézieux,CAD,45.250339,4.705730
@@ -29401,29 +29398,19 @@
 072220045L-230,230,Chemin des Eygas,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.918878,4.460424
 072220045L-395,395,Chemin des Eygas,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.919394,4.462556
 072220050S-315,315,Chemin de Françon,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.912632,4.462453
-072220050S-315,315,Chemin de Françon,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.912632,4.462453
 072220060C-5,5,Impasse du Gourd,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.923862,4.443438
 072220065H-5,5,Chemin de la Grangette,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.930759,4.436039
 072220070N-125,125,Rue des Jardins,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.922315,4.448539
 072220070N-210,210,Rue des Jardins,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.922627,4.447155
 072220070N-55,55,Rue des Jardins,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.922441,4.449193
 072220072R-165,165,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.916669,4.451525
-072220072R-165,165,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.916669,4.451525
-072220072R-1910,1910,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.920800,4.460989
 072220072R-1910,1910,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.920800,4.460989
 072220072R-2015,2015,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.921620,4.460292
-072220072R-2015,2015,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.921621,4.460292
-072220072R-2055,2055,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.921887,4.460519
 072220072R-2055,2055,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.921887,4.460519
 072220072R-2060,2060,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.921948,4.460833
-072220072R-2060,2060,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.921948,4.460833
-072220072R-255,255,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.915910,4.451975
 072220072R-255,255,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.915910,4.451975
 072220072R-3665,3665,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.917510,4.465385
-072220072R-3665,3665,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.917510,4.465385
 072220072R-3700,3700,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.917302,4.465878
-072220072R-3700,3700,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.917302,4.465878
-072220072R-3750,3750,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.917455,4.466884
 072220072R-3750,3750,Route de Lamastre,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.917455,4.466884
 072220073S-35,35,Chemin Ronde du Lavoir,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.922681,4.447846
 072220073S-75,75,Chemin Ronde du Lavoir,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.922934,4.447676
@@ -29433,13 +29420,9 @@
 072220090K-550,550,Chemin de Mandon,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.920753,4.446526
 072220095R-280,280,Chemin du Mas,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.922937,4.464089
 072220105B-1145,1145,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.929672,4.461043
-072220105B-1145,1145,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.929672,4.461043
 072220105B-20,20,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.924550,4.460134
-072220105B-20,20,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.924550,4.460134
-072220105B-2025,2025,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.935101,4.460457
 072220105B-2025,2025,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.935101,4.460457
 072220105B-815,815,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.928146,4.462084
-072220105B-815,815,Chemin de la Mure,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.928146,4.462085
 072220125Y-320,320,Chemin des Nots,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.926162,4.451751
 072220125Y-520,520,Chemin des Nots,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.926117,4.454603
 072220125Y-580,580,Chemin des Nots,07160,Saint-Cierge-sous-le-Cheylard,OSM,44.925980,4.455544
@@ -37581,7 +37564,6 @@
 073080063G-8,8,Avenue du Vivarais,07370,Sarras,OSM,45.186609,4.799512
 073080069N-2583,2583,Route d'Eclassan,07370,Sarras,C+O,45.178160,4.788530
 073080069N-2931,2931,Route d'Eclassan,07370,Sarras,OSM,45.177193,4.787900
-073080069N-2931,2931,Route d'Eclassan,07370,Sarras,OSM,45.177194,4.787900
 073080081B-21,21,Impasse La Voie Romaine,07370,Sarras,OSM,45.198713,4.801214
 073080081B-35,35,Impasse La Voie Romaine,07370,Sarras,OSM,45.198665,4.800989
 073080081B-49,49,Impasse La Voie Romaine,07370,Sarras,OSM,45.198606,4.800746
