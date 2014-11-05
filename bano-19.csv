@@ -3058,17 +3058,17 @@
 190300015Z-4,4,Rue de Lastier,19310,Brignac-la-Plaine,CAD,45.188419,1.336527
 190300015Z-6,6,Rue de Lastier,19310,Brignac-la-Plaine,CAD,45.188221,1.336473
 190300015Z-7,7,Rue de Lastier,19310,Brignac-la-Plaine,CAD,45.187913,1.336508
-190310015V-10,10,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156283,1.550638
-190310015V-1,1,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156764,1.551007
-190310015V-12,12,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156152,1.550759
-190310015V-14,14,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156118,1.550869
-190310015V-16,16,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156116,1.551327
-190310015V-2,2,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156913,1.550765
-190310015V-3,3,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156622,1.551107
-190310015V-6,6,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156607,1.550409
-190310015V-7,7,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156353,1.551298
-190310015V-8,8,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156466,1.550538
-190310015V-9,9,Rue Abbé Breuil,19100,Brive-la-Gaillarde,CAD,45.156175,1.551423
+190310015V-10,10,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156283,1.550638
+190310015V-1,1,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156764,1.551007
+190310015V-12,12,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156152,1.550759
+190310015V-14,14,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156118,1.550869
+190310015V-16,16,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156116,1.551327
+190310015V-2,2,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156913,1.550765
+190310015V-3,3,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156622,1.551107
+190310015V-6,6,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156607,1.550409
+190310015V-7,7,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156353,1.551298
+190310015V-8,8,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156466,1.550538
+190310015V-9,9,Rue de l'Abbé Breuil,19100,Brive-la-Gaillarde,C+O,45.156175,1.551423
 190310021B-100,100,Avenue Abbé Jean Alvitre,19100,Brive-la-Gaillarde,CAD,45.152029,1.503309
 190310021B-10,10,Avenue Abbé Jean Alvitre,19100,Brive-la-Gaillarde,CAD,45.154199,1.511438
 190310021B-102,102,Avenue Abbé Jean Alvitre,19100,Brive-la-Gaillarde,CAD,45.151986,1.503157
@@ -31664,79 +31664,79 @@
 192270145J-4,4,Route des Vergnes,19330,Saint-Mexant,CAD,45.287317,1.636253
 192270145J-5,5,Route des Vergnes,19330,Saint-Mexant,CAD,45.287399,1.636268
 192270145J-6,6,Route des Vergnes,19330,Saint-Mexant,CAD,45.287262,1.636645
-192290003W-118,118,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.124473,1.416838
-192290003W-198,198,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.125154,1.416539
-192290003W-208,208,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.125286,1.416505
-192290003W-286,286,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.125761,1.416389
-192290003W-364,364,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.126229,1.416353
-192290003W-381,381,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.126535,1.415785
-192290003W-41,41,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.123930,1.416304
-192290003W-437,437,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.127167,1.415860
-192290003W-515,515,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.127848,1.415791
-192290003W-544,544,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128430,1.416020
-192290003W-551,551,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128117,1.415728
-192290003W-575,575,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128336,1.415679
-192290003W-590,590,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128415,1.415778
-192290003W-600,600,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128617,1.417424
-192290003W-600A,600A,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128500,1.418706
-192290003W-6037,6037,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129105,1.415274
-192290003W-629,629,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128821,1.415566
-192290003W-639,639,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.128933,1.415540
-192290003W-669,669,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129233,1.415469
-192290003W-694,694,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129398,1.415547
-192290003W-709,709,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129536,1.415165
-192290003W-720,720,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129728,1.416400
-192290003W-725,725,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129671,1.415365
-192290003W-730,730,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129677,1.414951
-192290003W-743,743,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129870,1.414905
-192290003W-753,753,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.129870,1.414918
-192290003W-760,760,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130072,1.415402
-192290003W-779,779,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130208,1.415234
-192290003W-780,780,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130222,1.415367
-192290003W-802,802,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130379,1.415330
-192290003W-809,809,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130425,1.415183
-192290003W-822,822,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130552,1.415289
-192290003W-839,839,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130694,1.415121
-192290003W-85,85,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.124110,1.416474
-192290003W-872,872,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130951,1.415286
-192290003W-873,873,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.130999,1.415055
-192290003W-895,895,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131201,1.415010
-192290003W-896,896,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131197,1.415107
-192290003W-913,913,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131359,1.414980
-192290003W-914,914,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131366,1.415107
-192290003W-931,931,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131589,1.414957
-192290003W-934,934,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131526,1.415105
-192290003W-941,941,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131748,1.414968
-192290003W-945,945,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131637,1.415111
-192290003W-960,960,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131779,1.415114
-192290003W-975,975,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.131928,1.415010
-192290003W-995,995,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.132132,1.415054
-192290003W-998,998,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,CAD,45.132149,1.415177
-192290004X-6020,6020,Impasse Auguste Marchand,19600,Saint-Pantaléon-de-Larche,CAD,45.127141,1.421665
-192290005Y-110,110,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145662,1.467631
-192290005Y-115,115,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145682,1.467863
-192290005Y-132,132,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145486,1.467632
-192290005Y-135,135,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145480,1.467882
-192290005Y-150,150,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145241,1.467565
-192290005Y-151,151,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145362,1.467897
-192290005Y-169,169,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145220,1.468029
-192290005Y-173,173,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.144907,1.467890
-192290005Y-177,177,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.144864,1.467765
-192290005Y-181,181,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.144963,1.467491
-192290005Y-19,19,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145993,1.466907
-192290005Y-195,195,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.144813,1.467190
-192290005Y-204,204,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145289,1.467222
-192290005Y-211,211,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.144955,1.467167
-192290005Y-220,220,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145312,1.467031
-192290005Y-237,237,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.144990,1.466852
-192290005Y-240,240,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145241,1.466797
-192290005Y-43,43,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145972,1.467156
-192290005Y-59,59,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145951,1.467397
-192290005Y-6141,6141,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.144990,1.466869
-192290005Y-62,62,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145873,1.467347
-192290005Y-75,75,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145939,1.467529
-192290005Y-85,85,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145924,1.467714
-192290005Y-97,97,Rue Aragon,19600,Saint-Pantaléon-de-Larche,CAD,45.145843,1.467854
+192290003W-118,118,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.124473,1.416838
+192290003W-198,198,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.125154,1.416539
+192290003W-208,208,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.125286,1.416505
+192290003W-286,286,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.125761,1.416389
+192290003W-364,364,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.126229,1.416353
+192290003W-381,381,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.126535,1.415785
+192290003W-41,41,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.123930,1.416304
+192290003W-437,437,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.127167,1.415860
+192290003W-515,515,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.127848,1.415791
+192290003W-544,544,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128430,1.416020
+192290003W-551,551,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128117,1.415728
+192290003W-575,575,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128336,1.415679
+192290003W-590,590,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128415,1.415778
+192290003W-600,600,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128617,1.417424
+192290003W-600A,600A,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128500,1.418706
+192290003W-6037,6037,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129105,1.415274
+192290003W-629,629,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128821,1.415566
+192290003W-639,639,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.128933,1.415540
+192290003W-669,669,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129233,1.415469
+192290003W-694,694,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129398,1.415547
+192290003W-709,709,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129536,1.415165
+192290003W-720,720,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129728,1.416400
+192290003W-725,725,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129671,1.415365
+192290003W-730,730,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129677,1.414951
+192290003W-743,743,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129870,1.414905
+192290003W-753,753,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.129870,1.414918
+192290003W-760,760,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130072,1.415402
+192290003W-779,779,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130208,1.415234
+192290003W-780,780,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130222,1.415367
+192290003W-802,802,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130379,1.415330
+192290003W-809,809,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130425,1.415183
+192290003W-822,822,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130552,1.415289
+192290003W-839,839,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130694,1.415121
+192290003W-85,85,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.124110,1.416474
+192290003W-872,872,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130951,1.415286
+192290003W-873,873,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.130999,1.415055
+192290003W-895,895,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131201,1.415010
+192290003W-896,896,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131197,1.415107
+192290003W-913,913,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131359,1.414980
+192290003W-914,914,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131366,1.415107
+192290003W-931,931,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131589,1.414957
+192290003W-934,934,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131526,1.415105
+192290003W-941,941,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131748,1.414968
+192290003W-945,945,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131637,1.415111
+192290003W-960,960,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131779,1.415114
+192290003W-975,975,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.131928,1.415010
+192290003W-995,995,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.132132,1.415054
+192290003W-998,998,Avenue Alexis Jaubert,19600,Saint-Pantaléon-de-Larche,C+O,45.132149,1.415177
+192290004X-6020,6020,Impasse Auguste Marchand,19600,Saint-Pantaléon-de-Larche,C+O,45.127141,1.421665
+192290005Y-110,110,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145662,1.467631
+192290005Y-115,115,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145682,1.467863
+192290005Y-132,132,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145486,1.467632
+192290005Y-135,135,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145480,1.467882
+192290005Y-150,150,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145241,1.467565
+192290005Y-151,151,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145362,1.467897
+192290005Y-169,169,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145220,1.468029
+192290005Y-173,173,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.144907,1.467890
+192290005Y-177,177,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.144864,1.467765
+192290005Y-181,181,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.144963,1.467491
+192290005Y-19,19,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145993,1.466907
+192290005Y-195,195,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.144813,1.467190
+192290005Y-204,204,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145289,1.467222
+192290005Y-211,211,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.144955,1.467167
+192290005Y-220,220,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145312,1.467031
+192290005Y-237,237,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.144990,1.466852
+192290005Y-240,240,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145241,1.466797
+192290005Y-43,43,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145972,1.467156
+192290005Y-59,59,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145951,1.467397
+192290005Y-6141,6141,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.144990,1.466869
+192290005Y-62,62,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145873,1.467347
+192290005Y-75,75,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145939,1.467529
+192290005Y-85,85,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145924,1.467714
+192290005Y-97,97,Rue Aragon,19600,Saint-Pantaléon-de-Larche,C+O,45.145843,1.467854
 192290006Z-106,106,Avenue Auguste Marchand,19600,Saint-Pantaléon-de-Larche,C+O,45.129015,1.422965
 192290006Z-136,136,Avenue Auguste Marchand,19600,Saint-Pantaléon-de-Larche,C+O,45.128970,1.422732
 192290006Z-150,150,Avenue Auguste Marchand,19600,Saint-Pantaléon-de-Larche,C+O,45.129054,1.422035
@@ -31766,50 +31766,50 @@
 192290006Z-90A,90A,Avenue Auguste Marchand,19600,Saint-Pantaléon-de-Larche,C+O,45.129760,1.423036
 192290006Z-90B,90B,Avenue Auguste Marchand,19600,Saint-Pantaléon-de-Larche,C+O,45.129284,1.422359
 192290006Z-9,9,Avenue Auguste Marchand,19600,Saint-Pantaléon-de-Larche,C+O,45.129018,1.424230
-192290007A-29,29,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144612,1.442619
-192290007A-30,30,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144667,1.442519
-192290007A-44,44,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144489,1.442445
-192290007A-59,59,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144388,1.442775
-192290007A-62,62,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144332,1.442476
-192290007A-79,79,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144207,1.442608
-192290007A-80,80,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,CAD,45.144207,1.442465
+192290007A-29,29,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,C+O,45.144612,1.442619
+192290007A-30,30,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,C+O,45.144667,1.442519
+192290007A-44,44,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,C+O,45.144489,1.442445
+192290007A-59,59,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,C+O,45.144388,1.442775
+192290007A-62,62,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,C+O,45.144332,1.442476
+192290007A-79,79,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,C+O,45.144207,1.442608
+192290007A-80,80,Impasse de l'Auzelou,19600,Saint-Pantaléon-de-Larche,C+O,45.144207,1.442465
 192290008B-125,125,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.131881,1.409116
 192290008B-6195,6195,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.132613,1.409681
 192290008B-6369,6369,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.132238,1.408976
 192290008B-75,75,Impasse de la Barre,19600,Saint-Pantaléon-de-Larche,C+O,45.131551,1.409107
-192290010D-129,129,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131118,1.404098
-192290010D-145,145,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.130995,1.403981
-192290010D-155,155,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.130765,1.404012
-192290010D-165,165,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131042,1.403528
-192290010D-195,195,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131110,1.403134
-192290010D-226,226,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131092,1.402664
-192290010D-300,300,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131350,1.401915
-192290010D-340,340,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131343,1.401386
-192290010D-345,345,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.129772,1.406569
-192290010D-375,375,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.130316,1.400538
-192290010D-425,425,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.130921,1.399933
-192290010D-480,480,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131206,1.399542
-192290010D-482,482,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,CAD,45.131031,1.399380
-192290011E-119,119,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137133,1.450886
-192290011E-154,154,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137103,1.451356
-192290011E-157,157,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137219,1.451296
-192290011E-181,181,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137289,1.451642
-192290011E-207,207,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137136,1.451894
-192290011E-237,237,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137045,1.452527
-192290011E-240,240,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.136693,1.451869
-192290011E-261,261,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.136598,1.452161
-192290011E-27,27,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137065,1.449870
-192290011E-276,276,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.136363,1.451953
-192290011E-348,348,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.135927,1.452444
-192290011E-363,363,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.136228,1.453737
-192290011E-376,376,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.135611,1.452381
-192290011E-403,403,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.135658,1.453057
-192290011E-408,408,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.135347,1.452590
-192290011E-50A,50A,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.136809,1.449883
-192290011E-50B,50B,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.136428,1.450077
-192290011E-6412,6412,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.135065,1.452107
-192290011E-79,79,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.137074,1.450426
-192290011E-96,96,Allée des Biches,19600,Saint-Pantaléon-de-Larche,CAD,45.136995,1.450645
+192290010D-129,129,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131118,1.404098
+192290010D-145,145,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.130995,1.403981
+192290010D-155,155,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.130765,1.404012
+192290010D-165,165,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131042,1.403528
+192290010D-195,195,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131110,1.403134
+192290010D-226,226,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131092,1.402664
+192290010D-300,300,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131350,1.401915
+192290010D-340,340,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131343,1.401386
+192290010D-345,345,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.129772,1.406569
+192290010D-375,375,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.130316,1.400538
+192290010D-425,425,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.130921,1.399933
+192290010D-480,480,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131206,1.399542
+192290010D-482,482,Rue de la Belotte,19600,Saint-Pantaléon-de-Larche,C+O,45.131031,1.399380
+192290011E-119,119,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137133,1.450886
+192290011E-154,154,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137103,1.451356
+192290011E-157,157,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137219,1.451296
+192290011E-181,181,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137289,1.451642
+192290011E-207,207,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137136,1.451894
+192290011E-237,237,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137045,1.452527
+192290011E-240,240,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.136693,1.451869
+192290011E-261,261,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.136598,1.452161
+192290011E-27,27,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137065,1.449870
+192290011E-276,276,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.136363,1.451953
+192290011E-348,348,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.135927,1.452444
+192290011E-363,363,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.136228,1.453737
+192290011E-376,376,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.135611,1.452381
+192290011E-403,403,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.135658,1.453057
+192290011E-408,408,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.135347,1.452590
+192290011E-50A,50A,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.136809,1.449883
+192290011E-50B,50B,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.136428,1.450077
+192290011E-6412,6412,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.135065,1.452107
+192290011E-79,79,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.137074,1.450426
+192290011E-96,96,Allée des Biches,19600,Saint-Pantaléon-de-Larche,C+O,45.136995,1.450645
 192290015J-23,23,Rue Blériot,19600,Saint-Pantaléon-de-Larche,CAD,45.144433,1.459651
 192290015J-35A,35A,Rue Blériot,19600,Saint-Pantaléon-de-Larche,CAD,45.144773,1.459878
 192290015J-35B,35B,Rue Blériot,19600,Saint-Pantaléon-de-Larche,CAD,45.144758,1.460025
@@ -31818,25 +31818,25 @@
 192290015J-67,67,Rue Blériot,19600,Saint-Pantaléon-de-Larche,CAD,45.144290,1.459767
 192290015J-79,79,Rue Blériot,19600,Saint-Pantaléon-de-Larche,CAD,45.144160,1.459559
 192290015J-93,93,Rue Blériot,19600,Saint-Pantaléon-de-Larche,CAD,45.144055,1.459774
-192290018M-55,55,Rue du Bois,19600,Saint-Pantaléon-de-Larche,CAD,45.151567,1.460017
-192290020P-171,171,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.138933,1.462313
-192290020P-201,201,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.138600,1.462022
-192290020P-21,21,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.140267,1.463191
-192290020P-24,24,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.140216,1.462618
-192290020P-268,268,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.138941,1.461068
-192290020P-295,295,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.138690,1.460568
-192290020P-50,50,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139997,1.462650
-192290020P-51,51,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139908,1.463096
-192290020P-70,70,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139859,1.462540
-192290020P-91,91,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139527,1.462908
-192290020P-92,92,Rue des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139636,1.462487
-192290021R-38,38,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139417,1.463191
-192290021R-39,39,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139941,1.463367
-192290021R-55,55,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139942,1.463602
-192290021R-56,56,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139441,1.463441
-192290021R-63,63,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139721,1.463714
-192290021R-65,65,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139622,1.463988
-192290021R-66,66,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,CAD,45.139419,1.463829
+192290018M-55,55,Rue du Bois,19600,Saint-Pantaléon-de-Larche,C+O,45.151567,1.460017
+192290020P-171,171,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.138933,1.462313
+192290020P-201,201,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.138600,1.462022
+192290020P-21,21,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.140267,1.463191
+192290020P-24,24,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.140216,1.462618
+192290020P-268,268,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.138941,1.461068
+192290020P-295,295,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.138690,1.460568
+192290020P-50,50,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139997,1.462650
+192290020P-51,51,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139908,1.463096
+192290020P-70,70,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139859,1.462540
+192290020P-91,91,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139527,1.462908
+192290020P-92,92,Rue des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139636,1.462487
+192290021R-38,38,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139417,1.463191
+192290021R-39,39,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139941,1.463367
+192290021R-55,55,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139942,1.463602
+192290021R-56,56,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139441,1.463441
+192290021R-63,63,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139721,1.463714
+192290021R-65,65,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139622,1.463988
+192290021R-66,66,Impasse des Champs,19600,Saint-Pantaléon-de-Larche,C+O,45.139419,1.463829
 192290022S-10,10,Rue du Champ du Roc,19600,Saint-Pantaléon-de-Larche,CAD,45.146620,1.460207
 192290022S-205,205,Rue du Champ du Roc,19600,Saint-Pantaléon-de-Larche,CAD,45.144846,1.459604
 192290022S-215,215,Rue du Champ du Roc,19600,Saint-Pantaléon-de-Larche,CAD,45.144840,1.459459
@@ -31882,62 +31882,62 @@
 192290023T-362,362,Rue Charles Beaudelaire,19600,Saint-Pantaléon-de-Larche,CAD,45.144323,1.466214
 192290023T-367,367,Rue Charles Beaudelaire,19600,Saint-Pantaléon-de-Larche,CAD,45.144279,1.466738
 192290023T-65,65,Rue Charles Beaudelaire,19600,Saint-Pantaléon-de-Larche,CAD,45.146896,1.466329
-192290025V-10,10,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.142958,1.444306
-192290025V-1,1,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.141880,1.445126
-192290025V-23,23,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143113,1.444071
-192290025V-30,30,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143145,1.444300
-192290025V-46,46,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143303,1.444352
-192290025V-47,47,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143288,1.444217
-192290025V-63,63,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143439,1.444267
-192290025V-70,70,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143429,1.444394
-192290025V-79,79,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143637,1.444271
-192290025V-82,82,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143619,1.444548
-192290025V-88,88,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,CAD,45.143705,1.444441
-192290027X-115,115,Rue de la Clairiere,19600,Saint-Pantaléon-de-Larche,CAD,45.138743,1.460032
-192290027X-135,135,Rue de la Clairiere,19600,Saint-Pantaléon-de-Larche,CAD,45.138503,1.459932
-192290027X-91,91,Rue de la Clairiere,19600,Saint-Pantaléon-de-Larche,CAD,45.138931,1.460124
-192290030A-11,11,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.144099,1.459015
-192290030A-119,119,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143203,1.459445
-192290030A-137,137,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143101,1.459527
-192290030A-187,187,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.142675,1.459871
-192290030A-205,205,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.142596,1.459964
-192290030A-206,206,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.142509,1.459656
-192290030A-21,21,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.144025,1.459233
-192290030A-28,28,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143985,1.458807
-192290030A-38,38,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143873,1.458815
-192290030A-58,58,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143714,1.458784
-192290030A-6076,6076,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.142889,1.459337
-192290030A-6105,6105,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143356,1.459112
-192290030A-6125,6125,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143047,1.459141
-192290030A-6198,6198,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143171,1.459675
-192290030A-64,64,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143688,1.459166
-192290030A-65,65,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143725,1.459058
-192290030A-76,76,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143574,1.458791
-192290030A-84B,84BIS,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143204,1.458464
-192290030A-85,85,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,CAD,45.143504,1.459181
-192290033D-111,111,Rue Colette,19600,Saint-Pantaléon-de-Larche,CAD,45.145248,1.464492
-192290033D-13,13,Rue Colette,19600,Saint-Pantaléon-de-Larche,CAD,45.144319,1.465247
-192290033D-187,187,Rue Colette,19600,Saint-Pantaléon-de-Larche,CAD,45.145833,1.464092
-192290033D-30,30,Rue Colette,19600,Saint-Pantaléon-de-Larche,CAD,45.144429,1.465523
-192290033D-37,37,Rue Colette,19600,Saint-Pantaléon-de-Larche,CAD,45.144512,1.465263
-192290033D-46,46,Rue Colette,19600,Saint-Pantaléon-de-Larche,CAD,45.144575,1.465517
-192290033D-64,64,Rue Colette,19600,Saint-Pantaléon-de-Larche,CAD,45.144775,1.465435
-192290036G-160,160,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.140262,1.441253
-192290036G-160B,160BIS,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.140609,1.440432
-192290036G-264,264,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.139614,1.440261
-192290036G-290,290,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.139286,1.440125
-192290036G-338,338,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.139063,1.439827
-192290036G-38,38,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.141107,1.442239
-192290036G-46,46,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.141000,1.442100
-192290036G-66,66,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.140904,1.441973
-192290036G-83,83,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.140724,1.442128
-192290036G-98,98,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,CAD,45.140715,1.441754
-192290037H-219,219,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,CAD,45.138226,1.455723
-192290037H-257,257,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,CAD,45.138415,1.455163
-192290037H-291,291,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,CAD,45.138332,1.454741
-192290037H-374,374,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,CAD,45.137468,1.454259
-192290037H-385,385,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,CAD,45.137984,1.454116
-192290037H-423,423,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,CAD,45.137575,1.454563
+192290025V-10,10,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.142958,1.444306
+192290025V-1,1,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.141880,1.445126
+192290025V-23,23,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143113,1.444071
+192290025V-30,30,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143145,1.444300
+192290025V-46,46,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143303,1.444352
+192290025V-47,47,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143288,1.444217
+192290025V-63,63,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143439,1.444267
+192290025V-70,70,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143429,1.444394
+192290025V-79,79,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143637,1.444271
+192290025V-82,82,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143619,1.444548
+192290025V-88,88,Allée des Chênes,19600,Saint-Pantaléon-de-Larche,C+O,45.143705,1.444441
+192290027X-115,115,Rue de la Clairiere,19600,Saint-Pantaléon-de-Larche,C+O,45.138743,1.460032
+192290027X-135,135,Rue de la Clairiere,19600,Saint-Pantaléon-de-Larche,C+O,45.138503,1.459932
+192290027X-91,91,Rue de la Clairiere,19600,Saint-Pantaléon-de-Larche,C+O,45.138931,1.460124
+192290030A-11,11,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.144099,1.459015
+192290030A-119,119,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143203,1.459445
+192290030A-137,137,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143101,1.459527
+192290030A-187,187,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.142675,1.459871
+192290030A-205,205,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.142596,1.459964
+192290030A-206,206,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.142509,1.459656
+192290030A-21,21,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.144025,1.459233
+192290030A-28,28,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143985,1.458807
+192290030A-38,38,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143873,1.458815
+192290030A-58,58,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143714,1.458784
+192290030A-6076,6076,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.142889,1.459337
+192290030A-6105,6105,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143356,1.459112
+192290030A-6125,6125,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143047,1.459141
+192290030A-6198,6198,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143171,1.459675
+192290030A-64,64,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143688,1.459166
+192290030A-65,65,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143725,1.459058
+192290030A-76,76,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143574,1.458791
+192290030A-84B,84BIS,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143204,1.458464
+192290030A-85,85,Rue Claude Monet,19600,Saint-Pantaléon-de-Larche,C+O,45.143504,1.459181
+192290033D-111,111,Rue Colette,19600,Saint-Pantaléon-de-Larche,C+O,45.145248,1.464492
+192290033D-13,13,Rue Colette,19600,Saint-Pantaléon-de-Larche,C+O,45.144319,1.465247
+192290033D-187,187,Rue Colette,19600,Saint-Pantaléon-de-Larche,C+O,45.145833,1.464092
+192290033D-30,30,Rue Colette,19600,Saint-Pantaléon-de-Larche,C+O,45.144429,1.465523
+192290033D-37,37,Rue Colette,19600,Saint-Pantaléon-de-Larche,C+O,45.144512,1.465263
+192290033D-46,46,Rue Colette,19600,Saint-Pantaléon-de-Larche,C+O,45.144575,1.465517
+192290033D-64,64,Rue Colette,19600,Saint-Pantaléon-de-Larche,C+O,45.144775,1.465435
+192290036G-160,160,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.140262,1.441253
+192290036G-160B,160BIS,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.140609,1.440432
+192290036G-264,264,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.139614,1.440261
+192290036G-290,290,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.139286,1.440125
+192290036G-338,338,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.139063,1.439827
+192290036G-38,38,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.141107,1.442239
+192290036G-46,46,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.141000,1.442100
+192290036G-66,66,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.140904,1.441973
+192290036G-83,83,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.140724,1.442128
+192290036G-98,98,Avenue du Colombier,19600,Saint-Pantaléon-de-Larche,C+O,45.140715,1.441754
+192290037H-219,219,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,C+O,45.138226,1.455723
+192290037H-257,257,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,C+O,45.138415,1.455163
+192290037H-291,291,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,C+O,45.138332,1.454741
+192290037H-374,374,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,C+O,45.137468,1.454259
+192290037H-385,385,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,C+O,45.137984,1.454116
+192290037H-423,423,Rue du Combeix,19600,Saint-Pantaléon-de-Larche,C+O,45.137575,1.454563
 192290039K-19,19,Place Couloumy,19600,Saint-Pantaléon-de-Larche,CAD,45.140927,1.446715
 192290039K-25A,25A,Place Couloumy,19600,Saint-Pantaléon-de-Larche,CAD,45.141099,1.446567
 192290039K-25B,25B,Place Couloumy,19600,Saint-Pantaléon-de-Larche,CAD,45.141084,1.446712
@@ -31984,23 +31984,23 @@
 192290042N-900,900,Rue de Cramier,19600,Saint-Pantaléon-de-Larche,C+O,45.131981,1.406888
 192290042N-93,93,Rue de Cramier,19600,Saint-Pantaléon-de-Larche,C+O,45.127310,1.415087
 192290042N-951,951,Rue de Cramier,19600,Saint-Pantaléon-de-Larche,C+O,45.131559,1.405951
-192290048V-219,219,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142280,1.445450
-192290048V-228,228,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142457,1.445364
-192290048V-256,256,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142510,1.445052
-192290048V-272,272,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142388,1.444942
-192290048V-273,273,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142279,1.445036
-192290048V-332,332,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142424,1.444514
-192290048V-333,333,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142336,1.444410
-192290048V-353,353,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142422,1.444218
-192290048V-367A,367A,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142241,1.443823
-192290048V-367B,367B,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142342,1.443814
-192290048V-368,368,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142518,1.444311
-192290048V-371,371,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142508,1.443957
-192290048V-402,402,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142781,1.444253
-192290048V-407,407,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142692,1.444017
-192290048V-445,445,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.142906,1.443697
-192290048V-446,446,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,CAD,45.143019,1.443733
-192290050X-6264,6264,Place du Docteur Bluson,19600,Saint-Pantaléon-de-Larche,CAD,45.140161,1.445116
+192290048V-219,219,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142280,1.445450
+192290048V-228,228,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142457,1.445364
+192290048V-256,256,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142510,1.445052
+192290048V-272,272,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142388,1.444942
+192290048V-273,273,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142279,1.445036
+192290048V-332,332,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142424,1.444514
+192290048V-333,333,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142336,1.444410
+192290048V-353,353,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142422,1.444218
+192290048V-367A,367A,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142241,1.443823
+192290048V-367B,367B,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142342,1.443814
+192290048V-368,368,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142518,1.444311
+192290048V-371,371,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142508,1.443957
+192290048V-402,402,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142781,1.444253
+192290048V-407,407,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142692,1.444017
+192290048V-445,445,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.142906,1.443697
+192290048V-446,446,Rue du 19 Mars 1962,19600,Saint-Pantaléon-de-Larche,C+O,45.143019,1.443733
+192290050X-6264,6264,Place du Docteur Bluson,19600,Saint-Pantaléon-de-Larche,C+O,45.140161,1.445116
 192290052Z-116,116,Rue des Écoles,19600,Saint-Pantaléon-de-Larche,C+O,45.128394,1.419928
 192290052Z-136,136,Rue des Écoles,19600,Saint-Pantaléon-de-Larche,C+O,45.128620,1.420047
 192290052Z-190,190,Rue des Écoles,19600,Saint-Pantaléon-de-Larche,C+O,45.128973,1.419869
@@ -32013,155 +32013,155 @@
 192290052Z-6112,6112,Rue des Écoles,19600,Saint-Pantaléon-de-Larche,C+O,45.128116,1.418961
 192290052Z-6120,6120,Rue des Écoles,19600,Saint-Pantaléon-de-Larche,C+O,45.127914,1.418939
 192290052Z-6256,6256,Rue des Écoles,19600,Saint-Pantaléon-de-Larche,C+O,45.128087,1.419828
-192290053A-20,20,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146589,1.458369
-192290053A-33,33,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146742,1.458024
-192290053A-48,48,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146796,1.458672
-192290053A-51,51,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146988,1.458094
-192290053A-60,60,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.147012,1.458386
-192290053A-9,9,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146561,1.457943
-192290054B-111,111,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146249,1.458381
-192290054B-138,138,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146378,1.457834
-192290054B-158,158,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146255,1.457718
-192290054B-165,165,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146061,1.458205
-192290054B-176,176,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146032,1.457656
-192290054B-187,187,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.145848,1.458138
-192290054B-198,198,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.145812,1.457556
-192290054B-207,207,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.145717,1.458094
-192290054B-233,233,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.145456,1.457777
-192290054B-24,24,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146579,1.459408
-192290054B-312,312,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.144757,1.457344
-192290054B-381,381,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.144310,1.458573
-192290054B-57,57,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146226,1.459044
-192290054B-6251,6251,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.147012,1.458408
-192290054B-62,62,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146568,1.458983
-192290054B-83,83,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146261,1.458654
-192290054B-94,94,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,CAD,45.146545,1.458649
-192290056D-23,23,Rue de l'Église,19600,Saint-Pantaléon-de-Larche,CAD,45.140708,1.446865
-192290056D-8,8,Rue de l'Église,19600,Saint-Pantaléon-de-Larche,CAD,45.140453,1.447127
-192290059G-112,112,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142312,1.443141
-192290059G-125,125,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142402,1.443009
-192290059G-132,132,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142464,1.443193
-192290059G-149,149,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142619,1.443085
-192290059G-150,150,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142586,1.443461
-192290059G-15,15,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.141545,1.442493
-192290059G-170,170,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142807,1.443308
-192290059G-175,175,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142823,1.443153
-192290059G-185A,185A,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143043,1.442531
-192290059G-185B,185B,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143251,1.441960
-192290059G-218,218,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143218,1.443436
-192290059G-238,238,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143404,1.443499
-192290059G-251,251,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143616,1.443250
-192290059G-258,258,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143571,1.443556
-192290059G-278,278,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143758,1.443643
-192290059G-279,279,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143895,1.443407
-192290059G-296,296,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143897,1.443719
-192290059G-311,311,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.144152,1.443530
-192290059G-316,316,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.144094,1.443831
-192290059G-6154,6154,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.141897,1.442652
-192290059G-6431,6431,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.143677,1.442694
-192290059G-73,73,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142053,1.442794
-192290059G-96,96,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,CAD,45.142169,1.443095
-192290061J-595,595,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,CAD,45.148006,1.455628
-192290061J-611,611,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,CAD,45.148297,1.455233
-192290061J-643,643,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,CAD,45.148352,1.455890
-192290061J-662,662,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,CAD,45.148493,1.456126
-192290061J-701,701,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,CAD,45.148886,1.456275
-192290061J-717,717,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,CAD,45.148988,1.456342
-192290061J-767,767,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,CAD,45.149381,1.456597
-192290064M-109,109,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144030,1.460261
-192290064M-112,112,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144129,1.460240
-192290064M-125,125,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.143936,1.460120
-192290064M-126,126,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144090,1.460085
-192290064M-141,141,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.143713,1.460077
-192290064M-155,155,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.143909,1.459762
-192290064M-171,171,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.143860,1.459562
-192290064M-186,186,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.143826,1.459392
-192290064M-28,28,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144382,1.461197
-192290064M-32C,32C,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.143907,1.460856
-192290064M-40,40,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144258,1.461043
-192290064M-44,44,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144344,1.461056
-192290064M-57,57,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144217,1.460890
-192290064M-58,58,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144295,1.460869
-192290064M-75,75,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144137,1.460666
-192290064M-84,84,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144203,1.460519
-192290064M-98,98,Rue George Sand,19600,Saint-Pantaléon-de-Larche,CAD,45.144167,1.460384
-192290066P-240,240,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,CAD,45.152865,1.463904
-192290066P-6208,6208,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,CAD,45.153189,1.463348
-192290066P-6242,6242,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,CAD,45.153760,1.462511
-192290066P-75,75,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,CAD,45.154427,1.462330
-192290068S-11,11,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,CAD,45.141501,1.441723
-192290068S-29,29,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,CAD,45.141403,1.441594
-192290068S-38,38,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,CAD,45.141404,1.441444
-192290068S-47,47,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,CAD,45.141302,1.441460
-192290068S-56,56,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,CAD,45.141274,1.441270
-192290068S-65,65,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,CAD,45.141154,1.441265
-192290068S-74,74,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,CAD,45.141173,1.441048
-192290069T-1024,1024,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133750,1.403475
-192290069T-1054,1054,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133869,1.403063
-192290069T-1074,1074,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133898,1.402787
-192290069T-1110,1110,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133929,1.402495
-192290069T-1134,1134,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133905,1.401895
-192290069T-129,129,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.134234,1.414273
-192290069T-155,155,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.134274,1.414019
-192290069T-198,198,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.134706,1.413502
-192290069T-210,210,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.134967,1.413244
-192290069T-210A,210A,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.135269,1.413526
-192290069T-210B,210B,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.135641,1.413365
-192290069T-277,277,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.134267,1.412504
-192290069T-341,341,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133438,1.412100
-192290069T-371,371,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133428,1.411701
-192290069T-61,61,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.134596,1.415170
-192290069T-990,990,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.133928,1.403998
-192290069T-99,99,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,CAD,45.134232,1.414623
-192290072W-100,100,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130005,1.416688
-192290072W-120,120,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130018,1.417001
-192290072W-121,121,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130343,1.416768
-192290072W-140,140,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130067,1.417249
-192290072W-141,141,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130401,1.417061
-192290072W-160,160,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130172,1.417433
-192290072W-181,181,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130445,1.417297
-192290072W-190,190,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130512,1.417700
-192290072W-210,210,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130728,1.417688
-192290072W-220,220,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130792,1.417395
-192290072W-231,231,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130708,1.417190
-192290072W-240,240,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130944,1.417198
-192290072W-257,257,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130908,1.416687
-192290072W-264,264,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131144,1.417315
-192290072W-264B,264B,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131392,1.417329
-192290072W-264C,264C,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131446,1.417116
-192290072W-264D,264D,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131321,1.416754
-192290072W-286,286,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131062,1.416625
-192290072W-308A,308A,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131145,1.416354
-192290072W-308B,308B,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131221,1.416104
-192290072W-308C,308C,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131377,1.415947
-192290072W-308D,308D,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.131000,1.416047
-192290072W-308E,308E,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130921,1.416405
-192290072W-309,309,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130994,1.415897
-192290072W-325,325,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130633,1.416658
-192290072W-342,342,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130650,1.416237
-192290072W-362,362,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130519,1.415990
-192290072W-382,382,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130221,1.415992
-192290072W-40,40,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.129819,1.415894
-192290072W-60,60,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130019,1.416032
-192290072W-80,80,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130098,1.416269
-192290072W-93,93,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,CAD,45.130347,1.416448
-192290073X-346,346,Rue Jean Jaures,19600,Saint-Pantaléon-de-Larche,CAD,45.143632,1.466049
-192290073X-356,356,Rue Jean Jaures,19600,Saint-Pantaléon-de-Larche,CAD,45.143717,1.466365
-192290076A-105,105,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144782,1.464264
-192290076A-123,123,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144773,1.464477
-192290076A-126,126,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144681,1.464446
-192290076A-141,141,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144762,1.464724
-192290076A-142,142,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144692,1.464680
-192290076A-158,158,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144663,1.464929
-192290076A-161,161,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144753,1.464939
-192290076A-22,22,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144231,1.463998
-192290076A-27,27,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144156,1.463673
-192290076A-47,47,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144325,1.463901
-192290076A-52,52,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144317,1.464331
-192290076A-65,65,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144483,1.463835
-192290076A-80,80,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144618,1.464237
-192290076A-83,83,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144635,1.464041
-192290076A-95,95,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,CAD,45.144791,1.464055
+192290053A-20,20,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146589,1.458369
+192290053A-33,33,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146742,1.458024
+192290053A-48,48,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146796,1.458672
+192290053A-51,51,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146988,1.458094
+192290053A-60,60,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.147012,1.458386
+192290053A-9,9,Impasse Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146561,1.457943
+192290054B-111,111,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146249,1.458381
+192290054B-138,138,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146378,1.457834
+192290054B-158,158,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146255,1.457718
+192290054B-165,165,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146061,1.458205
+192290054B-176,176,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146032,1.457656
+192290054B-187,187,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.145848,1.458138
+192290054B-198,198,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.145812,1.457556
+192290054B-207,207,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.145717,1.458094
+192290054B-233,233,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.145456,1.457777
+192290054B-24,24,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146579,1.459408
+192290054B-312,312,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.144757,1.457344
+192290054B-381,381,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.144310,1.458573
+192290054B-57,57,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146226,1.459044
+192290054B-6251,6251,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.147012,1.458408
+192290054B-62,62,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146568,1.458983
+192290054B-83,83,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146261,1.458654
+192290054B-94,94,Rue Edmond Michelet,19600,Saint-Pantaléon-de-Larche,C+O,45.146545,1.458649
+192290056D-23,23,Rue de l'Eglise,19600,Saint-Pantaléon-de-Larche,C+O,45.140708,1.446865
+192290056D-8,8,Rue de l'Eglise,19600,Saint-Pantaléon-de-Larche,C+O,45.140453,1.447127
+192290059G-112,112,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142312,1.443141
+192290059G-125,125,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142402,1.443009
+192290059G-132,132,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142464,1.443193
+192290059G-149,149,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142619,1.443085
+192290059G-150,150,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142586,1.443461
+192290059G-15,15,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.141545,1.442493
+192290059G-170,170,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142807,1.443308
+192290059G-175,175,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142823,1.443153
+192290059G-185A,185A,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143043,1.442531
+192290059G-185B,185B,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143251,1.441960
+192290059G-218,218,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143218,1.443436
+192290059G-238,238,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143404,1.443499
+192290059G-251,251,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143616,1.443250
+192290059G-258,258,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143571,1.443556
+192290059G-278,278,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143758,1.443643
+192290059G-279,279,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143895,1.443407
+192290059G-296,296,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143897,1.443719
+192290059G-311,311,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.144152,1.443530
+192290059G-316,316,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.144094,1.443831
+192290059G-6154,6154,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.141897,1.442652
+192290059G-6431,6431,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.143677,1.442694
+192290059G-73,73,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142053,1.442794
+192290059G-96,96,Avenue des Escures,19600,Saint-Pantaléon-de-Larche,C+O,45.142169,1.443095
+192290061J-595,595,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,C+O,45.148006,1.455628
+192290061J-611,611,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,C+O,45.148297,1.455233
+192290061J-643,643,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,C+O,45.148352,1.455890
+192290061J-662,662,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,C+O,45.148493,1.456126
+192290061J-701,701,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,C+O,45.148886,1.456275
+192290061J-717,717,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,C+O,45.148988,1.456342
+192290061J-767,767,Rue de la Fontaine,19600,Saint-Pantaléon-de-Larche,C+O,45.149381,1.456597
+192290064M-109,109,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144030,1.460261
+192290064M-112,112,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144129,1.460240
+192290064M-125,125,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.143936,1.460120
+192290064M-126,126,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144090,1.460085
+192290064M-141,141,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.143713,1.460077
+192290064M-155,155,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.143909,1.459762
+192290064M-171,171,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.143860,1.459562
+192290064M-186,186,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.143826,1.459392
+192290064M-28,28,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144382,1.461197
+192290064M-32C,32C,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.143907,1.460856
+192290064M-40,40,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144258,1.461043
+192290064M-44,44,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144344,1.461056
+192290064M-57,57,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144217,1.460890
+192290064M-58,58,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144295,1.460869
+192290064M-75,75,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144137,1.460666
+192290064M-84,84,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144203,1.460519
+192290064M-98,98,Rue George Sand,19600,Saint-Pantaléon-de-Larche,C+O,45.144167,1.460384
+192290066P-240,240,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,C+O,45.152865,1.463904
+192290066P-6208,6208,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,C+O,45.153189,1.463348
+192290066P-6242,6242,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,C+O,45.153760,1.462511
+192290066P-75,75,Rue du Grand Prat,19600,Saint-Pantaléon-de-Larche,C+O,45.154427,1.462330
+192290068S-11,11,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,C+O,45.141501,1.441723
+192290068S-29,29,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,C+O,45.141403,1.441594
+192290068S-38,38,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,C+O,45.141404,1.441444
+192290068S-47,47,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,C+O,45.141302,1.441460
+192290068S-56,56,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,C+O,45.141274,1.441270
+192290068S-65,65,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,C+O,45.141154,1.441265
+192290068S-74,74,Rue Gustave Courbet,19600,Saint-Pantaléon-de-Larche,C+O,45.141173,1.441048
+192290069T-1024,1024,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133750,1.403475
+192290069T-1054,1054,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133869,1.403063
+192290069T-1074,1074,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133898,1.402787
+192290069T-1110,1110,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133929,1.402495
+192290069T-1134,1134,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133905,1.401895
+192290069T-129,129,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.134234,1.414273
+192290069T-155,155,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.134274,1.414019
+192290069T-198,198,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.134706,1.413502
+192290069T-210,210,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.134967,1.413244
+192290069T-210A,210A,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.135269,1.413526
+192290069T-210B,210B,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.135641,1.413365
+192290069T-277,277,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.134267,1.412504
+192290069T-341,341,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133438,1.412100
+192290069T-371,371,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133428,1.411701
+192290069T-61,61,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.134596,1.415170
+192290069T-990,990,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.133928,1.403998
+192290069T-99,99,Rue Henri Maniere,19600,Saint-Pantaléon-de-Larche,C+O,45.134232,1.414623
+192290072W-100,100,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130005,1.416688
+192290072W-120,120,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130018,1.417001
+192290072W-121,121,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130343,1.416768
+192290072W-140,140,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130067,1.417249
+192290072W-141,141,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130401,1.417061
+192290072W-160,160,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130172,1.417433
+192290072W-181,181,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130445,1.417297
+192290072W-190,190,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130512,1.417700
+192290072W-210,210,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130728,1.417688
+192290072W-220,220,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130792,1.417395
+192290072W-231,231,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130708,1.417190
+192290072W-240,240,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130944,1.417198
+192290072W-257,257,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130908,1.416687
+192290072W-264,264,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131144,1.417315
+192290072W-264B,264B,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131392,1.417329
+192290072W-264C,264C,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131446,1.417116
+192290072W-264D,264D,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131321,1.416754
+192290072W-286,286,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131062,1.416625
+192290072W-308A,308A,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131145,1.416354
+192290072W-308B,308B,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131221,1.416104
+192290072W-308C,308C,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131377,1.415947
+192290072W-308D,308D,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.131000,1.416047
+192290072W-308E,308E,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130921,1.416405
+192290072W-309,309,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130994,1.415897
+192290072W-325,325,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130633,1.416658
+192290072W-342,342,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130650,1.416237
+192290072W-362,362,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130519,1.415990
+192290072W-382,382,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130221,1.415992
+192290072W-40,40,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.129819,1.415894
+192290072W-60,60,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130019,1.416032
+192290072W-80,80,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130098,1.416269
+192290072W-93,93,Rue du 8 Mai 1945,19600,Saint-Pantaléon-de-Larche,C+O,45.130347,1.416448
+192290073X-346,346,Rue Jean Jaures,19600,Saint-Pantaléon-de-Larche,C+O,45.143632,1.466049
+192290073X-356,356,Rue Jean Jaures,19600,Saint-Pantaléon-de-Larche,C+O,45.143717,1.466365
+192290076A-105,105,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144782,1.464264
+192290076A-123,123,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144773,1.464477
+192290076A-126,126,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144681,1.464446
+192290076A-141,141,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144762,1.464724
+192290076A-142,142,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144692,1.464680
+192290076A-158,158,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144663,1.464929
+192290076A-161,161,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144753,1.464939
+192290076A-22,22,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144231,1.463998
+192290076A-27,27,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144156,1.463673
+192290076A-47,47,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144325,1.463901
+192290076A-52,52,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144317,1.464331
+192290076A-65,65,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144483,1.463835
+192290076A-80,80,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144618,1.464237
+192290076A-83,83,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144635,1.464041
+192290076A-95,95,Rue Jean Segurel,19600,Saint-Pantaléon-de-Larche,C+O,45.144791,1.464055
 192290079D-116,116,Rue J B Corot,19600,Saint-Pantaléon-de-Larche,CAD,45.127339,1.413176
 192290079D-157,157,Rue J B Corot,19600,Saint-Pantaléon-de-Larche,CAD,45.126962,1.413105
 192290079D-162,162,Rue J B Corot,19600,Saint-Pantaléon-de-Larche,CAD,45.126994,1.412948
@@ -32287,39 +32287,39 @@
 192290082G-98,98,Avenue J B Galandy,19600,Saint-Pantaléon-de-Larche,CAD,45.148532,1.466062
 192290082G-99,99,Avenue J B Galandy,19600,Saint-Pantaléon-de-Larche,CAD,45.148703,1.467430
 192290082G-9,9,Avenue J B Galandy,19600,Saint-Pantaléon-de-Larche,CAD,45.151810,1.460850
-192290083H-112,112,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.154484,1.462546
-192290083H-130,130,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.154549,1.463034
-192290083H-156,156,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.154355,1.463168
-192290083H-24,24,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.155251,1.462153
-192290083H-39,39,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.155435,1.462488
-192290083H-42,42,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.155139,1.462340
-192290083H-6066,6066,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.153653,1.464941
-192290083H-6123,6123,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.153866,1.463755
-192290083H-65,65,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.155341,1.462660
-192290083H-72,72,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.154988,1.462548
-192290083H-94,94,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,CAD,45.154890,1.462838
-192290085K-21,21,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,CAD,45.142797,1.445140
-192290085K-58,58,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,CAD,45.142939,1.445228
-192290085K-79,79,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,CAD,45.142947,1.444989
-192290085K-80,80,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,CAD,45.143169,1.445128
-192290085K-83A,83A,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,CAD,45.143051,1.444925
-192290085K-83C,83C,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,CAD,45.143410,1.444994
-192290085K-83K,83K,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,CAD,45.143410,1.445007
-192290087M-28,28,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,CAD,45.143696,1.460297
-192290087M-32A,32A,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,CAD,45.143632,1.460605
-192290087M-32B,32B,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,CAD,45.143679,1.460869
-192290087M-32C,32C,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,CAD,45.143907,1.460856
-192290091S-116,116,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129588,1.417832
-192290091S-132,132,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129501,1.416706
-192290091S-140,140,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129264,1.417510
-192290091S-148,148,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.128973,1.417965
-192290091S-150,150,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.128960,1.418102
-192290091S-152,152,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129022,1.418223
-192290091S-182,182,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129308,1.418751
-192290091S-201,201,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129405,1.419022
-192290091S-219,219,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129361,1.419235
-192290091S-48,48,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.130296,1.417614
-192290091S-98,98,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,CAD,45.129732,1.417742
+192290083H-112,112,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.154484,1.462546
+192290083H-130,130,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.154549,1.463034
+192290083H-156,156,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.154355,1.463168
+192290083H-24,24,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.155251,1.462153
+192290083H-39,39,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.155435,1.462488
+192290083H-42,42,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.155139,1.462340
+192290083H-6066,6066,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.153653,1.464941
+192290083H-6123,6123,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.153866,1.463755
+192290083H-65,65,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.155341,1.462660
+192290083H-72,72,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.154988,1.462548
+192290083H-94,94,Chemin de la Galive,19600,Saint-Pantaléon-de-Larche,C+O,45.154890,1.462838
+192290085K-21,21,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,C+O,45.142797,1.445140
+192290085K-58,58,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,C+O,45.142939,1.445228
+192290085K-79,79,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,C+O,45.142947,1.444989
+192290085K-80,80,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,C+O,45.143169,1.445128
+192290085K-83A,83A,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,C+O,45.143051,1.444925
+192290085K-83C,83C,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,C+O,45.143410,1.444994
+192290085K-83K,83K,Allée des Joncs,19600,Saint-Pantaléon-de-Larche,C+O,45.143410,1.445007
+192290087M-28,28,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,C+O,45.143696,1.460297
+192290087M-32A,32A,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,C+O,45.143632,1.460605
+192290087M-32B,32B,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,C+O,45.143679,1.460869
+192290087M-32C,32C,Impasse des Jonquilles,19600,Saint-Pantaléon-de-Larche,C+O,45.143907,1.460856
+192290091S-116,116,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129588,1.417832
+192290091S-132,132,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129501,1.416706
+192290091S-140,140,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129264,1.417510
+192290091S-148,148,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.128973,1.417965
+192290091S-150,150,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.128960,1.418102
+192290091S-152,152,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129022,1.418223
+192290091S-182,182,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129308,1.418751
+192290091S-201,201,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129405,1.419022
+192290091S-219,219,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129361,1.419235
+192290091S-48,48,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.130296,1.417614
+192290091S-98,98,Rue Jules Ferry,19600,Saint-Pantaléon-de-Larche,C+O,45.129732,1.417742
 192290094V-108,108,Rue de Laumeuil,19600,Saint-Pantaléon-de-Larche,CAD,45.152209,1.460284
 192290094V-147,147,Rue de Laumeuil,19600,Saint-Pantaléon-de-Larche,CAD,45.152694,1.460422
 192290094V-168,168,Rue de Laumeuil,19600,Saint-Pantaléon-de-Larche,CAD,45.152781,1.460645
@@ -32361,109 +32361,109 @@
 192290094V-593,593,Rue de Laumeuil,19600,Saint-Pantaléon-de-Larche,CAD,45.156368,1.462417
 192290094V-6058,6058,Rue de Laumeuil,19600,Saint-Pantaléon-de-Larche,CAD,45.155686,1.462400
 192290094V-6197,6197,Rue de Laumeuil,19600,Saint-Pantaléon-de-Larche,CAD,45.154620,1.461632
-192290095W-27,27,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,CAD,45.141719,1.441086
-192290095W-49,49,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,CAD,45.141550,1.440882
-192290095W-6177,6177,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,CAD,45.141140,1.439379
-192290095W-69,69,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,CAD,45.141465,1.440666
-192290095W-77,77,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,CAD,45.141412,1.440448
+192290095W-27,27,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,C+O,45.141719,1.441086
+192290095W-49,49,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,C+O,45.141550,1.440882
+192290095W-6177,6177,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,C+O,45.141140,1.439379
+192290095W-69,69,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,C+O,45.141465,1.440666
+192290095W-77,77,Chemin de Lavarde,19600,Saint-Pantaléon-de-Larche,C+O,45.141412,1.440448
 192290096X-164,164,Rue de Lestrade,19600,Saint-Pantaléon-de-Larche,CAD,45.146749,1.461244
 192290096X-32,32,Rue de Lestrade,19600,Saint-Pantaléon-de-Larche,CAD,45.147283,1.463102
 192290096X-50,50,Rue de Lestrade,19600,Saint-Pantaléon-de-Larche,CAD,45.147225,1.462915
 192290096X-68,68,Rue de Lestrade,19600,Saint-Pantaléon-de-Larche,CAD,45.147214,1.462718
 192290096X-88,88,Rue de Lestrade,19600,Saint-Pantaléon-de-Larche,CAD,45.147004,1.462567
-192290097Y-33,33,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,CAD,45.144459,1.460462
-192290097Y-36,36,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,CAD,45.144544,1.460835
-192290097Y-38,38,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,CAD,45.144709,1.460808
-192290097Y-42A,42A,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,CAD,45.144745,1.460537
-192290097Y-42B,42B,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,CAD,45.144787,1.460299
-192290097Y-42C,42C,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,CAD,45.144587,1.460218
-192290098Z-105,105,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145375,1.459205
-192290098Z-122,122,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145401,1.458489
-192290098Z-127,127,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145215,1.459112
-192290098Z-138,138,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145236,1.458488
-192290098Z-155,155,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145019,1.459110
-192290098Z-168,168,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.144953,1.458717
-192290098Z-21,21,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.146100,1.459504
-192290098Z-226,226,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.144662,1.458555
-192290098Z-45,45,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145946,1.459452
-192290098Z-52,52,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145968,1.458842
-192290098Z-61,61,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145736,1.459359
-192290098Z-6186,6186,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145947,1.459475
-192290098Z-6192,6192,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145236,1.458505
-192290098Z-72,72,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145754,1.458717
-192290098Z-83,83,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145586,1.459293
-192290098Z-86,86,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,CAD,45.145661,1.458527
-192290100B-102,102,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140789,1.445952
-192290100B-136,136,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140763,1.445585
-192290100B-15,15,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140504,1.446767
-192290100B-172,172,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140668,1.445053
-192290100B-224,224,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140722,1.444443
-192290100B-237,237,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140677,1.444346
-192290100B-240,240,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140768,1.444283
-192290100B-280,280,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140914,1.443893
-192290100B-28,28,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140548,1.446850
-192290100B-321,321,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140488,1.442603
-192290100B-403,403,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.141346,1.442293
-192290100B-452,452,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.141545,1.442511
-192290100B-471,471,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.141632,1.441467
-192290100B-474,474,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.141879,1.441466
-192290100B-50,50,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140722,1.446594
-192290100B-65,65,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140428,1.446269
-192290100B-65A,65A,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140448,1.446235
-192290100B-65B,65B,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140658,1.446339
-192290100B-65C,65C,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140486,1.446190
-192290100B-70,70,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140759,1.446399
-192290100B-92,92,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,CAD,45.140972,1.446274
-192290101C-115,115,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128228,1.420939
-192290101C-125,125,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128042,1.420922
-192290101C-135,135,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128096,1.420509
-192290101C-149,149,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.127882,1.420303
-192290101C-151,151,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.127802,1.420018
-192290101C-20,20,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128612,1.420335
-192290101C-57,57,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.129002,1.420648
-192290101C-61,61,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128826,1.420779
-192290101C-75,75,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128594,1.420825
-192290101C-95,95,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128391,1.420892
-192290101C-98,98,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,CAD,45.128422,1.420328
-192290104F-106,106,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152138,1.461561
-192290104F-12,12,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152555,1.460590
-192290104F-122,122,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152068,1.461722
-192290104F-140,140,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151994,1.461894
-192290104F-214,214,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151728,1.462737
-192290104F-24,24,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152493,1.460735
-192290104F-25,25,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152546,1.460856
-192290104F-260,260,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151591,1.463336
-192290104F-276,276,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151555,1.463491
-192290104F-280,280,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151531,1.463597
-192290104F-281,281,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151596,1.463648
-192290104F-302,302,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151481,1.463858
-192290104F-316A,316A,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151332,1.464002
-192290104F-316B,316B,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.150638,1.463693
-192290104F-350,350,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.151337,1.464605
-192290104F-47,47,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152462,1.461051
-192290104F-50,50,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152420,1.460904
-192290104F-62,62,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152350,1.461068
-192290104F-65A,65A,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152502,1.461388
-192290104F-65B,65B,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152748,1.461642
-192290104F-65C,65C,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152859,1.461748
-192290104F-74,74,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152275,1.461243
-192290104F-80,80,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152212,1.461388
-192290104F-90,90,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,CAD,45.152131,1.461310
-192290108K-108B,108B,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.142909,1.460776
-192290108K-108C,108C,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.142939,1.461295
-192290108K-113,113,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143262,1.460834
-192290108K-130,130,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143224,1.461068
-192290108K-171,171,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143586,1.461520
-192290108K-34,34,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.142857,1.460031
-192290108K-43,43,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.142979,1.460035
-192290108K-54,54,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.142925,1.460222
-192290108K-57,57,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143044,1.460220
-192290108K-6244,6244,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.142979,1.459744
-192290108K-70,70,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143001,1.460434
-192290108K-71,71,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143221,1.460393
-192290108K-90,90,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143095,1.460701
-192290108K-93A,93A,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143329,1.460269
-192290108K-93B,93B,Rue Mozart,19600,Saint-Pantaléon-de-Larche,CAD,45.143527,1.460439
+192290097Y-33,33,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,C+O,45.144459,1.460462
+192290097Y-36,36,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,C+O,45.144544,1.460835
+192290097Y-38,38,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,C+O,45.144709,1.460808
+192290097Y-42A,42A,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,C+O,45.144745,1.460537
+192290097Y-42B,42B,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,C+O,45.144787,1.460299
+192290097Y-42C,42C,Impasse des Lilas,19600,Saint-Pantaléon-de-Larche,C+O,45.144587,1.460218
+192290098Z-105,105,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145375,1.459205
+192290098Z-122,122,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145401,1.458489
+192290098Z-127,127,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145215,1.459112
+192290098Z-138,138,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145236,1.458488
+192290098Z-155,155,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145019,1.459110
+192290098Z-168,168,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.144953,1.458717
+192290098Z-21,21,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.146100,1.459504
+192290098Z-226,226,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.144662,1.458555
+192290098Z-45,45,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145946,1.459452
+192290098Z-52,52,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145968,1.458842
+192290098Z-61,61,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145736,1.459359
+192290098Z-6186,6186,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145947,1.459475
+192290098Z-6192,6192,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145236,1.458505
+192290098Z-72,72,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145754,1.458717
+192290098Z-83,83,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145586,1.459293
+192290098Z-86,86,Rue Léon Dautrement,19600,Saint-Pantaléon-de-Larche,C+O,45.145661,1.458527
+192290100B-102,102,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140789,1.445952
+192290100B-136,136,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140763,1.445585
+192290100B-15,15,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140504,1.446767
+192290100B-172,172,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140668,1.445053
+192290100B-224,224,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140722,1.444443
+192290100B-237,237,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140677,1.444346
+192290100B-240,240,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140768,1.444283
+192290100B-280,280,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140914,1.443893
+192290100B-28,28,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140548,1.446850
+192290100B-321,321,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140488,1.442603
+192290100B-403,403,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.141346,1.442293
+192290100B-452,452,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.141545,1.442511
+192290100B-471,471,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.141632,1.441467
+192290100B-474,474,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.141879,1.441466
+192290100B-50,50,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140722,1.446594
+192290100B-65,65,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140428,1.446269
+192290100B-65A,65A,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140448,1.446235
+192290100B-65B,65B,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140658,1.446339
+192290100B-65C,65C,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140486,1.446190
+192290100B-70,70,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140759,1.446399
+192290100B-92,92,Rue de la Mairie,19600,Saint-Pantaléon-de-Larche,C+O,45.140972,1.446274
+192290101C-115,115,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128228,1.420939
+192290101C-125,125,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128042,1.420922
+192290101C-135,135,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128096,1.420509
+192290101C-149,149,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.127882,1.420303
+192290101C-151,151,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.127802,1.420018
+192290101C-20,20,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128612,1.420335
+192290101C-57,57,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.129002,1.420648
+192290101C-61,61,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128826,1.420779
+192290101C-75,75,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128594,1.420825
+192290101C-95,95,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128391,1.420892
+192290101C-98,98,Impasse des Mines,19600,Saint-Pantaléon-de-Larche,C+O,45.128422,1.420328
+192290104F-106,106,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152138,1.461561
+192290104F-12,12,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152555,1.460590
+192290104F-122,122,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152068,1.461722
+192290104F-140,140,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151994,1.461894
+192290104F-214,214,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151728,1.462737
+192290104F-24,24,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152493,1.460735
+192290104F-25,25,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152546,1.460856
+192290104F-260,260,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151591,1.463336
+192290104F-276,276,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151555,1.463491
+192290104F-280,280,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151531,1.463597
+192290104F-281,281,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151596,1.463648
+192290104F-302,302,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151481,1.463858
+192290104F-316A,316A,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151332,1.464002
+192290104F-316B,316B,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.150638,1.463693
+192290104F-350,350,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.151337,1.464605
+192290104F-47,47,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152462,1.461051
+192290104F-50,50,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152420,1.460904
+192290104F-62,62,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152350,1.461068
+192290104F-65A,65A,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152502,1.461388
+192290104F-65B,65B,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152748,1.461642
+192290104F-65C,65C,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152859,1.461748
+192290104F-74,74,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152275,1.461243
+192290104F-80,80,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152212,1.461388
+192290104F-90,90,Rue du Moulin,19600,Saint-Pantaléon-de-Larche,C+O,45.152131,1.461310
+192290108K-108B,108B,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.142909,1.460776
+192290108K-108C,108C,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.142939,1.461295
+192290108K-113,113,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143262,1.460834
+192290108K-130,130,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143224,1.461068
+192290108K-171,171,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143586,1.461520
+192290108K-34,34,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.142857,1.460031
+192290108K-43,43,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.142979,1.460035
+192290108K-54,54,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.142925,1.460222
+192290108K-57,57,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143044,1.460220
+192290108K-6244,6244,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.142979,1.459744
+192290108K-70,70,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143001,1.460434
+192290108K-71,71,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143221,1.460393
+192290108K-90,90,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143095,1.460701
+192290108K-93A,93A,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143329,1.460269
+192290108K-93B,93B,Rue Mozart,19600,Saint-Pantaléon-de-Larche,C+O,45.143527,1.460439
 192290110M-112,112,Avenue du 11 Novembre 1918,19600,Saint-Pantaléon-de-Larche,CAD,45.143874,1.463242
 192290110M-130,130,Avenue du 11 Novembre 1918,19600,Saint-Pantaléon-de-Larche,CAD,45.143874,1.463456
 192290110M-141,141,Avenue du 11 Novembre 1918,19600,Saint-Pantaléon-de-Larche,CAD,45.143983,1.463553
@@ -32496,315 +32496,315 @@
 192290110M-74,74,Avenue du 11 Novembre 1918,19600,Saint-Pantaléon-de-Larche,CAD,45.143797,1.462706
 192290110M-85,85,Avenue du 11 Novembre 1918,19600,Saint-Pantaléon-de-Larche,CAD,45.143966,1.462867
 192290110M-94,94,Avenue du 11 Novembre 1918,19600,Saint-Pantaléon-de-Larche,CAD,45.143862,1.463011
-192290112P-111,111,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147427,1.465443
-192290112P-123A,123A,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147746,1.465241
-192290112P-123B,123B,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.148019,1.465253
-192290112P-123C,123C,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.148063,1.465552
-192290112P-123D,123D,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.148110,1.465894
-192290112P-123E,123E,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147827,1.465966
-192290112P-137,137,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147475,1.465886
-192290112P-161,161,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147500,1.466126
-192290112P-179,179,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147568,1.466326
-192290112P-191,191,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147591,1.466545
-192290112P-211,211,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147569,1.466759
-192290112P-227,227,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147588,1.466943
-192290112P-232,232,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147152,1.466903
-192290112P-257,257,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147625,1.467286
-192290112P-287,287,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147671,1.467721
-192290112P-29,29,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147304,1.464437
-192290112P-315,315,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147697,1.468037
-192290112P-345,345,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147881,1.468608
-192290112P-348,348,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147708,1.468483
-192290112P-47,47,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147385,1.464676
-192290112P-67,67,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147413,1.464914
-192290112P-85,85,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147399,1.465193
-192290112P-9,9,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,CAD,45.147321,1.464208
-192290114S-118,118,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,CAD,45.142844,1.441467
-192290114S-150,150,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,CAD,45.143104,1.441512
-192290114S-217,217,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,CAD,45.143693,1.441522
-192290114S-234,234,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,CAD,45.143854,1.441489
-192290114S-248,248,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,CAD,45.144086,1.441370
-192290114S-50,50,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,CAD,45.142237,1.441343
-192290114S-62,62,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,CAD,45.142420,1.441380
-192290117V-161,161,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.149849,1.462118
-192290117V-187,187,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.149648,1.462234
-192290117V-205,205,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.149500,1.462336
-192290117V-221,221,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.149359,1.462435
-192290117V-235,235,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.149241,1.462589
-192290117V-251,251,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.149103,1.462684
-192290117V-269,269,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148972,1.462775
-192290117V-289,289,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148811,1.462820
-192290117V-305,305,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148669,1.462921
-192290117V-325,325,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148511,1.463032
-192290117V-343A,343A,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148788,1.463339
-192290117V-343B,343B,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148795,1.463735
-192290117V-343C,343C,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148607,1.463811
-192290117V-343D,343D,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148405,1.463916
-192290117V-343E,343E,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148298,1.463673
-192290117V-358,358,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148277,1.463063
-192290117V-359,359,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148242,1.463223
-192290117V-381,381,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148075,1.463340
-192290117V-390,390,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147977,1.463267
-192290117V-393,393,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.148001,1.463658
-192290117V-395,395,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147964,1.463489
-192290117V-413,413,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147823,1.463589
-192290117V-418,418,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147736,1.463343
-192290117V-433,433,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147659,1.463633
-192290117V-438,438,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147577,1.463392
-192290117V-455,455,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147510,1.463759
-192290117V-458,458,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147382,1.463452
-192290117V-477,477,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,CAD,45.147385,1.463975
-192290119X-130,130,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.130898,1.404607
-192290119X-150,150,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.130744,1.404483
-192290119X-15,15,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.131718,1.405691
-192290119X-155,155,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.130647,1.404757
-192290119X-170,170,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.130596,1.404439
-192290119X-190,190,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.130401,1.404159
-192290119X-20,20,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.131749,1.405443
-192290119X-494,494,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,CAD,45.130744,1.404495
-192290120Y-100,100,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149177,1.457697
-192290120Y-101,101,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149248,1.457580
-192290120Y-11,11,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.148479,1.457105
-192290120Y-119,119,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149381,1.457695
-192290120Y-128,128,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149339,1.457837
-192290120Y-141,141,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149577,1.457711
-192290120Y-143,143,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149485,1.457982
-192290120Y-157,157,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149667,1.458008
-192290120Y-163,163,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149604,1.458138
-192290120Y-175,175,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149763,1.458180
-192290120Y-176,176,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149819,1.458077
-192290120Y-182,182,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149709,1.458339
-192290120Y-195,195,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149869,1.458361
-192290120Y-200,200,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.150040,1.458457
-192290120Y-203,203,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.150531,1.458744
-192290120Y-207,207,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149889,1.458635
-192290120Y-208,208,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149783,1.458653
-192290120Y-22,22,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.148548,1.457296
-192290120Y-225,225,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149873,1.458830
-192290120Y-243,243,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149817,1.459027
-192290120Y-254A,254A,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149604,1.458996
-192290120Y-254B,254B,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149383,1.458891
-192290120Y-254C,254C,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149341,1.458634
-192290120Y-254D,254D,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149240,1.458621
-192290120Y-254E,254E,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149192,1.458783
-192290120Y-254F,254F,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149157,1.459012
-192290120Y-254G,254G,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149256,1.459081
-192290120Y-255,255,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149730,1.459219
-192290120Y-27,27,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.148624,1.457171
-192290120Y-284,284,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149535,1.459074
-192290120Y-296,296,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149561,1.459565
-192290120Y-304,304,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149486,1.459449
-192290120Y-42,42,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.148706,1.457376
-192290120Y-4,4,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.148416,1.457239
-192290120Y-49,49,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.148783,1.457257
-192290120Y-65,65,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.148952,1.457362
-192290120Y-85,85,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,CAD,45.149108,1.457469
-192290121Z-100,100,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.148168,1.461954
-192290121Z-115,115,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147632,1.461959
-192290121Z-118,118,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.148207,1.461752
-192290121Z-29,29,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147851,1.462943
-192290121Z-46,46,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.148245,1.462649
-192290121Z-47,47,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147815,1.462703
-192290121Z-64,64,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.148228,1.462378
-192290121Z-82,82,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.148173,1.462165
-192290122A-19,19,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147808,1.462497
-192290122A-200,200,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147808,1.462515
-192290122A-20,20,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147785,1.462087
-192290122A-42,42,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147574,1.462180
-192290122A-44,44,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147430,1.462161
-192290122A-47,47,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147638,1.462768
-192290122A-47A,47A,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,CAD,45.147473,1.462844
-192290123B-186,186,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.150306,1.459950
-192290123B-200,200,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.149971,1.459964
-192290123B-232,232,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.149766,1.459917
-192290123B-286,286,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.149278,1.459774
-192290123B-300,300,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.149121,1.459728
-192290123B-320,320,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.148954,1.459687
-192290123B-350,350,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.148743,1.459656
-192290123B-386,386,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.148411,1.459523
-192290123B-402,402,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.148275,1.459443
-192290123B-420,420,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.148134,1.459360
-192290123B-423,423,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.148243,1.459588
-192290123B-438,438,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147989,1.459276
-192290123B-46,46,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.151280,1.459209
-192290123B-498,498,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147506,1.459297
-192290123B-509,509,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147361,1.459489
-192290123B-512,512,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147286,1.459353
-192290123B-532,532,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147217,1.459726
-192290123B-533,533,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147194,1.459532
-192290123B-554,554,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.146902,1.458896
-192290123B-555,555,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.146997,1.459582
-192290123B-578,578,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.146832,1.459625
-192290123B-603,603,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.146551,1.459791
-192290123B-6085,6085,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.146613,1.459919
-192290123B-6099,6099,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147253,1.458867
-192290123B-6128,6128,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.147610,1.459021
-192290123B-6216,6216,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,CAD,45.146755,1.459229
-192290124C-254,254,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.140139,1.461531
-192290124C-436,436,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.140301,1.463414
-192290124C-460,460,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.140272,1.463694
-192290124C-482,482,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.140134,1.463922
-192290124C-510,510,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.140106,1.464229
-192290124C-548,548,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.139968,1.464808
-192290124C-597,597,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.139582,1.465659
-192290124C-625,625,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.139438,1.465384
-192290124C-644,644,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.139349,1.464823
-192290124C-647,647,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.139172,1.465291
-192290124C-676,676,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.139174,1.464356
-192290124C-689,689,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.138948,1.465147
-192290124C-707,707,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.138753,1.465058
-192290124C-708,708,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.138915,1.464251
-192290124C-736,736,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.138705,1.464267
-192290124C-763,763,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.138611,1.464965
-192290124C-766,766,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.138363,1.463908
-192290124C-782,782,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,CAD,45.138238,1.464023
-192290125D-215,215,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,CAD,45.135785,1.420919
-192290125D-252,252,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,CAD,45.136145,1.421390
-192290125D-255,255,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,CAD,45.136101,1.420929
-192290125D-6070,6070,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,CAD,45.135388,1.420758
-192290125D-6144,6144,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,CAD,45.135378,1.421436
-192290125D-6172,6172,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,CAD,45.135841,1.420080
-192290125D-6184,6184,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,CAD,45.136424,1.421320
-192290126E-100,100,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135493,1.417642
-192290126E-116,116,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135870,1.418227
-192290126E-120,120,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135391,1.417846
-192290126E-140,140,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135251,1.418025
-192290126E-156,156,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135541,1.418641
-192290126E-164,164,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135051,1.418162
-192290126E-172,172,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.134966,1.418621
-192290126E-180,180,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136384,1.418083
-192290126E-18,18,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136069,1.416927
-192290126E-260,260,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136357,1.418646
-192290126E-306,306,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136193,1.419096
-192290126E-323,323,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136784,1.418611
-192290126E-334,334,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136199,1.419599
-192290126E-357,357,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136559,1.419396
-192290126E-382,382,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136432,1.420126
-192290126E-394,394,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.136759,1.420684
-192290126E-40,40,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135807,1.417011
-192290126E-60,60,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135725,1.417240
-192290126E-80,80,Allée des Places,19600,Saint-Pantaléon-de-Larche,CAD,45.135541,1.417340
-192290127F-103,103,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,CAD,45.145478,1.443513
-192290127F-112,112,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,CAD,45.145640,1.443485
-192290127F-139,139,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,CAD,45.145840,1.443527
-192290127F-43,43,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,CAD,45.144936,1.443662
-192290127F-63,63,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,CAD,45.145127,1.443576
-192290128G-104,104,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128215,1.424606
-192290128G-120,120,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128094,1.424737
-192290128G-136,136,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128019,1.424841
-192290128G-34,34,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128814,1.424260
-192290128G-50,50,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128729,1.424335
-192290128G-60,60,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128598,1.424424
-192290128G-76,76,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128512,1.424458
-192290128G-88,88,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,CAD,45.128365,1.424547
-192290129H-158,158,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138370,1.462195
-192290129H-170,170,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.139067,1.462133
-192290129H-17,17,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.139125,1.463220
-192290129H-198,198,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138316,1.461706
-192290129H-235,235,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.137962,1.461050
-192290129H-248,248,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138204,1.461405
-192290129H-271,271,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138309,1.460891
-192290129H-38,38,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138583,1.463242
-192290129H-40,40,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138184,1.463197
-192290129H-6226,6226,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138056,1.462479
-192290129H-6232,6232,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.137791,1.461175
-192290129H-6233,6233,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.137896,1.461686
-192290129H-6236,6236,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.137883,1.461866
-192290129H-6243,6243,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138539,1.460815
-192290129H-6245,6245,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.137922,1.462170
-192290129H-6247,6247,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138094,1.462925
-192290129H-6248,6248,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138425,1.463237
-192290129H-6249,6249,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.139157,1.463735
-192290129H-6255,6255,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138715,1.460938
-192290129H-6260,6260,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138450,1.462692
-192290130J-32,32,Impasse des Prairies,19600,Saint-Pantaléon-de-Larche,CAD,45.138899,1.463683
-192290131K-108,108,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148428,1.458356
-192290131K-11,11,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148869,1.457600
-192290131K-115A,115A,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148704,1.458394
-192290131K-115B,115B,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148867,1.458329
-192290131K-115C,115C,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148898,1.458432
-192290131K-115D,115D,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148860,1.458519
-192290131K-116A,116A,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148170,1.458483
-192290131K-116B,116B,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148161,1.458601
-192290131K-116C,116C,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148212,1.458678
-192290131K-116D,116D,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148297,1.458725
-192290131K-123,123,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148637,1.458666
-192290131K-140,140,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148531,1.458674
-192290131K-145,145,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148669,1.458831
-192290131K-161,161,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148766,1.459084
-192290131K-164,164,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148579,1.459128
-192290131K-175,175,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148652,1.459271
-192290131K-27,27,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148748,1.457729
-192290131K-29,29,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148947,1.457652
-192290131K-47,47,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148685,1.457941
-192290131K-48,48,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148507,1.457747
-192290131K-66,66,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148413,1.457926
-192290131K-77,77,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148674,1.459060
-192290131K-83,83,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148535,1.458326
-192290131K-84,84,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,CAD,45.148386,1.458159
-192290132L-67,67,Impasse des Prés,19600,Saint-Pantaléon-de-Larche,CAD,45.139267,1.461811
-192290132L-84,84,Impasse des Prés,19600,Saint-Pantaléon-de-Larche,CAD,45.139225,1.461375
+192290112P-111,111,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147427,1.465443
+192290112P-123A,123A,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147746,1.465241
+192290112P-123B,123B,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.148019,1.465253
+192290112P-123C,123C,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.148063,1.465552
+192290112P-123D,123D,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.148110,1.465894
+192290112P-123E,123E,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147827,1.465966
+192290112P-137,137,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147475,1.465886
+192290112P-161,161,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147500,1.466126
+192290112P-179,179,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147568,1.466326
+192290112P-191,191,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147591,1.466545
+192290112P-211,211,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147569,1.466759
+192290112P-227,227,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147588,1.466943
+192290112P-232,232,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147152,1.466903
+192290112P-257,257,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147625,1.467286
+192290112P-287,287,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147671,1.467721
+192290112P-29,29,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147304,1.464437
+192290112P-315,315,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147697,1.468037
+192290112P-345,345,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147881,1.468608
+192290112P-348,348,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147708,1.468483
+192290112P-47,47,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147385,1.464676
+192290112P-67,67,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147413,1.464914
+192290112P-85,85,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147399,1.465193
+192290112P-9,9,Boulevard Orimont de Feletz,19600,Saint-Pantaléon-de-Larche,C+O,45.147321,1.464208
+192290114S-118,118,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,C+O,45.142844,1.441467
+192290114S-150,150,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,C+O,45.143104,1.441512
+192290114S-217,217,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,C+O,45.143693,1.441522
+192290114S-234,234,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,C+O,45.143854,1.441489
+192290114S-248,248,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,C+O,45.144086,1.441370
+192290114S-50,50,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,C+O,45.142237,1.441343
+192290114S-62,62,Rue de l'Ozelet,19600,Saint-Pantaléon-de-Larche,C+O,45.142420,1.441380
+192290117V-161,161,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.149849,1.462118
+192290117V-187,187,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.149648,1.462234
+192290117V-205,205,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.149500,1.462336
+192290117V-221,221,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.149359,1.462435
+192290117V-235,235,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.149241,1.462589
+192290117V-251,251,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.149103,1.462684
+192290117V-269,269,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148972,1.462775
+192290117V-289,289,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148811,1.462820
+192290117V-305,305,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148669,1.462921
+192290117V-325,325,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148511,1.463032
+192290117V-343A,343A,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148788,1.463339
+192290117V-343B,343B,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148795,1.463735
+192290117V-343C,343C,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148607,1.463811
+192290117V-343D,343D,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148405,1.463916
+192290117V-343E,343E,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148298,1.463673
+192290117V-358,358,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148277,1.463063
+192290117V-359,359,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148242,1.463223
+192290117V-381,381,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148075,1.463340
+192290117V-390,390,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147977,1.463267
+192290117V-393,393,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.148001,1.463658
+192290117V-395,395,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147964,1.463489
+192290117V-413,413,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147823,1.463589
+192290117V-418,418,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147736,1.463343
+192290117V-433,433,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147659,1.463633
+192290117V-438,438,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147577,1.463392
+192290117V-455,455,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147510,1.463759
+192290117V-458,458,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147382,1.463452
+192290117V-477,477,Boulevard Pasteur,19600,Saint-Pantaléon-de-Larche,C+O,45.147385,1.463975
+192290119X-130,130,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.130898,1.404607
+192290119X-150,150,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.130744,1.404483
+192290119X-15,15,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.131718,1.405691
+192290119X-155,155,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.130647,1.404757
+192290119X-170,170,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.130596,1.404439
+192290119X-190,190,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.130401,1.404159
+192290119X-20,20,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.131749,1.405443
+192290119X-494,494,Allée des Peupliers,19600,Saint-Pantaléon-de-Larche,C+O,45.130744,1.404495
+192290120Y-100,100,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149177,1.457697
+192290120Y-101,101,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149248,1.457580
+192290120Y-11,11,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.148479,1.457105
+192290120Y-119,119,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149381,1.457695
+192290120Y-128,128,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149339,1.457837
+192290120Y-141,141,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149577,1.457711
+192290120Y-143,143,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149485,1.457982
+192290120Y-157,157,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149667,1.458008
+192290120Y-163,163,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149604,1.458138
+192290120Y-175,175,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149763,1.458180
+192290120Y-176,176,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149819,1.458077
+192290120Y-182,182,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149709,1.458339
+192290120Y-195,195,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149869,1.458361
+192290120Y-200,200,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.150040,1.458457
+192290120Y-203,203,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.150531,1.458744
+192290120Y-207,207,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149889,1.458635
+192290120Y-208,208,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149783,1.458653
+192290120Y-22,22,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.148548,1.457296
+192290120Y-225,225,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149873,1.458830
+192290120Y-243,243,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149817,1.459027
+192290120Y-254A,254A,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149604,1.458996
+192290120Y-254B,254B,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149383,1.458891
+192290120Y-254C,254C,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149341,1.458634
+192290120Y-254D,254D,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149240,1.458621
+192290120Y-254E,254E,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149192,1.458783
+192290120Y-254F,254F,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149157,1.459012
+192290120Y-254G,254G,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149256,1.459081
+192290120Y-255,255,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149730,1.459219
+192290120Y-27,27,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.148624,1.457171
+192290120Y-284,284,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149535,1.459074
+192290120Y-296,296,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149561,1.459565
+192290120Y-304,304,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149486,1.459449
+192290120Y-42,42,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.148706,1.457376
+192290120Y-4,4,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.148416,1.457239
+192290120Y-49,49,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.148783,1.457257
+192290120Y-65,65,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.148952,1.457362
+192290120Y-85,85,Boulevard Pierre et Marie Curie,19600,Saint-Pantaléon-de-Larche,C+O,45.149108,1.457469
+192290121Z-100,100,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.148168,1.461954
+192290121Z-115,115,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147632,1.461959
+192290121Z-118,118,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.148207,1.461752
+192290121Z-29,29,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147851,1.462943
+192290121Z-46,46,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.148245,1.462649
+192290121Z-47,47,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147815,1.462703
+192290121Z-64,64,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.148228,1.462378
+192290121Z-82,82,Rue Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.148173,1.462165
+192290122A-19,19,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147808,1.462497
+192290122A-200,200,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147808,1.462515
+192290122A-20,20,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147785,1.462087
+192290122A-42,42,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147574,1.462180
+192290122A-44,44,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147430,1.462161
+192290122A-47,47,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147638,1.462768
+192290122A-47A,47A,Impasse Paul Gauguin,19600,Saint-Pantaléon-de-Larche,C+O,45.147473,1.462844
+192290123B-186,186,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.150306,1.459950
+192290123B-200,200,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.149971,1.459964
+192290123B-232,232,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.149766,1.459917
+192290123B-286,286,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.149278,1.459774
+192290123B-300,300,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.149121,1.459728
+192290123B-320,320,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.148954,1.459687
+192290123B-350,350,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.148743,1.459656
+192290123B-386,386,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.148411,1.459523
+192290123B-402,402,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.148275,1.459443
+192290123B-420,420,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.148134,1.459360
+192290123B-423,423,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.148243,1.459588
+192290123B-438,438,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147989,1.459276
+192290123B-46,46,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.151280,1.459209
+192290123B-498,498,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147506,1.459297
+192290123B-509,509,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147361,1.459489
+192290123B-512,512,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147286,1.459353
+192290123B-532,532,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147217,1.459726
+192290123B-533,533,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147194,1.459532
+192290123B-554,554,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.146902,1.458896
+192290123B-555,555,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.146997,1.459582
+192290123B-578,578,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.146832,1.459625
+192290123B-603,603,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.146551,1.459791
+192290123B-6085,6085,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.146613,1.459919
+192290123B-6099,6099,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147253,1.458867
+192290123B-6128,6128,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.147610,1.459021
+192290123B-6216,6216,Avenue Pierre Meyjonade,19600,Saint-Pantaléon-de-Larche,C+O,45.146755,1.459229
+192290124C-254,254,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.140139,1.461531
+192290124C-436,436,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.140301,1.463414
+192290124C-460,460,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.140272,1.463694
+192290124C-482,482,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.140134,1.463922
+192290124C-510,510,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.140106,1.464229
+192290124C-548,548,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.139968,1.464808
+192290124C-597,597,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.139582,1.465659
+192290124C-625,625,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.139438,1.465384
+192290124C-644,644,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.139349,1.464823
+192290124C-647,647,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.139172,1.465291
+192290124C-676,676,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.139174,1.464356
+192290124C-689,689,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.138948,1.465147
+192290124C-707,707,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.138753,1.465058
+192290124C-708,708,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.138915,1.464251
+192290124C-736,736,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.138705,1.464267
+192290124C-763,763,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.138611,1.464965
+192290124C-766,766,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.138363,1.463908
+192290124C-782,782,Rue des Picadis,19600,Saint-Pantaléon-de-Larche,C+O,45.138238,1.464023
+192290125D-215,215,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,C+O,45.135785,1.420919
+192290125D-252,252,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,C+O,45.136145,1.421390
+192290125D-255,255,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,C+O,45.136101,1.420929
+192290125D-6070,6070,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,C+O,45.135388,1.420758
+192290125D-6144,6144,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,C+O,45.135378,1.421436
+192290125D-6172,6172,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,C+O,45.135841,1.420080
+192290125D-6184,6184,Rue du Planchou,19600,Saint-Pantaléon-de-Larche,C+O,45.136424,1.421320
+192290126E-100,100,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135493,1.417642
+192290126E-116,116,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135870,1.418227
+192290126E-120,120,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135391,1.417846
+192290126E-140,140,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135251,1.418025
+192290126E-156,156,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135541,1.418641
+192290126E-164,164,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135051,1.418162
+192290126E-172,172,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.134966,1.418621
+192290126E-180,180,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136384,1.418083
+192290126E-18,18,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136069,1.416927
+192290126E-260,260,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136357,1.418646
+192290126E-306,306,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136193,1.419096
+192290126E-323,323,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136784,1.418611
+192290126E-334,334,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136199,1.419599
+192290126E-357,357,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136559,1.419396
+192290126E-382,382,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136432,1.420126
+192290126E-394,394,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.136759,1.420684
+192290126E-40,40,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135807,1.417011
+192290126E-60,60,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135725,1.417240
+192290126E-80,80,Allée des Places,19600,Saint-Pantaléon-de-Larche,C+O,45.135541,1.417340
+192290127F-103,103,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,C+O,45.145478,1.443513
+192290127F-112,112,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,C+O,45.145640,1.443485
+192290127F-139,139,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,C+O,45.145840,1.443527
+192290127F-43,43,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,C+O,45.144936,1.443662
+192290127F-63,63,Rue de la Prade,19600,Saint-Pantaléon-de-Larche,C+O,45.145127,1.443576
+192290128G-104,104,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128215,1.424606
+192290128G-120,120,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128094,1.424737
+192290128G-136,136,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128019,1.424841
+192290128G-34,34,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128814,1.424260
+192290128G-50,50,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128729,1.424335
+192290128G-60,60,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128598,1.424424
+192290128G-76,76,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128512,1.424458
+192290128G-88,88,Impasse du Puits,19600,Saint-Pantaléon-de-Larche,C+O,45.128365,1.424547
+192290129H-158,158,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138370,1.462195
+192290129H-170,170,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.139067,1.462133
+192290129H-17,17,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.139125,1.463220
+192290129H-198,198,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138316,1.461706
+192290129H-235,235,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.137962,1.461050
+192290129H-248,248,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138204,1.461405
+192290129H-271,271,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138309,1.460891
+192290129H-38,38,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138583,1.463242
+192290129H-40,40,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138184,1.463197
+192290129H-6226,6226,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138056,1.462479
+192290129H-6232,6232,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.137791,1.461175
+192290129H-6233,6233,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.137896,1.461686
+192290129H-6236,6236,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.137883,1.461866
+192290129H-6243,6243,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138539,1.460815
+192290129H-6245,6245,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.137922,1.462170
+192290129H-6247,6247,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138094,1.462925
+192290129H-6248,6248,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138425,1.463237
+192290129H-6249,6249,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.139157,1.463735
+192290129H-6255,6255,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138715,1.460938
+192290129H-6260,6260,Rue des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138450,1.462692
+192290130J-32,32,Impasse des Prairies,19600,Saint-Pantaléon-de-Larche,C+O,45.138899,1.463683
+192290131K-108,108,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148428,1.458356
+192290131K-11,11,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148869,1.457600
+192290131K-115A,115A,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148704,1.458394
+192290131K-115B,115B,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148867,1.458329
+192290131K-115C,115C,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148898,1.458432
+192290131K-115D,115D,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148860,1.458519
+192290131K-116A,116A,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148170,1.458483
+192290131K-116B,116B,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148161,1.458601
+192290131K-116C,116C,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148212,1.458678
+192290131K-116D,116D,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148297,1.458725
+192290131K-123,123,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148637,1.458666
+192290131K-140,140,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148531,1.458674
+192290131K-145,145,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148669,1.458831
+192290131K-161,161,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148766,1.459084
+192290131K-164,164,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148579,1.459128
+192290131K-175,175,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148652,1.459271
+192290131K-27,27,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148748,1.457729
+192290131K-29,29,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148947,1.457652
+192290131K-47,47,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148685,1.457941
+192290131K-48,48,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148507,1.457747
+192290131K-66,66,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148413,1.457926
+192290131K-77,77,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148674,1.459060
+192290131K-83,83,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148535,1.458326
+192290131K-84,84,Rue René Lacombe,19600,Saint-Pantaléon-de-Larche,C+O,45.148386,1.458159
+192290132L-67,67,Impasse des Prés,19600,Saint-Pantaléon-de-Larche,C+O,45.139267,1.461811
+192290132L-84,84,Impasse des Prés,19600,Saint-Pantaléon-de-Larche,C+O,45.139225,1.461375
 192290133M-48,48,Avenue Pierre Mendes France,19600,Saint-Pantaléon-de-Larche,CAD,45.142845,1.467118
 192290133M-63,63,Avenue Pierre Mendes France,19600,Saint-Pantaléon-de-Larche,CAD,45.142752,1.466920
-192290135P-113,113,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.150877,1.462229
-192290135P-123,123,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.150708,1.462201
-192290135P-143,143,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.150547,1.462173
-192290135P-161,161,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.150396,1.462147
-192290135P-181,181,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.150225,1.462119
-192290135P-19,19,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.151674,1.462303
-192290135P-201,201,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.150040,1.462093
-192290135P-24,24,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.151671,1.462202
-192290135P-43,43,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.151476,1.462406
-192290135P-44,44,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.151453,1.462166
-192290135P-63,63,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.151290,1.462403
-192290135P-83,83,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.151327,1.462246
-192290135P-90,90,Rue Renoir,19600,Saint-Pantaléon-de-Larche,CAD,45.151108,1.462104
+192290135P-113,113,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.150877,1.462229
+192290135P-123,123,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.150708,1.462201
+192290135P-143,143,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.150547,1.462173
+192290135P-161,161,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.150396,1.462147
+192290135P-181,181,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.150225,1.462119
+192290135P-19,19,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.151674,1.462303
+192290135P-201,201,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.150040,1.462093
+192290135P-24,24,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.151671,1.462202
+192290135P-43,43,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.151476,1.462406
+192290135P-44,44,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.151453,1.462166
+192290135P-63,63,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.151290,1.462403
+192290135P-83,83,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.151327,1.462246
+192290135P-90,90,Rue Renoir,19600,Saint-Pantaléon-de-Larche,C+O,45.151108,1.462104
 192290138T-6039,6039,Impasse de la Rivière,19600,Saint-Pantaléon-de-Larche,CAD,45.157350,1.467976
-192290139U-120,120,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.145146,1.442975
-192290139U-140,140,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.145245,1.442611
-192290139U-175,175,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.145073,1.442597
-192290139U-186,186,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.144990,1.442058
-192290139U-29,29,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.144532,1.443484
-192290139U-34,34,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.144602,1.443341
-192290139U-49,49,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.144537,1.443256
-192290139U-64,64,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.144720,1.443056
-192290139U-65,65,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.144508,1.443022
-192290139U-98,98,Rue de la Source,19600,Saint-Pantaléon-de-Larche,CAD,45.144899,1.442841
-192290142X-109,109,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146911,1.468047
-192290142X-111,111,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146834,1.468052
-192290142X-126,126,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146835,1.467882
-192290142X-130,130,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146926,1.467726
-192290142X-146,146,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146851,1.467610
-192290142X-148,148,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146754,1.467676
-192290142X-150,150,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146717,1.467585
-192290142X-152,152,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146669,1.467587
-192290142X-157,157,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146639,1.467859
-192290142X-158,158,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146590,1.467781
-192290142X-166,166,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146447,1.467735
-192290142X-173,173,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146502,1.467968
-192290142X-174,174,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146401,1.467770
-192290142X-177,177,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146424,1.468029
-192290142X-178,178,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146348,1.467813
-192290142X-182A,182A,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146303,1.468114
-192290142X-182B,182B,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.146217,1.467929
-192290142X-25,25,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147481,1.468194
-192290142X-29,29,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147409,1.468340
-192290142X-37,37,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147315,1.468133
-192290142X-45,45,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147269,1.468041
-192290142X-49,49,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147233,1.467950
-192290142X-50,50,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147310,1.467935
-192290142X-54,54,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147285,1.467874
-192290142X-66,66,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147331,1.467648
-192290142X-68,68,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147181,1.467733
-192290142X-72,72,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,CAD,45.147122,1.467780
-192290146B-11,11,Allée des Tilleuls,19600,Saint-Pantaléon-de-Larche,CAD,45.142035,1.444756
-192290146B-22,22,Allée des Tilleuls,19600,Saint-Pantaléon-de-Larche,CAD,45.142020,1.444594
-192290146B-35,35,Allée des Tilleuls,19600,Saint-Pantaléon-de-Larche,CAD,45.141888,1.444626
-192290151G-18,18,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,CAD,45.140239,1.447063
-192290151G-18B,18BIS,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,CAD,45.140181,1.447049
-192290151G-32A,32A,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,CAD,45.140085,1.447034
-192290151G-32B,32B,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,CAD,45.140017,1.447013
-192290151G-32C,32C,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,CAD,45.139881,1.446850
+192290139U-120,120,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.145146,1.442975
+192290139U-140,140,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.145245,1.442611
+192290139U-175,175,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.145073,1.442597
+192290139U-186,186,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.144990,1.442058
+192290139U-29,29,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.144532,1.443484
+192290139U-34,34,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.144602,1.443341
+192290139U-49,49,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.144537,1.443256
+192290139U-64,64,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.144720,1.443056
+192290139U-65,65,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.144508,1.443022
+192290139U-98,98,Rue de la Source,19600,Saint-Pantaléon-de-Larche,C+O,45.144899,1.442841
+192290142X-109,109,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146911,1.468047
+192290142X-111,111,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146834,1.468052
+192290142X-126,126,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146835,1.467882
+192290142X-130,130,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146926,1.467726
+192290142X-146,146,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146851,1.467610
+192290142X-148,148,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146754,1.467676
+192290142X-150,150,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146717,1.467585
+192290142X-152,152,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146669,1.467587
+192290142X-157,157,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146639,1.467859
+192290142X-158,158,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146590,1.467781
+192290142X-166,166,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146447,1.467735
+192290142X-173,173,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146502,1.467968
+192290142X-174,174,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146401,1.467770
+192290142X-177,177,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146424,1.468029
+192290142X-178,178,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146348,1.467813
+192290142X-182A,182A,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146303,1.468114
+192290142X-182B,182B,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.146217,1.467929
+192290142X-25,25,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147481,1.468194
+192290142X-29,29,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147409,1.468340
+192290142X-37,37,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147315,1.468133
+192290142X-45,45,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147269,1.468041
+192290142X-49,49,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147233,1.467950
+192290142X-50,50,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147310,1.467935
+192290142X-54,54,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147285,1.467874
+192290142X-66,66,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147331,1.467648
+192290142X-68,68,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147181,1.467733
+192290142X-72,72,Impasse des Saules,19600,Saint-Pantaléon-de-Larche,C+O,45.147122,1.467780
+192290146B-11,11,Allée des Tilleuls,19600,Saint-Pantaléon-de-Larche,C+O,45.142035,1.444756
+192290146B-22,22,Allée des Tilleuls,19600,Saint-Pantaléon-de-Larche,C+O,45.142020,1.444594
+192290146B-35,35,Allée des Tilleuls,19600,Saint-Pantaléon-de-Larche,C+O,45.141888,1.444626
+192290151G-18,18,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,C+O,45.140239,1.447063
+192290151G-18B,18BIS,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,C+O,45.140181,1.447049
+192290151G-32A,32A,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,C+O,45.140085,1.447034
+192290151G-32B,32B,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,C+O,45.140017,1.447013
+192290151G-32C,32C,Rue de la Vézère,19600,Saint-Pantaléon-de-Larche,C+O,45.139881,1.446850
 192290152H-108,108,N Rn 89,19600,Saint-Pantaléon-de-Larche,CAD,45.142250,1.466619
 192290152H-123,123,N Rn 89,19600,Saint-Pantaléon-de-Larche,CAD,45.142201,1.466433
 192290152H-138A,138A,N Rn 89,19600,Saint-Pantaléon-de-Larche,CAD,45.142634,1.465989
@@ -32827,68 +32827,68 @@
 192290152H-564,564,N Rn 89,19600,Saint-Pantaléon-de-Larche,CAD,45.140835,1.461035
 192290152H-63,63,N Rn 89,19600,Saint-Pantaléon-de-Larche,CAD,45.142752,1.466920
 192290152H-93,93,N Rn 89,19600,Saint-Pantaléon-de-Larche,CAD,45.142829,1.466539
-192290155L-126,126,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.142061,1.461837
-192290155L-205,205,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.142711,1.461724
-192290155L-216,216,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.142907,1.461827
-192290155L-236,236,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.143020,1.462119
-192290155L-259,259,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.143330,1.461717
-192290155L-306,306,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.143601,1.461794
-192290155L-322,322,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.143914,1.461719
-192290155L-346,346,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144070,1.461668
-192290155L-348,348,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144035,1.461839
-192290155L-358,358,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144177,1.461615
-192290155L-372,372,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144281,1.461563
-192290155L-378,378,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144357,1.461933
-192290155L-402,402,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144547,1.461431
-192290155L-416,416,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144679,1.461364
-192290155L-430,430,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.144808,1.461298
-192290155L-522,522,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.145593,1.460507
-192290155L-562,562,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.145847,1.460781
-192290155L-582,582,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.146000,1.460461
-192290155L-6002,6002,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.142392,1.461969
-192290155L-608,608,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.146249,1.460259
-192290155L-670,670,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.146821,1.460227
-192290155L-692,692,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.147057,1.460368
-192290155L-712,712,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.147227,1.460311
-192290155L-732,732,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.147398,1.460253
-192290155L-752,752,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.147585,1.460189
-192290155L-802,802,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,CAD,45.147834,1.459702
-192290159R-35,35,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,CAD,45.143473,1.459667
-192290159R-48,48,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,CAD,45.143605,1.459796
-192290159R-50,50,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,CAD,45.143393,1.459913
-192290159R-51,51,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,CAD,45.143554,1.460100
-192290160S-114,114,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145203,1.462739
-192290160S-115,115,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145271,1.462689
-192290160S-134,134,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145266,1.462984
-192290160S-135,135,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145335,1.462937
-192290160S-14,14,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144892,1.461535
-192290160S-15,15,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144964,1.461500
-192290160S-154,154,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145319,1.463189
-192290160S-155,155,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145389,1.463147
-192290160S-185,185,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145321,1.463579
-192290160S-195,195,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145165,1.463548
-192290160S-234,234,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144829,1.463620
-192290160S-258,258,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144630,1.463541
-192290160S-278,278,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144491,1.463215
-192290160S-290A,290A,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144580,1.463045
-192290160S-290B,290B,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144533,1.462799
-192290160S-290C,290C,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144346,1.462801
-192290160S-310,310,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144168,1.463358
-192290160S-34,34,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.144949,1.461754
-192290160S-35,35,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145019,1.461713
-192290160S-54,54,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145010,1.461993
-192290160S-55,55,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145085,1.461968
-192290160S-74,74,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145077,1.462254
-192290160S-75,75,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145150,1.462219
-192290160S-94,94,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145137,1.462483
-192290160S-95,95,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,CAD,45.145207,1.462439
-192290161T-160,160,Impasse des Biars,19600,Saint-Pantaléon-de-Larche,CAD,45.136021,1.459755
-192290161T-68,68,Impasse des Biars,19600,Saint-Pantaléon-de-Larche,CAD,45.136937,1.459581
-192290161T-98,98,Impasse des Biars,19600,Saint-Pantaléon-de-Larche,CAD,45.136876,1.460188
-192290162U-260,260,Rue Romaine,19600,Saint-Pantaléon-de-Larche,CAD,45.138057,1.460628
-192290162U-280,280,Rue Romaine,19600,Saint-Pantaléon-de-Larche,CAD,45.138282,1.460464
-192290162U-365,365,Rue Romaine,19600,Saint-Pantaléon-de-Larche,CAD,45.138142,1.459599
-192290162U-406,406,Rue Romaine,19600,Saint-Pantaléon-de-Larche,CAD,45.138718,1.459404
+192290155L-126,126,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.142061,1.461837
+192290155L-205,205,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.142711,1.461724
+192290155L-216,216,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.142907,1.461827
+192290155L-236,236,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.143020,1.462119
+192290155L-259,259,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.143330,1.461717
+192290155L-306,306,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.143601,1.461794
+192290155L-322,322,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.143914,1.461719
+192290155L-346,346,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144070,1.461668
+192290155L-348,348,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144035,1.461839
+192290155L-358,358,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144177,1.461615
+192290155L-372,372,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144281,1.461563
+192290155L-378,378,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144357,1.461933
+192290155L-402,402,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144547,1.461431
+192290155L-416,416,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144679,1.461364
+192290155L-430,430,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.144808,1.461298
+192290155L-522,522,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.145593,1.460507
+192290155L-562,562,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.145847,1.460781
+192290155L-582,582,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.146000,1.460461
+192290155L-6002,6002,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.142392,1.461969
+192290155L-608,608,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.146249,1.460259
+192290155L-670,670,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.146821,1.460227
+192290155L-692,692,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.147057,1.460368
+192290155L-712,712,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.147227,1.460311
+192290155L-732,732,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.147398,1.460253
+192290155L-752,752,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.147585,1.460189
+192290155L-802,802,Rue Victor Hugo,19600,Saint-Pantaléon-de-Larche,C+O,45.147834,1.459702
+192290159R-35,35,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,C+O,45.143473,1.459667
+192290159R-48,48,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,C+O,45.143605,1.459796
+192290159R-50,50,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,C+O,45.143393,1.459913
+192290159R-51,51,Impasse des Violettes,19600,Saint-Pantaléon-de-Larche,C+O,45.143554,1.460100
+192290160S-114,114,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145203,1.462739
+192290160S-115,115,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145271,1.462689
+192290160S-134,134,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145266,1.462984
+192290160S-135,135,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145335,1.462937
+192290160S-14,14,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144892,1.461535
+192290160S-15,15,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144964,1.461500
+192290160S-154,154,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145319,1.463189
+192290160S-155,155,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145389,1.463147
+192290160S-185,185,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145321,1.463579
+192290160S-195,195,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145165,1.463548
+192290160S-234,234,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144829,1.463620
+192290160S-258,258,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144630,1.463541
+192290160S-278,278,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144491,1.463215
+192290160S-290A,290A,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144580,1.463045
+192290160S-290B,290B,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144533,1.462799
+192290160S-290C,290C,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144346,1.462801
+192290160S-310,310,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144168,1.463358
+192290160S-34,34,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.144949,1.461754
+192290160S-35,35,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145019,1.461713
+192290160S-54,54,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145010,1.461993
+192290160S-55,55,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145085,1.461968
+192290160S-74,74,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145077,1.462254
+192290160S-75,75,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145150,1.462219
+192290160S-94,94,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145137,1.462483
+192290160S-95,95,Rue Jean Aimé Villeneuve,19600,Saint-Pantaléon-de-Larche,C+O,45.145207,1.462439
+192290161T-160,160,Impasse des Biars,19600,Saint-Pantaléon-de-Larche,C+O,45.136021,1.459755
+192290161T-68,68,Impasse des Biars,19600,Saint-Pantaléon-de-Larche,C+O,45.136937,1.459581
+192290161T-98,98,Impasse des Biars,19600,Saint-Pantaléon-de-Larche,C+O,45.136876,1.460188
+192290162U-260,260,Rue Romaine,19600,Saint-Pantaléon-de-Larche,C+O,45.138057,1.460628
+192290162U-280,280,Rue Romaine,19600,Saint-Pantaléon-de-Larche,C+O,45.138282,1.460464
+192290162U-365,365,Rue Romaine,19600,Saint-Pantaléon-de-Larche,C+O,45.138142,1.459599
+192290162U-406,406,Rue Romaine,19600,Saint-Pantaléon-de-Larche,C+O,45.138718,1.459404
 19229B074E-6433,6433,Le Grogeary,19600,Saint-Pantaléon-de-Larche,CAD,45.124541,1.420082
 19229B079K-6419,6419,La Jarousse,19600,Saint-Pantaléon-de-Larche,CAD,45.133513,1.426698
 19229B126L-6080,6080,La Roche Haute,19600,Saint-Pantaléon-de-Larche,CAD,45.156888,1.441736
