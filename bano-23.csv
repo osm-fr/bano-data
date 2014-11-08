@@ -17792,7 +17792,7 @@
 231240022K-5,5,Rue de la Piscine,23210,Marsac,C+O,46.096418,1.586311
 231240022K-6,6,Rue de la Piscine,23210,Marsac,C+O,46.096444,1.586423
 231240022K-7,7,Rue de la Piscine,23210,Marsac,C+O,46.096558,1.586133
-231240022K-8,8,Rue de la Piscine,23210,Marsac,C+O,46.096626,1.586188
+231240022K-8,8,Rue de la Piscine,23210,Marsac,OSM,46.096643,1.586345
 231240022K-9,9,Rue de la Piscine,23210,Marsac,C+O,46.097312,1.585126
 231240024M-10,10,Rue des Rosiers,23210,Marsac,C+O,46.096169,1.585086
 231240024M-11,11,Rue des Rosiers,23210,Marsac,C+O,46.096033,1.585021
@@ -23221,86 +23221,86 @@
 231900009J-5,5,Rue du Stade,23190,Saint-Domet,CAD,46.041460,2.299851
 231900009J-7,7,Rue du Stade,23190,Saint-Domet,CAD,46.041221,2.299824
 231900009J-8,8,Rue du Stade,23190,Saint-Domet,CAD,46.040879,2.299680
-231920020M-2,2,Route de Bénévent,23290,Saint-Étienne-de-Fursac,CAD,46.146883,1.518891
-231920020M-4,4,Route de Bénévent,23290,Saint-Étienne-de-Fursac,CAD,46.146730,1.519826
+231920020M-2,2,Route de Bénévent,23290,Saint-Étienne-de-Fursac,C+O,46.146883,1.518891
+231920020M-4,4,Route de Bénévent,23290,Saint-Étienne-de-Fursac,C+O,46.146730,1.519826
 231920035D-1,1,D de Chatenet,23290,Saint-Étienne-de-Fursac,CAD,46.140549,1.518788
 231920035D-2,2,D de Chatenet,23290,Saint-Étienne-de-Fursac,CAD,46.140810,1.517788
 231920035D-3,3,D de Chatenet,23290,Saint-Étienne-de-Fursac,CAD,46.139703,1.518453
-231920040J-10,10,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143923,1.517031
-231920040J-12,12,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143940,1.517311
-231920040J-14,14,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143962,1.517567
-231920040J-16,16,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143964,1.517829
-231920040J-18,18,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143964,1.518098
-231920040J-20,20,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143948,1.518344
-231920040J-2,2,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143694,1.515268
-231920040J-4,4,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143841,1.515557
-231920040J-6,6,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.143908,1.516028
-231920040J-7,7,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,CAD,46.144139,1.519577
-231920080C-12,12,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146038,1.513207
-231920080C-14,14,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146063,1.513272
-231920080C-16,16,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146110,1.513351
-231920080C-18,18,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.145794,1.513958
-231920080C-20,20,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146180,1.513485
-231920080C-22,22,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146204,1.513596
-231920080C-2,2,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146444,1.512843
-231920080C-4,4,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146288,1.513038
-231920080C-6,6,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146230,1.513078
-231920080C-8,8,Place de l'Église,23290,Saint-Étienne-de-Fursac,CAD,46.146148,1.513118
-231920100Z-11,11,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146555,1.515928
-231920100Z-1,1,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146402,1.514700
-231920100Z-12,12,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.147603,1.520702
-231920100Z-13,13,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146577,1.516112
-231920100Z-14,14,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.147707,1.520939
-231920100Z-15,15,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146597,1.516286
-231920100Z-16,16,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.147806,1.521162
-231920100Z-18,18,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.147900,1.521375
-231920100Z-19,19,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146647,1.516693
-231920100Z-20,20,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.148004,1.521610
-231920100Z-21,21,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146686,1.516961
-231920100Z-22,22,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.148116,1.521863
-231920100Z-2,2,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146410,1.515489
-231920100Z-23,23,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146830,1.517769
-231920100Z-3,3,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146440,1.514972
-231920100Z-4,4,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146763,1.517887
-231920100Z-5,5,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146490,1.515373
-231920100Z-6,6,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146825,1.518209
-231920100Z-7,7,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146512,1.515554
-231920100Z-8,8,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.147080,1.519479
-231920100Z-9,9,Route de Guéret,23290,Saint-Étienne-de-Fursac,CAD,46.146535,1.515748
-231920160P-1,1,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142519,1.516324
-231920160P-1B,1BIS,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142533,1.516251
-231920160P-2,2,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142489,1.516211
-231920160P-4,4,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142436,1.516133
-231920160P-6,6,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142357,1.516172
-231920160P-8,8,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142114,1.516171
-231920170A-1,1,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142683,1.516193
-231920170A-2,2,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142402,1.516892
-231920170A-4,4,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142759,1.516981
-231920170A-6,6,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.143025,1.517007
-231920170A-7,7,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142730,1.516818
-231920170A-7B,7BIS,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.142754,1.516784
-231920170A-8,8,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,CAD,46.143036,1.516865
-231920180L-10,10,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144334,1.513186
-231920180L-11,11,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.142547,1.511356
-231920180L-1,1,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144778,1.513342
-231920180L-12,12,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.143969,1.512929
-231920180L-13,13,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.142468,1.511321
-231920180L-14,14,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.143404,1.511534
-231920180L-16,16,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.142827,1.511295
-231920180L-2,2,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144997,1.513136
-231920180L-3,3,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144617,1.513361
-231920180L-4,4,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144824,1.513203
-231920180L-5,5,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144427,1.513338
-231920180L-6,6,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144660,1.513245
-231920180L-7,7,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144329,1.513308
-231920180L-8,8,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.144438,1.513223
-231920180L-9,9,Route de Limoges,23290,Saint-Étienne-de-Fursac,CAD,46.143909,1.513015
-231920200H-1,1,Place de la Mairie,23290,Saint-Étienne-de-Fursac,CAD,46.146667,1.513114
-231920200H-2B,2BIS,Place de la Mairie,23290,Saint-Étienne-de-Fursac,CAD,46.146688,1.512398
-231920200H-3,3,Place de la Mairie,23290,Saint-Étienne-de-Fursac,CAD,46.146593,1.513129
-231920200H-4,4,Place de la Mairie,23290,Saint-Étienne-de-Fursac,CAD,46.146568,1.512706
-231920200H-5,5,Place de la Mairie,23290,Saint-Étienne-de-Fursac,CAD,46.146552,1.513136
-231920200H-6,6,Place de la Mairie,23290,Saint-Étienne-de-Fursac,CAD,46.146508,1.512768
+231920040J-10,10,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143923,1.517031
+231920040J-12,12,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143940,1.517311
+231920040J-14,14,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143962,1.517567
+231920040J-16,16,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143964,1.517829
+231920040J-18,18,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143964,1.518098
+231920040J-20,20,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143948,1.518344
+231920040J-2,2,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143694,1.515268
+231920040J-4,4,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143841,1.515557
+231920040J-6,6,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.143908,1.516028
+231920040J-7,7,Rue de Clairefontaine,23290,Saint-Étienne-de-Fursac,C+O,46.144139,1.519577
+231920080C-12,12,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146038,1.513207
+231920080C-14,14,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146063,1.513272
+231920080C-16,16,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146110,1.513351
+231920080C-18,18,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.145794,1.513958
+231920080C-20,20,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146180,1.513485
+231920080C-22,22,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146204,1.513596
+231920080C-2,2,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146444,1.512843
+231920080C-4,4,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146288,1.513038
+231920080C-6,6,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146230,1.513078
+231920080C-8,8,Place de l'Église,23290,Saint-Étienne-de-Fursac,C+O,46.146148,1.513118
+231920100Z-11,11,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146555,1.515928
+231920100Z-1,1,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146402,1.514700
+231920100Z-12,12,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.147603,1.520702
+231920100Z-13,13,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146577,1.516112
+231920100Z-14,14,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.147707,1.520939
+231920100Z-15,15,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146597,1.516286
+231920100Z-16,16,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.147806,1.521162
+231920100Z-18,18,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.147900,1.521375
+231920100Z-19,19,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146647,1.516693
+231920100Z-20,20,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.148004,1.521610
+231920100Z-21,21,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146686,1.516961
+231920100Z-22,22,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.148116,1.521863
+231920100Z-2,2,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146410,1.515489
+231920100Z-23,23,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146830,1.517769
+231920100Z-3,3,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146440,1.514972
+231920100Z-4,4,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146763,1.517887
+231920100Z-5,5,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146490,1.515373
+231920100Z-6,6,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146825,1.518209
+231920100Z-7,7,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146512,1.515554
+231920100Z-8,8,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.147080,1.519479
+231920100Z-9,9,Route de Guéret,23290,Saint-Étienne-de-Fursac,C+O,46.146535,1.515748
+231920160P-1,1,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142519,1.516324
+231920160P-1B,1BIS,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142533,1.516251
+231920160P-2,2,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142489,1.516211
+231920160P-4,4,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142436,1.516133
+231920160P-6,6,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142357,1.516172
+231920160P-8,8,Impasse de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142114,1.516171
+231920170A-1,1,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142683,1.516193
+231920170A-2,2,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142402,1.516892
+231920170A-4,4,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142759,1.516981
+231920170A-6,6,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.143025,1.517007
+231920170A-7,7,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142730,1.516818
+231920170A-7B,7BIS,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.142754,1.516784
+231920170A-8,8,Place de Lascougiraud,23290,Saint-Étienne-de-Fursac,C+O,46.143036,1.516865
+231920180L-10,10,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144334,1.513186
+231920180L-11,11,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.142547,1.511356
+231920180L-1,1,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144778,1.513342
+231920180L-12,12,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.143969,1.512929
+231920180L-13,13,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.142468,1.511321
+231920180L-14,14,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.143404,1.511534
+231920180L-16,16,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.142827,1.511295
+231920180L-2,2,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144997,1.513136
+231920180L-3,3,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144617,1.513361
+231920180L-4,4,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144824,1.513203
+231920180L-5,5,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144427,1.513338
+231920180L-6,6,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144660,1.513245
+231920180L-7,7,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144329,1.513308
+231920180L-8,8,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.144438,1.513223
+231920180L-9,9,Route de Limoges,23290,Saint-Étienne-de-Fursac,C+O,46.143909,1.513015
+231920200H-1,1,Place de la Mairie,23290,Saint-Étienne-de-Fursac,C+O,46.146667,1.513114
+231920200H-2B,2BIS,Place de la Mairie,23290,Saint-Étienne-de-Fursac,C+O,46.146688,1.512398
+231920200H-3,3,Place de la Mairie,23290,Saint-Étienne-de-Fursac,C+O,46.146593,1.513129
+231920200H-4,4,Place de la Mairie,23290,Saint-Étienne-de-Fursac,C+O,46.146568,1.512706
+231920200H-5,5,Place de la Mairie,23290,Saint-Étienne-de-Fursac,C+O,46.146552,1.513136
+231920200H-6,6,Place de la Mairie,23290,Saint-Étienne-de-Fursac,C+O,46.146508,1.512768
 231920210U-10,10,Route de Marsac,23290,Saint-Étienne-de-Fursac,C+O,46.144408,1.514038
 231920210U-10B,10BIS,Route de Marsac,23290,Saint-Étienne-de-Fursac,C+O,46.144464,1.513957
 231920210U-11,11,Route de Marsac,23290,Saint-Étienne-de-Fursac,C+O,46.144517,1.514050
@@ -23337,26 +23337,26 @@
 231920260Y-8,8,Rue de la Poste,23290,Saint-Étienne-de-Fursac,C+O,46.145687,1.512883
 231920270J-1,1,Rue du Puy La Croix,23290,Saint-Étienne-de-Fursac,CAD,46.143975,1.514243
 231920270J-3,3,Rue du Puy La Croix,23290,Saint-Étienne-de-Fursac,CAD,46.143989,1.513838
-23192A100U-11,11,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.145079,1.518087
-23192A100U-1,1,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.144214,1.518928
-23192A100U-12,12,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.145262,1.518800
-23192A100U-14,14,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.145174,1.518254
-23192A100U-2,2,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.144082,1.519003
-23192A100U-3,3,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.144488,1.518894
-23192A100U-4,4,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.144276,1.519032
-23192A100U-5,5,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.144887,1.518807
-23192A100U-6,6,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.144472,1.519003
-23192A100U-7,7,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.145034,1.518616
-23192A100U-8,8,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.144922,1.518953
-23192A100U-9,9,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,CAD,46.145044,1.518246
-23192A120R-12,12,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.139628,1.532726
-23192A120R-14,14,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.142670,1.519458
-23192A120R-15,15,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.142906,1.519627
-23192A120R-2,2,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.143552,1.519596
-23192A120R-4,4,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.143481,1.520210
-23192A120R-6,6,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.143275,1.520143
-23192A120R-8,8,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.142845,1.520234
-23192A120R-8B,8BIS,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,CAD,46.143038,1.519866
+23192A100U-11,11,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.145079,1.518087
+23192A100U-1,1,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.144214,1.518928
+23192A100U-12,12,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.145262,1.518800
+23192A100U-14,14,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.145174,1.518254
+23192A100U-2,2,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.144082,1.519003
+23192A100U-3,3,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.144488,1.518894
+23192A100U-4,4,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.144276,1.519032
+23192A100U-5,5,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.144887,1.518807
+23192A100U-6,6,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.144472,1.519003
+23192A100U-7,7,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.145034,1.518616
+23192A100U-8,8,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.144922,1.518953
+23192A100U-9,9,Lotissement du Peyroux,23290,Saint-Étienne-de-Fursac,C+O,46.145044,1.518246
+23192A120R-12,12,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.139628,1.532726
+23192A120R-14,14,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.142670,1.519458
+23192A120R-15,15,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.142906,1.519627
+23192A120R-2,2,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.143552,1.519596
+23192A120R-4,4,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.143481,1.520210
+23192A120R-6,6,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.143275,1.520143
+23192A120R-8,8,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.142845,1.520234
+23192A120R-8B,8BIS,Lotissement des Rivailles,23290,Saint-Étienne-de-Fursac,C+O,46.143038,1.519866
 23192B169F-38A,38A,Paulhac,23290,Saint-Étienne-de-Fursac,CAD,46.119915,1.508797
 23192B190D-9,9,La Prade,23290,Saint-Étienne-de-Fursac,OSM,46.101902,1.515917
 231930001M-10,10,Route d'Aubusson,23000,Sainte-Feyre,C+O,46.138638,1.916145
@@ -25166,15 +25166,15 @@
 232310100E-7,7,Route de Bel-Air,23290,Saint-Pierre-de-Fursac,C+O,46.146661,1.510969
 232310100E-8,8,Route de Bel-Air,23290,Saint-Pierre-de-Fursac,C+O,46.146859,1.511576
 232310100E-9,9,Route de Bel-Air,23290,Saint-Pierre-de-Fursac,C+O,46.146560,1.510913
-232310150J-10,10,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.147161,1.511591
-232310150J-1,1,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.147634,1.511887
-232310150J-12,12,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.146786,1.511546
-232310150J-2,2,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.147336,1.512009
-232310150J-3,3,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.147193,1.512116
-232310150J-4,4,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.147237,1.511993
-232310150J-5,5,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.146721,1.511576
-232310150J-6,6,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.147175,1.511912
-232310150J-8,8,Route du Chateau,23290,Saint-Pierre-de-Fursac,CAD,46.147140,1.511688
+232310150J-10,10,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.147161,1.511591
+232310150J-1,1,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.147634,1.511887
+232310150J-12,12,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.146786,1.511546
+232310150J-2,2,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.147336,1.512009
+232310150J-3,3,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.147193,1.512116
+232310150J-4,4,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.147237,1.511993
+232310150J-5,5,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.146721,1.511576
+232310150J-6,6,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.147175,1.511912
+232310150J-8,8,Route du Château,23290,Saint-Pierre-de-Fursac,C+O,46.147140,1.511688
 232310250T-11,11,Route de l'Église,23290,Saint-Pierre-de-Fursac,C+O,46.147889,1.511633
 232310250T-1,1,Route de l'Église,23290,Saint-Pierre-de-Fursac,C+O,46.148186,1.512143
 232310250T-13,13,Route de l'Église,23290,Saint-Pierre-de-Fursac,C+O,46.147836,1.511560
@@ -25184,13 +25184,13 @@
 232310250T-6,6,Route de l'Église,23290,Saint-Pierre-de-Fursac,C+O,46.147812,1.512293
 232310250T-7,7,Route de l'Église,23290,Saint-Pierre-de-Fursac,C+O,46.147923,1.511739
 232310250T-9,9,Route de l'Église,23290,Saint-Pierre-de-Fursac,C+O,46.147909,1.511675
-232310350B-1,1,Rue de Gaulieres,23290,Saint-Pierre-de-Fursac,CAD,46.147996,1.513380
-232310350B-2,2,Rue de Gaulieres,23290,Saint-Pierre-de-Fursac,CAD,46.148073,1.514519
-232310350B-3,3,Rue de Gaulieres,23290,Saint-Pierre-de-Fursac,CAD,46.147977,1.514530
-232310350B-4,4,Rue de Gaulieres,23290,Saint-Pierre-de-Fursac,CAD,46.148334,1.514826
-232310350B-6,6,Rue de Gaulieres,23290,Saint-Pierre-de-Fursac,CAD,46.148078,1.514995
-232310350B-8,8,Rue de Gaulieres,23290,Saint-Pierre-de-Fursac,CAD,46.148044,1.516025
-232310400F-1,1,Place Marc Geoffre,23290,Saint-Pierre-de-Fursac,CAD,46.147214,1.512642
+232310350B-1,1,Rue de Gaulières,23290,Saint-Pierre-de-Fursac,C+O,46.147996,1.513380
+232310350B-2,2,Rue de Gaulières,23290,Saint-Pierre-de-Fursac,C+O,46.148073,1.514519
+232310350B-3,3,Rue de Gaulières,23290,Saint-Pierre-de-Fursac,C+O,46.147977,1.514530
+232310350B-4,4,Rue de Gaulières,23290,Saint-Pierre-de-Fursac,C+O,46.148334,1.514826
+232310350B-6,6,Rue de Gaulières,23290,Saint-Pierre-de-Fursac,C+O,46.148078,1.514995
+232310350B-8,8,Rue de Gaulières,23290,Saint-Pierre-de-Fursac,C+O,46.148044,1.516025
+232310400F-1,1,Place Marc Geoffre,23290,Saint-Pierre-de-Fursac,C+O,46.147214,1.512642
 232310600Y-10,10,Route de Saint-Priest,23290,Saint-Pierre-de-Fursac,C+O,46.149126,1.513280
 232310600Y-1,1,Route de Saint-Priest,23290,Saint-Pierre-de-Fursac,C+O,46.148818,1.512583
 232310600Y-12,12,Route de Saint-Priest,23290,Saint-Pierre-de-Fursac,C+O,46.149694,1.513723
@@ -25209,48 +25209,48 @@
 232310600Y-7,7,Route de Saint-Priest,23290,Saint-Pierre-de-Fursac,C+O,46.150326,1.514125
 232310600Y-8,8,Route de Saint-Priest,23290,Saint-Pierre-de-Fursac,C+O,46.148989,1.512903
 232310600Y-9,9,Route de Saint-Priest,23290,Saint-Pierre-de-Fursac,C+O,46.151027,1.514449
-232310630F-10,10,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.150420,1.510173
-232310630F-1,1,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149406,1.511516
-232310630F-12,12,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.150556,1.510014
-232310630F-13,13,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.150225,1.510561
-232310630F-15,15,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.150368,1.510396
-232310630F-17,17,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.150688,1.510023
-232310630F-1T,1TER,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149379,1.511373
-232310630F-2,2,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149595,1.511127
-232310630F-2T,2TER,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149509,1.511226
-232310630F-3,3,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149603,1.511285
-232310630F-4,4,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149831,1.510857
-232310630F-4B,4BIS,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149688,1.511021
-232310630F-6,6,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.149963,1.510703
-232310630F-8,8,Route de la Souterraine,23290,Saint-Pierre-de-Fursac,CAD,46.150145,1.510493
-232310650C-1,1,Route du Stade,23290,Saint-Pierre-de-Fursac,CAD,46.151086,1.510091
-232310650C-2,2,Route du Stade,23290,Saint-Pierre-de-Fursac,CAD,46.151355,1.510488
-232310650C-4,4,Route du Stade,23290,Saint-Pierre-de-Fursac,CAD,46.152579,1.510278
-232310650C-6,6,Route du Stade,23290,Saint-Pierre-de-Fursac,CAD,46.152652,1.510769
-23231A001S-9,9,Lotissement Sainte-Catherine,23290,Saint-Pierre-de-Fursac,CAD,46.154437,1.505552
-23231A005W-10,10,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148571,1.510917
-23231A005W-11,11,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148361,1.509647
-23231A005W-12,12,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148275,1.509963
-23231A005W-13,13,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148184,1.510312
-23231A005W-14,14,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148254,1.510736
-23231A005W-15,15,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148282,1.510774
-23231A005W-16,16,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148447,1.510971
-23231A005W-17,17,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148471,1.511006
-23231A005W-18,18,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148539,1.511172
-23231A005W-19,19,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.149352,1.510081
-23231A005W-20,20,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.149077,1.510021
-23231A005W-21,21,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148922,1.509830
-23231A005W-22,22,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148743,1.509609
-23231A005W-2,2,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148895,1.510797
-23231A005W-23,23,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148615,1.509012
-23231A005W-24,24,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148535,1.508976
-23231A005W-25,25,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148645,1.508642
-23231A005W-3,3,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.149043,1.510556
-23231A005W-5,5,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148993,1.510132
-23231A005W-6,6,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148803,1.509905
-23231A005W-7,7,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148621,1.509680
-23231A005W-8,8,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148286,1.510567
-23231A005W-9,9,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,CAD,46.148421,1.510734
+232310630F-10,10,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.150420,1.510173
+232310630F-1,1,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149406,1.511516
+232310630F-12,12,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.150556,1.510014
+232310630F-13,13,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.150225,1.510561
+232310630F-15,15,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.150368,1.510396
+232310630F-17,17,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.150688,1.510023
+232310630F-1T,1TER,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149379,1.511373
+232310630F-2,2,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149595,1.511127
+232310630F-2T,2TER,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149509,1.511226
+232310630F-3,3,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149603,1.511285
+232310630F-4,4,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149831,1.510857
+232310630F-4B,4BIS,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149688,1.511021
+232310630F-6,6,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.149963,1.510703
+232310630F-8,8,Route de La Souterraine,23290,Saint-Pierre-de-Fursac,C+O,46.150145,1.510493
+232310650C-1,1,Route du Stade,23290,Saint-Pierre-de-Fursac,C+O,46.151086,1.510091
+232310650C-2,2,Route du Stade,23290,Saint-Pierre-de-Fursac,C+O,46.151355,1.510488
+232310650C-4,4,Route du Stade,23290,Saint-Pierre-de-Fursac,C+O,46.152579,1.510278
+232310650C-6,6,Route du Stade,23290,Saint-Pierre-de-Fursac,C+O,46.152652,1.510769
+23231A001S-9,9,Lotissement Sainte-Catherine,23290,Saint-Pierre-de-Fursac,C+O,46.154437,1.505552
+23231A005W-10,10,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148571,1.510917
+23231A005W-11,11,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148361,1.509647
+23231A005W-12,12,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148275,1.509963
+23231A005W-13,13,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148184,1.510312
+23231A005W-14,14,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148254,1.510736
+23231A005W-15,15,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148282,1.510774
+23231A005W-16,16,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148447,1.510971
+23231A005W-17,17,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148471,1.511006
+23231A005W-18,18,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148539,1.511172
+23231A005W-19,19,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.149352,1.510081
+23231A005W-20,20,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.149077,1.510021
+23231A005W-21,21,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148922,1.509830
+23231A005W-22,22,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148743,1.509609
+23231A005W-2,2,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148895,1.510797
+23231A005W-23,23,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148615,1.509012
+23231A005W-24,24,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148535,1.508976
+23231A005W-25,25,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148645,1.508642
+23231A005W-3,3,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.149043,1.510556
+23231A005W-5,5,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148993,1.510132
+23231A005W-6,6,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148803,1.509905
+23231A005W-7,7,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148621,1.509680
+23231A005W-8,8,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148286,1.510567
+23231A005W-9,9,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148421,1.510734
 232350002F-1,1,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,CAD,46.201097,1.534988
 232350002F-2,2,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,CAD,46.200826,1.535966
 232350002F-4,4,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,CAD,46.200955,1.536106
