@@ -15704,7 +15704,7 @@
 431570820U-6,6,Rue Félix Boudignon,43750,Le Puy-en-Velay,CAD,45.042486,3.881893
 431570820U-7,7,Rue Félix Boudignon,43750,Le Puy-en-Velay,CAD,45.042381,3.881919
 431570820U-8,8,Rue Félix Boudignon,43750,Le Puy-en-Velay,CAD,45.042508,3.881779
-431570825Z-3,3,Chemin du Fieu,43750,Le Puy-en-Velay,OSM,45.033453,3.890226
+431570825Z-3,3,Chemin du Fieu,43750,Le Puy-en-Velay,OSM,45.033524,3.890222
 431570830E-11,11,Rue de la Fonderie,43750,Le Puy-en-Velay,C+O,45.039199,3.887241
 431570830E-13,13,Rue de la Fonderie,43750,Le Puy-en-Velay,C+O,45.039118,3.887144
 431570830E-15,15,Rue de la Fonderie,43750,Le Puy-en-Velay,C+O,45.039014,3.887033
@@ -16234,7 +16234,7 @@
 431571060E-3,3,Rue Jean Baptiste Fabre,43750,Le Puy-en-Velay,C+O,45.040589,3.881486
 431571060E-4,4,Rue Jean Baptiste Fabre,43750,Le Puy-en-Velay,C+O,45.040306,3.881326
 431571060E-6,6,Rue Jean Baptiste Fabre,43750,Le Puy-en-Velay,C+O,45.040085,3.881306
-431571060E-8,8,Rue Jean Baptiste Fabre,43750,Le Puy-en-Velay,C+O,45.039876,3.880731
+431571060E-8,8,Rue Jean Baptiste Fabre,43750,Le Puy-en-Velay,OSM,45.039943,3.880726
 431571060E-9,9,Rue Jean Baptiste Fabre,43750,Le Puy-en-Velay,C+O,45.040010,3.881412
 431571070R-10,10,Rue Jean Barthélémy,43750,Le Puy-en-Velay,C+O,45.041159,3.881466
 431571070R-11,11,Rue Jean Barthélémy,43750,Le Puy-en-Velay,C+O,45.041096,3.881187
@@ -22915,10 +22915,10 @@
 431904020D-1,1,Impasse de Ville,43700,Saint-Germain-Laprade,C+O,45.018116,4.000888
 431904020D-3,3,Impasse de Ville,43700,Saint-Germain-Laprade,C+O,45.017980,4.001507
 431904020D-5,5,Impasse de Ville,43700,Saint-Germain-Laprade,C+O,45.017958,4.001701
-431904060X-1,1,Vio Romaine,43700,Saint-Germain-Laprade,C+O,45.023753,4.013750
-431904060X-3,3,Vio Romaine,43700,Saint-Germain-Laprade,C+O,45.023635,4.014014
-431904060X-5,5,Vio Romaine,43700,Saint-Germain-Laprade,C+O,45.023555,4.014193
-431904060X-7,7,Vio Romaine,43700,Saint-Germain-Laprade,C+O,45.023412,4.014551
+431904060X-1,1,Vio Romaine,43700,Saint-Germain-Laprade,CAD,45.023753,4.013750
+431904060X-3,3,Vio Romaine,43700,Saint-Germain-Laprade,CAD,45.023635,4.014014
+431904060X-5,5,Vio Romaine,43700,Saint-Germain-Laprade,CAD,45.023555,4.014193
+431904060X-7,7,Vio Romaine,43700,Saint-Germain-Laprade,CAD,45.023412,4.014551
 431904070H-10,10,Vio de Chapteuil,43700,Saint-Germain-Laprade,C+O,45.025912,4.016764
 431904070H-2,2,Vio de Chapteuil,43700,Saint-Germain-Laprade,C+O,45.025617,4.017768
 431904080U-10,10,Passe du Vingt Deux Juillet 1925,43700,Saint-Germain-Laprade,CAD,45.037551,3.969881
