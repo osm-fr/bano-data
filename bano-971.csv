@@ -4703,16 +4703,16 @@
 971050417H-7,7,Allée Henri Metro,97100,Basse-Terre,CAD,15.997379,-61.717744
 971050417H-8,8,Allée Henri Metro,97100,Basse-Terre,CAD,15.997635,-61.717963
 971050417H-9,9,Allée Henri Metro,97100,Basse-Terre,CAD,15.997226,-61.717538
-971050419K-10,10,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995269,-61.727631
-971050419K-1,1,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995546,-61.727697
-971050419K-14,14,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995175,-61.727532
-971050419K-3,3,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995451,-61.727762
-971050419K-4,4,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995451,-61.727801
-971050419K-5,5,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995407,-61.727721
-971050419K-6,6,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995404,-61.727755
-971050419K-7,7,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995320,-61.727637
-971050419K-8,8,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995338,-61.727701
-971050419K-9,9,Rue Historien Jules Ballet,97100,Basse-Terre,CAD,15.995280,-61.727602
+971050419K-10,10,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995269,-61.727631
+971050419K-1,1,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995546,-61.727697
+971050419K-14,14,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995175,-61.727532
+971050419K-3,3,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995451,-61.727762
+971050419K-4,4,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995451,-61.727801
+971050419K-5,5,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995407,-61.727721
+971050419K-6,6,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995404,-61.727755
+971050419K-7,7,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995320,-61.727637
+971050419K-8,8,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995338,-61.727701
+971050419K-9,9,Rue de l'Historien Jules Ballet,97100,Basse-Terre,C+O,15.995280,-61.727602
 971050420L-11,11,Rue L'Historien Lacour,97100,Basse-Terre,C+O,15.996275,-61.729712
 971050420L-1,1,Rue L'Historien Lacour,97100,Basse-Terre,C+O,15.996023,-61.729867
 971050420L-14,14,Rue L'Historien Lacour,97100,Basse-Terre,C+O,15.996318,-61.729984
@@ -9967,47 +9967,47 @@
 971070008E-104,104,Rue Althey Theogene,97130,Capesterre-Belle-Eau,CAD,16.091071,-61.573384
 971070008E-202,202,Rue Althey Theogene,97130,Capesterre-Belle-Eau,CAD,16.091369,-61.574220
 971070008E-225,225,Rue Althey Theogene,97130,Capesterre-Belle-Eau,CAD,16.090403,-61.574149
-971070010G-10,10,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045682,-61.564150
-971070010G-101,101,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044305,-61.565029
-971070010G-102,102,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044275,-61.564852
-971070010G-1071A,1071A,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045992,-61.564148
-971070010G-123,123,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044484,-61.564971
-971070010G-124,124,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044470,-61.564778
-971070010G-138,138,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044571,-61.564781
-971070010G-144,144,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044615,-61.564718
-971070010G-145,145,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044688,-61.564906
-971070010G-150,150,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044670,-61.564674
-971070010G-151,151,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044743,-61.564869
-971070010G-156,156,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044741,-61.564639
-971070010G-164,164,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044790,-61.564630
-971070010G-169,169,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044890,-61.564782
-971070010G-170,170,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044840,-61.564623
-971070010G-176,176,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044883,-61.564576
-971070010G-181,181,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045007,-61.564725
-971070010G-18,18,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.043677,-61.565070
-971070010G-182,182,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044942,-61.564607
-971070010G-184,184,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044975,-61.564574
-971070010G-186,186,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045023,-61.564557
-971070010G-19,19,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.043541,-61.565218
-971070010G-212,212,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045219,-61.564501
-971070010G-224,224,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045258,-61.564406
-971070010G-230,230,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045349,-61.564414
-971070010G-270,270,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045635,-61.564198
-971070010G-278,278,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045682,-61.564156
-971070010G-286,286,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045739,-61.564108
-971070010G-292,292,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045779,-61.564087
-971070010G-306,306,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045891,-61.564008
-971070010G-309,309,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045992,-61.564166
-971070010G-40,40,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.043737,-61.565025
-971070010G-46,46,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045586,-61.564224
-971070010G-46B,46BIS,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.045586,-61.564210
-971070010G-52,52,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.043844,-61.565018
-971070010G-53,53,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.043931,-61.565205
-971070010G-63,63,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044000,-61.565180
-971070010G-66,66,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.043941,-61.564960
-971070010G-71,71,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044064,-61.565141
-971070010G-79,79,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044131,-61.565111
-971070010G-87,87,Rue de l'Abbe Gregoire,97130,Capesterre-Belle-Eau,CAD,16.044206,-61.565059
+971070010G-10,10,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045682,-61.564150
+971070010G-101,101,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044305,-61.565029
+971070010G-102,102,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044275,-61.564852
+971070010G-1071A,1071A,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045992,-61.564148
+971070010G-123,123,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044484,-61.564971
+971070010G-124,124,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044470,-61.564778
+971070010G-138,138,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044571,-61.564781
+971070010G-144,144,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044615,-61.564718
+971070010G-145,145,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044688,-61.564906
+971070010G-150,150,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044670,-61.564674
+971070010G-151,151,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044743,-61.564869
+971070010G-156,156,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044741,-61.564639
+971070010G-164,164,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044790,-61.564630
+971070010G-169,169,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044890,-61.564782
+971070010G-170,170,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044840,-61.564623
+971070010G-176,176,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044883,-61.564576
+971070010G-181,181,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045007,-61.564725
+971070010G-18,18,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.043677,-61.565070
+971070010G-182,182,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044942,-61.564607
+971070010G-184,184,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044975,-61.564574
+971070010G-186,186,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045023,-61.564557
+971070010G-19,19,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.043541,-61.565218
+971070010G-212,212,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045219,-61.564501
+971070010G-224,224,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045258,-61.564406
+971070010G-230,230,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045349,-61.564414
+971070010G-270,270,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045635,-61.564198
+971070010G-278,278,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045682,-61.564156
+971070010G-286,286,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045739,-61.564108
+971070010G-292,292,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045779,-61.564087
+971070010G-306,306,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045891,-61.564008
+971070010G-309,309,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045992,-61.564166
+971070010G-40,40,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.043737,-61.565025
+971070010G-46,46,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045586,-61.564224
+971070010G-46B,46BIS,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.045586,-61.564210
+971070010G-52,52,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.043844,-61.565018
+971070010G-53,53,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.043931,-61.565205
+971070010G-63,63,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044000,-61.565180
+971070010G-66,66,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.043941,-61.564960
+971070010G-71,71,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044064,-61.565141
+971070010G-79,79,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044131,-61.565111
+971070010G-87,87,Rue Abbé Grégoire,97130,Capesterre-Belle-Eau,C+O,16.044206,-61.565059
 971070011H-1007,1007,Rue des Ananas,97130,Capesterre-Belle-Eau,CAD,16.088388,-61.573336
 971070011H-1177,1177,Rue des Ananas,97130,Capesterre-Belle-Eau,CAD,16.090189,-61.575339
 971070011H-203,203,Rue des Ananas,97130,Capesterre-Belle-Eau,CAD,16.087905,-61.573665
