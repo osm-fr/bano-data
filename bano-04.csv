@@ -737,14 +737,14 @@
 040190165J-7089,7089,Place du Docteur Louis Signoret,04400,Barcelonnette,CAD,44.387616,6.650939
 040190170P-3,3,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388112,6.653624
 040190170P-5,5,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388056,6.653818
-040190180A-2,2,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384846,6.650703
-040190180A-5,5,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.383831,6.651807
-040190180A-7003,7003,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385201,6.651369
-040190180A-7003A,7003A,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385193,6.651616
-040190180A-7003B,7003B,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385127,6.651634
-040190180A-7003C,7003C,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384970,6.651858
-040190180A-7091,7091,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385046,6.651312
-040190180A-7,7,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.382845,6.651150
+040190180A-2,2,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384846,6.650703
+040190180A-5,5,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.383831,6.651807
+040190180A-7003,7003,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385201,6.651369
+040190180A-7003A,7003A,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385193,6.651616
+040190180A-7003B,7003B,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385127,6.651634
+040190180A-7003C,7003C,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384970,6.651858
+040190180A-7091,7091,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385046,6.651312
+040190180A-7,7,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.382845,6.651150
 040190190L-1,1,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388450,6.644921
 040190190L-2,2,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388400,6.645217
 040190190L-3,3,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388557,6.644638
@@ -9809,12 +9809,12 @@
 041120011M-7,7,Rue de l'Abbé Henri Alivon,04100,Manosque,C+O,43.819491,5.776215
 041120011M-84,84,Rue de l'Abbé Henri Alivon,04100,Manosque,C+O,43.819899,5.775290
 041120012N-37,37,Chemin Albert Blanc,04100,Manosque,OSM,43.832278,5.802999
-041120015S-14,14,Place des Acacias,04100,Manosque,CAD,43.825694,5.760161
-041120015S-317,317,Place des Acacias,04100,Manosque,CAD,43.825597,5.760646
-041120015S-34,34,Place des Acacias,04100,Manosque,CAD,43.825599,5.760238
-041120015S-349,349,Place des Acacias,04100,Manosque,CAD,43.825440,5.760705
-041120015S-52,52,Place des Acacias,04100,Manosque,CAD,43.825460,5.760349
-041120015S-83,83,Place des Acacias,04100,Manosque,CAD,43.825274,5.760252
+041120015S-14,14,Place des Acacias,04100,Manosque,C+O,43.825694,5.760161
+041120015S-317,317,Place des Acacias,04100,Manosque,C+O,43.825597,5.760646
+041120015S-34,34,Place des Acacias,04100,Manosque,C+O,43.825599,5.760238
+041120015S-349,349,Place des Acacias,04100,Manosque,C+O,43.825440,5.760705
+041120015S-52,52,Place des Acacias,04100,Manosque,C+O,43.825460,5.760349
+041120015S-83,83,Place des Acacias,04100,Manosque,C+O,43.825274,5.760252
 041120020X-1,1,Rue Adolphe Defarge,04100,Manosque,CAD,43.833250,5.782066
 041120020X-1A,1A,Rue Adolphe Defarge,04100,Manosque,CAD,43.833246,5.782103
 041120020X-2,2,Rue Adolphe Defarge,04100,Manosque,CAD,43.833327,5.782004
