@@ -13097,10 +13097,10 @@
 092616390G-7,7,Rue des Roquettes,09200,Saint-Girons,OSM,42.978351,1.149448
 092616390G-8,8,Rue des Roquettes,09200,Saint-Girons,OSM,42.978424,1.149438
 092616390G-9,9,Rue des Roquettes,09200,Saint-Girons,OSM,42.978278,1.149214
-092640018T-1,1,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.028084,1.613025
-092640018T-4B,4BIS,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.027785,1.612567
-092640018T-6,6,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.027280,1.612690
-092640018T-8,8,Chemin du Charron,09000,Saint-Jean-de-Verges,CAD,43.027328,1.613158
+092640018T-1,1,Chemin du Charron,09000,Saint-Jean-de-Verges,C+O,43.028084,1.613025
+092640018T-4B,4BIS,Chemin du Charron,09000,Saint-Jean-de-Verges,C+O,43.027785,1.612567
+092640018T-6,6,Chemin du Charron,09000,Saint-Jean-de-Verges,C+O,43.027280,1.612690
+092640018T-8,8,Chemin du Charron,09000,Saint-Jean-de-Verges,C+O,43.027328,1.613158
 092640100G-10,10,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.018237,1.618887
 092640100G-11,11,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.018607,1.618965
 092640100G-1,1,Chemin du Barbie,09000,Saint-Jean-de-Verges,CAD,43.020073,1.618816
@@ -13121,9 +13121,9 @@
 092640105M-2,2,Chemin de Barrau,09000,Saint-Jean-de-Verges,CAD,43.027880,1.616136
 092640105M-2A,2A,Chemin de Barrau,09000,Saint-Jean-de-Verges,CAD,43.028080,1.616272
 092640105M-4,4,Chemin de Barrau,09000,Saint-Jean-de-Verges,CAD,43.028298,1.617120
-092640110T-1,1,Promenade du Canal,09000,Saint-Jean-de-Verges,CAD,43.011513,1.610982
-092640110T-1A,1A,Promenade du Canal,09000,Saint-Jean-de-Verges,CAD,43.011401,1.610927
-092640110T-3,3,Promenade du Canal,09000,Saint-Jean-de-Verges,CAD,43.011464,1.610732
+092640110T-1,1,Promenade du Canal,09000,Saint-Jean-de-Verges,C+O,43.011513,1.610982
+092640110T-1A,1A,Promenade du Canal,09000,Saint-Jean-de-Verges,C+O,43.011401,1.610927
+092640110T-3,3,Promenade du Canal,09000,Saint-Jean-de-Verges,C+O,43.011464,1.610732
 092640115Y-115,115,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.019463,1.623499
 092640115Y-117,117,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.018877,1.623402
 092640115Y-1,1,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.021262,1.619646
@@ -13131,27 +13131,27 @@
 092640115Y-4,4,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.020534,1.619553
 092640115Y-6,6,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.020087,1.619179
 092640115Y-8,8,Chemin de Castille,09000,Saint-Jean-de-Verges,CAD,43.019905,1.620002
-092640120D-2,2,Impasse de la Caussadette,09000,Saint-Jean-de-Verges,CAD,43.020589,1.611465
-092640120D-3,3,Impasse de la Caussadette,09000,Saint-Jean-de-Verges,CAD,43.020558,1.611204
+092640120D-2,2,Impasse de la Caussadette,09000,Saint-Jean-de-Verges,C+O,43.020589,1.611465
+092640120D-3,3,Impasse de la Caussadette,09000,Saint-Jean-de-Verges,C+O,43.020558,1.611204
 092640125J-1,1,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031797,1.623675
 092640125J-2,2,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031690,1.623921
 092640125J-3,3,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031548,1.623445
 092640125J-5,5,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031309,1.623600
 092640125J-7,7,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.031056,1.623329
 092640125J-9,9,Impasse des Chênes,09000,Saint-Jean-de-Verges,CAD,43.030683,1.623670
-092640130P-10,10,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028761,1.611514
-092640130P-11,11,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028609,1.610996
-092640130P-1,1,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027809,1.614683
-092640130P-13,13,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028609,1.611008
-092640130P-14,14,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.029422,1.609936
-092640130P-2,2,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027951,1.614832
-092640130P-2B,2BIS,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028291,1.614787
-092640130P-4,4,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028125,1.614238
-092640130P-5,5,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027512,1.611209
-092640130P-5B,5BIS,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027950,1.611281
-092640130P-7,7,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028711,1.611452
-092640130P-8,8,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.028642,1.612394
-092640130P-9,9,Route de Crampagna,09000,Saint-Jean-de-Verges,CAD,43.027773,1.610945
+092640130P-10,10,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.028761,1.611514
+092640130P-11,11,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.028609,1.610996
+092640130P-1,1,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.027809,1.614683
+092640130P-13,13,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.028609,1.611008
+092640130P-14,14,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.029422,1.609936
+092640130P-2,2,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.027951,1.614832
+092640130P-2B,2BIS,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.028291,1.614787
+092640130P-4,4,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.028125,1.614238
+092640130P-5,5,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.027512,1.611209
+092640130P-5B,5BIS,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.027950,1.611281
+092640130P-7,7,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.028711,1.611452
+092640130P-8,8,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.028642,1.612394
+092640130P-9,9,Route de Crampagna,09000,Saint-Jean-de-Verges,C+O,43.027773,1.610945
 092640135V-10,10,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.003630,1.648390
 092640135V-12,12,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.004257,1.648819
 092640135V-13,13,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.001583,1.651175
@@ -13159,51 +13159,51 @@
 092640135V-4,4,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.002184,1.649131
 092640135V-6,6,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.002912,1.649290
 092640135V-8,8,Route de Dalou,09000,Saint-Jean-de-Verges,CAD,43.002988,1.648663
-092640140A-10,10,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016706,1.610419
-092640140A-11,11,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017423,1.610171
-092640140A-1,1,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.014325,1.610574
-092640140A-12,12,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017382,1.610272
-092640140A-13,13,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017893,1.610420
-092640140A-14,14,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017559,1.610368
-092640140A-15,15,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018182,1.610440
-092640140A-16,16,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.017701,1.610642
-092640140A-17,17,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018112,1.610329
-092640140A-19,19,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018105,1.609761
-092640140A-21,21,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018426,1.609945
-092640140A-2,2,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.014729,1.610856
-092640140A-23,23,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018747,1.610262
-092640140A-23B,23BIS,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.019057,1.610007
-092640140A-25,25,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.018335,1.610714
-092640140A-3,3,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.014475,1.610565
-092640140A-358,358,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015021,1.609931
-092640140A-3B,3BIS,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015314,1.610080
-092640140A-4,4,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015789,1.610725
-092640140A-5,5,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016112,1.610093
-092640140A-5B,5BIS,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016357,1.609482
-092640140A-5T,5TER,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.015934,1.609214
-092640140A-6,6,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016268,1.610683
-092640140A-7,7,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016623,1.609614
-092640140A-8,8,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016486,1.610594
-092640140A-9,9,Avenue des Ecoliers,09000,Saint-Jean-de-Verges,CAD,43.016858,1.610112
-092640145F-1,1,Rue de l'Eglise,09000,Saint-Jean-de-Verges,CAD,43.012884,1.609767
-092640145F-4,4,Rue de l'Eglise,09000,Saint-Jean-de-Verges,CAD,43.013039,1.610043
-092640150L-11,11,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.032059,1.609063
-092640150L-1,1,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.029777,1.608410
-092640150L-12,12,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.034352,1.609791
-092640150L-2,2,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031296,1.609081
-092640150L-31,31,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.037528,1.620161
-092640150L-3,3,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.030444,1.608447
-092640150L-4,4,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.032741,1.609583
-092640150L-5,5,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031061,1.608668
-092640150L-7,7,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031205,1.608083
-092640150L-9,9,Chemin du Farinous,09000,Saint-Jean-de-Verges,CAD,43.031473,1.608822
-092640155S-10,10,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.012313,1.611893
-092640155S-1,1,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011895,1.611260
-092640155S-2,2,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011630,1.611229
-092640155S-4,4,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011735,1.611223
-092640155S-6,6,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011846,1.611298
-092640155S-8,8,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.012003,1.611486
-092640155S-8B,8BIS,Rue de la Fountete,09000,Saint-Jean-de-Verges,CAD,43.011931,1.611927
+092640140A-10,10,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.016706,1.610419
+092640140A-11,11,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.017423,1.610171
+092640140A-1,1,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.014325,1.610574
+092640140A-12,12,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.017382,1.610272
+092640140A-13,13,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.017893,1.610420
+092640140A-14,14,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.017559,1.610368
+092640140A-15,15,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.018182,1.610440
+092640140A-16,16,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.017701,1.610642
+092640140A-17,17,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.018112,1.610329
+092640140A-19,19,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.018105,1.609761
+092640140A-21,21,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.018426,1.609945
+092640140A-2,2,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.014729,1.610856
+092640140A-23,23,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.018747,1.610262
+092640140A-23B,23BIS,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.019057,1.610007
+092640140A-25,25,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.018335,1.610714
+092640140A-3,3,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.014475,1.610565
+092640140A-358,358,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.015021,1.609931
+092640140A-3B,3BIS,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.015314,1.610080
+092640140A-4,4,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.015789,1.610725
+092640140A-5,5,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.016112,1.610093
+092640140A-5B,5BIS,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.016357,1.609482
+092640140A-5T,5TER,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.015934,1.609214
+092640140A-6,6,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.016268,1.610683
+092640140A-7,7,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.016623,1.609614
+092640140A-8,8,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.016486,1.610594
+092640140A-9,9,Avenue des Écoliers,09000,Saint-Jean-de-Verges,C+O,43.016858,1.610112
+092640145F-1,1,Rue de l'Église,09000,Saint-Jean-de-Verges,C+O,43.012884,1.609767
+092640145F-4,4,Rue de l'Église,09000,Saint-Jean-de-Verges,C+O,43.013039,1.610043
+092640150L-11,11,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.032059,1.609063
+092640150L-1,1,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.029777,1.608410
+092640150L-12,12,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.034352,1.609791
+092640150L-2,2,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.031296,1.609081
+092640150L-31,31,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.037528,1.620161
+092640150L-3,3,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.030444,1.608447
+092640150L-4,4,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.032741,1.609583
+092640150L-5,5,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.031061,1.608668
+092640150L-7,7,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.031205,1.608083
+092640150L-9,9,Chemin de Farinous,09000,Saint-Jean-de-Verges,C+O,43.031473,1.608822
+092640155S-10,10,Rue de la Fountete,09000,Saint-Jean-de-Verges,C+O,43.012313,1.611893
+092640155S-1,1,Rue de la Fountete,09000,Saint-Jean-de-Verges,C+O,43.011895,1.611260
+092640155S-2,2,Rue de la Fountete,09000,Saint-Jean-de-Verges,C+O,43.011630,1.611229
+092640155S-4,4,Rue de la Fountete,09000,Saint-Jean-de-Verges,C+O,43.011735,1.611223
+092640155S-6,6,Rue de la Fountete,09000,Saint-Jean-de-Verges,C+O,43.011846,1.611298
+092640155S-8,8,Rue de la Fountete,09000,Saint-Jean-de-Verges,C+O,43.012003,1.611486
+092640155S-8B,8BIS,Rue de la Fountete,09000,Saint-Jean-de-Verges,C+O,43.011931,1.611927
 092640160X-11,11,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024809,1.614408
 092640160X-1,1,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025840,1.614094
 092640160X-13,13,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024732,1.614226
@@ -13216,52 +13216,52 @@
 092640160X-7,7,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.025278,1.614709
 092640160X-8,8,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024818,1.614137
 092640160X-9,9,Chemin de la Galage,09000,Saint-Jean-de-Verges,CAD,43.024996,1.614609
-092640165C-1,1,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013066,1.610664
-092640165C-2,2,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013013,1.610710
-092640165C-3,3,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013060,1.610804
-092640165C-360,360,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013345,1.610911
-092640165C-4,4,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013345,1.610889
-092640165C-5,5,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013146,1.610787
-092640165C-7,7,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013225,1.610786
-092640165C-9,9,Rue des Géraniums,09000,Saint-Jean-de-Verges,CAD,43.013300,1.610844
-092640170H-10,10,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024671,1.612901
-092640170H-11,11,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024761,1.612578
-092640170H-1,1,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020468,1.611855
-092640170H-12,12,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025016,1.613348
-092640170H-13,13,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024822,1.612629
-092640170H-15,15,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024917,1.612679
-092640170H-16,16,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.026116,1.614274
-092640170H-17,17,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024951,1.612773
-092640170H-18,18,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025922,1.614908
-092640170H-19,19,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024988,1.612915
-092640170H-1A,1A,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020543,1.611658
-092640170H-1B,1B,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020689,1.611440
-092640170H-207,207,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025828,1.612975
-092640170H-2,2,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020205,1.611859
-092640170H-23,23,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025179,1.613120
-092640170H-25,25,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.025537,1.613531
-092640170H-3,3,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020936,1.611979
-092640170H-385,385,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.022914,1.612194
-092640170H-4,4,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.020667,1.612373
-092640170H-7,7,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.023582,1.612079
-092640170H-9,9,Route des Hameaux,09000,Saint-Jean-de-Verges,CAD,43.024647,1.612553
-092640175N-1,1,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.027851,1.613659
-092640175N-2,2,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026998,1.612822
-092640175N-2B,2BIS,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.027620,1.613355
-092640175N-3,3,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026788,1.612703
-092640175N-4,4,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026621,1.612452
-092640175N-5,5,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026324,1.612311
-092640175N-6,6,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.025893,1.612277
-092640175N-7,7,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.025518,1.612011
-092640175N-8,8,Chemin de l'Hopital,09000,Saint-Jean-de-Verges,CAD,43.026637,1.609687
+092640165C-1,1,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013066,1.610664
+092640165C-2,2,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013013,1.610710
+092640165C-3,3,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013060,1.610804
+092640165C-360,360,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013345,1.610911
+092640165C-4,4,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013345,1.610889
+092640165C-5,5,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013146,1.610787
+092640165C-7,7,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013225,1.610786
+092640165C-9,9,Rue des Géraniums,09000,Saint-Jean-de-Verges,C+O,43.013300,1.610844
+092640170H-10,10,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.024671,1.612901
+092640170H-11,11,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.024761,1.612578
+092640170H-1,1,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.020468,1.611855
+092640170H-12,12,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.025016,1.613348
+092640170H-13,13,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.024822,1.612629
+092640170H-15,15,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.024917,1.612679
+092640170H-16,16,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.026116,1.614274
+092640170H-17,17,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.024951,1.612773
+092640170H-18,18,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.025922,1.614908
+092640170H-19,19,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.024988,1.612915
+092640170H-1A,1A,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.020543,1.611658
+092640170H-1B,1B,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.020689,1.611440
+092640170H-207,207,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.025828,1.612975
+092640170H-2,2,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.020205,1.611859
+092640170H-23,23,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.025179,1.613120
+092640170H-25,25,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.025537,1.613531
+092640170H-3,3,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.020936,1.611979
+092640170H-385,385,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.022914,1.612194
+092640170H-4,4,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.020667,1.612373
+092640170H-7,7,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.023582,1.612079
+092640170H-9,9,Route des Hameaux,09000,Saint-Jean-de-Verges,C+O,43.024647,1.612553
+092640175N-1,1,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.027851,1.613659
+092640175N-2,2,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.026998,1.612822
+092640175N-2B,2BIS,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.027620,1.613355
+092640175N-3,3,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.026788,1.612703
+092640175N-4,4,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.026621,1.612452
+092640175N-5,5,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.026324,1.612311
+092640175N-6,6,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.025893,1.612277
+092640175N-7,7,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.025518,1.612011
+092640175N-8,8,Chemin de l'Hôpital,09000,Saint-Jean-de-Verges,C+O,43.026637,1.609687
 092640180U-1,1,Impasse des Iris,09000,Saint-Jean-de-Verges,CAD,43.030286,1.626529
 092640180U-2,2,Impasse des Iris,09000,Saint-Jean-de-Verges,CAD,43.030092,1.626756
 092640187B-3,3,Chemin des Lavandieres,09000,Saint-Jean-de-Verges,CAD,43.017468,1.609737
-092640190E-1,1,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012520,1.610411
-092640190E-2,2,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012613,1.610462
-092640190E-3,3,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012483,1.610203
-092640190E-4,4,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012591,1.610332
-092640190E-6,6,Route de la Lèze,09000,Saint-Jean-de-Verges,CAD,43.012568,1.610206
+092640190E-1,1,Route de la Lèze,09000,Saint-Jean-de-Verges,C+O,43.012520,1.610411
+092640190E-2,2,Route de la Lèze,09000,Saint-Jean-de-Verges,C+O,43.012613,1.610462
+092640190E-3,3,Route de la Lèze,09000,Saint-Jean-de-Verges,C+O,43.012483,1.610203
+092640190E-4,4,Route de la Lèze,09000,Saint-Jean-de-Verges,C+O,43.012591,1.610332
+092640190E-6,6,Route de la Lèze,09000,Saint-Jean-de-Verges,C+O,43.012568,1.610206
 092640195K-1,1,Impasse des Lilas,09000,Saint-Jean-de-Verges,CAD,43.011731,1.611380
 092640195K-2,2,Impasse des Lilas,09000,Saint-Jean-de-Verges,CAD,43.011528,1.611368
 092640200R-10,10,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.031973,1.625977
@@ -13275,31 +13275,31 @@
 092640200R-7,7,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.036889,1.622500
 092640200R-7A,7A,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.036646,1.622849
 092640200R-8,8,Chemin de Loubencat,09000,Saint-Jean-de-Verges,CAD,43.032020,1.626482
-092640203U-2,2,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.014716,1.609803
-092640203U-3,3,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.015095,1.609711
-092640203U-4,4,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.015096,1.609724
-092640203U-5,5,Rue de la Mairie,09000,Saint-Jean-de-Verges,CAD,43.015420,1.609586
+092640203U-2,2,Rue de la Mairie,09000,Saint-Jean-de-Verges,C+O,43.014716,1.609803
+092640203U-3,3,Rue de la Mairie,09000,Saint-Jean-de-Verges,C+O,43.015095,1.609711
+092640203U-4,4,Rue de la Mairie,09000,Saint-Jean-de-Verges,C+O,43.015096,1.609724
+092640203U-5,5,Rue de la Mairie,09000,Saint-Jean-de-Verges,C+O,43.015420,1.609586
 092640205W-2,2,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.022771,1.619338
 092640205W-2B,2BIS,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.023465,1.619705
 092640205W-346,346,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.023003,1.619429
 092640205W-4,4,Chemin des Morénes,09000,Saint-Jean-de-Verges,CAD,43.022835,1.619731
-092640210B-1,1,Place du Moulin,09000,Saint-Jean-de-Verges,CAD,43.012759,1.609770
-092640210B-3,3,Place du Moulin,09000,Saint-Jean-de-Verges,CAD,43.012731,1.609593
-092640215G-11,11,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013352,1.612286
-092640215G-1,1,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013491,1.610808
-092640215G-13,13,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013223,1.612547
-092640215G-15,15,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012943,1.612722
-092640215G-15A,15A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012926,1.612763
-092640215G-1A,1A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013091,1.611781
-092640215G-2,2,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013222,1.611022
-092640215G-2B,2BIS,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013345,1.610919
-092640215G-3,3,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013450,1.611183
-092640215G-347,347,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012561,1.612323
-092640215G-3A,3A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.012830,1.612068
-092640215G-5,5,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013298,1.611471
-092640215G-6,6,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013109,1.611426
-092640215G-7,7,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013245,1.611722
-092640215G-9,9,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,CAD,43.013575,1.612423
+092640210B-1,1,Place du Moulin,09000,Saint-Jean-de-Verges,C+O,43.012759,1.609770
+092640210B-3,3,Place du Moulin,09000,Saint-Jean-de-Verges,C+O,43.012731,1.609593
+092640215G-11,11,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013352,1.612286
+092640215G-1,1,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013491,1.610808
+092640215G-13,13,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013223,1.612547
+092640215G-15,15,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.012943,1.612722
+092640215G-15A,15A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.012926,1.612763
+092640215G-1A,1A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013091,1.611781
+092640215G-2,2,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013222,1.611022
+092640215G-2B,2BIS,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013345,1.610919
+092640215G-3,3,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013450,1.611183
+092640215G-347,347,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.012561,1.612323
+092640215G-3A,3A,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.012830,1.612068
+092640215G-5,5,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013298,1.611471
+092640215G-6,6,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013109,1.611426
+092640215G-7,7,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013245,1.611722
+092640215G-9,9,Chemin de l'Oppidum,09000,Saint-Jean-de-Verges,C+O,43.013575,1.612423
 092640220M-10,10,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.022011,1.620509
 092640220M-11,11,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.022302,1.619521
 092640220M-1,1,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021020,1.618561
@@ -13313,10 +13313,10 @@
 092640220M-7B,7BIS,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021946,1.618319
 092640220M-8,8,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.022009,1.619187
 092640220M-9,9,Chemin de Perramon,09000,Saint-Jean-de-Verges,CAD,43.021950,1.619012
-092640222P-1,1,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027871,1.614293
-092640222P-2,2,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027654,1.614223
-092640222P-3,3,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027295,1.614089
-092640222P-4,4,Impasse du Peuplier,09000,Saint-Jean-de-Verges,CAD,43.027108,1.613810
+092640222P-1,1,Impasse du Peuplier,09000,Saint-Jean-de-Verges,C+O,43.027871,1.614293
+092640222P-2,2,Impasse du Peuplier,09000,Saint-Jean-de-Verges,C+O,43.027654,1.614223
+092640222P-3,3,Impasse du Peuplier,09000,Saint-Jean-de-Verges,C+O,43.027295,1.614089
+092640222P-4,4,Impasse du Peuplier,09000,Saint-Jean-de-Verges,C+O,43.027108,1.613810
 092640225T-10,10,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018749,1.615806
 092640225T-11,11,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.020647,1.617373
 092640225T-1,1,Chemin de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.018832,1.615726
@@ -13343,42 +13343,42 @@
 092640226U-3,3,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019223,1.617856
 092640226U-4,4,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019284,1.618232
 092640226U-5,5,Impasse de la Plaine,09000,Saint-Jean-de-Verges,CAD,43.019078,1.618277
-092640235D-1,1,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.028335,1.613529
-092640235D-2,2,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.029500,1.614883
-092640235D-3,3,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030158,1.614485
-092640235D-4,4,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030076,1.614779
-092640235D-5,5,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030159,1.615101
-092640235D-6,6,Chemin de Pountet,09000,Saint-Jean-de-Verges,CAD,43.030641,1.615675
-092640240J-1,1,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.025108,1.613397
-092640240J-2,2,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024910,1.613172
-092640240J-345,345,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024686,1.614613
-092640240J-7,7,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024433,1.614975
-092640240J-9,9,Chemin du Pountil,09000,Saint-Jean-de-Verges,CAD,43.024289,1.615281
+092640235D-1,1,Chemin du Pountet,09000,Saint-Jean-de-Verges,C+O,43.028335,1.613529
+092640235D-2,2,Chemin du Pountet,09000,Saint-Jean-de-Verges,C+O,43.029500,1.614883
+092640235D-3,3,Chemin du Pountet,09000,Saint-Jean-de-Verges,C+O,43.030158,1.614485
+092640235D-4,4,Chemin du Pountet,09000,Saint-Jean-de-Verges,C+O,43.030076,1.614779
+092640235D-5,5,Chemin du Pountet,09000,Saint-Jean-de-Verges,C+O,43.030159,1.615101
+092640235D-6,6,Chemin du Pountet,09000,Saint-Jean-de-Verges,C+O,43.030641,1.615675
+092640240J-1,1,Chemin du Pountil,09000,Saint-Jean-de-Verges,C+O,43.025108,1.613397
+092640240J-2,2,Chemin du Pountil,09000,Saint-Jean-de-Verges,C+O,43.024910,1.613172
+092640240J-345,345,Chemin du Pountil,09000,Saint-Jean-de-Verges,C+O,43.024686,1.614613
+092640240J-7,7,Chemin du Pountil,09000,Saint-Jean-de-Verges,C+O,43.024433,1.614975
+092640240J-9,9,Chemin du Pountil,09000,Saint-Jean-de-Verges,C+O,43.024289,1.615281
 092640245P-1,1,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012725,1.610881
 092640245P-2,2,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012676,1.610797
 092640245P-3,3,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012549,1.611729
 092640245P-3A,3A,Rue de Pouroum,09000,Saint-Jean-de-Verges,CAD,43.012636,1.611921
-092640250V-10,10,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037205,1.621523
-092640250V-12,12,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037147,1.621416
-092640250V-14,14,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037109,1.621353
-092640250V-16,16,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037308,1.621284
-092640250V-18,18,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037423,1.620985
-092640250V-20,20,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037041,1.621240
-092640250V-22,22,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037006,1.621128
-092640250V-2,2,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037129,1.621898
-092640250V-4,4,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037160,1.621815
-092640250V-6,6,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037211,1.621685
-092640250V-8,8,Rue du Puits,09000,Saint-Jean-de-Verges,CAD,43.037238,1.621601
-092640255A-12,12,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013200,1.610645
-092640255A-14,14,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013235,1.610701
-092640255A-16,16,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013280,1.610725
-092640255A-18,18,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013342,1.610731
-092640255A-20,20,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013393,1.610752
-092640255A-20B,20BIS,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013364,1.610817
-092640255A-22,22,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.014037,1.611219
-092640255A-2,2,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.012813,1.610658
-092640255A-4,4,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.013110,1.611438
-092640255A-8,8,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,CAD,43.012984,1.610632
+092640250V-10,10,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037205,1.621523
+092640250V-12,12,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037147,1.621416
+092640250V-14,14,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037109,1.621353
+092640250V-16,16,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037308,1.621284
+092640250V-18,18,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037423,1.620985
+092640250V-20,20,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037041,1.621240
+092640250V-22,22,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037006,1.621128
+092640250V-2,2,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037129,1.621898
+092640250V-4,4,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037160,1.621815
+092640250V-6,6,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037211,1.621685
+092640250V-8,8,Rue du Puits,09000,Saint-Jean-de-Verges,C+O,43.037238,1.621601
+092640255A-12,12,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.013200,1.610645
+092640255A-14,14,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.013235,1.610701
+092640255A-16,16,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.013280,1.610725
+092640255A-18,18,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.013342,1.610731
+092640255A-20,20,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.013393,1.610752
+092640255A-20B,20BIS,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.013364,1.610817
+092640255A-22,22,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.014037,1.611219
+092640255A-2,2,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.012813,1.610658
+092640255A-4,4,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.013110,1.611438
+092640255A-8,8,Avenue des Pyrénées,09000,Saint-Jean-de-Verges,C+O,43.012984,1.610632
 092640260F-10,10,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015006,1.612446
 092640260F-11,11,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015968,1.611925
 092640260F-11A,11A,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.016132,1.612772
@@ -13395,32 +13395,32 @@
 092640260F-7,7,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015366,1.612142
 092640260F-8,8,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.014599,1.612633
 092640260F-9,9,Chemin de Ragne,09000,Saint-Jean-de-Verges,CAD,43.015803,1.612354
-092640265L-10,10,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.018035,1.610154
-092640265L-12,12,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.018052,1.610042
-092640265L-6,6,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.017929,1.610227
-092640265L-8,8,Impasse de la Riviére,09000,Saint-Jean-de-Verges,CAD,43.017944,1.610173
-092640268P-1,1,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.029728,1.611785
-092640268P-2,2,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028593,1.613947
-092640268P-3,3,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.029504,1.613989
-092640268P-4,4,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028627,1.613570
-092640268P-6,6,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028627,1.613582
-092640268P-8,8,Chemin des Romarins,09000,Saint-Jean-de-Verges,CAD,43.028778,1.613146
-092640270S-2,2,Impasse des Rosiers,09000,Saint-Jean-de-Verges,CAD,43.028154,1.615866
-092640270S-6,6,Impasse des Rosiers,09000,Saint-Jean-de-Verges,CAD,43.027666,1.615638
-092640270S-8,8,Impasse des Rosiers,09000,Saint-Jean-de-Verges,CAD,43.027480,1.615561
-092640275X-11,11,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017519,1.613078
-092640275X-1,1,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018454,1.611944
-092640275X-13,13,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017366,1.613363
-092640275X-2,2,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.019034,1.611578
-092640275X-3,3,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018200,1.612134
-092640275X-4,4,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.019280,1.611795
-092640275X-5,5,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018045,1.612317
-092640275X-6,6,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.019280,1.611807
-092640275X-7,7,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017862,1.612674
-092640275X-8,8,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.018944,1.611944
-092640275X-9,9,Route du Stade,09000,Saint-Jean-de-Verges,CAD,43.017764,1.612900
-092640278A-2,2,Chemin du Tailleur,09000,Saint-Jean-de-Verges,CAD,43.027876,1.612325
-092640278A-3,3,Chemin du Tailleur,09000,Saint-Jean-de-Verges,CAD,43.027440,1.612193
+092640265L-10,10,Impasse de la Rivière,09000,Saint-Jean-de-Verges,C+O,43.018035,1.610154
+092640265L-12,12,Impasse de la Rivière,09000,Saint-Jean-de-Verges,C+O,43.018052,1.610042
+092640265L-6,6,Impasse de la Rivière,09000,Saint-Jean-de-Verges,C+O,43.017929,1.610227
+092640265L-8,8,Impasse de la Rivière,09000,Saint-Jean-de-Verges,C+O,43.017944,1.610173
+092640268P-1,1,Chemin des Romarins,09000,Saint-Jean-de-Verges,C+O,43.029728,1.611785
+092640268P-2,2,Chemin des Romarins,09000,Saint-Jean-de-Verges,C+O,43.028593,1.613947
+092640268P-3,3,Chemin des Romarins,09000,Saint-Jean-de-Verges,C+O,43.029504,1.613989
+092640268P-4,4,Chemin des Romarins,09000,Saint-Jean-de-Verges,C+O,43.028627,1.613570
+092640268P-6,6,Chemin des Romarins,09000,Saint-Jean-de-Verges,C+O,43.028627,1.613582
+092640268P-8,8,Chemin des Romarins,09000,Saint-Jean-de-Verges,C+O,43.028778,1.613146
+092640270S-2,2,Impasse des Rosiers,09000,Saint-Jean-de-Verges,C+O,43.028154,1.615866
+092640270S-6,6,Impasse des Rosiers,09000,Saint-Jean-de-Verges,C+O,43.027666,1.615638
+092640270S-8,8,Impasse des Rosiers,09000,Saint-Jean-de-Verges,C+O,43.027480,1.615561
+092640275X-11,11,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.017519,1.613078
+092640275X-1,1,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.018454,1.611944
+092640275X-13,13,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.017366,1.613363
+092640275X-2,2,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.019034,1.611578
+092640275X-3,3,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.018200,1.612134
+092640275X-4,4,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.019280,1.611795
+092640275X-5,5,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.018045,1.612317
+092640275X-6,6,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.019280,1.611807
+092640275X-7,7,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.017862,1.612674
+092640275X-8,8,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.018944,1.611944
+092640275X-9,9,Route du Stade,09000,Saint-Jean-de-Verges,C+O,43.017764,1.612900
+092640278A-2,2,Chemin du Tailleur,09000,Saint-Jean-de-Verges,C+O,43.027876,1.612325
+092640278A-3,3,Chemin du Tailleur,09000,Saint-Jean-de-Verges,C+O,43.027440,1.612193
 092640280C-1,1,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030726,1.626165
 092640280C-2,2,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030510,1.626331
 092640280C-3,3,Chemin de la Terrasse,09000,Saint-Jean-de-Verges,CAD,43.030727,1.626404
@@ -13432,51 +13432,51 @@
 092640285H-388,388,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.027043,1.615535
 092640285H-5,5,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.027656,1.615954
 092640285H-9,9,Chemin de Terrassou,09000,Saint-Jean-de-Verges,CAD,43.026912,1.615129
-092640290N-10,10,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011964,1.610838
-092640290N-11,11,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012309,1.611131
-092640290N-11A,11A,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012309,1.611149
-092640290N-1,1,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012674,1.610685
-092640290N-12,12,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011865,1.610856
-092640290N-13,13,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011973,1.610936
-092640290N-14,14,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011771,1.610925
-092640290N-14B,14BIS,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011671,1.610706
-092640290N-18,18,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011542,1.611048
-092640290N-19,19,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011429,1.611291
-092640290N-21,21,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.010330,1.612708
-092640290N-2,2,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012526,1.610541
-092640290N-24,24,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.011191,1.611474
-092640290N-3,3,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012606,1.610714
-092640290N-4,4,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012303,1.610673
-092640290N-6,6,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012194,1.610736
-092640290N-7,7,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012512,1.610752
-092640290N-8,8,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012067,1.610763
-092640290N-9,9,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,CAD,43.012404,1.610781
-092640295U-1,1,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.028505,1.615373
-092640295U-12,12,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036217,1.622184
-092640295U-13,13,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.033605,1.620049
-092640295U-14,14,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036370,1.621797
-092640295U-15,15,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034056,1.619655
-092640295U-15B,15BIS,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.033894,1.620006
-092640295U-16,16,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036464,1.621880
-092640295U-17,17,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034448,1.618746
-092640295U-19,19,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034257,1.619889
-092640295U-19A,19A,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034210,1.619705
-092640295U-21,21,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.034148,1.620096
-092640295U-2,2,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035083,1.621564
-092640295U-23,23,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035351,1.620137
-092640295U-25,25,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036312,1.621692
-092640295U-27,27,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036780,1.621437
-092640295U-29,29,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.036660,1.621845
-092640295U-31,31,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.037216,1.622107
-092640295U-33,33,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.037262,1.622132
-092640295U-3,3,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.028649,1.615475
-092640295U-350,350,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.029526,1.615846
-092640295U-35,35,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.037310,1.622157
-092640295U-4,4,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035451,1.621365
-092640295U-5,5,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.029271,1.615097
-092640295U-6,6,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035314,1.622133
-092640295U-8,8,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.035543,1.621845
-092640295U-9,9,Route de Varilhes,09000,Saint-Jean-de-Verges,CAD,43.030693,1.616289
+092640290N-10,10,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011964,1.610838
+092640290N-11,11,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012309,1.611131
+092640290N-11A,11A,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012309,1.611149
+092640290N-1,1,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012674,1.610685
+092640290N-12,12,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011865,1.610856
+092640290N-13,13,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011973,1.610936
+092640290N-14,14,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011771,1.610925
+092640290N-14B,14BIS,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011671,1.610706
+092640290N-18,18,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011542,1.611048
+092640290N-19,19,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011429,1.611291
+092640290N-21,21,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.010330,1.612708
+092640290N-2,2,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012526,1.610541
+092640290N-24,24,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.011191,1.611474
+092640290N-3,3,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012606,1.610714
+092640290N-4,4,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012303,1.610673
+092640290N-6,6,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012194,1.610736
+092640290N-7,7,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012512,1.610752
+092640290N-8,8,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012067,1.610763
+092640290N-9,9,Avenue de la Tour d'Ope,09000,Saint-Jean-de-Verges,C+O,43.012404,1.610781
+092640295U-1,1,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.028505,1.615373
+092640295U-12,12,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.036217,1.622184
+092640295U-13,13,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.033605,1.620049
+092640295U-14,14,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.036370,1.621797
+092640295U-15,15,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.034056,1.619655
+092640295U-15B,15BIS,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.033894,1.620006
+092640295U-16,16,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.036464,1.621880
+092640295U-17,17,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.034448,1.618746
+092640295U-19,19,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.034257,1.619889
+092640295U-19A,19A,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.034210,1.619705
+092640295U-21,21,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.034148,1.620096
+092640295U-2,2,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.035083,1.621564
+092640295U-23,23,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.035351,1.620137
+092640295U-25,25,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.036312,1.621692
+092640295U-27,27,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.036780,1.621437
+092640295U-29,29,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.036660,1.621845
+092640295U-31,31,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.037216,1.622107
+092640295U-33,33,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.037262,1.622132
+092640295U-3,3,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.028649,1.615475
+092640295U-350,350,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.029526,1.615846
+092640295U-35,35,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.037310,1.622157
+092640295U-4,4,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.035451,1.621365
+092640295U-5,5,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.029271,1.615097
+092640295U-6,6,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.035314,1.622133
+092640295U-8,8,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.035543,1.621845
+092640295U-9,9,Route de Varilhes,09000,Saint-Jean-de-Verges,C+O,43.030693,1.616289
 092640300Z-1,1,Chemin de Villeneuve du Bosc,09000,Saint-Jean-de-Verges,CAD,43.001570,1.649472
 092640300Z-3,3,Chemin de Villeneuve du Bosc,09000,Saint-Jean-de-Verges,CAD,43.001104,1.649895
 09264A001U-1,1,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023817,1.622033
@@ -13487,77 +13487,77 @@
 09264A001U-6,6,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023364,1.622784
 09264A001U-7,7,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023625,1.622275
 09264A001U-8,8,Lotissement des Acacias,09000,Saint-Jean-de-Verges,CAD,43.023772,1.622001
-09264A002V-1,1,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018454,1.611944
-09264A002V-2,2,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018627,1.611599
-09264A002V-3,3,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018341,1.611679
-09264A002V-4,4,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018167,1.611521
-09264A002V-5,5,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018047,1.610896
-09264A002V-6,6,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018204,1.610987
-09264A002V-7,7,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018491,1.611100
-09264A002V-8,8,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,CAD,43.018747,1.611276
-09264A003W-10,10,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017528,1.612284
-09264A003W-14,14,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017723,1.611896
-09264A003W-16,16,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017800,1.611716
-09264A003W-2,2,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017047,1.613184
-09264A003W-4,4,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017202,1.612911
-09264A003W-6,6,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,CAD,43.017304,1.612726
-09264A004X-10,10,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016375,1.611414
-09264A004X-11,11,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016720,1.611218
-09264A004X-1,1,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015738,1.611272
-09264A004X-12,12,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016572,1.611418
-09264A004X-13,13,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016912,1.611236
-09264A004X-14,14,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016780,1.611433
-09264A004X-16,16,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016958,1.611435
-09264A004X-2,2,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015643,1.611385
-09264A004X-3,3,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015936,1.611283
-09264A004X-4,4,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015794,1.611391
-09264A004X-5,5,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016152,1.611286
-09264A004X-6,6,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.015990,1.611394
-09264A004X-7,7,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016330,1.611296
-09264A004X-8,8,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016194,1.611409
-09264A004X-9,9,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,CAD,43.016514,1.611299
-09264A005Y-10,10,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015416,1.611456
-09264A005Y-11,11,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015067,1.612344
-09264A005Y-1,1,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015573,1.610727
-09264A005Y-12,12,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015098,1.612081
-09264A005Y-13,13,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015087,1.611779
-09264A005Y-14,14,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015149,1.611598
-09264A005Y-15,15,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014968,1.611609
-09264A005Y-16,16,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014924,1.611703
-09264A005Y-17,17,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014931,1.611892
-09264A005Y-18,18,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014931,1.612123
-09264A005Y-2,2,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015480,1.611106
-09264A005Y-3,3,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015225,1.610907
-09264A005Y-4,4,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015236,1.610743
-09264A005Y-5,5,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015112,1.610896
-09264A005Y-6,6,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014961,1.610870
-09264A005Y-7,7,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.014998,1.611031
-09264A005Y-8,8,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015025,1.611386
-09264A005Y-9,9,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,CAD,43.015275,1.611321
-09264A006Z-1,1,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.018541,1.612610
-09264A006Z-2,2,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.018821,1.612623
-09264A006Z-3,3,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.019057,1.612817
-09264A006Z-4,4,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.019199,1.612500
-09264A006Z-7,7,Lotissement des Frenes,09000,Saint-Jean-de-Verges,CAD,43.018746,1.612120
-09264A010D-10,10,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024263,1.612212
-09264A010D-11,11,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024377,1.612379
-09264A010D-1,1,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024654,1.611921
-09264A010D-2,2,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024430,1.611677
-09264A010D-3,3,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.024270,1.611554
-09264A010D-4,4,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023893,1.611322
-09264A010D-5,5,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023586,1.611148
-09264A010D-6,6,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023376,1.611440
-09264A010D-6B,6BIS,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023376,1.611457
-09264A010D-7,7,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023597,1.611781
-09264A010D-8,8,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023832,1.611850
-09264A010D-9,9,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,CAD,43.023965,1.612012
+09264A002V-1,1,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018454,1.611944
+09264A002V-2,2,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018627,1.611599
+09264A002V-3,3,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018341,1.611679
+09264A002V-4,4,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018167,1.611521
+09264A002V-5,5,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018047,1.610896
+09264A002V-6,6,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018204,1.610987
+09264A002V-7,7,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018491,1.611100
+09264A002V-8,8,Lotissement Les Cerisiers,09000,Saint-Jean-de-Verges,C+O,43.018747,1.611276
+09264A003W-10,10,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,C+O,43.017528,1.612284
+09264A003W-14,14,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,C+O,43.017723,1.611896
+09264A003W-16,16,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,C+O,43.017800,1.611716
+09264A003W-2,2,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,C+O,43.017047,1.613184
+09264A003W-4,4,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,C+O,43.017202,1.612911
+09264A003W-6,6,Lotissement Les Coquelicots,09000,Saint-Jean-de-Verges,C+O,43.017304,1.612726
+09264A004X-10,10,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016375,1.611414
+09264A004X-11,11,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016720,1.611218
+09264A004X-1,1,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.015738,1.611272
+09264A004X-12,12,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016572,1.611418
+09264A004X-13,13,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016912,1.611236
+09264A004X-14,14,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016780,1.611433
+09264A004X-16,16,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016958,1.611435
+09264A004X-2,2,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.015643,1.611385
+09264A004X-3,3,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.015936,1.611283
+09264A004X-4,4,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.015794,1.611391
+09264A004X-5,5,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016152,1.611286
+09264A004X-6,6,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.015990,1.611394
+09264A004X-7,7,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016330,1.611296
+09264A004X-8,8,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016194,1.611409
+09264A004X-9,9,Lotissement Jacquarias,09000,Saint-Jean-de-Verges,C+O,43.016514,1.611299
+09264A005Y-10,10,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015416,1.611456
+09264A005Y-11,11,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015067,1.612344
+09264A005Y-1,1,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015573,1.610727
+09264A005Y-12,12,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015098,1.612081
+09264A005Y-13,13,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015087,1.611779
+09264A005Y-14,14,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015149,1.611598
+09264A005Y-15,15,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.014968,1.611609
+09264A005Y-16,16,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.014924,1.611703
+09264A005Y-17,17,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.014931,1.611892
+09264A005Y-18,18,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.014931,1.612123
+09264A005Y-2,2,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015480,1.611106
+09264A005Y-3,3,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015225,1.610907
+09264A005Y-4,4,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015236,1.610743
+09264A005Y-5,5,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015112,1.610896
+09264A005Y-6,6,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.014961,1.610870
+09264A005Y-7,7,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.014998,1.611031
+09264A005Y-8,8,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015025,1.611386
+09264A005Y-9,9,Lotissement Les Morilles,09000,Saint-Jean-de-Verges,C+O,43.015275,1.611321
+09264A006Z-1,1,Lotissement des Frênes,09000,Saint-Jean-de-Verges,C+O,43.018541,1.612610
+09264A006Z-2,2,Lotissement des Frênes,09000,Saint-Jean-de-Verges,C+O,43.018821,1.612623
+09264A006Z-3,3,Lotissement des Frênes,09000,Saint-Jean-de-Verges,C+O,43.019057,1.612817
+09264A006Z-4,4,Lotissement des Frênes,09000,Saint-Jean-de-Verges,C+O,43.019199,1.612500
+09264A006Z-7,7,Lotissement des Frênes,09000,Saint-Jean-de-Verges,C+O,43.018746,1.612120
+09264A010D-10,10,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.024263,1.612212
+09264A010D-11,11,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.024377,1.612379
+09264A010D-1,1,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.024654,1.611921
+09264A010D-2,2,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.024430,1.611677
+09264A010D-3,3,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.024270,1.611554
+09264A010D-4,4,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.023893,1.611322
+09264A010D-5,5,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.023586,1.611148
+09264A010D-6,6,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.023376,1.611440
+09264A010D-6B,6BIS,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.023376,1.611457
+09264A010D-7,7,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.023597,1.611781
+09264A010D-8,8,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.023832,1.611850
+09264A010D-9,9,Lotissement Beaurivage,09000,Saint-Jean-de-Verges,C+O,43.023965,1.612012
 09264A013G-4,4,Lotissement des Noyers,09000,Saint-Jean-de-Verges,CAD,43.014579,1.611900
 09264A013G-5,5,Lotissement des Noyers,09000,Saint-Jean-de-Verges,CAD,43.014314,1.611691
-09264A020P-1,1,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.028796,1.610618
-09264A020P-3,3,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.028400,1.610503
-09264A020P-5,5,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.028149,1.610430
-09264A020P-7,7,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.027836,1.610340
-09264A020P-9,9,Lotissement Tournesol,09000,Saint-Jean-de-Verges,CAD,43.027421,1.610371
+09264A020P-1,1,Lotissement Tournesol,09000,Saint-Jean-de-Verges,C+O,43.028796,1.610618
+09264A020P-3,3,Lotissement Tournesol,09000,Saint-Jean-de-Verges,C+O,43.028400,1.610503
+09264A020P-5,5,Lotissement Tournesol,09000,Saint-Jean-de-Verges,C+O,43.028149,1.610430
+09264A020P-7,7,Lotissement Tournesol,09000,Saint-Jean-de-Verges,C+O,43.027836,1.610340
+09264A020P-9,9,Lotissement Tournesol,09000,Saint-Jean-de-Verges,C+O,43.027421,1.610371
 09264A025V-11,11,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.018924,1.613744
 09264A025V-1,1,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.020605,1.614043
 09264A025V-2,2,Za de Joulieu,09000,Saint-Jean-de-Verges,CAD,43.020575,1.613067
@@ -14852,170 +14852,170 @@
 09270A030Z-6,6,La Guinguette,09100,Saint-Martin-d'Oydes,CAD,43.170758,1.495507
 09270A030Z-7,7,La Guinguette,09100,Saint-Martin-d'Oydes,CAD,43.170992,1.494505
 09270A030Z-8,8,La Guinguette,09100,Saint-Martin-d'Oydes,CAD,43.170953,1.495521
-092720004T-26,26,Impasse de l'Albarede,09000,Saint-Paul-de-Jarrat,CAD,42.914547,1.656827
-092720004T-28,28,Impasse de l'Albarede,09000,Saint-Paul-de-Jarrat,CAD,42.914596,1.656600
-092720004T-30,30,Impasse de l'Albarede,09000,Saint-Paul-de-Jarrat,CAD,42.914628,1.656354
-092720004T-32,32,Impasse de l'Albarede,09000,Saint-Paul-de-Jarrat,CAD,42.914630,1.656173
-092720004T-34,34,Impasse de l'Albarede,09000,Saint-Paul-de-Jarrat,CAD,42.914784,1.656158
-092720004T-36,36,Impasse de l'Albarede,09000,Saint-Paul-de-Jarrat,CAD,42.914711,1.655954
-092720004T-38,38,Impasse de l'Albarede,09000,Saint-Paul-de-Jarrat,CAD,42.914581,1.655748
+092720004T-26,26,Impasse de l'Albarède,09000,Saint-Paul-de-Jarrat,C+O,42.914547,1.656827
+092720004T-28,28,Impasse de l'Albarède,09000,Saint-Paul-de-Jarrat,C+O,42.914596,1.656600
+092720004T-30,30,Impasse de l'Albarède,09000,Saint-Paul-de-Jarrat,C+O,42.914628,1.656354
+092720004T-32,32,Impasse de l'Albarède,09000,Saint-Paul-de-Jarrat,C+O,42.914630,1.656173
+092720004T-34,34,Impasse de l'Albarède,09000,Saint-Paul-de-Jarrat,C+O,42.914784,1.656158
+092720004T-36,36,Impasse de l'Albarède,09000,Saint-Paul-de-Jarrat,C+O,42.914711,1.655954
+092720004T-38,38,Impasse de l'Albarède,09000,Saint-Paul-de-Jarrat,C+O,42.914581,1.655748
 092720012B-617,617,Rue du Bicentenaire,09000,Saint-Paul-de-Jarrat,CAD,42.919601,1.654657
 092720012B-639,639,Rue du Bicentenaire,09000,Saint-Paul-de-Jarrat,CAD,42.919120,1.655081
-092720025R-294,294,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,CAD,42.912166,1.665453
-092720025R-295,295,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,CAD,42.912096,1.665251
-092720025R-544,544,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,CAD,42.910445,1.666327
-092720025R-54,54,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,CAD,42.912684,1.665018
-092720030W-620,620,Route Voie du Casteret,09000,Saint-Paul-de-Jarrat,CAD,42.916008,1.663973
+092720025R-294,294,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,C+O,42.912166,1.665453
+092720025R-295,295,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,C+O,42.912096,1.665251
+092720025R-544,544,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,C+O,42.910445,1.666327
+092720025R-54,54,Chemin de la Cascade,09000,Saint-Paul-de-Jarrat,C+O,42.912684,1.665018
+092720030W-620,620,Route du Casteret,09000,Saint-Paul-de-Jarrat,C+O,42.916008,1.663973
 092720032Y-615,615,Rue du 19 Mars 1962,09000,Saint-Paul-de-Jarrat,CAD,42.912392,1.659379
-092720035B-10,10,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913465,1.660102
-092720035B-11,11,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913452,1.660718
-092720035B-1,1,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913658,1.659789
-092720035B-12,12,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913455,1.660170
-092720035B-13,13,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913432,1.660829
-092720035B-14,14,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913445,1.660235
-092720035B-15,15,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913413,1.660938
-092720035B-16,16,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913435,1.660303
-092720035B-17,17,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913403,1.661032
-092720035B-18,18,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913413,1.660449
-092720035B-19,19,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913406,1.661148
-092720035B-1B,1BIS,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913660,1.659833
-092720035B-1T,1TER,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913656,1.659874
-092720035B-20,20,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913378,1.660640
-092720035B-21,21,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913325,1.661379
-092720035B-22,22,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913346,1.660814
-092720035B-2,2,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913561,1.659538
-092720035B-23,23,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913329,1.661444
-092720035B-24,24,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913312,1.660993
-092720035B-25,25,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913332,1.661513
-092720035B-26,26,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913282,1.661144
-092720035B-27,27,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913373,1.661615
-092720035B-28,28,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913265,1.661223
-092720035B-29,29,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913340,1.661664
-092720035B-30,30,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913134,1.661355
-092720035B-31,31,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913343,1.661735
-092720035B-32,32,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.912943,1.661435
-092720035B-33,33,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913346,1.661799
-092720035B-3,3,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913594,1.659877
-092720035B-34,34,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913256,1.661417
-092720035B-35,35,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913349,1.661862
-092720035B-36,36,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913258,1.661474
-092720035B-37,37,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913353,1.661929
-092720035B-38,38,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913260,1.661580
-092720035B-39,39,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913493,1.661931
-092720035B-39A,39A,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913502,1.661962
-092720035B-40,40,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913261,1.661633
-092720035B-41,41,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913368,1.662128
-092720035B-42,42,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913269,1.661682
-092720035B-43,43,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913375,1.662201
-092720035B-44,44,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913268,1.661747
-092720035B-4,4,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913384,1.659610
-092720035B-45,45,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913385,1.662295
-092720035B-46,46,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913274,1.661810
-092720035B-47,47,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913599,1.662268
-092720035B-48,48,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913277,1.661855
-092720035B-49,49,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913599,1.662280
-092720035B-50,50,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913280,1.661899
-092720035B-51,51,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913531,1.662481
-092720035B-52,52,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913284,1.661980
-092720035B-53,53,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913499,1.662547
-092720035B-54,54,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913294,1.662098
-092720035B-55,55,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913517,1.662606
-092720035B-5,5,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913576,1.659987
-092720035B-56,56,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913317,1.662147
-092720035B-58,58,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913309,1.662247
-092720035B-59,59,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913552,1.662753
-092720035B-60,60,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913319,1.662338
-092720035B-61,61,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913540,1.662806
-092720035B-62,62,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913326,1.662399
-092720035B-63,63,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913452,1.662943
-092720035B-64,64,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913333,1.662469
-092720035B-65,65,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913461,1.663028
-092720035B-66,66,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913341,1.662537
-092720035B-68,68,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913348,1.662603
-092720035B-70,70,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913360,1.662679
-092720035B-72,72,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913363,1.662752
-092720035B-74,74,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913304,1.662922
-092720035B-76,76,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913418,1.663093
-092720035B-78,78,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913413,1.663233
-092720035B-80,80,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913404,1.663318
-092720035B-82,82,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913430,1.663440
-092720035B-84,84,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913436,1.663520
-092720035B-86,86,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913441,1.663600
-092720035B-8,8,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913520,1.659775
-092720035B-9,9,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913467,1.660631
-092720035B-9A,9A,Rue Centrale,09000,Saint-Paul-de-Jarrat,CAD,42.913588,1.660617
+092720035B-10,10,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913465,1.660102
+092720035B-11,11,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913452,1.660718
+092720035B-1,1,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913658,1.659789
+092720035B-12,12,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913455,1.660170
+092720035B-13,13,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913432,1.660829
+092720035B-14,14,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913445,1.660235
+092720035B-15,15,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913413,1.660938
+092720035B-16,16,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913435,1.660303
+092720035B-17,17,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913403,1.661032
+092720035B-18,18,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913413,1.660449
+092720035B-19,19,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913406,1.661148
+092720035B-1B,1BIS,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913660,1.659833
+092720035B-1T,1TER,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913656,1.659874
+092720035B-20,20,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913378,1.660640
+092720035B-21,21,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913325,1.661379
+092720035B-22,22,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913346,1.660814
+092720035B-2,2,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913561,1.659538
+092720035B-23,23,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913329,1.661444
+092720035B-24,24,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913312,1.660993
+092720035B-25,25,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913332,1.661513
+092720035B-26,26,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913282,1.661144
+092720035B-27,27,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913373,1.661615
+092720035B-28,28,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913265,1.661223
+092720035B-29,29,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913340,1.661664
+092720035B-30,30,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913134,1.661355
+092720035B-31,31,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913343,1.661735
+092720035B-32,32,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.912943,1.661435
+092720035B-33,33,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913346,1.661799
+092720035B-3,3,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913594,1.659877
+092720035B-34,34,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913256,1.661417
+092720035B-35,35,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913349,1.661862
+092720035B-36,36,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913258,1.661474
+092720035B-37,37,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913353,1.661929
+092720035B-38,38,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913260,1.661580
+092720035B-39,39,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913493,1.661931
+092720035B-39A,39A,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913502,1.661962
+092720035B-40,40,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913261,1.661633
+092720035B-41,41,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913368,1.662128
+092720035B-42,42,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913269,1.661682
+092720035B-43,43,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913375,1.662201
+092720035B-44,44,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913268,1.661747
+092720035B-4,4,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913384,1.659610
+092720035B-45,45,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913385,1.662295
+092720035B-46,46,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913274,1.661810
+092720035B-47,47,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913599,1.662268
+092720035B-48,48,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913277,1.661855
+092720035B-49,49,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913599,1.662280
+092720035B-50,50,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913280,1.661899
+092720035B-51,51,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913531,1.662481
+092720035B-52,52,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913284,1.661980
+092720035B-53,53,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913499,1.662547
+092720035B-54,54,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913294,1.662098
+092720035B-55,55,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913517,1.662606
+092720035B-5,5,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913576,1.659987
+092720035B-56,56,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913317,1.662147
+092720035B-58,58,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913309,1.662247
+092720035B-59,59,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913552,1.662753
+092720035B-60,60,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913319,1.662338
+092720035B-61,61,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913540,1.662806
+092720035B-62,62,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913326,1.662399
+092720035B-63,63,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913452,1.662943
+092720035B-64,64,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913333,1.662469
+092720035B-65,65,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913461,1.663028
+092720035B-66,66,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913341,1.662537
+092720035B-68,68,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913348,1.662603
+092720035B-70,70,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913360,1.662679
+092720035B-72,72,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913363,1.662752
+092720035B-74,74,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913304,1.662922
+092720035B-76,76,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913418,1.663093
+092720035B-78,78,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913413,1.663233
+092720035B-80,80,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913404,1.663318
+092720035B-82,82,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913430,1.663440
+092720035B-84,84,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913436,1.663520
+092720035B-86,86,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913441,1.663600
+092720035B-8,8,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913520,1.659775
+092720035B-9,9,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913467,1.660631
+092720035B-9A,9A,Rue Centrale,09000,Saint-Paul-de-Jarrat,C+O,42.913588,1.660617
 092720040G-2,2,Place du Coq,09000,Saint-Paul-de-Jarrat,CAD,42.913988,1.659947
 092720040G-3,3,Place du Coq,09000,Saint-Paul-de-Jarrat,CAD,42.913596,1.660511
-092720045M-628,628,Chemin de la Croux,09000,Saint-Paul-de-Jarrat,CAD,42.918116,1.644706
-092720047P-2,2,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,CAD,42.914046,1.663118
-092720047P-3,3,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,CAD,42.914046,1.663131
-092720047P-4,4,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,CAD,42.914022,1.663412
-092720047P-5,5,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,CAD,42.913772,1.663712
-092720047P-6,6,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,CAD,42.913772,1.663723
-092720047P-7,7,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,CAD,42.913679,1.663800
-092720047P-8,8,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,CAD,42.913626,1.663747
-092720048R-10,10,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914046,1.658134
-092720048R-11,11,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913842,1.657700
-092720048R-1,1,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913742,1.658571
-092720048R-12,12,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914015,1.657971
-092720048R-13,13,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914034,1.657469
-092720048R-14,14,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914032,1.657905
-092720048R-15,15,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914119,1.657141
-092720048R-16,16,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914055,1.657818
-092720048R-17,17,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914157,1.657064
-092720048R-17B,17BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913901,1.656892
-092720048R-17T,17TER,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913751,1.656725
-092720048R-18,18,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914081,1.657716
-092720048R-19,19,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913348,1.656421
-092720048R-21,21,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914275,1.656482
-092720048R-2,2,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913848,1.658660
-092720048R-23,23,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914310,1.656418
-092720048R-24,24,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914143,1.657475
-092720048R-24B,24BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914446,1.656940
-092720048R-25,25,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914363,1.656200
-092720048R-27,27,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914391,1.656003
-092720048R-29,29,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913899,1.655533
-092720048R-2B,2BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.915771,1.654767
-092720048R-31,31,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914539,1.655409
-092720048R-32,32,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914630,1.656173
-092720048R-33,33,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914599,1.655165
-092720048R-3,3,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913892,1.658036
-092720048R-35,35,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914742,1.654584
-092720048R-37,37,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914808,1.654317
-092720048R-42,42,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.914933,1.654179
-092720048R-44,44,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.915048,1.653740
-092720048R-4,4,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913897,1.658467
-092720048R-46,46,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.915385,1.652428
-092720048R-48,48,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.915433,1.652232
-092720048R-48B,48BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.915999,1.651157
-092720048R-50,50,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.915841,1.650530
-092720048R-5,5,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913909,1.657970
-092720048R-6,6,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913992,1.658545
-092720048R-7,7,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913944,1.657908
-092720048R-8,8,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913973,1.658167
-092720048R-9,9,Avenue de Foix,09000,Saint-Paul-de-Jarrat,CAD,42.913945,1.657824
-092720049S-1,1,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.915748,1.646037
-092720049S-4,4,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.915932,1.646263
-092720049S-5,5,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.915825,1.645761
-092720049S-5A,5A,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916128,1.646557
-092720049S-637,637,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.915871,1.646547
-092720049S-654,654,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916410,1.646329
-092720049S-7,7,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916375,1.646866
-092720050T-11,11,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.912913,1.663236
-092720050T-1,1,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.913314,1.663093
-092720050T-12,12,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.907797,1.665431
-092720050T-14,14,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.907496,1.665484
-092720050T-15,15,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.912756,1.663299
-092720050T-16,16,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.907246,1.665165
-092720050T-18,18,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.906963,1.665196
-092720050T-20,20,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.906761,1.665306
-092720050T-2,2,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.913341,1.662992
-092720050T-420,420,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.910932,1.663315
-092720050T-4,4,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.913226,1.663053
-092720050T-5,5,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.913208,1.663117
-092720050T-6,6,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.913013,1.663116
-092720050T-7,7,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.913176,1.663125
-092720050T-9,9,Rue du Labat,09000,Saint-Paul-de-Jarrat,CAD,42.913147,1.663132
+092720045M-628,628,Chemin de la Croux,09000,Saint-Paul-de-Jarrat,C+O,42.918116,1.644706
+092720047P-2,2,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,C+O,42.914046,1.663118
+092720047P-3,3,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,C+O,42.914046,1.663131
+092720047P-4,4,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,C+O,42.914022,1.663412
+092720047P-5,5,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,C+O,42.913772,1.663712
+092720047P-6,6,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,C+O,42.913772,1.663723
+092720047P-7,7,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,C+O,42.913679,1.663800
+092720047P-8,8,Place Elie Bigeyre,09000,Saint-Paul-de-Jarrat,C+O,42.913626,1.663747
+092720048R-10,10,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914046,1.658134
+092720048R-11,11,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913842,1.657700
+092720048R-1,1,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913742,1.658571
+092720048R-12,12,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914015,1.657971
+092720048R-13,13,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914034,1.657469
+092720048R-14,14,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914032,1.657905
+092720048R-15,15,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914119,1.657141
+092720048R-16,16,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914055,1.657818
+092720048R-17,17,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914157,1.657064
+092720048R-17B,17BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913901,1.656892
+092720048R-17T,17TER,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913751,1.656725
+092720048R-18,18,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914081,1.657716
+092720048R-19,19,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913348,1.656421
+092720048R-21,21,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914275,1.656482
+092720048R-2,2,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913848,1.658660
+092720048R-23,23,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914310,1.656418
+092720048R-24,24,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914143,1.657475
+092720048R-24B,24BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914446,1.656940
+092720048R-25,25,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914363,1.656200
+092720048R-27,27,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914391,1.656003
+092720048R-29,29,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913899,1.655533
+092720048R-2B,2BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.915771,1.654767
+092720048R-31,31,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914539,1.655409
+092720048R-32,32,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914630,1.656173
+092720048R-33,33,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914599,1.655165
+092720048R-3,3,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913892,1.658036
+092720048R-35,35,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914742,1.654584
+092720048R-37,37,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914808,1.654317
+092720048R-42,42,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.914933,1.654179
+092720048R-44,44,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.915048,1.653740
+092720048R-4,4,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913897,1.658467
+092720048R-46,46,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.915385,1.652428
+092720048R-48,48,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.915433,1.652232
+092720048R-48B,48BIS,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.915999,1.651157
+092720048R-50,50,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.915841,1.650530
+092720048R-5,5,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913909,1.657970
+092720048R-6,6,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913992,1.658545
+092720048R-7,7,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913944,1.657908
+092720048R-8,8,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913973,1.658167
+092720048R-9,9,Avenue de Foix,09000,Saint-Paul-de-Jarrat,C+O,42.913945,1.657824
+092720049S-1,1,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.915748,1.646037
+092720049S-4,4,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.915932,1.646263
+092720049S-5,5,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.915825,1.645761
+092720049S-5A,5A,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916128,1.646557
+092720049S-637,637,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.915871,1.646547
+092720049S-654,654,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916410,1.646329
+092720049S-7,7,Chemin des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916375,1.646866
+092720050T-11,11,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.912913,1.663236
+092720050T-1,1,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.913314,1.663093
+092720050T-12,12,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.907797,1.665431
+092720050T-14,14,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.907496,1.665484
+092720050T-15,15,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.912756,1.663299
+092720050T-16,16,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.907246,1.665165
+092720050T-18,18,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.906963,1.665196
+092720050T-20,20,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.906761,1.665306
+092720050T-2,2,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.913341,1.662992
+092720050T-420,420,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.910932,1.663315
+092720050T-4,4,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.913226,1.663053
+092720050T-5,5,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.913208,1.663117
+092720050T-6,6,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.913013,1.663116
+092720050T-7,7,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.913176,1.663125
+092720050T-9,9,Rue du Labat,09000,Saint-Paul-de-Jarrat,C+O,42.913147,1.663132
 092720051U-13,13,Chemin des Escoumes,09000,Saint-Paul-de-Jarrat,C+O,42.922217,1.639138
 092720051U-15,15,Chemin des Escoumes,09000,Saint-Paul-de-Jarrat,C+O,42.922773,1.638806
 092720055Y-10,10,Rue Voie Laterale,09000,Saint-Paul-de-Jarrat,CAD,42.920943,1.640035
@@ -15031,75 +15031,75 @@
 092720055Y-6,6,Rue Voie Laterale,09000,Saint-Paul-de-Jarrat,CAD,42.920361,1.640518
 092720055Y-8,8,Rue Voie Laterale,09000,Saint-Paul-de-Jarrat,CAD,42.920826,1.641032
 092720055Y-9,9,Rue Voie Laterale,09000,Saint-Paul-de-Jarrat,CAD,42.920753,1.640537
-092720060D-1,1,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.912118,1.662906
-092720060D-2,2,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.912554,1.663069
-092720060D-3,3,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.912400,1.662244
-092720060D-550,550,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.911351,1.660930
-092720060D-5,5,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.912525,1.662201
-092720060D-6,6,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.912417,1.662663
-092720060D-7,7,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.912598,1.662176
-092720060D-9,9,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,CAD,42.911640,1.661413
-092720065J-1,1,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.912273,1.657223
-092720065J-2,2,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.913461,1.659680
-092720065J-242A,242A,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.913066,1.659589
-092720065J-546,546,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.912570,1.657897
-092720065J-630,630,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.913384,1.659632
-092720065J-636,636,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.912743,1.658350
-092720065J-653,653,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.912701,1.655278
-092720065J-655,655,Rue de Plas,09000,Saint-Paul-de-Jarrat,CAD,42.912147,1.655423
+092720060D-1,1,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.912118,1.662906
+092720060D-2,2,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.912554,1.663069
+092720060D-3,3,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.912400,1.662244
+092720060D-550,550,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.911351,1.660930
+092720060D-5,5,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.912525,1.662201
+092720060D-6,6,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.912417,1.662663
+092720060D-7,7,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.912598,1.662176
+092720060D-9,9,Rue des Mascasses,09000,Saint-Paul-de-Jarrat,C+O,42.911640,1.661413
+092720065J-1,1,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.912273,1.657223
+092720065J-2,2,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.913461,1.659680
+092720065J-242A,242A,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.913066,1.659589
+092720065J-546,546,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.912570,1.657897
+092720065J-630,630,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.913384,1.659632
+092720065J-636,636,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.912743,1.658350
+092720065J-653,653,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.912701,1.655278
+092720065J-655,655,Rue de Plas,09000,Saint-Paul-de-Jarrat,C+O,42.912147,1.655423
 092720070P-2,2,Rue Voie du Pont du Diable,09000,Saint-Paul-de-Jarrat,CAD,42.915819,1.640267
 092720070P-632,632,Rue Voie du Pont du Diable,09000,Saint-Paul-de-Jarrat,CAD,42.913465,1.641108
 092720070P-6,6,Rue Voie du Pont du Diable,09000,Saint-Paul-de-Jarrat,CAD,42.915660,1.640654
 092720070P-7,7,Rue Voie du Pont du Diable,09000,Saint-Paul-de-Jarrat,CAD,42.915852,1.640575
-092720075V-11,11,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913635,1.665461
-092720075V-1,1,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913527,1.663737
-092720075V-15,15,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913835,1.666212
-092720075V-15B,15BIS,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.914100,1.666240
-092720075V-17,17,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.914092,1.666705
-092720075V-19,19,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913864,1.666839
-092720075V-19B,19BIS,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.914040,1.667089
-092720075V-21,21,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.914163,1.667373
-092720075V-2,2,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913153,1.664216
-092720075V-23,23,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913748,1.667484
-092720075V-25,25,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913749,1.667628
-092720075V-27,27,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913772,1.667968
-092720075V-29,29,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.914109,1.668416
-092720075V-2A,2A,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913019,1.664074
-092720075V-2B,2B,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913464,1.665711
-092720075V-31,31,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.914082,1.668535
-092720075V-33,33,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.914066,1.668772
-092720075V-3,3,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913533,1.663830
-092720075V-35,35,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913984,1.669003
-092720075V-4,4,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913636,1.666405
-092720075V-5,5,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913538,1.663902
-092720075V-594,594,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913485,1.665513
-092720075V-7,7,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913571,1.664101
-092720075V-9,9,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,CAD,42.913576,1.664169
+092720075V-11,11,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913635,1.665461
+092720075V-1,1,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913527,1.663737
+092720075V-15,15,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913835,1.666212
+092720075V-15B,15BIS,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.914100,1.666240
+092720075V-17,17,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.914092,1.666705
+092720075V-19,19,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913864,1.666839
+092720075V-19B,19BIS,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.914040,1.667089
+092720075V-21,21,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.914163,1.667373
+092720075V-2,2,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913153,1.664216
+092720075V-23,23,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913748,1.667484
+092720075V-25,25,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913749,1.667628
+092720075V-27,27,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913772,1.667968
+092720075V-29,29,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.914109,1.668416
+092720075V-2A,2A,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913019,1.664074
+092720075V-2B,2B,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913464,1.665711
+092720075V-31,31,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.914082,1.668535
+092720075V-33,33,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.914066,1.668772
+092720075V-3,3,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913533,1.663830
+092720075V-35,35,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913984,1.669003
+092720075V-4,4,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913636,1.666405
+092720075V-5,5,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913538,1.663902
+092720075V-594,594,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913485,1.665513
+092720075V-7,7,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913571,1.664101
+092720075V-9,9,Avenue du Pont Neuf,09000,Saint-Paul-de-Jarrat,C+O,42.913576,1.664169
 092720077X-515A,515A,Chemin du Rec,09000,Saint-Paul-de-Jarrat,CAD,42.911786,1.658787
-092720080A-11,11,Avenue du Scios,09000,Saint-Paul-de-Jarrat,CAD,42.914538,1.665349
-092720080A-1,1,Avenue du Scios,09000,Saint-Paul-de-Jarrat,CAD,42.913837,1.664821
-092720080A-3,3,Avenue du Scios,09000,Saint-Paul-de-Jarrat,CAD,42.913956,1.664869
-092720080A-5,5,Avenue du Scios,09000,Saint-Paul-de-Jarrat,CAD,42.914213,1.665064
-092720080A-593,593,Avenue du Scios,09000,Saint-Paul-de-Jarrat,CAD,42.914124,1.665340
-092720080A-7,7,Avenue du Scios,09000,Saint-Paul-de-Jarrat,CAD,42.914376,1.665204
-092720080A-9,9,Avenue du Scios,09000,Saint-Paul-de-Jarrat,CAD,42.914855,1.664571
-092720085F-10,10,Rue du Séguela,09000,Saint-Paul-de-Jarrat,CAD,42.920768,1.641559
-092720085F-12,12,Rue du Séguela,09000,Saint-Paul-de-Jarrat,CAD,42.920249,1.641484
-092720085F-3,3,Rue du Séguela,09000,Saint-Paul-de-Jarrat,CAD,42.919587,1.641658
-092720085F-4,4,Rue du Séguela,09000,Saint-Paul-de-Jarrat,CAD,42.919758,1.642381
-092720085F-6,6,Rue du Séguela,09000,Saint-Paul-de-Jarrat,CAD,42.920272,1.642199
-092720085F-7,7,Rue du Séguela,09000,Saint-Paul-de-Jarrat,CAD,42.919796,1.641008
-092720085F-8,8,Rue du Séguela,09000,Saint-Paul-de-Jarrat,CAD,42.920739,1.642277
+092720080A-11,11,Avenue du Scios,09000,Saint-Paul-de-Jarrat,C+O,42.914538,1.665349
+092720080A-1,1,Avenue du Scios,09000,Saint-Paul-de-Jarrat,C+O,42.913837,1.664821
+092720080A-3,3,Avenue du Scios,09000,Saint-Paul-de-Jarrat,C+O,42.913956,1.664869
+092720080A-5,5,Avenue du Scios,09000,Saint-Paul-de-Jarrat,C+O,42.914213,1.665064
+092720080A-593,593,Avenue du Scios,09000,Saint-Paul-de-Jarrat,C+O,42.914124,1.665340
+092720080A-7,7,Avenue du Scios,09000,Saint-Paul-de-Jarrat,C+O,42.914376,1.665204
+092720080A-9,9,Avenue du Scios,09000,Saint-Paul-de-Jarrat,C+O,42.914855,1.664571
+092720085F-10,10,Rue du Séguela,09000,Saint-Paul-de-Jarrat,C+O,42.920768,1.641559
+092720085F-12,12,Rue du Séguela,09000,Saint-Paul-de-Jarrat,C+O,42.920249,1.641484
+092720085F-3,3,Rue du Séguela,09000,Saint-Paul-de-Jarrat,C+O,42.919587,1.641658
+092720085F-4,4,Rue du Séguela,09000,Saint-Paul-de-Jarrat,C+O,42.919758,1.642381
+092720085F-6,6,Rue du Séguela,09000,Saint-Paul-de-Jarrat,C+O,42.920272,1.642199
+092720085F-7,7,Rue du Séguela,09000,Saint-Paul-de-Jarrat,C+O,42.919796,1.641008
+092720085F-8,8,Rue du Séguela,09000,Saint-Paul-de-Jarrat,C+O,42.920739,1.642277
 092720090L-645,645,Chemin de la Tecouniere,09000,Saint-Paul-de-Jarrat,CAD,42.913463,1.662138
-092720095S-1,1,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.913904,1.658820
-092720095S-2,2,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.914000,1.659229
-092720095S-3,3,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.913902,1.658852
-092720095S-4,4,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.913931,1.659031
-092720095S-5,5,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.914389,1.658829
-092720095S-591,591,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.916081,1.656875
-092720095S-6,6,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.914125,1.659099
-092720095S-6B,6BIS,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.914226,1.659815
-092720095S-8,8,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,CAD,42.914542,1.659847
+092720095S-1,1,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.913904,1.658820
+092720095S-2,2,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.914000,1.659229
+092720095S-3,3,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.913902,1.658852
+092720095S-4,4,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.913931,1.659031
+092720095S-5,5,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.914389,1.658829
+092720095S-591,591,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.916081,1.656875
+092720095S-6,6,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.914125,1.659099
+092720095S-6B,6BIS,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.914226,1.659815
+092720095S-8,8,Allée des Tilleuls,09000,Saint-Paul-de-Jarrat,C+O,42.914542,1.659847
 092720099W-10,10,Chemin de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.912199,1.666968
 092720099W-12,12,Chemin de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.912034,1.667272
 092720099W-14,14,Chemin de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.911917,1.667376
@@ -15107,40 +15107,40 @@
 092720099W-18,18,Chemin de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.911409,1.668262
 092720099W-6,6,Chemin de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.913438,1.665199
 092720099W-8,8,Chemin de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.912406,1.666737
-092720100X-3,3,Rue de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.912994,1.663254
-092720100X-5,5,Rue de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.912993,1.663378
-092720100X-7,7,Rue de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.912993,1.663515
-092720100X-9,9,Rue de la Tuilèrie,09000,Saint-Paul-de-Jarrat,CAD,42.912992,1.663604
+092720100X-3,3,Rue de la Tuilerie,09000,Saint-Paul-de-Jarrat,C+O,42.912994,1.663254
+092720100X-5,5,Rue de la Tuilerie,09000,Saint-Paul-de-Jarrat,C+O,42.912993,1.663378
+092720100X-7,7,Rue de la Tuilerie,09000,Saint-Paul-de-Jarrat,C+O,42.912993,1.663515
+092720100X-9,9,Rue de la Tuilerie,09000,Saint-Paul-de-Jarrat,C+O,42.912992,1.663604
 092720101Y-1,1,Chemin de Saint-Paul A Saint-Paulet,09000,Saint-Paul-de-Jarrat,CAD,42.917862,1.648107
 092720101Y-2,2,Chemin de Saint-Paul A Saint-Paulet,09000,Saint-Paul-de-Jarrat,CAD,42.917669,1.648349
 092720101Y-3,3,Chemin de Saint-Paul A Saint-Paulet,09000,Saint-Paul-de-Jarrat,CAD,42.918199,1.648147
-092720104B-10,10,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919403,1.643340
-092720104B-11,11,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.920335,1.643149
-092720104B-11B,11BIS,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.920295,1.643400
-092720104B-12,12,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919456,1.644021
-092720104B-14,14,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919559,1.644200
-092720104B-15,15,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.920413,1.643479
-092720104B-17,17,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.920594,1.644084
-092720104B-21,21,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.921010,1.644681
-092720104B-23,23,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.921095,1.645448
-092720104B-24,24,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919726,1.645484
-092720104B-29,29,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919649,1.646493
-092720104B-30,30,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919347,1.647320
-092720104B-31,31,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.920257,1.645933
-092720104B-32,32,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919712,1.647647
-092720104B-33,33,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.920131,1.646119
-092720104B-3,3,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919428,1.642787
-092720104B-39,39,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919553,1.646838
-092720104B-408A,408A,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919904,1.646147
-092720104B-4,4,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.918919,1.642629
-092720104B-4B,4BIS,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.918728,1.643004
-092720104B-537B,537B,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.921321,1.644862
-092720104B-537C,537C,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.921524,1.644562
-092720104B-5,5,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919653,1.643037
-092720104B-562,562,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919442,1.644606
-092720104B-6,6,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.918967,1.642945
-092720104B-7,7,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.919542,1.643597
-092720104B-9,9,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,CAD,42.920124,1.642782
+092720104B-10,10,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919403,1.643340
+092720104B-11,11,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.920335,1.643149
+092720104B-11B,11BIS,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.920295,1.643400
+092720104B-12,12,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919456,1.644021
+092720104B-14,14,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919559,1.644200
+092720104B-15,15,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.920413,1.643479
+092720104B-17,17,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.920594,1.644084
+092720104B-21,21,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.921010,1.644681
+092720104B-23,23,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.921095,1.645448
+092720104B-24,24,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919726,1.645484
+092720104B-29,29,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919649,1.646493
+092720104B-30,30,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919347,1.647320
+092720104B-31,31,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.920257,1.645933
+092720104B-32,32,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919712,1.647647
+092720104B-33,33,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.920131,1.646119
+092720104B-3,3,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919428,1.642787
+092720104B-39,39,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919553,1.646838
+092720104B-408A,408A,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919904,1.646147
+092720104B-4,4,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.918919,1.642629
+092720104B-4B,4BIS,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.918728,1.643004
+092720104B-537B,537B,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.921321,1.644862
+092720104B-537C,537C,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.921524,1.644562
+092720104B-5,5,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919653,1.643037
+092720104B-562,562,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919442,1.644606
+092720104B-6,6,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.918967,1.642945
+092720104B-7,7,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.919542,1.643597
+092720104B-9,9,Avenue de Ventrille,09000,Saint-Paul-de-Jarrat,C+O,42.920124,1.642782
 09272A005N-10,10,Cité Barthe,09000,Saint-Paul-de-Jarrat,CAD,42.918030,1.643177
 09272A005N-12,12,Cité Barthe,09000,Saint-Paul-de-Jarrat,CAD,42.918115,1.643354
 09272A005N-14,14,Cité Barthe,09000,Saint-Paul-de-Jarrat,CAD,42.918169,1.643262
@@ -15148,55 +15148,55 @@
 09272A005N-18,18,Cité Barthe,09000,Saint-Paul-de-Jarrat,CAD,42.917908,1.642840
 09272A005N-20,20,Cité Barthe,09000,Saint-Paul-de-Jarrat,CAD,42.917816,1.642707
 09272A005N-8,8,Cité Barthe,09000,Saint-Paul-de-Jarrat,CAD,42.917791,1.642982
-09272A010U-11,11,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915136,1.651123
-09272A010U-1,1,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915384,1.651976
-09272A010U-15,15,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915519,1.651425
-09272A010U-17,17,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915575,1.651195
-09272A010U-19,19,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915636,1.650944
-09272A010U-21,21,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915715,1.650589
-09272A010U-23,23,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915851,1.650074
-09272A010U-3,3,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915435,1.651768
-09272A010U-5,5,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915137,1.651449
-09272A010U-7,7,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915046,1.651223
-09272A010U-9,9,Cité Cabanut,09000,Saint-Paul-de-Jarrat,CAD,42.915098,1.651105
-09272A015Z-10,10,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918265,1.645735
-09272A015Z-11,11,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918386,1.645843
-09272A015Z-1,1,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917628,1.644749
-09272A015Z-12,12,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918529,1.646000
-09272A015Z-13,13,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918663,1.646119
-09272A015Z-14,14,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918798,1.646210
-09272A015Z-15,15,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918937,1.646334
-09272A015Z-16,16,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.919066,1.646449
-09272A015Z-17,17,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.919188,1.646558
-09272A015Z-18,18,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917748,1.645338
-09272A015Z-19,19,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917905,1.645479
-09272A015Z-20,20,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918047,1.645610
-09272A015Z-21,21,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918200,1.645753
-09272A015Z-22,22,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918337,1.646002
-09272A015Z-2,2,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917603,1.644855
-09272A015Z-23,23,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918518,1.646128
-09272A015Z-24,24,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918701,1.646230
-09272A015Z-25,25,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918857,1.646333
-09272A015Z-26,26,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918995,1.646492
-09272A015Z-27,27,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917431,1.645966
-09272A015Z-28,28,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917594,1.646112
-09272A015Z-29,29,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917781,1.646244
-09272A015Z-30,30,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917951,1.646396
-09272A015Z-31,31,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918093,1.646558
-09272A015Z-32,32,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918306,1.646713
-09272A015Z-33,33,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918461,1.646852
-09272A015Z-3,3,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917495,1.645299
-09272A015Z-34,34,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918616,1.647021
-09272A015Z-35,35,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.919114,1.646737
-09272A015Z-36,36,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.919041,1.646813
-09272A015Z-37,37,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.919000,1.646892
-09272A015Z-38,38,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918929,1.646927
-09272A015Z-4,4,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917444,1.645491
-09272A015Z-5,5,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917383,1.645730
-09272A015Z-6,6,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917731,1.645010
-09272A015Z-7,7,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917896,1.645159
-09272A015Z-8,8,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.917984,1.645514
-09272A015Z-9,9,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,CAD,42.918126,1.645611
+09272A010U-11,11,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915136,1.651123
+09272A010U-1,1,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915384,1.651976
+09272A010U-15,15,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915519,1.651425
+09272A010U-17,17,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915575,1.651195
+09272A010U-19,19,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915636,1.650944
+09272A010U-21,21,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915715,1.650589
+09272A010U-23,23,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915851,1.650074
+09272A010U-3,3,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915435,1.651768
+09272A010U-5,5,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915137,1.651449
+09272A010U-7,7,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915046,1.651223
+09272A010U-9,9,Cité Cabanut,09000,Saint-Paul-de-Jarrat,C+O,42.915098,1.651105
+09272A015Z-10,10,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918265,1.645735
+09272A015Z-11,11,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918386,1.645843
+09272A015Z-1,1,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917628,1.644749
+09272A015Z-12,12,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918529,1.646000
+09272A015Z-13,13,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918663,1.646119
+09272A015Z-14,14,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918798,1.646210
+09272A015Z-15,15,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918937,1.646334
+09272A015Z-16,16,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.919066,1.646449
+09272A015Z-17,17,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.919188,1.646558
+09272A015Z-18,18,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917748,1.645338
+09272A015Z-19,19,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917905,1.645479
+09272A015Z-20,20,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918047,1.645610
+09272A015Z-21,21,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918200,1.645753
+09272A015Z-22,22,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918337,1.646002
+09272A015Z-2,2,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917603,1.644855
+09272A015Z-23,23,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918518,1.646128
+09272A015Z-24,24,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918701,1.646230
+09272A015Z-25,25,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918857,1.646333
+09272A015Z-26,26,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918995,1.646492
+09272A015Z-27,27,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917431,1.645966
+09272A015Z-28,28,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917594,1.646112
+09272A015Z-29,29,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917781,1.646244
+09272A015Z-30,30,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917951,1.646396
+09272A015Z-31,31,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918093,1.646558
+09272A015Z-32,32,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918306,1.646713
+09272A015Z-33,33,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918461,1.646852
+09272A015Z-3,3,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917495,1.645299
+09272A015Z-34,34,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918616,1.647021
+09272A015Z-35,35,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.919114,1.646737
+09272A015Z-36,36,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.919041,1.646813
+09272A015Z-37,37,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.919000,1.646892
+09272A015Z-38,38,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918929,1.646927
+09272A015Z-4,4,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917444,1.645491
+09272A015Z-5,5,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917383,1.645730
+09272A015Z-6,6,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917731,1.645010
+09272A015Z-7,7,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917896,1.645159
+09272A015Z-8,8,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.917984,1.645514
+09272A015Z-9,9,Cité du Caraillé,09000,Saint-Paul-de-Jarrat,C+O,42.918126,1.645611
 09272A017B-10,10,Cité La Debeze,09000,Saint-Paul-de-Jarrat,CAD,42.914593,1.653691
 09272A017B-11,11,Cité La Debeze,09000,Saint-Paul-de-Jarrat,CAD,42.914437,1.653650
 09272A017B-1,1,Cité La Debeze,09000,Saint-Paul-de-Jarrat,CAD,42.914915,1.652901
@@ -15226,44 +15226,44 @@
 09272A017B-7,7,Cité La Debeze,09000,Saint-Paul-de-Jarrat,CAD,42.914699,1.653421
 09272A017B-8,8,Cité La Debeze,09000,Saint-Paul-de-Jarrat,CAD,42.914663,1.653463
 09272A017B-9,9,Cité La Debeze,09000,Saint-Paul-de-Jarrat,CAD,42.914664,1.653553
-09272A020E-10,10,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916182,1.643982
-09272A020E-1,1,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916976,1.645412
-09272A020E-12,12,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916437,1.644993
-09272A020E-1A,1A,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916709,1.645094
-09272A020E-2,2,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916906,1.644988
-09272A020E-3,3,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916698,1.644838
-09272A020E-4,4,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916520,1.644661
-09272A020E-5,5,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916357,1.644488
-09272A020E-6,6,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916102,1.644313
-09272A020E-6B,6BIS,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.915937,1.644042
-09272A020E-7,7,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916656,1.644351
-09272A020E-9,9,Cité des Fourches,09000,Saint-Paul-de-Jarrat,CAD,42.916496,1.644104
-09272A021F-10,10,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915939,1.649288
-09272A021F-11,11,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915591,1.649610
-09272A021F-1,1,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915788,1.646877
-09272A021F-12,12,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915403,1.649465
-09272A021F-13,13,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915116,1.649320
-09272A021F-14,14,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915114,1.648870
-09272A021F-15,15,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915157,1.648185
-09272A021F-16,16,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915212,1.647878
-09272A021F-17,17,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915406,1.647407
-09272A021F-18,18,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915603,1.647560
-09272A021F-19,19,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915747,1.647807
-09272A021F-20,20,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915671,1.648274
-09272A021F-21,21,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915637,1.648652
-09272A021F-22,22,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915576,1.649068
-09272A021F-2,2,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915628,1.647141
-09272A021F-23,23,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915373,1.648991
-09272A021F-24,24,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915426,1.648720
-09272A021F-25,25,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915462,1.648345
-09272A021F-26,26,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915494,1.647953
-09272A021F-3,3,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915867,1.647330
-09272A021F-4,4,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.916003,1.647186
-09272A021F-5,5,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.916129,1.647419
-09272A021F-6,6,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.916046,1.647772
-09272A021F-7,7,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.916007,1.648265
-09272A021F-8,8,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.916017,1.648677
-09272A021F-9,9,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,CAD,42.915994,1.648940
+09272A020E-10,10,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916182,1.643982
+09272A020E-1,1,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916976,1.645412
+09272A020E-12,12,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916437,1.644993
+09272A020E-1A,1A,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916709,1.645094
+09272A020E-2,2,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916906,1.644988
+09272A020E-3,3,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916698,1.644838
+09272A020E-4,4,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916520,1.644661
+09272A020E-5,5,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916357,1.644488
+09272A020E-6,6,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916102,1.644313
+09272A020E-6B,6BIS,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.915937,1.644042
+09272A020E-7,7,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916656,1.644351
+09272A020E-9,9,Cité des Fourches,09000,Saint-Paul-de-Jarrat,C+O,42.916496,1.644104
+09272A021F-10,10,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915939,1.649288
+09272A021F-11,11,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915591,1.649610
+09272A021F-1,1,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915788,1.646877
+09272A021F-12,12,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915403,1.649465
+09272A021F-13,13,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915116,1.649320
+09272A021F-14,14,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915114,1.648870
+09272A021F-15,15,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915157,1.648185
+09272A021F-16,16,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915212,1.647878
+09272A021F-17,17,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915406,1.647407
+09272A021F-18,18,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915603,1.647560
+09272A021F-19,19,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915747,1.647807
+09272A021F-20,20,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915671,1.648274
+09272A021F-21,21,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915637,1.648652
+09272A021F-22,22,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915576,1.649068
+09272A021F-2,2,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915628,1.647141
+09272A021F-23,23,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915373,1.648991
+09272A021F-24,24,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915426,1.648720
+09272A021F-25,25,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915462,1.648345
+09272A021F-26,26,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915494,1.647953
+09272A021F-3,3,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915867,1.647330
+09272A021F-4,4,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.916003,1.647186
+09272A021F-5,5,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.916129,1.647419
+09272A021F-6,6,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.916046,1.647772
+09272A021F-7,7,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.916007,1.648265
+09272A021F-8,8,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.916017,1.648677
+09272A021F-9,9,Lotissement Les Jardins de Saint-Paul,09000,Saint-Paul-de-Jarrat,C+O,42.915994,1.648940
 09272A023H-10,10,Hameau de Langlade,09000,Saint-Paul-de-Jarrat,CAD,42.909091,1.665854
 09272A023H-1,1,Hameau de Langlade,09000,Saint-Paul-de-Jarrat,CAD,42.909162,1.665586
 09272A023H-12,12,Hameau de Langlade,09000,Saint-Paul-de-Jarrat,CAD,42.908989,1.665999
@@ -15275,71 +15275,71 @@
 09272A023H-6,6,Hameau de Langlade,09000,Saint-Paul-de-Jarrat,CAD,42.909152,1.665817
 09272A023H-7,7,Hameau de Langlade,09000,Saint-Paul-de-Jarrat,CAD,42.909162,1.665895
 09272A023H-8,8,Hameau de Langlade,09000,Saint-Paul-de-Jarrat,CAD,42.909134,1.666111
-09272A025K-10,10,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912491,1.667999
-09272A025K-11,11,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913478,1.667257
-09272A025K-1,1,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913369,1.668194
-09272A025K-12,12,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913126,1.667280
-09272A025K-13,13,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912813,1.667337
-09272A025K-14,14,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912653,1.667333
-09272A025K-15,15,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912375,1.667712
-09272A025K-16,16,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913441,1.667180
-09272A025K-17,17,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913164,1.667194
-09272A025K-18,18,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912972,1.667224
-09272A025K-19,19,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912822,1.667247
-09272A025K-2,2,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913141,1.668062
-09272A025K-3,3,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912938,1.668090
-09272A025K-4,4,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912606,1.668157
-09272A025K-5,5,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912502,1.668138
-09272A025K-6,6,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913338,1.667843
-09272A025K-7,7,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.913070,1.667841
-09272A025K-8,8,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912964,1.667776
-09272A025K-9,9,Cité du Prat-Grand,09000,Saint-Paul-de-Jarrat,CAD,42.912515,1.667805
-09272A036X-11,11,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917799,1.642175
-09272A036X-13,13,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.915223,1.651435
-09272A036X-15,15,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.918049,1.641167
-09272A036X-17,17,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917942,1.640924
-09272A036X-22,22,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917960,1.641855
-09272A036X-2,2,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917577,1.644386
-09272A036X-27,27,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917853,1.640730
-09272A036X-31,31,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917267,1.640766
-09272A036X-33,33,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917146,1.641260
-09272A036X-3,3,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917479,1.643471
-09272A036X-35,35,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.916920,1.641345
-09272A036X-37,37,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.916712,1.641488
-09272A036X-39,39,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.916414,1.641418
-09272A036X-5,5,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917611,1.642935
-09272A036X-7T,7TER,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917254,1.642175
-09272A036X-9,9,Saint Antoine,09000,Saint-Paul-de-Jarrat,CAD,42.917725,1.642477
-09272A044F-10,10,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916360,1.653552
-09272A044F-11,11,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916082,1.653954
-09272A044F-1,1,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915532,1.653238
-09272A044F-12,12,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916255,1.653474
-09272A044F-13,13,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916217,1.654059
-09272A044F-14,14,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916211,1.653500
-09272A044F-16,16,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916058,1.653328
-09272A044F-18,18,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915908,1.653216
-09272A044F-19,19,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916389,1.654186
-09272A044F-20,20,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916406,1.654114
-09272A044F-21,21,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916547,1.654332
-09272A044F-22,22,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916615,1.654272
-09272A044F-2,2,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915599,1.653513
-09272A044F-23,23,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916762,1.654490
-09272A044F-24,24,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916745,1.654373
-09272A044F-25,25,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916908,1.654566
-09272A044F-26,26,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.898216,1.655772
-09272A044F-27,27,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.898048,1.656070
-09272A044F-28,28,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.917312,1.653873
-09272A044F-29,29,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.917174,1.653745
-09272A044F-30,30,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.917012,1.653657
-09272A044F-31,31,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916800,1.653784
-09272A044F-32,32,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.917149,1.653618
-09272A044F-3,3,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915458,1.653431
-09272A044F-4,4,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915733,1.653613
-09272A044F-5,5,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915514,1.653526
-09272A044F-6,6,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915899,1.653738
-09272A044F-7,7,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915664,1.653644
-09272A044F-8,8,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.916195,1.653960
-09272A044F-9,9,Cité Sicre,09000,Saint-Paul-de-Jarrat,CAD,42.915826,1.653766
+09272A025K-10,10,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912491,1.667999
+09272A025K-11,11,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913478,1.667257
+09272A025K-1,1,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913369,1.668194
+09272A025K-12,12,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913126,1.667280
+09272A025K-13,13,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912813,1.667337
+09272A025K-14,14,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912653,1.667333
+09272A025K-15,15,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912375,1.667712
+09272A025K-16,16,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913441,1.667180
+09272A025K-17,17,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913164,1.667194
+09272A025K-18,18,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912972,1.667224
+09272A025K-19,19,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912822,1.667247
+09272A025K-2,2,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913141,1.668062
+09272A025K-3,3,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912938,1.668090
+09272A025K-4,4,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912606,1.668157
+09272A025K-5,5,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912502,1.668138
+09272A025K-6,6,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913338,1.667843
+09272A025K-7,7,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.913070,1.667841
+09272A025K-8,8,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912964,1.667776
+09272A025K-9,9,Cité du Prat Grand,09000,Saint-Paul-de-Jarrat,C+O,42.912515,1.667805
+09272A036X-11,11,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917799,1.642175
+09272A036X-13,13,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.915223,1.651435
+09272A036X-15,15,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.918049,1.641167
+09272A036X-17,17,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917942,1.640924
+09272A036X-22,22,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917960,1.641855
+09272A036X-2,2,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917577,1.644386
+09272A036X-27,27,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917853,1.640730
+09272A036X-31,31,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917267,1.640766
+09272A036X-33,33,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917146,1.641260
+09272A036X-3,3,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917479,1.643471
+09272A036X-35,35,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.916920,1.641345
+09272A036X-37,37,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.916712,1.641488
+09272A036X-39,39,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.916414,1.641418
+09272A036X-5,5,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917611,1.642935
+09272A036X-7T,7TER,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917254,1.642175
+09272A036X-9,9,Chemin Saint-Antoine,09000,Saint-Paul-de-Jarrat,C+O,42.917725,1.642477
+09272A044F-10,10,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916360,1.653552
+09272A044F-11,11,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916082,1.653954
+09272A044F-1,1,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915532,1.653238
+09272A044F-12,12,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916255,1.653474
+09272A044F-13,13,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916217,1.654059
+09272A044F-14,14,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916211,1.653500
+09272A044F-16,16,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916058,1.653328
+09272A044F-18,18,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915908,1.653216
+09272A044F-19,19,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916389,1.654186
+09272A044F-20,20,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916406,1.654114
+09272A044F-21,21,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916547,1.654332
+09272A044F-22,22,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916615,1.654272
+09272A044F-2,2,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915599,1.653513
+09272A044F-23,23,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916762,1.654490
+09272A044F-24,24,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916745,1.654373
+09272A044F-25,25,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916908,1.654566
+09272A044F-26,26,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.898216,1.655772
+09272A044F-27,27,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.898048,1.656070
+09272A044F-28,28,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.917312,1.653873
+09272A044F-29,29,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.917174,1.653745
+09272A044F-30,30,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.917012,1.653657
+09272A044F-31,31,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916800,1.653784
+09272A044F-32,32,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.917149,1.653618
+09272A044F-3,3,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915458,1.653431
+09272A044F-4,4,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915733,1.653613
+09272A044F-5,5,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915514,1.653526
+09272A044F-6,6,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915899,1.653738
+09272A044F-7,7,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915664,1.653644
+09272A044F-8,8,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.916195,1.653960
+09272A044F-9,9,Cité Sicre,09000,Saint-Paul-de-Jarrat,C+O,42.915826,1.653766
 09272B026Y-48,48,Canals,09000,Saint-Paul-de-Jarrat,CAD,42.892763,1.661047
 09272B042R-13B,13BIS,La Coste,09000,Saint-Paul-de-Jarrat,CAD,42.894041,1.662905
 09272B045U-43,43,La Counine,09000,Saint-Paul-de-Jarrat,CAD,42.892712,1.661573
