@@ -1935,7 +1935,7 @@
 230080810W-9,9,Rue Vieille,23200,Aubusson,C+O,45.956792,2.168003
 230080840D-11,11,Rue Williams Dumazet,23200,Aubusson,C+O,45.953201,2.163634
 230080840D-13,13,Rue Williams Dumazet,23200,Aubusson,C+O,45.952522,2.163095
-230080841E-11,11,Chemin du Mont,23200,Aubusson,C+O,45.957891,2.175420
+230080841E-11,11,Chemin du Mont,23200,Aubusson,OSM,45.958614,2.175986
 230080841E-2,2,Chemin du Mont,23200,Aubusson,C+O,45.958902,2.179777
 230080841E-4,4,Chemin du Mont,23200,Aubusson,C+O,45.958750,2.179967
 230080841E-6,6,Chemin du Mont,23200,Aubusson,C+O,45.959153,2.180033
@@ -2956,21 +2956,21 @@
 230200037D-5,5,Allée de la Clé des Champs,23190,Bellegarde-en-Marche,CAD,45.986152,2.294266
 230200040G-1,1,Chemin de l 'École,23190,Bellegarde-en-Marche,OSM,45.979931,2.298085
 230200040G-5,5,Chemin de l 'École,23190,Bellegarde-en-Marche,C+O,45.980087,2.297097
-230200045M-11,11,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981387,2.292847
-230200045M-1,1,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981425,2.293305
-230200045M-13,13,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981380,2.292784
-230200045M-15,15,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981373,2.292710
-230200045M-15B,15BIS,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981362,2.292599
-230200045M-17,17,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981354,2.292521
-230200045M-19,19,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981343,2.292411
-230200045M-2,2,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981511,2.293132
-230200045M-3,3,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981420,2.293206
-230200045M-4,4,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981482,2.292780
-230200045M-5,5,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981413,2.293124
-230200045M-6,6,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981454,2.292537
-230200045M-7,7,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981406,2.293051
-230200045M-8,8,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981436,2.292398
-230200045M-9,9,Rue de l'Etang,23190,Bellegarde-en-Marche,C+O,45.981392,2.292925
+230200045M-11,11,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981387,2.292847
+230200045M-1,1,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981425,2.293305
+230200045M-13,13,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981380,2.292784
+230200045M-15,15,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981373,2.292710
+230200045M-15B,15BIS,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981362,2.292599
+230200045M-17,17,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981354,2.292521
+230200045M-19,19,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981343,2.292411
+230200045M-2,2,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981511,2.293132
+230200045M-3,3,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981420,2.293206
+230200045M-4,4,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981482,2.292780
+230200045M-5,5,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981413,2.293124
+230200045M-6,6,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981454,2.292537
+230200045M-7,7,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981406,2.293051
+230200045M-8,8,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981436,2.292398
+230200045M-9,9,Rue de l'Étang,23190,Bellegarde-en-Marche,C+O,45.981392,2.292925
 230200052V-1,1,Rue des Fossés,23190,Bellegarde-en-Marche,C+O,45.980887,2.293734
 230200052V-3,3,Rue des Fossés,23190,Bellegarde-en-Marche,C+O,45.980969,2.293487
 230200055Y-1,1,Rue des 5 Fourneaux,23190,Bellegarde-en-Marche,C+O,45.982635,2.299253
@@ -23518,19 +23518,19 @@
 231900003C-3,3,Place de l'Église,23190,Saint-Domet,C+O,46.043305,2.300732
 231900003C-4,4,Place de l'Église,23190,Saint-Domet,C+O,46.043495,2.300569
 231900003C-6,6,Place de l'Église,23190,Saint-Domet,C+O,46.043330,2.300613
-231900004D-10,10,Rue de l'Etang,23190,Saint-Domet,C+O,46.042003,2.298734
-231900004D-1,1,Rue de l'Etang,23190,Saint-Domet,C+O,46.042363,2.299428
-231900004D-12,12,Rue de l'Etang,23190,Saint-Domet,C+O,46.041747,2.298409
-231900004D-14,14,Rue de l'Etang,23190,Saint-Domet,C+O,46.041482,2.297993
-231900004D-16,16,Rue de l'Etang,23190,Saint-Domet,C+O,46.041372,2.297300
-231900004D-2,2,Rue de l'Etang,23190,Saint-Domet,C+O,46.042553,2.299593
-231900004D-3,3,Rue de l'Etang,23190,Saint-Domet,C+O,46.042290,2.299367
-231900004D-4,4,Rue de l'Etang,23190,Saint-Domet,C+O,46.042329,2.299229
-231900004D-5,5,Rue de l'Etang,23190,Saint-Domet,C+O,46.042186,2.299136
-231900004D-6,6,Rue de l'Etang,23190,Saint-Domet,C+O,46.042194,2.299022
-231900004D-7,7,Rue de l'Etang,23190,Saint-Domet,C+O,46.042073,2.298997
-231900004D-8,8,Rue de l'Etang,23190,Saint-Domet,C+O,46.042099,2.298879
-231900004D-9,9,Rue de l'Etang,23190,Saint-Domet,C+O,46.041804,2.298714
+231900004D-10,10,Rue de l'Étang,23190,Saint-Domet,C+O,46.042003,2.298734
+231900004D-1,1,Rue de l'Étang,23190,Saint-Domet,C+O,46.042363,2.299428
+231900004D-12,12,Rue de l'Étang,23190,Saint-Domet,C+O,46.041747,2.298409
+231900004D-14,14,Rue de l'Étang,23190,Saint-Domet,C+O,46.041482,2.297993
+231900004D-16,16,Rue de l'Étang,23190,Saint-Domet,C+O,46.041372,2.297300
+231900004D-2,2,Rue de l'Étang,23190,Saint-Domet,C+O,46.042553,2.299593
+231900004D-3,3,Rue de l'Étang,23190,Saint-Domet,C+O,46.042290,2.299367
+231900004D-4,4,Rue de l'Étang,23190,Saint-Domet,C+O,46.042329,2.299229
+231900004D-5,5,Rue de l'Étang,23190,Saint-Domet,C+O,46.042186,2.299136
+231900004D-6,6,Rue de l'Étang,23190,Saint-Domet,C+O,46.042194,2.299022
+231900004D-7,7,Rue de l'Étang,23190,Saint-Domet,C+O,46.042073,2.298997
+231900004D-8,8,Rue de l'Étang,23190,Saint-Domet,C+O,46.042099,2.298879
+231900004D-9,9,Rue de l'Étang,23190,Saint-Domet,C+O,46.041804,2.298714
 231900005E-2,2,Rue de la Fontaine,23190,Saint-Domet,C+O,46.042040,2.300304
 231900006F-11,11,Rue de la Gravelle,23190,Saint-Domet,CAD,46.045245,2.301846
 231900006F-1,1,Rue de la Gravelle,23190,Saint-Domet,CAD,46.044165,2.300738
