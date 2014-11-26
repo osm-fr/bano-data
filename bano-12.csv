@@ -5382,14 +5382,14 @@
 120570001P-6,6,Cité Beauregard,12120,Cassagnes-Bégonhès,CAD,44.171809,2.532625
 120570001P-7,7,Cité Beauregard,12120,Cassagnes-Bégonhès,CAD,44.171548,2.533069
 120570001P-9,9,Cité Beauregard,12120,Cassagnes-Bégonhès,CAD,44.171562,2.532844
-120570002R-10,10,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.169331,2.526895
-120570002R-1,1,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.170029,2.526939
-120570002R-12,12,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.169479,2.527032
-120570002R-14,14,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.169323,2.527415
-120570002R-2,2,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.168773,2.527555
-120570002R-4,4,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.168843,2.527314
-120570002R-6,6,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.168933,2.527137
-120570002R-8,8,Cité Beausejour,12120,Cassagnes-Bégonhès,CAD,44.169014,2.526976
+120570002R-10,10,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.169331,2.526895
+120570002R-1,1,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.170029,2.526939
+120570002R-12,12,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.169479,2.527032
+120570002R-14,14,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.169323,2.527415
+120570002R-2,2,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.168773,2.527555
+120570002R-4,4,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.168843,2.527314
+120570002R-6,6,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.168933,2.527137
+120570002R-8,8,Cité Beausejour,12120,Cassagnes-Bégonhès,C+O,44.169014,2.526976
 120570003S-2,2,Rue de la Font-Neuve,12120,Cassagnes-Bégonhès,C+O,44.167668,2.530426
 120570004T-1,1,Rue des Écoles,12120,Cassagnes-Bégonhès,C+O,44.168033,2.531029
 120570004T-1B,1BIS,Rue des Écoles,12120,Cassagnes-Bégonhès,C+O,44.168097,2.530958
@@ -5464,16 +5464,16 @@
 120570008X-7,7,Rue du Centre,12120,Cassagnes-Bégonhès,C+O,44.169024,2.530202
 120570008X-8,8,Rue du Centre,12120,Cassagnes-Bégonhès,C+O,44.168324,2.529665
 120570008X-9,9,Rue du Centre,12120,Cassagnes-Bégonhès,C+O,44.168926,2.530191
-120570009Y-1,1,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168860,2.530322
-120570009Y-1B,1BIS,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168899,2.530258
-120570009Y-2,2,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168928,2.530059
-120570009Y-3,3,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.169281,2.530432
-120570009Y-4,4,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168814,2.529986
-120570009Y-4B,4BIS,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168863,2.529905
-120570009Y-4T,4TER,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168924,2.529902
-120570009Y-5,5,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168638,2.530193
-120570009Y-6,6,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168740,2.530017
-120570009Y-7,7,Place du Centre,12120,Cassagnes-Bégonhès,CAD,44.168640,2.530117
+120570009Y-1,1,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168860,2.530322
+120570009Y-1B,1BIS,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168899,2.530258
+120570009Y-2,2,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168928,2.530059
+120570009Y-3,3,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.169281,2.530432
+120570009Y-4,4,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168814,2.529986
+120570009Y-4B,4BIS,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168863,2.529905
+120570009Y-4T,4TER,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168924,2.529902
+120570009Y-5,5,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168638,2.530193
+120570009Y-6,6,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168740,2.530017
+120570009Y-7,7,Place du Centre,12120,Cassagnes-Bégonhès,C+O,44.168640,2.530117
 120570011A-10,10,Avenue de Naucelle,12120,Cassagnes-Bégonhès,C+O,44.167092,2.525703
 120570011A-1,1,Avenue de Naucelle,12120,Cassagnes-Bégonhès,C+O,44.168274,2.527839
 120570011A-12,12,Avenue de Naucelle,12120,Cassagnes-Bégonhès,C+O,44.167229,2.524951
@@ -5486,31 +5486,31 @@
 120570012B-2,2,Place Charles de Gaulle,12120,Cassagnes-Bégonhès,C+O,44.167798,2.530319
 120570012B-4,4,Place Charles de Gaulle,12120,Cassagnes-Bégonhès,C+O,44.167792,2.530655
 120570012B-6,6,Place Charles de Gaulle,12120,Cassagnes-Bégonhès,C+O,44.167819,2.530929
-120570013C-10,10,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170248,2.530053
-120570013C-1,1,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.169994,2.530563
-120570013C-12,12,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170334,2.530034
-120570013C-14,14,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170468,2.530027
-120570013C-16,16,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170572,2.530022
-120570013C-2,2,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170274,2.530852
-120570013C-3,3,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170092,2.530051
-120570013C-4,4,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170126,2.530793
-120570013C-5,5,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170491,2.529904
-120570013C-6,6,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170107,2.530736
-120570013C-7,7,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170659,2.529906
-120570013C-8,8,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170187,2.530096
-120570013C-9,9,Avenue de Rodez,12120,Cassagnes-Bégonhès,CAD,44.170846,2.529892
-120570014D-1,1,Rue Calguieres,12120,Cassagnes-Bégonhès,CAD,44.168893,2.529472
-120570014D-2,2,Rue Calguieres,12120,Cassagnes-Bégonhès,CAD,44.168495,2.529084
-120570014D-3,3,Rue Calguieres,12120,Cassagnes-Bégonhès,CAD,44.168949,2.529547
-120570014D-4,4,Rue Calguieres,12120,Cassagnes-Bégonhès,CAD,44.168579,2.529150
-120570014D-6,6,Rue Calguieres,12120,Cassagnes-Bégonhès,CAD,44.168686,2.529277
-120570014D-8,8,Rue Calguieres,12120,Cassagnes-Bégonhès,CAD,44.168774,2.529394
+120570013C-10,10,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170248,2.530053
+120570013C-1,1,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.169994,2.530563
+120570013C-12,12,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170334,2.530034
+120570013C-14,14,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170468,2.530027
+120570013C-16,16,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170572,2.530022
+120570013C-2,2,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170274,2.530852
+120570013C-3,3,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170092,2.530051
+120570013C-4,4,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170126,2.530793
+120570013C-5,5,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170491,2.529904
+120570013C-6,6,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170107,2.530736
+120570013C-7,7,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170659,2.529906
+120570013C-8,8,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170187,2.530096
+120570013C-9,9,Avenue de Rodez,12120,Cassagnes-Bégonhès,C+O,44.170846,2.529892
+120570014D-1,1,Rue des Calguières,12120,Cassagnes-Bégonhès,C+O,44.168893,2.529472
+120570014D-2,2,Rue des Calguières,12120,Cassagnes-Bégonhès,C+O,44.168495,2.529084
+120570014D-3,3,Rue des Calguières,12120,Cassagnes-Bégonhès,C+O,44.168949,2.529547
+120570014D-4,4,Rue des Calguières,12120,Cassagnes-Bégonhès,C+O,44.168579,2.529150
+120570014D-6,6,Rue des Calguières,12120,Cassagnes-Bégonhès,C+O,44.168686,2.529277
+120570014D-8,8,Rue des Calguières,12120,Cassagnes-Bégonhès,C+O,44.168774,2.529394
 120570016F-1,1,Place de la Mairie,12120,Cassagnes-Bégonhès,OSM,44.169481,2.530114
 120570016F-2,2,Place de la Mairie,12120,Cassagnes-Bégonhès,C+O,44.169520,2.530326
 120570016F-3,3,Place de la Mairie,12120,Cassagnes-Bégonhès,C+O,44.169902,2.530390
-120570018H-1,1,Rue François Fabié,12120,Cassagnes-Bégonhès,CAD,44.168300,2.529937
-120570018H-2,2,Rue François Fabié,12120,Cassagnes-Bégonhès,CAD,44.168329,2.530006
-120570018H-4,4,Rue François Fabié,12120,Cassagnes-Bégonhès,CAD,44.168241,2.530145
+120570018H-1,1,Rue François Fabié,12120,Cassagnes-Bégonhès,C+O,44.168300,2.529937
+120570018H-2,2,Rue François Fabié,12120,Cassagnes-Bégonhès,C+O,44.168329,2.530006
+120570018H-4,4,Rue François Fabié,12120,Cassagnes-Bégonhès,C+O,44.168241,2.530145
 120570019J-1,1,Place du Château,12120,Cassagnes-Bégonhès,C+O,44.168778,2.529690
 120570019J-2,2,Place du Château,12120,Cassagnes-Bégonhès,C+O,44.168658,2.529645
 120570019J-3,3,Place du Château,12120,Cassagnes-Bégonhès,C+O,44.168508,2.529518
@@ -5571,10 +5571,10 @@
 120570031X-6,6,Route du Ceg,12120,Cassagnes-Bégonhès,CAD,44.165355,2.529519
 120570031X-7,7,Route du Ceg,12120,Cassagnes-Bégonhès,CAD,44.166300,2.529221
 120570031X-8,8,Route du Ceg,12120,Cassagnes-Bégonhès,CAD,44.165355,2.529748
-120570032Y-1,1,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,CAD,44.170149,2.523905
-120570032Y-2,2,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,CAD,44.169781,2.523886
-120570032Y-3,3,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,CAD,44.169512,2.524147
-120570032Y-4,4,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,CAD,44.169525,2.523730
+120570032Y-1,1,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,C+O,44.170149,2.523905
+120570032Y-2,2,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,C+O,44.169781,2.523886
+120570032Y-3,3,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,C+O,44.169512,2.524147
+120570032Y-4,4,Rue Lot La Côte Vieille,12120,Cassagnes-Bégonhès,C+O,44.169525,2.523730
 120630020J-10,10,Chemin des Agastous,12230,La Cavalerie,C+O,44.009924,3.158262
 120630020J-14,14,Chemin des Agastous,12230,La Cavalerie,C+O,44.010266,3.158389
 120630020J-15,15,Chemin des Agastous,12230,La Cavalerie,C+O,44.010442,3.158217
@@ -6099,13 +6099,13 @@
 120730020R-3,3,Rue du Balat,12120,Comps-la-Grand-Ville,OSM,44.230978,2.566636
 120730020R-4,4,Rue du Balat,12120,Comps-la-Grand-Ville,OSM,44.230584,2.566211
 120730020R-6932F,6932F,Rue du Balat,12120,Comps-la-Grand-Ville,C+O,44.230591,2.566541
-120730030B-11,11,Route de Bonnecombe,12120,Comps-la-Grand-Ville,CAD,44.231658,2.567121
-120730030B-13,13,Route de Bonnecombe,12120,Comps-la-Grand-Ville,CAD,44.231569,2.567192
-120730030B-3,3,Route de Bonnecombe,12120,Comps-la-Grand-Ville,CAD,44.232477,2.566420
-120730030B-5,5,Route de Bonnecombe,12120,Comps-la-Grand-Ville,CAD,44.232292,2.566605
-120730030B-7,7,Route de Bonnecombe,12120,Comps-la-Grand-Ville,CAD,44.232020,2.567050
-120730030B-8,8,Route de Bonnecombe,12120,Comps-la-Grand-Ville,CAD,44.231716,2.566953
-120730030B-9,9,Route de Bonnecombe,12120,Comps-la-Grand-Ville,CAD,44.231886,2.566907
+120730030B-11,11,Route de Bonnecombe,12120,Comps-la-Grand-Ville,C+O,44.231658,2.567121
+120730030B-13,13,Route de Bonnecombe,12120,Comps-la-Grand-Ville,C+O,44.231569,2.567192
+120730030B-3,3,Route de Bonnecombe,12120,Comps-la-Grand-Ville,C+O,44.232477,2.566420
+120730030B-5,5,Route de Bonnecombe,12120,Comps-la-Grand-Ville,C+O,44.232292,2.566605
+120730030B-7,7,Route de Bonnecombe,12120,Comps-la-Grand-Ville,C+O,44.232020,2.567050
+120730030B-8,8,Route de Bonnecombe,12120,Comps-la-Grand-Ville,C+O,44.231716,2.566953
+120730030B-9,9,Route de Bonnecombe,12120,Comps-la-Grand-Ville,C+O,44.231886,2.566907
 120730040M-10,10,Place du Bourg,12120,Comps-la-Grand-Ville,OSM,44.231224,2.566990
 120730040M-1,1,Place du Bourg,12120,Comps-la-Grand-Ville,OSM,44.231455,2.567413
 120730040M-12,12,Place du Bourg,12120,Comps-la-Grand-Ville,OSM,44.231139,2.566834
@@ -6119,10 +6119,10 @@
 120730040M-7,7,Place du Bourg,12120,Comps-la-Grand-Ville,OSM,44.231110,2.567194
 120730040M-8,8,Place du Bourg,12120,Comps-la-Grand-Ville,OSM,44.231282,2.567012
 120730040M-9,9,Place du Bourg,12120,Comps-la-Grand-Ville,OSM,44.231051,2.567169
-120730060J-1,1,Rue des Charpentiers,12120,Comps-la-Grand-Ville,CAD,44.230985,2.567423
+120730060J-1,1,Rue des Charpentiers,12120,Comps-la-Grand-Ville,C+O,44.230985,2.567423
 120730080F-1,1,Place du Couderc,12120,Comps-la-Grand-Ville,OSM,44.231399,2.570999
-120730100C-2,2,Chemin des Falgayrettes,12120,Comps-la-Grand-Ville,CAD,44.232799,2.566526
-120730120Z-3,3,Chemin des Garroustes,12120,Comps-la-Grand-Ville,CAD,44.230603,2.564009
+120730100C-2,2,Chemin des Falgayrettes,12120,Comps-la-Grand-Ville,C+O,44.232799,2.566526
+120730120Z-3,3,Chemin des Garroustes,12120,Comps-la-Grand-Ville,C+O,44.230603,2.564009
 120730130K-10,10,Rue des Lacs,12120,Comps-la-Grand-Ville,C+O,44.230307,2.569473
 120730130K-11,11,Rue des Lacs,12120,Comps-la-Grand-Ville,OSM,44.230395,2.568950
 120730130K-1,1,Rue des Lacs,12120,Comps-la-Grand-Ville,OSM,44.231156,2.567659
@@ -6201,15 +6201,15 @@
 12073A100X-4,4,Lotissement de la Prade,12120,Comps-la-Grand-Ville,OSM,44.230578,2.565428
 12073A100X-6,6,Lotissement de la Prade,12120,Comps-la-Grand-Ville,OSM,44.230328,2.565363
 12073A100X-8,8,Lotissement de la Prade,12120,Comps-la-Grand-Ville,OSM,44.230095,2.565327
-12073A500G-11,11,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231494,2.574082
-12073A500G-1,1,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231385,2.572899
-12073A500G-2,2,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231613,2.573314
-12073A500G-3,3,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231711,2.572957
-12073A500G-4,4,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231480,2.573759
-12073A500G-5,5,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231703,2.573262
-12073A500G-6,6,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231414,2.574001
-12073A500G-7,7,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231827,2.573487
-12073A500G-9,9,Lotissement de la Cibadiere,12120,Comps-la-Grand-Ville,CAD,44.231594,2.573810
+12073A500G-11,11,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231494,2.574082
+12073A500G-1,1,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231385,2.572899
+12073A500G-2,2,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231613,2.573314
+12073A500G-3,3,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231711,2.572957
+12073A500G-4,4,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231480,2.573759
+12073A500G-5,5,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231703,2.573262
+12073A500G-6,6,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231414,2.574001
+12073A500G-7,7,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231827,2.573487
+12073A500G-9,9,Lotissement de la Cibadière,12120,Comps-la-Grand-Ville,C+O,44.231594,2.573810
 120800004T-2,2,Ruelle des Arcades,12550,Coupiac,CAD,43.953793,2.581800
 120800004T-4,4,Ruelle des Arcades,12550,Coupiac,CAD,43.954029,2.581742
 120800010Z-1,1,Rue du Barry,12550,Coupiac,CAD,43.954225,2.582291
@@ -12620,7 +12620,7 @@
 121020028Y-2,2,Passage des Écoliers,12450,Flavin,OSM,44.287615,2.602319
 121020028Y-3,3,Passage des Écoliers,12450,Flavin,OSM,44.287250,2.602713
 121020028Y-4,4,Passage des Écoliers,12450,Flavin,OSM,44.287197,2.602308
-121020029Z-2,2,Place de l'Eglise,12450,Flavin,CAD,44.289829,2.604686
+121020029Z-2,2,Place de l'Église,12450,Flavin,C+O,44.289829,2.604686
 121020031B-11,11,Rue des Faneurs,12450,Flavin,OSM,44.289770,2.600304
 121020031B-1,1,Rue des Faneurs,12450,Flavin,OSM,44.290337,2.601402
 121020031B-13,13,Rue des Faneurs,12450,Flavin,OSM,44.289574,2.599976
@@ -22751,10 +22751,10 @@
 121451810Y-2D,2D,Impasse Maréchal Foch,12100,Millau,C+O,44.097243,3.080350
 121451810Y-3,3,Impasse Maréchal Foch,12100,Millau,C+O,44.097337,3.080463
 121451820J-10,10,Place Maréchal Foch,12100,Millau,OSM,44.097465,3.080621
-121451820J-11,11,Place Maréchal Foch,12100,Millau,C+O,44.097292,3.080679
+121451820J-11,11,Place du Maréchal Foch,12100,Millau,C+O,44.097292,3.080679
 121451820J-2,2,Place Maréchal Foch,12100,Millau,OSM,44.098072,3.080858
-121451820J-3,3,Place Maréchal Foch,12100,Millau,C+O,44.098087,3.080733
-121451820J-3B,3BIS,Place Maréchal Foch,12100,Millau,C+O,44.098065,3.080808
+121451820J-3,3,Place du Maréchal Foch,12100,Millau,C+O,44.098087,3.080733
+121451820J-3B,3BIS,Place du Maréchal Foch,12100,Millau,C+O,44.098065,3.080808
 121451820J-6,6,Place Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
 121451820J-7,7,Place Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
 121451820J-7,7,Place Maréchal Foch,12100,Millau,OSM,44.097987,3.080545
@@ -38683,22 +38683,22 @@
 122021840H-54,54,Avenue du Ségala,12000,Rodez,OSM,44.344885,2.567385
 122021840H-5,5,Avenue du Ségala,12000,Rodez,C+O,44.345130,2.568685
 122021840H-6,6,Avenue du Ségala,12000,Rodez,C+O,44.345267,2.568841
-122021850U-1,1,Rue de Séguret Saincric,12000,Rodez,C+O,44.351959,2.570674
-122021850U-16,16,Rue de Séguret Saincric,12000,Rodez,C+O,44.353391,2.571761
-122021850U-17,17,Rue de Séguret Saincric,12000,Rodez,C+O,44.352702,2.571169
-122021850U-18,18,Rue de Séguret Saincric,12000,Rodez,C+O,44.353502,2.571833
-122021850U-21,21,Rue de Séguret Saincric,12000,Rodez,C+O,44.352891,2.571295
-122021850U-2,2,Rue de Séguret Saincric,12000,Rodez,C+O,44.351963,2.570817
-122021850U-23,23,Rue de Séguret Saincric,12000,Rodez,C+O,44.352991,2.571361
-122021850U-25,25,Rue de Séguret Saincric,12000,Rodez,C+O,44.353285,2.571588
-122021850U-27,27,Rue de Séguret Saincric,12000,Rodez,C+O,44.353401,2.571664
+122021850U-1,1,Rue Séguret Saincric,12000,Rodez,C+O,44.351959,2.570674
+122021850U-16,16,Rue Séguret Saincric,12000,Rodez,C+O,44.353391,2.571761
+122021850U-17,17,Rue Séguret Saincric,12000,Rodez,C+O,44.352702,2.571169
+122021850U-18,18,Rue Séguret Saincric,12000,Rodez,C+O,44.353502,2.571833
+122021850U-21,21,Rue Séguret Saincric,12000,Rodez,C+O,44.352891,2.571295
+122021850U-2,2,Rue Séguret Saincric,12000,Rodez,C+O,44.351963,2.570817
+122021850U-23,23,Rue Séguret Saincric,12000,Rodez,C+O,44.352991,2.571361
+122021850U-25,25,Rue Séguret Saincric,12000,Rodez,C+O,44.353285,2.571588
+122021850U-27,27,Rue Séguret Saincric,12000,Rodez,C+O,44.353401,2.571664
 122021850U-29,29,Rue de Séguret Saincric,12000,Rodez,OSM,44.353563,2.571736
 122021850U-31,31,Rue de Séguret Saincric,12000,Rodez,OSM,44.353721,2.571836
-122021850U-3,3,Rue de Séguret Saincric,12000,Rodez,C+O,44.352139,2.570798
-122021850U-4,4,Rue de Séguret Saincric,12000,Rodez,C+O,44.352127,2.570927
-122021850U-7,7,Rue de Séguret Saincric,12000,Rodez,C+O,44.352273,2.570886
+122021850U-3,3,Rue Séguret Saincric,12000,Rodez,C+O,44.352139,2.570798
+122021850U-4,4,Rue Séguret Saincric,12000,Rodez,C+O,44.352127,2.570927
+122021850U-7,7,Rue Séguret Saincric,12000,Rodez,C+O,44.352273,2.570886
 122021850U-8,8,Rue de Séguret Saincric,12000,Rodez,OSM,44.352616,2.571252
-122021850U-9,9,Rue de Séguret Saincric,12000,Rodez,C+O,44.352496,2.571035
+122021850U-9,9,Rue Séguret Saincric,12000,Rodez,C+O,44.352496,2.571035
 122021860E-10,10,Rue Séguy,12000,Rodez,C+O,44.351619,2.575395
 122021860E-11,11,Rue Séguy,12000,Rodez,C+O,44.351940,2.575601
 122021860E-1,1,Rue Séguy,12000,Rodez,OSM,44.351238,2.575100
@@ -47180,23 +47180,23 @@
 122700171Y-5,5,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327689,3.059806
 122700171Y-6,6,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327833,3.059946
 122700171Y-8,8,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327765,3.059785
-122700172Z-11,11,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
-122700172Z-1,1,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
-122700172Z-13,13,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
-122700172Z-15,15,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
-122700172Z-17,17,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
-122700172Z-19,19,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
-122700172Z-21,21,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
-122700172Z-2,2,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
-122700172Z-23,23,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
-122700172Z-3,3,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
-122700172Z-3B,3BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
-122700172Z-5,5,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
-122700172Z-6,6,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
-122700172Z-7,7,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
-122700172Z-7B,7BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
-122700172Z-8,8,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
-122700172Z-9,9,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
+122700172Z-11,11,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
+122700172Z-1,1,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
+122700172Z-13,13,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
+122700172Z-15,15,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
+122700172Z-17,17,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
+122700172Z-19,19,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
+122700172Z-21,21,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
+122700172Z-2,2,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
+122700172Z-23,23,Rue Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
+122700172Z-3,3,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
+122700172Z-3B,3BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
+122700172Z-5,5,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
+122700172Z-6,6,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
+122700172Z-7,7,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
+122700172Z-7B,7BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
+122700172Z-8,8,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
+122700172Z-9,9,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
 122700175C-1,1,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321673,3.068424
 122700175C-2,2,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321717,3.069372
 122700175C-3,3,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321697,3.068191
