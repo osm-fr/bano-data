@@ -2457,12 +2457,12 @@
 040490160Y-1,1,Place Camille Reymond,04600,Château-Arnoux-Saint-Auban,C+O,44.093035,6.008644
 040490160Y-273,273,Place Camille Reymond,04600,Château-Arnoux-Saint-Auban,C+O,44.092976,6.008717
 040490160Y-3,3,Place Camille Reymond,04600,Château-Arnoux-Saint-Auban,C+O,44.093171,6.008841
-040490165D-10,10,Avenue Camille St Saens,04600,Château-Arnoux-Saint-Auban,C+O,44.084769,6.008804
-040490165D-14B,14BIS,Avenue Camille St Saens,04600,Château-Arnoux-Saint-Auban,C+O,44.085218,6.009072
-040490165D-16,16,Avenue Camille St Saens,04600,Château-Arnoux-Saint-Auban,C+O,44.085521,6.009119
-040490165D-4,4,Avenue Camille St Saens,04600,Château-Arnoux-Saint-Auban,C+O,44.084172,6.008306
-040490165D-6,6,Avenue Camille St Saens,04600,Château-Arnoux-Saint-Auban,C+O,44.084354,6.008467
-040490165D-8,8,Avenue Camille St Saens,04600,Château-Arnoux-Saint-Auban,C+O,44.084535,6.008638
+040490165D-10,10,Avenue Camille St Saëns,04600,Château-Arnoux-Saint-Auban,C+O,44.084769,6.008804
+040490165D-14B,14BIS,Avenue Camille St Saëns,04600,Château-Arnoux-Saint-Auban,C+O,44.085218,6.009072
+040490165D-16,16,Avenue Camille St Saëns,04600,Château-Arnoux-Saint-Auban,C+O,44.085521,6.009119
+040490165D-4,4,Avenue Camille St Saëns,04600,Château-Arnoux-Saint-Auban,C+O,44.084172,6.008306
+040490165D-6,6,Avenue Camille St Saëns,04600,Château-Arnoux-Saint-Auban,C+O,44.084354,6.008467
+040490165D-8,8,Avenue Camille St Saëns,04600,Château-Arnoux-Saint-Auban,C+O,44.084535,6.008638
 040490170J-11,11,Rue de la Calade,04600,Château-Arnoux-Saint-Auban,C+O,44.094374,6.006261
 040490170J-1,1,Rue de la Calade,04600,Château-Arnoux-Saint-Auban,C+O,44.093877,6.006703
 040490170J-2,2,Rue de la Calade,04600,Château-Arnoux-Saint-Auban,C+O,44.094016,6.007082
@@ -7073,15 +7073,15 @@
 040701358J-1,1,Chemin du Ravin de la Pale,04000,Digne-les-Bains,C+O,44.078843,6.217377
 040701358J-3,3,Chemin du Ravin de la Pale,04000,Digne-les-Bains,C+O,44.078679,6.217597
 040701358J-9,9,Chemin du Ravin de la Pale,04000,Digne-les-Bains,C+O,44.078149,6.217705
-040701359K-10,10,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.082591,6.190249
-040701359K-12,12,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.083132,6.189872
-040701359K-2,2,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.080744,6.193471
-040701359K-4,4,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.080519,6.192875
-040701359K-5,5,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.079899,6.191850
-040701359K-6,6,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.080422,6.192350
-040701359K-7,7,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.080017,6.191754
-040701359K-8,8,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.080932,6.191220
-040701359K-8B,8BIS,Chemin du Ravin Pointu,04000,Digne-les-Bains,C+O,44.081310,6.192049
+040701359K-10,10,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.082591,6.190249
+040701359K-12,12,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.083132,6.189872
+040701359K-2,2,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.080744,6.193471
+040701359K-4,4,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.080519,6.192875
+040701359K-5,5,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.079899,6.191850
+040701359K-6,6,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.080422,6.192350
+040701359K-7,7,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.080017,6.191754
+040701359K-8,8,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.080932,6.191220
+040701359K-8B,8BIS,Chemin du Ravin-du-Pointu,04000,Digne-les-Bains,C+O,44.081310,6.192049
 040701360L-2,2,Place Recollets Crs Trib,04000,Digne-les-Bains,CAD,44.091892,6.239159
 040701362N-2,2,Route du Relais,04000,Digne-les-Bains,C+O,44.099135,6.213623
 040701362N-4,4,Route du Relais,04000,Digne-les-Bains,C+O,44.095875,6.221420
@@ -19198,11 +19198,11 @@
 04172X003B-17,17,Lotissement Parc des Ecoliers,04500,Roumoules,CAD,43.821977,6.128960
 04172X004C-2,2,Lotissement Le Colostre,04500,Roumoules,CAD,43.830760,6.134500
 041730007T-7114,7114,Rue Haute,04170,Saint-André-les-Alpes,CAD,43.970341,6.511893
-041730017D-1,1,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.969494,6.505315
-041730017D-7007,7007,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.971022,6.506827
-041730017D-7098,7098,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.971982,6.507022
-041730017D-7149,7149,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.970946,6.505294
-041730017D-7158,7158,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.972501,6.506462
+041730017D-1,1,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.969494,6.505315
+041730017D-7007,7007,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.971022,6.506827
+041730017D-7098,7098,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.971982,6.507022
+041730017D-7149,7149,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.970946,6.505294
+041730017D-7158,7158,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.972501,6.506462
 041730019F-7172,7172,Chemin des Accates,04170,Saint-André-les-Alpes,C+O,43.969087,6.512794
 041730020G-7120,7120,Chemin Bellevue,04170,Saint-André-les-Alpes,C+O,43.965209,6.505839
 041730021H-7133,7133,Chemin des Croues,04170,Saint-André-les-Alpes,C+O,43.964219,6.508763
@@ -20381,11 +20381,11 @@
 042090195R-4,4,Rue du Bosquet,04200,Sisteron,CAD,44.181334,5.942941
 042090195R-6,6,Rue du Bosquet,04200,Sisteron,CAD,44.181417,5.942879
 042090195R-8,8,Rue du Bosquet,04200,Sisteron,CAD,44.181587,5.942965
-042090200W-1,1,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
-042090200W-32,32,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
-042090200W-420,420,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
-042090200W-5B,5BIS,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
-042090200W-6,6,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
+042090200W-1,1,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
+042090200W-32,32,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
+042090200W-420,420,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
+042090200W-5B,5BIS,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
+042090200W-6,6,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
 042090206C-46,46,Chemin de la Bousquette,04200,Sisteron,CAD,44.218006,5.915048
 042090214L-1,1,Impasse des Cerisiers,04200,Sisteron,CAD,44.184405,5.948502
 042090214L-3,3,Impasse des Cerisiers,04200,Sisteron,CAD,44.184042,5.948317
