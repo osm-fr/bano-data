@@ -3624,19 +3624,19 @@
 550940005T-5,5,Rue d'Aucourt,55400,Buzy-Darmont,C+O,49.171767,5.709968
 550940005T-6,6,Rue d'Aucourt,55400,Buzy-Darmont,C+O,49.172224,5.711302
 550940005T-8,8,Rue d'Aucourt,55400,Buzy-Darmont,C+O,49.172503,5.710619
-550940010Y-10,10,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168878,5.715332
-550940010Y-11,11,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168841,5.715089
-550940010Y-1,1,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168687,5.716379
-550940010Y-12,12,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168925,5.715048
-550940010Y-14,14,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.169155,5.714834
-550940010Y-2,2,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168773,5.716402
-550940010Y-3,3,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168710,5.716119
-550940010Y-4,4,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168788,5.716230
-550940010Y-5,5,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168733,5.715860
-550940010Y-6,6,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168819,5.715883
-550940010Y-7,7,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168758,5.715582
-550940010Y-8,8,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168842,5.715616
-550940010Y-9,9,Impasse des Bouleaux,55400,Buzy-Darmont,C+O,49.168791,5.715292
+550940010Y-10,10,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168932,5.715374
+550940010Y-11,11,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168671,5.714887
+550940010Y-1,1,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168585,5.716369
+550940010Y-12,12,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168986,5.715092
+550940010Y-14,14,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.169038,5.714821
+550940010Y-2,2,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168860,5.716464
+550940010Y-3,3,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168628,5.716140
+550940010Y-4,4,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168842,5.716181
+550940010Y-5,5,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168625,5.715841
+550940010Y-6,6,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168880,5.715915
+550940010Y-7,7,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168651,5.715572
+550940010Y-8,8,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168890,5.715652
+550940010Y-9,9,Impasse des Bouleaux,55400,Buzy-Darmont,OSM,49.168746,5.715324
 550940012A-18B,18BIS,RUE DE LA BULLE,55400,Buzy-Darmont,CAD,49.172727,5.704863
 550940012A-3,3,RUE DE LA BULLE,55400,Buzy-Darmont,CAD,49.172144,5.705918
 550940012A-5,5,RUE DE LA BULLE,55400,Buzy-Darmont,CAD,49.172304,5.705584
@@ -3703,8 +3703,8 @@
 550940035A-66,66,RUE D ETAIN,55400,Buzy-Darmont,CAD,49.171694,5.707116
 550940035A-7,7,RUE D ETAIN,55400,Buzy-Darmont,CAD,49.170564,5.712824
 550940035A-9,9,RUE D ETAIN,55400,Buzy-Darmont,CAD,49.170607,5.712573
-550940038D-3,3,IMP DE LA GARE,55400,Buzy-Darmont,CAD,49.171795,5.711354
-550940038D-7,7,IMP DE LA GARE,55400,Buzy-Darmont,CAD,49.170789,5.714741
+550940038D-3,3,Impasse de la Gare,55400,Buzy-Darmont,C+O,49.171795,5.711354
+550940038D-7,7,Impasse de la Gare,55400,Buzy-Darmont,C+O,49.170789,5.714741
 550940039E-2,2,CHE DU GRAND PRE,55400,Buzy-Darmont,CAD,49.190730,5.717061
 550940039E-4,4,CHE DU GRAND PRE,55400,Buzy-Darmont,CAD,49.190842,5.716942
 550940039E-5,5,CHE DU GRAND PRE,55400,Buzy-Darmont,CAD,49.190986,5.716305
@@ -3728,80 +3728,80 @@
 550940040F-8,8,RUE DES HOLLEES,55400,Buzy-Darmont,CAD,49.170456,5.708060
 550940040F-8A,8A,RUE DES HOLLEES,55400,Buzy-Darmont,CAD,49.170506,5.708093
 550940040F-9,9,RUE DES HOLLEES,55400,Buzy-Darmont,CAD,49.170459,5.707874
-550940045L-10,10,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168463,5.712933
+550940045L-10,10,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168475,5.712945
 550940045L-10B,10BIS,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168531,5.712456
-550940045L-11,11,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168557,5.712239
-550940045L-12,12,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.170304,5.713119
-550940045L-13,13,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168625,5.712284
-550940045L-14,14,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168928,5.712535
-550940045L-15,15,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168852,5.712429
-550940045L-17,17,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.169455,5.712580
-550940045L-3,3,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168410,5.712472
-550940045L-4,4,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168137,5.713718
-550940045L-5,5,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168442,5.712101
-550940045L-7,7,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168501,5.711946
-550940045L-9,9,Rue du Joncroy,55400,Buzy-Darmont,C+O,49.168534,5.712137
-550940050S-10,10,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168119,5.710767
-550940050S-11,11,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167767,5.712158
-550940050S-1,1,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168588,5.710274
-550940050S-12,12,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167799,5.711538
-550940050S-13,13,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167710,5.712334
-550940050S-14,14,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167646,5.712082
-550940050S-14B,14BIS,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167572,5.712330
-550940050S-15,15,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167656,5.712505
-550940050S-16,16,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167516,5.712493
-550940050S-16B,16BIS,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167378,5.712868
-550940050S-18,18,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167245,5.713069
-550940050S-19,19,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167465,5.713072
-550940050S-20,20,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167139,5.713386
-550940050S-21,21,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167613,5.713635
-550940050S-22,22,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167306,5.713499
-550940050S-2,2,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168356,5.709958
-550940050S-24,24,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167387,5.713554
-550940050S-26,26,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167475,5.713583
-550940050S-3,3,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168426,5.710233
-550940050S-5,5,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168687,5.710786
-550940050S-6,6,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168240,5.710428
-550940050S-7,7,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168094,5.711079
-550940050S-8,8,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.168171,5.710564
-550940050S-9,9,Rue de L'Orne,55400,Buzy-Darmont,C+O,49.167813,5.712019
-550940055X-10,10,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168582,5.711069
-550940055X-11,11,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168949,5.711747
-550940055X-13,13,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168932,5.711872
-550940055X-15,15,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168900,5.712034
-550940055X-16,16,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168323,5.711738
-550940055X-16B,16BIS,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168168,5.712106
-550940055X-17,17,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168609,5.711475
-550940055X-18,18,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168153,5.712204
-550940055X-19,19,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168825,5.712118
-550940055X-21,21,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168063,5.712781
-550940055X-22,22,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167963,5.712871
-550940055X-2,2,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168833,5.710505
-550940055X-23,23,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167617,5.714125
-550940055X-24,24,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167834,5.713263
-550940055X-25,25,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167567,5.714386
-550940055X-26,26,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167496,5.713797
-550940055X-27,27,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167547,5.714481
-550940055X-28,28,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167473,5.713876
-550940055X-29,29,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167530,5.714561
-550940055X-30,30,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167448,5.713959
-550940055X-31,31,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167495,5.714634
-550940055X-32,32,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167429,5.714031
-550940055X-33,33,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167497,5.714717
-550940055X-3,3,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168827,5.710947
-550940055X-34,34,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167403,5.714131
-550940055X-36,36,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167641,5.716264
-550940055X-37,37,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167419,5.715089
-550940055X-39,39,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167399,5.715183
-550940055X-41,41,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167381,5.715267
-550940055X-43,43,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167363,5.715357
-550940055X-4,4,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168684,5.710618
-550940055X-45,45,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167357,5.715554
-550940055X-47,47,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.167717,5.716262
-550940055X-5,5,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.169003,5.711018
-550940055X-6,6,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168700,5.710872
-550940055X-7,7,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168979,5.711193
-550940055X-9,9,Rue du Pâquis,55400,Buzy-Darmont,C+O,49.168969,5.711400
+550940045L-11,11,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168580,5.712168
+550940045L-12,12,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.170308,5.713213
+550940045L-13,13,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168643,5.712216
+550940045L-14,14,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168926,5.712610
+550940045L-15,15,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168857,5.712430
+550940045L-17,17,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.169339,5.712531
+550940045L-3,3,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168412,5.712468
+550940045L-4,4,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168327,5.713310
+550940045L-5,5,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168435,5.712264
+550940045L-7,7,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168501,5.711945
+550940045L-9,9,Rue du Joncroy,55400,Buzy-Darmont,OSM,49.168513,5.712151
+550940050S-10,10,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168013,5.710951
+550940050S-11,11,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167766,5.712165
+550940050S-1,1,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168587,5.710274
+550940050S-12,12,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167787,5.711546
+550940050S-13,13,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167714,5.712323
+550940050S-14,14,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167620,5.712164
+550940050S-14B,14B,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167528,5.712289
+550940050S-15,15,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167653,5.712511
+550940050S-16,16,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167486,5.712579
+550940050S-16B,16B,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167301,5.712812
+550940050S-18,18,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167241,5.713083
+550940050S-19,19,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167467,5.713071
+550940050S-20,20,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167139,5.713385
+550940050S-21,21,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167645,5.713622
+550940050S-22,22,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167307,5.713500
+550940050S-2,2,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168305,5.709963
+550940050S-24,24,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167397,5.713562
+550940050S-26,26,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167481,5.713618
+550940050S-3,3,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168428,5.710245
+550940050S-5,5,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168318,5.710612
+550940050S-6,6,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168184,5.710424
+550940050S-7,7,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168095,5.711080
+550940050S-8,8,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.168150,5.710557
+550940050S-9,9,Rue de l'Orne,55400,Buzy-Darmont,OSM,49.167812,5.712031
+550940055X-10,10,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168574,5.711096
+550940055X-11,11,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168952,5.711755
+550940055X-13,13,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168930,5.711881
+550940055X-15,15,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168903,5.712017
+550940055X-16,16,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168309,5.711775
+550940055X-16B,16B,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168180,5.712080
+550940055X-17,17,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168664,5.711501
+550940055X-18,18,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168145,5.712207
+550940055X-19,19,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168816,5.712161
+550940055X-21,21,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168056,5.712808
+550940055X-22,22,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167943,5.712885
+550940055X-2,2,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168838,5.710482
+550940055X-23,23,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167667,5.714156
+550940055X-24,24,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167828,5.713236
+550940055X-25,25,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167581,5.714384
+550940055X-26,26,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167494,5.713802
+550940055X-27,27,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167546,5.714491
+550940055X-28,28,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167470,5.713883
+550940055X-29,29,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167526,5.714576
+550940055X-30,30,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167445,5.713971
+550940055X-31,31,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167508,5.714659
+550940055X-32,32,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167425,5.714045
+550940055X-33,33,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167490,5.714746
+550940055X-3,3,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168826,5.710952
+550940055X-34,34,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167401,5.714139
+550940055X-36,36,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167566,5.716290
+550940055X-37,37,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167416,5.715099
+550940055X-39,39,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167397,5.715193
+550940055X-41,41,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167380,5.715277
+550940055X-43,43,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167365,5.715348
+550940055X-4,4,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168687,5.710604
+550940055X-45,45,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167388,5.715520
+550940055X-47,47,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.167837,5.716334
+550940055X-5,5,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168999,5.711040
+550940055X-6,6,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168632,5.710884
+550940055X-7,7,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.169028,5.711224
+550940055X-9,9,Rue du Pâquis,55400,Buzy-Darmont,OSM,49.168999,5.711529
 550940056Y-4,4,CHEM DU PETIT PRE,55400,Buzy-Darmont,CAD,49.190321,5.716323
 550940056Y-8,8,CHEM DU PETIT PRE,55400,Buzy-Darmont,CAD,49.190451,5.717805
 550940057Z-1,1,RUE PRINCIPALE,55400,Buzy-Darmont,CAD,49.191208,5.715594
@@ -3820,22 +3820,22 @@
 550940059B-1,1,CHEM DU PUITS DE BRAUX,55400,Buzy-Darmont,CAD,49.191093,5.716986
 550940059B-3,3,CHEM DU PUITS DE BRAUX,55400,Buzy-Darmont,CAD,49.191647,5.718186
 550940059B-9,9,CHEM DU PUITS DE BRAUX,55400,Buzy-Darmont,CAD,49.191828,5.718966
-550940060C-10,10,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169594,5.714339
-550940060C-1,1,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169928,5.713091
-550940060C-12,12,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169313,5.714631
-550940060C-14,14,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169630,5.715372
-550940060C-16,16,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169590,5.715620
-550940060C-18,18,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169548,5.715889
-550940060C-20,20,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169503,5.716166
-550940060C-22,22,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169434,5.716450
-550940060C-24,24,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169348,5.716779
-550940060C-28,28,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.168068,5.716484
-550940060C-3,3,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169874,5.713374
-550940060C-4,4,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169705,5.713878
-550940060C-5,5,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169827,5.713619
-550940060C-7,7,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169775,5.713894
-550940060C-8B,8BIS,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169360,5.713697
-550940060C-9,9,Rue Villers Prés,55400,Buzy-Darmont,C+O,49.169730,5.714129
+550940060C-10,10,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169495,5.714384
+550940060C-1,1,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169979,5.713123
+550940060C-12,12,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169514,5.714828
+550940060C-14,14,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169538,5.715305
+550940060C-16,16,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169460,5.715621
+550940060C-18,18,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169442,5.715888
+550940060C-20,20,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169384,5.716130
+550940060C-22,22,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169342,5.716393
+550940060C-24,24,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169279,5.716716
+550940060C-28,28,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.168075,5.716298
+550940060C-3,3,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169922,5.713433
+550940060C-4,4,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169642,5.713851
+550940060C-5,5,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169914,5.713725
+550940060C-7,7,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169861,5.713954
+550940060C-8B,8B,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169277,5.713576
+550940060C-9,9,Rue Villers Prés,55400,Buzy-Darmont,OSM,49.169819,5.714218
 550950005N-1,1,Rue du Billet,55700,Cesse,C+O,49.513970,5.157571
 550950005N-2,2,Rue du Billet,55700,Cesse,C+O,49.513998,5.157422
 550950005N-4,4,Rue du Billet,55700,Cesse,C+O,49.513678,5.157057
@@ -5345,131 +5345,131 @@
 551400020J-4,4,Rue du Paquis,55110,Cunel,CAD,49.336687,5.117845
 551400020J-5,5,Rue du Paquis,55110,Cunel,CAD,49.337617,5.117482
 551400020J-6,6,Rue du Paquis,55110,Cunel,CAD,49.337107,5.117903
-551420004H-1,1,Rue du Breuil,55130,Dainville-Bertheléville,CAD,48.443476,5.510678
-551420004H-2,2,Rue du Breuil,55130,Dainville-Bertheléville,CAD,48.443361,5.510548
-551420004H-3,3,Rue du Breuil,55130,Dainville-Bertheléville,CAD,48.443147,5.512393
-551420004H-4,4,Rue du Breuil,55130,Dainville-Bertheléville,CAD,48.442877,5.513379
-551420004H-5,5,Rue du Breuil,55130,Dainville-Bertheléville,CAD,48.442055,5.514069
-551420004H-7,7,Rue du Breuil,55130,Dainville-Bertheléville,CAD,48.442347,5.513665
-551420005J-1,1,Rue de Buton,55130,Dainville-Bertheléville,CAD,48.440815,5.512301
-551420005J-3,3,Rue de Buton,55130,Dainville-Bertheléville,CAD,48.440848,5.512456
-551420005J-4,4,Rue de Buton,55130,Dainville-Bertheléville,CAD,48.440982,5.513828
-551420005J-5,5,Rue de Buton,55130,Dainville-Bertheléville,CAD,48.440897,5.512665
-551420005J-6,6,Rue de Buton,55130,Dainville-Bertheléville,CAD,48.441105,5.513837
-551420005J-7,7,Rue de Buton,55130,Dainville-Bertheléville,CAD,48.440949,5.512876
-551420005J-8A,8A,Rue de Buton,55130,Dainville-Bertheléville,CAD,48.441384,5.514051
-551420007L-2,2,Rue de la Chapelle,55130,Dainville-Bertheléville,CAD,48.441451,5.514897
-551420007L-4,4,Rue de la Chapelle,55130,Dainville-Bertheléville,CAD,48.442092,5.516648
-551420007L-5,5,Rue de la Chapelle,55130,Dainville-Bertheléville,CAD,48.444381,5.516810
-551420008M-10,10,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441415,5.510902
-551420008M-11,11,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441885,5.510170
-551420008M-1,1,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441034,5.509874
-551420008M-12,12,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441473,5.510563
-551420008M-13,13,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.442000,5.510074
-551420008M-14,14,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441564,5.510544
-551420008M-16,16,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441698,5.510490
-551420008M-18,18,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441779,5.510460
-551420008M-20,20,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441906,5.510430
-551420008M-22,22,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.442033,5.510337
-551420008M-24,24,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.442194,5.510175
-551420008M-26,26,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.442227,5.510113
-551420008M-28,28,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.442286,5.510046
-551420008M-30,30,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.442331,5.509905
-551420008M-32,32,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.442377,5.509702
-551420008M-3,3,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441326,5.509790
-551420008M-5,5,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441281,5.509902
-551420008M-6,6,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441311,5.510387
-551420008M-7,7,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441307,5.510017
-551420008M-8,8,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.440988,5.510941
-551420008M-9,9,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,CAD,48.441405,5.510399
-551420009N-11,11,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.439108,5.513266
-551420009N-1,1,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.439537,5.511392
-551420009N-2,2,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.439337,5.511286
-551420009N-3,3,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.439417,5.511395
-551420009N-5,5,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.439300,5.511456
-551420009N-6,6,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.438992,5.511910
-551420009N-7,7,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.439176,5.511980
-551420009N-8,8,Rue de l'Etang,55130,Dainville-Bertheléville,CAD,48.439096,5.512432
-551420010P-10,10,Rue du Faubourg,55130,Dainville-Bertheléville,CAD,48.440556,5.510433
-551420010P-1,1,Rue du Faubourg,55130,Dainville-Bertheléville,CAD,48.439740,5.510977
-551420010P-12,12,Rue du Faubourg,55130,Dainville-Bertheléville,CAD,48.440547,5.510189
-551420010P-14,14,Rue du Faubourg,55130,Dainville-Bertheléville,CAD,48.440670,5.510022
-551420010P-3,3,Rue du Faubourg,55130,Dainville-Bertheléville,CAD,48.440064,5.510664
-551420010P-4,4,Rue du Faubourg,55130,Dainville-Bertheléville,CAD,48.439821,5.511065
-551420010P-8,8,Rue du Faubourg,55130,Dainville-Bertheléville,CAD,48.440406,5.510305
-551420011R-1,1,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.439458,5.512934
-551420011R-12,12,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.440205,5.512901
-551420011R-14,14,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.440273,5.512892
-551420011R-16,16,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.440425,5.512859
-551420011R-2,2,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.439262,5.512950
-551420011R-3,3,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.439384,5.512790
-551420011R-4,4,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.439749,5.512911
-551420011R-5,5,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.439940,5.512810
-551420011R-6,6,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.439848,5.512911
-551420011R-8,8,Rue de la Forge,55130,Dainville-Bertheléville,CAD,48.440017,5.512900
-551420012S-10,10,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.440546,5.508479
-551420012S-11,11,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.440231,5.508293
-551420012S-1,1,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.438618,5.506619
-551420012S-13,13,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442060,5.509169
-551420012S-14,14,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.441744,5.509137
-551420012S-15,15,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442410,5.509281
-551420012S-16,16,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.441813,5.509166
-551420012S-17,17,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443367,5.508876
-551420012S-18,18,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.441892,5.509572
-551420012S-19,19,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443424,5.509078
-551420012S-20,20,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442029,5.509245
-551420012S-21,21,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443532,5.509407
-551420012S-22,22,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442451,5.509399
-551420012S-24,24,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442499,5.509710
-551420012S-261,261,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442650,5.509717
-551420012S-27,27,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.444209,5.509088
-551420012S-28,28,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442766,5.509450
-551420012S-29,29,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.446224,5.509412
-551420012S-30,30,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.442852,5.509465
-551420012S-32,32,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443031,5.509505
-551420012S-3,3,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.438766,5.506847
-551420012S-34,34,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443161,5.509542
-551420012S-38,38,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443311,5.510105
-551420012S-40A,40A,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443595,5.509872
-551420012S-40B,40B,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443733,5.509846
-551420012S-42,42,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.443924,5.509626
-551420012S-4,4,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.439588,5.508018
-551420012S-6A,6A,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.439815,5.508273
-551420012S-8,8,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.440239,5.508391
-551420012S-9,9,Rue Grande Rue,55130,Dainville-Bertheléville,CAD,48.439810,5.508064
-551420015V-3,3,Impasse du Moulin,55130,Dainville-Bertheléville,CAD,48.439623,5.513439
-551420019Z-1,1,Rue Traversière,55130,Dainville-Bertheléville,CAD,48.441135,5.509268
-551420019Z-2,2,Rue Traversière,55130,Dainville-Bertheléville,CAD,48.441164,5.509539
-551420019Z-3,3,Rue Traversière,55130,Dainville-Bertheléville,CAD,48.441326,5.509790
-551420019Z-6,6,Rue Traversière,55130,Dainville-Bertheléville,CAD,48.441382,5.509309
-551420022C-11,11,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440158,5.508919
-551420022C-13,13,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440117,5.508794
-551420022C-15,15,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440077,5.508681
-551420022C-16,16,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440820,5.509847
-551420022C-17,17,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440017,5.508509
-551420022C-18,18,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440669,5.509745
-551420022C-20,20,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440616,5.509592
-551420022C-22,22,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440584,5.509492
-551420022C-24,24,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440579,5.509313
-551420022C-26,26,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440406,5.508914
-551420022C-26A,26A,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440580,5.508917
-551420022C-30,30,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440276,5.508968
-551420022C-5,5,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440273,5.509287
-551420022C-6,6,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.439936,5.508363
-551420022C-9,9,Rue de l'Église,55130,Dainville-Bertheléville,CAD,48.440213,5.509096
-551420023D-19,19,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.439860,5.508843
-551420023D-23,23,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.440055,5.509838
-551420023D-25,25,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.440085,5.509956
-551420023D-27,27,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.440177,5.510298
-551420023D-32,32,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.439669,5.508349
-551420023D-34,34,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.439737,5.508614
-551420023D-36,36,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.439776,5.508795
-551420023D-38,38,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.439822,5.508984
-551420023D-42,42,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.439956,5.509693
-551420023D-44,44,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.440003,5.509960
-551420023D-46,46,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.440035,5.510114
-551420023D-48,48,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.440065,5.510261
-551420023D-50,50,Rue du Pensionnat,55130,Dainville-Bertheléville,CAD,48.440147,5.510405
+551420004H-1,1,Rue du Breuil,55130,Dainville-Bertheléville,C+O,48.443476,5.510678
+551420004H-2,2,Rue du Breuil,55130,Dainville-Bertheléville,C+O,48.443361,5.510548
+551420004H-3,3,Rue du Breuil,55130,Dainville-Bertheléville,C+O,48.443147,5.512393
+551420004H-4,4,Rue du Breuil,55130,Dainville-Bertheléville,C+O,48.442877,5.513379
+551420004H-5,5,Rue du Breuil,55130,Dainville-Bertheléville,C+O,48.442055,5.514069
+551420004H-7,7,Rue du Breuil,55130,Dainville-Bertheléville,C+O,48.442347,5.513665
+551420005J-1,1,Rue de Buton,55130,Dainville-Bertheléville,C+O,48.440815,5.512301
+551420005J-3,3,Rue de Buton,55130,Dainville-Bertheléville,C+O,48.440848,5.512456
+551420005J-4,4,Rue de Buton,55130,Dainville-Bertheléville,C+O,48.440982,5.513828
+551420005J-5,5,Rue de Buton,55130,Dainville-Bertheléville,C+O,48.440897,5.512665
+551420005J-6,6,Rue de Buton,55130,Dainville-Bertheléville,C+O,48.441105,5.513837
+551420005J-7,7,Rue de Buton,55130,Dainville-Bertheléville,C+O,48.440949,5.512876
+551420005J-8A,8A,Rue de Buton,55130,Dainville-Bertheléville,C+O,48.441384,5.514051
+551420007L-2,2,Rue de la Chapelle,55130,Dainville-Bertheléville,C+O,48.441451,5.514897
+551420007L-4,4,Rue de la Chapelle,55130,Dainville-Bertheléville,C+O,48.442092,5.516648
+551420007L-5,5,Rue de la Chapelle,55130,Dainville-Bertheléville,C+O,48.444381,5.516810
+551420008M-10,10,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441415,5.510902
+551420008M-11,11,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441885,5.510170
+551420008M-1,1,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441034,5.509874
+551420008M-12,12,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441473,5.510563
+551420008M-13,13,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.442000,5.510074
+551420008M-14,14,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441564,5.510544
+551420008M-16,16,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441698,5.510490
+551420008M-18,18,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441779,5.510460
+551420008M-20,20,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441906,5.510430
+551420008M-22,22,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.442033,5.510337
+551420008M-24,24,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.442194,5.510175
+551420008M-26,26,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.442227,5.510113
+551420008M-28,28,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.442286,5.510046
+551420008M-30,30,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.442331,5.509905
+551420008M-32,32,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.442377,5.509702
+551420008M-3,3,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441326,5.509790
+551420008M-5,5,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441281,5.509902
+551420008M-6,6,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441311,5.510387
+551420008M-7,7,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441307,5.510017
+551420008M-8,8,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.440988,5.510941
+551420008M-9,9,Rue d'Entre Les Deux Maisons,55130,Dainville-Bertheléville,C+O,48.441405,5.510399
+551420009N-11,11,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.439108,5.513266
+551420009N-1,1,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.439537,5.511392
+551420009N-2,2,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.439337,5.511286
+551420009N-3,3,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.439417,5.511395
+551420009N-5,5,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.439300,5.511456
+551420009N-6,6,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.438992,5.511910
+551420009N-7,7,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.439176,5.511980
+551420009N-8,8,Rue de l'Étang,55130,Dainville-Bertheléville,C+O,48.439096,5.512432
+551420010P-10,10,Rue du Faubourg,55130,Dainville-Bertheléville,C+O,48.440556,5.510433
+551420010P-1,1,Rue du Faubourg,55130,Dainville-Bertheléville,C+O,48.439740,5.510977
+551420010P-12,12,Rue du Faubourg,55130,Dainville-Bertheléville,C+O,48.440547,5.510189
+551420010P-14,14,Rue du Faubourg,55130,Dainville-Bertheléville,C+O,48.440670,5.510022
+551420010P-3,3,Rue du Faubourg,55130,Dainville-Bertheléville,C+O,48.440064,5.510664
+551420010P-4,4,Rue du Faubourg,55130,Dainville-Bertheléville,C+O,48.439821,5.511065
+551420010P-8,8,Rue du Faubourg,55130,Dainville-Bertheléville,C+O,48.440406,5.510305
+551420011R-1,1,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.439458,5.512934
+551420011R-12,12,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.440205,5.512901
+551420011R-14,14,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.440273,5.512892
+551420011R-16,16,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.440425,5.512859
+551420011R-2,2,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.439262,5.512950
+551420011R-3,3,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.439384,5.512790
+551420011R-4,4,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.439749,5.512911
+551420011R-5,5,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.439940,5.512810
+551420011R-6,6,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.439848,5.512911
+551420011R-8,8,Rue de la Forge,55130,Dainville-Bertheléville,C+O,48.440017,5.512900
+551420012S-10,10,Grande Rue,55130,Dainville-Bertheléville,C+O,48.440546,5.508479
+551420012S-11,11,Grande Rue,55130,Dainville-Bertheléville,C+O,48.440231,5.508293
+551420012S-1,1,Grande Rue,55130,Dainville-Bertheléville,C+O,48.438618,5.506619
+551420012S-13,13,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442060,5.509169
+551420012S-14,14,Grande Rue,55130,Dainville-Bertheléville,C+O,48.441744,5.509137
+551420012S-15,15,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442410,5.509281
+551420012S-16,16,Grande Rue,55130,Dainville-Bertheléville,C+O,48.441813,5.509166
+551420012S-17,17,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443367,5.508876
+551420012S-18,18,Grande Rue,55130,Dainville-Bertheléville,C+O,48.441892,5.509572
+551420012S-19,19,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443424,5.509078
+551420012S-20,20,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442029,5.509245
+551420012S-21,21,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443532,5.509407
+551420012S-22,22,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442451,5.509399
+551420012S-24,24,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442499,5.509710
+551420012S-261,261,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442650,5.509717
+551420012S-27,27,Grande Rue,55130,Dainville-Bertheléville,C+O,48.444209,5.509088
+551420012S-28,28,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442766,5.509450
+551420012S-29,29,Grande Rue,55130,Dainville-Bertheléville,C+O,48.446224,5.509412
+551420012S-30,30,Grande Rue,55130,Dainville-Bertheléville,C+O,48.442852,5.509465
+551420012S-32,32,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443031,5.509505
+551420012S-3,3,Grande Rue,55130,Dainville-Bertheléville,C+O,48.438766,5.506847
+551420012S-34,34,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443161,5.509542
+551420012S-38,38,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443311,5.510105
+551420012S-40A,40A,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443595,5.509872
+551420012S-40B,40B,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443733,5.509846
+551420012S-42,42,Grande Rue,55130,Dainville-Bertheléville,C+O,48.443924,5.509626
+551420012S-4,4,Grande Rue,55130,Dainville-Bertheléville,C+O,48.439588,5.508018
+551420012S-6A,6A,Grande Rue,55130,Dainville-Bertheléville,C+O,48.439815,5.508273
+551420012S-8,8,Grande Rue,55130,Dainville-Bertheléville,C+O,48.440239,5.508391
+551420012S-9,9,Grande Rue,55130,Dainville-Bertheléville,C+O,48.439810,5.508064
+551420015V-3,3,Impasse du Moulin,55130,Dainville-Bertheléville,C+O,48.439623,5.513439
+551420019Z-1,1,Rue Traversière,55130,Dainville-Bertheléville,C+O,48.441135,5.509268
+551420019Z-2,2,Rue Traversière,55130,Dainville-Bertheléville,C+O,48.441164,5.509539
+551420019Z-3,3,Rue Traversière,55130,Dainville-Bertheléville,C+O,48.441326,5.509790
+551420019Z-6,6,Rue Traversière,55130,Dainville-Bertheléville,C+O,48.441382,5.509309
+551420022C-11,11,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440158,5.508919
+551420022C-13,13,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440117,5.508794
+551420022C-15,15,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440077,5.508681
+551420022C-16,16,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440820,5.509847
+551420022C-17,17,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440017,5.508509
+551420022C-18,18,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440669,5.509745
+551420022C-20,20,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440616,5.509592
+551420022C-22,22,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440584,5.509492
+551420022C-24,24,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440579,5.509313
+551420022C-26,26,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440406,5.508914
+551420022C-26A,26A,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440580,5.508917
+551420022C-30,30,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440276,5.508968
+551420022C-5,5,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440273,5.509287
+551420022C-6,6,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.439936,5.508363
+551420022C-9,9,Rue de l'Église,55130,Dainville-Bertheléville,C+O,48.440213,5.509096
+551420023D-19,19,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.439860,5.508843
+551420023D-23,23,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.440055,5.509838
+551420023D-25,25,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.440085,5.509956
+551420023D-27,27,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.440177,5.510298
+551420023D-32,32,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.439669,5.508349
+551420023D-34,34,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.439737,5.508614
+551420023D-36,36,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.439776,5.508795
+551420023D-38,38,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.439822,5.508984
+551420023D-42,42,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.439956,5.509693
+551420023D-44,44,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.440003,5.509960
+551420023D-46,46,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.440035,5.510114
+551420023D-48,48,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.440065,5.510261
+551420023D-50,50,Rue du Pensionnat,55130,Dainville-Bertheléville,C+O,48.440147,5.510405
 551450005W-1,1,Rue de l'Abbe Mandre,55150,Damvillers,CAD,49.342304,5.398222
 551450010B-10,10,Rue Bastien Lepage,55150,Damvillers,CAD,49.343528,5.401122
 551450010B-11,11,Rue Bastien Lepage,55150,Damvillers,CAD,49.343627,5.400767
@@ -6743,21 +6743,21 @@
 551860010Y-7,7,Rue de Begarenne,55000,Fains-Véel,C+O,48.786290,5.132883
 551860010Y-8,8,Rue de Begarenne,55000,Fains-Véel,C+O,48.786205,5.132896
 551860010Y-9,9,Rue de Begarenne,55000,Fains-Véel,C+O,48.786242,5.133120
-551860014C-11,11,Rue du Cachon,55000,Fains-Véel,OSM,48.790334,5.122737
-551860014C-1,1,Rue du Cachon,55000,Fains-Véel,C+O,48.790066,5.123102
-551860014C-13,13,Rue du Cachon,55000,Fains-Véel,OSM,48.790415,5.122749
-551860014C-15,15,Rue du Cachon,55000,Fains-Véel,OSM,48.790451,5.122810
-551860014C-17,17,Rue du Cachon,55000,Fains-Véel,OSM,48.790514,5.122882
-551860014C-19,19,Rue du Cachon,55000,Fains-Véel,OSM,48.790548,5.123031
-551860014C-21,21,Rue du Cachon,55000,Fains-Véel,OSM,48.790624,5.123107
-551860014C-2,2,Rue du Cachon,55000,Fains-Véel,OSM,48.790059,5.123347
-551860014C-3,3,Rue du Cachon,55000,Fains-Véel,OSM,48.790006,5.123083
-551860014C-4,4,Rue du Cachon,55000,Fains-Véel,OSM,48.790188,5.123213
-551860014C-5,5,Rue du Cachon,55000,Fains-Véel,OSM,48.790092,5.122996
-551860014C-6,6,Rue du Cachon,55000,Fains-Véel,OSM,48.790271,5.123081
-551860014C-7,7,Rue du Cachon,55000,Fains-Véel,OSM,48.790126,5.122846
-551860014C-8,8,Rue du Cachon,55000,Fains-Véel,OSM,48.790419,5.123254
-551860014C-9,9,Rue du Cachon,55000,Fains-Véel,OSM,48.790228,5.122687
+551860014C-11,11,Rue Cachon,55000,Fains-Véel,OSM,48.790334,5.122737
+551860014C-1,1,Rue Cachon,55000,Fains-Véel,C+O,48.790066,5.123102
+551860014C-13,13,Rue Cachon,55000,Fains-Véel,OSM,48.790415,5.122749
+551860014C-15,15,Rue Cachon,55000,Fains-Véel,OSM,48.790451,5.122810
+551860014C-17,17,Rue Cachon,55000,Fains-Véel,OSM,48.790514,5.122882
+551860014C-19,19,Rue Cachon,55000,Fains-Véel,OSM,48.790548,5.123031
+551860014C-21,21,Rue Cachon,55000,Fains-Véel,OSM,48.790624,5.123107
+551860014C-2,2,Rue Cachon,55000,Fains-Véel,OSM,48.790059,5.123347
+551860014C-3,3,Rue Cachon,55000,Fains-Véel,OSM,48.790006,5.123083
+551860014C-4,4,Rue Cachon,55000,Fains-Véel,OSM,48.790188,5.123213
+551860014C-5,5,Rue Cachon,55000,Fains-Véel,OSM,48.790092,5.122996
+551860014C-6,6,Rue Cachon,55000,Fains-Véel,OSM,48.790271,5.123081
+551860014C-7,7,Rue Cachon,55000,Fains-Véel,OSM,48.790126,5.122846
+551860014C-8,8,Rue Cachon,55000,Fains-Véel,OSM,48.790419,5.123254
+551860014C-9,9,Rue Cachon,55000,Fains-Véel,OSM,48.790228,5.122687
 551860018G-11,11,Rue de la Chalaide,55000,Fains-Véel,CAD,48.789316,5.121996
 551860018G-1,1,Rue de la Chalaide,55000,Fains-Véel,CAD,48.789506,5.122473
 551860018G-12,12,Rue de la Chalaide,55000,Fains-Véel,CAD,48.789087,5.121328
@@ -8371,7 +8371,7 @@
 552280075L-6,6,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038623,5.656788
 552280075L-8,8,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038338,5.656188
 552280085X-2,2,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038353,5.659221
-552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038771,5.658994
+552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038788,5.659434
 552280095H-10,10,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037507,5.657100
 552280095H-11,11,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037034,5.657047
 552280095H-11B,11BIS,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.036839,5.656716
@@ -8395,7 +8395,7 @@
 552280125R-11,11,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036959,5.660557
 552280125R-12,12,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037623,5.658985
 552280125R-14,14,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037561,5.659073
-552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037508,5.659145
+552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037453,5.659216
 552280125R-20,20,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036748,5.659827
 552280125R-2,2,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.038003,5.658473
 552280125R-4,4,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037933,5.658570
@@ -8403,7 +8403,7 @@
 552280125R-8,8,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037715,5.658861
 552280125R-9,9,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037062,5.660162
 552280135B-3,3,Rue de Wadonville,55210,Hannonville-sous-les-Côtes,OSM,49.043799,5.662341
-55228B055W-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043358,5.662999
+55228B055W-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
 55228B055W-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
 55228B055W-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
 55228B055W-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
@@ -13834,7 +13834,7 @@
 553510155N-18,18,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521514,5.364720
 553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
 553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
-553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522350,5.365429
+553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522436,5.365403
 553510155N-2,2,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520146,5.363978
 553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
 553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
@@ -14792,24 +14792,24 @@
 553660040Y-7,7,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801716,5.076432
 553660040Y-8,8,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801967,5.076217
 553660040Y-9,9,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801673,5.076123
-553660045D-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
-553660045D-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811769,5.100625
-553660045D-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
-553660045D-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
-553660045D-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
-553660045D-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
-553660045D-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
-553660045D-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811653,5.100823
-553660045D-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
-553660045D-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
-553660045D-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
-553660045D-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
-553660045D-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
-553660045D-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811237,5.103535
-553660045D-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
-553660045D-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810480,5.108566
-553660045D-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
-553660045D-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
+553660044C-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
+553660044C-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.801758,5.068813
+553660044C-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
+553660044C-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
+553660044C-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
+553660044C-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
+553660044C-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
+553660044C-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802176,5.069226
+553660044C-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
+553660044C-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
+553660044C-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
+553660044C-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
+553660044C-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
+553660044C-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802094,5.068972
+553660044C-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
+553660044C-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802219,5.068592
+553660044C-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
+553660044C-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
 553660048G-1,1,Route de Mussey,55000,Val-d'Ornain,OSM,48.813646,5.082232
 553660048G-3,3,Route de Mussey,55000,Val-d'Ornain,OSM,48.813365,5.081723
 553660049H-11,11,Rue Fernand Nanty,55000,Val-d'Ornain,OSM,48.804344,5.071459

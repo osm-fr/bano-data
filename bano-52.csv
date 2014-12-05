@@ -1319,10 +1319,10 @@
 520600050Z-7,7,Rue des Bains,52400,Bourbonne-les-Bains,C+O,47.952413,5.747092
 520600050Z-8,8,Rue des Bains,52400,Bourbonne-les-Bains,C+O,47.952369,5.746962
 520600050Z-9,9,Rue des Bains,52400,Bourbonne-les-Bains,C+O,47.952368,5.747070
-520600060K-12,12,Ruelle des Bains,52400,Bourbonne-les-Bains,CAD,47.952281,5.746679
-520600060K-2,2,Ruelle des Bains,52400,Bourbonne-les-Bains,CAD,47.952552,5.746686
-520600060K-6,6,Ruelle des Bains,52400,Bourbonne-les-Bains,CAD,47.952440,5.746679
-520600060K-8,8,Ruelle des Bains,52400,Bourbonne-les-Bains,CAD,47.952353,5.746676
+520600060K-12,12,Ruelle des Bains,52400,Bourbonne-les-Bains,C+O,47.952281,5.746679
+520600060K-2,2,Ruelle des Bains,52400,Bourbonne-les-Bains,C+O,47.952552,5.746686
+520600060K-6,6,Ruelle des Bains,52400,Bourbonne-les-Bains,C+O,47.952440,5.746679
+520600060K-8,8,Ruelle des Bains,52400,Bourbonne-les-Bains,C+O,47.952353,5.746676
 520600070W-11,11,Rue du Bassigny,52400,Bourbonne-les-Bains,C+O,47.953965,5.742630
 520600070W-1,1,Rue du Bassigny,52400,Bourbonne-les-Bains,C+O,47.953622,5.743201
 520600070W-13,13,Rue du Bassigny,52400,Bourbonne-les-Bains,C+O,47.954012,5.742552
@@ -1332,28 +1332,28 @@
 520600070W-5,5,Rue du Bassigny,52400,Bourbonne-les-Bains,C+O,47.953782,5.742934
 520600070W-7,7,Rue du Bassigny,52400,Bourbonne-les-Bains,C+O,47.953860,5.742805
 520600070W-9,9,Rue du Bassigny,52400,Bourbonne-les-Bains,C+O,47.953913,5.742716
-520600080G-2,2,Route de Beaucharmoy,52400,Bourbonne-les-Bains,CAD,47.956511,5.725509
-520600085M-1,1,Chemin du Beuillon,52400,Bourbonne-les-Bains,CAD,47.949101,5.748947
-520600085M-2,2,Chemin du Beuillon,52400,Bourbonne-les-Bains,CAD,47.949231,5.748566
-520600085M-3,3,Chemin du Beuillon,52400,Bourbonne-les-Bains,CAD,47.948901,5.749149
-520600085M-4,4,Chemin du Beuillon,52400,Bourbonne-les-Bains,CAD,47.949041,5.748971
-520600085M-5,5,Chemin du Beuillon,52400,Bourbonne-les-Bains,CAD,47.948779,5.749220
-520600085M-6,6,Chemin du Beuillon,52400,Bourbonne-les-Bains,CAD,47.948742,5.749099
-520600097A-10,10,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951834,5.754089
-520600097A-11,11,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.948903,5.756554
-520600097A-12,12,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951776,5.754158
-520600097A-14,14,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951694,5.754240
-520600097A-16,16,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951646,5.754279
-520600097A-18,18,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951584,5.754317
-520600097A-22,22,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951461,5.754394
-520600097A-2,2,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.952205,5.753193
-520600097A-24,24,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.950418,5.755512
-520600097A-3,3,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951976,5.754007
-520600097A-34,34,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.947110,5.756501
-520600097A-4,4,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.952145,5.753329
-520600097A-6,6,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.952103,5.753468
-520600097A-7,7,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.951835,5.754231
-520600097A-9,9,Rue de Bourgogne,52400,Bourbonne-les-Bains,CAD,47.950957,5.755875
+520600080G-2,2,Route de Beaucharmoy,52400,Bourbonne-les-Bains,C+O,47.956511,5.725509
+520600085M-1,1,Chemin du Beuillon,52400,Bourbonne-les-Bains,C+O,47.949101,5.748947
+520600085M-2,2,Chemin du Beuillon,52400,Bourbonne-les-Bains,C+O,47.949231,5.748566
+520600085M-3,3,Chemin du Beuillon,52400,Bourbonne-les-Bains,C+O,47.948901,5.749149
+520600085M-4,4,Chemin du Beuillon,52400,Bourbonne-les-Bains,C+O,47.949041,5.748971
+520600085M-5,5,Chemin du Beuillon,52400,Bourbonne-les-Bains,C+O,47.948779,5.749220
+520600085M-6,6,Chemin du Beuillon,52400,Bourbonne-les-Bains,C+O,47.948742,5.749099
+520600097A-10,10,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951834,5.754089
+520600097A-11,11,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.948903,5.756554
+520600097A-12,12,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951776,5.754158
+520600097A-14,14,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951694,5.754240
+520600097A-16,16,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951646,5.754279
+520600097A-18,18,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951584,5.754317
+520600097A-22,22,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951461,5.754394
+520600097A-2,2,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.952205,5.753193
+520600097A-24,24,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.950418,5.755512
+520600097A-3,3,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951976,5.754007
+520600097A-34,34,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.947110,5.756501
+520600097A-4,4,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.952145,5.753329
+520600097A-6,6,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.952103,5.753468
+520600097A-7,7,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.951835,5.754231
+520600097A-9,9,Rue de Bourgogne,52400,Bourbonne-les-Bains,C+O,47.950957,5.755875
 520600101E-1,1,Rue du Breuil,52400,Bourbonne-les-Bains,C+O,47.954337,5.753860
 520600101E-3,3,Rue du Breuil,52400,Bourbonne-les-Bains,C+O,47.954059,5.754321
 520600101E-4,4,Rue du Breuil,52400,Bourbonne-les-Bains,C+O,47.953827,5.754470
@@ -1424,13 +1424,13 @@
 520600102F-8,8,Rue des Capucins,52400,Bourbonne-les-Bains,C+O,47.955499,5.748515
 520600102F-91,91,Rue des Capucins,52400,Bourbonne-les-Bains,C+O,47.959510,5.746601
 520600102F-93,93,Rue des Capucins,52400,Bourbonne-les-Bains,C+O,47.959560,5.746574
-520600108M-3,3,Rue de la Charité,52400,Bourbonne-les-Bains,CAD,47.953830,5.747451
-520600108M-5,5,Rue de la Charité,52400,Bourbonne-les-Bains,CAD,47.953827,5.747393
-520600108M-7,7,Rue de la Charité,52400,Bourbonne-les-Bains,CAD,47.953981,5.747317
-520600110P-1,1,Impasse du Château,52400,Bourbonne-les-Bains,CAD,47.954390,5.748621
-520600110P-2,2,Impasse du Château,52400,Bourbonne-les-Bains,CAD,47.954361,5.748417
-520600110P-4,4,Impasse du Château,52400,Bourbonne-les-Bains,CAD,47.954321,5.748694
-520600110P-6,6,Impasse du Château,52400,Bourbonne-les-Bains,CAD,47.953957,5.748532
+520600108M-3,3,Rue de la Charité,52400,Bourbonne-les-Bains,C+O,47.953830,5.747451
+520600108M-5,5,Rue de la Charité,52400,Bourbonne-les-Bains,C+O,47.953827,5.747393
+520600108M-7,7,Rue de la Charité,52400,Bourbonne-les-Bains,C+O,47.953981,5.747317
+520600110P-1,1,Impasse du Château,52400,Bourbonne-les-Bains,C+O,47.954390,5.748621
+520600110P-2,2,Impasse du Château,52400,Bourbonne-les-Bains,C+O,47.954361,5.748417
+520600110P-4,4,Impasse du Château,52400,Bourbonne-les-Bains,C+O,47.954321,5.748694
+520600110P-6,6,Impasse du Château,52400,Bourbonne-les-Bains,C+O,47.953957,5.748532
 520600120A-10,10,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.951034,5.748091
 520600120A-1,1,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.951284,5.748666
 520600120A-12,12,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.951007,5.748035
@@ -1452,44 +1452,44 @@
 520600120A-7,7,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.951150,5.748394
 520600120A-7B,7BIS,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.951007,5.748466
 520600120A-9,9,Rue de la Chavanne,52400,Bourbonne-les-Bains,C+O,47.951060,5.748256
-520600125F-3,3,Ruelle de la Cheneau,52400,Bourbonne-les-Bains,CAD,47.950452,5.745837
-520600141Y-10,10,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,CAD,47.953643,5.748603
-520600141Y-2,2,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,CAD,47.953624,5.748068
-520600141Y-4,4,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,CAD,47.953651,5.748156
-520600141Y-5,5,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,CAD,47.953943,5.748486
-520600141Y-6,6,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,CAD,47.953658,5.748293
-520600145C-2,2,Chemin de Chienvaux,52400,Bourbonne-les-Bains,CAD,47.947932,5.746842
-520600148F-1,1,Rue Clément Serveau,52400,Bourbonne-les-Bains,CAD,47.951871,5.736799
-520600148F-2,2,Rue Clément Serveau,52400,Bourbonne-les-Bains,CAD,47.952283,5.738041
-520600148F-3,3,Rue Clément Serveau,52400,Bourbonne-les-Bains,CAD,47.951647,5.735762
-520600148F-4,4,Rue Clément Serveau,52400,Bourbonne-les-Bains,CAD,47.950452,5.733254
-520600148F-6,6,Rue Clément Serveau,52400,Bourbonne-les-Bains,CAD,47.950436,5.732695
-520600148F-8,8,Rue Clément Serveau,52400,Bourbonne-les-Bains,CAD,47.950794,5.729807
-520600172G-10,10,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952847,5.750347
-520600172G-12,12,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952796,5.750364
-520600172G-13,13,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952337,5.750693
-520600172G-14,14,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952755,5.750378
-520600172G-15,15,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952255,5.750729
-520600172G-16,16,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952720,5.750390
-520600172G-17,17,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952189,5.750759
-520600172G-18,18,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952684,5.750402
-520600172G-19,19,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952139,5.750781
-520600172G-2,2,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.953015,5.750291
-520600172G-24,24,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952536,5.750451
-520600172G-4,4,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952972,5.750305
-520600172G-5,5,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952832,5.750548
-520600172G-6,6,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952938,5.750317
-520600172G-7,7,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952723,5.750575
-520600172G-8,8,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952902,5.750329
-520600172G-9,9,Rue Colonel A C Benitte,52400,Bourbonne-les-Bains,CAD,47.952617,5.750602
+520600125F-3,3,Ruelle de la Cheneau,52400,Bourbonne-les-Bains,C+O,47.950452,5.745837
+520600141Y-10,10,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,C+O,47.953643,5.748603
+520600141Y-2,2,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,C+O,47.953624,5.748068
+520600141Y-4,4,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,C+O,47.953651,5.748156
+520600141Y-5,5,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,C+O,47.953943,5.748486
+520600141Y-6,6,Impasse Chevandier Devaldrome,52400,Bourbonne-les-Bains,C+O,47.953658,5.748293
+520600145C-2,2,Chemin de Chienvaux,52400,Bourbonne-les-Bains,C+O,47.947932,5.746842
+520600148F-1,1,Rue Clément Serveau,52400,Bourbonne-les-Bains,C+O,47.951871,5.736799
+520600148F-2,2,Rue Clément Serveau,52400,Bourbonne-les-Bains,C+O,47.952283,5.738041
+520600148F-3,3,Rue Clément Serveau,52400,Bourbonne-les-Bains,C+O,47.951647,5.735762
+520600148F-4,4,Rue Clément Serveau,52400,Bourbonne-les-Bains,C+O,47.950452,5.733254
+520600148F-6,6,Rue Clément Serveau,52400,Bourbonne-les-Bains,C+O,47.950436,5.732695
+520600148F-8,8,Rue Clément Serveau,52400,Bourbonne-les-Bains,C+O,47.950794,5.729807
+520600172G-10,10,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952847,5.750347
+520600172G-12,12,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952796,5.750364
+520600172G-13,13,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952337,5.750693
+520600172G-14,14,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952755,5.750378
+520600172G-15,15,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952255,5.750729
+520600172G-16,16,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952720,5.750390
+520600172G-17,17,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952189,5.750759
+520600172G-18,18,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952684,5.750402
+520600172G-19,19,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952139,5.750781
+520600172G-2,2,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.953015,5.750291
+520600172G-24,24,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952536,5.750451
+520600172G-4,4,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952972,5.750305
+520600172G-5,5,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952832,5.750548
+520600172G-6,6,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952938,5.750317
+520600172G-7,7,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952723,5.750575
+520600172G-8,8,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952902,5.750329
+520600172G-9,9,Rue Colonel A. C. Benitte,52400,Bourbonne-les-Bains,C+O,47.952617,5.750602
 520600173H-10,10,Rue Maurice Constantin Weyer,52400,Bourbonne-les-Bains,C+O,47.959568,5.746488
 520600173H-3,3,Rue Maurice Constantin Weyer,52400,Bourbonne-les-Bains,C+O,47.955022,5.742436
 520600173H-6,6,Rue Maurice Constantin Weyer,52400,Bourbonne-les-Bains,C+O,47.959487,5.746169
 520600173H-8,8,Rue Maurice Constantin Weyer,52400,Bourbonne-les-Bains,C+O,47.959532,5.746350
-520600175K-2,2,Chemin Côte Prin,52400,Bourbonne-les-Bains,CAD,47.949910,5.754478
-520600175K-3,3,Chemin Côte Prin,52400,Bourbonne-les-Bains,CAD,47.950268,5.755174
-520600175K-5,5,Chemin Côte Prin,52400,Bourbonne-les-Bains,CAD,47.949392,5.755136
-520600175K-6,6,Chemin Côte Prin,52400,Bourbonne-les-Bains,CAD,47.949916,5.754940
+520600175K-2,2,Chemin Côte Prin,52400,Bourbonne-les-Bains,C+O,47.949910,5.754478
+520600175K-3,3,Chemin Côte Prin,52400,Bourbonne-les-Bains,C+O,47.950268,5.755174
+520600175K-5,5,Chemin Côte Prin,52400,Bourbonne-les-Bains,C+O,47.949392,5.755136
+520600175K-6,6,Chemin Côte Prin,52400,Bourbonne-les-Bains,C+O,47.949916,5.754940
 520600190B-10,10,Rue Daprey Blache,52400,Bourbonne-les-Bains,C+O,47.953033,5.752316
 520600190B-12,12,Rue Daprey Blache,52400,Bourbonne-les-Bains,C+O,47.952941,5.752311
 520600190B-14,14,Rue Daprey Blache,52400,Bourbonne-les-Bains,C+O,47.952895,5.752300
@@ -1505,30 +1505,30 @@
 520600190B-4,4,Rue Daprey Blache,52400,Bourbonne-les-Bains,C+O,47.953193,5.752295
 520600190B-6,6,Rue Daprey Blache,52400,Bourbonne-les-Bains,C+O,47.953149,5.752304
 520600190B-8,8,Rue Daprey Blache,52400,Bourbonne-les-Bains,C+O,47.953117,5.752311
-520600195G-10,10,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,CAD,47.947776,5.750991
-520600195G-1,1,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,CAD,47.950543,5.754497
-520600195G-3,3,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,CAD,47.949925,5.753889
-520600195G-4,4,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,CAD,47.950901,5.754297
-520600195G-5,5,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,CAD,47.949827,5.753744
-520600195G-7,7,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,CAD,47.949752,5.753639
-520600200M-11,11,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.955061,5.756408
-520600200M-1,1,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.955227,5.755159
-520600200M-13,13,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.954962,5.756737
-520600200M-15,15,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.954861,5.757211
-520600200M-17,17,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.954645,5.757506
-520600200M-19,19,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.954771,5.758106
-520600200M-27,27,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.955090,5.758666
-520600200M-3,3,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.955210,5.755261
-520600200M-4,4,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.954682,5.757232
-520600200M-5,5,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.956106,5.756190
-520600200M-6,6,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.954606,5.757662
-520600200M-7,7,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.955155,5.755721
-520600200M-8,8,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.954591,5.758124
-520600200M-9,9,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.955117,5.756000
-520600200M-9B,9BIS,Rue de l'Echelette,52400,Bourbonne-les-Bains,CAD,47.955101,5.756127
-520600210Y-1,1,Rue des Écoles,52400,Bourbonne-les-Bains,CAD,47.953369,5.745633
-520600210Y-5,5,Rue des Écoles,52400,Bourbonne-les-Bains,CAD,47.953249,5.744596
-520600210Y-7,7,Rue des Écoles,52400,Bourbonne-les-Bains,CAD,47.953236,5.744482
+520600195G-10,10,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,C+O,47.947776,5.750991
+520600195G-1,1,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,C+O,47.950543,5.754497
+520600195G-3,3,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,C+O,47.949925,5.753889
+520600195G-4,4,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,C+O,47.950901,5.754297
+520600195G-5,5,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,C+O,47.949827,5.753744
+520600195G-7,7,Rue du Dieu Borvo,52400,Bourbonne-les-Bains,C+O,47.949752,5.753639
+520600200M-11,11,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.955061,5.756408
+520600200M-1,1,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.955227,5.755159
+520600200M-13,13,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.954962,5.756737
+520600200M-15,15,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.954861,5.757211
+520600200M-17,17,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.954645,5.757506
+520600200M-19,19,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.954771,5.758106
+520600200M-27,27,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.955090,5.758666
+520600200M-3,3,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.955210,5.755261
+520600200M-4,4,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.954682,5.757232
+520600200M-5,5,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.956106,5.756190
+520600200M-6,6,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.954606,5.757662
+520600200M-7,7,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.955155,5.755721
+520600200M-8,8,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.954591,5.758124
+520600200M-9,9,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.955117,5.756000
+520600200M-9B,9BIS,Rue de l'Échelette,52400,Bourbonne-les-Bains,C+O,47.955101,5.756127
+520600210Y-1,1,Rue des Écoles,52400,Bourbonne-les-Bains,C+O,47.953369,5.745633
+520600210Y-5,5,Rue des Écoles,52400,Bourbonne-les-Bains,C+O,47.953249,5.744596
+520600210Y-7,7,Rue des Écoles,52400,Bourbonne-les-Bains,C+O,47.953236,5.744482
 520600240F-10,10,Rue Férat,52400,Bourbonne-les-Bains,C+O,47.952396,5.747892
 520600240F-11,11,Rue Férat,52400,Bourbonne-les-Bains,C+O,47.952294,5.748087
 520600240F-12,12,Rue Férat,52400,Bourbonne-les-Bains,C+O,47.952348,5.747916
@@ -1555,15 +1555,15 @@
 520600250S-6,6,Impasse du Four,52400,Bourbonne-les-Bains,C+O,47.952755,5.749203
 520600250S-7,7,Impasse du Four,52400,Bourbonne-les-Bains,C+O,47.952795,5.749279
 520600250S-9,9,Impasse du Four,52400,Bourbonne-les-Bains,C+O,47.952759,5.749299
-520600253V-11,11,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.952157,5.758634
-520600253V-1,1,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.953128,5.757729
-520600253V-13,13,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.951637,5.758885
-520600253V-15,15,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.950818,5.759283
-520600253V-17,17,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.950093,5.761021
-520600253V-3,3,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.953036,5.757847
-520600253V-5,5,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.952850,5.758080
-520600253V-7,7,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.952671,5.758301
-520600253V-9,9,Route de Franche Comté,52400,Bourbonne-les-Bains,CAD,47.952547,5.758409
+520600253V-11,11,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.952157,5.758634
+520600253V-1,1,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.953128,5.757729
+520600253V-13,13,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.951637,5.758885
+520600253V-15,15,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.950818,5.759283
+520600253V-17,17,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.950093,5.761021
+520600253V-3,3,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.953036,5.757847
+520600253V-5,5,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.952850,5.758080
+520600253V-7,7,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.952671,5.758301
+520600253V-9,9,Rue de Franche Comté,52400,Bourbonne-les-Bains,C+O,47.952547,5.758409
 520600258A-37,37,Avenue de la Gare,52400,Bourbonne-les-Bains,C+O,47.955464,5.754503
 520600258A-37B,37BIS,Avenue de la Gare,52400,Bourbonne-les-Bains,C+O,47.955348,5.754741
 520600258A-39,39,Avenue de la Gare,52400,Bourbonne-les-Bains,C+O,47.955252,5.755006
@@ -1689,19 +1689,19 @@
 520600280Z-7,7,Rue du Génie,52400,Bourbonne-les-Bains,C+O,47.954499,5.746195
 520600280Z-8,8,Rue du Génie,52400,Bourbonne-les-Bains,C+O,47.954706,5.746953
 520600280Z-9,9,Rue du Génie,52400,Bourbonne-les-Bains,C+O,47.954545,5.746219
-520600295R-11,11,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.948156,5.745964
-520600295R-1,1,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.948757,5.746738
-520600295R-15,15,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.947896,5.745633
-520600295R-16,16,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.946777,5.744597
-520600295R-18,18,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.946554,5.744450
-520600295R-19,19,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.947117,5.744942
-520600295R-20,20,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.946308,5.744276
-520600295R-21,21,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.946840,5.744763
-520600295R-23,23,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.946480,5.744546
-520600295R-25,25,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.945932,5.743987
-520600295R-4,4,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.948433,5.745711
-520600295R-5,5,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.948491,5.746396
-520600295R-6,6,Rue Georges Fréset,52400,Bourbonne-les-Bains,CAD,47.947934,5.745542
+520600295R-11,11,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.948156,5.745964
+520600295R-1,1,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.948757,5.746738
+520600295R-15,15,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.947896,5.745633
+520600295R-16,16,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.946777,5.744597
+520600295R-18,18,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.946554,5.744450
+520600295R-19,19,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.947117,5.744942
+520600295R-20,20,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.946308,5.744276
+520600295R-21,21,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.946840,5.744763
+520600295R-23,23,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.946480,5.744546
+520600295R-25,25,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.945932,5.743987
+520600295R-4,4,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.948433,5.745711
+520600295R-5,5,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.948491,5.746396
+520600295R-6,6,Rue Georges Fréset,52400,Bourbonne-les-Bains,C+O,47.947934,5.745542
 520600300W-10,10,Grande Rue,52400,Bourbonne-les-Bains,C+O,47.952788,5.748196
 520600300W-101,101,Grande Rue,52400,Bourbonne-les-Bains,C+O,47.953373,5.751882
 520600300W-103,103,Grande Rue,52400,Bourbonne-les-Bains,C+O,47.953392,5.751960
@@ -1784,20 +1784,20 @@
 520600300W-95,95,Grande Rue,52400,Bourbonne-les-Bains,C+O,47.953341,5.751722
 520600300W-97,97,Grande Rue,52400,Bourbonne-les-Bains,C+O,47.953352,5.751783
 520600300W-9,9,Grande Rue,52400,Bourbonne-les-Bains,OSM,47.952862,5.748221
-520600307D-11,11,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950743,5.750351
-520600307D-1,1,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950247,5.749485
-520600307D-13,13,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950803,5.750456
-520600307D-15,15,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950877,5.750585
-520600307D-17,17,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950943,5.750699
-520600307D-19,19,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.951076,5.750930
-520600307D-2,2,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950206,5.749591
-520600307D-3,3,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950328,5.749628
-520600307D-4,4,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950365,5.749859
-520600307D-5,5,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950438,5.749819
-520600307D-6,6,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950503,5.750097
-520600307D-7,7,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950556,5.750026
-520600307D-8,8,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.951013,5.750984
-520600307D-9,9,Rue Henri Sautot,52400,Bourbonne-les-Bains,CAD,47.950622,5.750140
+520600307D-11,11,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950743,5.750351
+520600307D-1,1,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950247,5.749485
+520600307D-13,13,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950803,5.750456
+520600307D-15,15,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950877,5.750585
+520600307D-17,17,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950943,5.750699
+520600307D-19,19,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.951076,5.750930
+520600307D-2,2,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950206,5.749591
+520600307D-3,3,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950328,5.749628
+520600307D-4,4,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950365,5.749859
+520600307D-5,5,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950438,5.749819
+520600307D-6,6,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950503,5.750097
+520600307D-7,7,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950556,5.750026
+520600307D-8,8,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.951013,5.750984
+520600307D-9,9,Rue Henri Sautot,52400,Bourbonne-les-Bains,C+O,47.950622,5.750140
 520600310G-11,11,Rue de l'Hôtel Dieu,52400,Bourbonne-les-Bains,C+O,47.952900,5.743410
 520600310G-1,1,Rue de l'Hôtel Dieu,52400,Bourbonne-les-Bains,C+O,47.953178,5.744023
 520600310G-13,13,Rue de l'Hôtel Dieu,52400,Bourbonne-les-Bains,C+O,47.952805,5.743206
@@ -1864,80 +1864,80 @@
 520600317P-6,6,Rue Jean Carbon,52400,Bourbonne-les-Bains,C+O,47.950151,5.742390
 520600317P-7,7,Rue Jean Carbon,52400,Bourbonne-les-Bains,C+O,47.949941,5.742491
 520600317P-8,8,Rue Jean Carbon,52400,Bourbonne-les-Bains,C+O,47.950094,5.742375
-520600325Y-10,10,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951100,5.748936
-520600325Y-13,13,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951205,5.748912
-520600325Y-15,15,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951178,5.748936
-520600325Y-17,17,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951140,5.748968
-520600325Y-19,19,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951091,5.748986
-520600325Y-5,5,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951415,5.748764
-520600325Y-8,8,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951195,5.748810
-520600325Y-9,9,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,CAD,47.951304,5.748827
-520600354E-10,10,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952415,5.738913
-520600354E-11,11,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953059,5.734149
-520600354E-114,114,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952649,5.742466
-520600354E-12,12,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952430,5.738729
-520600354E-13,13,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953168,5.734088
-520600354E-14,14,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952445,5.738576
-520600354E-15,15,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953408,5.734058
-520600354E-16,16,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952495,5.737985
-520600354E-17,17,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953534,5.734133
-520600354E-18,18,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952554,5.737310
-520600354E-19,19,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953939,5.734200
-520600354E-21,21,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954173,5.734102
-520600354E-2,2,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952386,5.739719
-520600354E-23,23,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954363,5.734019
-520600354E-24,24,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952592,5.736821
-520600354E-25,25,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954571,5.733906
-520600354E-26,26,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952612,5.736520
-520600354E-28,28,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952623,5.736364
-520600354E-30,30,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952655,5.735990
-520600354E-32,32,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952718,5.735290
-520600354E-3,3,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952412,5.737834
-520600354E-34,34,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953197,5.734619
-520600354E-34B,34BIS,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953670,5.734430
-520600354E-36,36,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953976,5.734309
-520600354E-4,4,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952379,5.739424
-520600354E-5,5,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952440,5.737456
-520600354E-6,6,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952387,5.739289
-520600354E-7,7,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953315,5.734162
-520600354E-8,8,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.952401,5.739108
-520600354E-9,9,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.953065,5.734303
-520600355F-10,10,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955299,5.727687
-520600355F-11,11,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954619,5.730617
-520600355F-1,1,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954838,5.732802
-520600355F-12,12,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955388,5.726241
-520600355F-13,13,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954590,5.730322
-520600355F-14,14,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955452,5.725209
-520600355F-15,15,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954603,5.729953
-520600355F-17,17,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954645,5.729581
-520600355F-19,19,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954681,5.729275
-520600355F-21,21,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954687,5.728720
-520600355F-2,2,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955012,5.732606
-520600355F-23,23,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954720,5.728547
-520600355F-25,25,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955101,5.728361
-520600355F-27,27,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955075,5.728758
-520600355F-29,29,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955054,5.729085
-520600355F-31,31,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955029,5.729464
-520600355F-33,33,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955010,5.729762
-520600355F-3,3,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954865,5.732337
-520600355F-35,35,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954993,5.730034
-520600355F-37,37,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954774,5.730603
-520600355F-39,39,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954969,5.730467
-520600355F-41,41,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955158,5.727703
-520600355F-43,43,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955190,5.726974
-520600355F-4,4,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955035,5.732178
-520600355F-49,49,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955357,5.724083
-520600355F-51,51,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955460,5.722231
-520600355F-53,53,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954847,5.718585
-520600355F-5,5,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954556,5.731925
-520600355F-7,7,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954896,5.731808
-520600355F-7B,7BIS,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954410,5.731705
-520600355F-8,8,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.955274,5.728072
-520600355F-9,9,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,CAD,47.954931,5.731195
-520600360L-13,13,Place de la Libération,52400,Bourbonne-les-Bains,CAD,47.953256,5.752503
-520600360L-2,2,Place de la Libération,52400,Bourbonne-les-Bains,CAD,47.953516,5.752202
-520600360L-5B,5BIS,Place de la Libération,52400,Bourbonne-les-Bains,CAD,47.953529,5.753082
-520600360L-7,7,Place de la Libération,52400,Bourbonne-les-Bains,CAD,47.953353,5.752651
+520600325Y-10,10,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951100,5.748936
+520600325Y-13,13,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951205,5.748912
+520600325Y-15,15,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951178,5.748936
+520600325Y-17,17,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951140,5.748968
+520600325Y-19,19,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951091,5.748986
+520600325Y-5,5,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951415,5.748764
+520600325Y-8,8,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951195,5.748810
+520600325Y-9,9,Rue Jules Chevallier Rollin,52400,Bourbonne-les-Bains,C+O,47.951304,5.748827
+520600354E-10,10,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952415,5.738913
+520600354E-11,11,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953059,5.734149
+520600354E-114,114,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952649,5.742466
+520600354E-12,12,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952430,5.738729
+520600354E-13,13,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953168,5.734088
+520600354E-14,14,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952445,5.738576
+520600354E-15,15,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953408,5.734058
+520600354E-16,16,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952495,5.737985
+520600354E-17,17,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953534,5.734133
+520600354E-18,18,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952554,5.737310
+520600354E-19,19,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953939,5.734200
+520600354E-21,21,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954173,5.734102
+520600354E-2,2,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952386,5.739719
+520600354E-23,23,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954363,5.734019
+520600354E-24,24,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952592,5.736821
+520600354E-25,25,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954571,5.733906
+520600354E-26,26,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952612,5.736520
+520600354E-28,28,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952623,5.736364
+520600354E-30,30,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952655,5.735990
+520600354E-32,32,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952718,5.735290
+520600354E-3,3,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952412,5.737834
+520600354E-34,34,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953197,5.734619
+520600354E-34B,34BIS,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953670,5.734430
+520600354E-36,36,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953976,5.734309
+520600354E-4,4,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952379,5.739424
+520600354E-5,5,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952440,5.737456
+520600354E-6,6,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952387,5.739289
+520600354E-7,7,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953315,5.734162
+520600354E-8,8,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.952401,5.739108
+520600354E-9,9,Rue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.953065,5.734303
+520600355F-10,10,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955299,5.727687
+520600355F-11,11,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954619,5.730617
+520600355F-1,1,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954838,5.732802
+520600355F-12,12,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955388,5.726241
+520600355F-13,13,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954590,5.730322
+520600355F-14,14,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955452,5.725209
+520600355F-15,15,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954603,5.729953
+520600355F-17,17,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954645,5.729581
+520600355F-19,19,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954681,5.729275
+520600355F-21,21,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954687,5.728720
+520600355F-2,2,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955012,5.732606
+520600355F-23,23,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954720,5.728547
+520600355F-25,25,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955101,5.728361
+520600355F-27,27,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955075,5.728758
+520600355F-29,29,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955054,5.729085
+520600355F-31,31,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955029,5.729464
+520600355F-33,33,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955010,5.729762
+520600355F-3,3,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954865,5.732337
+520600355F-35,35,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954993,5.730034
+520600355F-37,37,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954774,5.730603
+520600355F-39,39,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954969,5.730467
+520600355F-41,41,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955158,5.727703
+520600355F-43,43,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955190,5.726974
+520600355F-4,4,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955035,5.732178
+520600355F-49,49,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955357,5.724083
+520600355F-51,51,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955460,5.722231
+520600355F-53,53,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954847,5.718585
+520600355F-5,5,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954556,5.731925
+520600355F-7,7,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954896,5.731808
+520600355F-7B,7BIS,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954410,5.731705
+520600355F-8,8,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.955274,5.728072
+520600355F-9,9,Avenue Lefroit Dupain,52400,Bourbonne-les-Bains,C+O,47.954931,5.731195
+520600360L-13,13,Place de la Libération,52400,Bourbonne-les-Bains,C+O,47.953256,5.752503
+520600360L-2,2,Place de la Libération,52400,Bourbonne-les-Bains,C+O,47.953516,5.752202
+520600360L-5B,5BIS,Place de la Libération,52400,Bourbonne-les-Bains,C+O,47.953529,5.753082
+520600360L-7,7,Place de la Libération,52400,Bourbonne-les-Bains,C+O,47.953353,5.752651
 520600370X-10,10,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.954330,5.753274
 520600370X-11,11,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.955198,5.753091
 520600370X-1,1,Avenue du Lieutenant Gouby,52400,Bourbonne-les-Bains,C+O,47.953954,5.752628
@@ -1982,12 +1982,12 @@
 520600395Z-5,5,Rue Maître Albert,52400,Bourbonne-les-Bains,C+O,47.955585,5.741612
 520600395Z-7,7,Rue Maître Albert,52400,Bourbonne-les-Bains,C+O,47.955580,5.741475
 520600395Z-9,9,Rue Maître Albert,52400,Bourbonne-les-Bains,C+O,47.955568,5.741131
-520600400E-1,1,Impasse Mennesson,52400,Bourbonne-les-Bains,CAD,47.952688,5.748723
-520600400E-4,4,Impasse Mennesson,52400,Bourbonne-les-Bains,CAD,47.952607,5.748691
-520600400E-4B,4BIS,Impasse Mennesson,52400,Bourbonne-les-Bains,CAD,47.952574,5.748734
-520600400E-5,5,Impasse Mennesson,52400,Bourbonne-les-Bains,CAD,47.952602,5.748758
-520600400E-6,6,Impasse Mennesson,52400,Bourbonne-les-Bains,CAD,47.952575,5.748896
-520600400E-7,7,Impasse Mennesson,52400,Bourbonne-les-Bains,CAD,47.952597,5.749024
+520600400E-1,1,Impasse Mennesson,52400,Bourbonne-les-Bains,C+O,47.952688,5.748723
+520600400E-4,4,Impasse Mennesson,52400,Bourbonne-les-Bains,C+O,47.952607,5.748691
+520600400E-4B,4BIS,Impasse Mennesson,52400,Bourbonne-les-Bains,C+O,47.952574,5.748734
+520600400E-5,5,Impasse Mennesson,52400,Bourbonne-les-Bains,C+O,47.952602,5.748758
+520600400E-6,6,Impasse Mennesson,52400,Bourbonne-les-Bains,C+O,47.952575,5.748896
+520600400E-7,7,Impasse Mennesson,52400,Bourbonne-les-Bains,C+O,47.952597,5.749024
 520600410R-10,10,Avenue de Montmorency,52400,Bourbonne-les-Bains,C+O,47.956408,5.746649
 520600410R-1,1,Avenue de Montmorency,52400,Bourbonne-les-Bains,C+O,47.955949,5.748188
 520600410R-12,12,Avenue de Montmorency,52400,Bourbonne-les-Bains,C+O,47.956432,5.746340
@@ -2123,18 +2123,18 @@
 520600440Y-6,6,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.954955,5.748875
 520600440Y-7,7,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.955037,5.748917
 520600440Y-8,8,Rue du Paradis,52400,Bourbonne-les-Bains,C+O,47.954958,5.748928
-520600441Z-10,10,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951200,5.749451
-520600441Z-12,12,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951158,5.749525
-520600441Z-14,14,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951125,5.749755
-520600441Z-16,16,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951021,5.751221
-520600441Z-18,18,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951055,5.751274
-520600441Z-20,20,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951068,5.751459
-520600441Z-22,22,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951062,5.751590
-520600441Z-2,2,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951429,5.749272
-520600441Z-24,24,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951072,5.751660
-520600441Z-26,26,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951085,5.751751
-520600441Z-4,4,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951351,5.749323
-520600441Z-8,8,Petite Rue Petite Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951243,5.749393
+520600441Z-10,10,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951200,5.749451
+520600441Z-12,12,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951158,5.749525
+520600441Z-14,14,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951125,5.749755
+520600441Z-16,16,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951021,5.751221
+520600441Z-18,18,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951055,5.751274
+520600441Z-20,20,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951068,5.751459
+520600441Z-22,22,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951062,5.751590
+520600441Z-2,2,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951429,5.749272
+520600441Z-24,24,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951072,5.751660
+520600441Z-26,26,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951085,5.751751
+520600441Z-4,4,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951351,5.749323
+520600441Z-8,8,Petite Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951243,5.749393
 520600450J-11,11,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953019,5.747793
 520600450J-1,1,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953524,5.747981
 520600450J-13,13,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.952957,5.747739
@@ -2146,129 +2146,129 @@
 520600450J-7,7,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953207,5.747910
 520600450J-8,8,Rue Porte Gallon,52400,Bourbonne-les-Bains,OSM,47.952825,5.747527
 520600450J-9,9,Rue Porte Gallon,52400,Bourbonne-les-Bains,C+O,47.953097,5.747877
-520600459U-10,10,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951536,5.753414
-520600459U-11,11,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951258,5.752956
-520600459U-1,1,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951762,5.753757
-520600459U-13,13,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951185,5.752507
-520600459U-14,14,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951477,5.753327
-520600459U-16,16,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951433,5.753253
-520600459U-17,17,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951025,5.752087
-520600459U-19,19,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950975,5.751995
-520600459U-21,21,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950930,5.751913
-520600459U-22,22,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951328,5.752928
-520600459U-2,2,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951779,5.753637
-520600459U-23,23,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950899,5.751858
-520600459U-23T,23TER,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950680,5.751426
-520600459U-24,24,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951311,5.752817
-520600459U-25,25,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950613,5.751299
-520600459U-26B,26BIS,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951216,5.752189
-520600459U-27,27,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950534,5.751157
-520600459U-28,28,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951175,5.751837
-520600459U-29,29,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950369,5.750867
-520600459U-30,30,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950777,5.751499
-520600459U-31,31,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.949869,5.749988
-520600459U-32,32,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950217,5.750464
-520600459U-33,33,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.949716,5.749647
-520600459U-3,3,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951674,5.753688
-520600459U-34,34,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950076,5.750212
-520600459U-35,35,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.949573,5.749295
-520600459U-36,36,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.949973,5.750034
-520600459U-38,38,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.949865,5.749824
-520600459U-39,39,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.949241,5.748422
-520600459U-41,41,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.949086,5.748041
-520600459U-43,43,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.948897,5.747463
-520600459U-4,4,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951673,5.753553
-520600459U-45,45,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.948846,5.747255
-520600459U-47,47,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.948806,5.747094
-520600459U-5,5,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951562,5.753579
-520600459U-6,6,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951600,5.753486
-520600459U-9,9,Rue du Prieuré,52400,Bourbonne-les-Bains,CAD,47.951344,5.753272
-520600469E-11,11,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953190,5.743348
-520600469E-13,13,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953191,5.743283
-520600469E-15,15,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953192,5.743220
-520600469E-17,17,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953194,5.743125
-520600469E-19,19,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953196,5.743000
-520600469E-21,21,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953199,5.742816
-520600469E-21B,21BIS,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953201,5.742745
-520600469E-23,23,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953202,5.742660
-520600469E-25,25,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953280,5.742085
-520600469E-42,42,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953476,5.736329
-520600469E-44,44,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953427,5.735986
-520600469E-45,45,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953191,5.739030
-520600469E-46,46,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953401,5.735612
-520600469E-48,48,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953390,5.735351
-520600469E-49,49,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953496,5.737753
-520600469E-50,50,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953359,5.735023
-520600469E-51,51,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953517,5.737041
-520600469E-8,8,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953300,5.742513
-520600469E-9,9,Rue Xavier Prinet,52400,Bourbonne-les-Bains,CAD,47.953189,5.743440
-520600472H-2,2,Square du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950672,5.750486
-520600472H-4,4,Square du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950594,5.750586
-520600472H-6,6,Square du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950530,5.750667
-520600472H-8,8,Square du Prieuré,52400,Bourbonne-les-Bains,CAD,47.950464,5.750752
-520600474K-28,28,Rue Saint-Antoine,52400,Bourbonne-les-Bains,CAD,47.957084,5.749019
-520600474K-30,30,Rue Saint-Antoine,52400,Bourbonne-les-Bains,CAD,47.956989,5.749023
-520600474K-32,32,Rue Saint-Antoine,52400,Bourbonne-les-Bains,CAD,47.956797,5.749031
-520600475L-11,11,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,CAD,47.952965,5.746682
-520600475L-1,1,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,CAD,47.953109,5.747162
-520600475L-3,3,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,CAD,47.953040,5.746967
-520600475L-9,9,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,CAD,47.952993,5.746786
-520600477N-3,3,Cour Saint-Mammes,52400,Bourbonne-les-Bains,CAD,47.955754,5.748122
-520600480S-10,10,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957764,5.748274
-520600480S-14,14,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957847,5.748275
-520600480S-16,16,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957914,5.748273
-520600480S-18,18,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957989,5.748266
-520600480S-20,20,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.958060,5.748256
-520600480S-22,22,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.958133,5.748247
-520600480S-2,2,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957500,5.748231
-520600480S-26,26,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.958491,5.748212
-520600480S-4,4,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957566,5.748241
-520600480S-6,6,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957659,5.748255
-520600480S-8,8,Rue Source Maynard,52400,Bourbonne-les-Bains,CAD,47.957709,5.748266
-520600482U-1,1,Route de Senaide,52400,Bourbonne-les-Bains,CAD,47.958177,5.756056
-520600490C-10,10,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954714,5.745674
-520600490C-11,11,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954658,5.745500
-520600490C-1,1,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.953664,5.745602
-520600490C-12,12,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954782,5.745748
-520600490C-13,13,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954713,5.745519
-520600490C-14,14,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954958,5.745948
-520600490C-15,15,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954762,5.745537
-520600490C-16,16,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.955003,5.745999
-520600490C-17,17,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954821,5.745559
-520600490C-18,18,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.955057,5.746062
-520600490C-19,19,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954868,5.745576
-520600490C-21,21,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954913,5.745590
-520600490C-2,2,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954367,5.745517
-520600490C-23,23,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954951,5.745603
-520600490C-25,25,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954988,5.745608
-520600490C-3,3,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954377,5.745420
-520600490C-5,5,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954462,5.745432
-520600490C-6,6,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954574,5.745578
-520600490C-7,7,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954540,5.745459
-520600490C-8,8,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,CAD,47.954638,5.745606
-520600503S-1,1,Place des Tilleuls,52400,Bourbonne-les-Bains,CAD,47.954181,5.742728
-520600503S-2,2,Place des Tilleuls,52400,Bourbonne-les-Bains,CAD,47.954442,5.742766
-520600503S-4,4,Place des Tilleuls,52400,Bourbonne-les-Bains,CAD,47.954561,5.742818
+520600459U-10,10,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951536,5.753414
+520600459U-11,11,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951258,5.752956
+520600459U-1,1,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951762,5.753757
+520600459U-13,13,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951185,5.752507
+520600459U-14,14,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951477,5.753327
+520600459U-16,16,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951433,5.753253
+520600459U-17,17,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951025,5.752087
+520600459U-19,19,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950975,5.751995
+520600459U-21,21,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950930,5.751913
+520600459U-22,22,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951328,5.752928
+520600459U-2,2,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951779,5.753637
+520600459U-23,23,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950899,5.751858
+520600459U-23T,23TER,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950680,5.751426
+520600459U-24,24,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951311,5.752817
+520600459U-25,25,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950613,5.751299
+520600459U-26B,26BIS,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951216,5.752189
+520600459U-27,27,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950534,5.751157
+520600459U-28,28,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951175,5.751837
+520600459U-29,29,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950369,5.750867
+520600459U-30,30,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950777,5.751499
+520600459U-31,31,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.949869,5.749988
+520600459U-32,32,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950217,5.750464
+520600459U-33,33,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.949716,5.749647
+520600459U-3,3,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951674,5.753688
+520600459U-34,34,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950076,5.750212
+520600459U-35,35,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.949573,5.749295
+520600459U-36,36,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.949973,5.750034
+520600459U-38,38,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.949865,5.749824
+520600459U-39,39,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.949241,5.748422
+520600459U-41,41,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.949086,5.748041
+520600459U-43,43,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.948897,5.747463
+520600459U-4,4,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951673,5.753553
+520600459U-45,45,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.948846,5.747255
+520600459U-47,47,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.948806,5.747094
+520600459U-5,5,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951562,5.753579
+520600459U-6,6,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951600,5.753486
+520600459U-9,9,Rue du Prieuré,52400,Bourbonne-les-Bains,C+O,47.951344,5.753272
+520600469E-11,11,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953190,5.743348
+520600469E-13,13,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953191,5.743283
+520600469E-15,15,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953192,5.743220
+520600469E-17,17,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953194,5.743125
+520600469E-19,19,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953196,5.743000
+520600469E-21,21,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953199,5.742816
+520600469E-21B,21BIS,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953201,5.742745
+520600469E-23,23,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953202,5.742660
+520600469E-25,25,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953280,5.742085
+520600469E-42,42,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953476,5.736329
+520600469E-44,44,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953427,5.735986
+520600469E-45,45,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953191,5.739030
+520600469E-46,46,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953401,5.735612
+520600469E-48,48,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953390,5.735351
+520600469E-49,49,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953496,5.737753
+520600469E-50,50,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953359,5.735023
+520600469E-51,51,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953517,5.737041
+520600469E-8,8,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953300,5.742513
+520600469E-9,9,Rue Xavier Prinet,52400,Bourbonne-les-Bains,C+O,47.953189,5.743440
+520600472H-2,2,Square du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950672,5.750486
+520600472H-4,4,Square du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950594,5.750586
+520600472H-6,6,Square du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950530,5.750667
+520600472H-8,8,Square du Prieuré,52400,Bourbonne-les-Bains,C+O,47.950464,5.750752
+520600474K-28,28,Rue Saint-Antoine,52400,Bourbonne-les-Bains,C+O,47.957084,5.749019
+520600474K-30,30,Rue Saint-Antoine,52400,Bourbonne-les-Bains,C+O,47.956989,5.749023
+520600474K-32,32,Rue Saint-Antoine,52400,Bourbonne-les-Bains,C+O,47.956797,5.749031
+520600475L-11,11,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,C+O,47.952965,5.746682
+520600475L-1,1,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,C+O,47.953109,5.747162
+520600475L-3,3,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,C+O,47.953040,5.746967
+520600475L-9,9,Ruelle Sainte-Barbe,52400,Bourbonne-les-Bains,C+O,47.952993,5.746786
+520600477N-3,3,Cour Saint-Mammes,52400,Bourbonne-les-Bains,C+O,47.955754,5.748122
+520600480S-10,10,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957764,5.748274
+520600480S-14,14,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957847,5.748275
+520600480S-16,16,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957914,5.748273
+520600480S-18,18,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957989,5.748266
+520600480S-20,20,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.958060,5.748256
+520600480S-22,22,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.958133,5.748247
+520600480S-2,2,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957500,5.748231
+520600480S-26,26,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.958491,5.748212
+520600480S-4,4,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957566,5.748241
+520600480S-6,6,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957659,5.748255
+520600480S-8,8,Rue Source Maynard,52400,Bourbonne-les-Bains,C+O,47.957709,5.748266
+520600482U-1,1,Route de Senaide,52400,Bourbonne-les-Bains,C+O,47.958177,5.756056
+520600490C-10,10,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954714,5.745674
+520600490C-11,11,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954658,5.745500
+520600490C-1,1,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.953664,5.745602
+520600490C-12,12,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954782,5.745748
+520600490C-13,13,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954713,5.745519
+520600490C-14,14,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954958,5.745948
+520600490C-15,15,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954762,5.745537
+520600490C-16,16,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.955003,5.745999
+520600490C-17,17,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954821,5.745559
+520600490C-18,18,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.955057,5.746062
+520600490C-19,19,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954868,5.745576
+520600490C-21,21,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954913,5.745590
+520600490C-2,2,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954367,5.745517
+520600490C-23,23,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954951,5.745603
+520600490C-25,25,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954988,5.745608
+520600490C-3,3,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954377,5.745420
+520600490C-5,5,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954462,5.745432
+520600490C-6,6,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954574,5.745578
+520600490C-7,7,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954540,5.745459
+520600490C-8,8,Rue Terrail Lemoine,52400,Bourbonne-les-Bains,C+O,47.954638,5.745606
+520600503S-1,1,Place des Tilleuls,52400,Bourbonne-les-Bains,C+O,47.954181,5.742728
+520600503S-2,2,Place des Tilleuls,52400,Bourbonne-les-Bains,C+O,47.954442,5.742766
+520600503S-4,4,Place des Tilleuls,52400,Bourbonne-les-Bains,C+O,47.954561,5.742818
 520600505U-2,2,Rue Trotte Le Moine,52400,Bourbonne-les-Bains,C+O,47.955066,5.747908
-520600507W-10,10,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951581,5.731138
-520600507W-11,11,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951071,5.728932
-520600507W-1,1,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951526,5.731036
-520600507W-12,12,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951610,5.730983
-520600507W-14,14,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951636,5.730833
-520600507W-16,16,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951671,5.730507
-520600507W-18,18,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951678,5.730366
-520600507W-20,20,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951707,5.730241
-520600507W-22,22,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951665,5.730156
-520600507W-2,2,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951285,5.732182
-520600507W-24,24,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951664,5.729541
-520600507W-26,26,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951652,5.729135
-520600507W-28,28,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951547,5.728916
-520600507W-3,3,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951558,5.730880
-520600507W-4,4,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951419,5.731919
-520600507W-5,5,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951603,5.730552
-520600507W-7,7,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951560,5.730212
-520600507W-8,8,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951533,5.731386
-520600507W-9,9,Rue du Val de Borne,52400,Bourbonne-les-Bains,CAD,47.951576,5.730081
+520600507W-10,10,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951581,5.731138
+520600507W-11,11,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951071,5.728932
+520600507W-1,1,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951526,5.731036
+520600507W-12,12,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951610,5.730983
+520600507W-14,14,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951636,5.730833
+520600507W-16,16,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951671,5.730507
+520600507W-18,18,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951678,5.730366
+520600507W-20,20,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951707,5.730241
+520600507W-22,22,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951665,5.730156
+520600507W-2,2,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951285,5.732182
+520600507W-24,24,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951664,5.729541
+520600507W-26,26,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951652,5.729135
+520600507W-28,28,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951547,5.728916
+520600507W-3,3,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951558,5.730880
+520600507W-4,4,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951419,5.731919
+520600507W-5,5,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951603,5.730552
+520600507W-7,7,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951560,5.730212
+520600507W-8,8,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951533,5.731386
+520600507W-9,9,Rue du Val de Borne,52400,Bourbonne-les-Bains,C+O,47.951576,5.730081
 520600510Z-100,100,Rue Vellonne,52400,Bourbonne-les-Bains,C+O,47.952429,5.743051
 520600510Z-10,10,Rue Vellonne,52400,Bourbonne-les-Bains,C+O,47.952755,5.747011
 520600510Z-101,101,Rue Vellonne,52400,Bourbonne-les-Bains,C+O,47.952390,5.742104
@@ -2371,22 +2371,22 @@
 520600510Z-98,98,Rue Vellonne,52400,Bourbonne-les-Bains,C+O,47.952419,5.743139
 520600510Z-99,99,Rue Vellonne,52400,Bourbonne-les-Bains,C+O,47.952389,5.742160
 520600510Z-9,9,Rue Vellonne,52400,Bourbonne-les-Bains,C+O,47.952667,5.746900
-520600520K-1,1,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953669,5.746661
-520600520K-13,13,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953579,5.747264
-520600520K-17,17,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953603,5.747607
-520600520K-23,23,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953858,5.747696
-520600520K-25,25,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953756,5.747764
-520600520K-29,29,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953742,5.747896
-520600520K-31,31,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953730,5.747998
-520600520K-3,3,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953672,5.746759
-520600520K-7,7,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953603,5.747045
-520600520K-9,9,Place de Verdun,52400,Bourbonne-les-Bains,CAD,47.953595,5.747127
-520600524P-10,10,Rue de la Vierge,52400,Bourbonne-les-Bains,CAD,47.954112,5.746254
-520600524P-1,1,Rue de la Vierge,52400,Bourbonne-les-Bains,CAD,47.953760,5.746278
-520600524P-12,12,Rue de la Vierge,52400,Bourbonne-les-Bains,CAD,47.954167,5.746240
-520600524P-2,2,Rue de la Vierge,52400,Bourbonne-les-Bains,CAD,47.953880,5.746329
-520600524P-6,6,Rue de la Vierge,52400,Bourbonne-les-Bains,CAD,47.954027,5.746278
-520600524P-8,8,Rue de la Vierge,52400,Bourbonne-les-Bains,CAD,47.954063,5.746267
+520600520K-1,1,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953669,5.746661
+520600520K-13,13,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953579,5.747264
+520600520K-17,17,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953603,5.747607
+520600520K-23,23,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953858,5.747696
+520600520K-25,25,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953756,5.747764
+520600520K-29,29,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953742,5.747896
+520600520K-31,31,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953730,5.747998
+520600520K-3,3,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953672,5.746759
+520600520K-7,7,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953603,5.747045
+520600520K-9,9,Place de Verdun,52400,Bourbonne-les-Bains,C+O,47.953595,5.747127
+520600524P-10,10,Rue de la Vierge,52400,Bourbonne-les-Bains,C+O,47.954112,5.746254
+520600524P-1,1,Rue de la Vierge,52400,Bourbonne-les-Bains,C+O,47.953760,5.746278
+520600524P-12,12,Rue de la Vierge,52400,Bourbonne-les-Bains,C+O,47.954167,5.746240
+520600524P-2,2,Rue de la Vierge,52400,Bourbonne-les-Bains,C+O,47.953880,5.746329
+520600524P-6,6,Rue de la Vierge,52400,Bourbonne-les-Bains,C+O,47.954027,5.746278
+520600524P-8,8,Rue de la Vierge,52400,Bourbonne-les-Bains,C+O,47.954063,5.746267
 520600540G-10,10,Rue Walferdin,52400,Bourbonne-les-Bains,C+O,47.954286,5.747331
 520600540G-12,12,Rue Walferdin,52400,Bourbonne-les-Bains,C+O,47.954333,5.747203
 520600540G-14,14,Rue Walferdin,52400,Bourbonne-les-Bains,C+O,47.954363,5.746848
@@ -2448,35 +2448,35 @@
 520600550T-5,5,Rue du Souvenir Français,52400,Bourbonne-les-Bains,C+O,47.956708,5.753843
 520600550T-6,6,Rue du Souvenir Français,52400,Bourbonne-les-Bains,C+O,47.955780,5.754203
 520600550T-8,8,Rue du Souvenir Français,52400,Bourbonne-les-Bains,C+O,47.955875,5.754158
-520600555Y-1,1,Chemin de Craye,52400,Bourbonne-les-Bains,CAD,47.953778,5.737503
-520600555Y-2,2,Chemin de Craye,52400,Bourbonne-les-Bains,CAD,47.954210,5.737370
-520600555Y-4,4,Chemin de Craye,52400,Bourbonne-les-Bains,CAD,47.953884,5.737388
+520600555Y-1,1,Chemin de Craye,52400,Bourbonne-les-Bains,C+O,47.953778,5.737503
+520600555Y-2,2,Chemin de Craye,52400,Bourbonne-les-Bains,C+O,47.954210,5.737370
+520600555Y-4,4,Chemin de Craye,52400,Bourbonne-les-Bains,C+O,47.953884,5.737388
 520600570P-1,1,Rue du Parc Animalier,52400,Bourbonne-les-Bains,CAD,47.942737,5.736746
-520600580A-10,10,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953599,5.732064
-520600580A-11,11,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.952984,5.732479
-520600580A-12,12,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953862,5.732066
-520600580A-13,13,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953073,5.732205
-520600580A-14,14,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953924,5.732067
-520600580A-15,15,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953181,5.732010
-520600580A-17,17,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953347,5.731962
-520600580A-19,19,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953480,5.731961
-520600580A-21,21,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953790,5.731968
-520600580A-2,2,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953880,5.733537
-520600580A-4,4,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.952903,5.733540
-520600580A-5,5,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.952788,5.733720
-520600580A-7,7,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.952823,5.733401
-520600580A-8,8,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953032,5.732591
-520600580A-8B,8BIS,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.953269,5.732066
-520600580A-9,9,Rue Saint-François,52400,Bourbonne-les-Bains,CAD,47.952922,5.732838
-520600590L-1,1,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.961285,5.757412
-520600590L-2,2,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.958675,5.755554
-520600590L-4,4,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.961622,5.757957
+520600580A-10,10,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953599,5.732064
+520600580A-11,11,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.952984,5.732479
+520600580A-12,12,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953862,5.732066
+520600580A-13,13,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953073,5.732205
+520600580A-14,14,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953924,5.732067
+520600580A-15,15,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953181,5.732010
+520600580A-17,17,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953347,5.731962
+520600580A-19,19,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953480,5.731961
+520600580A-21,21,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953790,5.731968
+520600580A-2,2,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953880,5.733537
+520600580A-4,4,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.952903,5.733540
+520600580A-5,5,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.952788,5.733720
+520600580A-7,7,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.952823,5.733401
+520600580A-8,8,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953032,5.732591
+520600580A-8B,8BIS,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.953269,5.732066
+520600580A-9,9,Rue Saint-François,52400,Bourbonne-les-Bains,C+O,47.952922,5.732838
+520600590L-1,1,Route de Vittel,52400,Bourbonne-les-Bains,C+O,47.961285,5.757412
+520600590L-2,2,Route de Vittel,52400,Bourbonne-les-Bains,C+O,47.958675,5.755554
+520600590L-4,4,Route de Vittel,52400,Bourbonne-les-Bains,C+O,47.961622,5.757957
 520600590L-6,6,Route de Vittel,52400,Bourbonne-les-Bains,OSM,47.961990,5.758258
-520600590L-8,8,Route de Vittel,52400,Bourbonne-les-Bains,CAD,47.963704,5.760446
-520600600X-1,1,Rue Champagne A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917844,5.749929
-520600600X-3,3,Rue Champagne A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917966,5.749935
-520600600X-5,5,Rue Champagne A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918148,5.749943
-520600600X-7,7,Rue Champagne A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918509,5.749962
+520600590L-8,8,Route de Vittel,52400,Bourbonne-les-Bains,C+O,47.963704,5.760446
+520600600X-1,1,Rue Champagne,52400,Bourbonne-les-Bains,C+O,47.917844,5.749929
+520600600X-3,3,Rue Champagne,52400,Bourbonne-les-Bains,C+O,47.917966,5.749935
+520600600X-5,5,Rue Champagne,52400,Bourbonne-les-Bains,C+O,47.918148,5.749943
+520600600X-7,7,Rue Champagne,52400,Bourbonne-les-Bains,C+O,47.918509,5.749962
 520600605C-1,1,Route de Champlitte A Genrupt,52400,Bourbonne-les-Bains,CAD,47.915359,5.748862
 520600605C-14,14,Route de Champlitte A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918668,5.750692
 520600605C-2,2,Route de Champlitte A Genrupt,52400,Bourbonne-les-Bains,CAD,47.914966,5.748861
@@ -2489,137 +2489,137 @@
 520600615N-6,6,Rue de la Mairie A Genrupt,52400,Bourbonne-les-Bains,CAD,47.919326,5.749231
 520600615N-7,7,Rue de la Mairie A Genrupt,52400,Bourbonne-les-Bains,CAD,47.919530,5.749848
 520600615N-8,8,Rue de la Mairie A Genrupt,52400,Bourbonne-les-Bains,CAD,47.919421,5.749491
-520600620U-1,1,Chemin des Plantes A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917114,5.747355
-520600625Z-10,10,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918138,5.748672
-520600625Z-11,11,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918123,5.748516
-520600625Z-1,1,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.916859,5.749483
-520600625Z-12,12,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918325,5.748502
-520600625Z-13,13,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918200,5.748419
-520600625Z-14,14,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918783,5.747915
-520600625Z-15,15,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918214,5.748285
-520600625Z-16,16,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.919018,5.747584
-520600625Z-17,17,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918411,5.748149
-520600625Z-18,18,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.919152,5.747422
-520600625Z-19,19,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918559,5.747963
-520600625Z-21,21,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918729,5.747741
-520600625Z-22,22,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.919811,5.746936
-520600625Z-2,2,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917842,5.749585
-520600625Z-23,23,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918837,5.747601
-520600625Z-24,24,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.920573,5.748255
-520600625Z-25,25,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.918951,5.747452
-520600625Z-27,27,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.919726,5.746817
-520600625Z-3,3,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917105,5.749441
-520600625Z-4,4,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917741,5.749164
-520600625Z-5,5,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917494,5.749245
-520600625Z-6,6,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917817,5.749076
-520600625Z-7,7,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917781,5.748910
-520600625Z-8,8,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917965,5.748890
-520600625Z-9,9,Rue Principale A Genrupt,52400,Bourbonne-les-Bains,CAD,47.917988,5.748630
-520600700F-3,3,Rue du Beute à Villars,52400,Bourbonne-les-Bains,C+O,47.937182,5.788363
-520600700F-4,4,Rue du Beute à Villars,52400,Bourbonne-les-Bains,C+O,47.937157,5.788519
-520600700F-6,6,Rue du Beute à Villars,52400,Bourbonne-les-Bains,C+O,47.937364,5.788454
-520600704K-2,2,Route de Bourbonne A Villars,52400,Bourbonne-les-Bains,CAD,47.939568,5.793007
-520600704K-4,4,Route de Bourbonne A Villars,52400,Bourbonne-les-Bains,CAD,47.939857,5.791387
-520600704K-6,6,Route de Bourbonne A Villars,52400,Bourbonne-les-Bains,CAD,47.939972,5.790782
-520600704K-8,8,Route de Bourbonne A Villars,52400,Bourbonne-les-Bains,CAD,47.940146,5.789935
-520600709R-2,2,Impasse des Corvées A Villars,52400,Bourbonne-les-Bains,CAD,47.937213,5.792188
-520600709R-4,4,Impasse des Corvées A Villars,52400,Bourbonne-les-Bains,CAD,47.937267,5.792406
-520600712U-1,1,Rue de la Cour à Villars,52400,Bourbonne-les-Bains,C+O,47.934413,5.790375
-520600712U-2,2,Rue de la Cour à Villars,52400,Bourbonne-les-Bains,C+O,47.934295,5.790341
-520600712U-3,3,Rue de la Cour à Villars,52400,Bourbonne-les-Bains,C+O,47.933748,5.790417
-520600712U-5,5,Rue de la Cour à Villars,52400,Bourbonne-les-Bains,C+O,47.933531,5.790372
+520600620U-1,1,Chemin des Plantes,52400,Bourbonne-les-Bains,C+O,47.917114,5.747355
+520600625Z-10,10,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918138,5.748672
+520600625Z-11,11,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918123,5.748516
+520600625Z-1,1,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.916859,5.749483
+520600625Z-12,12,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918325,5.748502
+520600625Z-13,13,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918200,5.748419
+520600625Z-14,14,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918783,5.747915
+520600625Z-15,15,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918214,5.748285
+520600625Z-16,16,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.919018,5.747584
+520600625Z-17,17,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918411,5.748149
+520600625Z-18,18,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.919152,5.747422
+520600625Z-19,19,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918559,5.747963
+520600625Z-21,21,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918729,5.747741
+520600625Z-22,22,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.919811,5.746936
+520600625Z-2,2,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917842,5.749585
+520600625Z-23,23,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918837,5.747601
+520600625Z-24,24,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.920573,5.748255
+520600625Z-25,25,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.918951,5.747452
+520600625Z-27,27,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.919726,5.746817
+520600625Z-3,3,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917105,5.749441
+520600625Z-4,4,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917741,5.749164
+520600625Z-5,5,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917494,5.749245
+520600625Z-6,6,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917817,5.749076
+520600625Z-7,7,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917781,5.748910
+520600625Z-8,8,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917965,5.748890
+520600625Z-9,9,Rue Principale,52400,Bourbonne-les-Bains,C+O,47.917988,5.748630
+520600700F-3,3,Rue du Beute,52400,Bourbonne-les-Bains,C+O,47.937182,5.788363
+520600700F-4,4,Rue du Beute,52400,Bourbonne-les-Bains,C+O,47.937157,5.788519
+520600700F-6,6,Rue du Beute,52400,Bourbonne-les-Bains,C+O,47.937364,5.788454
+520600704K-2,2,Route de Bourbonne,52400,Bourbonne-les-Bains,C+O,47.939568,5.793007
+520600704K-4,4,Route de Bourbonne,52400,Bourbonne-les-Bains,C+O,47.939857,5.791387
+520600704K-6,6,Route de Bourbonne,52400,Bourbonne-les-Bains,C+O,47.939972,5.790782
+520600704K-8,8,Route de Bourbonne,52400,Bourbonne-les-Bains,C+O,47.940146,5.789935
+520600709R-2,2,Impasse des Corvées,52400,Bourbonne-les-Bains,C+O,47.937213,5.792188
+520600709R-4,4,Impasse des Corvées,52400,Bourbonne-les-Bains,C+O,47.937267,5.792406
+520600712U-1,1,Rue de la Cour,52400,Bourbonne-les-Bains,C+O,47.934413,5.790375
+520600712U-2,2,Rue de la Cour,52400,Bourbonne-les-Bains,C+O,47.934295,5.790341
+520600712U-3,3,Rue de la Cour,52400,Bourbonne-les-Bains,C+O,47.933748,5.790417
+520600712U-5,5,Rue de la Cour,52400,Bourbonne-les-Bains,C+O,47.933531,5.790372
 520600716Y-10,10,Rue de la Cure à Villars,52400,Bourbonne-les-Bains,C+O,47.935057,5.789135
 520600716Y-12,12,Rue de la Cure à Villars,52400,Bourbonne-les-Bains,C+O,47.934965,5.789097
 520600716Y-14,14,Rue de la Cure à Villars,52400,Bourbonne-les-Bains,C+O,47.934745,5.789000
 520600716Y-2,2,Rue de la Cure à Villars,52400,Bourbonne-les-Bains,C+O,47.935455,5.789401
 520600716Y-4,4,Rue de la Cure à Villars,52400,Bourbonne-les-Bains,C+O,47.935326,5.789271
 520600716Y-6,6,Rue de la Cure à Villars,52400,Bourbonne-les-Bains,C+O,47.935252,5.789216
-520600720C-1,1,Rue de l'Église A Villars,52400,Bourbonne-les-Bains,CAD,47.935986,5.789448
-520600720C-3,3,Rue de l'Église A Villars,52400,Bourbonne-les-Bains,CAD,47.935967,5.789491
-520600723F-11,11,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.937754,5.792513
-520600723F-1,1,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.936762,5.791241
-520600723F-13,13,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.937878,5.792696
-520600723F-2,2,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.936670,5.791343
-520600723F-3,3,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.936964,5.791465
-520600723F-4,4,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.937527,5.792315
-520600723F-7,7,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.937314,5.791865
-520600723F-9,9,Rue d'en Bas à Villars,52400,Bourbonne-les-Bains,C+O,47.937385,5.791948
+520600720C-1,1,Rue de l'Église,52400,Bourbonne-les-Bains,C+O,47.935986,5.789448
+520600720C-3,3,Rue de l'Église,52400,Bourbonne-les-Bains,C+O,47.935967,5.789491
+520600723F-11,11,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.937754,5.792513
+520600723F-1,1,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.936762,5.791241
+520600723F-13,13,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.937878,5.792696
+520600723F-2,2,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.936670,5.791343
+520600723F-3,3,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.936964,5.791465
+520600723F-4,4,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.937527,5.792315
+520600723F-7,7,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.937314,5.791865
+520600723F-9,9,Rue d'en Bas,52400,Bourbonne-les-Bains,C+O,47.937385,5.791948
 520600727K-2,2,Rue de la Fontaine du Roy,52400,Bourbonne-les-Bains,C+O,47.937812,5.794079
-520600731P-1,1,Rue de la Force A Villars,52400,Bourbonne-les-Bains,CAD,47.935776,5.790236
-520600734T-1,1,Rue du Fossieu A Villars,52400,Bourbonne-les-Bains,CAD,47.941084,5.778773
-520600734T-3,3,Rue du Fossieu A Villars,52400,Bourbonne-les-Bains,CAD,47.941041,5.779001
-520600734T-5,5,Rue du Fossieu A Villars,52400,Bourbonne-les-Bains,CAD,47.940879,5.779462
-520600734T-7,7,Rue du Fossieu A Villars,52400,Bourbonne-les-Bains,CAD,47.940607,5.780331
-520600737W-3,3,Route de Fresnes A Villars,52400,Bourbonne-les-Bains,CAD,47.939446,5.795352
-520600737W-5,5,Route de Fresnes A Villars,52400,Bourbonne-les-Bains,CAD,47.939492,5.795711
-520600742B-1,1,Rue Gripot à Villars,52400,Bourbonne-les-Bains,CAD,47.936385,5.790319
-520600742B-2,2,Rue Gripot à Villars,52400,Bourbonne-les-Bains,CAD,47.936368,5.790066
-520600742B-3,3,Rue Gripot à Villars,52400,Bourbonne-les-Bains,CAD,47.936287,5.790254
-520600742B-4,4,Rue Gripot à Villars,52400,Bourbonne-les-Bains,CAD,47.936047,5.790031
-520600748H-2,2,Chemin des Langrois à Villars,52400,Bourbonne-les-Bains,C+O,47.935882,5.785175
-520600753N-1,1,Rue Maranger A Villars,52400,Bourbonne-les-Bains,CAD,47.935931,5.789198
-520600753N-2,2,Rue Maranger A Villars,52400,Bourbonne-les-Bains,CAD,47.935804,5.789022
-520600753N-4,4,Rue Maranger A Villars,52400,Bourbonne-les-Bains,CAD,47.935692,5.789008
-520600753N-6,6,Rue Maranger A Villars,52400,Bourbonne-les-Bains,CAD,47.935606,5.788990
-520600755R-1,1,Rue des Maranges à Villars,52400,Bourbonne-les-Bains,C+O,47.936514,5.788567
-520600755R-3,3,Rue des Maranges à Villars,52400,Bourbonne-les-Bains,C+O,47.936462,5.788269
-520600755R-5,5,Rue des Maranges à Villars,52400,Bourbonne-les-Bains,C+O,47.936412,5.788056
-520600760W-1,1,Route de Melay à Villars,52400,Bourbonne-les-Bains,C+O,47.936425,5.790980
-520600760W-2,2,Route de Melay à Villars,52400,Bourbonne-les-Bains,C+O,47.935465,5.791944
-520600760W-4,4,Route de Melay à Villars,52400,Bourbonne-les-Bains,C+O,47.934884,5.792424
-520600760W-6,6,Route de Melay à Villars,52400,Bourbonne-les-Bains,C+O,47.934767,5.792507
-520600760W-7,7,Route de Melay à Villars,52400,Bourbonne-les-Bains,C+O,47.936009,5.791489
-520600769F-2,2,Rue Neuve A Villars,52400,Bourbonne-les-Bains,CAD,47.935418,5.789570
-520600774L-2,2,Rue de la Pintelle à Villars,52400,Bourbonne-les-Bains,C+O,47.934978,5.790240
-520600774L-4,4,Rue de la Pintelle à Villars,52400,Bourbonne-les-Bains,C+O,47.934835,5.790100
-520600774L-6,6,Rue de la Pintelle à Villars,52400,Bourbonne-les-Bains,C+O,47.934460,5.789754
-520600780T-1,1,Rue du Roteux à Villars,52400,Bourbonne-les-Bains,C+O,47.940242,5.794334
-520600780T-2,2,Rue du Roteux à Villars,52400,Bourbonne-les-Bains,C+O,47.940163,5.794355
-520600785Y-1,1,Place du Tilleul A Villars,52400,Bourbonne-les-Bains,CAD,47.936443,5.789412
-520600785Y-2,2,Place du Tilleul A Villars,52400,Bourbonne-les-Bains,CAD,47.936461,5.788928
-520600785Y-4,4,Place du Tilleul A Villars,52400,Bourbonne-les-Bains,CAD,47.936400,5.789015
-520600790D-1,1,Rue du Trabac à Villars,52400,Bourbonne-les-Bains,C+O,47.935056,5.791960
-520600790D-15,15,Rue du Trabac à Villars,52400,Bourbonne-les-Bains,C+O,47.934235,5.790775
-520600790D-3,3,Rue du Trabac à Villars,52400,Bourbonne-les-Bains,C+O,47.934834,5.791717
-520600790D-5,5,Rue du Trabac à Villars,52400,Bourbonne-les-Bains,C+O,47.934636,5.791519
-520600790D-7,7,Rue du Trabac à Villars,52400,Bourbonne-les-Bains,C+O,47.934574,5.791433
-520600790D-9,9,Rue du Trabac à Villars,52400,Bourbonne-les-Bains,C+O,47.934398,5.791164
-520600793G-10,10,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936654,5.789019
-520600793G-11,11,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.937414,5.785705
-520600793G-1,1,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936444,5.789955
-520600793G-12,12,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936745,5.788586
-520600793G-14,14,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936844,5.787744
-520600793G-16,16,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936890,5.787168
-520600793G-18,18,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.937602,5.785517
-520600793G-2,2,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936491,5.790751
-520600793G-3,3,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936456,5.789742
-520600793G-4,4,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936528,5.789790
-520600793G-7,7,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936747,5.787908
-520600793G-8,8,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936602,5.789255
-520600793G-9,9,Rue de la Vieille Route,52400,Bourbonne-les-Bains,CAD,47.936751,5.787755
-520600795J-1,1,Vieille Route Vieil Rte d'Enfon Villars,52400,Bourbonne-les-Bains,CAD,47.936693,5.792305
-520600795J-2,2,Vieille Route Vieil Rte d'Enfon Villars,52400,Bourbonne-les-Bains,CAD,47.936848,5.791650
-520600795J-3,3,Vieille Route Vieil Rte d'Enfon Villars,52400,Bourbonne-les-Bains,CAD,47.936698,5.793659
-520600795J-4,4,Vieille Route Vieil Rte d'Enfon Villars,52400,Bourbonne-les-Bains,CAD,47.936721,5.791988
-520600795J-6,6,Vieille Route Vieil Rte d'Enfon Villars,52400,Bourbonne-les-Bains,CAD,47.936668,5.792096
-520600795J-8,8,Vieille Route Vieil Rte d'Enfon Villars,52400,Bourbonne-les-Bains,CAD,47.936592,5.792224
-520600799N-2,2,Rue Voillerant à Villars,52400,Bourbonne-les-Bains,C+O,47.935941,5.791802
-520600799N-4,4,Rue Voillerant à Villars,52400,Bourbonne-les-Bains,C+O,47.936415,5.792301
-52060B060S-10,10,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.958023,5.728537
-52060B060S-1,1,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.956249,5.729304
-52060B060S-12,12,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.958548,5.728174
-52060B060S-14,14,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.959008,5.727878
-52060B060S-16,16,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.959223,5.727776
-52060B060S-18,18,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.959418,5.727649
-52060B060S-20,20,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.959808,5.727388
-52060B060S-22,22,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.960503,5.727056
-52060B060S-2,2,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.955340,5.729543
-52060B060S-3,3,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.957232,5.728988
-52060B060S-4,4,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.955691,5.729475
-52060B060S-5,5,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.959708,5.727287
-52060B060S-6,6,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.956587,5.729390
-52060B060S-7,7,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.960274,5.726923
-52060B060S-8,8,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,CAD,47.957571,5.728855
+520600731P-1,1,Rue de la Force,52400,Bourbonne-les-Bains,C+O,47.935776,5.790236
+520600734T-1,1,Rue du Fossieu,52400,Bourbonne-les-Bains,C+O,47.941084,5.778773
+520600734T-3,3,Rue du Fossieu,52400,Bourbonne-les-Bains,C+O,47.941041,5.779001
+520600734T-5,5,Rue du Fossieu,52400,Bourbonne-les-Bains,C+O,47.940879,5.779462
+520600734T-7,7,Rue du Fossieu,52400,Bourbonne-les-Bains,C+O,47.940607,5.780331
+520600737W-3,3,Route de Fresnes,52400,Bourbonne-les-Bains,C+O,47.939446,5.795352
+520600737W-5,5,Route de Fresnes,52400,Bourbonne-les-Bains,C+O,47.939492,5.795711
+520600742B-1,1,Rue Gripot,52400,Bourbonne-les-Bains,C+O,47.936385,5.790319
+520600742B-2,2,Rue Gripot,52400,Bourbonne-les-Bains,C+O,47.936368,5.790066
+520600742B-3,3,Rue Gripot,52400,Bourbonne-les-Bains,C+O,47.936287,5.790254
+520600742B-4,4,Rue Gripot,52400,Bourbonne-les-Bains,C+O,47.936047,5.790031
+520600748H-2,2,Chemin des Langrois,52400,Bourbonne-les-Bains,C+O,47.935882,5.785175
+520600753N-1,1,Rue Maranger,52400,Bourbonne-les-Bains,C+O,47.935931,5.789198
+520600753N-2,2,Rue Maranger,52400,Bourbonne-les-Bains,C+O,47.935804,5.789022
+520600753N-4,4,Rue Maranger,52400,Bourbonne-les-Bains,C+O,47.935692,5.789008
+520600753N-6,6,Rue Maranger,52400,Bourbonne-les-Bains,C+O,47.935606,5.788990
+520600755R-1,1,Rue des Maranges,52400,Bourbonne-les-Bains,C+O,47.936514,5.788567
+520600755R-3,3,Rue des Maranges,52400,Bourbonne-les-Bains,C+O,47.936462,5.788269
+520600755R-5,5,Rue des Maranges,52400,Bourbonne-les-Bains,C+O,47.936412,5.788056
+520600760W-1,1,Route de Melay,52400,Bourbonne-les-Bains,C+O,47.936425,5.790980
+520600760W-2,2,Route de Melay,52400,Bourbonne-les-Bains,C+O,47.935465,5.791944
+520600760W-4,4,Route de Melay,52400,Bourbonne-les-Bains,C+O,47.934884,5.792424
+520600760W-6,6,Route de Melay,52400,Bourbonne-les-Bains,C+O,47.934767,5.792507
+520600760W-7,7,Route de Melay,52400,Bourbonne-les-Bains,C+O,47.936009,5.791489
+520600769F-2,2,Rue Neuve,52400,Bourbonne-les-Bains,C+O,47.935418,5.789570
+520600774L-2,2,Rue de la Pintelle,52400,Bourbonne-les-Bains,C+O,47.934978,5.790240
+520600774L-4,4,Rue de la Pintelle,52400,Bourbonne-les-Bains,C+O,47.934835,5.790100
+520600774L-6,6,Rue de la Pintelle,52400,Bourbonne-les-Bains,C+O,47.934460,5.789754
+520600780T-1,1,Rue du Roteux,52400,Bourbonne-les-Bains,C+O,47.940242,5.794334
+520600780T-2,2,Rue du Roteux,52400,Bourbonne-les-Bains,C+O,47.940163,5.794355
+520600785Y-1,1,Place du Tilleul,52400,Bourbonne-les-Bains,C+O,47.936443,5.789412
+520600785Y-2,2,Place du Tilleul,52400,Bourbonne-les-Bains,C+O,47.936461,5.788928
+520600785Y-4,4,Place du Tilleul,52400,Bourbonne-les-Bains,C+O,47.936400,5.789015
+520600790D-1,1,Rue du Trabac,52400,Bourbonne-les-Bains,C+O,47.935056,5.791960
+520600790D-15,15,Rue du Trabac,52400,Bourbonne-les-Bains,C+O,47.934235,5.790775
+520600790D-3,3,Rue du Trabac,52400,Bourbonne-les-Bains,C+O,47.934834,5.791717
+520600790D-5,5,Rue du Trabac,52400,Bourbonne-les-Bains,C+O,47.934636,5.791519
+520600790D-7,7,Rue du Trabac,52400,Bourbonne-les-Bains,C+O,47.934574,5.791433
+520600790D-9,9,Rue du Trabac,52400,Bourbonne-les-Bains,C+O,47.934398,5.791164
+520600793G-10,10,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936654,5.789019
+520600793G-11,11,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.937414,5.785705
+520600793G-1,1,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936444,5.789955
+520600793G-12,12,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936745,5.788586
+520600793G-14,14,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936844,5.787744
+520600793G-16,16,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936890,5.787168
+520600793G-18,18,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.937602,5.785517
+520600793G-2,2,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936491,5.790751
+520600793G-3,3,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936456,5.789742
+520600793G-4,4,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936528,5.789790
+520600793G-7,7,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936747,5.787908
+520600793G-8,8,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936602,5.789255
+520600793G-9,9,Rue de la Vieille Route,52400,Bourbonne-les-Bains,C+O,47.936751,5.787755
+520600795J-1,1,Vieille Route d'Enfonvelle,52400,Bourbonne-les-Bains,C+O,47.936693,5.792305
+520600795J-2,2,Vieille Route d'Enfonvelle,52400,Bourbonne-les-Bains,C+O,47.936848,5.791650
+520600795J-3,3,Vieille Route d'Enfonvelle,52400,Bourbonne-les-Bains,C+O,47.936698,5.793659
+520600795J-4,4,Vieille Route d'Enfonvelle,52400,Bourbonne-les-Bains,C+O,47.936721,5.791988
+520600795J-6,6,Vieille Route d'Enfonvelle,52400,Bourbonne-les-Bains,C+O,47.936668,5.792096
+520600795J-8,8,Vieille Route d'Enfonvelle,52400,Bourbonne-les-Bains,C+O,47.936592,5.792224
+520600799N-2,2,Rue Voillerant,52400,Bourbonne-les-Bains,C+O,47.935941,5.791802
+520600799N-4,4,Rue Voillerant,52400,Bourbonne-les-Bains,C+O,47.936415,5.792301
+52060B060S-10,10,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.958023,5.728537
+52060B060S-1,1,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.956249,5.729304
+52060B060S-12,12,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.958548,5.728174
+52060B060S-14,14,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.959008,5.727878
+52060B060S-16,16,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.959223,5.727776
+52060B060S-18,18,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.959418,5.727649
+52060B060S-20,20,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.959808,5.727388
+52060B060S-22,22,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.960503,5.727056
+52060B060S-2,2,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.955340,5.729543
+52060B060S-3,3,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.957232,5.728988
+52060B060S-4,4,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.955691,5.729475
+52060B060S-5,5,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.959708,5.727287
+52060B060S-6,6,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.956587,5.729390
+52060B060S-7,7,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.960274,5.726923
+52060B060S-8,8,Chemin de Saint-Jacques,52400,Bourbonne-les-Bains,C+O,47.957571,5.728855
 520610002T-11,11,Rue des Alisiers,52700,Bourdons-sur-Rognon,CAD,48.164470,5.345375
 520610002T-1,1,Rue des Alisiers,52700,Bourdons-sur-Rognon,CAD,48.164818,5.345717
 520610002T-13,13,Rue des Alisiers,52700,Bourdons-sur-Rognon,CAD,48.164515,5.345277
@@ -5149,36 +5149,36 @@
 521140003N-1,1,Rue de l'abbé Foissey,52120,Châteauvillain,CAD,48.011617,4.882290
 521140003N-3,3,Rue de l'abbé Foissey,52120,Châteauvillain,CAD,48.011769,4.882325
 521140006S-1,1,Rue de l'Abreuvoir,52120,Châteauvillain,CAD,48.032856,4.918299
-521140015B-10,10,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034086,4.920189
-521140015B-11,11,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034391,4.920075
-521140015B-1,1,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034831,4.919578
-521140015B-13,13,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034304,4.920158
-521140015B-15,15,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034243,4.920218
-521140015B-16,16,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033924,4.920326
-521140015B-17,17,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034099,4.920359
-521140015B-17B,17BIS,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033926,4.920517
-521140015B-17T,17TER,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033847,4.920572
-521140015B-19,19,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033804,4.920623
-521140015B-20,20,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033612,4.920562
-521140015B-21,21,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033745,4.920659
-521140015B-22,22,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033184,4.920854
-521140015B-2,2,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034876,4.919412
-521140015B-23,23,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033679,4.920697
-521140015B-25,25,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033609,4.920737
-521140015B-26,26,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.032876,4.921091
-521140015B-27,27,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033560,4.920782
-521140015B-28,28,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.032814,4.921148
-521140015B-29,29,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033412,4.920867
-521140015B-30,30,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.032756,4.921209
-521140015B-31,31,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.033317,4.920928
-521140015B-3,3,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034704,4.919713
-521140015B-4,4,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034620,4.919575
-521140015B-5,5,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034663,4.919757
-521140015B-7,7,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034584,4.919832
-521140015B-8,8,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034163,4.920126
-521140015B-9,9,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034543,4.919886
-521140015B-9B,9BIS,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034454,4.920003
-521140015B-9T,9TER,Rue de l'Amiral Decrès,52120,Châteauvillain,C+O,48.034425,4.920043
+521140015B-10,10,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034086,4.920189
+521140015B-11,11,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034391,4.920075
+521140015B-1,1,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034831,4.919578
+521140015B-13,13,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034304,4.920158
+521140015B-15,15,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034243,4.920218
+521140015B-16,16,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033924,4.920326
+521140015B-17,17,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034099,4.920359
+521140015B-17B,17BIS,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033926,4.920517
+521140015B-17T,17TER,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033847,4.920572
+521140015B-19,19,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033804,4.920623
+521140015B-20,20,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033612,4.920562
+521140015B-21,21,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033745,4.920659
+521140015B-22,22,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033184,4.920854
+521140015B-2,2,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034876,4.919412
+521140015B-23,23,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033679,4.920697
+521140015B-25,25,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033609,4.920737
+521140015B-26,26,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.032876,4.921091
+521140015B-27,27,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033560,4.920782
+521140015B-28,28,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.032814,4.921148
+521140015B-29,29,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033412,4.920867
+521140015B-30,30,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.032756,4.921209
+521140015B-31,31,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.033317,4.920928
+521140015B-3,3,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034704,4.919713
+521140015B-4,4,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034620,4.919575
+521140015B-5,5,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034663,4.919757
+521140015B-7,7,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034584,4.919832
+521140015B-8,8,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034163,4.920126
+521140015B-9,9,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034543,4.919886
+521140015B-9B,9BIS,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034454,4.920003
+521140015B-9T,9TER,Rue de l'amiral Decrès,52120,Châteauvillain,C+O,48.034425,4.920043
 521140018E-10,10,Rue d'Aujon,52120,Châteauvillain,C+O,48.036849,4.916147
 521140018E-11,11,Rue d'Aujon,52120,Châteauvillain,C+O,48.035969,4.915790
 521140018E-1,1,Rue d'Aujon,52120,Châteauvillain,C+O,48.034909,4.915468
@@ -9992,33 +9992,33 @@
 521211330A-7,7,Rue Laloy,52000,Chaumont,C+O,48.110671,5.139042
 521211330A-8,8,Rue Laloy,52000,Chaumont,C+O,48.110934,5.139065
 521211330A-9,9,Rue Laloy,52000,Chaumont,C+O,48.110780,5.139128
-521211340L-11,11,Rue de Lamartine,52000,Chaumont,C+O,48.110380,5.145005
-521211340L-1,1,Rue de Lamartine,52000,Chaumont,C+O,48.110111,5.143650
-521211340L-13,13,Rue de Lamartine,52000,Chaumont,C+O,48.110409,5.145274
-521211340L-15,15,Rue de Lamartine,52000,Chaumont,C+O,48.110432,5.145499
-521211340L-17,17,Rue de Lamartine,52000,Chaumont,C+O,48.110431,5.145879
-521211340L-19,19,Rue de Lamartine,52000,Chaumont,C+O,48.110425,5.146086
-521211340L-21,21,Rue de Lamartine,52000,Chaumont,C+O,48.110539,5.146360
-521211340L-23,23,Rue de Lamartine,52000,Chaumont,C+O,48.110411,5.146506
-521211340L-25,25,Rue de Lamartine,52000,Chaumont,C+O,48.110406,5.146642
-521211340L-27,27,Rue de Lamartine,52000,Chaumont,C+O,48.110407,5.146912
-521211340L-29,29,Rue de Lamartine,52000,Chaumont,C+O,48.110404,5.147051
-521211340L-31,31,Rue de Lamartine,52000,Chaumont,C+O,48.110382,5.147283
-521211340L-33,33,Rue de Lamartine,52000,Chaumont,C+O,48.110375,5.147647
-521211340L-3,3,Rue de Lamartine,52000,Chaumont,C+O,48.110131,5.143763
-521211340L-35B,35BIS,Rue de Lamartine,52000,Chaumont,C+O,48.110452,5.147995
-521211340L-37,37,Rue de Lamartine,52000,Chaumont,C+O,48.110315,5.148226
-521211340L-39,39,Rue de Lamartine,52000,Chaumont,C+O,48.110342,5.148490
-521211340L-41,41,Rue de Lamartine,52000,Chaumont,C+O,48.110286,5.148731
-521211340L-45,45,Rue de Lamartine,52000,Chaumont,C+O,48.109973,5.149802
-521211340L-47,47,Rue de Lamartine,52000,Chaumont,C+O,48.109854,5.150198
-521211340L-49,49,Rue de Lamartine,52000,Chaumont,C+O,48.109785,5.150463
-521211340L-51,51,Rue de Lamartine,52000,Chaumont,C+O,48.109711,5.150731
-521211340L-53,53,Rue de Lamartine,52000,Chaumont,C+O,48.109623,5.151086
-521211340L-55,55,Rue de Lamartine,52000,Chaumont,C+O,48.109527,5.151376
-521211340L-57,57,Rue de Lamartine,52000,Chaumont,C+O,48.109451,5.151577
-521211340L-7,7,Rue de Lamartine,52000,Chaumont,C+O,48.110240,5.144315
-521211340L-9,9,Rue de Lamartine,52000,Chaumont,C+O,48.110330,5.144729
+521211340L-11,11,Rue Lamartine,52000,Chaumont,C+O,48.110380,5.145005
+521211340L-1,1,Rue Lamartine,52000,Chaumont,C+O,48.110111,5.143650
+521211340L-13,13,Rue Lamartine,52000,Chaumont,C+O,48.110409,5.145274
+521211340L-15,15,Rue Lamartine,52000,Chaumont,C+O,48.110432,5.145499
+521211340L-17,17,Rue Lamartine,52000,Chaumont,C+O,48.110431,5.145879
+521211340L-19,19,Rue Lamartine,52000,Chaumont,C+O,48.110425,5.146086
+521211340L-21,21,Rue Lamartine,52000,Chaumont,C+O,48.110539,5.146360
+521211340L-23,23,Rue Lamartine,52000,Chaumont,C+O,48.110411,5.146506
+521211340L-25,25,Rue Lamartine,52000,Chaumont,C+O,48.110406,5.146642
+521211340L-27,27,Rue Lamartine,52000,Chaumont,C+O,48.110407,5.146912
+521211340L-29,29,Rue Lamartine,52000,Chaumont,C+O,48.110404,5.147051
+521211340L-31,31,Rue Lamartine,52000,Chaumont,C+O,48.110382,5.147283
+521211340L-33,33,Rue Lamartine,52000,Chaumont,C+O,48.110375,5.147647
+521211340L-3,3,Rue Lamartine,52000,Chaumont,C+O,48.110131,5.143763
+521211340L-35B,35BIS,Rue Lamartine,52000,Chaumont,C+O,48.110452,5.147995
+521211340L-37,37,Rue Lamartine,52000,Chaumont,C+O,48.110315,5.148226
+521211340L-39,39,Rue Lamartine,52000,Chaumont,C+O,48.110342,5.148490
+521211340L-41,41,Rue Lamartine,52000,Chaumont,C+O,48.110286,5.148731
+521211340L-45,45,Rue Lamartine,52000,Chaumont,C+O,48.109973,5.149802
+521211340L-47,47,Rue Lamartine,52000,Chaumont,C+O,48.109854,5.150198
+521211340L-49,49,Rue Lamartine,52000,Chaumont,C+O,48.109785,5.150463
+521211340L-51,51,Rue Lamartine,52000,Chaumont,C+O,48.109711,5.150731
+521211340L-53,53,Rue Lamartine,52000,Chaumont,C+O,48.109623,5.151086
+521211340L-55,55,Rue Lamartine,52000,Chaumont,C+O,48.109527,5.151376
+521211340L-57,57,Rue Lamartine,52000,Chaumont,C+O,48.109451,5.151577
+521211340L-7,7,Rue Lamartine,52000,Chaumont,C+O,48.110240,5.144315
+521211340L-9,9,Rue Lamartine,52000,Chaumont,C+O,48.110330,5.144729
 521211350X-1,1,Ruelle Lardière,52000,Chaumont,C+O,48.111575,5.140231
 521211350X-3,3,Ruelle Lardière,52000,Chaumont,C+O,48.111558,5.140289
 521211350X-5,5,Ruelle Lardière,52000,Chaumont,C+O,48.111549,5.140543
@@ -19914,18 +19914,18 @@
 522690445V-45,45,Rue Eugène Gallion,52200,Langres,CAD,47.866911,5.342823
 522690445V-6,6,Rue Eugène Gallion,52200,Langres,CAD,47.866751,5.343541
 522690445V-8,8,Rue Eugène Gallion,52200,Langres,CAD,47.866751,5.343554
-522690448Y-1160,1160,Avenue de l'Europe,52200,Langres,C+O,47.871512,5.338614
-522690448Y-1280,1280,Avenue de l'Europe,52200,Langres,C+O,47.871831,5.337159
-522690448Y-1302,1302,Avenue de l'Europe,52200,Langres,C+O,47.871909,5.336713
-522690448Y-1354,1354,Avenue de l'Europe,52200,Langres,C+O,47.872024,5.336079
-522690448Y-1374,1374,Avenue de l'Europe,52200,Langres,C+O,47.872082,5.335759
-522690448Y-1388,1388,Avenue de l'Europe,52200,Langres,C+O,47.872150,5.335385
-522690448Y-1450,1450,Avenue de l'Europe,52200,Langres,C+O,47.872352,5.334396
-522690448Y-1498,1498,Avenue de l'Europe,52200,Langres,C+O,47.872516,5.333945
-522690448Y-712,712,Avenue de l'Europe,52200,Langres,C+O,47.870520,5.341827
-522690448Y-880,880,Avenue de l'Europe,52200,Langres,C+O,47.870498,5.341863
-522690448Y-912,912,Avenue de l'Europe,52200,Langres,C+O,47.870866,5.339796
-522690448Y-912A,912A,Avenue de l'Europe,52200,Langres,C+O,47.870773,5.341341
+522690448Y-1160,1160,Avenue De L'Europe,52200,Langres,C+O,47.871512,5.338614
+522690448Y-1280,1280,Avenue De L'Europe,52200,Langres,C+O,47.871831,5.337159
+522690448Y-1302,1302,Avenue De L'Europe,52200,Langres,C+O,47.871909,5.336713
+522690448Y-1354,1354,Avenue De L'Europe,52200,Langres,C+O,47.872024,5.336079
+522690448Y-1374,1374,Avenue De L'Europe,52200,Langres,C+O,47.872082,5.335759
+522690448Y-1388,1388,Avenue De L'Europe,52200,Langres,C+O,47.872150,5.335385
+522690448Y-1450,1450,Avenue De L'Europe,52200,Langres,C+O,47.872352,5.334396
+522690448Y-1498,1498,Avenue De L'Europe,52200,Langres,C+O,47.872516,5.333945
+522690448Y-712,712,Avenue De L'Europe,52200,Langres,C+O,47.870520,5.341827
+522690448Y-880,880,Avenue De L'Europe,52200,Langres,C+O,47.870498,5.341863
+522690448Y-912,912,Avenue De L'Europe,52200,Langres,C+O,47.870866,5.339796
+522690448Y-912A,912A,Avenue De L'Europe,52200,Langres,C+O,47.870773,5.341341
 522690450A-10,10,Rue aux Fées,52200,Langres,C+O,47.863659,5.331815
 522690450A-11,11,Rue aux Fées,52200,Langres,C+O,47.863699,5.331323
 522690450A-11B,11BIS,Rue aux Fées,52200,Langres,C+O,47.863709,5.331211
@@ -24532,17 +24532,17 @@
 524260019Z-2,2,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278727,4.865620
 524260019Z-4,4,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278516,4.865546
 524260019Z-6,6,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278402,4.865555
-524260030L-10,10,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
-524260030L-11,11,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
-524260030L-1,1,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
-524260030L-12,12,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
-524260030L-13,13,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
-524260030L-19,19,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
-524260030L-3,3,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
-524260030L-5,5,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
-524260030L-7,7,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
-524260030L-8,8,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
-524260030L-9,9,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
+524260030L-10,10,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
+524260030L-11,11,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
+524260030L-1,1,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
+524260030L-12,12,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
+524260030L-13,13,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
+524260030L-19,19,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
+524260030L-3,3,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
+524260030L-5,5,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
+524260030L-7,7,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
+524260030L-8,8,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
+524260030L-9,9,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
 524260038V-1,1,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278763,4.866126
 524260038V-2,2,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278152,4.866097
 524260038V-4,4,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.277838,4.866379
