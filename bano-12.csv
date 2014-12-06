@@ -1435,9 +1435,9 @@
 120260048A-4,4,Rue des Carrières,12310,Bertholène,OSM,44.390110,2.784599
 120260050C-2,2,Rue des Châtaigniers,12310,Bertholène,C+O,44.389191,2.772410
 120260050C-4,4,Rue des Châtaigniers,12310,Bertholène,C+O,44.389061,2.772138
-120260052E-1,1,Rue des Chênes,12310,Bertholène,OSM,44.396287,2.769761
+120260052E-1,1,Rue des Chênes,12310,Bertholène,OSM,44.396343,2.769714
 120260052E-3,3,Rue des Chênes,12310,Bertholène,C+O,44.396199,2.769574
-120260052E-5,5,Rue des Chênes,12310,Bertholène,OSM,44.396493,2.769703
+120260052E-5,5,Rue des Chênes,12310,Bertholène,OSM,44.396550,2.769672
 120260052E-9,9,Rue des Chênes,12310,Bertholène,C+O,44.396383,2.769524
 120260056J-1,1,Impasse de la Cité,12310,Bertholène,C+O,44.396872,2.768987
 120260056J-3,3,Impasse de la Cité,12310,Bertholène,C+O,44.396790,2.769016
@@ -1586,7 +1586,7 @@
 120260114X-14,14,Rue du Stade,12310,Bertholène,OSM,44.392440,2.791287
 120260114X-15,15,Rue du Stade,12310,Bertholène,OSM,44.393192,2.789127
 120260114X-16,16,Rue du Stade,12310,Bertholène,OSM,44.392297,2.791216
-120260114X-17,17,Rue du Stade,12310,Bertholène,OSM,44.392164,2.791476
+120260114X-17,17,Rue du Stade,12310,Bertholène,OSM,44.393148,2.789348
 120260114X-18,18,Rue du Stade,12310,Bertholène,C+O,44.392162,2.791452
 120260114X-19,19,Rue du Stade,12310,Bertholène,OSM,44.392917,2.789335
 120260114X-20,20,Rue du Stade,12310,Bertholène,OSM,44.392179,2.791788
@@ -3059,7 +3059,7 @@
 120430025B-405,405,Avenue de la Basilique,12450,Calmont,C+O,44.272545,2.523800
 120430025B-420,420,Avenue de la Basilique,12450,Calmont,C+O,44.272596,2.524140
 120430025B-444,444,Avenue de la Basilique,12450,Calmont,C+O,44.272637,2.524241
-120430025B-480,480,Avenue de la Basilique,12450,Calmont,OSM,44.272589,2.524990
+120430025B-480,480,Avenue de la Basilique,12450,Calmont,OSM,44.272765,2.525050
 120430025B-481,481,Avenue de la Basilique,12450,Calmont,C+O,44.273437,2.523734
 120430025B-484,484,Avenue de la Basilique,12450,Calmont,C+O,44.273197,2.525299
 120430025B-581,581,Avenue de la Basilique,12450,Calmont,C+O,44.273586,2.525061
@@ -5878,117 +5878,117 @@
 120660030G-7,7,Rue du Barry,12330,Clairvaux-d'Aveyron,C+O,44.427355,2.409353
 120660030G-8,8,Rue du Barry,12330,Clairvaux-d'Aveyron,C+O,44.427436,2.409952
 120660030G-9,9,Rue du Barry,12330,Clairvaux-d'Aveyron,C+O,44.427351,2.409269
-120660040T-10,10,Chemin du Causse,12330,Clairvaux-d'Aveyron,CAD,44.423552,2.417216
-120660040T-12,12,Chemin du Causse,12330,Clairvaux-d'Aveyron,CAD,44.423302,2.417377
-120660040T-14,14,Chemin du Causse,12330,Clairvaux-d'Aveyron,CAD,44.423100,2.417045
-120660040T-2,2,Chemin du Causse,12330,Clairvaux-d'Aveyron,CAD,44.424008,2.416488
-120660040T-4,4,Chemin du Causse,12330,Clairvaux-d'Aveyron,CAD,44.423722,2.416163
-120660040T-6,6,Chemin du Causse,12330,Clairvaux-d'Aveyron,CAD,44.423524,2.416039
-120660040T-8,8,Chemin du Causse,12330,Clairvaux-d'Aveyron,CAD,44.423534,2.416791
-120660045Y-10,10,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427501,2.411388
-120660045Y-1,1,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427116,2.411785
-120660045Y-12,12,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427341,2.411111
-120660045Y-14,14,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427335,2.411002
-120660045Y-2,2,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427307,2.412195
-120660045Y-3,3,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427308,2.411528
-120660045Y-4,4,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427252,2.412009
-120660045Y-5,5,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427303,2.411365
-120660045Y-6,6,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427411,2.411639
-120660045Y-7,7,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427211,2.410889
-120660045Y-8,8,Rue des Caves,12330,Clairvaux-d'Aveyron,CAD,44.427428,2.411518
-120660050D-10,10,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.425787,2.412736
-120660050D-11,11,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.424984,2.413341
-120660050D-1,1,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.425871,2.413191
-120660050D-12,12,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.425625,2.412832
-120660050D-12B,12BIS,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.425598,2.412604
-120660050D-13,13,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.424577,2.413771
-120660050D-14,14,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.425278,2.412633
-120660050D-16,16,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.424682,2.412753
-120660050D-17,17,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.424227,2.413493
-120660050D-18,18,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.424905,2.412041
-120660050D-19,19,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.423875,2.414126
-120660050D-19B,19BIS,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.423832,2.413096
-120660050D-21,21,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.423648,2.413012
-120660050D-2,2,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.426434,2.412892
-120660050D-23,23,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.423506,2.413663
-120660050D-25,25,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.423079,2.413249
-120660050D-27,27,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.422542,2.413261
-120660050D-3,3,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.425719,2.413330
-120660050D-4,4,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.426373,2.413030
-120660050D-6,6,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.426168,2.412972
-120660050D-8,8,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.425882,2.412877
-120660050D-9,9,Rue des Claux,12330,Clairvaux-d'Aveyron,CAD,44.424895,2.413901
-120660060P-10,10,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.425381,2.414820
-120660060P-11,11,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.424457,2.417441
-120660060P-1,1,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.426324,2.413905
-120660060P-12,12,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.424968,2.415805
-120660060P-14,14,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.424674,2.416570
-120660060P-2,2,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.426122,2.413299
-120660060P-4,4,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.426054,2.413522
-120660060P-5,5,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.426195,2.414303
-120660060P-6,6,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.425994,2.413685
-120660060P-7,7,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.425527,2.415703
-120660060P-8,8,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.425173,2.414482
-120660060P-9,9,Rue du Cordelier,12330,Clairvaux-d'Aveyron,CAD,44.424664,2.416870
-120660065V-10,10,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427303,2.415839
-120660065V-1,1,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427020,2.413419
-120660065V-12,12,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427502,2.416249
-120660065V-14,14,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427382,2.416632
-120660065V-2,2,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.426570,2.413025
-120660065V-3,3,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427167,2.413674
-120660065V-4,4,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.426686,2.413109
-120660065V-5,5,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427337,2.414047
-120660065V-6,6,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.426887,2.413454
-120660065V-7,7,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427763,2.415635
-120660065V-8,8,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,CAD,44.427171,2.414930
-120660070A-10,10,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427588,2.411129
-120660070A-1,1,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427947,2.411190
-120660070A-2,2,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427944,2.411275
-120660070A-3,3,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427979,2.411563
-120660070A-4,4,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.428030,2.411824
-120660070A-5,5,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427929,2.412022
-120660070A-6,6,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427592,2.411722
-120660070A-7,7,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427578,2.411496
-120660070A-8,8,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427609,2.411451
-120660070A-9,9,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427638,2.411403
-120660070A-9B,9BIS,Place de l'Ecole,12330,Clairvaux-d'Aveyron,CAD,44.427605,2.411243
-120660075F-10,10,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426229,2.411160
-120660075F-1,1,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426655,2.411673
-120660075F-12,12,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.425993,2.410918
-120660075F-2,2,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426688,2.411124
-120660075F-3,3,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426682,2.411552
-120660075F-4,4,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426761,2.411252
-120660075F-5,5,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426508,2.411534
-120660075F-6,6,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426716,2.411450
-120660075F-7,7,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426422,2.411628
-120660075F-8,8,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.426443,2.411369
-120660075F-9,9,Rue du Fiou,12330,Clairvaux-d'Aveyron,CAD,44.425954,2.411304
+120660040T-10,10,Chemin du Causse,12330,Clairvaux-d'Aveyron,C+O,44.423552,2.417216
+120660040T-12,12,Chemin du Causse,12330,Clairvaux-d'Aveyron,C+O,44.423302,2.417377
+120660040T-14,14,Chemin du Causse,12330,Clairvaux-d'Aveyron,C+O,44.423100,2.417045
+120660040T-2,2,Chemin du Causse,12330,Clairvaux-d'Aveyron,C+O,44.424008,2.416488
+120660040T-4,4,Chemin du Causse,12330,Clairvaux-d'Aveyron,C+O,44.423722,2.416163
+120660040T-6,6,Chemin du Causse,12330,Clairvaux-d'Aveyron,C+O,44.423524,2.416039
+120660040T-8,8,Chemin du Causse,12330,Clairvaux-d'Aveyron,C+O,44.423534,2.416791
+120660045Y-10,10,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427501,2.411388
+120660045Y-1,1,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427116,2.411785
+120660045Y-12,12,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427341,2.411111
+120660045Y-14,14,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427335,2.411002
+120660045Y-2,2,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427307,2.412195
+120660045Y-3,3,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427308,2.411528
+120660045Y-4,4,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427252,2.412009
+120660045Y-5,5,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427303,2.411365
+120660045Y-6,6,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427411,2.411639
+120660045Y-7,7,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427211,2.410889
+120660045Y-8,8,Rue des Caves,12330,Clairvaux-d'Aveyron,C+O,44.427428,2.411518
+120660050D-10,10,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.425787,2.412736
+120660050D-11,11,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.424984,2.413341
+120660050D-1,1,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.425871,2.413191
+120660050D-12,12,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.425625,2.412832
+120660050D-12B,12BIS,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.425598,2.412604
+120660050D-13,13,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.424577,2.413771
+120660050D-14,14,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.425278,2.412633
+120660050D-16,16,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.424682,2.412753
+120660050D-17,17,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.424227,2.413493
+120660050D-18,18,Rue des Claux,12330,Clairvaux-d'Aveyron,OSM,44.424813,2.411347
+120660050D-19,19,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.423875,2.414126
+120660050D-19B,19BIS,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.423832,2.413096
+120660050D-21,21,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.423648,2.413012
+120660050D-2,2,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.426434,2.412892
+120660050D-23,23,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.423506,2.413663
+120660050D-25,25,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.423079,2.413249
+120660050D-27,27,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.422542,2.413261
+120660050D-3,3,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.425719,2.413330
+120660050D-4,4,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.426373,2.413030
+120660050D-6,6,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.426168,2.412972
+120660050D-8,8,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.425882,2.412877
+120660050D-9,9,Rue des Claux,12330,Clairvaux-d'Aveyron,C+O,44.424895,2.413901
+120660060P-10,10,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.425381,2.414820
+120660060P-11,11,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.424457,2.417441
+120660060P-1,1,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.426324,2.413905
+120660060P-12,12,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.424968,2.415805
+120660060P-14,14,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.424674,2.416570
+120660060P-2,2,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.426122,2.413299
+120660060P-4,4,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.426054,2.413522
+120660060P-5,5,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.426195,2.414303
+120660060P-6,6,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.425994,2.413685
+120660060P-7,7,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.425527,2.415703
+120660060P-8,8,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.425173,2.414482
+120660060P-9,9,Rue du Cordelier,12330,Clairvaux-d'Aveyron,C+O,44.424664,2.416870
+120660065V-10,10,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427303,2.415839
+120660065V-1,1,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427020,2.413419
+120660065V-12,12,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427502,2.416249
+120660065V-14,14,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427382,2.416632
+120660065V-2,2,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.426570,2.413025
+120660065V-3,3,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427167,2.413674
+120660065V-4,4,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.426686,2.413109
+120660065V-5,5,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427337,2.414047
+120660065V-6,6,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.426887,2.413454
+120660065V-7,7,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427763,2.415635
+120660065V-8,8,Chemin de Saint-Dreziers,12330,Clairvaux-d'Aveyron,C+O,44.427171,2.414930
+120660070A-10,10,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427588,2.411129
+120660070A-1,1,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427947,2.411190
+120660070A-2,2,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427944,2.411275
+120660070A-3,3,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427979,2.411563
+120660070A-4,4,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.428030,2.411824
+120660070A-5,5,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427929,2.412022
+120660070A-6,6,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427592,2.411722
+120660070A-7,7,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427578,2.411496
+120660070A-8,8,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427609,2.411451
+120660070A-9,9,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427638,2.411403
+120660070A-9B,9BIS,Place de l'École,12330,Clairvaux-d'Aveyron,C+O,44.427605,2.411243
+120660075F-10,10,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426229,2.411160
+120660075F-1,1,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426655,2.411673
+120660075F-12,12,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.425993,2.410918
+120660075F-2,2,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426688,2.411124
+120660075F-3,3,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426682,2.411552
+120660075F-4,4,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426761,2.411252
+120660075F-5,5,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426508,2.411534
+120660075F-6,6,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426716,2.411450
+120660075F-7,7,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426422,2.411628
+120660075F-8,8,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.426443,2.411369
+120660075F-9,9,Rue du Fiou,12330,Clairvaux-d'Aveyron,C+O,44.425954,2.411304
 120660080L-1,1,Chemin des Hortes,12330,Clairvaux-d'Aveyron,C+O,44.427137,2.410231
 120660080L-3,3,Chemin des Hortes,12330,Clairvaux-d'Aveyron,C+O,44.426840,2.409888
 120660080L-5,5,Chemin des Hortes,12330,Clairvaux-d'Aveyron,C+O,44.426793,2.410129
-120660100H-1,1,Place du Mansoi,12330,Clairvaux-d'Aveyron,CAD,44.427220,2.412327
-120660100H-2,2,Place du Mansoi,12330,Clairvaux-d'Aveyron,CAD,44.427229,2.412439
-120660100H-3,3,Place du Mansoi,12330,Clairvaux-d'Aveyron,CAD,44.427210,2.412864
-120660100H-3B,3BIS,Place du Mansoi,12330,Clairvaux-d'Aveyron,CAD,44.427092,2.412692
-120660100H-5,5,Place du Mansoi,12330,Clairvaux-d'Aveyron,CAD,44.426939,2.412519
-120660100H-6,6,Place du Mansoi,12330,Clairvaux-d'Aveyron,CAD,44.426968,2.412341
-120660190F-11,11,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.425872,2.407514
-120660190F-1,1,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.427136,2.408923
-120660190F-2,2,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.427121,2.408501
-120660190F-3,3,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.426985,2.408762
-120660190F-4,4,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.427095,2.407794
-120660190F-5,5,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.426638,2.408520
-120660190F-6,6,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.426831,2.407906
-120660190F-7,7,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.426365,2.408102
-120660190F-8,8,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.426533,2.407492
-120660190F-9,9,Rue du Panades,12330,Clairvaux-d'Aveyron,CAD,44.426083,2.408025
-120660195L-1,1,Impasse du Pont,12330,Clairvaux-d'Aveyron,CAD,44.426320,2.412801
-120660195L-3,3,Impasse du Pont,12330,Clairvaux-d'Aveyron,CAD,44.426423,2.412703
-120660200S-1,1,Rue du Porche,12330,Clairvaux-d'Aveyron,CAD,44.427543,2.411522
-120660200S-2,2,Rue du Porche,12330,Clairvaux-d'Aveyron,CAD,44.427467,2.411655
-120660205X-1,1,Impasse du Prieure,12330,Clairvaux-d'Aveyron,CAD,44.427628,2.412371
-120660250W-1,1,Place Saint-Blaise,12330,Clairvaux-d'Aveyron,CAD,44.427298,2.411868
-120660250W-2,2,Place Saint-Blaise,12330,Clairvaux-d'Aveyron,CAD,44.427600,2.411776
+120660100H-1,1,Place du Mansol,12330,Clairvaux-d'Aveyron,C+O,44.427220,2.412327
+120660100H-2,2,Place du Mansol,12330,Clairvaux-d'Aveyron,C+O,44.427229,2.412439
+120660100H-3,3,Place du Mansol,12330,Clairvaux-d'Aveyron,C+O,44.427210,2.412864
+120660100H-3B,3BIS,Place du Mansol,12330,Clairvaux-d'Aveyron,C+O,44.427092,2.412692
+120660100H-5,5,Place du Mansol,12330,Clairvaux-d'Aveyron,C+O,44.426939,2.412519
+120660100H-6,6,Place du Mansol,12330,Clairvaux-d'Aveyron,C+O,44.426968,2.412341
+120660190F-11,11,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.425872,2.407514
+120660190F-1,1,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.427136,2.408923
+120660190F-2,2,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.427121,2.408501
+120660190F-3,3,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.426985,2.408762
+120660190F-4,4,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.427095,2.407794
+120660190F-5,5,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.426638,2.408520
+120660190F-6,6,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.426831,2.407906
+120660190F-7,7,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.426365,2.408102
+120660190F-8,8,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.426533,2.407492
+120660190F-9,9,Rue du Panades,12330,Clairvaux-d'Aveyron,C+O,44.426083,2.408025
+120660195L-1,1,Impasse du Pont,12330,Clairvaux-d'Aveyron,C+O,44.426320,2.412801
+120660195L-3,3,Impasse du Pont,12330,Clairvaux-d'Aveyron,C+O,44.426423,2.412703
+120660200S-1,1,Rue du Porche,12330,Clairvaux-d'Aveyron,C+O,44.427543,2.411522
+120660200S-2,2,Rue du Porche,12330,Clairvaux-d'Aveyron,C+O,44.427467,2.411655
+120660205X-1,1,Impasse du Prieure,12330,Clairvaux-d'Aveyron,C+O,44.427628,2.412371
+120660250W-1,1,Place Saint-Blaise,12330,Clairvaux-d'Aveyron,C+O,44.427298,2.411868
+120660250W-2,2,Place Saint-Blaise,12330,Clairvaux-d'Aveyron,C+O,44.427600,2.411776
 120660275Y-10,10,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426886,2.411854
 120660275Y-11,11,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.427541,2.410395
 120660275Y-1,1,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426600,2.412088
@@ -6014,86 +6014,86 @@
 120660275Y-40,40,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.427445,2.411039
 120660275Y-42,42,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.427599,2.411081
 120660275Y-4,4,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426821,2.412199
-120660275Y-5,5,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426913,2.410527
+120660275Y-5,5,Avenue de la Tour,12330,Clairvaux-d'Aveyron,OSM,44.426871,2.410470
 120660275Y-6,6,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426866,2.412033
 120660275Y-7,7,Avenue de la Tour,12330,Clairvaux-d'Aveyron,OSM,44.427365,2.410420
 120660275Y-8,8,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426914,2.411970
 120660275Y-9,9,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.427437,2.410468
-120660295V-10,10,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428478,2.411740
-120660295V-11,11,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.430862,2.411537
-120660295V-1,1,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428037,2.410971
-120660295V-12,12,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428650,2.411677
-120660295V-13,13,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.431103,2.411587
-120660295V-14,14,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.429153,2.411845
-120660295V-15,15,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.431834,2.411774
-120660295V-16,16,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.431232,2.412170
-120660295V-17,17,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432069,2.411436
-120660295V-18,18,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.431452,2.412395
-120660295V-20,20,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.431742,2.412762
-120660295V-21,21,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432137,2.411962
-120660295V-21B,21BIS,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432344,2.411992
-120660295V-22,22,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432255,2.412483
-120660295V-2,2,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428065,2.411271
-120660295V-23,23,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.433274,2.412355
-120660295V-24,24,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432465,2.412737
-120660295V-26,26,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432385,2.413334
-120660295V-28,28,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432610,2.413611
-120660295V-30,30,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.432808,2.413388
-120660295V-3,3,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428296,2.411129
-120660295V-4,4,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428113,2.411368
-120660295V-5,5,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428565,2.411272
-120660295V-6,6,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428291,2.411688
-120660295V-7,7,Rue de la vallée,12330,Clairvaux-d'Aveyron,OSM,44.428774,2.411400
-120660295V-8,8,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.428399,2.411624
-120660295V-9,9,Rue de la Vallee,12330,Clairvaux-d'Aveyron,CAD,44.430491,2.410977
-120660300A-2,2,Rue du Vieux Pont,12330,Clairvaux-d'Aveyron,CAD,44.426838,2.412580
-120660300A-4,4,Rue du Vieux Pont,12330,Clairvaux-d'Aveyron,CAD,44.426838,2.412440
-120660300A-6,6,Rue du Vieux Pont,12330,Clairvaux-d'Aveyron,CAD,44.426875,2.412330
-120660301B-1,1,Rue Vieille,12330,Clairvaux-d'Aveyron,CAD,44.426987,2.411540
-120660301B-14,14,Rue Vieille,12330,Clairvaux-d'Aveyron,CAD,44.427250,2.411465
-120660301B-16,16,Rue Vieille,12330,Clairvaux-d'Aveyron,CAD,44.427232,2.411343
-120660301B-2,2,Rue Vieille,12330,Clairvaux-d'Aveyron,CAD,44.426899,2.412217
-120660301B-4,4,Rue Vieille,12330,Clairvaux-d'Aveyron,CAD,44.426980,2.412153
-120660301B-8,8,Rue Vieille,12330,Clairvaux-d'Aveyron,CAD,44.427127,2.411911
-120660302C-10,10,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.428006,2.410346
-120660302C-1,1,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.427742,2.410711
-120660302C-12,12,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.428123,2.410214
-120660302C-14,14,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.428136,2.410025
-120660302C-16,16,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.428291,2.409771
-120660302C-18,18,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.429286,2.409223
-120660302C-2,2,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.427909,2.410815
-120660302C-3,3,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.427788,2.410429
-120660302C-4,4,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.427967,2.410688
-120660302C-5,5,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.427614,2.409876
-120660302C-6,6,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.427941,2.410556
-120660302C-7,7,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.428028,2.409805
-120660302C-8,8,Rue des Vignes,12330,Clairvaux-d'Aveyron,CAD,44.428186,2.410451
-12066A002W-1,1,Cite de l'Ady,12330,Clairvaux-d'Aveyron,CAD,44.428755,2.412015
-12066A002W-2,2,Cite de l'Ady,12330,Clairvaux-d'Aveyron,CAD,44.428837,2.412363
-12066A002W-3,3,Cite de l'Ady,12330,Clairvaux-d'Aveyron,CAD,44.428839,2.412990
-12066A003X-10,10,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430702,2.409788
-12066A003X-11,11,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430487,2.410278
-12066A003X-1,1,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431310,2.411240
-12066A003X-12,12,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430887,2.409807
-12066A003X-13,13,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430278,2.409922
-12066A003X-15,15,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430022,2.409719
-12066A003X-16,16,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431452,2.409889
-12066A003X-17,17,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.429807,2.409786
-12066A003X-18,18,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431542,2.409655
-12066A003X-19,19,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.429612,2.408831
-12066A003X-20,20,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431290,2.409557
-12066A003X-21,21,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430987,2.408519
-12066A003X-22,22,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.432123,2.409322
-12066A003X-23,23,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431070,2.408702
-12066A003X-24,24,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431973,2.409007
-12066A003X-25,25,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431230,2.409017
-12066A003X-3,3,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.431270,2.411011
-12066A003X-4,4,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430131,2.409282
-12066A003X-5,5,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430772,2.410737
-12066A003X-6,6,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430358,2.409535
-12066A003X-7,7,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430957,2.410566
-12066A003X-8,8,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430537,2.409508
-12066A003X-9,9,Cite Les Bruyeres,12330,Clairvaux-d'Aveyron,CAD,44.430628,2.410319
+120660295V-10,10,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428478,2.411740
+120660295V-11,11,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.430862,2.411537
+120660295V-1,1,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428037,2.410971
+120660295V-12,12,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428650,2.411677
+120660295V-13,13,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.431103,2.411587
+120660295V-14,14,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.429153,2.411845
+120660295V-15,15,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.431834,2.411774
+120660295V-16,16,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.431232,2.412170
+120660295V-17,17,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432069,2.411436
+120660295V-18,18,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.431452,2.412395
+120660295V-20,20,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.431742,2.412762
+120660295V-21,21,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432137,2.411962
+120660295V-21B,21BIS,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432344,2.411992
+120660295V-22,22,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432255,2.412483
+120660295V-2,2,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428065,2.411271
+120660295V-23,23,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.433274,2.412355
+120660295V-24,24,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432465,2.412737
+120660295V-26,26,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432385,2.413334
+120660295V-28,28,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432610,2.413611
+120660295V-30,30,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.432808,2.413388
+120660295V-3,3,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428296,2.411129
+120660295V-4,4,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428113,2.411368
+120660295V-5,5,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428565,2.411272
+120660295V-6,6,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428291,2.411688
+120660295V-7,7,Rue de la Vallée,12330,Clairvaux-d'Aveyron,OSM,44.428774,2.411400
+120660295V-8,8,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.428399,2.411624
+120660295V-9,9,Rue de la Vallée,12330,Clairvaux-d'Aveyron,C+O,44.430491,2.410977
+120660300A-2,2,Rue du Vieux Pont,12330,Clairvaux-d'Aveyron,C+O,44.426838,2.412580
+120660300A-4,4,Rue du Vieux Pont,12330,Clairvaux-d'Aveyron,C+O,44.426838,2.412440
+120660300A-6,6,Rue du Vieux Pont,12330,Clairvaux-d'Aveyron,C+O,44.426875,2.412330
+120660301B-1,1,Rue Vieille,12330,Clairvaux-d'Aveyron,C+O,44.426987,2.411540
+120660301B-14,14,Rue Vieille,12330,Clairvaux-d'Aveyron,C+O,44.427250,2.411465
+120660301B-16,16,Rue Vieille,12330,Clairvaux-d'Aveyron,C+O,44.427232,2.411343
+120660301B-2,2,Rue Vieille,12330,Clairvaux-d'Aveyron,C+O,44.426899,2.412217
+120660301B-4,4,Rue Vieille,12330,Clairvaux-d'Aveyron,C+O,44.426980,2.412153
+120660301B-8,8,Rue Vieille,12330,Clairvaux-d'Aveyron,C+O,44.427127,2.411911
+120660302C-10,10,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.428006,2.410346
+120660302C-1,1,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.427742,2.410711
+120660302C-12,12,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.428123,2.410214
+120660302C-14,14,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.428136,2.410025
+120660302C-16,16,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.428291,2.409771
+120660302C-18,18,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.429286,2.409223
+120660302C-2,2,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.427909,2.410815
+120660302C-3,3,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.427788,2.410429
+120660302C-4,4,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.427967,2.410688
+120660302C-5,5,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.427614,2.409876
+120660302C-6,6,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.427941,2.410556
+120660302C-7,7,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.428028,2.409805
+120660302C-8,8,Rue des Vignes,12330,Clairvaux-d'Aveyron,C+O,44.428186,2.410451
+12066A002W-1,1,Cité de l'Ady,12330,Clairvaux-d'Aveyron,C+O,44.428755,2.412015
+12066A002W-2,2,Cité de l'Ady,12330,Clairvaux-d'Aveyron,C+O,44.428837,2.412363
+12066A002W-3,3,Cité de l'Ady,12330,Clairvaux-d'Aveyron,C+O,44.428839,2.412990
+12066A003X-10,10,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430702,2.409788
+12066A003X-11,11,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430487,2.410278
+12066A003X-1,1,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431310,2.411240
+12066A003X-12,12,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430887,2.409807
+12066A003X-13,13,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430278,2.409922
+12066A003X-15,15,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430022,2.409719
+12066A003X-16,16,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431452,2.409889
+12066A003X-17,17,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.429807,2.409786
+12066A003X-18,18,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431542,2.409655
+12066A003X-19,19,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.429612,2.408831
+12066A003X-20,20,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431290,2.409557
+12066A003X-21,21,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430987,2.408519
+12066A003X-22,22,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.432123,2.409322
+12066A003X-23,23,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431070,2.408702
+12066A003X-24,24,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431973,2.409007
+12066A003X-25,25,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431230,2.409017
+12066A003X-3,3,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.431270,2.411011
+12066A003X-4,4,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430131,2.409282
+12066A003X-5,5,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430772,2.410737
+12066A003X-6,6,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430358,2.409535
+12066A003X-7,7,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430957,2.410566
+12066A003X-8,8,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430537,2.409508
+12066A003X-9,9,Cité Les Bruyères,12330,Clairvaux-d'Aveyron,C+O,44.430628,2.410319
 120730020R-1,1,Rue du Balat,12120,Comps-la-Grand-Ville,OSM,44.231201,2.566731
 120730020R-2,2,Rue du Balat,12120,Comps-la-Grand-Ville,OSM,44.231100,2.566428
 120730020R-3,3,Rue du Balat,12120,Comps-la-Grand-Ville,OSM,44.230978,2.566636
@@ -7042,7 +7042,7 @@
 120890180V-14,14,Avenue Cabrol,12300,Decazeville,C+O,44.559263,2.252970
 120890180V-14B,14BIS,Avenue Cabrol,12300,Decazeville,C+O,44.559242,2.253027
 120890180V-15,15,Avenue Cabrol,12300,Decazeville,C+O,44.559464,2.252720
-120890180V-17,17,Avenue Cabrol,12300,Decazeville,OSM,44.559610,2.253193
+120890180V-17,17,Avenue Cabrol,12300,Decazeville,OSM,44.559455,2.253668
 120890180V-2,2,Avenue Cabrol,12300,Decazeville,C+O,44.559742,2.251661
 120890180V-3,3,Avenue Cabrol,12300,Decazeville,C+O,44.559719,2.252010
 120890180V-4,4,Avenue Cabrol,12300,Decazeville,C+O,44.559629,2.251970
@@ -10585,7 +10585,7 @@
 120960540F-23,23,Boulevard de Guizard,12500,Espalion,C+O,44.524209,2.764371
 120960540F-24,24,Boulevard de Guizard,12500,Espalion,C+O,44.524227,2.764600
 120960540F-26,26,Boulevard de Guizard,12500,Espalion,C+O,44.524296,2.764738
-120960540F-27,27,Boulevard de Guizard,12500,Espalion,OSM,44.524388,2.764508
+120960540F-27,27,Boulevard de Guizard,12500,Espalion,OSM,44.524352,2.764479
 120960540F-28,28,Boulevard de Guizard,12500,Espalion,OSM,44.524353,2.764977
 120960540F-29,29,Boulevard de Guizard,12500,Espalion,OSM,44.524518,2.764717
 120960540F-30,30,Boulevard de Guizard,12500,Espalion,C+O,44.524415,2.765129
@@ -11032,39 +11032,39 @@
 120960960M-11,11,Ruelle du Plo,12500,Espalion,CAD,44.521059,2.763595
 120960960M-7,7,Ruelle du Plo,12500,Espalion,CAD,44.521060,2.763525
 120960960M-9,9,Ruelle du Plo,12500,Espalion,CAD,44.521029,2.763536
-120960980J-12,12,Rue du Plô,12500,Espalion,C+O,44.521256,2.763296
-120960980J-13,13,Rue du Plô,12500,Espalion,C+O,44.521080,2.763397
-120960980J-14,14,Rue du Plô,12500,Espalion,C+O,44.521137,2.763307
-120960980J-15,15,Rue du Plô,12500,Espalion,C+O,44.521058,2.763362
-120960980J-17,17,Rue du Plô,12500,Espalion,C+O,44.521030,2.763330
-120960980J-18,18,Rue du Plô,12500,Espalion,C+O,44.521074,2.763237
-120960980J-19,19,Rue du Plô,12500,Espalion,C+O,44.520996,2.763281
-120960980J-19B,19BIS,Rue du Plô,12500,Espalion,C+O,44.520819,2.763309
-120960980J-19T,19TER,Rue du Plô,12500,Espalion,C+O,44.520921,2.763441
-120960980J-20,20,Rue du Plô,12500,Espalion,C+O,44.521040,2.763197
-120960980J-21,21,Rue du Plô,12500,Espalion,C+O,44.520967,2.763233
-120960980J-22,22,Rue du Plô,12500,Espalion,C+O,44.521015,2.763167
-120960980J-23,23,Rue du Plô,12500,Espalion,C+O,44.520931,2.763173
-120960980J-24,24,Rue du Plô,12500,Espalion,C+O,44.520955,2.763092
-120960980J-25,25,Rue du Plô,12500,Espalion,C+O,44.520855,2.763264
-120960980J-25B,25BIS,Rue du Plô,12500,Espalion,C+O,44.520801,2.763345
-120960980J-25T,25TER,Rue du Plô,12500,Espalion,C+O,44.520916,2.763195
-120960980J-26,26,Rue du Plô,12500,Espalion,C+O,44.520933,2.763063
-120960980J-27,27,Rue du Plô,12500,Espalion,C+O,44.520884,2.763096
-120960980J-28,28,Rue du Plô,12500,Espalion,C+O,44.520890,2.762998
-120960980J-28A,28A,Rue du Plô,12500,Espalion,C+O,44.520979,2.762970
-120960980J-29,29,Rue du Plô,12500,Espalion,C+O,44.520850,2.763038
-120960980J-31,31,Rue du Plô,12500,Espalion,C+O,44.520817,2.762983
-120960980J-32,32,Rue du Plô,12500,Espalion,C+O,44.520846,2.762925
-120960980J-33,33,Rue du Plô,12500,Espalion,C+O,44.520737,2.763063
-120960980J-35,35,Rue du Plô,12500,Espalion,C+O,44.520762,2.762889
-120960980J-37,37,Rue du Plô,12500,Espalion,C+O,44.520695,2.762871
-120960980J-39,39,Rue du Plô,12500,Espalion,C+O,44.520687,2.762766
-120960980J-41,41,Rue du Plô,12500,Espalion,C+O,44.520632,2.762725
-120960980J-43,43,Rue du Plô,12500,Espalion,C+O,44.520587,2.762700
-120960980J-45,45,Rue du Plô,12500,Espalion,C+O,44.520542,2.762713
-120960980J-5,5,Rue du Plô,12500,Espalion,C+O,44.521127,2.763454
-120960980J-7,7,Rue du Plô,12500,Espalion,C+O,44.521060,2.763525
+120960980J-12,12,Rue du Plo,12500,Espalion,C+O,44.521256,2.763296
+120960980J-13,13,Rue du Plo,12500,Espalion,C+O,44.521080,2.763397
+120960980J-14,14,Rue du Plo,12500,Espalion,C+O,44.521137,2.763307
+120960980J-15,15,Rue du Plo,12500,Espalion,C+O,44.521058,2.763362
+120960980J-17,17,Rue du Plo,12500,Espalion,C+O,44.521030,2.763330
+120960980J-18,18,Rue du Plo,12500,Espalion,C+O,44.521074,2.763237
+120960980J-19,19,Rue du Plo,12500,Espalion,C+O,44.520996,2.763281
+120960980J-19B,19BIS,Rue du Plo,12500,Espalion,C+O,44.520819,2.763309
+120960980J-19T,19TER,Rue du Plo,12500,Espalion,C+O,44.520921,2.763441
+120960980J-20,20,Rue du Plo,12500,Espalion,C+O,44.521040,2.763197
+120960980J-21,21,Rue du Plo,12500,Espalion,C+O,44.520967,2.763233
+120960980J-22,22,Rue du Plo,12500,Espalion,C+O,44.521015,2.763167
+120960980J-23,23,Rue du Plo,12500,Espalion,C+O,44.520931,2.763173
+120960980J-24,24,Rue du Plo,12500,Espalion,C+O,44.520955,2.763092
+120960980J-25,25,Rue du Plo,12500,Espalion,C+O,44.520855,2.763264
+120960980J-25B,25BIS,Rue du Plo,12500,Espalion,C+O,44.520801,2.763345
+120960980J-25T,25TER,Rue du Plo,12500,Espalion,C+O,44.520916,2.763195
+120960980J-26,26,Rue du Plo,12500,Espalion,C+O,44.520933,2.763063
+120960980J-27,27,Rue du Plo,12500,Espalion,C+O,44.520884,2.763096
+120960980J-28,28,Rue du Plo,12500,Espalion,C+O,44.520890,2.762998
+120960980J-28A,28A,Rue du Plo,12500,Espalion,C+O,44.520979,2.762970
+120960980J-29,29,Rue du Plo,12500,Espalion,C+O,44.520850,2.763038
+120960980J-31,31,Rue du Plo,12500,Espalion,C+O,44.520817,2.762983
+120960980J-32,32,Rue du Plo,12500,Espalion,C+O,44.520846,2.762925
+120960980J-33,33,Rue du Plo,12500,Espalion,C+O,44.520737,2.763063
+120960980J-35,35,Rue du Plo,12500,Espalion,C+O,44.520762,2.762889
+120960980J-37,37,Rue du Plo,12500,Espalion,C+O,44.520695,2.762871
+120960980J-39,39,Rue du Plo,12500,Espalion,C+O,44.520687,2.762766
+120960980J-41,41,Rue du Plo,12500,Espalion,C+O,44.520632,2.762725
+120960980J-43,43,Rue du Plo,12500,Espalion,C+O,44.520587,2.762700
+120960980J-45,45,Rue du Plo,12500,Espalion,C+O,44.520542,2.762713
+120960980J-5,5,Rue du Plo,12500,Espalion,C+O,44.521127,2.763454
+120960980J-7,7,Rue du Plo,12500,Espalion,C+O,44.521060,2.763525
 120960985P-1,1,Impasse du Porche,12500,Espalion,CAD,44.517608,2.746837
 120960985P-3,3,Impasse du Porche,12500,Espalion,CAD,44.517759,2.746890
 120960985P-4,4,Impasse du Porche,12500,Espalion,CAD,44.517797,2.746984
@@ -12504,7 +12504,7 @@
 121010225S-79,79,Chemin du Vigne - Agnac,12300,Flagnac,CAD,44.568907,2.278861
 121020005Y-1,1,Passage des Artisans,12450,Flavin,CAD,44.289386,2.605087
 121020008B-10,10,Avenue de la Baraque,12450,Flavin,OSM,44.288136,2.605727
-121020008B-11,11,Avenue de la Baraque,12450,Flavin,OSM,44.287927,2.604669
+121020008B-11,11,Avenue de la Baraque,12450,Flavin,OSM,44.287745,2.603853
 121020008B-1,1,Avenue de la Baraque,12450,Flavin,C+O,44.286587,2.606288
 121020008B-12,12,Avenue de la Baraque,12450,Flavin,OSM,44.288281,2.605664
 121020008B-13,13,Avenue de la Baraque,12450,Flavin,OSM,44.288242,2.605204
@@ -12545,7 +12545,7 @@
 121020022S-12,12,Avenue du Centre,12450,Flavin,OSM,44.288606,2.605075
 121020022S-2,2,Avenue du Centre,12450,Flavin,OSM,44.289308,2.604131
 121020022S-3,3,Avenue du Centre,12450,Flavin,OSM,44.289398,2.604658
-121020022S-5,5,Avenue du Centre,12450,Flavin,OSM,44.289161,2.604814
+121020022S-5,5,Avenue du Centre,12450,Flavin,OSM,44.289215,2.604790
 121020022S-8,8,Avenue du Centre,12450,Flavin,OSM,44.288889,2.604695
 121020023T-10,10,Cité du Centre,12450,Flavin,OSM,44.288738,2.603448
 121020023T-1,1,Cité du Centre,12450,Flavin,OSM,44.289023,2.603737
@@ -12592,7 +12592,7 @@
 121020027X-20,20,Cité la Croix de Laumet,12450,Flavin,OSM,44.287747,2.599513
 121020027X-21,21,Cité la Croix de Laumet,12450,Flavin,OSM,44.287849,2.599584
 121020027X-22,22,Cité la Croix de Laumet,12450,Flavin,OSM,44.287939,2.599261
-121020027X-2,2,Cité la Croix de Laumet,12450,Flavin,OSM,44.287743,2.600661
+121020027X-2,2,Cité la Croix de Laumet,12450,Flavin,OSM,44.288100,2.599826
 121020027X-23,23,Cité la Croix de Laumet,12450,Flavin,OSM,44.287978,2.599140
 121020027X-24,24,Cité la Croix de Laumet,12450,Flavin,OSM,44.288316,2.599335
 121020027X-25,25,Cité la Croix de Laumet,12450,Flavin,OSM,44.288278,2.599461
@@ -13063,22 +13063,22 @@
 121050123N-4,4,Rue des Fauvettes,12270,La Fouillade,C+O,44.233454,2.029158
 121050123N-6,6,Rue des Fauvettes,12270,La Fouillade,C+O,44.233796,2.029036
 121050125R-1,1,Caminol de la Font,12270,La Fouillade,CAD,44.229550,2.040470
-121050130W-10,10,Rue des Frênes,12270,La Fouillade,C+O,44.231989,2.046797
-121050130W-11,11,Rue des Frênes,12270,La Fouillade,C+O,44.232468,2.046888
-121050130W-1,1,Rue des Frênes,12270,La Fouillade,C+O,44.232264,2.044469
-121050130W-12,12,Rue des Frênes,12270,La Fouillade,C+O,44.231884,2.047152
-121050130W-13,13,Rue des Frênes,12270,La Fouillade,C+O,44.232201,2.046974
-121050130W-14,14,Rue des Frênes,12270,La Fouillade,C+O,44.231779,2.047449
-121050130W-15,15,Rue des Frênes,12270,La Fouillade,C+O,44.232003,2.047200
-121050130W-17,17,Rue des Frênes,12270,La Fouillade,C+O,44.231834,2.047516
-121050130W-2,2,Rue des Frênes,12270,La Fouillade,C+O,44.232369,2.045268
-121050130W-3,3,Rue des Frênes,12270,La Fouillade,C+O,44.233895,2.044225
-121050130W-4,4,Rue des Frênes,12270,La Fouillade,C+O,44.232289,2.045904
-121050130W-5,5,Rue des Frênes,12270,La Fouillade,C+O,44.232327,2.045980
-121050130W-6,6,Rue des Frênes,12270,La Fouillade,C+O,44.232236,2.046174
-121050130W-7,7,Rue des Frênes,12270,La Fouillade,C+O,44.232357,2.046314
-121050130W-8,8,Rue des Frênes,12270,La Fouillade,C+O,44.232035,2.046434
-121050130W-9,9,Rue des Frênes,12270,La Fouillade,C+O,44.232415,2.046599
+121050130W-10,10,Rue des Frénes,12270,La Fouillade,C+O,44.231989,2.046797
+121050130W-11,11,Rue des Frénes,12270,La Fouillade,C+O,44.232468,2.046888
+121050130W-1,1,Rue des Frénes,12270,La Fouillade,C+O,44.232264,2.044469
+121050130W-12,12,Rue des Frénes,12270,La Fouillade,C+O,44.231884,2.047152
+121050130W-13,13,Rue des Frénes,12270,La Fouillade,C+O,44.232201,2.046974
+121050130W-14,14,Rue des Frénes,12270,La Fouillade,C+O,44.231779,2.047449
+121050130W-15,15,Rue des Frénes,12270,La Fouillade,C+O,44.232003,2.047200
+121050130W-17,17,Rue des Frénes,12270,La Fouillade,C+O,44.231834,2.047516
+121050130W-2,2,Rue des Frénes,12270,La Fouillade,C+O,44.232369,2.045268
+121050130W-3,3,Rue des Frénes,12270,La Fouillade,C+O,44.233895,2.044225
+121050130W-4,4,Rue des Frénes,12270,La Fouillade,C+O,44.232289,2.045904
+121050130W-5,5,Rue des Frénes,12270,La Fouillade,C+O,44.232327,2.045980
+121050130W-6,6,Rue des Frénes,12270,La Fouillade,C+O,44.232236,2.046174
+121050130W-7,7,Rue des Frénes,12270,La Fouillade,C+O,44.232357,2.046314
+121050130W-8,8,Rue des Frénes,12270,La Fouillade,C+O,44.232035,2.046434
+121050130W-9,9,Rue des Frénes,12270,La Fouillade,C+O,44.232415,2.046599
 121050140G-2,2,Rue des Genêts,12270,La Fouillade,C+O,44.227267,2.036289
 121050140G-4,4,Rue des Genêts,12270,La Fouillade,C+O,44.227212,2.036821
 121050140G-6,6,Rue des Genêts,12270,La Fouillade,C+O,44.226667,2.036269
@@ -13135,7 +13135,7 @@
 121050173T-4,4,Rue du Levant,12270,La Fouillade,C+O,44.238176,2.033303
 121050173T-5,5,Rue du Levant,12270,La Fouillade,C+O,44.236900,2.032651
 121050173T-6,6,Rue du Levant,12270,La Fouillade,C+O,44.238041,2.033149
-121050173T-7,7,Rue du Levant,12270,La Fouillade,OSM,44.237177,2.032541
+121050173T-7,7,Rue du Levant,12270,La Fouillade,OSM,44.237142,2.032691
 121050173T-8,8,Rue du Levant,12270,La Fouillade,C+O,44.237551,2.032443
 121050173T-9,9,Rue du Levant,12270,La Fouillade,C+O,44.237405,2.032465
 121050175V-1,1,Rue des Lilas,12270,La Fouillade,C+O,44.227129,2.037685
@@ -13586,14 +13586,14 @@
 121190012G-13,13,Allée Amicale,12210,Laguiole,OSM,44.684183,2.847948
 121190012G-15,15,Allée Amicale,12210,Laguiole,OSM,44.684164,2.848096
 121190012G-16,16,Allée Amicale,12210,Laguiole,C+O,44.683219,2.850302
-121190012G-17,17,Allée Amicale,12210,Laguiole,OSM,44.684242,2.848318
+121190012G-17,17,Allée Amicale,12210,Laguiole,OSM,44.684072,2.848366
 121190012G-18,18,Allée Amicale,12210,Laguiole,C+O,44.683167,2.850456
 121190012G-19,19,Allée Amicale,12210,Laguiole,OSM,44.684130,2.848399
 121190012G-20,20,Allée Amicale,12210,Laguiole,C+O,44.683085,2.850675
 121190012G-21,21,Allée Amicale,12210,Laguiole,OSM,44.683983,2.848590
 121190012G-22,22,Allée Amicale,12210,Laguiole,C+O,44.683026,2.850790
 121190012G-2,2,Allée Amicale,12210,Laguiole,OSM,44.684054,2.847324
-121190012G-23,23,Allée Amicale,12210,Laguiole,OSM,44.683858,2.848970
+121190012G-23,23,Allée Amicale,12210,Laguiole,OSM,44.683869,2.848919
 121190012G-25,25,Allée Amicale,12210,Laguiole,OSM,44.683736,2.849426
 121190012G-27,27,Allée Amicale,12210,Laguiole,OSM,44.683658,2.849610
 121190012G-29,29,Allée Amicale,12210,Laguiole,OSM,44.683574,2.849740
@@ -14336,7 +14336,7 @@
 121200057B-319,319,Avenue de Sévérac,12310,Laissac,C+O,44.379769,2.828206
 121200057B-32,32,Avenue de Sévérac,12310,Laissac,C+O,44.380784,2.825001
 121200057B-33,33,Avenue de Sévérac,12310,Laissac,OSM,44.381020,2.823778
-121200057B-35,35,Avenue de Sévérac,12310,Laissac,OSM,44.381074,2.823281
+121200057B-35,35,Avenue de Sévérac,12310,Laissac,OSM,44.381081,2.823657
 121200057B-38,38,Avenue de Sévérac,12310,Laissac,C+O,44.380769,2.825096
 121200057B-39,39,Avenue de Sévérac,12310,Laissac,C+O,44.380848,2.825117
 121200057B-401,401,Avenue de Sévérac,12310,Laissac,C+O,44.379339,2.828902
@@ -15531,7 +15531,7 @@
 121330099R-8,8,Rue Brienne,12450,Luc-la-Primaube,C+O,44.312744,2.533579
 121330099R-9,9,Rue Brienne,12450,Luc-la-Primaube,C+O,44.313346,2.533208
 121330100S-11,11,Rue des Bucherons,12450,Luc-la-Primaube,OSM,44.294559,2.560538
-121330100S-1,1,Rue des Bucherons,12450,Luc-la-Primaube,OSM,44.294285,2.559813
+121330100S-1,1,Rue des Bucherons,12450,Luc-la-Primaube,OSM,44.294183,2.559750
 121330100S-13,13,Rue des Bucherons,12450,Luc-la-Primaube,OSM,44.294680,2.560868
 121330100S-15,15,Rue des Bucherons,12450,Luc-la-Primaube,C+O,44.294691,2.561300
 121330100S-2,2,Rue des Bucherons,12450,Luc-la-Primaube,C+O,44.294467,2.561140
@@ -15570,7 +15570,7 @@
 121330123S-25,25,Rue de la Fontaine,12450,Luc-la-Primaube,C+O,44.314803,2.539226
 121330123S-3,3,Rue de la Fontaine,12450,Luc-la-Primaube,C+O,44.314647,2.540111
 121330123S-4,4,Rue de la Fontaine,12450,Luc-la-Primaube,C+O,44.315447,2.540913
-121330123S-5,5,Rue de la Fontaine,12450,Luc-la-Primaube,OSM,44.314819,2.540240
+121330123S-5,5,Rue de la Fontaine,12450,Luc-la-Primaube,OSM,44.314842,2.540281
 121330123S-6,6,Rue de la Fontaine,12450,Luc-la-Primaube,C+O,44.315515,2.540986
 121330123S-7,7,Rue de la Fontaine,12450,Luc-la-Primaube,C+O,44.314882,2.540522
 121330123S-8,8,Rue de la Fontaine,12450,Luc-la-Primaube,C+O,44.315652,2.540817
@@ -15850,21 +15850,21 @@
 121330207H-8,8,Rue de l'Esplanade,12450,Luc-la-Primaube,C+O,44.288843,2.559157
 121330209K-10,10,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293017,2.561420
 121330209K-12,12,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293111,2.561445
-121330209K-14,14,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293025,2.561422
+121330209K-14,14,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293190,2.561465
 121330209K-16,16,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293281,2.561489
 121330209K-18,18,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293371,2.561510
 121330209K-20,20,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293453,2.561530
 121330209K-22,22,Place de l'Étoile,12450,Luc-la-Primaube,C+O,44.293741,2.561821
-121330209K-2,2,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.292715,2.560303
-121330209K-24,24,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293654,2.561341
+121330209K-2,2,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.292720,2.560313
+121330209K-24,24,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293660,2.561342
 121330209K-26,26,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293670,2.561219
-121330209K-28,28,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293691,2.561091
+121330209K-28,28,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293692,2.561102
 121330209K-30,30,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293708,2.560977
-121330209K-32,32,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293726,2.560853
+121330209K-32,32,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293723,2.560881
 121330209K-34,34,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293741,2.560726
 121330209K-36,36,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293725,2.560554
 121330209K-40,40,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.293740,2.560411
-121330209K-4,4,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.292730,2.560641
+121330209K-4,4,Place de l'Étoile,12450,Luc-la-Primaube,OSM,44.292801,2.560783
 121330209K-6,6,Place de l'Étoile,12450,Luc-la-Primaube,C+O,44.292642,2.561203
 121330209K-8,8,Place de l'Étoile,12450,Luc-la-Primaube,C+O,44.292915,2.561275
 121330210L-12,12,Rue de l'Etoile,12450,Luc-la-Primaube,CAD,44.293081,2.561620
@@ -16464,7 +16464,7 @@
 121330360Z-13,13,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294158,2.558662
 121330360Z-135,135,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.304830,2.557001
 121330360Z-138,138,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.304620,2.557176
-121330360Z-14,14,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294435,2.559375
+121330360Z-14,14,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294462,2.559407
 121330360Z-143,143,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.305069,2.557022
 121330360Z-144,144,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.305109,2.557260
 121330360Z-145,145,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.305367,2.557075
@@ -16480,7 +16480,7 @@
 121330360Z-176,176,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.316677,2.559221
 121330360Z-18,18,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294844,2.558987
 121330360Z-189,189,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.309128,2.557407
-121330360Z-19,19,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294800,2.558422
+121330360Z-19,19,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294826,2.558484
 121330360Z-193,193,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.309562,2.557436
 121330360Z-194,194,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.309572,2.557589
 121330360Z-197,197,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.309992,2.557408
@@ -16495,7 +16495,7 @@
 121330360Z-208,208,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.310822,2.557686
 121330360Z-209,209,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.310833,2.557505
 121330360Z-211,211,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.311072,2.557524
-121330360Z-21,21,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294893,2.558338
+121330360Z-21,21,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.294912,2.558455
 121330360Z-213,213,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.311300,2.557540
 121330360Z-214,214,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.311324,2.557721
 121330360Z-217,217,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.311869,2.557509
@@ -16506,7 +16506,7 @@
 121330360Z-224,224,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.312299,2.557773
 121330360Z-226,226,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.312499,2.557787
 121330360Z-231,231,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.312906,2.557375
-121330360Z-23,23,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.295183,2.558183
+121330360Z-23,23,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.295188,2.558332
 121330360Z-233,233,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.313309,2.557182
 121330360Z-234,234,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.312767,2.557897
 121330360Z-237,237,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.313500,2.557459
@@ -16524,7 +16524,7 @@
 121330360Z-261,261,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.316160,2.557094
 121330360Z-263,263,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.316225,2.557104
 121330360Z-270,270,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.316613,2.558196
-121330360Z-272,272,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.316758,2.558296
+121330360Z-272,272,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.316763,2.558365
 121330360Z-27,27,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.295514,2.558148
 121330360Z-273,273,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.316576,2.557994
 121330360Z-274,274,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.316722,2.558894
@@ -16554,7 +16554,7 @@
 121330360Z-336,336,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.322186,2.559061
 121330360Z-338,338,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.321983,2.560300
 121330360Z-339,339,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.322345,2.558505
-121330360Z-3,3,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.293054,2.559275
+121330360Z-3,3,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.293033,2.559249
 121330360Z-341,341,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.322791,2.558550
 121330360Z-34,34,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.298469,2.557609
 121330360Z-345,345,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.322980,2.558557
@@ -16584,15 +16584,15 @@
 121330360Z-72,72,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.298882,2.557596
 121330360Z-73,73,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.298857,2.556945
 121330360Z-75,75,Avenue de Rodez,12450,Luc-la-Primaube,C+O,44.298952,2.556987
-121330360Z-76,76,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299153,2.557446
-121330360Z-7,7,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.293226,2.559170
+121330360Z-76,76,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299152,2.557441
+121330360Z-7,7,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.293223,2.559165
 121330360Z-79,79,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299388,2.556568
-121330360Z-80,80,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299560,2.557515
+121330360Z-80,80,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299534,2.557407
 121330360Z-81,81,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299372,2.555892
 121330360Z-83,83,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299935,2.555631
 121330360Z-85,85,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.299893,2.555951
 121330360Z-87,87,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.300127,2.556604
-121330360Z-90,90,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.300075,2.557211
+121330360Z-90,90,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.300152,2.557229
 121330360Z-9,9,Avenue de Rodez,12450,Luc-la-Primaube,OSM,44.293735,2.558410
 121330361A-10,10,Rue des Palombes,12450,Luc-la-Primaube,OSM,44.298658,2.559539
 121330361A-11,11,Rue des Palombes,12450,Luc-la-Primaube,OSM,44.298910,2.559834
@@ -18558,7 +18558,7 @@
 121450230F-34,34,Rue Basse,12100,Millau,OSM,44.096365,3.079682
 121450230F-35,35,Rue Basse,12100,Millau,OSM,44.096665,3.080277
 121450230F-36,36,Rue Basse,12100,Millau,OSM,44.096403,3.079781
-121450230F-37,37,Rue Basse,12100,Millau,OSM,44.096883,3.080365
+121450230F-37,37,Rue Basse,12100,Millau,OSM,44.096780,3.080391
 121450230F-37B,37B,Rue Basse,12100,Millau,OSM,44.096700,3.080385
 121450230F-37T,37T,Rue Basse,12100,Millau,OSM,44.096792,3.080222
 121450230F-38,38,Rue Basse,12100,Millau,OSM,44.096380,3.079862
@@ -20300,7 +20300,7 @@
 121450940C-20,20,Rue Droite,12100,Millau,OSM,44.098236,3.078499
 121450940C-21,21,Rue Droite,12100,Millau,OSM,44.098064,3.078383
 121450940C-22,22,Rue Droite,12100,Millau,OSM,44.098246,3.078296
-121450940C-2,2,Rue Droite,12100,Millau,OSM,44.097673,3.080022
+121450940C-2,2,Rue Droite,12100,Millau,OSM,44.097655,3.080114
 121450940C-23,23,Rue Droite,12100,Millau,OSM,44.097987,3.078340
 121450940C-23B,23BIS,Rue Droite,12100,Millau,C+O,44.098011,3.078311
 121450940C-25,25,Rue Droite,12100,Millau,OSM,44.097908,3.078315
@@ -21059,7 +21059,7 @@
 121451335G-3,3,Rue Georges Bizet,12100,Millau,C+O,44.114980,3.082240
 121451335G-41,41,Rue Georges Bizet,12100,Millau,C+O,44.115233,3.082537
 121451335G-42,42,Rue Georges Bizet,12100,Millau,C+O,44.115194,3.082740
-121451336H-150,150,Boulevard Georges Brassens,12100,Millau,OSM,44.116938,3.068596
+121451336H-150,150,Boulevard Georges Brassens,12100,Millau,OSM,44.116875,3.069396
 121451336H-300,300,Boulevard Georges Brassens,12100,Millau,C+O,44.115277,3.070751
 121451336H-327,327,Boulevard Georges Brassens,12100,Millau,C+O,44.115865,3.070596
 121451336H-333,333,Boulevard Georges Brassens,12100,Millau,C+O,44.115473,3.070902
@@ -25969,9 +25969,9 @@
 121570100M-680,680,Route des Barthes,12630,Montrozier,CAD,44.392074,2.694875
 121570100M-920,920,Route des Barthes,12630,Montrozier,CAD,44.391294,2.696129
 121570100M-950,950,Route des Barthes,12630,Montrozier,CAD,44.390734,2.695690
-121570105T-105,105,Chemin de Belle Vue,12630,Montrozier,CAD,44.398944,2.707968
-121570105T-145,145,Chemin de Belle Vue,12630,Montrozier,CAD,44.398501,2.707940
-121570105T-20,20,Chemin de Belle Vue,12630,Montrozier,CAD,44.399542,2.707138
+121570105T-105,105,Chemin de Belle Vue,12630,Montrozier,C+O,44.398944,2.707968
+121570105T-145,145,Chemin de Belle Vue,12630,Montrozier,C+O,44.398501,2.707940
+121570105T-20,20,Chemin de Belle Vue,12630,Montrozier,C+O,44.399542,2.707138
 121570110Y-125,125,Route de Bennac,12630,Montrozier,CAD,44.392902,2.709907
 121570110Y-195,195,Route de Bennac,12630,Montrozier,CAD,44.393485,2.709951
 121570110Y-285,285,Route de Bennac,12630,Montrozier,CAD,44.394753,2.709757
@@ -26031,13 +26031,13 @@
 121570220T-85,85,Route du Château,12630,Montrozier,CAD,44.397464,2.693643
 121570220T-890,890,Route du Château,12630,Montrozier,CAD,44.396966,2.687337
 121570220T-95,95,Route du Château,12630,Montrozier,CAD,44.397845,2.693443
-121570240P-10,10,Chemin de la Combe,12630,Montrozier,CAD,44.400167,2.710255
-121570240P-175,175,Chemin de la Combe,12630,Montrozier,CAD,44.401143,2.709463
-121570240P-20,20,Chemin de la Combe,12630,Montrozier,CAD,44.400331,2.710279
-121570240P-22,22,Chemin de la Combe,12630,Montrozier,CAD,44.400497,2.710875
-121570240P-2,2,Chemin de la Combe,12630,Montrozier,CAD,44.400029,2.710183
-121570240P-40,40,Chemin de la Combe,12630,Montrozier,CAD,44.400500,2.710318
-121570240P-55,55,Chemin de la Combe,12630,Montrozier,CAD,44.400429,2.709744
+121570240P-10,10,Chemin de la Combe,12630,Montrozier,C+O,44.400167,2.710255
+121570240P-175,175,Chemin de la Combe,12630,Montrozier,C+O,44.401143,2.709463
+121570240P-20,20,Chemin de la Combe,12630,Montrozier,C+O,44.400331,2.710279
+121570240P-22,22,Chemin de la Combe,12630,Montrozier,C+O,44.400497,2.710875
+121570240P-2,2,Chemin de la Combe,12630,Montrozier,C+O,44.400029,2.710183
+121570240P-40,40,Chemin de la Combe,12630,Montrozier,C+O,44.400500,2.710318
+121570240P-55,55,Chemin de la Combe,12630,Montrozier,C+O,44.400429,2.709744
 121570250A-135,135,Route du Comtal,12630,Montrozier,CAD,44.398892,2.693760
 121570250A-155,155,Route du Comtal,12630,Montrozier,CAD,44.398876,2.693487
 121570250A-170,170,Route du Comtal,12630,Montrozier,CAD,44.399263,2.693861
@@ -26070,11 +26070,11 @@
 121570260L-385,385,Route du Couderc,12630,Montrozier,CAD,44.395309,2.703842
 121570260L-410,410,Route du Couderc,12630,Montrozier,CAD,44.395040,2.704143
 121570260L-5,5,Route du Couderc,12630,Montrozier,CAD,44.397027,2.700564
-121570300E-25,25,Chemin du Dolmen,12630,Montrozier,CAD,44.398227,2.703288
-121570300E-30,30,Chemin du Dolmen,12630,Montrozier,CAD,44.398382,2.703767
-121570300E-35,35,Chemin du Dolmen,12630,Montrozier,CAD,44.398434,2.703126
-121570300E-70,70,Chemin du Dolmen,12630,Montrozier,CAD,44.398676,2.703661
-121570300E-85,85,Chemin du Dolmen,12630,Montrozier,CAD,44.398558,2.703374
+121570300E-25,25,Chemin du Dolmen,12630,Montrozier,C+O,44.398227,2.703288
+121570300E-30,30,Chemin du Dolmen,12630,Montrozier,C+O,44.398382,2.703767
+121570300E-35,35,Chemin du Dolmen,12630,Montrozier,C+O,44.398434,2.703126
+121570300E-70,70,Chemin du Dolmen,12630,Montrozier,C+O,44.398676,2.703661
+121570300E-85,85,Chemin du Dolmen,12630,Montrozier,C+O,44.398558,2.703374
 121570350J-1,1,Rue des Écoles,12630,Montrozier,C+O,44.394182,2.706699
 121570350J-130,130,Rue des Écoles,12630,Montrozier,C+O,44.395351,2.707544
 121570350J-150,150,Rue des Écoles,12630,Montrozier,C+O,44.395876,2.707664
@@ -26108,9 +26108,9 @@
 121570355P-20,20,Chemin de l'École Primaire,12630,Montrozier,C+O,44.394043,2.707256
 121570355P-75,75,Chemin de l'École Primaire,12630,Montrozier,C+O,44.396153,2.706964
 121570355P-80,80,Chemin de l'École Primaire,12630,Montrozier,C+O,44.396164,2.706404
-121570360V-20,20,Impasse de l'Eglise,12630,Montrozier,CAD,44.394946,2.704569
-121570360V-70,70,Impasse de l'Eglise,12630,Montrozier,CAD,44.395066,2.705077
-121570360V-90,90,Impasse de l'Eglise,12630,Montrozier,CAD,44.395107,2.705729
+121570360V-20,20,Impasse de l'Église,12630,Montrozier,C+O,44.394946,2.704569
+121570360V-70,70,Impasse de l'Église,12630,Montrozier,C+O,44.395066,2.705077
+121570360V-90,90,Impasse de l'Église,12630,Montrozier,C+O,44.395107,2.705729
 121570380S-45,45,Rue de la Garenne,12630,Montrozier,CAD,44.398997,2.694670
 121570380S-60,60,Rue de la Garenne,12630,Montrozier,CAD,44.399038,2.695452
 121570380S-65,65,Rue de la Garenne,12630,Montrozier,CAD,44.399407,2.694640
@@ -26170,18 +26170,18 @@
 121570530E-160,160,Chemin de Plaisance,12630,Montrozier,CAD,44.392596,2.680946
 121570530E-180,180,Chemin de Plaisance,12630,Montrozier,CAD,44.392600,2.681357
 121570530E-200,200,Chemin de Plaisance,12630,Montrozier,CAD,44.392833,2.681271
-121570550B-10,10,Route du Pont Vieux,12630,Montrozier,CAD,44.394437,2.707597
-121570550B-25,25,Route du Pont Vieux,12630,Montrozier,CAD,44.394566,2.707231
-121570550B-275,275,Route du Pont Vieux,12630,Montrozier,CAD,44.396751,2.708050
-121570550B-310,310,Route du Pont Vieux,12630,Montrozier,CAD,44.395886,2.708475
-121570550B-45,45,Route du Pont Vieux,12630,Montrozier,CAD,44.394725,2.707313
-121570550B-455,455,Route du Pont Vieux,12630,Montrozier,CAD,44.398338,2.708712
-121570550B-5,5,Route du Pont Vieux,12630,Montrozier,CAD,44.394300,2.707031
-121570550B-60,60,Route du Pont Vieux,12630,Montrozier,CAD,44.394772,2.707710
-121570550B-65,65,Route du Pont Vieux,12630,Montrozier,CAD,44.394860,2.707409
-121570550B-70,70,Route du Pont Vieux,12630,Montrozier,CAD,44.394900,2.707691
-121570550B-85,85,Route du Pont Vieux,12630,Montrozier,CAD,44.394954,2.707438
-121570550B-95,95,Route du Pont Vieux,12630,Montrozier,CAD,44.395073,2.707502
+121570550B-10,10,Route du Pont Vieux,12630,Montrozier,C+O,44.394437,2.707597
+121570550B-25,25,Route du Pont Vieux,12630,Montrozier,C+O,44.394566,2.707231
+121570550B-275,275,Route du Pont Vieux,12630,Montrozier,C+O,44.396751,2.708050
+121570550B-310,310,Route du Pont Vieux,12630,Montrozier,C+O,44.395886,2.708475
+121570550B-45,45,Route du Pont Vieux,12630,Montrozier,C+O,44.394725,2.707313
+121570550B-455,455,Route du Pont Vieux,12630,Montrozier,C+O,44.398338,2.708712
+121570550B-5,5,Route du Pont Vieux,12630,Montrozier,C+O,44.394300,2.707031
+121570550B-60,60,Route du Pont Vieux,12630,Montrozier,C+O,44.394772,2.707710
+121570550B-65,65,Route du Pont Vieux,12630,Montrozier,C+O,44.394860,2.707409
+121570550B-70,70,Route du Pont Vieux,12630,Montrozier,C+O,44.394900,2.707691
+121570550B-85,85,Route du Pont Vieux,12630,Montrozier,C+O,44.394954,2.707438
+121570550B-95,95,Route du Pont Vieux,12630,Montrozier,C+O,44.395073,2.707502
 121570570Y-145,145,Rue du Puech Lachou,12630,Montrozier,C+O,44.398436,2.698735
 121570570Y-180,180,Rue du Puech Lachou,12630,Montrozier,C+O,44.398701,2.699349
 121570570Y-185,185,Rue du Puech Lachou,12630,Montrozier,C+O,44.398686,2.698457
@@ -26238,10 +26238,10 @@
 121570620C-260,260,Route des Roques,12630,Montrozier,CAD,44.396523,2.693425
 121570620C-375,375,Route des Roques,12630,Montrozier,CAD,44.396223,2.692240
 121570620C-465,465,Route des Roques,12630,Montrozier,CAD,44.395831,2.690865
-121570650K-105,105,Route du Stade,12630,Montrozier,CAD,44.398598,2.697874
-121570650K-145,145,Route du Stade,12630,Montrozier,CAD,44.399001,2.698114
-121570650K-195,195,Route du Stade,12630,Montrozier,CAD,44.399415,2.698087
-121570650K-225,225,Route du Stade,12630,Montrozier,CAD,44.399857,2.698192
+121570650K-105,105,Route du Stade,12630,Montrozier,C+O,44.398598,2.697874
+121570650K-145,145,Route du Stade,12630,Montrozier,C+O,44.399001,2.698114
+121570650K-195,195,Route du Stade,12630,Montrozier,C+O,44.399415,2.698087
+121570650K-225,225,Route du Stade,12630,Montrozier,C+O,44.399857,2.698192
 121570700P-10,10,Rue de la Vitarelle,12630,Montrozier,CAD,44.397352,2.700188
 121570700P-130,130,Rue de la Vitarelle,12630,Montrozier,CAD,44.397719,2.698733
 121570700P-150,150,Rue de la Vitarelle,12630,Montrozier,CAD,44.397721,2.698611
@@ -26260,33 +26260,33 @@
 12157A250V-2,2,Lotissement La Garene,12630,Montrozier,CAD,44.400061,2.692342
 12157A250V-3,3,Lotissement La Garene,12630,Montrozier,CAD,44.399962,2.692730
 12157A250V-4,4,Lotissement La Garene,12630,Montrozier,CAD,44.399669,2.692572
-12157A260F-10,10,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401560,2.706372
-12157A260F-11,11,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401101,2.706172
-12157A260F-1,1,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400153,2.707053
-12157A260F-12,12,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401019,2.705733
-12157A260F-13,13,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400843,2.705494
-12157A260F-14,14,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400549,2.705133
-12157A260F-15,15,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400370,2.704719
-12157A260F-16,16,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400034,2.704834
-12157A260F-17,17,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400245,2.705250
-12157A260F-18,18,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400420,2.705600
-12157A260F-19,19,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400615,2.705932
-12157A260F-20,20,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400886,2.706329
-12157A260F-21,21,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401019,2.706537
-12157A260F-22,22,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401355,2.706708
-12157A260F-2,2,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400576,2.707205
-12157A260F-23,23,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401761,2.706858
-12157A260F-24,24,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401713,2.707218
-12157A260F-25,25,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401345,2.707235
-12157A260F-26,26,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401011,2.707012
-12157A260F-27,27,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400634,2.706821
-12157A260F-3,3,Lotissement Les Genevriers,12630,Montrozier,CAD,44.400882,2.707342
-12157A260F-4,4,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401330,2.707438
-12157A260F-5,5,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401539,2.707565
-12157A260F-6,6,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401797,2.707428
-12157A260F-7,7,Lotissement Les Genevriers,12630,Montrozier,CAD,44.402010,2.707882
-12157A260F-8,8,Lotissement Les Genevriers,12630,Montrozier,CAD,44.402090,2.707375
-12157A260F-9,9,Lotissement Les Genevriers,12630,Montrozier,CAD,44.401878,2.707071
+12157A260F-10,10,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401560,2.706372
+12157A260F-11,11,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401101,2.706172
+12157A260F-1,1,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400153,2.707053
+12157A260F-12,12,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401019,2.705733
+12157A260F-13,13,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400843,2.705494
+12157A260F-14,14,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400549,2.705133
+12157A260F-15,15,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400370,2.704719
+12157A260F-16,16,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400034,2.704834
+12157A260F-17,17,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400245,2.705250
+12157A260F-18,18,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400420,2.705600
+12157A260F-19,19,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400615,2.705932
+12157A260F-20,20,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400886,2.706329
+12157A260F-21,21,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401019,2.706537
+12157A260F-22,22,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401355,2.706708
+12157A260F-2,2,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400576,2.707205
+12157A260F-23,23,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401761,2.706858
+12157A260F-24,24,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401713,2.707218
+12157A260F-25,25,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401345,2.707235
+12157A260F-26,26,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401011,2.707012
+12157A260F-27,27,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400634,2.706821
+12157A260F-3,3,Lotissement Les Genévriers,12630,Montrozier,C+O,44.400882,2.707342
+12157A260F-4,4,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401330,2.707438
+12157A260F-5,5,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401539,2.707565
+12157A260F-6,6,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401797,2.707428
+12157A260F-7,7,Lotissement Les Genévriers,12630,Montrozier,C+O,44.402010,2.707882
+12157A260F-8,8,Lotissement Les Genévriers,12630,Montrozier,C+O,44.402090,2.707375
+12157A260F-9,9,Lotissement Les Genévriers,12630,Montrozier,C+O,44.401878,2.707071
 12157A290N-1,1,Lotissement Le Hameau du Causse 1,12630,Montrozier,CAD,44.398406,2.697584
 12157A290N-2,2,Lotissement Le Hameau du Causse 1,12630,Montrozier,CAD,44.398634,2.697618
 12157A290N-23,23,Lotissement Le Hameau du Causse 1,12630,Montrozier,CAD,44.398894,2.696512
@@ -26320,87 +26320,87 @@
 12157A310K-18,18,Lotissement Le Hameau du Causse 3,12630,Montrozier,CAD,44.399482,2.695287
 12157A310K-19,19,Lotissement Le Hameau du Causse 3,12630,Montrozier,CAD,44.399350,2.695797
 12157A310K-20,20,Lotissement Le Hameau du Causse 3,12630,Montrozier,CAD,44.399504,2.696304
-12157A320W-12,12,Lotissement Le Hameau du Causse 4,12630,Montrozier,CAD,44.399896,2.694889
-12157A320W-13,13,Lotissement Le Hameau du Causse 4,12630,Montrozier,CAD,44.400202,2.695035
-12157A320W-14,14,Lotissement Le Hameau du Causse 4,12630,Montrozier,CAD,44.400445,2.694985
-12157A320W-15,15,Lotissement Le Hameau du Causse 4,12630,Montrozier,CAD,44.400444,2.694627
-12157A320W-16,16,Lotissement Le Hameau du Causse 4,12630,Montrozier,CAD,44.400228,2.694562
-12157A320W-17,17,Lotissement Le Hameau du Causse 4,12630,Montrozier,CAD,44.399941,2.694493
-12157A350D-10,10,Lotissement Les Chenes,12630,Montrozier,CAD,44.401041,2.708693
-12157A350D-11,11,Lotissement Les Chenes,12630,Montrozier,CAD,44.400820,2.708275
-12157A350D-1,1,Lotissement Les Chenes,12630,Montrozier,CAD,44.400174,2.707499
-12157A350D-2,2,Lotissement Les Chenes,12630,Montrozier,CAD,44.400472,2.707738
-12157A350D-3,3,Lotissement Les Chenes,12630,Montrozier,CAD,44.400715,2.707890
-12157A350D-4,4,Lotissement Les Chenes,12630,Montrozier,CAD,44.400930,2.707945
-12157A350D-5,5,Lotissement Les Chenes,12630,Montrozier,CAD,44.401228,2.708216
-12157A350D-6,6,Lotissement Les Chenes,12630,Montrozier,CAD,44.401478,2.708275
-12157A350D-7,7,Lotissement Les Chenes,12630,Montrozier,CAD,44.401724,2.708407
-12157A350D-8,8,Lotissement Les Chenes,12630,Montrozier,CAD,44.401533,2.708892
-12157A350D-9,9,Lotissement Les Chenes,12630,Montrozier,CAD,44.401182,2.708955
+12157A320W-12,12,Lotissement Le Hameau du Causse 4,12630,Montrozier,C+O,44.399896,2.694889
+12157A320W-13,13,Lotissement Le Hameau du Causse 4,12630,Montrozier,C+O,44.400202,2.695035
+12157A320W-14,14,Lotissement Le Hameau du Causse 4,12630,Montrozier,C+O,44.400445,2.694985
+12157A320W-15,15,Lotissement Le Hameau du Causse 4,12630,Montrozier,C+O,44.400444,2.694627
+12157A320W-16,16,Lotissement Le Hameau du Causse 4,12630,Montrozier,C+O,44.400228,2.694562
+12157A320W-17,17,Lotissement Le Hameau du Causse 4,12630,Montrozier,C+O,44.399941,2.694493
+12157A350D-10,10,Lotissement Les Chênes,12630,Montrozier,C+O,44.401041,2.708693
+12157A350D-11,11,Lotissement Les Chênes,12630,Montrozier,C+O,44.400820,2.708275
+12157A350D-1,1,Lotissement Les Chênes,12630,Montrozier,C+O,44.400174,2.707499
+12157A350D-2,2,Lotissement Les Chênes,12630,Montrozier,C+O,44.400472,2.707738
+12157A350D-3,3,Lotissement Les Chênes,12630,Montrozier,C+O,44.400715,2.707890
+12157A350D-4,4,Lotissement Les Chênes,12630,Montrozier,C+O,44.400930,2.707945
+12157A350D-5,5,Lotissement Les Chênes,12630,Montrozier,C+O,44.401228,2.708216
+12157A350D-6,6,Lotissement Les Chênes,12630,Montrozier,C+O,44.401478,2.708275
+12157A350D-7,7,Lotissement Les Chênes,12630,Montrozier,C+O,44.401724,2.708407
+12157A350D-8,8,Lotissement Les Chênes,12630,Montrozier,C+O,44.401533,2.708892
+12157A350D-9,9,Lotissement Les Chênes,12630,Montrozier,C+O,44.401182,2.708955
 12157A400H-1,1,Lotissement Helios V,12630,Montrozier,CAD,44.401037,2.691328
 12157A400H-3,3,Lotissement Helios V,12630,Montrozier,CAD,44.401124,2.690844
 12157A400H-4,4,Lotissement Helios V,12630,Montrozier,CAD,44.400797,2.690862
 12157A400H-5,5,Lotissement Helios V,12630,Montrozier,CAD,44.400621,2.690869
 12157A400H-7,7,Lotissement Helios V,12630,Montrozier,CAD,44.400406,2.691333
 12157A400H-8,8,Lotissement Helios V,12630,Montrozier,CAD,44.400740,2.691297
-12157A700J-10,10,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399188,2.700991
-12157A700J-11,11,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399572,2.700404
-12157A700J-1,1,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399888,2.698686
-12157A700J-12,12,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399870,2.700704
-12157A700J-13,13,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399739,2.701027
-12157A700J-14,14,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399433,2.701220
-12157A700J-15,15,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399177,2.701397
-12157A700J-16,16,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398882,2.702009
-12157A700J-17,17,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398871,2.701757
-12157A700J-18,18,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398861,2.701546
-12157A700J-19,19,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398868,2.700984
-12157A700J-20,20,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398939,2.700602
-12157A700J-21,21,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398913,2.700246
-12157A700J-22,22,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399101,2.700011
-12157A700J-2,2,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399865,2.698862
-12157A700J-23,23,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398694,2.700987
-12157A700J-24,24,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398687,2.701467
-12157A700J-25,25,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398625,2.701773
-12157A700J-26,26,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398498,2.700648
-12157A700J-27,27,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398616,2.700384
-12157A700J-28,28,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.398887,2.699718
-12157A700J-29,29,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399191,2.699582
-12157A700J-30,30,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399345,2.699397
-12157A700J-31,31,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399387,2.699106
-12157A700J-32,32,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399195,2.698986
-12157A700J-33,33,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399193,2.698991
-12157A700J-3,3,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399745,2.699098
-12157A700J-34,34,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399191,2.698992
-12157A700J-35,35,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399195,2.699024
-12157A700J-36,36,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399195,2.699036
-12157A700J-4,4,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399601,2.699206
-12157A700J-5,5,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399867,2.699631
-12157A700J-6,6,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399731,2.699710
-12157A700J-7,7,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399487,2.699835
-12157A700J-8,8,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399577,2.700066
-12157A700J-9,9,Lotissement Puech de Laumet,12630,Montrozier,CAD,44.399281,2.700567
-12157A800T-1,1,Lotissement Le Roc du Levant,12630,Montrozier,CAD,44.400455,2.708465
-12157A800T-2,2,Lotissement Le Roc du Levant,12630,Montrozier,CAD,44.399869,2.708934
-12157A800T-3,3,Lotissement Le Roc du Levant,12630,Montrozier,CAD,44.400091,2.708586
-12157A800T-4,4,Lotissement Le Roc du Levant,12630,Montrozier,CAD,44.400283,2.708863
-12157A800T-5,5,Lotissement Le Roc du Levant,12630,Montrozier,CAD,44.400499,2.709100
-12157A800T-6,6,Lotissement Le Roc du Levant,12630,Montrozier,CAD,44.400690,2.708643
+12157A700J-10,10,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399188,2.700991
+12157A700J-11,11,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399572,2.700404
+12157A700J-1,1,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399888,2.698686
+12157A700J-12,12,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399870,2.700704
+12157A700J-13,13,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399739,2.701027
+12157A700J-14,14,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399433,2.701220
+12157A700J-15,15,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399177,2.701397
+12157A700J-16,16,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398882,2.702009
+12157A700J-17,17,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398871,2.701757
+12157A700J-18,18,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398861,2.701546
+12157A700J-19,19,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398868,2.700984
+12157A700J-20,20,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398939,2.700602
+12157A700J-21,21,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398913,2.700246
+12157A700J-22,22,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399101,2.700011
+12157A700J-2,2,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399865,2.698862
+12157A700J-23,23,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398694,2.700987
+12157A700J-24,24,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398687,2.701467
+12157A700J-25,25,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398625,2.701773
+12157A700J-26,26,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398498,2.700648
+12157A700J-27,27,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398616,2.700384
+12157A700J-28,28,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.398887,2.699718
+12157A700J-29,29,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399191,2.699582
+12157A700J-30,30,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399345,2.699397
+12157A700J-31,31,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399387,2.699106
+12157A700J-32,32,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399195,2.698986
+12157A700J-33,33,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399193,2.698991
+12157A700J-3,3,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399745,2.699098
+12157A700J-34,34,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399191,2.698992
+12157A700J-35,35,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399195,2.699024
+12157A700J-36,36,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399195,2.699036
+12157A700J-4,4,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399601,2.699206
+12157A700J-5,5,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399867,2.699631
+12157A700J-6,6,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399731,2.699710
+12157A700J-7,7,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399487,2.699835
+12157A700J-8,8,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399577,2.700066
+12157A700J-9,9,Lotissement Puech de Laumet,12630,Montrozier,C+O,44.399281,2.700567
+12157A800T-1,1,Lotissemnet Le Roc du Levant,12630,Montrozier,C+O,44.400455,2.708465
+12157A800T-2,2,Lotissemnet Le Roc du Levant,12630,Montrozier,C+O,44.399869,2.708934
+12157A800T-3,3,Lotissemnet Le Roc du Levant,12630,Montrozier,C+O,44.400091,2.708586
+12157A800T-4,4,Lotissemnet Le Roc du Levant,12630,Montrozier,C+O,44.400283,2.708863
+12157A800T-5,5,Lotissemnet Le Roc du Levant,12630,Montrozier,C+O,44.400499,2.709100
+12157A800T-6,6,Lotissemnet Le Roc du Levant,12630,Montrozier,C+O,44.400690,2.708643
 12157A820P-1,1,Lotissement Roquebrune,12630,Montrozier,CAD,44.396341,2.696413
-12157A900B-10,10,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399373,2.705593
-12157A900B-11,11,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399487,2.705875
-12157A900B-1,1,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.400104,2.706626
-12157A900B-12,12,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399739,2.706267
-12157A900B-13,13,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.400104,2.706384
-12157A900B-14,14,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399965,2.705939
-12157A900B-15,15,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399689,2.705548
-12157A900B-2,2,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.400331,2.706574
-12157A900B-3,3,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.400528,2.706462
-12157A900B-4,4,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.400405,2.706129
-12157A900B-5,5,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.400281,2.705770
-12157A900B-6,6,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.400146,2.705503
-12157A900B-7,7,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399924,2.705168
-12157A900B-8,8,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399729,2.704857
-12157A900B-9,9,Lotissement Les Tournels Ii,12630,Montrozier,CAD,44.399586,2.705236
+12157A900B-10,10,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399373,2.705593
+12157A900B-11,11,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399487,2.705875
+12157A900B-1,1,Lotissement Les Tournels II,12630,Montrozier,C+O,44.400104,2.706626
+12157A900B-12,12,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399739,2.706267
+12157A900B-13,13,Lotissement Les Tournels II,12630,Montrozier,C+O,44.400104,2.706384
+12157A900B-14,14,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399965,2.705939
+12157A900B-15,15,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399689,2.705548
+12157A900B-2,2,Lotissement Les Tournels II,12630,Montrozier,C+O,44.400331,2.706574
+12157A900B-3,3,Lotissement Les Tournels II,12630,Montrozier,C+O,44.400528,2.706462
+12157A900B-4,4,Lotissement Les Tournels II,12630,Montrozier,C+O,44.400405,2.706129
+12157A900B-5,5,Lotissement Les Tournels II,12630,Montrozier,C+O,44.400281,2.705770
+12157A900B-6,6,Lotissement Les Tournels II,12630,Montrozier,C+O,44.400146,2.705503
+12157A900B-7,7,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399924,2.705168
+12157A900B-8,8,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399729,2.704857
+12157A900B-9,9,Lotissement Les Tournels II,12630,Montrozier,C+O,44.399586,2.705236
 12157A950F-1,1,Lotissement Les Tulipiers,12630,Montrozier,CAD,44.399793,2.691321
 12157A950F-2,2,Lotissement Les Tulipiers,12630,Montrozier,CAD,44.399617,2.691268
 12157A950F-3,3,Lotissement Les Tulipiers,12630,Montrozier,CAD,44.399790,2.690885
@@ -26848,7 +26848,7 @@
 121670025M-17,17,Rue du Bourguet,12270,Najac,C+O,44.219546,1.977946
 121670025M-18,18,Rue du Bourguet,12270,Najac,C+O,44.219665,1.978047
 121670025M-19,19,Rue du Bourguet,12270,Najac,C+O,44.219529,1.977866
-121670025M-20,20,Rue du Bourguet,12270,Najac,OSM,44.219693,1.977859
+121670025M-20,20,Rue du Bourguet,12270,Najac,OSM,44.219681,1.977871
 121670025M-21,21,Rue du Bourguet,12270,Najac,C+O,44.219503,1.977786
 121670025M-22,22,Rue du Bourguet,12270,Najac,C+O,44.219580,1.977841
 121670025M-2,2,Rue du Bourguet,12270,Najac,C+O,44.220008,1.978732
@@ -29992,7 +29992,7 @@
 121760031E-115,115,Rue des Bouleaux,12850,Onet-le-Château,OSM,44.375616,2.581573
 121760031E-119,119,Rue des Bouleaux,12850,Onet-le-Château,C+O,44.375575,2.581733
 121760031E-1,1,Rue des Bouleaux,12850,Onet-le-Château,OSM,44.374865,2.582478
-121760031E-120,120,Rue des Bouleaux,12850,Onet-le-Château,OSM,44.375653,2.581610
+121760031E-120,120,Rue des Bouleaux,12850,Onet-le-Château,OSM,44.375484,2.581941
 121760031E-123,123,Rue des Bouleaux,12850,Onet-le-Château,OSM,44.375695,2.581637
 121760031E-124,124,Rue des Bouleaux,12850,Onet-le-Château,OSM,44.375533,2.581973
 121760031E-127,127,Rue des Bouleaux,12850,Onet-le-Château,C+O,44.375651,2.581782
@@ -30118,7 +30118,7 @@
 121760070X-20,20,Boulevard des Capucines,12850,Onet-le-Château,C+O,44.367239,2.593129
 121760070X-21,21,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.367369,2.593665
 121760070X-22,22,Boulevard des Capucines,12850,Onet-le-Château,C+O,44.367208,2.593191
-121760070X-2,2,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.367170,2.594580
+121760070X-2,2,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.369053,2.590944
 121760070X-23,23,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.367271,2.594066
 121760070X-24,24,Boulevard des Capucines,12850,Onet-le-Château,C+O,44.366923,2.592855
 121760070X-25,25,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.366748,2.595719
@@ -30136,7 +30136,7 @@
 121760070X-43,43,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.365195,2.598145
 121760070X-4,4,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.367195,2.594709
 121760070X-5,5,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.369145,2.591716
-121760070X-6,6,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.367153,2.595128
+121760070X-6,6,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.368217,2.591652
 121760070X-7,7,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.368961,2.591824
 121760070X-8,8,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.368056,2.591778
 121760070X-9,9,Boulevard des Capucines,12850,Onet-le-Château,OSM,44.368751,2.591908
@@ -30550,19 +30550,19 @@
 121760115W-18,18,Route d'Espalion,12850,Onet-le-Château,OSM,44.363875,2.587534
 121760115W-18B,18BIS,Route d'Espalion,12850,Onet-le-Château,OSM,44.363691,2.586986
 121760115W-20,20,Route d'Espalion,12850,Onet-le-Château,OSM,44.363810,2.587172
-121760115W-22,22,Route d'Espalion,12850,Onet-le-Château,OSM,44.363988,2.586964
-121760115W-2,2,Route d'Espalion,12850,Onet-le-Château,OSM,44.362553,2.587566
+121760115W-22,22,Route d'Espalion,12850,Onet-le-Château,OSM,44.363988,2.586993
+121760115W-2,2,Route d'Espalion,12850,Onet-le-Château,OSM,44.362663,2.587542
 121760115W-24,24,Route d'Espalion,12850,Onet-le-Château,OSM,44.364579,2.586663
 121760115W-26,26,Route d'Espalion,12850,Onet-le-Château,C+O,44.364587,2.586362
 121760115W-28,28,Route d'Espalion,12850,Onet-le-Château,OSM,44.364823,2.586402
-121760115W-30,30,Route d'Espalion,12850,Onet-le-Château,OSM,44.364993,2.586273
+121760115W-30,30,Route d'Espalion,12850,Onet-le-Château,OSM,44.365031,2.586419
 121760115W-32,32,Route d'Espalion,12850,Onet-le-Château,OSM,44.365166,2.586205
 121760115W-33,33,Route d'Espalion,12850,Onet-le-Château,OSM,44.365430,2.585643
-121760115W-34,34,Route d'Espalion,12850,Onet-le-Château,OSM,44.365311,2.586111
+121760115W-34,34,Route d'Espalion,12850,Onet-le-Château,OSM,44.365322,2.586192
 121760115W-35,35,Route d'Espalion,12850,Onet-le-Château,OSM,44.365729,2.585680
 121760115W-36,36,Route d'Espalion,12850,Onet-le-Château,OSM,44.365480,2.586106
 121760115W-37,37,Route d'Espalion,12850,Onet-le-Château,C+O,44.365984,2.585970
-121760115W-38,38,Route d'Espalion,12850,Onet-le-Château,OSM,44.365685,2.586094
+121760115W-38,38,Route d'Espalion,12850,Onet-le-Château,OSM,44.365639,2.586141
 121760115W-39,39,Route d'Espalion,12850,Onet-le-Château,OSM,44.366297,2.586011
 121760115W-41,41,Route d'Espalion,12850,Onet-le-Château,C+O,44.366539,2.586584
 121760115W-43,43,Route d'Espalion,12850,Onet-le-Château,OSM,44.367110,2.587087
@@ -30570,7 +30570,7 @@
 121760115W-44,44,Route d'Espalion,12850,Onet-le-Château,OSM,44.366427,2.587216
 121760115W-44B,44BIS,Route d'Espalion,12850,Onet-le-Château,OSM,44.366082,2.587489
 121760115W-46,46,Route d'Espalion,12850,Onet-le-Château,OSM,44.366737,2.587479
-121760115W-47,47,Route d'Espalion,12850,Onet-le-Château,OSM,44.367442,2.587227
+121760115W-47,47,Route d'Espalion,12850,Onet-le-Château,OSM,44.367441,2.587234
 121760115W-48,48,Route d'Espalion,12850,Onet-le-Château,OSM,44.366979,2.587603
 121760115W-48B,48BIS,Route d'Espalion,12850,Onet-le-Château,OSM,44.367102,2.587778
 121760115W-50,50,Route d'Espalion,12850,Onet-le-Château,OSM,44.367193,2.588097
@@ -31747,7 +31747,7 @@
 121760340R-95,95,Route de Saint-Mayme,12850,Onet-le-Château,C+O,44.365404,2.603365
 121760341S-10,10,Rue des Sarcelles,12850,Onet-le-Château,OSM,44.376305,2.574295
 121760341S-11,11,Rue des Sarcelles,12850,Onet-le-Château,OSM,44.376307,2.574556
-121760341S-1,1,Rue des Sarcelles,12850,Onet-le-Château,OSM,44.375046,2.571976
+121760341S-1,1,Rue des Sarcelles,12850,Onet-le-Château,OSM,44.375112,2.572177
 121760341S-12,12,Rue des Sarcelles,12850,Onet-le-Château,OSM,44.376355,2.574765
 121760341S-13,13,Rue des Sarcelles,12850,Onet-le-Château,OSM,44.376401,2.574980
 121760341S-14,14,Rue des Sarcelles,12850,Onet-le-Château,OSM,44.376496,2.575202
@@ -31789,7 +31789,7 @@
 121760345W-19,19,Route de Sévérac,12850,Onet-le-Château,OSM,44.362063,2.597217
 121760345W-20,20,Route de Sévérac,12850,Onet-le-Château,OSM,44.362861,2.589018
 121760345W-21,21,Route de Sévérac,12850,Onet-le-Château,OSM,44.362018,2.597685
-121760345W-212,212,Route de Sévérac,12850,Onet-le-Château,OSM,44.362636,2.608142
+121760345W-212,212,Route de Sévérac,12850,Onet-le-Château,OSM,44.362798,2.608405
 121760345W-214,214,Route de Sévérac,12850,Onet-le-Château,OSM,44.362533,2.608623
 121760345W-220,220,Route de Sévérac,12850,Onet-le-Château,OSM,44.362599,2.609310
 121760345W-22,22,Route de Sévérac,12850,Onet-le-Château,OSM,44.362889,2.589337
@@ -31807,11 +31807,11 @@
 121760345W-29B,29BIS,Route de Sévérac,12850,Onet-le-Château,OSM,44.361889,2.598789
 121760345W-30,30,Route de Sévérac,12850,Onet-le-Château,OSM,44.362641,2.590005
 121760345W-31,31,Route de Sévérac,12850,Onet-le-Château,C+O,44.361738,2.599280
-121760345W-32,32,Route de Sévérac,12850,Onet-le-Château,OSM,44.362779,2.590153
+121760345W-32,32,Route de Sévérac,12850,Onet-le-Château,OSM,44.362732,2.590133
 121760345W-34,34,Route de Sévérac,12850,Onet-le-Château,OSM,44.362874,2.590479
 121760345W-38,38,Route de Sévérac,12850,Onet-le-Château,OSM,44.362635,2.590908
 121760345W-44,44,Route de Sévérac,12850,Onet-le-Château,OSM,44.362383,2.592516
-121760345W-4,4,Route de Sévérac,12850,Onet-le-Château,OSM,44.362553,2.587707
+121760345W-4,4,Route de Sévérac,12850,Onet-le-Château,OSM,44.362556,2.587781
 121760345W-46,46,Route de Sévérac,12850,Onet-le-Château,OSM,44.362320,2.592744
 121760345W-4B,4BIS,Route de Sévérac,12850,Onet-le-Château,C+O,44.362666,2.587803
 121760345W-50,50,Route de Sévérac,12850,Onet-le-Château,OSM,44.362130,2.593785
@@ -31963,9 +31963,9 @@
 121760353E-800,800,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.363000,2.603624
 121760353E-809,809,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.362875,2.604183
 121760353E-832,832,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.362856,2.603936
-121760353E-846,846,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.362697,2.603768
+121760353E-846,846,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.362742,2.603765
 121760353E-858,858,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.362621,2.603619
-121760353E-868,868,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.362527,2.603486
+121760353E-868,868,Boulevard des Tamaris,12850,Onet-le-Château,OSM,44.362546,2.603507
 121760356H-23,23,Rue du Thym,12850,Onet-le-Château,OSM,44.363624,2.603553
 121760356H-28,28,Rue du Thym,12850,Onet-le-Château,OSM,44.363817,2.603689
 121760356H-29,29,Rue du Thym,12850,Onet-le-Château,OSM,44.363554,2.603315
@@ -34431,7 +34431,7 @@
 12199A070S-9,9,Zone Artisanale,12390,Rignac,CAD,44.406907,2.299872
 122000140U-28,28,Chemin de Ribous,12640,Rivière-sur-Tarn,C+O,44.189274,3.132050
 122020010U-10,10,Rue de l'Abbé Bessou,12000,Rodez,C+O,44.350386,2.572161
-122020010U-11,11,Rue de l'Abbé Bessou,12000,Rodez,OSM,44.350197,2.571340
+122020010U-11,11,Rue de l'Abbé Bessou,12000,Rodez,OSM,44.350199,2.571461
 122020010U-1,1,Rue de l'Abbé Bessou,12000,Rodez,C+O,44.350784,2.572186
 122020010U-12,12,Rue de l'Abbé Bessou,12000,Rodez,C+O,44.350083,2.571919
 122020010U-12B,12BIS,Rue de l'Abbé Bessou,12000,Rodez,C+O,44.350083,2.571937
@@ -34615,7 +34615,7 @@
 122020080V-1,1,Rue d'Armagnac,12000,Rodez,OSM,44.348515,2.574737
 122020080V-2,2,Rue d'Armagnac,12000,Rodez,OSM,44.348638,2.574682
 122020080V-3,3,Rue d'Armagnac,12000,Rodez,OSM,44.348541,2.574680
-122020080V-3B,3BIS,Rue d'Armagnac,12000,Rodez,OSM,44.348570,2.574555
+122020080V-3B,3BIS,Rue d'Armagnac,12000,Rodez,OSM,44.348540,2.574625
 122020080V-4,4,Rue d'Armagnac,12000,Rodez,OSM,44.348672,2.574562
 122020080V-5,5,Rue d'Armagnac,12000,Rodez,OSM,44.348540,2.574339
 122020090F-1,1,Place d'Armes,12000,Rodez,OSM,44.350669,2.573101
@@ -34625,9 +34625,9 @@
 122020090F-5,5,Place d'Armes,12000,Rodez,C+O,44.350836,2.572747
 122020090F-6,6,Place d'Armes,12000,Rodez,OSM,44.351234,2.572471
 122020101T-2,2,Rue d'Athènes,12000,Rodez,C+O,44.359129,2.556104
-122020101T-3,3,Rue d'Athènes,12000,Rodez,OSM,44.358923,2.555822
+122020101T-3,3,Rue d'Athènes,12000,Rodez,OSM,44.358916,2.555867
 122020101T-6,6,Rue d'Athènes,12000,Rodez,OSM,44.359105,2.555296
-122020101T-8,8,Rue d'Athènes,12000,Rodez,OSM,44.359388,2.555010
+122020101T-8,8,Rue d'Athènes,12000,Rodez,OSM,44.359324,2.555097
 122020105X-1,1,Rue de l'Aubrac,12000,Rodez,C+O,44.357378,2.576706
 122020110C-31,31,Chemin de l'Auterne,12000,Rodez,C+O,44.355561,2.566278
 122020110C-43,43,Chemin de l'Auterne,12000,Rodez,C+O,44.356561,2.566126
@@ -34694,12 +34694,12 @@
 122020130Z-11,11,Rue du Bal,12000,Rodez,OSM,44.348660,2.573784
 122020130Z-1,1,Rue du Bal,12000,Rodez,C+O,44.348578,2.574116
 122020130Z-12,12,Rue du Bal,12000,Rodez,C+O,44.348693,2.573892
-122020130Z-13,13,Rue du Bal,12000,Rodez,OSM,44.348713,2.573629
+122020130Z-13,13,Rue du Bal,12000,Rodez,OSM,44.348680,2.573690
 122020130Z-14,14,Rue du Bal,12000,Rodez,C+O,44.348712,2.573802
 122020130Z-15,15,Rue du Bal,12000,Rodez,C+O,44.348726,2.573553
 122020130Z-17,17,Rue du Bal,12000,Rodez,OSM,44.348728,2.573487
 122020130Z-18,18,Rue du Bal,12000,Rodez,C+O,44.348765,2.573581
-122020130Z-19,19,Rue du Bal,12000,Rodez,OSM,44.348765,2.573384
+122020130Z-19,19,Rue du Bal,12000,Rodez,OSM,44.348766,2.573436
 122020130Z-20,20,Rue du Bal,12000,Rodez,C+O,44.348785,2.573505
 122020130Z-20B,20BIS,Rue du Bal,12000,Rodez,C+O,44.348831,2.573454
 122020130Z-21,21,Rue du Bal,12000,Rodez,OSM,44.348776,2.573317
@@ -34708,7 +34708,7 @@
 122020130Z-23,23,Rue du Bal,12000,Rodez,C+O,44.348807,2.573290
 122020130Z-24,24,Rue du Bal,12000,Rodez,OSM,44.348966,2.573219
 122020130Z-25,25,Rue du Bal,12000,Rodez,OSM,44.348811,2.573226
-122020130Z-25B,25BIS,Rue du Bal,12000,Rodez,OSM,44.348832,2.573171
+122020130Z-25B,25BIS,Rue du Bal,12000,Rodez,OSM,44.348826,2.573186
 122020130Z-26,26,Rue du Bal,12000,Rodez,C+O,44.348867,2.573224
 122020130Z-27,27,Rue du Bal,12000,Rodez,C+O,44.348898,2.573037
 122020130Z-28,28,Rue du Bal,12000,Rodez,C+O,44.348885,2.573169
@@ -34818,7 +34818,7 @@
 122020180D-15B,15BIS,Boulevard Belle Isle,12000,Rodez,C+O,44.353496,2.576501
 122020180D-17,17,Boulevard Belle Isle,12000,Rodez,OSM,44.353462,2.576751
 122020180D-19,19,Boulevard Belle Isle,12000,Rodez,OSM,44.353361,2.576897
-122020180D-2,2,Boulevard Belle Isle,12000,Rodez,OSM,44.353279,2.575486
+122020180D-2,2,Boulevard Belle Isle,12000,Rodez,OSM,44.352803,2.577320
 122020180D-3,3,Boulevard Belle Isle,12000,Rodez,OSM,44.353760,2.574800
 122020180D-4,4,Boulevard Belle Isle,12000,Rodez,OSM,44.353123,2.576767
 122020180D-5,5,Boulevard Belle Isle,12000,Rodez,C+O,44.353733,2.575341
@@ -34831,7 +34831,7 @@
 122020190P-1,1,Rue Béteille,12000,Rodez,OSM,44.351562,2.572485
 122020190P-12,12,Rue Béteille,12000,Rodez,OSM,44.351914,2.572985
 122020190P-13,13,Rue Béteille,12000,Rodez,OSM,44.352349,2.572634
-122020190P-16,16,Rue Béteille,12000,Rodez,OSM,44.352055,2.572918
+122020190P-16,16,Rue Béteille,12000,Rodez,OSM,44.352083,2.572941
 122020190P-17,17,Rue Béteille,12000,Rodez,OSM,44.352686,2.572651
 122020190P-18,18,Rue Béteille,12000,Rodez,OSM,44.352148,2.572941
 122020190P-19,19,Rue Béteille,12000,Rodez,OSM,44.352756,2.572733
@@ -34857,10 +34857,10 @@
 122020190P-38,38,Rue Béteille,12000,Rodez,C+O,44.354420,2.574381
 122020190P-39,39,Rue Béteille,12000,Rodez,OSM,44.353582,2.573114
 122020190P-40,40,Rue Béteille,12000,Rodez,C+O,44.354488,2.574465
-122020190P-41,41,Rue Béteille,12000,Rodez,OSM,44.353744,2.573148
-122020190P-41,41,Rue Béteille,12000,Rodez,OSM,44.353865,2.572773
+122020190P-41,41,Rue Béteille,12000,Rodez,OSM,44.353759,2.573173
+122020190P-41,41,Rue Béteille,12000,Rodez,OSM,44.353810,2.573037
 122020190P-42,42,Rue Béteille,12000,Rodez,C+O,44.354546,2.574536
-122020190P-43,43,Rue Béteille,12000,Rodez,OSM,44.353744,2.573148
+122020190P-43,43,Rue Béteille,12000,Rodez,OSM,44.353759,2.573173
 122020190P-43B,43BIS,Rue Béteille,12000,Rodez,OSM,44.353850,2.573404
 122020190P-44,44,Rue Béteille,12000,Rodez,C+O,44.354590,2.574591
 122020190P-4,4,Rue Béteille,12000,Rodez,C+O,44.351669,2.572932
@@ -34908,17 +34908,17 @@
 122020190P-87,87,Rue Béteille,12000,Rodez,C+O,44.355653,2.575733
 122020190P-87B,87BIS,Rue Béteille,12000,Rodez,C+O,44.355774,2.575569
 122020190P-8,8,Rue Béteille,12000,Rodez,C+O,44.351764,2.572887
-122020190P-91,91,Rue Béteille,12000,Rodez,OSM,44.355767,2.575839
+122020190P-91,91,Rue Béteille,12000,Rodez,OSM,44.355755,2.575813
 122020190P-9,9,Rue Béteille,12000,Rodez,C+O,44.351898,2.572706
 122020200A-1,1,Rue Billongue,12000,Rodez,C+O,44.355363,2.576593
 122020200A-3,3,Rue Billongue,12000,Rodez,C+O,44.355467,2.576706
-122020209K-1,1,Avenue de Bourran,12000,Rodez,OSM,44.359215,2.556144
-122020209K-13,13,Avenue de Bourran,12000,Rodez,OSM,44.361093,2.555841
+122020209K-1,1,Avenue de Bourran,12000,Rodez,OSM,44.358648,2.556372
+122020209K-13,13,Avenue de Bourran,12000,Rodez,OSM,44.360890,2.555956
 122020209K-15,15,Avenue de Bourran,12000,Rodez,OSM,44.361179,2.556016
-122020209K-16,16,Avenue de Bourran,12000,Rodez,OSM,44.360669,2.556845
+122020209K-16,16,Avenue de Bourran,12000,Rodez,OSM,44.360459,2.556855
 122020209K-30,30,Avenue de Bourran,12000,Rodez,OSM,44.362793,2.554738
 122020209K-3,3,Avenue de Bourran,12000,Rodez,OSM,44.358757,2.556270
-122020209K-4,4,Avenue de Bourran,12000,Rodez,OSM,44.358828,2.556238
+122020209K-4,4,Avenue de Bourran,12000,Rodez,OSM,44.358783,2.557090
 122020209K-79,79,Avenue de Bourran,12000,Rodez,C+O,44.363108,2.554390
 122020209K-9,9,Avenue de Bourran,12000,Rodez,OSM,44.360093,2.555960
 122020220X-10,10,Rue de Bonald,12000,Rodez,C+O,44.351578,2.575822
@@ -35195,7 +35195,7 @@
 122020340C-2,2,Rue Camille Douls,12000,Rodez,C+O,44.349562,2.575766
 122020340C-4B,4BIS,Rue Camille Douls,12000,Rodez,C+O,44.349456,2.576210
 122020340C-5,5,Rue Camille Douls,12000,Rodez,C+O,44.349595,2.576019
-122020340C-7,7,Rue Camille Douls,12000,Rodez,OSM,44.349687,2.576912
+122020340C-7,7,Rue Camille Douls,12000,Rodez,OSM,44.349760,2.577015
 122020340C-8,8,Rue Camille Douls,12000,Rodez,C+O,44.349521,2.577082
 122020345H-10,10,Clos Camonil,12000,Rodez,C+O,44.357482,2.570006
 122020345H-11,11,Clos Camonil,12000,Rodez,C+O,44.357245,2.569819
@@ -35263,7 +35263,7 @@
 122020350N-80,80,Rue de Camonil,12000,Rodez,C+O,44.358350,2.568002
 122020350N-82,82,Rue de Camonil,12000,Rodez,C+O,44.358401,2.567761
 122020350N-8,8,Rue de Camonil,12000,Rodez,C+O,44.356334,2.574492
-122020351P-10,10,Chemin de Canac,12000,Rodez,OSM,44.362611,2.576531
+122020351P-10,10,Chemin de Canac,12000,Rodez,OSM,44.362554,2.576596
 122020351P-14,14,Chemin de Canac,12000,Rodez,OSM,44.362763,2.576744
 122020351P-2,2,Chemin de Canac,12000,Rodez,C+O,44.362334,2.575767
 122020351P-4,4,Chemin de Canac,12000,Rodez,C+O,44.362190,2.575609
@@ -35738,9 +35738,9 @@
 122020425V-9,9,Rue du Colonel Flament,12000,Rodez,C+O,44.358657,2.577192
 122020430A-10,10,Rue Combarel,12000,Rodez,OSM,44.350247,2.571073
 122020430A-1,1,Rue Combarel,12000,Rodez,C+O,44.350398,2.570437
-122020430A-12,12,Rue Combarel,12000,Rodez,OSM,44.350267,2.571041
-122020430A-14,14,Rue Combarel,12000,Rodez,OSM,44.350338,2.570866
-122020430A-16,16,Rue Combarel,12000,Rodez,OSM,44.350359,2.570781
+122020430A-12,12,Rue Combarel,12000,Rodez,OSM,44.350253,2.571044
+122020430A-14,14,Rue Combarel,12000,Rodez,OSM,44.350310,2.570939
+122020430A-16,16,Rue Combarel,12000,Rodez,OSM,44.350345,2.570834
 122020430A-18,18,Rue Combarel,12000,Rodez,OSM,44.350386,2.570704
 122020430A-20,20,Rue Combarel,12000,Rodez,C+O,44.350428,2.570587
 122020430A-2,2,Rue Combarel,12000,Rodez,C+O,44.349579,2.572007
@@ -35751,7 +35751,7 @@
 122020430A-6,6,Rue Combarel,12000,Rodez,OSM,44.349873,2.571659
 122020430A-8,8,Rue Combarel,12000,Rodez,C+O,44.349930,2.571595
 122020430A-8B,8BIS,Rue Combarel,12000,Rodez,C+O,44.350042,2.571648
-122020430A-8T,8TER,Rue Combarel,12000,Rodez,OSM,44.350209,2.571174
+122020430A-8T,8TER,Rue Combarel,12000,Rodez,OSM,44.350204,2.571220
 122020433D-11,11,Impasse du Comminges,12000,Rodez,OSM,44.367147,2.559666
 122020433D-1,1,Impasse du Comminges,12000,Rodez,OSM,44.366640,2.560581
 122020433D-3,3,Impasse du Comminges,12000,Rodez,OSM,44.366683,2.560320
@@ -35765,9 +35765,9 @@
 122020437H-8,8,Rue de la Comtesse Cécile,12000,Rodez,C+O,44.346725,2.578735
 122020438J-1,1,Rue de Copenhague,12000,Rodez,OSM,44.360547,2.555863
 122020438J-5,5,Rue de Copenhague,12000,Rodez,OSM,44.360269,2.554985
-122020440L-1,1,Rue Corbières,12000,Rodez,OSM,44.349938,2.573832
+122020440L-1,1,Rue Corbières,12000,Rodez,OSM,44.349917,2.574156
 122020440L-2,2,Rue Corbières,12000,Rodez,OSM,44.349715,2.573900
-122020440L-3,3,Rue Corbières,12000,Rodez,OSM,44.349932,2.573902
+122020440L-3,3,Rue Corbières,12000,Rodez,OSM,44.349929,2.574003
 122020460H-1,1,Côte de la Gascarie,12000,Rodez,C+O,44.348283,2.568063
 122020470U-1,1,Côte de Laguioule,12000,Rodez,C+O,44.355634,2.577082
 122020470U-12,12,Côte de Laguioule,12000,Rodez,C+O,44.355373,2.578936
@@ -35974,7 +35974,7 @@
 122020600K-58,58,Avenue Durand de Gros,12000,Rodez,C+O,44.360310,2.580385
 122020600K-6,6,Avenue Durand de Gros,12000,Rodez,OSM,44.357199,2.581561
 122020600K-7,7,Avenue Durand de Gros,12000,Rodez,OSM,44.357506,2.581479
-122020600K-8,8,Avenue Durand de Gros,12000,Rodez,OSM,44.357357,2.581737
+122020600K-8,8,Avenue Durand de Gros,12000,Rodez,OSM,44.357289,2.581775
 122020600K-9,9,Avenue Durand de Gros,12000,Rodez,C+O,44.357615,2.581640
 122020610W-10,10,Rue de l'Égalité,12000,Rodez,C+O,44.359024,2.582804
 122020610W-12,12,Rue de l'Égalité,12000,Rodez,C+O,44.359052,2.582904
@@ -36041,18 +36041,18 @@
 122020620G-9,9,Rue de l'Embergue,12000,Rodez,C+O,44.351496,2.576439
 122020625M-8,8,Place Emma Calvé,12000,Rodez,OSM,44.350731,2.575115
 122020626N-10,10,Avenue de l'Entreprise,12000,Rodez,C+O,44.364190,2.572644
-122020626N-11,11,Avenue de l'Entreprise,12000,Rodez,OSM,44.364140,2.571516
+122020626N-11,11,Avenue de l'Entreprise,12000,Rodez,OSM,44.364029,2.571583
 122020626N-12,12,Avenue de l'Entreprise,12000,Rodez,C+O,44.364407,2.572950
 122020626N-13,13,Avenue de l'Entreprise,12000,Rodez,C+O,44.363967,2.571910
 122020626N-13B,13BIS,Avenue de l'Entreprise,12000,Rodez,C+O,44.364240,2.571991
 122020626N-14,14,Avenue de l'Entreprise,12000,Rodez,C+O,44.364272,2.573748
 122020626N-15,15,Avenue de l'Entreprise,12000,Rodez,C+O,44.364226,2.572284
-122020626N-16,16,Avenue de l'Entreprise,12000,Rodez,OSM,44.364423,2.574215
+122020626N-16,16,Avenue de l'Entreprise,12000,Rodez,OSM,44.364322,2.574350
 122020626N-17,17,Avenue de l'Entreprise,12000,Rodez,C+O,44.364470,2.572931
 122020626N-18,18,Avenue de l'Entreprise,12000,Rodez,C+O,44.364738,2.573560
 122020626N-19,19,Avenue de l'Entreprise,12000,Rodez,C+O,44.364827,2.573531
 122020626N-20,20,Avenue de l'Entreprise,12000,Rodez,C+O,44.364933,2.573885
-122020626N-4,4,Avenue de l'Entreprise,12000,Rodez,OSM,44.363405,2.571275
+122020626N-4,4,Avenue de l'Entreprise,12000,Rodez,OSM,44.363363,2.571388
 122020626N-5,5,Avenue de l'Entreprise,12000,Rodez,OSM,44.364163,2.573187
 122020626N-6,6,Avenue de l'Entreprise,12000,Rodez,OSM,44.363661,2.571549
 122020626N-7,7,Avenue de l'Entreprise,12000,Rodez,OSM,44.364037,2.571129
@@ -36108,7 +36108,7 @@
 122020705Z-4,4,Avenue de l'Europe,12000,Rodez,C+O,44.353468,2.565460
 122020705Z-5,5,Avenue de l'Europe,12000,Rodez,C+O,44.353923,2.564050
 122020705Z-6,6,Avenue de l'Europe,12000,Rodez,C+O,44.353524,2.565306
-122020705Z-8,8,Avenue de l'Europe,12000,Rodez,OSM,44.353797,2.564942
+122020705Z-8,8,Avenue de l'Europe,12000,Rodez,OSM,44.353734,2.565063
 122020708C-1,1,Rue du Faubourg Lo Barri,12000,Rodez,CAD,44.355122,2.575731
 122020708C-3,3,Rue du Faubourg Lo Barri,12000,Rodez,CAD,44.355124,2.575742
 122020710E-12,12,Rue de la Fauvette,12000,Rodez,C+O,44.349445,2.565953
@@ -36282,8 +36282,8 @@
 122020860T-3,3,Boulevard Gambetta,12000,Rodez,OSM,44.350538,2.573093
 122020860T-4,4,Boulevard Gambetta,12000,Rodez,OSM,44.350293,2.573413
 122020860T-5,5,Boulevard Gambetta,12000,Rodez,C+O,44.350451,2.573114
-122020860T-6,6,Boulevard Gambetta,12000,Rodez,OSM,44.350190,2.573345
-122020860T-7,7,Boulevard Gambetta,12000,Rodez,OSM,44.350415,2.572800
+122020860T-6,6,Boulevard Gambetta,12000,Rodez,OSM,44.350261,2.573405
+122020860T-7,7,Boulevard Gambetta,12000,Rodez,OSM,44.350324,2.573050
 122020860T-8,8,Boulevard Gambetta,12000,Rodez,OSM,44.350177,2.573344
 122020860T-9,9,Boulevard Gambetta,12000,Rodez,C+O,44.350042,2.572997
 122020870D-10,10,Rue de la Gare,12000,Rodez,C+O,44.361171,2.580302
@@ -36422,7 +36422,7 @@
 122020947M-88,88,Rue du Gévaudan,12000,Rodez,OSM,44.363764,2.563952
 122020947M-97,97,Rue du Gévaudan,12000,Rodez,OSM,44.363559,2.563596
 122020952T-100,100,Avenue de la Gineste,12000,Rodez,C+O,44.363792,2.554556
-122020952T-10,10,Avenue de la Gineste,12000,Rodez,OSM,44.362233,2.573007
+122020952T-10,10,Avenue de la Gineste,12000,Rodez,OSM,44.362234,2.573155
 122020952T-102,102,Avenue de la Gineste,12000,Rodez,C+O,44.364738,2.554122
 122020952T-104,104,Avenue de la Gineste,12000,Rodez,C+O,44.364010,2.553305
 122020952T-105,105,Avenue de la Gineste,12000,Rodez,OSM,44.363295,2.554804
@@ -36439,7 +36439,7 @@
 122020952T-20,20,Avenue de la Gineste,12000,Rodez,C+O,44.361800,2.567360
 122020952T-21,21,Avenue de la Gineste,12000,Rodez,C+O,44.361466,2.568519
 122020952T-22,22,Avenue de la Gineste,12000,Rodez,C+O,44.361880,2.566547
-122020952T-23,23,Avenue de la Gineste,12000,Rodez,OSM,44.360776,2.567013
+122020952T-23,23,Avenue de la Gineste,12000,Rodez,OSM,44.361479,2.568111
 122020952T-23B,23BIS,Avenue de la Gineste,12000,Rodez,C+O,44.361551,2.567949
 122020952T-24,24,Avenue de la Gineste,12000,Rodez,OSM,44.362181,2.566109
 122020952T-25,25,Avenue de la Gineste,12000,Rodez,OSM,44.361338,2.567260
@@ -36463,7 +36463,7 @@
 122020952T-56,56,Avenue de la Gineste,12000,Rodez,OSM,44.362997,2.560888
 122020952T-58,58,Avenue de la Gineste,12000,Rodez,C+O,44.362851,2.560494
 122020952T-60,60,Avenue de la Gineste,12000,Rodez,C+O,44.362878,2.560327
-122020952T-62,62,Avenue de la Gineste,12000,Rodez,OSM,44.363073,2.560129
+122020952T-62,62,Avenue de la Gineste,12000,Rodez,OSM,44.363121,2.560124
 122020952T-64,64,Avenue de la Gineste,12000,Rodez,OSM,44.363224,2.559687
 122020952T-66,66,Avenue de la Gineste,12000,Rodez,C+O,44.363035,2.559348
 122020952T-6,6,Avenue de la Gineste,12000,Rodez,OSM,44.362056,2.574003
@@ -36553,7 +36553,7 @@
 122020975T-7,7,Impasse des Grès Rouges,12000,Rodez,OSM,44.367427,2.558796
 122020975T-8,8,Impasse des Grès Rouges,12000,Rodez,OSM,44.368014,2.558321
 122020975T-9,9,Impasse des Grès Rouges,12000,Rodez,OSM,44.367355,2.559026
-122020990J-1,1,Boulevard de Guizard,12000,Rodez,OSM,44.349144,2.572718
+122020990J-1,1,Boulevard de Guizard,12000,Rodez,OSM,44.349098,2.572771
 122020990J-1B,1BIS,Boulevard de Guizard,12000,Rodez,C+O,44.349126,2.572689
 122020990J-1T,1TER,Boulevard de Guizard,12000,Rodez,C+O,44.349183,2.572614
 122020990J-3,3,Boulevard de Guizard,12000,Rodez,C+O,44.349270,2.572503
@@ -36735,8 +36735,8 @@
 122021040N-4B,4BIS,Rue Hervé Gardye,12000,Rodez,C+O,44.349713,2.577465
 122021040N-6,6,Rue Hervé Gardye,12000,Rodez,C+O,44.349821,2.577378
 122021040N-8,8,Rue Hervé Gardye,12000,Rodez,C+O,44.349876,2.577380
-122021041P-1,1,Avenue de l'Hôpital,12000,Rodez,OSM,44.359694,2.555935
-122021041P-6,6,Avenue de l'Hôpital,12000,Rodez,OSM,44.359946,2.555080
+122021041P-1,1,Avenue de l'Hôpital,12000,Rodez,OSM,44.359667,2.556136
+122021041P-6,6,Avenue de l'Hôpital,12000,Rodez,OSM,44.359959,2.555188
 122021042R-10,10,Avenue du 8 Mai 1945,12000,Rodez,C+O,44.357860,2.578887
 122021042R-11,11,Avenue du 8 Mai 1945,12000,Rodez,C+O,44.357883,2.577303
 122021042R-12,12,Avenue du 8 Mai 1945,12000,Rodez,C+O,44.357955,2.579028
@@ -36809,25 +36809,25 @@
 122021070W-33,33,Avenue Jean Mermoz,12000,Rodez,C+O,44.343535,2.569597
 122021070W-35,35,Avenue Jean Mermoz,12000,Rodez,C+O,44.343507,2.569694
 122021072Y-10,10,Avenue Jean Monnet,12000,Rodez,C+O,44.357666,2.558630
-122021072Y-11,11,Avenue Jean Monnet,12000,Rodez,OSM,44.357594,2.557967
-122021072Y-1,1,Avenue Jean Monnet,12000,Rodez,OSM,44.356693,2.559196
+122021072Y-11,11,Avenue Jean Monnet,12000,Rodez,OSM,44.357591,2.558008
+122021072Y-1,1,Avenue Jean Monnet,12000,Rodez,OSM,44.356708,2.559295
 122021072Y-12,12,Avenue Jean Monnet,12000,Rodez,C+O,44.357808,2.558423
-122021072Y-13,13,Avenue Jean Monnet,12000,Rodez,OSM,44.357770,2.557713
+122021072Y-13,13,Avenue Jean Monnet,12000,Rodez,OSM,44.357756,2.557766
 122021072Y-14,14,Avenue Jean Monnet,12000,Rodez,C+O,44.357941,2.558227
-122021072Y-15,15,Avenue Jean Monnet,12000,Rodez,OSM,44.357878,2.557585
+122021072Y-15,15,Avenue Jean Monnet,12000,Rodez,OSM,44.357819,2.557622
 122021072Y-16,16,Avenue Jean Monnet,12000,Rodez,C+O,44.358073,2.558032
 122021072Y-17,17,Avenue Jean Monnet,12000,Rodez,C+O,44.358062,2.557374
 122021072Y-18,18,Avenue Jean Monnet,12000,Rodez,OSM,44.358417,2.557624
-122021072Y-19,19,Avenue Jean Monnet,12000,Rodez,OSM,44.358213,2.557107
-122021072Y-20,20,Avenue Jean Monnet,12000,Rodez,OSM,44.358699,2.557083
-122021072Y-21,21,Avenue Jean Monnet,12000,Rodez,OSM,44.358513,2.556736
+122021072Y-19,19,Avenue Jean Monnet,12000,Rodez,OSM,44.358172,2.557167
+122021072Y-20,20,Avenue Jean Monnet,12000,Rodez,OSM,44.358486,2.557504
+122021072Y-21,21,Avenue Jean Monnet,12000,Rodez,OSM,44.358320,2.557067
 122021072Y-22,22,Avenue Jean Monnet,12000,Rodez,OSM,44.358606,2.557140
 122021072Y-2,2,Avenue Jean Monnet,12000,Rodez,C+O,44.357163,2.560040
-122021072Y-3,3,Avenue Jean Monnet,12000,Rodez,OSM,44.356864,2.559068
+122021072Y-3,3,Avenue Jean Monnet,12000,Rodez,OSM,44.356793,2.559195
 122021072Y-4,4,Avenue Jean Monnet,12000,Rodez,OSM,44.357232,2.559320
 122021072Y-5,5,Avenue Jean Monnet,12000,Rodez,OSM,44.356991,2.558739
 122021072Y-6,6,Avenue Jean Monnet,12000,Rodez,OSM,44.357232,2.559320
-122021072Y-7,7,Avenue Jean Monnet,12000,Rodez,OSM,44.357267,2.558443
+122021072Y-7,7,Avenue Jean Monnet,12000,Rodez,OSM,44.357192,2.558557
 122021072Y-8,8,Avenue Jean Monnet,12000,Rodez,OSM,44.357551,2.558845
 122021072Y-9,9,Avenue Jean Monnet,12000,Rodez,OSM,44.357171,2.558025
 122021075B-10,10,Rue Jean Moulin,12000,Rodez,C+O,44.353312,2.589268
@@ -37086,9 +37086,9 @@
 122021190B-6,6,Place de la Madeleine,12000,Rodez,C+O,44.347119,2.573865
 122021190B-6B,6BIS,Place de la Madeleine,12000,Rodez,C+O,44.347069,2.573919
 122021190B-8,8,Place de la Madeleine,12000,Rodez,C+O,44.347214,2.573932
-122021200M-10,10,Rue de la Madeleine,12000,Rodez,OSM,44.347918,2.574272
+122021200M-10,10,Rue de la Madeleine,12000,Rodez,OSM,44.347869,2.574278
 122021200M-11,11,Rue de la Madeleine,12000,Rodez,C+O,44.347583,2.574312
-122021200M-12,12,Rue de la Madeleine,12000,Rodez,OSM,44.347838,2.574241
+122021200M-12,12,Rue de la Madeleine,12000,Rodez,OSM,44.347855,2.574273
 122021200M-13,13,Rue de la Madeleine,12000,Rodez,C+O,44.347524,2.574292
 122021200M-14,14,Rue de la Madeleine,12000,Rodez,OSM,44.347773,2.574218
 122021200M-15,15,Rue de la Madeleine,12000,Rodez,C+O,44.347430,2.574260
@@ -37563,7 +37563,7 @@
 122021390U-20,20,Rue de Paraire,12000,Rodez,C+O,44.348451,2.562870
 122021390U-21,21,Rue de Paraire,12000,Rodez,C+O,44.348573,2.564308
 122021390U-22,22,Rue de Paraire,12000,Rodez,C+O,44.348459,2.562750
-122021390U-2,2,Rue de Paraire,12000,Rodez,OSM,44.350145,2.564883
+122021390U-2,2,Rue de Paraire,12000,Rodez,OSM,44.350179,2.565064
 122021390U-23,23,Rue de Paraire,12000,Rodez,C+O,44.348512,2.564011
 122021390U-24,24,Rue de Paraire,12000,Rodez,C+O,44.348471,2.562571
 122021390U-25,25,Rue de Paraire,12000,Rodez,C+O,44.348485,2.563850
@@ -37682,7 +37682,7 @@
 122021410R-16,16,Rue Pasteur,12000,Rodez,C+O,44.353307,2.571084
 122021410R-17,17,Rue Pasteur,12000,Rodez,C+O,44.353332,2.570686
 122021410R-18,18,Rue Pasteur,12000,Rodez,C+O,44.353340,2.570975
-122021410R-19,19,Rue Pasteur,12000,Rodez,OSM,44.353372,2.570556
+122021410R-19,19,Rue Pasteur,12000,Rodez,OSM,44.353359,2.570558
 122021410R-20,20,Rue Pasteur,12000,Rodez,C+O,44.353377,2.570854
 122021410R-22,22,Rue Pasteur,12000,Rodez,C+O,44.353406,2.570758
 122021410R-2,2,Rue Pasteur,12000,Rodez,C+O,44.352992,2.572613
@@ -38654,7 +38654,7 @@
 122021800P-8,8,Rue Sainte-Catherine,12000,Rodez,OSM,44.348581,2.576766
 122021800P-9,9,Rue Sainte-Catherine,12000,Rodez,C+O,44.348517,2.577018
 122021801R-5,5,Place Sainte-Catherine,12000,Rodez,OSM,44.350075,2.576623
-122021820L-1,1,Rue Sarrus,12000,Rodez,OSM,44.344728,2.571997
+122021820L-1,1,Rue Sarrus,12000,Rodez,OSM,44.345647,2.573510
 122021820L-12,12,Rue Sarrus,12000,Rodez,OSM,44.346147,2.572075
 122021820L-16,16,Rue Sarrus,12000,Rodez,OSM,44.345470,2.571710
 122021820L-18,18,Rue Sarrus,12000,Rodez,OSM,44.345267,2.571555
@@ -38684,25 +38684,25 @@
 122021840H-54,54,Avenue du Ségala,12000,Rodez,OSM,44.344885,2.567385
 122021840H-5,5,Avenue du Ségala,12000,Rodez,C+O,44.345130,2.568685
 122021840H-6,6,Avenue du Ségala,12000,Rodez,C+O,44.345267,2.568841
-122021850U-1,1,Rue de Séguret Saincric,12000,Rodez,C+O,44.351959,2.570674
-122021850U-16,16,Rue de Séguret Saincric,12000,Rodez,C+O,44.353391,2.571761
-122021850U-17,17,Rue de Séguret Saincric,12000,Rodez,C+O,44.352702,2.571169
-122021850U-18,18,Rue de Séguret Saincric,12000,Rodez,C+O,44.353502,2.571833
-122021850U-21,21,Rue de Séguret Saincric,12000,Rodez,C+O,44.352891,2.571295
-122021850U-2,2,Rue de Séguret Saincric,12000,Rodez,C+O,44.351963,2.570817
-122021850U-23,23,Rue de Séguret Saincric,12000,Rodez,C+O,44.352991,2.571361
-122021850U-25,25,Rue de Séguret Saincric,12000,Rodez,C+O,44.353285,2.571588
-122021850U-27,27,Rue de Séguret Saincric,12000,Rodez,C+O,44.353401,2.571664
-122021850U-29,29,Rue de Séguret Saincric,12000,Rodez,OSM,44.353563,2.571736
-122021850U-31,31,Rue de Séguret Saincric,12000,Rodez,OSM,44.353721,2.571836
-122021850U-3,3,Rue de Séguret Saincric,12000,Rodez,C+O,44.352139,2.570798
-122021850U-4,4,Rue de Séguret Saincric,12000,Rodez,C+O,44.352127,2.570927
-122021850U-7,7,Rue de Séguret Saincric,12000,Rodez,C+O,44.352273,2.570886
-122021850U-8,8,Rue de Séguret Saincric,12000,Rodez,OSM,44.352616,2.571252
-122021850U-9,9,Rue de Séguret Saincric,12000,Rodez,C+O,44.352496,2.571035
+122021850U-1,1,Rue Séguret Saincric,12000,Rodez,C+O,44.351959,2.570674
+122021850U-16,16,Rue Séguret Saincric,12000,Rodez,C+O,44.353391,2.571761
+122021850U-17,17,Rue Séguret Saincric,12000,Rodez,C+O,44.352702,2.571169
+122021850U-18,18,Rue Séguret Saincric,12000,Rodez,C+O,44.353502,2.571833
+122021850U-21,21,Rue Séguret Saincric,12000,Rodez,C+O,44.352891,2.571295
+122021850U-2,2,Rue Séguret Saincric,12000,Rodez,C+O,44.351963,2.570817
+122021850U-23,23,Rue Séguret Saincric,12000,Rodez,C+O,44.352991,2.571361
+122021850U-25,25,Rue Séguret Saincric,12000,Rodez,C+O,44.353285,2.571588
+122021850U-27,27,Rue Séguret Saincric,12000,Rodez,C+O,44.353401,2.571664
+122021850U-29,29,Rue Séguret Saincric,12000,Rodez,OSM,44.353563,2.571736
+122021850U-31,31,Rue Séguret Saincric,12000,Rodez,OSM,44.353721,2.571836
+122021850U-3,3,Rue Séguret Saincric,12000,Rodez,C+O,44.352139,2.570798
+122021850U-4,4,Rue Séguret Saincric,12000,Rodez,C+O,44.352127,2.570927
+122021850U-7,7,Rue Séguret Saincric,12000,Rodez,C+O,44.352273,2.570886
+122021850U-8,8,Rue Séguret Saincric,12000,Rodez,OSM,44.352616,2.571252
+122021850U-9,9,Rue Séguret Saincric,12000,Rodez,C+O,44.352496,2.571035
 122021860E-10,10,Rue Séguy,12000,Rodez,C+O,44.351619,2.575395
 122021860E-11,11,Rue Séguy,12000,Rodez,C+O,44.351940,2.575601
-122021860E-1,1,Rue Séguy,12000,Rodez,OSM,44.351238,2.575100
+122021860E-1,1,Rue Séguy,12000,Rodez,OSM,44.351336,2.575169
 122021860E-12,12,Rue Séguy,12000,Rodez,C+O,44.351792,2.575530
 122021860E-13,13,Rue Séguy,12000,Rodez,C+O,44.352069,2.575736
 122021860E-14,14,Rue Séguy,12000,Rodez,C+O,44.351990,2.575707
@@ -38737,14 +38737,14 @@
 122021868N-5,5,Rue Stendhal,12000,Rodez,OSM,44.371977,2.551016
 122021870R-10,10,Avenue Tarayre,12000,Rodez,OSM,44.355775,2.577091
 122021870R-10B,10B,Avenue Tarayre,12000,Rodez,OSM,44.355892,2.577131
-122021870R-11,11,Avenue Tarayre,12000,Rodez,OSM,44.356113,2.576645
+122021870R-11,11,Avenue Tarayre,12000,Rodez,OSM,44.356114,2.576620
 122021870R-1,1,Avenue Tarayre,12000,Rodez,OSM,44.355807,2.576574
 122021870R-12,12,Avenue Tarayre,12000,Rodez,OSM,44.355892,2.577241
 122021870R-14,14,Avenue Tarayre,12000,Rodez,OSM,44.355917,2.577361
 122021870R-15,15,Avenue Tarayre,12000,Rodez,OSM,44.356714,2.578543
 122021870R-16,16,Avenue Tarayre,12000,Rodez,OSM,44.355963,2.577448
 122021870R-17,17,Avenue Tarayre,12000,Rodez,C+O,44.356512,2.578959
-122021870R-18,18,Avenue Tarayre,12000,Rodez,OSM,44.356011,2.577548
+122021870R-18,18,Avenue Tarayre,12000,Rodez,OSM,44.355956,2.577603
 122021870R-19,19,Avenue Tarayre,12000,Rodez,C+O,44.356571,2.579266
 122021870R-19B,19BIS,Avenue Tarayre,12000,Rodez,C+O,44.356818,2.579201
 122021870R-20,20,Avenue Tarayre,12000,Rodez,OSM,44.356020,2.577708
@@ -38770,7 +38770,7 @@
 122021870R-39,39,Avenue Tarayre,12000,Rodez,OSM,44.356860,2.580697
 122021870R-40,40,Avenue Tarayre,12000,Rodez,OSM,44.356254,2.578855
 122021870R-40B,40B,Avenue Tarayre,12000,Rodez,OSM,44.356271,2.578944
-122021870R-41,41,Avenue Tarayre,12000,Rodez,OSM,44.356920,2.580856
+122021870R-41,41,Avenue Tarayre,12000,Rodez,OSM,44.356949,2.580819
 122021870R-42,42,Avenue Tarayre,12000,Rodez,OSM,44.356295,2.579036
 122021870R-43,43,Avenue Tarayre,12000,Rodez,OSM,44.357036,2.580899
 122021870R-43B,43BIS,Avenue Tarayre,12000,Rodez,C+O,44.357118,2.580884
@@ -38784,19 +38784,19 @@
 122021870R-5,5,Avenue Tarayre,12000,Rodez,OSM,44.356201,2.576289
 122021870R-56,56,Avenue Tarayre,12000,Rodez,OSM,44.356469,2.579993
 122021870R-58,58,Avenue Tarayre,12000,Rodez,OSM,44.356496,2.580144
-122021870R-62,62,Avenue Tarayre,12000,Rodez,OSM,44.356532,2.580368
+122021870R-62,62,Avenue Tarayre,12000,Rodez,OSM,44.356304,2.580347
 122021870R-64,64,Avenue Tarayre,12000,Rodez,C+O,44.356588,2.580470
 122021870R-66,66,Avenue Tarayre,12000,Rodez,OSM,44.356561,2.580563
 122021870R-6,6,Avenue Tarayre,12000,Rodez,OSM,44.355837,2.576771
 122021870R-7,7,Avenue Tarayre,12000,Rodez,OSM,44.356086,2.576426
-122021870R-8,8,Avenue Tarayre,12000,Rodez,OSM,44.355877,2.576874
+122021870R-8,8,Avenue Tarayre,12000,Rodez,OSM,44.355858,2.576880
 122021870R-8B,8B,Avenue Tarayre,12000,Rodez,OSM,44.355817,2.576991
 122021870R-9,9,Avenue Tarayre,12000,Rodez,OSM,44.356099,2.576498
 122021890M-10,10,Rue du Terral,12000,Rodez,C+O,44.351106,2.574727
 122021890M-1,1,Rue du Terral,12000,Rodez,OSM,44.350874,2.575225
 122021890M-2,2,Rue du Terral,12000,Rodez,C+O,44.350962,2.575322
 122021890M-4,4,Rue du Terral,12000,Rodez,OSM,44.351042,2.575141
-122021890M-6,6,Rue du Terral,12000,Rodez,OSM,44.351056,2.574999
+122021890M-6,6,Rue du Terral,12000,Rodez,OSM,44.351070,2.575023
 122021890M-8,8,Rue du Terral,12000,Rodez,C+O,44.351094,2.574827
 122021896U-19,19,Rue Thomas Edison,12000,Rodez,C+O,44.372600,2.538186
 122021910J-1,1,Place des Toiles,12000,Rodez,C+O,44.347799,2.575292
@@ -38828,11 +38828,11 @@
 122021930F-2,2,Rue du Touat,12000,Rodez,C+O,44.349792,2.575114
 122021930F-23,23,Rue du Touat,12000,Rodez,OSM,44.350629,2.575369
 122021930F-25,25,Rue du Touat,12000,Rodez,OSM,44.350662,2.575417
-122021930F-3,3,Rue du Touat,12000,Rodez,OSM,44.349930,2.575098
+122021930F-3,3,Rue du Touat,12000,Rodez,OSM,44.349951,2.575150
 122021930F-4,4,Rue du Touat,12000,Rodez,C+O,44.349862,2.575144
-122021930F-5,5,Rue du Touat,12000,Rodez,OSM,44.349995,2.575151
+122021930F-5,5,Rue du Touat,12000,Rodez,OSM,44.349998,2.575173
 122021930F-6,6,Rue du Touat,12000,Rodez,C+O,44.349930,2.575178
-122021930F-7,7,Rue du Touat,12000,Rodez,OSM,44.350038,2.575146
+122021930F-7,7,Rue du Touat,12000,Rodez,OSM,44.350052,2.575162
 122021930F-8,8,Rue du Touat,12000,Rodez,OSM,44.349991,2.575213
 122021930F-9,9,Rue du Touat,12000,Rodez,OSM,44.350076,2.575148
 122021930F-9,9,Rue du Touat,12000,Rodez,OSM,44.350084,2.575122
@@ -39010,7 +39010,7 @@
 122022000G-9,9,Rue Victoire Massol,12000,Rodez,C+O,44.350116,2.572353
 122022010T-10,10,Avenue Victor Hugo,12000,Rodez,C+O,44.351195,2.571581
 122022010T-11,11,Avenue Victor Hugo,12000,Rodez,C+O,44.350976,2.570978
-122022010T-1,1,Avenue Victor Hugo,12000,Rodez,OSM,44.350861,2.572234
+122022010T-1,1,Avenue Victor Hugo,12000,Rodez,OSM,44.350820,2.572444
 122022010T-12,12,Avenue Victor Hugo,12000,Rodez,C+O,44.351198,2.571427
 122022010T-15,15,Avenue Victor Hugo,12000,Rodez,C+O,44.351076,2.569796
 122022010T-17,17,Avenue Victor Hugo,12000,Rodez,C+O,44.351091,2.569577
@@ -39028,7 +39028,7 @@
 122022010T-37B,37BIS,Avenue Victor Hugo,12000,Rodez,C+O,44.351230,2.566770
 122022010T-39,39,Avenue Victor Hugo,12000,Rodez,C+O,44.351251,2.566615
 122022010T-41,41,Avenue Victor Hugo,12000,Rodez,OSM,44.351222,2.566454
-122022010T-43,43,Avenue Victor Hugo,12000,Rodez,OSM,44.351217,2.566101
+122022010T-43,43,Avenue Victor Hugo,12000,Rodez,OSM,44.351208,2.566246
 122022010T-4,4,Avenue Victor Hugo,12000,Rodez,C+O,44.351183,2.572102
 122022010T-47,47,Avenue Victor Hugo,12000,Rodez,OSM,44.351232,2.566026
 122022010T-5,5,Avenue Victor Hugo,12000,Rodez,C+O,44.350972,2.571524
@@ -41586,23 +41586,23 @@
 122081675C-6396,6396,Chemin Saint-Vincent,12400,Saint-Affrique,C+O,43.948333,2.906245
 122081675C-719,719,Chemin Saint-Vincent,12400,Saint-Affrique,C+O,43.948279,2.905432
 122081675C-735,735,Chemin Saint-Vincent,12400,Saint-Affrique,C+O,43.948223,2.905664
-122081678F-1116,1116,Route de St Victor,12400,Saint-Affrique,C+O,43.966932,2.891578
-122081678F-1118,1118,Route de St Victor,12400,Saint-Affrique,C+O,43.966943,2.891419
-122081678F-117,117,Route de St Victor,12400,Saint-Affrique,C+O,43.962624,2.888276
-122081678F-1480,1480,Route de St Victor,12400,Saint-Affrique,C+O,43.967202,2.892795
-122081678F-161,161,Route de St Victor,12400,Saint-Affrique,C+O,43.962763,2.888452
-122081678F-163,163,Route de St Victor,12400,Saint-Affrique,C+O,43.962952,2.888622
-122081678F-195,195,Route de St Victor,12400,Saint-Affrique,C+O,43.963091,2.888768
-122081678F-312,312,Route de St Victor,12400,Saint-Affrique,C+O,43.964052,2.889669
-122081678F-312B,312BIS,Route de St Victor,12400,Saint-Affrique,C+O,43.963960,2.889633
-122081678F-423,423,Route de St Victor,12400,Saint-Affrique,C+O,43.965081,2.889776
-122081678F-464,464,Route de St Victor,12400,Saint-Affrique,C+O,43.965368,2.889974
-122081678F-521,521,Route de St Victor,12400,Saint-Affrique,C+O,43.965857,2.890105
-122081678F-523,523,Route de St Victor,12400,Saint-Affrique,C+O,43.965948,2.890277
-122081678F-573,573,Route de St Victor,12400,Saint-Affrique,C+O,43.966376,2.890060
-122081678F-576,576,Route de St Victor,12400,Saint-Affrique,C+O,43.966241,2.890201
-122081678F-679,679,Route de St Victor,12400,Saint-Affrique,C+O,43.967612,2.890823
-122081678F-931,931,Route de St Victor,12400,Saint-Affrique,C+O,43.968958,2.893938
+122081678F-1116,1116,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.966932,2.891578
+122081678F-1118,1118,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.966943,2.891419
+122081678F-117,117,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.962624,2.888276
+122081678F-1480,1480,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.967202,2.892795
+122081678F-161,161,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.962763,2.888452
+122081678F-163,163,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.962952,2.888622
+122081678F-195,195,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.963091,2.888768
+122081678F-312,312,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.964052,2.889669
+122081678F-312B,312BIS,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.963960,2.889633
+122081678F-423,423,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.965081,2.889776
+122081678F-464,464,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.965368,2.889974
+122081678F-521,521,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.965857,2.890105
+122081678F-523,523,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.965948,2.890277
+122081678F-573,573,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.966376,2.890060
+122081678F-576,576,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.966241,2.890201
+122081678F-679,679,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.967612,2.890823
+122081678F-931,931,Route de Saint-Victor,12400,Saint-Affrique,C+O,43.968958,2.893938
 122081700E-41,41,Rue Sarrus,12400,Saint-Affrique,C+O,43.959024,2.884728
 122081725G-10,10,Rue de Scourdois,12400,Saint-Affrique,C+O,43.962077,2.875582
 122081725G-1,1,Rue de Scourdois,12400,Saint-Affrique,C+O,43.961180,2.875389
@@ -43807,7 +43807,7 @@
 122250130Z-6,6,Chemin des Mines,12100,Saint-Georges-de-Luzençon,OSM,44.060786,2.987279
 122250130Z-7,7,Chemin des Mines,12100,Saint-Georges-de-Luzençon,C+O,44.060796,2.987804
 122250130Z-9,9,Chemin des Mines,12100,Saint-Georges-de-Luzençon,OSM,44.060938,2.988215
-122250135E-1,1,Chemin du Moulin,12100,Saint-Georges-de-Luzençon,OSM,44.064363,2.983804
+122250135E-1,1,Chemin du Moulin,12100,Saint-Georges-de-Luzençon,OSM,44.064361,2.983810
 122250135E-3,3,Chemin du Moulin,12100,Saint-Georges-de-Luzençon,OSM,44.064614,2.983865
 122250136F-3,3,Rue du Moulin Saint-Geniez,12100,Saint-Georges-de-Luzençon,CAD,44.043315,3.021551
 122250136F-4,4,Rue du Moulin Saint-Geniez,12100,Saint-Georges-de-Luzençon,CAD,44.043774,3.021140
@@ -47106,7 +47106,7 @@
 122700163P-4,4,Rue de L'Hospice,12720,Sévérac-le-Château,C+O,44.321889,3.069198
 122700163P-6,6,Rue de L'Hospice,12720,Sévérac-le-Château,C+O,44.321935,3.069145
 122700164R-6161,6161,Place Jean Jaurès,12720,Sévérac-le-Château,C+O,44.323833,3.057946
-122700165S-11,11,Avenue Jean Jaurès,12720,Sévérac-le-Château,OSM,44.323765,3.058237
+122700165S-11,11,Avenue Jean Jaurès,12720,Sévérac-le-Château,OSM,44.323824,3.058285
 122700165S-1,1,Avenue Jean Jaurès,12720,Sévérac-le-Château,C+O,44.324559,3.057773
 122700165S-13,13,Avenue Jean Jaurès,12720,Sévérac-le-Château,C+O,44.323775,3.058183
 122700165S-15,15,Avenue Jean Jaurès,12720,Sévérac-le-Château,C+O,44.323715,3.058158
@@ -47181,23 +47181,23 @@
 122700171Y-5,5,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327689,3.059806
 122700171Y-6,6,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327833,3.059946
 122700171Y-8,8,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327765,3.059785
-122700172Z-11,11,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
-122700172Z-1,1,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
-122700172Z-13,13,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
-122700172Z-15,15,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
-122700172Z-17,17,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
-122700172Z-19,19,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
-122700172Z-21,21,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
-122700172Z-2,2,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
-122700172Z-23,23,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
-122700172Z-3,3,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
-122700172Z-3B,3BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
-122700172Z-5,5,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
-122700172Z-6,6,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
-122700172Z-7,7,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
-122700172Z-7B,7BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
-122700172Z-8,8,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
-122700172Z-9,9,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
+122700172Z-11,11,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
+122700172Z-1,1,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
+122700172Z-13,13,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
+122700172Z-15,15,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
+122700172Z-17,17,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
+122700172Z-19,19,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
+122700172Z-21,21,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
+122700172Z-2,2,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
+122700172Z-23,23,Rue Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
+122700172Z-3,3,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
+122700172Z-3B,3BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
+122700172Z-5,5,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
+122700172Z-6,6,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
+122700172Z-7,7,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
+122700172Z-7B,7BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
+122700172Z-8,8,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
+122700172Z-9,9,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
 122700175C-1,1,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321673,3.068424
 122700175C-2,2,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321717,3.069372
 122700175C-3,3,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321697,3.068191
@@ -47409,7 +47409,7 @@
 122700194Y-40,40,Avenue Pierre Semard,12720,Sévérac-le-Château,C+O,44.326563,3.060114
 122700194Y-4,4,Avenue Pierre Semard,12720,Sévérac-le-Château,C+O,44.324777,3.057983
 122700194Y-5,5,Avenue Pierre Semard,12720,Sévérac-le-Château,C+O,44.324866,3.057911
-122700194Y-6,6,Avenue Pierre Semard,12720,Sévérac-le-Château,OSM,44.324761,3.058128
+122700194Y-6,6,Avenue Pierre Semard,12720,Sévérac-le-Château,OSM,44.324762,3.058135
 122700194Y-6B,6BIS,Avenue Pierre Semard,12720,Sévérac-le-Château,C+O,44.324632,3.058559
 122700194Y-7,7,Avenue Pierre Semard,12720,Sévérac-le-Château,OSM,44.324928,3.058069
 122700194Y-8,8,Avenue Pierre Semard,12720,Sévérac-le-Château,C+O,44.324854,3.058383

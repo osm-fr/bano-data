@@ -303,7 +303,7 @@
 230010440Z-7,7,Rue Saint-Silvain,23150,Ahun,C+O,46.086675,2.046260
 230010440Z-8,8,Rue Saint-Silvain,23150,Ahun,C+O,46.086748,2.046060
 230010440Z-9,9,Rue Saint-Silvain,23150,Ahun,C+O,46.086622,2.046112
-230010460W-4,4,Rue Traversiere,23150,Ahun,C+O,46.086599,2.044127
+230010460W-4,4,Rue Traversière,23150,Ahun,C+O,46.086599,2.044127
 230010500P-14,14,Boulevard de la Ville,23150,Ahun,C+O,46.086569,2.043162
 230010500P-20,20,Boulevard de la Ville,23150,Ahun,C+O,46.085774,2.044065
 230010500P-2,2,Boulevard de la Ville,23150,Ahun,C+O,46.087953,2.044564
@@ -13104,50 +13104,50 @@
 230960373N-5,5,Route de Chabrieres,23000,Guéret,C+O,46.147188,1.866015
 230960373N-7,7,Route de Chabrieres,23000,Guéret,C+O,46.147005,1.866053
 230960373N-8,8,Route de Chabrieres,23000,Guéret,C+O,46.147313,1.866138
-230960390G-10,10,Rue de Champegaud,23000,Guéret,C+O,46.168331,1.863605
-230960390G-11,11,Rue de Champegaud,23000,Guéret,C+O,46.167994,1.863023
-230960390G-1,1,Rue de Champegaud,23000,Guéret,C+O,46.168781,1.863618
-230960390G-12,12,Rue de Champegaud,23000,Guéret,C+O,46.168100,1.863272
-230960390G-14,14,Rue de Champegaud,23000,Guéret,C+O,46.167801,1.863034
-230960390G-16,16,Rue de Champegaud,23000,Guéret,C+O,46.167624,1.862992
-230960390G-18,18,Rue de Champegaud,23000,Guéret,C+O,46.167385,1.862998
-230960390G-20,20,Rue de Champegaud,23000,Guéret,C+O,46.167122,1.862768
-230960390G-21,21,Rue de Champegaud,23000,Guéret,C+O,46.167180,1.862572
-230960390G-22,22,Rue de Champegaud,23000,Guéret,C+O,46.166929,1.862594
-230960390G-23,23,Rue de Champegaud,23000,Guéret,C+O,46.167054,1.862458
-230960390G-24,24,Rue de Champegaud,23000,Guéret,C+O,46.166783,1.862462
-230960390G-25,25,Rue de Champegaud,23000,Guéret,C+O,46.166931,1.862347
-230960390G-26,26,Rue de Champegaud,23000,Guéret,C+O,46.166620,1.862313
-230960390G-27,27,Rue de Champegaud,23000,Guéret,C+O,46.166804,1.862231
-230960390G-28,28,Rue de Champegaud,23000,Guéret,C+O,46.166446,1.862152
-230960390G-29,29,Rue de Champegaud,23000,Guéret,C+O,46.166670,1.862109
-230960390G-30,30,Rue de Champegaud,23000,Guéret,C+O,46.166288,1.862008
-230960390G-31,31,Rue de Champegaud,23000,Guéret,C+O,46.166545,1.861994
-230960390G-32,32,Rue de Champegaud,23000,Guéret,C+O,46.166164,1.861897
-230960390G-33,33,Rue de Champegaud,23000,Guéret,C+O,46.166426,1.861887
-230960390G-3,3,Rue de Champegaud,23000,Guéret,C+O,46.168633,1.863570
-230960390G-34,34,Rue de Champegaud,23000,Guéret,C+O,46.165964,1.861714
-230960390G-35,35,Rue de Champegaud,23000,Guéret,C+O,46.166274,1.861733
-230960390G-36,36,Rue de Champegaud,23000,Guéret,C+O,46.165968,1.861414
-230960390G-37,37,Rue de Champegaud,23000,Guéret,C+O,46.166113,1.861486
-230960390G-39,39,Rue de Champegaud,23000,Guéret,C+O,46.166017,1.861242
-230960390G-41,41,Rue de Champegaud,23000,Guéret,C+O,46.165951,1.861050
-230960390G-43,43,Rue de Champegaud,23000,Guéret,C+O,46.165885,1.860865
-230960390G-45,45,Rue de Champegaud,23000,Guéret,C+O,46.165816,1.860666
-230960390G-47,47,Rue de Champegaud,23000,Guéret,C+O,46.165734,1.860440
-230960390G-5,5,Rue de Champegaud,23000,Guéret,C+O,46.168418,1.863480
-230960390G-61,61,Rue de Champegaud,23000,Guéret,C+O,46.164643,1.859625
-230960390G-63,63,Rue de Champegaud,23000,Guéret,C+O,46.164443,1.859630
-230960390G-65,65,Rue de Champegaud,23000,Guéret,C+O,46.164263,1.859675
-230960390G-67,67,Rue de Champegaud,23000,Guéret,C+O,46.164066,1.859740
-230960390G-69,69,Rue de Champegaud,23000,Guéret,C+O,46.163919,1.859792
-230960390G-71,71,Rue de Champegaud,23000,Guéret,C+O,46.163758,1.859844
-230960390G-73,73,Rue de Champegaud,23000,Guéret,C+O,46.163570,1.859916
-230960390G-75,75,Rue de Champegaud,23000,Guéret,C+O,46.163357,1.860018
-230960390G-77,77,Rue de Champegaud,23000,Guéret,C+O,46.163199,1.860123
-230960390G-7,7,Rue de Champegaud,23000,Guéret,C+O,46.168267,1.863330
-230960390G-79,79,Rue de Champegaud,23000,Guéret,C+O,46.162976,1.859982
-230960390G-9,9,Rue de Champegaud,23000,Guéret,C+O,46.168119,1.863155
+230960390G-10,10,Rue Champegaud,23000,Guéret,C+O,46.168331,1.863605
+230960390G-11,11,Rue Champegaud,23000,Guéret,C+O,46.167994,1.863023
+230960390G-1,1,Rue Champegaud,23000,Guéret,C+O,46.168781,1.863618
+230960390G-12,12,Rue Champegaud,23000,Guéret,C+O,46.168100,1.863272
+230960390G-14,14,Rue Champegaud,23000,Guéret,C+O,46.167801,1.863034
+230960390G-16,16,Rue Champegaud,23000,Guéret,C+O,46.167624,1.862992
+230960390G-18,18,Rue Champegaud,23000,Guéret,C+O,46.167385,1.862998
+230960390G-20,20,Rue Champegaud,23000,Guéret,C+O,46.167122,1.862768
+230960390G-21,21,Rue Champegaud,23000,Guéret,C+O,46.167180,1.862572
+230960390G-22,22,Rue Champegaud,23000,Guéret,C+O,46.166929,1.862594
+230960390G-23,23,Rue Champegaud,23000,Guéret,C+O,46.167054,1.862458
+230960390G-24,24,Rue Champegaud,23000,Guéret,C+O,46.166783,1.862462
+230960390G-25,25,Rue Champegaud,23000,Guéret,C+O,46.166931,1.862347
+230960390G-26,26,Rue Champegaud,23000,Guéret,C+O,46.166620,1.862313
+230960390G-27,27,Rue Champegaud,23000,Guéret,C+O,46.166804,1.862231
+230960390G-28,28,Rue Champegaud,23000,Guéret,C+O,46.166446,1.862152
+230960390G-29,29,Rue Champegaud,23000,Guéret,C+O,46.166670,1.862109
+230960390G-30,30,Rue Champegaud,23000,Guéret,C+O,46.166288,1.862008
+230960390G-31,31,Rue Champegaud,23000,Guéret,C+O,46.166545,1.861994
+230960390G-32,32,Rue Champegaud,23000,Guéret,C+O,46.166164,1.861897
+230960390G-33,33,Rue Champegaud,23000,Guéret,C+O,46.166426,1.861887
+230960390G-3,3,Rue Champegaud,23000,Guéret,C+O,46.168633,1.863570
+230960390G-34,34,Rue Champegaud,23000,Guéret,C+O,46.165964,1.861714
+230960390G-35,35,Rue Champegaud,23000,Guéret,C+O,46.166274,1.861733
+230960390G-36,36,Rue Champegaud,23000,Guéret,C+O,46.165968,1.861414
+230960390G-37,37,Rue Champegaud,23000,Guéret,C+O,46.166113,1.861486
+230960390G-39,39,Rue Champegaud,23000,Guéret,C+O,46.166017,1.861242
+230960390G-41,41,Rue Champegaud,23000,Guéret,C+O,46.165951,1.861050
+230960390G-43,43,Rue Champegaud,23000,Guéret,C+O,46.165885,1.860865
+230960390G-45,45,Rue Champegaud,23000,Guéret,C+O,46.165816,1.860666
+230960390G-47,47,Rue Champegaud,23000,Guéret,C+O,46.165734,1.860440
+230960390G-5,5,Rue Champegaud,23000,Guéret,C+O,46.168418,1.863480
+230960390G-61,61,Rue Champegaud,23000,Guéret,C+O,46.164643,1.859625
+230960390G-63,63,Rue Champegaud,23000,Guéret,C+O,46.164443,1.859630
+230960390G-65,65,Rue Champegaud,23000,Guéret,C+O,46.164263,1.859675
+230960390G-67,67,Rue Champegaud,23000,Guéret,C+O,46.164066,1.859740
+230960390G-69,69,Rue Champegaud,23000,Guéret,C+O,46.163919,1.859792
+230960390G-71,71,Rue Champegaud,23000,Guéret,C+O,46.163758,1.859844
+230960390G-73,73,Rue Champegaud,23000,Guéret,C+O,46.163570,1.859916
+230960390G-75,75,Rue Champegaud,23000,Guéret,C+O,46.163357,1.860018
+230960390G-77,77,Rue Champegaud,23000,Guéret,C+O,46.163199,1.860123
+230960390G-7,7,Rue Champegaud,23000,Guéret,C+O,46.168267,1.863330
+230960390G-79,79,Rue Champegaud,23000,Guéret,C+O,46.162976,1.859982
+230960390G-9,9,Rue Champegaud,23000,Guéret,C+O,46.168119,1.863155
 230960410D-1,1,Chemin de Chandonnet,23000,Guéret,CAD,46.176016,1.862857
 230960422S-1,1,Allée du Chanoine Plazanet,23000,Guéret,C+O,46.166722,1.875296
 230960422S-5,5,Allée du Chanoine Plazanet,23000,Guéret,C+O,46.167160,1.875183
@@ -16900,63 +16900,63 @@
 231050001V-82,82,Route d'Ahun,23150,Lavaveix-les-Mines,C+O,46.070622,2.087837
 231050001V-8,8,Route d'Ahun,23150,Lavaveix-les-Mines,C+O,46.076778,2.079190
 231050001V-9,9,Route d'Ahun,23150,Lavaveix-les-Mines,C+O,46.076185,2.080665
-231050003X-10,10,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069253,2.089248
-231050003X-11,11,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069913,2.089048
-231050003X-1,1,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.070233,2.088857
-231050003X-12,12,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069155,2.089306
-231050003X-13,13,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069888,2.089064
-231050003X-14,14,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069080,2.089350
-231050003X-15,15,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069832,2.089096
-231050003X-16,16,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069018,2.089387
-231050003X-17,17,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069698,2.089175
-231050003X-18,18,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068939,2.089433
-231050003X-20,20,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068299,2.089821
-231050003X-21,21,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069509,2.089822
-231050003X-22,22,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068153,2.089909
-231050003X-2,2,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069879,2.088874
-231050003X-23,23,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069307,2.089408
-231050003X-25,25,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069194,2.089477
-231050003X-26,26,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067789,2.090126
-231050003X-27,27,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069083,2.089544
-231050003X-28,28,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067729,2.090163
-231050003X-29,29,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068889,2.089646
-231050003X-30,30,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067584,2.090249
-231050003X-31,31,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068628,2.089820
-231050003X-32,32,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067418,2.090328
-231050003X-3,3,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.070148,2.088908
-231050003X-34,34,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067088,2.090547
-231050003X-36,36,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.066781,2.090723
-231050003X-37,37,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068353,2.089982
-231050003X-38,38,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.066623,2.090809
-231050003X-39,39,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068244,2.090050
-231050003X-39B,39BIS,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.068159,2.090101
-231050003X-40,40,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.066445,2.090909
-231050003X-42,42,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.065970,2.091199
-231050003X-43,43,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067940,2.090230
-231050003X-44,44,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.065552,2.091454
-231050003X-4,4,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069619,2.089030
-231050003X-45,45,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067846,2.090287
-231050003X-46,46,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.065089,2.091737
-231050003X-47,47,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067804,2.090312
-231050003X-48,48,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.064927,2.091837
-231050003X-49,49,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067745,2.090348
-231050003X-51,51,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067635,2.090413
-231050003X-52,52,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.064645,2.092009
-231050003X-53,53,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067510,2.090488
-231050003X-54,54,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.064494,2.092102
-231050003X-55,55,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.067342,2.090575
-231050003X-5,5,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.070077,2.088950
-231050003X-56,56,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.064253,2.092247
-231050003X-58,58,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.064049,2.092371
-231050003X-59,59,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.066304,2.091200
-231050003X-61,61,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.065837,2.091472
-231050003X-63,63,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.065398,2.091739
-231050003X-65,65,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.065022,2.091964
-231050003X-6,6,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069445,2.089135
-231050003X-67,67,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.063949,2.093082
-231050003X-7,7,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.070005,2.088993
-231050003X-8,8,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069349,2.089191
-231050003X-9,9,Route d'Aubusson,23150,Lavaveix-les-Mines,CAD,46.069961,2.089020
+231050003X-10,10,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069253,2.089248
+231050003X-11,11,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069913,2.089048
+231050003X-1,1,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.070233,2.088857
+231050003X-12,12,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069155,2.089306
+231050003X-13,13,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069888,2.089064
+231050003X-14,14,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069080,2.089350
+231050003X-15,15,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069832,2.089096
+231050003X-16,16,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069018,2.089387
+231050003X-17,17,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069698,2.089175
+231050003X-18,18,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068939,2.089433
+231050003X-20,20,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068299,2.089821
+231050003X-21,21,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069509,2.089822
+231050003X-22,22,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068153,2.089909
+231050003X-2,2,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069879,2.088874
+231050003X-23,23,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069307,2.089408
+231050003X-25,25,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069194,2.089477
+231050003X-26,26,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067789,2.090126
+231050003X-27,27,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069083,2.089544
+231050003X-28,28,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067729,2.090163
+231050003X-29,29,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068889,2.089646
+231050003X-30,30,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067584,2.090249
+231050003X-31,31,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068628,2.089820
+231050003X-32,32,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067418,2.090328
+231050003X-3,3,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.070148,2.088908
+231050003X-34,34,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067088,2.090547
+231050003X-36,36,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.066781,2.090723
+231050003X-37,37,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068353,2.089982
+231050003X-38,38,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.066623,2.090809
+231050003X-39,39,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068244,2.090050
+231050003X-39B,39BIS,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.068159,2.090101
+231050003X-40,40,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.066445,2.090909
+231050003X-42,42,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.065970,2.091199
+231050003X-43,43,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067940,2.090230
+231050003X-44,44,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.065552,2.091454
+231050003X-4,4,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069619,2.089030
+231050003X-45,45,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067846,2.090287
+231050003X-46,46,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.065089,2.091737
+231050003X-47,47,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067804,2.090312
+231050003X-48,48,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.064927,2.091837
+231050003X-49,49,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067745,2.090348
+231050003X-51,51,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067635,2.090413
+231050003X-52,52,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.064645,2.092009
+231050003X-53,53,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067510,2.090488
+231050003X-54,54,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.064494,2.092102
+231050003X-55,55,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.067342,2.090575
+231050003X-5,5,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.070077,2.088950
+231050003X-56,56,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.064253,2.092247
+231050003X-58,58,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.064049,2.092371
+231050003X-59,59,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.066304,2.091200
+231050003X-61,61,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.065837,2.091472
+231050003X-63,63,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.065398,2.091739
+231050003X-65,65,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.065022,2.091964
+231050003X-6,6,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069445,2.089135
+231050003X-67,67,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.063949,2.093082
+231050003X-7,7,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.070005,2.088993
+231050003X-8,8,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069349,2.089191
+231050003X-9,9,Route d'Aubusson,23150,Lavaveix-les-Mines,C+O,46.069961,2.089020
 231050006A-11,11,Route de Bourlat,23150,Lavaveix-les-Mines,C+O,46.071931,2.099063
 231050006A-1,1,Route de Bourlat,23150,Lavaveix-les-Mines,C+O,46.070963,2.103015
 231050006A-13,13,Route de Bourlat,23150,Lavaveix-les-Mines,C+O,46.072342,2.098199
@@ -16973,22 +16973,22 @@
 231050006A-7,7,Route de Bourlat,23150,Lavaveix-les-Mines,C+O,46.071540,2.100581
 231050006A-8,8,Route de Bourlat,23150,Lavaveix-les-Mines,C+O,46.072097,2.098775
 231050006A-9,9,Route de Bourlat,23150,Lavaveix-les-Mines,C+O,46.071669,2.100004
-231050008C-10,10,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.081058,2.089768
-231050008C-11,11,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080291,2.089668
-231050008C-1,1,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080189,2.096914
-231050008C-12,12,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080380,2.089770
-231050008C-13,13,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080290,2.089574
-231050008C-14,14,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080384,2.089584
-231050008C-15,15,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080286,2.089359
-231050008C-16,16,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080388,2.089311
-231050008C-18,18,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080391,2.089057
-231050008C-20,20,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080428,2.088943
-231050008C-22,22,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080525,2.088788
-231050008C-3,3,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080181,2.096478
-231050008C-5,5,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080197,2.094498
-231050008C-7,7,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080283,2.090261
-231050008C-8,8,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080370,2.090341
-231050008C-9,9,Route de Chenerailles,23150,Lavaveix-les-Mines,CAD,46.080221,2.089747
+231050008C-10,10,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.081058,2.089768
+231050008C-11,11,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080291,2.089668
+231050008C-1,1,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080189,2.096914
+231050008C-12,12,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080380,2.089770
+231050008C-13,13,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080290,2.089574
+231050008C-14,14,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080384,2.089584
+231050008C-15,15,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080286,2.089359
+231050008C-16,16,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080388,2.089311
+231050008C-18,18,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080391,2.089057
+231050008C-20,20,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080428,2.088943
+231050008C-22,22,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080525,2.088788
+231050008C-3,3,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080181,2.096478
+231050008C-5,5,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080197,2.094498
+231050008C-7,7,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080283,2.090261
+231050008C-8,8,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080370,2.090341
+231050008C-9,9,Route de Chénerailles,23150,Lavaveix-les-Mines,C+O,46.080221,2.089747
 231050009D-11,11,Rue du Centre,23150,Lavaveix-les-Mines,C+O,46.073735,2.090112
 231050009D-1,1,Rue du Centre,23150,Lavaveix-les-Mines,C+O,46.076075,2.093020
 231050009D-13,13,Rue du Centre,23150,Lavaveix-les-Mines,C+O,46.073676,2.090042
@@ -17085,9 +17085,9 @@
 231050014J-3,3,Rue de la Descente,23150,Lavaveix-les-Mines,C+O,46.073815,2.088545
 231050014J-7,7,Rue de la Descente,23150,Lavaveix-les-Mines,C+O,46.074267,2.089523
 231050014J-8,8,Rue de la Descente,23150,Lavaveix-les-Mines,C+O,46.074040,2.088685
-231050015K-1,1,Rue du Docteur Treille,23150,Lavaveix-les-Mines,CAD,46.068489,2.089425
-231050015K-2,2,Rue du Docteur Treille,23150,Lavaveix-les-Mines,CAD,46.068667,2.089427
-231050018N-2,2,Impasse de la Gare,23150,Lavaveix-les-Mines,CAD,46.080246,2.089009
+231050015K-1,1,Rue du Docteur Treille,23150,Lavaveix-les-Mines,C+O,46.068489,2.089425
+231050015K-2,2,Rue du Docteur Treille,23150,Lavaveix-les-Mines,C+O,46.068667,2.089427
+231050018N-2,2,Impasse de la Gare,23150,Lavaveix-les-Mines,C+O,46.080246,2.089009
 231050019P-10B,10BIS,Rue de la Gare,23150,Lavaveix-les-Mines,C+O,46.079578,2.090201
 231050019P-1,1,Rue de la Gare,23150,Lavaveix-les-Mines,C+O,46.079788,2.090022
 231050019P-12,12,Rue de la Gare,23150,Lavaveix-les-Mines,C+O,46.079059,2.090755
@@ -17136,9 +17136,9 @@
 231050023U-1,1,Route du Pont,23150,Lavaveix-les-Mines,C+O,46.080172,2.098251
 231050023U-3,3,Route du Pont,23150,Lavaveix-les-Mines,C+O,46.079432,2.099540
 231050023U-9,9,Route du Pont,23150,Lavaveix-les-Mines,C+O,46.077686,2.098738
-231050024V-2,2,Boulevard Tech,23150,Lavaveix-les-Mines,CAD,46.071649,2.087873
-231050024V-4,4,Boulevard Tech,23150,Lavaveix-les-Mines,CAD,46.071467,2.088236
-231050024V-6,6,Boulevard Tech,23150,Lavaveix-les-Mines,CAD,46.071426,2.088382
+231050024V-2,2,Boulevard Tech,23150,Lavaveix-les-Mines,C+O,46.071649,2.087873
+231050024V-4,4,Boulevard Tech,23150,Lavaveix-les-Mines,C+O,46.071467,2.088236
+231050024V-6,6,Boulevard Tech,23150,Lavaveix-les-Mines,C+O,46.071426,2.088382
 231050026X-11,11,Allée de la Mine,23150,Lavaveix-les-Mines,C+O,46.072188,2.090761
 231050026X-1,1,Allée de la Mine,23150,Lavaveix-les-Mines,C+O,46.071114,2.089633
 231050026X-12,12,Allée de la Mine,23150,Lavaveix-les-Mines,C+O,46.071451,2.091236
@@ -17152,10 +17152,10 @@
 231050028Z-3,3,Chemin des Gouttes Noires,23150,Lavaveix-les-Mines,C+O,46.074177,2.088239
 231050028Z-4,4,Chemin des Gouttes Noires,23150,Lavaveix-les-Mines,C+O,46.074426,2.087618
 231050028Z-6,6,Chemin des Gouttes Noires,23150,Lavaveix-les-Mines,C+O,46.074611,2.087318
-231050029A-10,10,Rue des Hirondelles,23150,Lavaveix-les-Mines,CAD,46.079518,2.087998
-231050029A-4,4,Rue des Hirondelles,23150,Lavaveix-les-Mines,CAD,46.079925,2.087849
-231050029A-6,6,Rue des Hirondelles,23150,Lavaveix-les-Mines,CAD,46.079625,2.087662
-231050029A-8,8,Rue des Hirondelles,23150,Lavaveix-les-Mines,CAD,46.079615,2.087934
+231050029A-10,10,Rue des Hirondelles,23150,Lavaveix-les-Mines,C+O,46.079518,2.087998
+231050029A-4,4,Rue des Hirondelles,23150,Lavaveix-les-Mines,C+O,46.079925,2.087849
+231050029A-6,6,Rue des Hirondelles,23150,Lavaveix-les-Mines,C+O,46.079625,2.087662
+231050029A-8,8,Rue des Hirondelles,23150,Lavaveix-les-Mines,C+O,46.079615,2.087934
 231050031C-1,1,Rue des Jonquilles,23150,Lavaveix-les-Mines,C+O,46.073769,2.089139
 231050031C-3,3,Rue des Jonquilles,23150,Lavaveix-les-Mines,C+O,46.073926,2.088752
 231050033E-1,1,Rue des Hortensias,23150,Lavaveix-les-Mines,C+O,46.076867,2.095899
@@ -17179,29 +17179,29 @@
 231050034F-5,5,Rue du Puits de l'Est,23150,Lavaveix-les-Mines,C+O,46.076155,2.097415
 231050034F-7,7,Rue du Puits de l'Est,23150,Lavaveix-les-Mines,C+O,46.076119,2.097436
 231050034F-9,9,Rue du Puits de l'Est,23150,Lavaveix-les-Mines,C+O,46.076079,2.097458
-231050035G-1,1,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070681,2.088541
-231050035G-12,12,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070108,2.088723
-231050035G-2,2,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070619,2.088306
-231050035G-2A,2A,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070580,2.088376
-231050035G-3,3,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070665,2.088792
-231050035G-4,4,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070494,2.088371
-231050035G-5,5,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070558,2.088794
-231050035G-6,6,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070419,2.088447
-231050035G-7,7,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070456,2.088796
-231050035G-8,8,Place de la République,23150,Lavaveix-les-Mines,CAD,46.070359,2.088542
+231050035G-1,1,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070681,2.088541
+231050035G-12,12,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070108,2.088723
+231050035G-2,2,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070619,2.088306
+231050035G-2A,2A,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070580,2.088376
+231050035G-3,3,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070665,2.088792
+231050035G-4,4,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070494,2.088371
+231050035G-5,5,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070558,2.088794
+231050035G-6,6,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070419,2.088447
+231050035G-7,7,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070456,2.088796
+231050035G-8,8,Place de la République,23150,Lavaveix-les-Mines,C+O,46.070359,2.088542
 231050036H-1,1,Chemin des Rivailles,23150,Lavaveix-les-Mines,C+O,46.071571,2.098357
 231050036H-2,2,Chemin des Rivailles,23150,Lavaveix-les-Mines,C+O,46.069956,2.099070
 231050036H-4,4,Chemin des Rivailles,23150,Lavaveix-les-Mines,C+O,46.071105,2.098622
 231050036H-6,6,Chemin des Rivailles,23150,Lavaveix-les-Mines,C+O,46.072491,2.097684
 231050036H-8,8,Chemin des Rivailles,23150,Lavaveix-les-Mines,C+O,46.072608,2.097646
-231050038K-11,11,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080382,2.083973
-231050038K-1,1,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080347,2.086479
-231050038K-2,2,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080427,2.086541
-231050038K-3,3,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080353,2.085785
-231050038K-4,4,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080466,2.084659
-231050038K-5,5,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080353,2.085238
-231050038K-7,7,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080370,2.084823
-231050038K-9,9,Rue du Stade,23150,Lavaveix-les-Mines,CAD,46.080377,2.084514
+231050038K-11,11,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080382,2.083973
+231050038K-1,1,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080347,2.086479
+231050038K-2,2,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080427,2.086541
+231050038K-3,3,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080353,2.085785
+231050038K-4,4,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080466,2.084659
+231050038K-5,5,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080353,2.085238
+231050038K-7,7,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080370,2.084823
+231050038K-9,9,Rue du Stade,23150,Lavaveix-les-Mines,C+O,46.080377,2.084514
 231050040M-1,1,Chemin des Tuileries,23150,Lavaveix-les-Mines,C+O,46.076735,2.094516
 231050041N-11,11,Rue de la Tuilerie,23150,Lavaveix-les-Mines,C+O,46.078402,2.099024
 231050041N-1,1,Rue de la Tuilerie,23150,Lavaveix-les-Mines,C+O,46.076345,2.095153
@@ -17248,10 +17248,10 @@
 23105A032Y-18,18,Quartier Maurice,23150,Lavaveix-les-Mines,C+O,46.069064,2.095815
 23105A032Y-2,2,Quartier Maurice,23150,Lavaveix-les-Mines,C+O,46.066295,2.097023
 23105A032Y-4,4,Quartier Maurice,23150,Lavaveix-les-Mines,C+O,46.066584,2.096900
-23105A039F-20,20,Lotissement Tixier,23150,Lavaveix-les-Mines,CAD,46.070643,2.083852
-23105A039F-4,4,Lotissement Tixier,23150,Lavaveix-les-Mines,CAD,46.070178,2.082779
-23105A039F-5,5,Lotissement Tixier,23150,Lavaveix-les-Mines,CAD,46.070440,2.083510
-23105A039F-7,7,Lotissement Tixier,23150,Lavaveix-les-Mines,CAD,46.070736,2.084085
+23105A039F-20,20,Lotissement Tixier,23150,Lavaveix-les-Mines,C+O,46.070643,2.083852
+23105A039F-4,4,Lotissement Tixier,23150,Lavaveix-les-Mines,C+O,46.070178,2.082779
+23105A039F-5,5,Lotissement Tixier,23150,Lavaveix-les-Mines,C+O,46.070440,2.083510
+23105A039F-7,7,Lotissement Tixier,23150,Lavaveix-les-Mines,C+O,46.070736,2.084085
 23105B015S-10,10,Faubourg Saint-Jacques,23150,Lavaveix-les-Mines,C+O,46.073586,2.096154
 23105B015S-11,11,Faubourg Saint-Jacques,23150,Lavaveix-les-Mines,C+O,46.073475,2.096051
 23105B015S-1,1,Faubourg Saint-Jacques,23150,Lavaveix-les-Mines,C+O,46.073703,2.096742
@@ -25173,123 +25173,123 @@
 232190029E-4,4,Rue des Gorces,23300,Saint-Maurice-la-Souterraine,CAD,46.212994,1.426556
 232190029E-6,6,Rue des Gorces,23300,Saint-Maurice-la-Souterraine,CAD,46.213129,1.426604
 232190029E-8,8,Rue des Gorces,23300,Saint-Maurice-la-Souterraine,CAD,46.213337,1.426678
-232200001V-10,10,Chemin de la Chave Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026652,2.128072
-232200001V-1,1,Chemin de la Chave Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025881,2.130586
-232200001V-2,2,Chemin de la Chave Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025602,2.132140
-232200001V-4,4,Chemin de la Chave Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025737,2.131875
-232200001V-6,6,Chemin de la Chave Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025997,2.131356
-232200001V-8,8,Chemin de la Chave Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026002,2.131008
-232200003X-1,1,Chemin des Chers Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026927,2.133213
-232200003X-2,2,Chemin des Chers Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.027125,2.133192
-232200003X-3,3,Chemin des Chers Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.027761,2.133048
-232200003X-4,4,Chemin des Chers Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.027246,2.133255
-232200003X-6,6,Chemin des Chers Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.027467,2.133273
-232200005Z-2,2,Place de l'École Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025564,2.132044
-232200005Z-3,3,Place de l'École Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025381,2.131996
-232200005Z-4,4,Place de l'École Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025417,2.131942
-232200005Z-5,5,Place de l'École Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025426,2.132410
-232200008C-10,10,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043314,2.146609
-232200008C-11,11,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043330,2.146327
-232200008C-1,1,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.042538,2.147531
-232200008C-12,12,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043473,2.146286
-232200008C-14,14,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043586,2.146496
-232200008C-15,15,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043711,2.146157
-232200008C-16,16,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044209,2.146080
-232200008C-17,17,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043515,2.146056
-232200008C-18,18,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044301,2.145634
-232200008C-19,19,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044149,2.145757
-232200008C-20,20,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044433,2.145652
-232200008C-21,21,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044263,2.145532
-232200008C-22,22,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044392,2.145561
-232200008C-2,2,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043422,2.148742
-232200008C-23,23,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044709,2.144440
-232200008C-24,24,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044601,2.145120
-232200008C-25,25,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044606,2.143935
-232200008C-26,26,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044687,2.144773
-232200008C-28,28,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.044773,2.144449
-232200008C-3,3,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.042662,2.147214
-232200008C-4,4,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043476,2.148995
-232200008C-5,5,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.042596,2.146366
-232200008C-6,6,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043324,2.148085
-232200008C-7,7,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.042969,2.146580
-232200008C-8,8,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043287,2.147525
-232200008C-9,9,Route de l'Église,23200,Saint-Médard-la-Rochette,CAD,46.043371,2.145973
-232200010E-11,11,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026124,2.133343
-232200010E-1,1,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025924,2.134319
-232200010E-2,2,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026039,2.134204
-232200010E-3,3,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026051,2.134069
-232200010E-4,4,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026161,2.133969
-232200010E-6,6,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025893,2.133000
-232200010E-7,7,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026221,2.133758
-232200010E-9,9,Rue du Forgeron Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026245,2.133499
-232200013H-1,1,Impasse de la Gare Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025712,2.137740
-232200013H-2,2,Impasse de la Gare Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025557,2.137604
-232200013H-3,3,Impasse de la Gare Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025704,2.138038
-232200013H-4,4,Impasse de la Gare Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025509,2.138207
-232200015K-10,10,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.022026,2.138231
-232200015K-11,11,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024087,2.136181
-232200015K-1,1,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.022680,2.137255
-232200015K-12,12,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.022340,2.138265
-232200015K-13,13,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024493,2.135935
-232200015K-14,14,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.022373,2.138133
-232200015K-15,15,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024959,2.135548
-232200015K-16,16,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.023694,2.136566
-232200015K-17,17,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.025182,2.135409
-232200015K-18,18,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.023908,2.136469
-232200015K-19,19,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.025260,2.135240
-232200015K-20,20,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.023953,2.136702
-232200015K-21,21,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.025303,2.134987
-232200015K-22,22,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.023953,2.136715
-232200015K-2,2,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.017742,2.142636
-232200015K-24,24,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024645,2.136029
-232200015K-25,25,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.025389,2.134254
-232200015K-26,26,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024806,2.136584
-232200015K-28,28,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024725,2.136301
-232200015K-30,30,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024767,2.136151
-232200015K-32,32,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.024922,2.135944
-232200015K-3,3,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.022847,2.137073
-232200015K-34,34,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.025294,2.135502
-232200015K-36,36,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.025508,2.134048
-232200015K-38,38,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.025563,2.133483
-232200015K-4,4,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.020908,2.139362
-232200015K-5,5,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.023001,2.136882
-232200015K-6,6,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.021568,2.138697
-232200015K-7,7,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.023221,2.136716
-232200015K-8,8,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.022073,2.138583
-232200015K-9,9,Route de Lavaveix Les Mines Four,23200,Saint-Médard-la-Rochette,CAD,46.023348,2.136627
-232200020R-1,1,Route de Saint-Médard Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025040,2.136907
-232200020R-2,2,Route de Saint-Médard Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.024673,2.137021
-232200020R-3,3,Route de Saint-Médard Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.024747,2.137281
-232200020R-4,4,Route de Saint-Médard Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.024616,2.137204
-232200023U-1,1,Chemin du Puits Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.028258,2.138553
-232200025W-1,1,Route de Serras Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025099,2.131761
-232200025W-2,2,Route de Serras Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025204,2.131617
-232200030B-10,10,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044950,2.145749
-232200030B-1,1,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044759,2.146208
-232200030B-12,12,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044884,2.145409
-232200030B-2,2,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044014,2.146245
-232200030B-3,3,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044918,2.145603
-232200030B-4,4,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044178,2.146333
-232200030B-6,6,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044965,2.146052
-232200030B-8,8,Chemin de la Tranquilite,23200,Saint-Médard-la-Rochette,CAD,46.044990,2.145893
-232200032D-1,1,Route de Vaveix Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025168,2.136178
-232200032D-2,2,Route de Vaveix Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025431,2.136399
-232200032D-3,3,Route de Vaveix Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025547,2.136363
-232200032D-5,5,Route de Vaveix Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.025920,2.136496
-232200032D-7,7,Route de Vaveix Fourneaux,23200,Saint-Médard-la-Rochette,CAD,46.026181,2.136554
-232200035G-10,10,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.027079,2.133511
-232200035G-11,11,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.026981,2.133588
-232200035G-1,1,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.026878,2.133902
-232200035G-12,12,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.026896,2.133631
-232200035G-13,13,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.026989,2.133796
-232200035G-14,14,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.027081,2.133989
-232200035G-2,2,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.026928,2.133962
-232200035G-3,3,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.026994,2.134144
-232200035G-4,4,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.027056,2.134157
-232200035G-5,5,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.027343,2.134028
-232200035G-7,7,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.027208,2.133797
-232200035G-8,8,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.027180,2.133470
-232200035G-9,9,Chemin du Vieux Fourneaux Fournea,23200,Saint-Médard-la-Rochette,CAD,46.027123,2.133494
+232200001V-10,10,Chemin de la Chave,23200,Saint-Médard-la-Rochette,C+O,46.026652,2.128072
+232200001V-1,1,Chemin de la Chave,23200,Saint-Médard-la-Rochette,C+O,46.025881,2.130586
+232200001V-2,2,Chemin de la Chave,23200,Saint-Médard-la-Rochette,C+O,46.025602,2.132140
+232200001V-4,4,Chemin de la Chave,23200,Saint-Médard-la-Rochette,C+O,46.025737,2.131875
+232200001V-6,6,Chemin de la Chave,23200,Saint-Médard-la-Rochette,C+O,46.025997,2.131356
+232200001V-8,8,Chemin de la Chave,23200,Saint-Médard-la-Rochette,C+O,46.026002,2.131008
+232200003X-1,1,Chemin des Chers,23200,Saint-Médard-la-Rochette,C+O,46.026927,2.133213
+232200003X-2,2,Chemin des Chers,23200,Saint-Médard-la-Rochette,C+O,46.027125,2.133192
+232200003X-3,3,Chemin des Chers,23200,Saint-Médard-la-Rochette,C+O,46.027761,2.133048
+232200003X-4,4,Chemin des Chers,23200,Saint-Médard-la-Rochette,C+O,46.027246,2.133255
+232200003X-6,6,Chemin des Chers,23200,Saint-Médard-la-Rochette,C+O,46.027467,2.133273
+232200005Z-2,2,Place de l'Ecole,23200,Saint-Médard-la-Rochette,C+O,46.025564,2.132044
+232200005Z-3,3,Place de l'Ecole,23200,Saint-Médard-la-Rochette,C+O,46.025381,2.131996
+232200005Z-4,4,Place de l'Ecole,23200,Saint-Médard-la-Rochette,C+O,46.025417,2.131942
+232200005Z-5,5,Place de l'Ecole,23200,Saint-Médard-la-Rochette,C+O,46.025426,2.132410
+232200008C-10,10,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043314,2.146609
+232200008C-11,11,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043330,2.146327
+232200008C-1,1,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.042538,2.147531
+232200008C-12,12,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043473,2.146286
+232200008C-14,14,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043586,2.146496
+232200008C-15,15,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043711,2.146157
+232200008C-16,16,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044209,2.146080
+232200008C-17,17,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043515,2.146056
+232200008C-18,18,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044301,2.145634
+232200008C-19,19,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044149,2.145757
+232200008C-20,20,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044433,2.145652
+232200008C-21,21,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044263,2.145532
+232200008C-22,22,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044392,2.145561
+232200008C-2,2,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043422,2.148742
+232200008C-23,23,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044709,2.144440
+232200008C-24,24,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044601,2.145120
+232200008C-25,25,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044606,2.143935
+232200008C-26,26,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044687,2.144773
+232200008C-28,28,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.044773,2.144449
+232200008C-3,3,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.042662,2.147214
+232200008C-4,4,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043476,2.148995
+232200008C-5,5,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.042596,2.146366
+232200008C-6,6,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043324,2.148085
+232200008C-7,7,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.042969,2.146580
+232200008C-8,8,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043287,2.147525
+232200008C-9,9,Route de l'Église,23200,Saint-Médard-la-Rochette,C+O,46.043371,2.145973
+232200010E-11,11,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.026124,2.133343
+232200010E-1,1,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.025924,2.134319
+232200010E-2,2,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.026039,2.134204
+232200010E-3,3,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.026051,2.134069
+232200010E-4,4,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.026161,2.133969
+232200010E-6,6,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.025893,2.133000
+232200010E-7,7,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.026221,2.133758
+232200010E-9,9,Rue du Forgeron,23200,Saint-Médard-la-Rochette,C+O,46.026245,2.133499
+232200013H-1,1,Impasse de la Gare,23200,Saint-Médard-la-Rochette,C+O,46.025712,2.137740
+232200013H-2,2,Impasse de la Gare,23200,Saint-Médard-la-Rochette,C+O,46.025557,2.137604
+232200013H-3,3,Impasse de la Gare,23200,Saint-Médard-la-Rochette,C+O,46.025704,2.138038
+232200013H-4,4,Impasse de la Gare,23200,Saint-Médard-la-Rochette,C+O,46.025509,2.138207
+232200015K-10,10,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.022026,2.138231
+232200015K-11,11,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024087,2.136181
+232200015K-1,1,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.022680,2.137255
+232200015K-12,12,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.022340,2.138265
+232200015K-13,13,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024493,2.135935
+232200015K-14,14,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.022373,2.138133
+232200015K-15,15,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024959,2.135548
+232200015K-16,16,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.023694,2.136566
+232200015K-17,17,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.025182,2.135409
+232200015K-18,18,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.023908,2.136469
+232200015K-19,19,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.025260,2.135240
+232200015K-20,20,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.023953,2.136702
+232200015K-21,21,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.025303,2.134987
+232200015K-22,22,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.023953,2.136715
+232200015K-2,2,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.017742,2.142636
+232200015K-24,24,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024645,2.136029
+232200015K-25,25,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.025389,2.134254
+232200015K-26,26,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024806,2.136584
+232200015K-28,28,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024725,2.136301
+232200015K-30,30,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024767,2.136151
+232200015K-32,32,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.024922,2.135944
+232200015K-3,3,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.022847,2.137073
+232200015K-34,34,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.025294,2.135502
+232200015K-36,36,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.025508,2.134048
+232200015K-38,38,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.025563,2.133483
+232200015K-4,4,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.020908,2.139362
+232200015K-5,5,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.023001,2.136882
+232200015K-6,6,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.021568,2.138697
+232200015K-7,7,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.023221,2.136716
+232200015K-8,8,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.022073,2.138583
+232200015K-9,9,Route de Lavaveix-Les-Mines,23200,Saint-Médard-la-Rochette,C+O,46.023348,2.136627
+232200020R-1,1,Route de Saint-Médard,23200,Saint-Médard-la-Rochette,C+O,46.025040,2.136907
+232200020R-2,2,Route de Saint-Médard,23200,Saint-Médard-la-Rochette,C+O,46.024673,2.137021
+232200020R-3,3,Route de Saint-Médard,23200,Saint-Médard-la-Rochette,C+O,46.024747,2.137281
+232200020R-4,4,Route de Saint-Médard,23200,Saint-Médard-la-Rochette,C+O,46.024616,2.137204
+232200023U-1,1,Chemin du Puits,23200,Saint-Médard-la-Rochette,C+O,46.028258,2.138553
+232200025W-1,1,Route de Serras,23200,Saint-Médard-la-Rochette,C+O,46.025099,2.131761
+232200025W-2,2,Route de Serras,23200,Saint-Médard-la-Rochette,C+O,46.025204,2.131617
+232200030B-10,10,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044950,2.145749
+232200030B-1,1,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044759,2.146208
+232200030B-12,12,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044884,2.145409
+232200030B-2,2,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044014,2.146245
+232200030B-3,3,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044918,2.145603
+232200030B-4,4,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044178,2.146333
+232200030B-6,6,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044965,2.146052
+232200030B-8,8,Chemin de la Tranquilité,23200,Saint-Médard-la-Rochette,C+O,46.044990,2.145893
+232200032D-1,1,Route de Vaveix,23200,Saint-Médard-la-Rochette,C+O,46.025168,2.136178
+232200032D-2,2,Route de Vaveix,23200,Saint-Médard-la-Rochette,C+O,46.025431,2.136399
+232200032D-3,3,Route de Vaveix,23200,Saint-Médard-la-Rochette,C+O,46.025547,2.136363
+232200032D-5,5,Route de Vaveix,23200,Saint-Médard-la-Rochette,C+O,46.025920,2.136496
+232200032D-7,7,Route de Vaveix,23200,Saint-Médard-la-Rochette,C+O,46.026181,2.136554
+232200035G-10,10,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.027079,2.133511
+232200035G-11,11,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.026981,2.133588
+232200035G-1,1,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.026878,2.133902
+232200035G-12,12,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.026896,2.133631
+232200035G-13,13,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.026989,2.133796
+232200035G-14,14,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.027081,2.133989
+232200035G-2,2,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.026928,2.133962
+232200035G-3,3,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.026994,2.134144
+232200035G-4,4,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.027056,2.134157
+232200035G-5,5,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.027343,2.134028
+232200035G-7,7,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.027208,2.133797
+232200035G-8,8,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.027180,2.133470
+232200035G-9,9,Chemin du Vieux Fourneaux,23200,Saint-Médard-la-Rochette,C+O,46.027123,2.133494
 232230002H-10,10,Route de Bujaleuf,23400,Saint-Moreil,CAD,45.853604,1.686463
 232230002H-1,1,Route de Bujaleuf,23400,Saint-Moreil,CAD,45.854028,1.687485
 232230002H-12,12,Route de Bujaleuf,23400,Saint-Moreil,CAD,45.853253,1.686297
@@ -25403,80 +25403,80 @@
 232230016Y-9,9,Chemin du Rocher,23400,Saint-Moreil,C+O,45.852534,1.687004
 232230017Z-2,2,Route de la Vedrenne,23400,Saint-Moreil,C+O,45.852754,1.683847
 23228B002T-2,2,Brifoulière,23200,Saint-Pardoux-le-Neuf,CAD,45.933664,2.216248
-232290001F-1,1,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,CAD,46.081794,2.118803
-232290001F-12,12,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,CAD,46.081872,2.118698
-232290001F-14,14,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,CAD,46.081739,2.118415
-232290001F-3,3,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,CAD,46.081767,2.118636
-232290002G-10,10,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081886,2.119872
-232290002G-12,12,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081922,2.119984
-232290002G-14,14,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081945,2.120054
-232290002G-16,16,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081535,2.120093
-232290002G-18,18,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081537,2.120206
-232290002G-21,21,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081701,2.121174
-232290002G-22,22,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081431,2.121474
-232290002G-2,2,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081721,2.119476
-232290002G-23,23,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081481,2.121588
-232290002G-3,3,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081965,2.119908
-232290002G-4,4,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081768,2.119605
-232290002G-5,5,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.082113,2.120214
-232290002G-6,6,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081799,2.119692
-232290002G-7,7,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.082427,2.120736
-232290002G-8,8,Route de la Borde,23150,Saint-Pardoux-les-Cards,CAD,46.081857,2.119784
-232290003H-10,10,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.082991,2.120293
-232290003H-11,11,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083184,2.120303
-232290003H-1,1,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.082457,2.119631
-232290003H-13,13,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083461,2.120183
-232290003H-15,15,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083268,2.120344
-232290003H-19,19,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083454,2.121245
-232290003H-21,21,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083433,2.121338
-232290003H-2,2,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.082215,2.120252
-232290003H-23,23,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083413,2.121419
-232290003H-25,25,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083383,2.121506
-232290003H-27,27,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083362,2.121605
-232290003H-29,29,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083770,2.121050
-232290003H-31,31,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083665,2.121128
-232290003H-35,35,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083451,2.121634
-232290003H-37,37,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083446,2.121873
-232290003H-39,39,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083528,2.122053
-232290003H-4,4,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.082655,2.120172
-232290003H-45,45,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.085633,2.123886
-232290003H-6,6,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.082775,2.120259
-232290003H-8,8,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.082946,2.120285
-232290003H-9,9,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,CAD,46.083019,2.120223
-232290004J-11,11,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.082775,2.119018
-232290004J-1,1,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.082370,2.119451
-232290004J-2,2,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.082712,2.119206
-232290004J-3,3,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.082423,2.119375
-232290004J-5,5,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.082514,2.119298
-232290004J-7,7,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.082613,2.119184
-232290004J-8,8,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.083203,2.118831
-232290004J-9,9,Route de Cressat,23150,Saint-Pardoux-les-Cards,CAD,46.082695,2.119127
-232290005K-11,11,Route de la Croix,23150,Saint-Pardoux-les-Cards,CAD,46.082537,2.121640
-232290005K-1,1,Route de la Croix,23150,Saint-Pardoux-les-Cards,CAD,46.083250,2.121696
-232290005K-13,13,Route de la Croix,23150,Saint-Pardoux-les-Cards,CAD,46.082492,2.121636
-232290005K-15,15,Route de la Croix,23150,Saint-Pardoux-les-Cards,CAD,46.082462,2.121632
-232290005K-9,9,Route de la Croix,23150,Saint-Pardoux-les-Cards,CAD,46.082625,2.121629
-232290006L-10,10,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.081908,2.118769
-232290006L-1,1,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.081981,2.119478
-232290006L-2,2,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.082151,2.119213
-232290006L-3,3,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.081950,2.119324
-232290006L-4,4,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.082073,2.119105
-232290006L-5,5,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.081943,2.119193
-232290006L-6,6,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.082005,2.118972
-232290006L-7,7,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.081881,2.118999
-232290006L-8,8,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.081945,2.118836
-232290006L-9,9,Place de l'Église,23150,Saint-Pardoux-les-Cards,CAD,46.081771,2.119013
-232290007M-11,11,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081254,2.119381
-232290007M-1,1,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081668,2.119383
-232290007M-15,15,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081310,2.119567
-232290007M-17,17,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081117,2.118982
-232290007M-2,2,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081638,2.119001
-232290007M-3,3,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081595,2.119329
-232290007M-4,4,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081521,2.119021
-232290007M-5,5,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081497,2.119291
-232290007M-6,6,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081479,2.119061
-232290007M-7,7,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081452,2.119133
-232290007M-9,9,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,CAD,46.081298,2.119389
+232290001F-1,1,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,C+O,46.081794,2.118803
+232290001F-12,12,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,C+O,46.081872,2.118698
+232290001F-14,14,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,C+O,46.081739,2.118415
+232290001F-3,3,Route de Lavaveix,23150,Saint-Pardoux-les-Cards,C+O,46.081767,2.118636
+232290002G-10,10,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081886,2.119872
+232290002G-12,12,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081922,2.119984
+232290002G-14,14,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081945,2.120054
+232290002G-16,16,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081535,2.120093
+232290002G-18,18,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081537,2.120206
+232290002G-21,21,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081701,2.121174
+232290002G-22,22,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081431,2.121474
+232290002G-2,2,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081721,2.119476
+232290002G-23,23,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081481,2.121588
+232290002G-3,3,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081965,2.119908
+232290002G-4,4,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081768,2.119605
+232290002G-5,5,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.082113,2.120214
+232290002G-6,6,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081799,2.119692
+232290002G-7,7,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.082427,2.120736
+232290002G-8,8,Route de la Borde,23150,Saint-Pardoux-les-Cards,C+O,46.081857,2.119784
+232290003H-10,10,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.082991,2.120293
+232290003H-11,11,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083184,2.120303
+232290003H-1,1,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.082457,2.119631
+232290003H-13,13,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083461,2.120183
+232290003H-15,15,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083268,2.120344
+232290003H-19,19,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083454,2.121245
+232290003H-21,21,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083433,2.121338
+232290003H-2,2,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.082215,2.120252
+232290003H-23,23,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083413,2.121419
+232290003H-25,25,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083383,2.121506
+232290003H-27,27,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083362,2.121605
+232290003H-29,29,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083770,2.121050
+232290003H-31,31,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083665,2.121128
+232290003H-35,35,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083451,2.121634
+232290003H-37,37,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083446,2.121873
+232290003H-39,39,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083528,2.122053
+232290003H-4,4,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.082655,2.120172
+232290003H-45,45,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.085633,2.123886
+232290003H-6,6,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.082775,2.120259
+232290003H-8,8,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.082946,2.120285
+232290003H-9,9,Route de Chenerailles,23150,Saint-Pardoux-les-Cards,C+O,46.083019,2.120223
+232290004J-11,11,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.082775,2.119018
+232290004J-1,1,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.082370,2.119451
+232290004J-2,2,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.082712,2.119206
+232290004J-3,3,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.082423,2.119375
+232290004J-5,5,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.082514,2.119298
+232290004J-7,7,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.082613,2.119184
+232290004J-8,8,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.083203,2.118831
+232290004J-9,9,Route de Cressat,23150,Saint-Pardoux-les-Cards,C+O,46.082695,2.119127
+232290005K-11,11,Route de la Croix,23150,Saint-Pardoux-les-Cards,C+O,46.082537,2.121640
+232290005K-1,1,Route de la Croix,23150,Saint-Pardoux-les-Cards,C+O,46.083250,2.121696
+232290005K-13,13,Route de la Croix,23150,Saint-Pardoux-les-Cards,C+O,46.082492,2.121636
+232290005K-15,15,Route de la Croix,23150,Saint-Pardoux-les-Cards,C+O,46.082462,2.121632
+232290005K-9,9,Route de la Croix,23150,Saint-Pardoux-les-Cards,C+O,46.082625,2.121629
+232290006L-10,10,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.081908,2.118769
+232290006L-1,1,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.081981,2.119478
+232290006L-2,2,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.082151,2.119213
+232290006L-3,3,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.081950,2.119324
+232290006L-4,4,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.082073,2.119105
+232290006L-5,5,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.081943,2.119193
+232290006L-6,6,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.082005,2.118972
+232290006L-7,7,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.081881,2.118999
+232290006L-8,8,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.081945,2.118836
+232290006L-9,9,Place de l'Église,23150,Saint-Pardoux-les-Cards,C+O,46.081771,2.119013
+232290007M-11,11,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081254,2.119381
+232290007M-1,1,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081668,2.119383
+232290007M-15,15,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081310,2.119567
+232290007M-17,17,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081117,2.118982
+232290007M-2,2,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081638,2.119001
+232290007M-3,3,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081595,2.119329
+232290007M-4,4,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081521,2.119021
+232290007M-5,5,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081497,2.119291
+232290007M-6,6,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081479,2.119061
+232290007M-7,7,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081452,2.119133
+232290007M-9,9,Chemin de la Fontaine,23150,Saint-Pardoux-les-Cards,C+O,46.081298,2.119389
 232310100E-10,10,Route de Bel-Air,23290,Saint-Pierre-de-Fursac,C+O,46.146326,1.510864
 232310100E-10B,10BIS,Route de Bel-Air,23290,Saint-Pierre-de-Fursac,C+O,46.144713,1.507355
 232310100E-11,11,Route de Bel-Air,23290,Saint-Pierre-de-Fursac,C+O,46.146510,1.510891
