@@ -2539,31 +2539,31 @@
 550530085H-8,8,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331011,5.575015
 550530085H-9,9,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331108,5.574805
 550530085H-9B,9BIS,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331102,5.574975
-550570005D-1,1,Rue du Château,55400,Boinville-en-Woëvre,CAD,49.184479,5.671947
-550570005D-2,2,Rue du Château,55400,Boinville-en-Woëvre,CAD,49.184515,5.672545
-550570005D-3,3,Rue du Château,55400,Boinville-en-Woëvre,CAD,49.184532,5.672601
-550570010J-11,11,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.183620,5.674130
-550570010J-1,1,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184927,5.673038
-550570010J-2,2,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184780,5.672888
-550570010J-3,3,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184641,5.673621
-550570010J-4,4,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184665,5.673134
-550570010J-5,5,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184488,5.673948
-550570010J-6,6,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184485,5.673551
-550570010J-7,7,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184373,5.674191
-550570010J-8,8,Rue du Chauffour,55400,Boinville-en-Woëvre,CAD,49.184368,5.673887
-550570015P-1,1,Place des Etaraux,55400,Boinville-en-Woëvre,CAD,49.185142,5.672819
-550570015P-2,2,Place des Etaraux,55400,Boinville-en-Woëvre,CAD,49.185409,5.672785
-550570015P-3,3,Place des Etaraux,55400,Boinville-en-Woëvre,CAD,49.185535,5.672744
-550570015P-4,4,Place des Etaraux,55400,Boinville-en-Woëvre,CAD,49.185609,5.672810
-550570015P-5,5,Place des Etaraux,55400,Boinville-en-Woëvre,CAD,49.185518,5.673024
-550570015P-6,6,Place des Etaraux,55400,Boinville-en-Woëvre,CAD,49.185074,5.673129
-550570020V-1,1,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,CAD,49.185749,5.672937
-550570020V-3,3,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,CAD,49.185947,5.673091
-550570020V-4,4,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,CAD,49.185906,5.673288
-550570020V-6,6,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,CAD,49.186126,5.673461
-550570020V-8,8,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,CAD,49.186350,5.673527
-550570025A-2,2,Chemin du Moulin de Darmont,55400,Boinville-en-Woëvre,CAD,49.183405,5.674463
-550570025A-5,5,Chemin du Moulin de Darmont,55400,Boinville-en-Woëvre,CAD,49.183116,5.675844
+550570005D-1,1,Rue du Château,55400,Boinville-en-Woëvre,OSM,49.184492,5.672019
+550570005D-2,2,Rue du Château,55400,Boinville-en-Woëvre,OSM,49.184459,5.672606
+550570005D-3,3,Rue du Château,55400,Boinville-en-Woëvre,OSM,49.184238,5.672868
+550570010J-11,11,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.183616,5.674191
+550570010J-1,1,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184922,5.673048
+550570010J-2,2,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184772,5.672902
+550570010J-3,3,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184689,5.673515
+550570010J-4,4,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184659,5.673148
+550570010J-5,5,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184488,5.673949
+550570010J-6,6,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184486,5.673549
+550570010J-7,7,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184365,5.674210
+550570010J-8,8,Rue du Chauffour,55400,Boinville-en-Woëvre,OSM,49.184364,5.673896
+550570015P-1,1,Place des Etaraux,55400,Boinville-en-Woëvre,OSM,49.185141,5.672766
+550570015P-2,2,Place des Etaraux,55400,Boinville-en-Woëvre,OSM,49.185426,5.672646
+550570015P-3,3,Place des Etaraux,55400,Boinville-en-Woëvre,OSM,49.185535,5.672744
+550570015P-4,4,Place des Etaraux,55400,Boinville-en-Woëvre,OSM,49.185613,5.672813
+550570015P-5,5,Place des Etaraux,55400,Boinville-en-Woëvre,OSM,49.185519,5.673022
+550570015P-6,6,Place des Etaraux,55400,Boinville-en-Woëvre,OSM,49.185002,5.673422
+550570020V-1,1,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,OSM,49.185756,5.672941
+550570020V-3,3,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,OSM,49.185949,5.673092
+550570020V-4,4,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,OSM,49.185905,5.673287
+550570020V-6,6,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,OSM,49.186136,5.673486
+550570020V-8,8,Rue de la Haie Watrin,55400,Boinville-en-Woëvre,OSM,49.186307,5.673710
+550570025A-2,2,Chemin du Moulin de Darmont,55400,Boinville-en-Woëvre,OSM,49.183349,5.674522
+550570025A-5,5,Chemin du Moulin de Darmont,55400,Boinville-en-Woëvre,OSM,49.183271,5.676014
 550600001L-1,1,Place du Bal,55160,Bonzée,CAD,49.096204,5.589887
 550600001L-2,2,Place du Bal,55160,Bonzée,CAD,49.096434,5.589946
 550600002M-2,2,Rue du Château,55160,Bonzée,C+O,49.097531,5.589668
@@ -8372,7 +8372,7 @@
 552280075L-6,6,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038623,5.656788
 552280075L-8,8,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038338,5.656188
 552280085X-2,2,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038353,5.659221
-552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038771,5.658994
+552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038788,5.659434
 552280095H-10,10,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037507,5.657100
 552280095H-11,11,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037034,5.657047
 552280095H-11B,11BIS,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.036839,5.656716
@@ -10414,32 +10414,32 @@
 552790040B-3,3,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488921,5.161933
 552790040B-4,4,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489111,5.162022
 552790040B-5,5,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488807,5.162051
-552790041C-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489134,5.161464
-552790041C-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489439,5.162867
-552790041C-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489404,5.162459
-552790041C-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489603,5.161354
-552790041C-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489021,5.161510
-552790041C-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489248,5.162720
-552790041C-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488821,5.161551
-552790041C-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488764,5.162275
-552790041C-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488754,5.161560
-552790041C-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488793,5.161946
-552790041C-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488514,5.161574
-552790041C-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488782,5.161903
-552790041C-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488650,5.161931
-552790041C-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488761,5.161805
-552790041C-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488077,5.161679
-552790041C-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489700,5.161140
-552790041C-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488494,5.161731
-552790041C-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488060,5.161853
-552790041C-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.487858,5.161946
-552790041C-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489474,5.161413
-552790041C-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489265,5.161561
-552790041C-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489369,5.161342
-552790041C-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489268,5.162132
-552790041C-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489234,5.161411
-552790041C-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489302,5.162289
-552790042D-1,1,Ruelle du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489410,5.162298
+552790042D-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489134,5.161464
+552790042D-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489439,5.162867
+552790042D-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489404,5.162459
+552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489410,5.162298
+552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489603,5.161354
+552790042D-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489021,5.161510
+552790042D-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489248,5.162720
+552790042D-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488821,5.161551
+552790042D-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488764,5.162275
+552790042D-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488754,5.161560
+552790042D-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488793,5.161946
+552790042D-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488514,5.161574
+552790042D-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488782,5.161903
+552790042D-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488650,5.161931
+552790042D-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488761,5.161805
+552790042D-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488077,5.161679
+552790042D-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489700,5.161140
+552790042D-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488494,5.161731
+552790042D-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488060,5.161853
+552790042D-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.487858,5.161946
+552790042D-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489474,5.161413
+552790042D-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489265,5.161561
+552790042D-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489369,5.161342
+552790042D-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489268,5.162132
+552790042D-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489234,5.161411
+552790042D-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489302,5.162289
 552790045G-1,1,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490991,5.163266
 552790045G-2,2,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491024,5.163228
 552790045G-3,3,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491067,5.163178
@@ -13835,7 +13835,7 @@
 553510155N-18,18,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521514,5.364720
 553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
 553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
-553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522436,5.365403
+553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522350,5.365429
 553510155N-2,2,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520146,5.363978
 553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
 553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
