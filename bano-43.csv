@@ -17,6 +17,31 @@
 430020010M-27,27,Boulevard Docteur Chantemesse,43000,Aiguilhe,CAD,45.050252,3.876123
 430020010M-29,29,Boulevard Docteur Chantemesse,43000,Aiguilhe,CAD,45.050298,3.876016
 430020010M-31,31,Boulevard Docteur Chantemesse,43000,Aiguilhe,CAD,45.050333,3.875912
+430020013R-10,10,Chemin des Cités,43000,Aiguilhe,C+O,45.055009,3.883649
+430020013R-11,11,Chemin des Cités,43000,Aiguilhe,C+O,45.054682,3.882239
+430020013R-1,1,Chemin des Cités,43000,Aiguilhe,C+O,45.054082,3.880410
+430020013R-12,12,Chemin des Cités,43000,Aiguilhe,C+O,45.054618,3.882329
+430020013R-13,13,Chemin des Cités,43000,Aiguilhe,C+O,45.054862,3.882259
+430020013R-14,14,Chemin des Cités,43000,Aiguilhe,C+O,45.054976,3.883138
+430020013R-15,15,Chemin des Cités,43000,Aiguilhe,C+O,45.054902,3.882473
+430020013R-15B,15BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.054978,3.882823
+430020013R-17,17,Chemin des Cités,43000,Aiguilhe,C+O,45.055035,3.883072
+430020013R-17B,17BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.055059,3.883345
+430020013R-18,18,Chemin des Cités,43000,Aiguilhe,C+O,45.054893,3.884736
+430020013R-19,19,Chemin des Cités,43000,Aiguilhe,C+O,45.055062,3.883514
+430020013R-2,2,Chemin des Cités,43000,Aiguilhe,C+O,45.054044,3.880717
+430020013R-25,25,Chemin des Cités,43000,Aiguilhe,C+O,45.055088,3.884478
+430020013R-27,27,Chemin des Cités,43000,Aiguilhe,C+O,45.055758,3.885286
+430020013R-31,31,Chemin des Cités,43000,Aiguilhe,C+O,45.054631,3.886056
+430020013R-3,3,Chemin des Cités,43000,Aiguilhe,C+O,45.054104,3.880755
+430020013R-35,35,Chemin des Cités,43000,Aiguilhe,C+O,45.054409,3.887357
+430020013R-37B,37BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.054261,3.888004
+430020013R-5,5,Chemin des Cités,43000,Aiguilhe,C+O,45.054124,3.881067
+430020013R-6,6,Chemin des Cités,43000,Aiguilhe,C+O,45.054246,3.882088
+430020013R-7,7,Chemin des Cités,43000,Aiguilhe,C+O,45.054292,3.881847
+430020013R-8,8,Chemin des Cités,43000,Aiguilhe,C+O,45.053920,3.882460
+430020013R-8B,8BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.054241,3.882371
+430020013R-9,9,Chemin des Cités,43000,Aiguilhe,C+O,45.054299,3.881958
 430020014S-20,20,Rue des Cités,43000,Aiguilhe,C+O,45.054722,3.885494
 430020014S-22,22,Rue des Cités,43000,Aiguilhe,C+O,45.054632,3.885786
 430020014S-23,23,Rue des Cités,43000,Aiguilhe,C+O,45.055376,3.884222
@@ -453,31 +478,6 @@
 430020210E-12,12,Allée des Vignards,43000,Aiguilhe,C+O,45.055686,3.879619
 430020210E-18,18,Allée des Vignards,43000,Aiguilhe,C+O,45.055449,3.880182
 430020210E-2,2,Allée des Vignards,43000,Aiguilhe,C+O,45.055942,3.878875
-43002B011V-10,10,Chemin des Cités,43000,Aiguilhe,C+O,45.055009,3.883649
-43002B011V-11,11,Chemin des Cités,43000,Aiguilhe,C+O,45.054682,3.882239
-43002B011V-1,1,Chemin des Cités,43000,Aiguilhe,C+O,45.054082,3.880410
-43002B011V-12,12,Chemin des Cités,43000,Aiguilhe,C+O,45.054618,3.882329
-43002B011V-13,13,Chemin des Cités,43000,Aiguilhe,C+O,45.054862,3.882259
-43002B011V-14,14,Chemin des Cités,43000,Aiguilhe,C+O,45.054976,3.883138
-43002B011V-15,15,Chemin des Cités,43000,Aiguilhe,C+O,45.054902,3.882473
-43002B011V-15B,15BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.054978,3.882823
-43002B011V-17,17,Chemin des Cités,43000,Aiguilhe,C+O,45.055035,3.883072
-43002B011V-17B,17BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.055059,3.883345
-43002B011V-18,18,Chemin des Cités,43000,Aiguilhe,C+O,45.054893,3.884736
-43002B011V-19,19,Chemin des Cités,43000,Aiguilhe,C+O,45.055062,3.883514
-43002B011V-2,2,Chemin des Cités,43000,Aiguilhe,C+O,45.054044,3.880717
-43002B011V-25,25,Chemin des Cités,43000,Aiguilhe,C+O,45.055088,3.884478
-43002B011V-27,27,Chemin des Cités,43000,Aiguilhe,C+O,45.055758,3.885286
-43002B011V-31,31,Chemin des Cités,43000,Aiguilhe,C+O,45.054631,3.886056
-43002B011V-3,3,Chemin des Cités,43000,Aiguilhe,C+O,45.054104,3.880755
-43002B011V-35,35,Chemin des Cités,43000,Aiguilhe,C+O,45.054409,3.887357
-43002B011V-37B,37BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.054261,3.888004
-43002B011V-5,5,Chemin des Cités,43000,Aiguilhe,C+O,45.054124,3.881067
-43002B011V-6,6,Chemin des Cités,43000,Aiguilhe,C+O,45.054246,3.882088
-43002B011V-7,7,Chemin des Cités,43000,Aiguilhe,C+O,45.054292,3.881847
-43002B011V-8,8,Chemin des Cités,43000,Aiguilhe,C+O,45.053920,3.882460
-43002B011V-8B,8BIS,Chemin des Cités,43000,Aiguilhe,C+O,45.054241,3.882371
-43002B011V-9,9,Chemin des Cités,43000,Aiguilhe,C+O,45.054299,3.881958
 430030005C-11,11,Rue du Bac,43270,Allègre,C+O,45.198169,3.709762
 430030005C-1,1,Rue du Bac,43270,Allègre,C+O,45.198151,3.710296
 430030005C-13,13,Rue du Bac,43270,Allègre,C+O,45.198180,3.709698
@@ -1220,6 +1220,30 @@
 430120043E-6,6,Chemin de Bayle,43110,Aurec-sur-Loire,C+O,45.379717,4.222644
 430120043E-8,8,Chemin de Bayle,43110,Aurec-sur-Loire,C+O,45.379892,4.222968
 430120043E-9,9,Chemin de Bayle,43110,Aurec-sur-Loire,C+O,45.380588,4.223701
+430120045G-30,30,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360040,4.208175
+430120045G-32,32,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360073,4.208261
+430120045G-34,34,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360442,4.208817
+430120045G-36,36,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360498,4.208874
+430120045G-47,47,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.363443,4.210990
+430120045G-48,48,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.363417,4.210906
+430120045G-63,63,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.362360,4.211039
+430120045G-66,66,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361970,4.210794
+430120045G-67,67,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.362163,4.210999
+430120045G-70,70,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361744,4.210541
+430120045G-71,71,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361889,4.210830
+430120045G-77,77,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361361,4.210477
+430120045G-79,79,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361310,4.210448
+430120045G-81,81,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361259,4.210367
+430120045G-82,82,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361308,4.209811
+430120045G-83,83,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361380,4.210075
+430120045G-85,85,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361194,4.209759
+430120045G-86,86,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360610,4.209540
+430120045G-87,87,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361020,4.209493
+430120045G-88,88,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360612,4.209586
+430120045G-89,89,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360732,4.209607
+430120045G-90,90,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360935,4.209071
+430120045G-91,91,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360686,4.209651
+430120045G-92,92,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360703,4.208908
 430120048K-69,69,Chemin du Bret,43110,Aurec-sur-Loire,C+O,45.363261,4.185962
 430120052P-10,10,Rue du Brouilli,43110,Aurec-sur-Loire,C+O,45.373140,4.206942
 430120052P-10A,10A,Rue du Brouilli,43110,Aurec-sur-Loire,C+O,45.373182,4.207023
@@ -2268,30 +2292,6 @@
 430120668J-5,5,Rue du Soleil Levant,43110,Aurec-sur-Loire,CAD,45.360322,4.190447
 430120668J-7,7,Rue du Soleil Levant,43110,Aurec-sur-Loire,CAD,45.360064,4.190760
 430120668J-8,8,Rue du Soleil Levant,43110,Aurec-sur-Loire,CAD,45.359974,4.190719
-430120669K-30,30,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360040,4.208175
-430120669K-32,32,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360073,4.208261
-430120669K-34,34,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360442,4.208817
-430120669K-36,36,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360498,4.208874
-430120669K-47,47,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.363443,4.210990
-430120669K-48,48,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.363417,4.210906
-430120669K-63,63,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.362360,4.211039
-430120669K-66,66,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361970,4.210794
-430120669K-67,67,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.362163,4.210999
-430120669K-70,70,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361744,4.210541
-430120669K-71,71,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361889,4.210830
-430120669K-77,77,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361361,4.210477
-430120669K-79,79,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361310,4.210448
-430120669K-81,81,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361259,4.210367
-430120669K-82,82,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361308,4.209811
-430120669K-83,83,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361380,4.210075
-430120669K-85,85,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361194,4.209759
-430120669K-86,86,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360610,4.209540
-430120669K-87,87,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.361020,4.209493
-430120669K-88,88,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360612,4.209586
-430120669K-89,89,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360732,4.209607
-430120669K-90,90,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360935,4.209071
-430120669K-91,91,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360686,4.209651
-430120669K-92,92,Rue des Sous-Bois,43110,Aurec-sur-Loire,C+O,45.360703,4.208908
 430120673P-10,10,Rue des Tourterelles,43110,Aurec-sur-Loire,C+O,45.362187,4.208880
 430120673P-12,12,Rue des Tourterelles,43110,Aurec-sur-Loire,C+O,45.362028,4.209054
 430120673P-6,6,Rue des Tourterelles,43110,Aurec-sur-Loire,C+O,45.362139,4.208473
@@ -8347,6 +8347,19 @@
 430870840V-7,7,Rue de Saint-Régis,43220,Dunières,C+O,45.215932,4.342280
 430870840V-8,8,Rue de Saint-Régis,43220,Dunières,C+O,45.214442,4.343218
 430870840V-9,9,Rue de Saint-Régis,43220,Dunières,C+O,45.215474,4.343292
+430870860S-10,10,Allée du Solier,43220,Dunières,C+O,45.219353,4.342820
+430870860S-1,1,Allée du Solier,43220,Dunières,C+O,45.219234,4.343106
+430870860S-12,12,Allée du Solier,43220,Dunières,C+O,45.219437,4.342421
+430870860S-14,14,Allée du Solier,43220,Dunières,C+O,45.219565,4.341959
+430870860S-16,16,Allée du Solier,43220,Dunières,C+O,45.219637,4.341662
+430870860S-1A,1A,Allée du Solier,43220,Dunières,C+O,45.219137,4.343575
+430870860S-1B,1B,Allée du Solier,43220,Dunières,C+O,45.219037,4.344576
+430870860S-20,20,Allée du Solier,43220,Dunières,C+O,45.219890,4.340499
+430870860S-2,2,Allée du Solier,43220,Dunières,C+O,45.219173,4.344644
+430870860S-5,5,Allée du Solier,43220,Dunières,C+O,45.219362,4.342560
+430870860S-7,7,Allée du Solier,43220,Dunières,C+O,45.219486,4.341984
+430870860S-8,8,Allée du Solier,43220,Dunières,C+O,45.219111,4.343953
+430870860S-9,9,Allée du Solier,43220,Dunières,C+O,45.219252,4.341472
 430870870C-1,1,Rue des Sources,43220,Dunières,CAD,45.221105,4.324627
 430870870C-3,3,Rue des Sources,43220,Dunières,CAD,45.221247,4.325143
 430870870C-4,4,Rue des Sources,43220,Dunières,CAD,45.221041,4.325883
@@ -8480,19 +8493,6 @@
 43087A011N-34,34,Lotissement Les Balcons de Malataverne,43220,Dunières,CAD,45.205551,4.343879
 43087A011N-4,4,Lotissement Les Balcons de Malataverne,43220,Dunières,CAD,45.204547,4.341386
 43087A011N-5,5,Lotissement Les Balcons de Malataverne,43220,Dunières,CAD,45.204416,4.341935
-43087B002R-10,10,Allée du Solier,43220,Dunières,C+O,45.219353,4.342820
-43087B002R-1,1,Allée du Solier,43220,Dunières,C+O,45.219234,4.343106
-43087B002R-12,12,Allée du Solier,43220,Dunières,C+O,45.219437,4.342421
-43087B002R-14,14,Allée du Solier,43220,Dunières,C+O,45.219565,4.341959
-43087B002R-16,16,Allée du Solier,43220,Dunières,C+O,45.219637,4.341662
-43087B002R-1A,1A,Allée du Solier,43220,Dunières,C+O,45.219137,4.343575
-43087B002R-1B,1B,Allée du Solier,43220,Dunières,C+O,45.219037,4.344576
-43087B002R-20,20,Allée du Solier,43220,Dunières,C+O,45.219890,4.340499
-43087B002R-2,2,Allée du Solier,43220,Dunières,C+O,45.219173,4.344644
-43087B002R-5,5,Allée du Solier,43220,Dunières,C+O,45.219362,4.342560
-43087B002R-7,7,Allée du Solier,43220,Dunières,C+O,45.219486,4.341984
-43087B002R-8,8,Allée du Solier,43220,Dunières,C+O,45.219111,4.343953
-43087B002R-9,9,Allée du Solier,43220,Dunières,C+O,45.219252,4.341472
 430890020V-10,10,Rue Abbé Fontanille,43000,Espaly-Saint-Marcel,C+O,45.048204,3.865575
 430890020V-11,11,Rue Abbé Fontanille,43000,Espaly-Saint-Marcel,C+O,45.048368,3.865092
 430890020V-1,1,Rue Abbé Fontanille,43000,Espaly-Saint-Marcel,C+O,45.047704,3.864979
@@ -13818,6 +13818,28 @@
 431520122G-6,6,Route du Mont Denise,43000,Polignac,C+O,45.058313,3.864848
 431520122G-7,7,Route du Mont Denise,43000,Polignac,C+O,45.058179,3.865229
 431520122G-9B,9BIS,Route du Mont Denise,43000,Polignac,C+O,45.058284,3.864550
+431520125K-20,20,Route de Polignac,43000,Polignac,C+O,45.052311,3.872825
+431520125K-22,22,Route de Polignac,43000,Polignac,C+O,45.053118,3.872762
+431520125K-23,23,Route de Polignac,43000,Polignac,C+O,45.053888,3.873219
+431520125K-24,24,Route de Polignac,43000,Polignac,C+O,45.053513,3.872917
+431520125K-25,25,Route de Polignac,43000,Polignac,C+O,45.054017,3.873631
+431520125K-26,26,Route de Polignac,43000,Polignac,C+O,45.053885,3.873445
+431520125K-27,27,Route de Polignac,43000,Polignac,C+O,45.054344,3.874200
+431520125K-28,28,Route de Polignac,43000,Polignac,C+O,45.054005,3.874046
+431520125K-29,29,Route de Polignac,43000,Polignac,C+O,45.054788,3.874352
+431520125K-30,30,Route de Polignac,43000,Polignac,C+O,45.054150,3.874238
+431520125K-31,31,Route de Polignac,43000,Polignac,C+O,45.055125,3.874533
+431520125K-32,32,Route de Polignac,43000,Polignac,C+O,45.054857,3.874817
+431520125K-33,33,Route de Polignac,43000,Polignac,C+O,45.055285,3.874747
+431520125K-34,34,Route de Polignac,43000,Polignac,C+O,45.055217,3.874810
+431520125K-35,35,Route de Polignac,43000,Polignac,C+O,45.055602,3.875041
+431520125K-36,36,Route de Polignac,43000,Polignac,C+O,45.055612,3.875185
+431520125K-37,37,Route de Polignac,43000,Polignac,C+O,45.055902,3.875295
+431520125K-38,38,Route de Polignac,43000,Polignac,C+O,45.056050,3.875593
+431520125K-39,39,Route de Polignac,43000,Polignac,C+O,45.056398,3.875753
+431520125K-40,40,Route de Polignac,43000,Polignac,C+O,45.056518,3.876038
+431520125K-41,41,Route de Polignac,43000,Polignac,C+O,45.056732,3.876107
+431520125K-43,43,Route de Polignac,43000,Polignac,C+O,45.056897,3.876331
 431520200S-1,1,Chemin des Sources,43000,Polignac,CAD,45.051012,3.875487
 431520200S-3,3,Chemin des Sources,43000,Polignac,CAD,45.051380,3.875196
 431520200S-5,5,Chemin des Sources,43000,Polignac,CAD,45.051970,3.874675
@@ -13829,28 +13851,6 @@
 431520230Z-2,2,Chemin Sous Les Vignes,43000,Polignac,CAD,45.055012,3.872032
 431520230Z-3,3,Chemin Sous Les Vignes,43000,Polignac,CAD,45.055184,3.872646
 431520284H-9,9,Route du Verdier,43000,Polignac,CAD,45.081013,3.900237
-43152B164J-20,20,Route de Polignac,43000,Polignac,C+O,45.052311,3.872825
-43152B164J-22,22,Route de Polignac,43000,Polignac,C+O,45.053118,3.872762
-43152B164J-23,23,Route de Polignac,43000,Polignac,C+O,45.053888,3.873219
-43152B164J-24,24,Route de Polignac,43000,Polignac,C+O,45.053513,3.872917
-43152B164J-25,25,Route de Polignac,43000,Polignac,C+O,45.054017,3.873631
-43152B164J-26,26,Route de Polignac,43000,Polignac,C+O,45.053885,3.873445
-43152B164J-27,27,Route de Polignac,43000,Polignac,C+O,45.054344,3.874200
-43152B164J-28,28,Route de Polignac,43000,Polignac,C+O,45.054005,3.874046
-43152B164J-29,29,Route de Polignac,43000,Polignac,C+O,45.054788,3.874352
-43152B164J-30,30,Route de Polignac,43000,Polignac,C+O,45.054150,3.874238
-43152B164J-31,31,Route de Polignac,43000,Polignac,C+O,45.055125,3.874533
-43152B164J-32,32,Route de Polignac,43000,Polignac,C+O,45.054857,3.874817
-43152B164J-33,33,Route de Polignac,43000,Polignac,C+O,45.055285,3.874747
-43152B164J-34,34,Route de Polignac,43000,Polignac,C+O,45.055217,3.874810
-43152B164J-35,35,Route de Polignac,43000,Polignac,C+O,45.055602,3.875041
-43152B164J-36,36,Route de Polignac,43000,Polignac,C+O,45.055612,3.875185
-43152B164J-37,37,Route de Polignac,43000,Polignac,C+O,45.055902,3.875295
-43152B164J-38,38,Route de Polignac,43000,Polignac,C+O,45.056050,3.875593
-43152B164J-39,39,Route de Polignac,43000,Polignac,C+O,45.056398,3.875753
-43152B164J-40,40,Route de Polignac,43000,Polignac,C+O,45.056518,3.876038
-43152B164J-41,41,Route de Polignac,43000,Polignac,C+O,45.056732,3.876107
-43152B164J-43,43,Route de Polignac,43000,Polignac,C+O,45.056897,3.876331
 431530071X-10,10,Allée des Pins,43330,Pont-Salomon,C+O,45.347335,4.234033
 431530071X-1,1,Allée des Pins,43330,Pont-Salomon,C+O,45.347380,4.234046
 431530071X-12,12,Allée des Pins,43330,Pont-Salomon,C+O,45.347486,4.233825
@@ -13963,6 +13963,20 @@
 431530077D-7,7,Allée des Ablets,43330,Pont-Salomon,C+O,45.346808,4.238310
 431530077D-8,8,Allée des Ablets,43330,Pont-Salomon,C+O,45.346729,4.238431
 431530077D-9,9,Allée des Ablets,43330,Pont-Salomon,C+O,45.347098,4.238129
+431530079F-10,10,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344602,4.239332
+431530079F-11,11,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345151,4.239267
+431530079F-1,1,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346241,4.238818
+431530079F-13,13,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344940,4.239270
+431530079F-15,15,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344704,4.239418
+431530079F-1B,1BIS,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346514,4.239397
+431530079F-2,2,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346127,4.238497
+431530079F-3,3,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346099,4.239100
+431530079F-4,4,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346179,4.238777
+431530079F-5,5,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345874,4.239239
+431530079F-6,6,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345631,4.239168
+431530079F-7,7,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345651,4.239260
+431530079F-8,8,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344672,4.239200
+431530079F-9,9,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345384,4.239263
 431530080G-1,1,Allée Massenet,43330,Pont-Salomon,C+O,45.347950,4.238175
 431530080G-2,2,Allée Massenet,43330,Pont-Salomon,C+O,45.347906,4.238204
 431530080G-3,3,Allée Massenet,43330,Pont-Salomon,C+O,45.347742,4.237816
@@ -13978,20 +13992,6 @@
 43153A005V-35,35,Lotissement Le Hameau des Ecureuils,43330,Pont-Salomon,CAD,45.344042,4.248869
 43153A005V-40,40,Lotissement Le Hameau des Ecureuils,43330,Pont-Salomon,CAD,45.344379,4.248721
 43153A005V-6,6,Lotissement Le Hameau des Ecureuils,43330,Pont-Salomon,CAD,45.346891,4.247522
-43153B078L-10,10,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344602,4.239332
-43153B078L-11,11,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345151,4.239267
-43153B078L-1,1,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346241,4.238818
-43153B078L-13,13,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344940,4.239270
-43153B078L-15,15,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344704,4.239418
-43153B078L-1B,1BIS,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346514,4.239397
-43153B078L-2,2,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346127,4.238497
-43153B078L-3,3,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346099,4.239100
-43153B078L-4,4,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.346179,4.238777
-43153B078L-5,5,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345874,4.239239
-43153B078L-6,6,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345631,4.239168
-43153B078L-7,7,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345651,4.239260
-43153B078L-8,8,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.344672,4.239200
-43153B078L-9,9,Montée du Pré de Fonz,43330,Pont-Salomon,C+O,45.345384,4.239263
 431570020Z-1,1,Rue Abbé de l'Épée,43750,Le Puy-en-Velay,C+O,45.044337,3.885617
 431570020Z-2,2,Rue Abbé de l'Épée,43750,Le Puy-en-Velay,C+O,45.044499,3.885504
 431570030K-10,10,Cité des Acacias,43750,Le Puy-en-Velay,C+O,45.044062,3.878020
@@ -18578,6 +18578,9 @@
 431620090D-18,18,Rue Raymond Déchiron,43130,Retournac,C+O,45.197597,4.032162
 431620110A-1,1,Impasse de la Fontaine,43130,Retournac,CAD,45.198220,4.030193
 431620110A-6,6,Impasse de la Fontaine,43130,Retournac,CAD,45.198251,4.030483
+431620120L-11,11,Avenue de la Gare,43130,Retournac,C+O,45.202875,4.034830
+431620120L-61,61,Avenue de la Gare,43130,Retournac,C+O,45.201077,4.037085
+431620120L-63,63,Avenue de la Gare,43130,Retournac,C+O,45.200956,4.037070
 431620140H-6,6,Rue de l'Hôpital,43130,Retournac,C+O,45.203026,4.031838
 431620160E-10,10,Rue de l'Hôtel de Ville,43130,Retournac,C+O,45.204332,4.032836
 431620160E-17,17,Rue de l'Hôtel de Ville,43130,Retournac,C+O,45.203930,4.033023
@@ -18678,9 +18681,6 @@
 431620360X-17,17,Route de Vousse,43130,Retournac,C+O,45.203402,4.025412
 431620360X-6,6,Route de Vousse,43130,Retournac,C+O,45.204412,4.031949
 431620380U-3,3,Route d'Yssingeaux,43130,Retournac,C+O,45.198357,4.036927
-43162B005T-11,11,Avenue de la Gare,43130,Retournac,C+O,45.202875,4.034830
-43162B005T-61,61,Avenue de la Gare,43130,Retournac,C+O,45.201077,4.037085
-43162B005T-63,63,Avenue de la Gare,43130,Retournac,C+O,45.200956,4.037070
 43162B141R-6373,6373,Lingoustre,43130,Retournac,CAD,45.229405,4.003181
 43162B168V-6033,6033,Le Noyer de Chevalier,43130,Retournac,CAD,45.212426,4.027925
 43162B169W-6208,6208,Ollier,43130,Retournac,CAD,45.230971,4.027282
@@ -19144,6 +19144,13 @@
 431770022P-7,7,Place Foch,43140,Saint-Didier-en-Velay,C+O,45.301427,4.275805
 431770022P-8,8,Place Foch,43140,Saint-Didier-en-Velay,C+O,45.302039,4.275877
 431770022P-9,9,Place Foch,43140,Saint-Didier-en-Velay,C+O,45.301391,4.275690
+431770024S-10,10,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303689,4.277203
+431770024S-1,1,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303380,4.277035
+431770024S-12,12,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303756,4.277207
+431770024S-21,21,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.304195,4.277396
+431770024S-4,4,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303583,4.277092
+431770024S-6,6,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303499,4.277092
+431770024S-8,8,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303658,4.277201
 431770025T-1,1,Boulevard Frédéric Boulet,43140,Saint-Didier-en-Velay,C+O,45.302411,4.273535
 431770025T-4,4,Boulevard Frédéric Boulet,43140,Saint-Didier-en-Velay,C+O,45.302451,4.273667
 431770040J-1,1,Boulevard Gambetta,43140,Saint-Didier-en-Velay,C+O,45.302031,4.272161
@@ -19415,6 +19422,33 @@
 431770140T-13,13,Rue de la Paix,43140,Saint-Didier-en-Velay,C+O,45.302545,4.275511
 431770140T-2,2,Rue de la Paix,43140,Saint-Didier-en-Velay,C+O,45.302451,4.275256
 431770140T-4,4,Rue de la Paix,43140,Saint-Didier-en-Velay,C+O,45.302276,4.275242
+431770141U-10,10,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301472,4.277337
+431770141U-11,11,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301794,4.278365
+431770141U-12,12,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301519,4.277684
+431770141U-13,13,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301757,4.278496
+431770141U-15,15,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301697,4.278630
+431770141U-17,17,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301601,4.278798
+431770141U-19,19,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301496,4.279042
+431770141U-21,21,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301466,4.279192
+431770141U-23,23,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301458,4.279303
+431770141U-26,26,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301665,4.277978
+431770141U-28,28,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301712,4.278065
+431770141U-31,31,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301762,4.280049
+431770141U-3,3,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301509,4.277157
+431770141U-36,36,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301709,4.278472
+431770141U-38,38,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301679,4.278540
+431770141U-40,40,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301654,4.278589
+431770141U-42,42,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301611,4.278673
+431770141U-44,44,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301573,4.278746
+431770141U-4,4,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301446,4.277001
+431770141U-46,46,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301527,4.278826
+431770141U-48,48,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301484,4.278904
+431770141U-54,54,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301381,4.279251
+431770141U-5,5,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301764,4.278008
+431770141U-58,58,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301497,4.280743
+431770141U-6,6,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301448,4.277094
+431770141U-8,8,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301455,4.277188
+431770141U-9,9,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301814,4.278287
 431770142V-10,10,Chemin de la Pepiniere,43140,Saint-Didier-en-Velay,CAD,45.303921,4.272565
 431770142V-1,1,Chemin de la Pepiniere,43140,Saint-Didier-en-Velay,CAD,45.303647,4.272831
 431770142V-12,12,Chemin de la Pepiniere,43140,Saint-Didier-en-Velay,CAD,45.304114,4.272647
@@ -19429,6 +19463,10 @@
 431770144X-4,4,Rue des Prairies,43140,Saint-Didier-en-Velay,C+O,45.298383,4.272771
 431770144X-6,6,Rue des Prairies,43140,Saint-Didier-en-Velay,C+O,45.298220,4.272971
 431770144X-8,8,Rue des Prairies,43140,Saint-Didier-en-Velay,C+O,45.298113,4.273132
+431770146Z-2,2,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,C+O,45.302171,4.273950
+431770146Z-6,6,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,C+O,45.301950,4.274594
+431770146Z-8,8,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,C+O,45.301881,4.274796
+431770146Z-9,9,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,OSM,45.301836,4.274741
 431770160P-11,11,Rue du Repos,43140,Saint-Didier-en-Velay,C+O,45.303194,4.275894
 431770160P-12,12,Rue du Repos,43140,Saint-Didier-en-Velay,C+O,45.303278,4.275884
 431770160P-15,15,Rue du Repos,43140,Saint-Didier-en-Velay,C+O,45.303162,4.275663
@@ -19589,44 +19627,6 @@
 43177A015B-5,5,Lotissement Les Adreyts 2,43140,Saint-Didier-en-Velay,CAD,45.300225,4.265608
 43177A017D-4,4,Lotissement Le Calvaire,43140,Saint-Didier-en-Velay,CAD,45.307760,4.277353
 43177A017D-5,5,Lotissement Le Calvaire,43140,Saint-Didier-en-Velay,CAD,45.307722,4.277154
-43177B024Y-2,2,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,C+O,45.302171,4.273950
-43177B024Y-6,6,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,C+O,45.301950,4.274594
-43177B024Y-8,8,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,C+O,45.301881,4.274796
-43177B024Y-9,9,Boulevard de Pélissac,43140,Saint-Didier-en-Velay,OSM,45.301836,4.274741
-43177B059L-10,10,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303689,4.277203
-43177B059L-1,1,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303380,4.277035
-43177B059L-12,12,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303756,4.277207
-43177B059L-21,21,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.304195,4.277396
-43177B059L-4,4,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303583,4.277092
-43177B059L-6,6,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303499,4.277092
-43177B059L-8,8,Faubourg de la Font,43140,Saint-Didier-en-Velay,C+O,45.303658,4.277201
-43177B060M-10,10,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301472,4.277337
-43177B060M-11,11,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301794,4.278365
-43177B060M-12,12,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301519,4.277684
-43177B060M-13,13,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301757,4.278496
-43177B060M-15,15,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301697,4.278630
-43177B060M-17,17,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301601,4.278798
-43177B060M-19,19,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301496,4.279042
-43177B060M-21,21,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301466,4.279192
-43177B060M-23,23,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301458,4.279303
-43177B060M-26,26,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301665,4.277978
-43177B060M-28,28,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301712,4.278065
-43177B060M-31,31,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301762,4.280049
-43177B060M-3,3,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301509,4.277157
-43177B060M-36,36,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301709,4.278472
-43177B060M-38,38,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301679,4.278540
-43177B060M-40,40,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301654,4.278589
-43177B060M-42,42,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301611,4.278673
-43177B060M-44,44,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301573,4.278746
-43177B060M-4,4,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301446,4.277001
-43177B060M-46,46,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301527,4.278826
-43177B060M-48,48,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301484,4.278904
-43177B060M-54,54,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301381,4.279251
-43177B060M-5,5,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301764,4.278008
-43177B060M-58,58,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301497,4.280743
-43177B060M-6,6,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301448,4.277094
-43177B060M-8,8,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301455,4.277188
-43177B060M-9,9,Faubourg de la Péchoire,43140,Saint-Didier-en-Velay,C+O,45.301814,4.278287
 431840003N-140,140,Chemin de l'Adret,43330,Saint-Ferréol-d'Auroure,C+O,45.368600,4.248584
 431840004P-170,170,Impasse de l'Adret,43330,Saint-Ferréol-d'Auroure,C+O,45.368550,4.250092
 431840005R-2,2,Impasse des Alouettes,43330,Saint-Ferréol-d'Auroure,CAD,45.361779,4.264209
@@ -22794,19 +22794,19 @@
 431903660M-5,5,Rue des Tourterelles,43700,Saint-Germain-Laprade,C+O,45.018134,3.978708
 431903660M-6,6,Rue des Tourterelles,43700,Saint-Germain-Laprade,C+O,45.018249,3.978894
 431903660M-8,8,Rue des Tourterelles,43700,Saint-Germain-Laprade,C+O,45.018162,3.979099
-431903680J-11,11,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058463,3.938683
-431903680J-1,1,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058279,3.940794
-431903680J-13,13,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058641,3.938220
-431903680J-15,15,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058704,3.938027
-431903680J-17,17,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058763,3.937827
-431903680J-19,19,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.059077,3.937512
-431903680J-21,21,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.059028,3.936477
-431903680J-21A,21A,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058982,3.936726
-431903680J-2,2,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058232,3.940863
-431903680J-3,3,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058212,3.940401
-431903680J-4,4,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058095,3.940495
-431903680J-6,6,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058176,3.940064
-431903680J-9,9,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058283,3.939410
+431903700F-11,11,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058463,3.938683
+431903700F-1,1,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058279,3.940794
+431903700F-13,13,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058641,3.938220
+431903700F-15,15,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058704,3.938027
+431903700F-17,17,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058763,3.937827
+431903700F-19,19,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.059077,3.937512
+431903700F-21,21,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.059028,3.936477
+431903700F-21A,21A,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058982,3.936726
+431903700F-2,2,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058232,3.940863
+431903700F-3,3,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058212,3.940401
+431903700F-4,4,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058095,3.940495
+431903700F-6,6,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058176,3.940064
+431903700F-9,9,Rue de la Traversière,43700,Saint-Germain-Laprade,CAD,45.058283,3.939410
 431903720C-1,1,Impasse de la Trende,43700,Saint-Germain-Laprade,CAD,45.045312,3.964693
 431903720C-3,3,Impasse de la Trende,43700,Saint-Germain-Laprade,CAD,45.045058,3.964298
 431903720C-5,5,Impasse de la Trende,43700,Saint-Germain-Laprade,CAD,45.044991,3.964139

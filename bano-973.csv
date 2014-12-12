@@ -4428,6 +4428,10 @@
 973040289H-6,6,Rue Zénobe Gramme,97310,Kourou,C+O,5.157377,-52.668045
 973040289H-7,7,Rue Zénobe Gramme,97310,Kourou,OSM,5.156570,-52.668611
 973040289H-8,8,Rue Zénobe Gramme,97310,Kourou,C+O,5.157662,-52.668241
+973040298T-3,3,Rue Johannes Gutenberg,97310,Kourou,C+O,5.156785,-52.654597
+973040298T-4,4,Rue Johannes Gutenberg,97310,Kourou,OSM,5.156888,-52.654948
+973040298T-5,5,Rue Johannes Gutenberg,97310,Kourou,C+O,5.156660,-52.654687
+973040298T-6,6,Rue Johannes Gutenberg,97310,Kourou,OSM,5.156662,-52.654907
 973040299U-1,1,Rue Georges Marie Guynemer,97310,Kourou,CAD,5.177463,-52.656250
 973040299U-3,3,Rue Georges Marie Guynemer,97310,Kourou,CAD,5.177610,-52.656093
 973040299U-5,5,Rue Georges Marie Guynemer,97310,Kourou,CAD,5.177736,-52.655960
@@ -6460,10 +6464,6 @@
 973040696A-2,2,Allée Libitoka,97310,Kourou,C+O,5.158273,-52.636691
 973040696A-3,3,Allée Libitoka,97310,Kourou,C+O,5.158543,-52.636633
 973040696A-4,4,Allée Libitoka,97310,Kourou,C+O,5.158376,-52.636589
-973040697B-3,3,Rue Johannes Gutenberg,97310,Kourou,C+O,5.156785,-52.654597
-973040697B-4,4,Rue Johannes Gutenberg,97310,Kourou,OSM,5.156888,-52.654948
-973040697B-5,5,Rue Johannes Gutenberg,97310,Kourou,C+O,5.156660,-52.654687
-973040697B-6,6,Rue Johannes Gutenberg,97310,Kourou,OSM,5.156662,-52.654907
 973040698C-19,19,Allée Adaino Ngewete,97310,Kourou,CAD,5.156006,-52.638048
 973040698C-35,35,Allée Adaino Ngewete,97310,Kourou,CAD,5.156946,-52.637003
 973040699D-10,10,Rue Alexander Fleming,97310,Kourou,OSM,5.155656,-52.654439
@@ -11477,7 +11477,6 @@
 97309A032B-6,6,Lotissement Les Hauts de Montravel,97354,Remire-Montjoly,C+O,4.902870,-52.265228
 97309A035E-59,59,Lotissement Les Grenadilles,97354,Remire-Montjoly,CAD,4.915549,-52.283581
 97309A035E-67,67,Lotissement Les Grenadilles,97354,Remire-Montjoly,CAD,4.916200,-52.284159
-97309A037G-8,8,Lotissement Ho-A-Sim,97354,Remire-Montjoly,CAD,4.914406,-52.272741
 97309A041L-15,15,Lotissement les Maripas,97354,Remire-Montjoly,C+O,4.896328,-52.277829
 97309A041L-18,18,Lotissement les Maripas,97354,Remire-Montjoly,C+O,4.896840,-52.278341
 97309A044P-1,1,Lotissement Musenda,97354,Remire-Montjoly,CAD,4.900433,-52.282980
@@ -11685,6 +11684,7 @@
 97309A203M-13,13,Lotissement Karamel,97354,Remire-Montjoly,CAD,4.889100,-52.281682
 97309A203M-16,16,Lotissement Karamel,97354,Remire-Montjoly,CAD,4.890070,-52.281468
 97309A206R-4,4,Lotissement 3 Lacs,97354,Remire-Montjoly,CAD,4.894051,-52.260379
+97309A208T-8,8,Lotissement Ho-A-Sim,97354,Remire-Montjoly,CAD,4.914406,-52.272741
 97309A218D-24,24,Lotissement Les Ixoras,97354,Remire-Montjoly,CAD,4.901213,-52.281076
 97309A218D-9,9,Lotissement Les Ixoras,97354,Remire-Montjoly,CAD,4.900796,-52.280992
 97309A260Z-11,11,Lotissement Deux Flots,97354,Remire-Montjoly,CAD,4.885328,-52.305816
@@ -12112,38 +12112,6 @@
 973110040G-9,9,Avenue Danton,97320,Saint-Laurent-du-Maroni,C+O,5.504228,-54.026682
 973110041H-4,4,Rue du Docteur Henry,97320,Saint-Laurent-du-Maroni,CAD,5.505091,-54.029361
 973110041H-6,6,Rue du Docteur Henry,97320,Saint-Laurent-du-Maroni,CAD,5.505095,-54.029143
-973110043K-10,10,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496796,-54.012428
-973110043K-11,11,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496751,-54.013824
-973110043K-11A,11A,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.495752,-54.015156
-973110043K-12,12,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497389,-54.011338
-973110043K-13,13,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497262,-54.013060
-973110043K-14,14,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497725,-54.011287
-973110043K-15,15,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497763,-54.014157
-973110043K-16,16,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.498198,-54.011563
-973110043K-17,17,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.498849,-54.013002
-973110043K-19,19,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.499394,-54.013100
-973110043K-20,20,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.498791,-54.012802
-973110043K-21,21,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.499837,-54.013179
-973110043K-22,22,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.499654,-54.012924
-973110043K-24,24,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.500715,-54.013125
-973110043K-25,25,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.501332,-54.013456
-973110043K-26,26,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.501547,-54.012215
-973110043K-27,27,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.505779,-54.015082
-973110043K-28,28,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.502362,-54.011981
-973110043K-28A,28A,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503766,-54.012171
-973110043K-29,29,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.502506,-54.013619
-973110043K-30,30,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503219,-54.013547
-973110043K-31,31,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503153,-54.013750
-973110043K-32,32,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.504523,-54.013439
-973110043K-33,33,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503893,-54.015224
-973110043K-34,34,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.505008,-54.013842
-973110043K-35,35,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.504935,-54.014069
-973110043K-36,36,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.505674,-54.013917
-973110043K-41,41,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.506581,-54.015800
-973110043K-6,6,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496043,-54.012313
-973110043K-8,8,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496506,-54.012369
-973110043K-999,999,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.502018,-54.014843
-973110043K-9,9,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496181,-54.012550
 973110044L-10,10,Rue Docteur Horth,97320,Saint-Laurent-du-Maroni,C+O,5.503959,-54.024817
 973110044L-11,11,Rue Docteur Horth,97320,Saint-Laurent-du-Maroni,C+O,5.503937,-54.024494
 973110044L-1,1,Rue Docteur Horth,97320,Saint-Laurent-du-Maroni,C+O,5.504188,-54.025221
@@ -12196,6 +12164,38 @@
 973110046N-3,3,Rue Edgard Milien,97320,Saint-Laurent-du-Maroni,CAD,5.491960,-54.033520
 973110046N-999,999,Rue Edgard Milien,97320,Saint-Laurent-du-Maroni,CAD,5.486390,-54.036793
 973110047P-10,10,Rue Franklin Roosevelt,97320,Saint-Laurent-du-Maroni,CAD,5.503483,-54.027730
+973110048R-10,10,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496796,-54.012428
+973110048R-11,11,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496751,-54.013824
+973110048R-11A,11A,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.495752,-54.015156
+973110048R-12,12,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497389,-54.011338
+973110048R-13,13,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497262,-54.013060
+973110048R-14,14,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497725,-54.011287
+973110048R-15,15,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.497763,-54.014157
+973110048R-16,16,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.498198,-54.011563
+973110048R-17,17,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.498849,-54.013002
+973110048R-19,19,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.499394,-54.013100
+973110048R-20,20,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.498791,-54.012802
+973110048R-21,21,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.499837,-54.013179
+973110048R-22,22,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.499654,-54.012924
+973110048R-24,24,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.500715,-54.013125
+973110048R-25,25,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.501332,-54.013456
+973110048R-26,26,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.501547,-54.012215
+973110048R-27,27,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.505779,-54.015082
+973110048R-28,28,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.502362,-54.011981
+973110048R-28A,28A,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503766,-54.012171
+973110048R-29,29,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.502506,-54.013619
+973110048R-30,30,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503219,-54.013547
+973110048R-31,31,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503153,-54.013750
+973110048R-32,32,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.504523,-54.013439
+973110048R-33,33,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.503893,-54.015224
+973110048R-34,34,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.505008,-54.013842
+973110048R-35,35,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.504935,-54.014069
+973110048R-36,36,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.505674,-54.013917
+973110048R-41,41,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.506581,-54.015800
+973110048R-6,6,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496043,-54.012313
+973110048R-8,8,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496506,-54.012369
+973110048R-999,999,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.502018,-54.014843
+973110048R-9,9,Chemin de Fatima,97320,Saint-Laurent-du-Maroni,CAD,5.496181,-54.012550
 973110049S-1,1,Allée des Euphorbiacées,97320,Saint-Laurent-du-Maroni,CAD,5.489498,-54.037352
 973110049S-3,3,Allée des Euphorbiacées,97320,Saint-Laurent-du-Maroni,CAD,5.489642,-54.037517
 973110050T-9,9,Avenue de la Gare,97320,Saint-Laurent-du-Maroni,CAD,5.503283,-54.025087
