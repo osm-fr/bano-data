@@ -266,23 +266,23 @@
 520210170Z-5,5,Chemin du Moulin,52130,Attancourt,C+O,48.528511,4.926295
 520210180K-5,5,Rue Petite Ruelle,52130,Attancourt,CAD,48.525629,4.930086
 520280030S-1,1,Rue des Fontaines,52160,Aulnoy-sur-Aube,OSM,47.833816,5.033337
-520340015Z-10,10,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460133,4.917350
-520340015Z-11,11,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460643,4.920039
-520340015Z-1,1,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.459377,4.915781
-520340015Z-12,12,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460426,4.917961
-520340015Z-14,14,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460639,4.918456
-520340015Z-16,16,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460718,4.918641
-520340015Z-18,18,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460683,4.919779
-520340015Z-2,2,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.459155,4.915797
-520340015Z-3,3,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.459572,4.916015
-520340015Z-4,4,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.459319,4.915928
-520340015Z-5,5,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.459658,4.916105
-520340015Z-6,6,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.459924,4.916799
-520340015Z-7,7,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460084,4.916903
-520340015Z-8,8,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460033,4.917041
-520340015Z-9,9,Rue de l'Église,52130,Bailly-aux-Forges,CAD,48.460948,4.918777
-520340025K-2,2,Rue de la Fontaine,52130,Bailly-aux-Forges,CAD,48.459302,4.914863
-520340025K-4,4,Rue de la Fontaine,52130,Bailly-aux-Forges,CAD,48.459219,4.914905
+520340015Z-10,10,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460133,4.917350
+520340015Z-11,11,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460643,4.920039
+520340015Z-1,1,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.459377,4.915781
+520340015Z-12,12,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460426,4.917961
+520340015Z-14,14,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460639,4.918456
+520340015Z-16,16,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460718,4.918641
+520340015Z-18,18,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460683,4.919779
+520340015Z-2,2,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.459155,4.915797
+520340015Z-3,3,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.459572,4.916015
+520340015Z-4,4,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.459319,4.915928
+520340015Z-5,5,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.459658,4.916105
+520340015Z-6,6,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.459924,4.916799
+520340015Z-7,7,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460084,4.916903
+520340015Z-8,8,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460033,4.917041
+520340015Z-9,9,Rue de l'Église,52130,Bailly-aux-Forges,C+O,48.460948,4.918777
+520340025K-2,2,Rue de la Fontaine,52130,Bailly-aux-Forges,C+O,48.459302,4.914863
+520340025K-4,4,Rue de la Fontaine,52130,Bailly-aux-Forges,C+O,48.459219,4.914905
 520340035W-10,10,Grande Rue,52130,Bailly-aux-Forges,C+O,48.464386,4.910871
 520340035W-11,11,Grande Rue,52130,Bailly-aux-Forges,C+O,48.463754,4.912559
 520340035W-1,1,Grande Rue,52130,Bailly-aux-Forges,C+O,48.464563,4.910911
@@ -24532,17 +24532,17 @@
 524260019Z-2,2,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278727,4.865620
 524260019Z-4,4,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278516,4.865546
 524260019Z-6,6,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278402,4.865555
-524260030L-10,10,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
-524260030L-11,11,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
-524260030L-1,1,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
-524260030L-12,12,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
-524260030L-13,13,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
-524260030L-19,19,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
-524260030L-3,3,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
-524260030L-5,5,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
-524260030L-7,7,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
-524260030L-8,8,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
-524260030L-9,9,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
+524260030L-10,10,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
+524260030L-11,11,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
+524260030L-1,1,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
+524260030L-12,12,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
+524260030L-13,13,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
+524260030L-19,19,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
+524260030L-3,3,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
+524260030L-5,5,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
+524260030L-7,7,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
+524260030L-8,8,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
+524260030L-9,9,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
 524260038V-1,1,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278763,4.866126
 524260038V-2,2,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278152,4.866097
 524260038V-4,4,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.277838,4.866379
