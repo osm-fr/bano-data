@@ -2730,12 +2730,12 @@
 23014B001X-1,1,Azat,23210,Azat-Châtenet,CAD,46.077778,1.764699
 23014B023W-2,2,Traslafont,23210,Azat-Châtenet,CAD,46.078752,1.766010
 23014B023W-4,4,Traslafont,23210,Azat-Châtenet,CAD,46.078961,1.766242
-23014B026Z-1,1,Erenas,23210,Azat-Châtenet,CAD,46.097763,1.778838
-23014B026Z-2,2,Erenas,23210,Azat-Châtenet,CAD,46.097648,1.778974
-23014B026Z-3,3,Erenas,23210,Azat-Châtenet,CAD,46.095422,1.779721
-23014B026Z-4,4,Erenas,23210,Azat-Châtenet,CAD,46.095160,1.779344
-23014B026Z-5,5,Erenas,23210,Azat-Châtenet,CAD,46.095060,1.779852
-23014B026Z-6,6,Erenas,23210,Azat-Châtenet,CAD,46.095045,1.779747
+23014B026Z-1,1,Erenas,23210,Azat-Châtenet,C+O,46.097763,1.778838
+23014B026Z-2,2,Erenas,23210,Azat-Châtenet,C+O,46.097648,1.778974
+23014B026Z-3,3,Erenas,23210,Azat-Châtenet,C+O,46.095422,1.779721
+23014B026Z-4,4,Erenas,23210,Azat-Châtenet,C+O,46.095160,1.779344
+23014B026Z-5,5,Erenas,23210,Azat-Châtenet,C+O,46.095060,1.779852
+23014B026Z-6,6,Erenas,23210,Azat-Châtenet,C+O,46.095045,1.779747
 230150002M-2,2,Rue des Autards,23160,Azerables,CAD,46.352533,1.469567
 230150002M-4,4,Rue des Autards,23160,Azerables,CAD,46.352617,1.469193
 230150003N-12,12,Rue Grande,23160,Azerables,CAD,46.354269,1.477824
@@ -3191,13 +3191,13 @@
 230210055U-7,7,Rue de la Chabanne,23210,Bénévent-l'Abbaye,C+O,46.119621,1.625013
 230210055U-8,8,Rue de la Chabanne,23210,Bénévent-l'Abbaye,C+O,46.119716,1.625092
 230210062B-2,2,Rue du Chêne,23210,Bénévent-l'Abbaye,C+O,46.114876,1.624852
-230210064D-1,1,Rue de la Chicanelle,23210,Bénévent-l'Abbaye,CAD,46.121288,1.625757
-230210064D-3,3,Rue de la Chicanelle,23210,Bénévent-l'Abbaye,CAD,46.121685,1.626367
+230210064D-1,1,Rue de la Chicanelle,23210,Bénévent-l'Abbaye,C+O,46.121288,1.625757
+230210064D-3,3,Rue de la Chicanelle,23210,Bénévent-l'Abbaye,C+O,46.121685,1.626367
 230210071L-2,2,Rue Claude Monet,23210,Bénévent-l'Abbaye,C+O,46.117582,1.622343
-230210072M-1,1,Route des Croix,23210,Bénévent-l'Abbaye,CAD,46.122757,1.633894
-230210072M-26,26,Route des Croix,23210,Bénévent-l'Abbaye,CAD,46.118487,1.635249
-230210072M-3,3,Route des Croix,23210,Bénévent-l'Abbaye,CAD,46.122410,1.634295
-230210072M-9,9,Route des Croix,23210,Bénévent-l'Abbaye,CAD,46.121351,1.634784
+230210072M-1,1,Route des Croix,23210,Bénévent-l'Abbaye,C+O,46.122757,1.633894
+230210072M-26,26,Route des Croix,23210,Bénévent-l'Abbaye,C+O,46.118487,1.635249
+230210072M-3,3,Route des Croix,23210,Bénévent-l'Abbaye,C+O,46.122410,1.634295
+230210072M-9,9,Route des Croix,23210,Bénévent-l'Abbaye,C+O,46.121351,1.634784
 230210080W-2,2,Place de l'Église,23210,Bénévent-l'Abbaye,C+O,46.119249,1.630021
 230210100T-1,1,Rue de la Fontaine,23210,Bénévent-l'Abbaye,C+O,46.118367,1.629354
 230210100T-2,2,Rue de la Fontaine,23210,Bénévent-l'Abbaye,C+O,46.118278,1.629363
@@ -3336,30 +3336,30 @@
 230210280N-5,5,Rue du Marché,23210,Bénévent-l'Abbaye,C+O,46.118461,1.629327
 230210280N-7,7,Rue du Marché,23210,Bénévent-l'Abbaye,C+O,46.118159,1.629284
 230210280N-9,9,Rue du Marché,23210,Bénévent-l'Abbaye,C+O,46.118098,1.629278
-230210300K-11,11,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117902,1.630243
-230210300K-1,1,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117949,1.629563
-230210300K-13,13,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117914,1.630320
-230210300K-15,15,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117947,1.630426
-230210300K-17,17,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118043,1.630594
-230210300K-1B,1BIS,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117937,1.630757
-230210300K-21,21,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118394,1.631391
-230210300K-23,23,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118478,1.631884
-230210300K-25,25,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118483,1.631955
-230210300K-27,27,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118485,1.632030
-230210300K-29,29,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118481,1.632139
-230210300K-31,31,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118472,1.632232
-230210300K-33,33,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118451,1.632301
-230210300K-3,3,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117946,1.629607
-230210300K-35,35,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118443,1.632359
-230210300K-37,37,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118434,1.632424
-230210300K-39,39,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118429,1.632471
-230210300K-41,41,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118423,1.632528
-230210300K-43,43,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118425,1.632581
-230210300K-45,45,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118422,1.632643
-230210300K-47,47,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.118394,1.633424
-230210300K-5,5,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117939,1.629713
-230210300K-7B,7BIS,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117933,1.629862
-230210300K-9,9,Rue Montlhery,23210,Bénévent-l'Abbaye,CAD,46.117915,1.629933
+230210300K-11,11,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117902,1.630243
+230210300K-1,1,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117949,1.629563
+230210300K-13,13,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117914,1.630320
+230210300K-15,15,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117947,1.630426
+230210300K-17,17,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118043,1.630594
+230210300K-1B,1BIS,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117937,1.630757
+230210300K-21,21,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118394,1.631391
+230210300K-23,23,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118478,1.631884
+230210300K-25,25,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118483,1.631955
+230210300K-27,27,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118485,1.632030
+230210300K-29,29,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118481,1.632139
+230210300K-31,31,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118472,1.632232
+230210300K-33,33,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118451,1.632301
+230210300K-3,3,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117946,1.629607
+230210300K-35,35,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118443,1.632359
+230210300K-37,37,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118434,1.632424
+230210300K-39,39,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118429,1.632471
+230210300K-41,41,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118423,1.632528
+230210300K-43,43,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118425,1.632581
+230210300K-45,45,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118422,1.632643
+230210300K-47,47,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.118394,1.633424
+230210300K-5,5,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117939,1.629713
+230210300K-7B,7BIS,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117933,1.629862
+230210300K-9,9,Rue Montlhery,23210,Bénévent-l'Abbaye,C+O,46.117915,1.629933
 230210320G-10,10,Route de Mourioux,23210,Bénévent-l'Abbaye,C+O,46.113448,1.629296
 230210320G-15,15,Route de Mourioux,23210,Bénévent-l'Abbaye,C+O,46.110293,1.629286
 230210320G-24,24,Route de Mourioux,23210,Bénévent-l'Abbaye,C+O,46.110942,1.628616
@@ -3412,7 +3412,7 @@
 230210380X-3,3,Rue du Puy du Gaud,23210,Bénévent-l'Abbaye,C+O,46.117796,1.630842
 230210380X-4,4,Rue du Puy du Gaud,23210,Bénévent-l'Abbaye,C+O,46.117660,1.630785
 230210380X-6,6,Rue du Puy du Gaud,23210,Bénévent-l'Abbaye,C+O,46.117517,1.630822
-230210390H-1,1,Chemin de la Quouaille,23210,Bénévent-l'Abbaye,CAD,46.112654,1.623672
+230210390H-1,1,Chemin de la Quouaille,23210,Bénévent-l'Abbaye,C+O,46.112654,1.623672
 230210400U-10,10,Rue des Remparts,23210,Bénévent-l'Abbaye,C+O,46.117755,1.627483
 230210400U-11,11,Rue des Remparts,23210,Bénévent-l'Abbaye,C+O,46.117715,1.627566
 230210400U-1,1,Rue des Remparts,23210,Bénévent-l'Abbaye,C+O,46.118036,1.627601
@@ -6709,37 +6709,37 @@
 230451170B-8,8,Vieille Route Vieille Route de Budelière,23170,Chambon-sur-Voueize,CAD,46.189280,2.427759
 230451170B-9,9,Vieille Route Vieille Route de Budelière,23170,Chambon-sur-Voueize,CAD,46.189489,2.427753
 230451180M-1,1,Quai Napoleon,23170,Chambon-sur-Voueize,CAD,46.189464,2.421694
-230470100E-1,1,Rue de l'Eglise,23240,Chamborand,CAD,46.155262,1.572150
-230470100E-2,2,Rue de l'Eglise,23240,Chamborand,CAD,46.155175,1.572142
-230470100E-3,3,Rue de l'Eglise,23240,Chamborand,CAD,46.155117,1.572081
+230470100E-1,1,Rue de l'Église,23240,Chamborand,C+O,46.155262,1.572150
+230470100E-2,2,Rue de l'Église,23240,Chamborand,C+O,46.155175,1.572142
+230470100E-3,3,Rue de l'Église,23240,Chamborand,C+O,46.155117,1.572081
 230470120B-2,2,Rue de l'Étang,23240,Chamborand,C+O,46.155500,1.572511
 230470120B-3,3,Rue de l'Étang,23240,Chamborand,C+O,46.154723,1.573177
-230470150J-11,11,Route de Fursac,23240,Chamborand,CAD,46.156756,1.570085
-230470150J-1,1,Route de Fursac,23240,Chamborand,CAD,46.157042,1.571598
-230470150J-12,12,Route de Fursac,23240,Chamborand,CAD,46.157079,1.571294
-230470150J-14,14,Route de Fursac,23240,Chamborand,CAD,46.156996,1.570841
-230470150J-15,15,Route de Fursac,23240,Chamborand,CAD,46.156582,1.568994
-230470150J-16,16,Route de Fursac,23240,Chamborand,CAD,46.156933,1.570494
-230470150J-18,18,Route de Fursac,23240,Chamborand,CAD,46.156815,1.569826
-230470150J-20,20,Route de Fursac,23240,Chamborand,CAD,46.156762,1.569514
-230470150J-2,2,Route de Fursac,23240,Chamborand,CAD,46.157490,1.573578
-230470150J-6,6,Route de Fursac,23240,Chamborand,CAD,46.157303,1.572551
-230470150J-7,7,Route de Fursac,23240,Chamborand,CAD,46.156848,1.570583
-230470300X-1,1,Impasse du Presbytère,23240,Chamborand,CAD,46.155702,1.572039
-230470300X-2,2,Impasse du Presbytère,23240,Chamborand,CAD,46.155732,1.571995
-230470300X-3,3,Impasse du Presbytère,23240,Chamborand,CAD,46.155767,1.571944
-230470300X-4,4,Impasse du Presbytère,23240,Chamborand,CAD,46.155802,1.571894
-230470300X-5,5,Impasse du Presbytère,23240,Chamborand,CAD,46.155823,1.571813
-230470300X-6,6,Impasse du Presbytère,23240,Chamborand,CAD,46.155781,1.571626
-230470350B-10,10,Rue des Roches,23240,Chamborand,CAD,46.157626,1.569331
-230470350B-12,12,Rue des Roches,23240,Chamborand,CAD,46.157827,1.569345
-230470350B-14,14,Rue des Roches,23240,Chamborand,CAD,46.158016,1.569357
-230470350B-16,16,Rue des Roches,23240,Chamborand,CAD,46.158664,1.569198
-230470350B-2,2,Rue des Roches,23240,Chamborand,CAD,46.156876,1.569277
-230470350B-4,4,Rue des Roches,23240,Chamborand,CAD,46.157034,1.569289
-230470350B-6,6,Rue des Roches,23240,Chamborand,CAD,46.157226,1.569303
-230470350B-8,8,Rue des Roches,23240,Chamborand,CAD,46.157434,1.569317
-230470350B-9,9,Rue des Roches,23240,Chamborand,CAD,46.158480,1.569462
+230470150J-11,11,Route de Fursac,23240,Chamborand,C+O,46.156756,1.570085
+230470150J-1,1,Route de Fursac,23240,Chamborand,C+O,46.157042,1.571598
+230470150J-12,12,Route de Fursac,23240,Chamborand,C+O,46.157079,1.571294
+230470150J-14,14,Route de Fursac,23240,Chamborand,C+O,46.156996,1.570841
+230470150J-15,15,Route de Fursac,23240,Chamborand,C+O,46.156582,1.568994
+230470150J-16,16,Route de Fursac,23240,Chamborand,C+O,46.156933,1.570494
+230470150J-18,18,Route de Fursac,23240,Chamborand,C+O,46.156815,1.569826
+230470150J-20,20,Route de Fursac,23240,Chamborand,C+O,46.156762,1.569514
+230470150J-2,2,Route de Fursac,23240,Chamborand,C+O,46.157490,1.573578
+230470150J-6,6,Route de Fursac,23240,Chamborand,C+O,46.157303,1.572551
+230470150J-7,7,Route de Fursac,23240,Chamborand,C+O,46.156848,1.570583
+230470300X-1,1,Impasse du Presbytère,23240,Chamborand,C+O,46.155702,1.572039
+230470300X-2,2,Impasse du Presbytère,23240,Chamborand,C+O,46.155732,1.571995
+230470300X-3,3,Impasse du Presbytère,23240,Chamborand,C+O,46.155767,1.571944
+230470300X-4,4,Impasse du Presbytère,23240,Chamborand,C+O,46.155802,1.571894
+230470300X-5,5,Impasse du Presbytère,23240,Chamborand,C+O,46.155823,1.571813
+230470300X-6,6,Impasse du Presbytère,23240,Chamborand,C+O,46.155781,1.571626
+230470350B-10,10,Rue des Roches,23240,Chamborand,C+O,46.157626,1.569331
+230470350B-12,12,Rue des Roches,23240,Chamborand,C+O,46.157827,1.569345
+230470350B-14,14,Rue des Roches,23240,Chamborand,C+O,46.158016,1.569357
+230470350B-16,16,Rue des Roches,23240,Chamborand,C+O,46.158664,1.569198
+230470350B-2,2,Rue des Roches,23240,Chamborand,C+O,46.156876,1.569277
+230470350B-4,4,Rue des Roches,23240,Chamborand,C+O,46.157034,1.569289
+230470350B-6,6,Rue des Roches,23240,Chamborand,C+O,46.157226,1.569303
+230470350B-8,8,Rue des Roches,23240,Chamborand,C+O,46.157434,1.569317
+230470350B-9,9,Rue des Roches,23240,Chamborand,C+O,46.158480,1.569462
 230470400F-11,11,Rue de la Tour,23240,Chamborand,C+O,46.155891,1.572335
 230470400F-12,12,Rue de la Tour,23240,Chamborand,C+O,46.155554,1.571840
 230470400F-13,13,Rue de la Tour,23240,Chamborand,C+O,46.155800,1.572318
@@ -11351,12 +11351,12 @@
 230880005Y-6,6,Rue du Bois Sergent,23320,Gartempe,C+O,46.149960,1.738665
 230880005Y-7,7,Rue du Bois Sergent,23320,Gartempe,C+O,46.149985,1.737766
 230880005Y-9,9,Rue du Bois Sergent,23320,Gartempe,C+O,46.149988,1.737892
-230880020P-1,1,Rue du Presbytère,23320,Gartempe,CAD,46.149897,1.738307
-230880020P-3,3,Rue du Presbytère,23320,Gartempe,CAD,46.149844,1.738303
-230880020P-5,5,Rue du Presbytère,23320,Gartempe,CAD,46.149732,1.738310
-23088B014P-2,2,Le Cros,23320,Gartempe,CAD,46.157339,1.741411
-23088B016S-1,1,Le Gacher,23320,Gartempe,CAD,46.160592,1.718965
-23088B016S-2,2,Le Gacher,23320,Gartempe,CAD,46.158877,1.719325
+230880020P-1,1,Rue du  Presbytère,23320,Gartempe,C+O,46.149897,1.738307
+230880020P-3,3,Rue du  Presbytère,23320,Gartempe,C+O,46.149844,1.738303
+230880020P-5,5,Rue du  Presbytère,23320,Gartempe,C+O,46.149732,1.738310
+23088B014P-2,2,Le Cros,23320,Gartempe,C+O,46.157339,1.741411
+23088B016S-1,1,Le Gacher,23320,Gartempe,C+O,46.160592,1.718965
+23088B016S-2,2,Le Gacher,23320,Gartempe,C+O,46.158877,1.719325
 23088B020W-1,1,La Grande Métairie,23320,Gartempe,CAD,46.151595,1.736831
 23088B020W-2,2,La Grande Métairie,23320,Gartempe,CAD,46.151465,1.737160
 23088B029F-1,1,Les Rivailles,23320,Gartempe,CAD,46.141805,1.709901
@@ -12154,30 +12154,30 @@
 23093A002T-4,4,Lotissement Clos du Pré du Roi,23230,Gouzon,CAD,46.189803,2.235050
 23093A002T-5,5,Lotissement Clos du Pré du Roi,23230,Gouzon,CAD,46.189932,2.235229
 23093A002T-6,6,Lotissement Clos du Pré du Roi,23230,Gouzon,CAD,46.190049,2.235361
-230950100W-11,11,Place du Champ de Foire,23240,Le Grand-Bourg,CAD,46.159732,1.648234
-230950100W-13,13,Place du Champ de Foire,23240,Le Grand-Bourg,CAD,46.159683,1.647992
-230950100W-15,15,Place du Champ de Foire,23240,Le Grand-Bourg,CAD,46.159700,1.647894
-230950100W-21,21,Place du Champ de Foire,23240,Le Grand-Bourg,CAD,46.159887,1.647722
-230950100W-25,25,Place du Champ de Foire,23240,Le Grand-Bourg,CAD,46.159951,1.647145
-230950100W-5,5,Place du Champ de Foire,23240,Le Grand-Bourg,CAD,46.159952,1.648185
-230950100W-9,9,Place du Champ de Foire,23240,Le Grand-Bourg,CAD,46.159856,1.648169
+230950100W-11,11,Place du Champ de Foire,23240,Le Grand-Bourg,C+O,46.159732,1.648234
+230950100W-13,13,Place du Champ de Foire,23240,Le Grand-Bourg,C+O,46.159683,1.647992
+230950100W-15,15,Place du Champ de Foire,23240,Le Grand-Bourg,C+O,46.159700,1.647894
+230950100W-21,21,Place du Champ de Foire,23240,Le Grand-Bourg,C+O,46.159887,1.647722
+230950100W-25,25,Place du Champ de Foire,23240,Le Grand-Bourg,C+O,46.159951,1.647145
+230950100W-5,5,Place du Champ de Foire,23240,Le Grand-Bourg,C+O,46.159952,1.648185
+230950100W-9,9,Place du Champ de Foire,23240,Le Grand-Bourg,C+O,46.159856,1.648169
 230950200E-5,5,Chemin des Jardiniers,23240,Le Grand-Bourg,C+O,46.158793,1.644994
 230950200E-7,7,Chemin des Jardiniers,23240,Le Grand-Bourg,C+O,46.158845,1.644769
 230950300N-2,2,Impasse de Lausanne,23240,Le Grand-Bourg,C+O,46.159463,1.648808
-230950350T-10,10,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160426,1.647038
-230950350T-11,11,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160003,1.646517
-230950350T-1,1,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160448,1.648987
-230950350T-12,12,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160409,1.646900
-230950350T-13,13,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160000,1.646438
-230950350T-14,14,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160367,1.646898
-230950350T-15,15,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.159998,1.646343
-230950350T-16,16,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160308,1.646896
-230950350T-18,18,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160212,1.646766
-230950350T-3,3,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160065,1.646879
-230950350T-5,5,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160041,1.646750
-230950350T-7,7,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160027,1.646678
-230950350T-8,8,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160321,1.647450
-230950350T-9,9,Rue de la Mairie,23240,Le Grand-Bourg,CAD,46.160012,1.646602
+230950350T-10,10,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160426,1.647038
+230950350T-11,11,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160003,1.646517
+230950350T-1,1,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160448,1.648987
+230950350T-12,12,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160409,1.646900
+230950350T-13,13,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160000,1.646438
+230950350T-14,14,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160367,1.646898
+230950350T-15,15,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.159998,1.646343
+230950350T-16,16,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160308,1.646896
+230950350T-18,18,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160212,1.646766
+230950350T-3,3,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160065,1.646879
+230950350T-5,5,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160041,1.646750
+230950350T-7,7,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160027,1.646678
+230950350T-8,8,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160321,1.647450
+230950350T-9,9,Rue de la Mairie,23240,Le Grand-Bourg,C+O,46.160012,1.646602
 230950355Y-11,11,Rue du Manoir,23240,Le Grand-Bourg,C+O,46.159530,1.645926
 230950355Y-1,1,Rue du Manoir,23240,Le Grand-Bourg,C+O,46.159927,1.646038
 230950355Y-13,13,Rue du Manoir,23240,Le Grand-Bourg,C+O,46.159478,1.645928
@@ -12200,13 +12200,13 @@
 230950360D-6,6,Place du Marché,23240,Le Grand-Bourg,C+O,46.160373,1.645037
 230950360D-7,7,Place du Marché,23240,Le Grand-Bourg,C+O,46.160085,1.644636
 230950360D-8,8,Place du Marché,23240,Le Grand-Bourg,C+O,46.160320,1.644919
-230950370P-11,11,Allée des Marronniers,23240,Le Grand-Bourg,CAD,46.157802,1.646953
-230950370P-1,1,Allée des Marronniers,23240,Le Grand-Bourg,CAD,46.159575,1.648156
-230950370P-11B,11BIS,Allée des Marronniers,23240,Le Grand-Bourg,CAD,46.157288,1.646726
-230950370P-12,12,Allée des Marronniers,23240,Le Grand-Bourg,CAD,46.158384,1.647064
-230950370P-4,4,Allée des Marronniers,23240,Le Grand-Bourg,CAD,46.159512,1.648011
-230950370P-5,5,Allée des Marronniers,23240,Le Grand-Bourg,CAD,46.159253,1.648004
-230950370P-6,6,Allée des Marronniers,23240,Le Grand-Bourg,CAD,46.159444,1.647981
+230950370P-11,11,Allée des Marronniers,23240,Le Grand-Bourg,C+O,46.157802,1.646953
+230950370P-1,1,Allée des Marronniers,23240,Le Grand-Bourg,C+O,46.159575,1.648156
+230950370P-11B,11BIS,Allée des Marronniers,23240,Le Grand-Bourg,C+O,46.157288,1.646726
+230950370P-12,12,Allée des Marronniers,23240,Le Grand-Bourg,C+O,46.158384,1.647064
+230950370P-4,4,Allée des Marronniers,23240,Le Grand-Bourg,C+O,46.159512,1.648011
+230950370P-5,5,Allée des Marronniers,23240,Le Grand-Bourg,C+O,46.159253,1.648004
+230950370P-6,6,Allée des Marronniers,23240,Le Grand-Bourg,C+O,46.159444,1.647981
 230950380A-1,1,Chemin du Moulin Routhet,23240,Le Grand-Bourg,C+O,46.165542,1.644747
 230950380A-2,2,Chemin du Moulin Routhet,23240,Le Grand-Bourg,C+O,46.165890,1.642616
 230950380A-2B,2BIS,Chemin du Moulin Routhet,23240,Le Grand-Bourg,C+O,46.165887,1.642429
@@ -12237,46 +12237,46 @@
 230950515X-4,4,Rue de la Pierre Grosse,23240,Le Grand-Bourg,C+O,46.160593,1.645627
 230950515X-5,5,Rue de la Pierre Grosse,23240,Le Grand-Bourg,C+O,46.161064,1.645176
 230950515X-7,7,Rue de la Pierre Grosse,23240,Le Grand-Bourg,C+O,46.160995,1.645269
-230950520C-11,11,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.164136,1.642549
-230950520C-1,1,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.165596,1.641938
-230950520C-12,12,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163598,1.642661
-230950520C-13,13,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163929,1.642649
-230950520C-13B,13BIS,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163804,1.642711
-230950520C-14,14,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163388,1.642765
-230950520C-15,15,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163708,1.642758
-230950520C-16,16,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163224,1.642847
-230950520C-17,17,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163557,1.642832
-230950520C-18,18,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163108,1.642905
-230950520C-19,19,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163394,1.642912
-230950520C-20,20,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162982,1.642968
-230950520C-21,21,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.163200,1.643008
-230950520C-22,22,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162837,1.643042
-230950520C-2,2,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.165609,1.641777
-230950520C-24,24,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162498,1.643214
-230950520C-26,26,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162409,1.643259
-230950520C-28,28,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162361,1.643283
-230950520C-30,30,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162313,1.643307
-230950520C-31,31,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162117,1.643555
-230950520C-32,32,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162203,1.643363
-230950520C-33,33,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.162043,1.643592
-230950520C-35,35,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161994,1.643616
-230950520C-37,37,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161897,1.643663
-230950520C-39,39,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161810,1.643707
-230950520C-40,40,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161377,1.643784
-230950520C-41,41,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161732,1.643746
-230950520C-42,42,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161297,1.643825
-230950520C-43,43,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161591,1.643816
-230950520C-44,44,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161190,1.643880
-230950520C-4,4,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.165064,1.641971
-230950520C-45,45,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161426,1.643899
-230950520C-46,46,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161010,1.643987
-230950520C-47,47,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161300,1.643962
-230950520C-49,49,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161233,1.643995
-230950520C-51,51,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161169,1.644027
-230950520C-53,53,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.161013,1.644105
-230950520C-5,5,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.164860,1.642476
-230950520C-7,7,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.164600,1.642328
-230950520C-9,9,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,CAD,46.164452,1.642398
+230950520C-11,11,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.164136,1.642549
+230950520C-1,1,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.165596,1.641938
+230950520C-12,12,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163598,1.642661
+230950520C-13,13,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163929,1.642649
+230950520C-13B,13BIS,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163804,1.642711
+230950520C-14,14,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163388,1.642765
+230950520C-15,15,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163708,1.642758
+230950520C-16,16,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163224,1.642847
+230950520C-17,17,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163557,1.642832
+230950520C-18,18,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163108,1.642905
+230950520C-19,19,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163394,1.642912
+230950520C-20,20,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162982,1.642968
+230950520C-21,21,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.163200,1.643008
+230950520C-22,22,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162837,1.643042
+230950520C-2,2,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.165609,1.641777
+230950520C-24,24,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162498,1.643214
+230950520C-26,26,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162409,1.643259
+230950520C-28,28,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162361,1.643283
+230950520C-30,30,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162313,1.643307
+230950520C-31,31,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162117,1.643555
+230950520C-32,32,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162203,1.643363
+230950520C-33,33,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.162043,1.643592
+230950520C-35,35,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161994,1.643616
+230950520C-37,37,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161897,1.643663
+230950520C-39,39,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161810,1.643707
+230950520C-40,40,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161377,1.643784
+230950520C-41,41,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161732,1.643746
+230950520C-42,42,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161297,1.643825
+230950520C-43,43,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161591,1.643816
+230950520C-44,44,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161190,1.643880
+230950520C-4,4,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.165064,1.641971
+230950520C-45,45,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161426,1.643899
+230950520C-46,46,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161010,1.643987
+230950520C-47,47,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161300,1.643962
+230950520C-49,49,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161233,1.643995
+230950520C-51,51,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161169,1.644027
+230950520C-53,53,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.161013,1.644105
+230950520C-5,5,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.164860,1.642476
+230950520C-7,7,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.164600,1.642328
+230950520C-9,9,Rue du Pont de la Gartempe,23240,Le Grand-Bourg,C+O,46.164452,1.642398
 230950525H-10,10,Rue du Presbytère,23240,Le Grand-Bourg,C+O,46.159424,1.645308
 230950525H-1,1,Rue du Presbytère,23240,Le Grand-Bourg,C+O,46.159458,1.645669
 230950525H-4,4,Rue du Presbytère,23240,Le Grand-Bourg,C+O,46.159568,1.645568
@@ -12334,45 +12334,45 @@
 230950655Z-7,7,Rue Saint-Roch,23240,Le Grand-Bourg,C+O,46.160639,1.644344
 230950655Z-8,8,Rue Saint-Roch,23240,Le Grand-Bourg,C+O,46.160677,1.644190
 230950655Z-9,9,Rue Saint-Roch,23240,Le Grand-Bourg,C+O,46.160569,1.644377
-230950660E-11,11,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,CAD,46.160502,1.642630
-230950660E-1,1,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,CAD,46.160850,1.643812
-230950660E-13,13,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,CAD,46.160743,1.642247
-230950660E-3,3,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,CAD,46.160818,1.643677
-230950660E-4,4,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,CAD,46.160981,1.643561
-230950660E-6,6,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,CAD,46.161004,1.642410
-230950660E-9,9,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,CAD,46.160561,1.643467
-230950700Y-10,10,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160244,1.645908
-230950700Y-12,12,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160263,1.645780
-230950700Y-14,14,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160292,1.645589
-230950700Y-16,16,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160317,1.645437
-230950700Y-18,18,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160324,1.645372
-230950700Y-20,20,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160333,1.645294
-230950700Y-4,4,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160205,1.646190
-230950700Y-6,6,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160221,1.646072
-230950700Y-8,8,Place des Tilleuls,23240,Le Grand-Bourg,CAD,46.160233,1.645984
+230950660E-11,11,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,C+O,46.160502,1.642630
+230950660E-1,1,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,C+O,46.160850,1.643812
+230950660E-13,13,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,C+O,46.160743,1.642247
+230950660E-3,3,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,C+O,46.160818,1.643677
+230950660E-4,4,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,C+O,46.160981,1.643561
+230950660E-6,6,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,C+O,46.161004,1.642410
+230950660E-9,9,Rue du Stade Gabriel Adenis,23240,Le Grand-Bourg,C+O,46.160561,1.643467
+230950700Y-10,10,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160244,1.645908
+230950700Y-12,12,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160263,1.645780
+230950700Y-14,14,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160292,1.645589
+230950700Y-16,16,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160317,1.645437
+230950700Y-18,18,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160324,1.645372
+230950700Y-20,20,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160333,1.645294
+230950700Y-4,4,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160205,1.646190
+230950700Y-6,6,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160221,1.646072
+230950700Y-8,8,Place des Tilleuls,23240,Le Grand-Bourg,C+O,46.160233,1.645984
 230950750C-1,1,Rue du Violon,23240,Le Grand-Bourg,C+O,46.160723,1.647399
 230950750C-2,2,Rue du Violon,23240,Le Grand-Bourg,C+O,46.160744,1.647570
 230950750C-4,4,Rue du Violon,23240,Le Grand-Bourg,C+O,46.160891,1.647510
 230950750C-6,6,Rue du Violon,23240,Le Grand-Bourg,C+O,46.160895,1.647372
 230950750C-7,7,Rue du Violon,23240,Le Grand-Bourg,C+O,46.160635,1.646778
-230950751D-1,1,Chemin des Bois Verts,23240,Le Grand-Bourg,CAD,46.162101,1.645266
-23095A001H-10,10,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169469,1.645308
-23095A001H-11,11,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169660,1.645160
-23095A001H-1,1,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169491,1.643586
-23095A001H-12,12,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169760,1.644858
-23095A001H-13,13,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169858,1.644564
-23095A001H-14,14,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169965,1.644246
-23095A001H-15,15,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169963,1.644090
-23095A001H-16,16,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169686,1.644132
-23095A001H-17,17,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169519,1.643901
-23095A001H-2,2,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169323,1.643833
-23095A001H-3,3,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169169,1.644058
-23095A001H-4,4,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169025,1.644279
-23095A001H-5,5,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.168854,1.644530
-23095A001H-6,6,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.168705,1.644750
-23095A001H-7,7,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.168985,1.644708
-23095A001H-8,8,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169148,1.644940
-23095A001H-9,9,Lotissement Le Merisier,23240,Le Grand-Bourg,CAD,46.169307,1.645162
+230950751D-1,1,Chemin des Bois Verts,23240,Le Grand-Bourg,C+O,46.162101,1.645266
+23095A001H-10,10,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169469,1.645308
+23095A001H-11,11,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169660,1.645160
+23095A001H-1,1,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169491,1.643586
+23095A001H-12,12,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169760,1.644858
+23095A001H-13,13,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169858,1.644564
+23095A001H-14,14,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169965,1.644246
+23095A001H-15,15,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169963,1.644090
+23095A001H-16,16,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169686,1.644132
+23095A001H-17,17,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169519,1.643901
+23095A001H-2,2,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169323,1.643833
+23095A001H-3,3,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169169,1.644058
+23095A001H-4,4,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169025,1.644279
+23095A001H-5,5,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.168854,1.644530
+23095A001H-6,6,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.168705,1.644750
+23095A001H-7,7,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.168985,1.644708
+23095A001H-8,8,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169148,1.644940
+23095A001H-9,9,Lotissement le Merisier,23240,Le Grand-Bourg,C+O,46.169307,1.645162
 23095B056E-10,10,Champ Fleuri,23240,Le Grand-Bourg,CAD,46.205687,1.678036
 23095B163W-2,2,Lisle,23240,Le Grand-Bourg,CAD,46.120552,1.652376
 230960001J-10,10,Rue Adrien Duris,23000,Guéret,C+O,46.180997,1.864894
@@ -17912,7 +17912,7 @@
 231180009X-3,3,Route des Greineries,23150,Maisonnisses,C+O,46.062660,1.899342
 231180012A-1,1,Impasse de la Cote,23150,Maisonnisses,C+O,46.059602,1.896455
 231180013B-4,4,Chemin des Pierres Blanches,23150,Maisonnisses,C+O,46.062532,1.895229
-23118B104G-2,2,Les Rivaux,23150,Maisonnisses,CAD,46.073668,1.903781
+23118B104G-2,2,Les Rivaux,23150,Maisonnisses,C+O,46.073668,1.903781
 231210001A-1,1,Rue de l'Église,23220,Malval,CAD,46.349059,1.887053
 231210001A-3,3,Rue de l'Église,23220,Malval,CAD,46.349341,1.886251
 231210001A-5,5,Rue de l'Église,23220,Malval,CAD,46.349421,1.886071
@@ -18627,52 +18627,52 @@
 231320010M-5,5,Rue des Écoles,23320,Montaigut-le-Blanc,C+O,46.122150,1.735805
 231320010M-7,7,Rue des Écoles,23320,Montaigut-le-Blanc,C+O,46.122022,1.735679
 231320010M-9,9,Rue des Écoles,23320,Montaigut-le-Blanc,C+O,46.121893,1.735560
-231320015T-1,1,Chemin du Peu,23320,Montaigut-le-Blanc,CAD,46.120210,1.734074
-231320015T-2,2,Chemin du Peu,23320,Montaigut-le-Blanc,CAD,46.119602,1.734021
-231320015T-3,3,Chemin du Peu,23320,Montaigut-le-Blanc,CAD,46.119727,1.734060
+231320015T-1,1,Chemin du Peu,23320,Montaigut-le-Blanc,C+O,46.120210,1.734074
+231320015T-2,2,Chemin du Peu,23320,Montaigut-le-Blanc,C+O,46.119602,1.734021
+231320015T-3,3,Chemin du Peu,23320,Montaigut-le-Blanc,C+O,46.119727,1.734060
 231320020Y-2,2,Route de VieilleVille,23320,Montaigut-le-Blanc,C+O,46.120396,1.733693
 231320020Y-4,4,Route de VieilleVille,23320,Montaigut-le-Blanc,C+O,46.120549,1.733270
 231320021Z-90,90,Rue de la Gare,23320,Montaigut-le-Blanc,C+O,46.136558,1.737435
 231320021Z-92,92,Rue de la Gare,23320,Montaigut-le-Blanc,C+O,46.136623,1.737691
-231320022A-2,2,Route de Gartempe,23320,Montaigut-le-Blanc,CAD,46.138429,1.732596
-231320022A-4,4,Route de Gartempe,23320,Montaigut-le-Blanc,CAD,46.138100,1.732376
-231320022A-6,6,Route de Gartempe,23320,Montaigut-le-Blanc,CAD,46.137876,1.732223
-231320026E-33,33,Rue de la Poste,23320,Montaigut-le-Blanc,CAD,46.133392,1.732082
-231320026E-35,35,Rue de la Poste,23320,Montaigut-le-Blanc,CAD,46.133233,1.732061
-231320026E-37,37,Rue de la Poste,23320,Montaigut-le-Blanc,CAD,46.132798,1.732132
-231320026E-39,39,Rue de la Poste,23320,Montaigut-le-Blanc,CAD,46.132093,1.732830
-231320026E-44,44,Rue de la Poste,23320,Montaigut-le-Blanc,CAD,46.132258,1.732433
-231320027F-69,69,Route de Saint-Silvain,23320,Montaigut-le-Blanc,CAD,46.136781,1.739385
-23132A001X-10,10,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.126103,1.736603
-23132A001X-12,12,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.126291,1.736650
-23132A001X-14,14,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.126396,1.736612
-23132A001X-2,2,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.125144,1.736283
-23132A001X-3,3,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.126096,1.736516
-23132A001X-4,4,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.125514,1.736250
-23132A001X-5,5,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.126287,1.736405
-23132A001X-6,6,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.125685,1.736390
-23132A001X-8,8,Lotissement de Jallibout,23320,Montaigut-le-Blanc,CAD,46.125884,1.736542
-23132B001J-3,3,Agnat,23320,Montaigut-le-Blanc,CAD,46.111385,1.761833
-23132B001J-4,4,Agnat,23320,Montaigut-le-Blanc,CAD,46.111625,1.761782
-23132B001J-6,6,Agnat,23320,Montaigut-le-Blanc,CAD,46.111739,1.760938
-23132B001J-8,8,Agnat,23320,Montaigut-le-Blanc,CAD,46.112125,1.761692
-23132B001J-9,9,Agnat,23320,Montaigut-le-Blanc,CAD,46.112230,1.762072
-23132B016A-10,10,Busserolles,23320,Montaigut-le-Blanc,CAD,46.102974,1.753140
-23132B016A-11,11,Busserolles,23320,Montaigut-le-Blanc,CAD,46.103367,1.753988
-23132B016A-1,1,Busserolles,23320,Montaigut-le-Blanc,CAD,46.104514,1.751368
-23132B016A-12,12,Busserolles,23320,Montaigut-le-Blanc,CAD,46.102895,1.755066
-23132B016A-15,15,Busserolles,23320,Montaigut-le-Blanc,CAD,46.103066,1.754216
-23132B016A-19,19,Busserolles,23320,Montaigut-le-Blanc,CAD,46.102823,1.753752
-23132B016A-21,21,Busserolles,23320,Montaigut-le-Blanc,CAD,46.102456,1.753550
-23132B016A-4,4,Busserolles,23320,Montaigut-le-Blanc,CAD,46.103712,1.753630
-23132B016A-7,7,Busserolles,23320,Montaigut-le-Blanc,CAD,46.104194,1.753382
+231320022A-2,2,Route de Gartempe,23320,Montaigut-le-Blanc,C+O,46.138429,1.732596
+231320022A-4,4,Route de Gartempe,23320,Montaigut-le-Blanc,C+O,46.138100,1.732376
+231320022A-6,6,Route de Gartempe,23320,Montaigut-le-Blanc,C+O,46.137876,1.732223
+231320026E-33,33,Rue de la Poste,23320,Montaigut-le-Blanc,C+O,46.133392,1.732082
+231320026E-35,35,Rue de la Poste,23320,Montaigut-le-Blanc,C+O,46.133233,1.732061
+231320026E-37,37,Rue de la Poste,23320,Montaigut-le-Blanc,C+O,46.132798,1.732132
+231320026E-39,39,Rue de la Poste,23320,Montaigut-le-Blanc,C+O,46.132093,1.732830
+231320026E-44,44,Rue de la Poste,23320,Montaigut-le-Blanc,C+O,46.132258,1.732433
+231320027F-69,69,Route de Saint-Silvain,23320,Montaigut-le-Blanc,C+O,46.136781,1.739385
+23132A001X-10,10,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.126103,1.736603
+23132A001X-12,12,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.126291,1.736650
+23132A001X-14,14,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.126396,1.736612
+23132A001X-2,2,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.125144,1.736283
+23132A001X-3,3,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.126096,1.736516
+23132A001X-4,4,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.125514,1.736250
+23132A001X-5,5,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.126287,1.736405
+23132A001X-6,6,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.125685,1.736390
+23132A001X-8,8,lotissement de Jallibout,23320,Montaigut-le-Blanc,C+O,46.125884,1.736542
+23132B001J-3,3,Agnat,23320,Montaigut-le-Blanc,C+O,46.111385,1.761833
+23132B001J-4,4,Agnat,23320,Montaigut-le-Blanc,C+O,46.111625,1.761782
+23132B001J-6,6,Agnat,23320,Montaigut-le-Blanc,C+O,46.111739,1.760938
+23132B001J-8,8,Agnat,23320,Montaigut-le-Blanc,C+O,46.112125,1.761692
+23132B001J-9,9,Agnat,23320,Montaigut-le-Blanc,C+O,46.112230,1.762072
+23132B016A-10,10,Busserolles,23320,Montaigut-le-Blanc,C+O,46.102974,1.753140
+23132B016A-11,11,Busserolles,23320,Montaigut-le-Blanc,C+O,46.103367,1.753988
+23132B016A-1,1,Busserolles,23320,Montaigut-le-Blanc,C+O,46.104514,1.751368
+23132B016A-12,12,Busserolles,23320,Montaigut-le-Blanc,C+O,46.102895,1.755066
+23132B016A-15,15,Busserolles,23320,Montaigut-le-Blanc,C+O,46.103066,1.754216
+23132B016A-19,19,Busserolles,23320,Montaigut-le-Blanc,C+O,46.102823,1.753752
+23132B016A-21,21,Busserolles,23320,Montaigut-le-Blanc,C+O,46.102456,1.753550
+23132B016A-4,4,Busserolles,23320,Montaigut-le-Blanc,C+O,46.103712,1.753630
+23132B016A-7,7,Busserolles,23320,Montaigut-le-Blanc,C+O,46.104194,1.753382
 23132B024J-1,1,Chazette,23320,Montaigut-le-Blanc,CAD,46.127743,1.752253
 23132B024J-2,2,Chazette,23320,Montaigut-le-Blanc,CAD,46.127999,1.752990
 23132B024J-4,4,Chazette,23320,Montaigut-le-Blanc,CAD,46.127954,1.752833
 23132B024J-6,6,Chazette,23320,Montaigut-le-Blanc,CAD,46.128174,1.752612
 23132B024J-8,8,Chazette,23320,Montaigut-le-Blanc,CAD,46.128057,1.751665
 23132B035W-4,4,Les Craux,23320,Montaigut-le-Blanc,CAD,46.129531,1.722483
-23132B045G-1,1,Foret de Montaigut,23320,Montaigut-le-Blanc,CAD,46.133149,1.744574
+23132B045G-1,1,Forêt de Montaigut,23320,Montaigut-le-Blanc,C+O,46.133149,1.744574
 23132B050M-10,10,Le Grand Montaigut,23320,Montaigut-le-Blanc,CAD,46.129683,1.738932
 23132B050M-11,11,Le Grand Montaigut,23320,Montaigut-le-Blanc,CAD,46.129310,1.738250
 23132B050M-15,15,Le Grand Montaigut,23320,Montaigut-le-Blanc,CAD,46.129679,1.738440
@@ -18682,13 +18682,13 @@
 23132B054S-10,10,Les Jarousses,23320,Montaigut-le-Blanc,CAD,46.126143,1.720554
 23132B054S-17,17,Les Jarousses,23320,Montaigut-le-Blanc,CAD,46.126604,1.721382
 23132B054S-6,6,Les Jarousses,23320,Montaigut-le-Blanc,CAD,46.127255,1.720840
-23132B055T-1,1,Joux,23320,Montaigut-le-Blanc,CAD,46.124520,1.739811
-23132B057V-11,11,Lachaud,23320,Montaigut-le-Blanc,CAD,46.109276,1.733095
-23132B057V-12,12,Lachaud,23320,Montaigut-le-Blanc,CAD,46.110074,1.732708
-23132B057V-14,14,Lachaud,23320,Montaigut-le-Blanc,CAD,46.109503,1.732446
-23132B057V-15,15,Lachaud,23320,Montaigut-le-Blanc,CAD,46.108325,1.731983
-23132B057V-5,5,Lachaud,23320,Montaigut-le-Blanc,CAD,46.110275,1.732918
-23132B057V-8,8,Lachaud,23320,Montaigut-le-Blanc,CAD,46.110333,1.732526
+23132B055T-1,1,Joux,23320,Montaigut-le-Blanc,C+O,46.124520,1.739811
+23132B057V-11,11,Lachaud,23320,Montaigut-le-Blanc,C+O,46.109276,1.733095
+23132B057V-12,12,Lachaud,23320,Montaigut-le-Blanc,C+O,46.110074,1.732708
+23132B057V-14,14,Lachaud,23320,Montaigut-le-Blanc,C+O,46.109503,1.732446
+23132B057V-15,15,Lachaud,23320,Montaigut-le-Blanc,C+O,46.108325,1.731983
+23132B057V-5,5,Lachaud,23320,Montaigut-le-Blanc,C+O,46.110275,1.732918
+23132B057V-8,8,Lachaud,23320,Montaigut-le-Blanc,C+O,46.110333,1.732526
 23132B065D-11,11,Le Monteil,23320,Montaigut-le-Blanc,CAD,46.119523,1.708519
 23132B065D-1,1,Le Monteil,23320,Montaigut-le-Blanc,CAD,46.119298,1.709431
 23132B065D-12,12,Le Monteil,23320,Montaigut-le-Blanc,CAD,46.120255,1.707875
@@ -18933,29 +18933,29 @@
 231370017Y-3,3,Allée de la Fontaine de Villedar,23210,Mourioux-Vieilleville,CAD,46.076664,1.643116
 231370018Z-1,1,Chemin du Moulin,23210,Mourioux-Vieilleville,CAD,46.080051,1.648133
 231370018Z-2,2,Chemin du Moulin,23210,Mourioux-Vieilleville,CAD,46.080220,1.648093
-231370019A-10,10,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091630,1.675269
-231370019A-11,11,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091300,1.676331
-231370019A-1,1,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091927,1.674820
-231370019A-12,12,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091609,1.675319
-231370019A-13,13,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091005,1.676841
-231370019A-14,14,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091545,1.675470
-231370019A-15,15,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.090763,1.677119
-231370019A-16,16,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091407,1.675795
-231370019A-17,17,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.090645,1.677259
-231370019A-18,18,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091354,1.675918
-231370019A-19,19,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.090585,1.677331
-231370019A-20,20,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091309,1.676025
-231370019A-21,21,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.090515,1.677414
-231370019A-22,22,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.090998,1.676658
-231370019A-2,2,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091963,1.674492
-231370019A-23,23,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.090163,1.677828
-231370019A-24,24,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.090056,1.677771
-231370019A-3,3,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091830,1.675048
-231370019A-4,4,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091862,1.674700
-231370019A-5,5,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091759,1.675214
-231370019A-6,6,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091717,1.675054
-231370019A-8,8,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091650,1.675223
-231370019A-9,9,Avenue de l'Ardour,23210,Mourioux-Vieilleville,CAD,46.091412,1.676059
+231370019A-10,10,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091630,1.675269
+231370019A-11,11,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091300,1.676331
+231370019A-1,1,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091927,1.674820
+231370019A-12,12,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091609,1.675319
+231370019A-13,13,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091005,1.676841
+231370019A-14,14,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091545,1.675470
+231370019A-15,15,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.090763,1.677119
+231370019A-16,16,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091407,1.675795
+231370019A-17,17,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.090645,1.677259
+231370019A-18,18,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091354,1.675918
+231370019A-19,19,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.090585,1.677331
+231370019A-20,20,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091309,1.676025
+231370019A-21,21,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.090515,1.677414
+231370019A-22,22,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.090998,1.676658
+231370019A-2,2,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091963,1.674492
+231370019A-23,23,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.090163,1.677828
+231370019A-24,24,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.090056,1.677771
+231370019A-3,3,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091830,1.675048
+231370019A-4,4,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091862,1.674700
+231370019A-5,5,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091759,1.675214
+231370019A-6,6,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091717,1.675054
+231370019A-8,8,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091650,1.675223
+231370019A-9,9,Avenue de l'Ardour,23210,Mourioux-Vieilleville,C+O,46.091412,1.676059
 231370020B-2,2,Allée du Plan d'Eau,23210,Mourioux-Vieilleville,C+O,46.093093,1.674647
 231370020B-4,4,Allée du Plan d'Eau,23210,Mourioux-Vieilleville,C+O,46.092189,1.672608
 231370021C-1,1,Allée des Bessaudes,23210,Mourioux-Vieilleville,C+O,46.094009,1.672484
@@ -18966,18 +18966,18 @@
 231370022D-1,1,Allée des Prairies,23210,Mourioux-Vieilleville,C+O,46.093462,1.672552
 231370022D-4,4,Allée des Prairies,23210,Mourioux-Vieilleville,C+O,46.094339,1.672249
 231370022D-6,6,Allée des Prairies,23210,Mourioux-Vieilleville,C+O,46.094518,1.672134
-231370023E-11,11,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092100,1.673475
-231370023E-1,1,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092050,1.672684
-231370023E-13,13,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092110,1.673577
-231370023E-15,15,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092118,1.673657
-231370023E-17,17,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092231,1.673697
-231370023E-19,19,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092137,1.673832
-231370023E-21,21,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092176,1.674220
-231370023E-2,2,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.091962,1.673078
-231370023E-3,3,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092037,1.672820
-231370023E-5,5,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092056,1.673036
-231370023E-7,7,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092076,1.673234
-231370023E-9,9,Rue des Fleurs,23210,Mourioux-Vieilleville,CAD,46.092091,1.673382
+231370023E-11,11,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092100,1.673475
+231370023E-1,1,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092050,1.672684
+231370023E-13,13,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092110,1.673577
+231370023E-15,15,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092118,1.673657
+231370023E-17,17,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092231,1.673697
+231370023E-19,19,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092137,1.673832
+231370023E-21,21,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092176,1.674220
+231370023E-2,2,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.091962,1.673078
+231370023E-3,3,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092037,1.672820
+231370023E-5,5,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092056,1.673036
+231370023E-7,7,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092076,1.673234
+231370023E-9,9,Rue des Fleurs,23210,Mourioux-Vieilleville,C+O,46.092091,1.673382
 231370024F-10,10,Avenue Martel,23210,Mourioux-Vieilleville,C+O,46.092444,1.671755
 231370024F-10B,10BIS,Avenue Martel,23210,Mourioux-Vieilleville,C+O,46.092412,1.671800
 231370024F-11,11,Avenue Martel,23210,Mourioux-Vieilleville,C+O,46.092610,1.671761
@@ -19025,19 +19025,19 @@
 231370026H-5,5,Place Saint-Jean,23210,Mourioux-Vieilleville,C+O,46.091342,1.672060
 231370026H-6,6,Place Saint-Jean,23210,Mourioux-Vieilleville,C+O,46.091855,1.672171
 231370026H-8,8,Place Saint-Jean,23210,Mourioux-Vieilleville,C+O,46.091803,1.672090
-231370027J-1,1,Impasse des Crouzilles,23210,Mourioux-Vieilleville,CAD,46.093885,1.668064
-231370027J-2,2,Impasse des Crouzilles,23210,Mourioux-Vieilleville,CAD,46.093905,1.668172
-231370028K-1,1,Route de Benevent,23210,Mourioux-Vieilleville,CAD,46.093632,1.667141
-231370028K-2,2,Route de Benevent,23210,Mourioux-Vieilleville,CAD,46.093434,1.667549
-231370028K-3,3,Route de Benevent,23210,Mourioux-Vieilleville,CAD,46.093502,1.667899
-231370028K-4,4,Route de Benevent,23210,Mourioux-Vieilleville,CAD,46.093377,1.668243
+231370027J-1,1,Impasse des Crouzilles,23210,Mourioux-Vieilleville,C+O,46.093885,1.668064
+231370027J-2,2,Impasse des Crouzilles,23210,Mourioux-Vieilleville,C+O,46.093905,1.668172
+231370028K-1,1,Route de Bénévent,23210,Mourioux-Vieilleville,C+O,46.093632,1.667141
+231370028K-2,2,Route de Bénévent,23210,Mourioux-Vieilleville,C+O,46.093434,1.667549
+231370028K-3,3,Route de Bénévent,23210,Mourioux-Vieilleville,C+O,46.093502,1.667899
+231370028K-4,4,Route de Bénévent,23210,Mourioux-Vieilleville,C+O,46.093377,1.668243
 231370112B-1,1,Chemin des Reinettes,23210,Mourioux-Vieilleville,C+O,46.089310,1.675094
-231370113C-2,2,Allée des Jardins,23210,Mourioux-Vieilleville,CAD,46.091749,1.675432
-231370114D-1,1,Impasse du Masboudet,23210,Mourioux-Vieilleville,CAD,46.093523,1.666840
-231370114D-2,2,Impasse du Masboudet,23210,Mourioux-Vieilleville,CAD,46.093413,1.666360
-231370114D-3,3,Impasse du Masboudet,23210,Mourioux-Vieilleville,CAD,46.093388,1.666160
-231370114D-4,4,Impasse du Masboudet,23210,Mourioux-Vieilleville,CAD,46.093353,1.665924
-231370114D-5,5,Impasse du Masboudet,23210,Mourioux-Vieilleville,CAD,46.092994,1.666344
+231370113C-2,2,Allée des Jardins,23210,Mourioux-Vieilleville,C+O,46.091749,1.675432
+231370114D-1,1,Impasse du Masboudet,23210,Mourioux-Vieilleville,C+O,46.093523,1.666840
+231370114D-2,2,Impasse du Masboudet,23210,Mourioux-Vieilleville,C+O,46.093413,1.666360
+231370114D-3,3,Impasse du Masboudet,23210,Mourioux-Vieilleville,C+O,46.093388,1.666160
+231370114D-4,4,Impasse du Masboudet,23210,Mourioux-Vieilleville,C+O,46.093353,1.665924
+231370114D-5,5,Impasse du Masboudet,23210,Mourioux-Vieilleville,C+O,46.092994,1.666344
 231370115E-10,10,Avenue de la Fontvieille,23210,Mourioux-Vieilleville,C+O,46.091110,1.669775
 231370115E-11,11,Avenue de la Fontvieille,23210,Mourioux-Vieilleville,C+O,46.091034,1.669826
 231370115E-1,1,Avenue de la Fontvieille,23210,Mourioux-Vieilleville,C+O,46.091250,1.670798
@@ -19101,17 +19101,17 @@
 231370117G-7,7,Allée des Ecoliers,23210,Mourioux-Vieilleville,C+O,46.090527,1.671498
 231370117G-8,8,Allée des Ecoliers,23210,Mourioux-Vieilleville,C+O,46.090450,1.671307
 231370117G-9,9,Allée des Ecoliers,23210,Mourioux-Vieilleville,C+O,46.090336,1.671425
-231370118H-1,1,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,CAD,46.090871,1.671728
-231370118H-2,2,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,CAD,46.090765,1.671701
-231370118H-3,3,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,CAD,46.090488,1.671824
-231370118H-4,4,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,CAD,46.090661,1.671693
-231370118H-5,5,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,CAD,46.090397,1.671910
-23137A002B-1,1,Lotissement des Chaumes,23210,Mourioux-Vieilleville,CAD,46.093235,1.675054
-23137A002B-2,2,Lotissement des Chaumes,23210,Mourioux-Vieilleville,CAD,46.093546,1.675047
-23137A002B-3,3,Lotissement des Chaumes,23210,Mourioux-Vieilleville,CAD,46.093674,1.675048
-23137A002B-4,4,Lotissement des Chaumes,23210,Mourioux-Vieilleville,CAD,46.093771,1.675102
-23137A002B-5,5,Lotissement des Chaumes,23210,Mourioux-Vieilleville,CAD,46.093739,1.675240
-23137A002B-6,6,Lotissement des Chaumes,23210,Mourioux-Vieilleville,CAD,46.093632,1.675398
+231370118H-1,1,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,C+O,46.090871,1.671728
+231370118H-2,2,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,C+O,46.090765,1.671701
+231370118H-3,3,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,C+O,46.090488,1.671824
+231370118H-4,4,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,C+O,46.090661,1.671693
+231370118H-5,5,Allée de l'Ancien Lavoir,23210,Mourioux-Vieilleville,C+O,46.090397,1.671910
+23137A002B-1,1,Lotissement des Chaumes,23210,Mourioux-Vieilleville,C+O,46.093235,1.675054
+23137A002B-2,2,Lotissement des Chaumes,23210,Mourioux-Vieilleville,C+O,46.093546,1.675047
+23137A002B-3,3,Lotissement des Chaumes,23210,Mourioux-Vieilleville,C+O,46.093674,1.675048
+23137A002B-4,4,Lotissement des Chaumes,23210,Mourioux-Vieilleville,C+O,46.093771,1.675102
+23137A002B-5,5,Lotissement des Chaumes,23210,Mourioux-Vieilleville,C+O,46.093739,1.675240
+23137A002B-6,6,Lotissement des Chaumes,23210,Mourioux-Vieilleville,C+O,46.093632,1.675398
 231380001B-10,10,Rue Simon Bauer,23150,Moutier-d'Ahun,C+O,46.091675,2.055682
 231380001B-11,11,Rue Simon Bauer,23150,Moutier-d'Ahun,C+O,46.091509,2.055507
 231380001B-1,1,Rue Simon Bauer,23150,Moutier-d'Ahun,C+O,46.091859,2.056200
@@ -25878,30 +25878,30 @@
 23239A003J-6,6,Quartier de la Gare,23160,Saint-Sébastien,CAD,46.386123,1.546089
 23239A003J-8,8,Quartier de la Gare,23160,Saint-Sébastien,CAD,46.386040,1.546001
 23239B089P-4,4,Peuchemin,23160,Saint-Sébastien,CAD,46.391152,1.558417
-232420015P-1,1,Place de l'Église,23320,Saint-Silvain-Montaigut,CAD,46.142350,1.751514
-232420015P-2,2,Place de l'Église,23320,Saint-Silvain-Montaigut,CAD,46.142192,1.751213
-232420015P-3,3,Place de l'Église,23320,Saint-Silvain-Montaigut,CAD,46.142117,1.751131
-232420020V-11,11,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142840,1.752186
-232420020V-1,1,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.141875,1.751413
-232420020V-12,12,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142557,1.752190
-232420020V-14,14,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142613,1.752251
-232420020V-15,15,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142699,1.752249
-232420020V-16,16,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142517,1.752408
-232420020V-17,17,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142652,1.752364
-232420020V-18,18,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142277,1.752964
-232420020V-21,21,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142430,1.753081
-232420020V-2,2,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.141780,1.751468
-232420020V-3,3,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142508,1.751636
-232420020V-4,4,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142058,1.751606
-232420020V-5,5,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142589,1.751845
-232420020V-6,6,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142213,1.751609
-232420020V-7,7,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142635,1.751954
-232420020V-8,8,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142344,1.751678
-232420020V-9,9,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,CAD,46.142716,1.752091
-23242B023E-2,2,Las Champs,23320,Saint-Silvain-Montaigut,CAD,46.139606,1.744466
-23242B023E-4,4,Las Champs,23320,Saint-Silvain-Montaigut,CAD,46.139520,1.743837
-23242B023E-6,6,Las Champs,23320,Saint-Silvain-Montaigut,CAD,46.139412,1.743426
-23242B023E-8,8,Las Champs,23320,Saint-Silvain-Montaigut,CAD,46.138905,1.742309
+232420015P-1,1,Place de l'Eglise,23320,Saint-Silvain-Montaigut,C+O,46.142350,1.751514
+232420015P-2,2,Place de l'Eglise,23320,Saint-Silvain-Montaigut,C+O,46.142192,1.751213
+232420015P-3,3,Place de l'Eglise,23320,Saint-Silvain-Montaigut,C+O,46.142117,1.751131
+232420020V-11,11,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142840,1.752186
+232420020V-1,1,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.141875,1.751413
+232420020V-12,12,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142557,1.752190
+232420020V-14,14,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142613,1.752251
+232420020V-15,15,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142699,1.752249
+232420020V-16,16,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142517,1.752408
+232420020V-17,17,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142652,1.752364
+232420020V-18,18,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142277,1.752964
+232420020V-21,21,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142430,1.753081
+232420020V-2,2,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.141780,1.751468
+232420020V-3,3,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142508,1.751636
+232420020V-4,4,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142058,1.751606
+232420020V-5,5,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142589,1.751845
+232420020V-6,6,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142213,1.751609
+232420020V-7,7,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142635,1.751954
+232420020V-8,8,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142344,1.751678
+232420020V-9,9,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142716,1.752091
+23242B023E-2,2,Las Champs,23320,Saint-Silvain-Montaigut,C+O,46.139606,1.744466
+23242B023E-4,4,Las Champs,23320,Saint-Silvain-Montaigut,C+O,46.139520,1.743837
+23242B023E-6,6,Las Champs,23320,Saint-Silvain-Montaigut,C+O,46.139412,1.743426
+23242B023E-8,8,Las Champs,23320,Saint-Silvain-Montaigut,C+O,46.138905,1.742309
 23242B028K-2,2,Meillerateix,23320,Saint-Silvain-Montaigut,CAD,46.140250,1.749020
 23242B028K-4,4,Meillerateix,23320,Saint-Silvain-Montaigut,CAD,46.140489,1.748350
 23242B028K-6,6,Meillerateix,23320,Saint-Silvain-Montaigut,CAD,46.139942,1.748535
@@ -26843,65 +26843,65 @@
 23247A006C-7,7,Lotissement de la Magnane,23320,Saint-Vaury,CAD,46.200584,1.766974
 23247A006C-8,8,Lotissement de la Magnane,23320,Saint-Vaury,CAD,46.200017,1.766457
 23247B236P-5,5,La Jarige,23320,Saint-Vaury,OSM,46.195947,1.751498
-232480005C-10,10,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.119176,1.811069
-232480005C-11,11,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.118927,1.811810
-232480005C-1,1,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.118480,1.813745
-232480005C-13,13,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.118961,1.811438
-232480005C-15,15,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.119122,1.810957
-232480005C-23,23,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.119212,1.808477
-232480005C-6,6,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.118940,1.812523
-232480005C-7,7,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.118818,1.812877
-232480005C-8,8,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,CAD,46.118989,1.811970
-232480010H-11,11,Rue de la Font du Chene,23000,Saint-Victor-en-Marche,CAD,46.118009,1.816703
-232480010H-1,1,Rue de la Font du Chene,23000,Saint-Victor-en-Marche,CAD,46.118587,1.814704
-232480010H-3,3,Rue de la Font du Chene,23000,Saint-Victor-en-Marche,CAD,46.118537,1.814913
-232480010H-7,7,Rue de la Font du Chene,23000,Saint-Victor-en-Marche,CAD,46.118504,1.815034
-232480010H-9,9,Rue de la Font du Chene,23000,Saint-Victor-en-Marche,CAD,46.118249,1.816076
-232480012K-3,3,Rue du Four,23000,Saint-Victor-en-Marche,CAD,46.118406,1.814490
-232480012K-5,5,Rue du Four,23000,Saint-Victor-en-Marche,CAD,46.118358,1.814457
-232480012K-9,9,Rue du Four,23000,Saint-Victor-en-Marche,CAD,46.117951,1.814200
-232480014M-10,10,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.117440,1.813830
-232480014M-11,11,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.117625,1.813967
-232480014M-1,1,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.118468,1.814225
-232480014M-13,13,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.116973,1.814158
-232480014M-4,4,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.118099,1.813953
-232480014M-5,5,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.118192,1.814064
-232480014M-6,6,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.117967,1.813968
-232480014M-9,9,Rue de la Gartempe,23000,Saint-Victor-en-Marche,CAD,46.117851,1.814023
-232480020U-4,4,Rue des Planchettes,23000,Saint-Victor-en-Marche,CAD,46.119610,1.816714
-232480025Z-10,10,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.119660,1.813586
-232480025Z-1,1,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.118726,1.814327
-232480025Z-12,12,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.119882,1.813343
-232480025Z-13,13,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.120162,1.812941
-232480025Z-14,14,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.120119,1.813057
-232480025Z-15,15,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.120421,1.812688
-232480025Z-16,16,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.120491,1.812731
-232480025Z-17,17,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.120678,1.812628
-232480025Z-18,18,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.120761,1.812731
-232480025Z-2,2,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.118871,1.814319
-232480025Z-3,3,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.118930,1.814169
-232480025Z-7,7,Rue de la Pradelle,23000,Saint-Victor-en-Marche,CAD,46.119435,1.813679
-232480030E-1,1,Rue de la Roche,23000,Saint-Victor-en-Marche,CAD,46.118084,1.814917
-232480030E-3,3,Rue de la Roche,23000,Saint-Victor-en-Marche,CAD,46.118079,1.814578
-232480032G-1,1,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,CAD,46.118265,1.815054
-232480032G-2,2,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,CAD,46.117916,1.815210
-232480032G-7,7,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,CAD,46.117995,1.815189
-232480032G-9,9,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,CAD,46.117883,1.815273
-232480117Z-1,1,Roubeau,23000,Saint-Victor-en-Marche,CAD,46.112586,1.797831
-232480117Z-2,2,Roubeau,23000,Saint-Victor-en-Marche,CAD,46.111277,1.807838
-232480117Z-4,4,Roubeau,23000,Saint-Victor-en-Marche,CAD,46.112940,1.796436
-232480117Z-7,7,Roubeau,23000,Saint-Victor-en-Marche,CAD,46.111140,1.799066
+232480005C-10,10,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.119176,1.811069
+232480005C-11,11,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.118927,1.811810
+232480005C-1,1,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.118480,1.813745
+232480005C-13,13,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.118961,1.811438
+232480005C-15,15,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.119122,1.810957
+232480005C-23,23,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.119212,1.808477
+232480005C-6,6,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.118940,1.812523
+232480005C-7,7,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.118818,1.812877
+232480005C-8,8,Rue de la Croix du Lac,23000,Saint-Victor-en-Marche,C+O,46.118989,1.811970
+232480010H-11,11,Rue de La Font du Chene,23000,Saint-Victor-en-Marche,C+O,46.118009,1.816703
+232480010H-1,1,Rue de La Font du Chene,23000,Saint-Victor-en-Marche,C+O,46.118587,1.814704
+232480010H-3,3,Rue de La Font du Chene,23000,Saint-Victor-en-Marche,C+O,46.118537,1.814913
+232480010H-7,7,Rue de La Font du Chene,23000,Saint-Victor-en-Marche,C+O,46.118504,1.815034
+232480010H-9,9,Rue de La Font du Chene,23000,Saint-Victor-en-Marche,C+O,46.118249,1.816076
+232480012K-3,3,Rue du Four,23000,Saint-Victor-en-Marche,C+O,46.118406,1.814490
+232480012K-5,5,Rue du Four,23000,Saint-Victor-en-Marche,C+O,46.118358,1.814457
+232480012K-9,9,Rue du Four,23000,Saint-Victor-en-Marche,C+O,46.117951,1.814200
+232480014M-10,10,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.117440,1.813830
+232480014M-11,11,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.117625,1.813967
+232480014M-1,1,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.118468,1.814225
+232480014M-13,13,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.116973,1.814158
+232480014M-4,4,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.118099,1.813953
+232480014M-5,5,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.118192,1.814064
+232480014M-6,6,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.117967,1.813968
+232480014M-9,9,Rue de la Gartempe,23000,Saint-Victor-en-Marche,C+O,46.117851,1.814023
+232480020U-4,4,Rue des Planchettes,23000,Saint-Victor-en-Marche,C+O,46.119610,1.816714
+232480025Z-10,10,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.119660,1.813586
+232480025Z-1,1,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.118726,1.814327
+232480025Z-12,12,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.119882,1.813343
+232480025Z-13,13,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.120162,1.812941
+232480025Z-14,14,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.120119,1.813057
+232480025Z-15,15,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.120421,1.812688
+232480025Z-16,16,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.120491,1.812731
+232480025Z-17,17,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.120678,1.812628
+232480025Z-18,18,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.120761,1.812731
+232480025Z-2,2,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.118871,1.814319
+232480025Z-3,3,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.118930,1.814169
+232480025Z-7,7,Rue de La Pradelle,23000,Saint-Victor-en-Marche,C+O,46.119435,1.813679
+232480030E-1,1,Rue de la Roche,23000,Saint-Victor-en-Marche,C+O,46.118084,1.814917
+232480030E-3,3,Rue de la Roche,23000,Saint-Victor-en-Marche,C+O,46.118079,1.814578
+232480032G-1,1,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,C+O,46.118265,1.815054
+232480032G-2,2,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,C+O,46.117916,1.815210
+232480032G-7,7,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,C+O,46.117995,1.815189
+232480032G-9,9,Impasse des Sapins Verts,23000,Saint-Victor-en-Marche,C+O,46.117883,1.815273
+232480117Z-1,1,Roubeau,23000,Saint-Victor-en-Marche,C+O,46.112586,1.797831
+232480117Z-2,2,Roubeau,23000,Saint-Victor-en-Marche,C+O,46.111277,1.807838
+232480117Z-4,4,Roubeau,23000,Saint-Victor-en-Marche,C+O,46.112940,1.796436
+232480117Z-7,7,Roubeau,23000,Saint-Victor-en-Marche,C+O,46.111140,1.799066
 232480118A-1,1,Moulin de Talabot,23000,Saint-Victor-en-Marche,CAD,46.126137,1.773022
-232480119B-11,11,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.108365,1.779415
-232480119B-1,1,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.108920,1.780326
-232480119B-12,12,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.107914,1.779063
-232480119B-13,13,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.107971,1.779192
-232480119B-15,15,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.108671,1.780169
-232480119B-3,3,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.108860,1.779474
-232480119B-4,4,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.109074,1.779524
-232480119B-5,5,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.109183,1.779588
-232480119B-8,8,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.109020,1.779232
-232480119B-9,9,Montpeyroux,23000,Saint-Victor-en-Marche,CAD,46.109427,1.779174
+232480119B-11,11,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.108365,1.779415
+232480119B-1,1,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.108920,1.780326
+232480119B-12,12,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.107914,1.779063
+232480119B-13,13,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.107971,1.779192
+232480119B-15,15,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.108671,1.780169
+232480119B-3,3,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.108860,1.779474
+232480119B-4,4,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.109074,1.779524
+232480119B-5,5,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.109183,1.779588
+232480119B-8,8,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.109020,1.779232
+232480119B-9,9,Montpeyroux,23000,Saint-Victor-en-Marche,C+O,46.109427,1.779174
 232550005X-1,1,Route de la Bascule Ventenat,23230,Trois-Fonds,CAD,46.249700,2.227575
 232550005X-2,2,Route de la Bascule Ventenat,23230,Trois-Fonds,CAD,46.249866,2.227144
 232550005X-3,3,Route de la Bascule Ventenat,23230,Trois-Fonds,CAD,46.249813,2.227080
