@@ -6024,6 +6024,7 @@
 081050230T-23,23,Rue d'Aubilly,08000,Charleville-Mézières,C+O,49.773602,4.726125
 081050230T-25,25,Rue d'Aubilly,08000,Charleville-Mézières,C+O,49.773625,4.726023
 081050230T-28,28,Rue d'Aubilly,08000,Charleville-Mézières,C+O,49.773844,4.724635
+081050230T-29,29,Rue d'Aubilly,08000,Charleville-Mézières,OSM,49.773593,4.726341
 081050230T-3,3,Rue d'Aubilly,08000,Charleville-Mézières,C+O,49.774766,4.722008
 081050230T-4,4,Rue d'Aubilly,08000,Charleville-Mézières,C+O,49.774491,4.721770
 081050230T-5,5,Rue d'Aubilly,08000,Charleville-Mézières,C+O,49.774491,4.722104
@@ -8174,26 +8175,26 @@
 081050770E-6,6,Rue Clémenceau,08000,Charleville-Mézières,C+O,49.772936,4.735855
 081050770E-6B,6BIS,Rue Clémenceau,08000,Charleville-Mézières,C+O,49.772869,4.735914
 081050770E-8,8,Rue Clémenceau,08000,Charleville-Mézières,C+O,49.772707,4.735995
-081050780R-10,10,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763555,4.706718
-081050780R-11,11,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763725,4.706598
-081050780R-1,1,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.762929,4.706023
-081050780R-12B,12BIS,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763780,4.706883
-081050780R-13,13,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.764230,4.706732
-081050780R-14,14,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.764065,4.707091
-081050780R-15,15,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763864,4.706699
-081050780R-17,17,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763986,4.706787
-081050780R-19,19,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.764110,4.706877
-081050780R-1B,1BIS,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763477,4.705645
-081050780R-21,21,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.764217,4.706954
-081050780R-2,2,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.762872,4.706224
-081050780R-3,3,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763095,4.706143
-081050780R-4,4,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763021,4.706333
-081050780R-5,5,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763220,4.706234
-081050780R-6,6,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763160,4.706433
-081050780R-7,7,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763372,4.706343
-081050780R-7B,7BIS,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763655,4.705989
-081050780R-8,8,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763306,4.706539
-081050780R-9,9,Avenue Clément Bayard,08000,Charleville-Mézières,CAD,49.763611,4.706515
+081050780R-10,10,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763555,4.706718
+081050780R-11,11,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763725,4.706598
+081050780R-1,1,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.762929,4.706023
+081050780R-12B,12BIS,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763780,4.706883
+081050780R-13,13,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.764230,4.706732
+081050780R-14,14,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.764065,4.707091
+081050780R-15,15,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763864,4.706699
+081050780R-17,17,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763986,4.706787
+081050780R-19,19,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.764110,4.706877
+081050780R-1B,1BIS,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763477,4.705645
+081050780R-21,21,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.764217,4.706954
+081050780R-2,2,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.762872,4.706224
+081050780R-3,3,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763095,4.706143
+081050780R-4,4,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763021,4.706333
+081050780R-5,5,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763220,4.706234
+081050780R-6,6,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763160,4.706433
+081050780R-7,7,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763372,4.706343
+081050780R-7B,7BIS,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763655,4.705989
+081050780R-8,8,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763306,4.706539
+081050780R-9,9,Avenue Clément Bayard,08000,Charleville-Mézières,C+O,49.763611,4.706515
 081050790B-10,10,Rue Clément Métezeau,08000,Charleville-Mézières,C+O,49.771560,4.724121
 081050790B-2,2,Rue Clément Métezeau,08000,Charleville-Mézières,C+O,49.771707,4.723448
 081050790B-4,4,Rue Clément Métezeau,08000,Charleville-Mézières,C+O,49.771680,4.723574
@@ -9678,6 +9679,7 @@
 081051361X-8,8,Rue de la Fontaine Saint-Martin,08000,Charleville-Mézières,C+O,49.785198,4.692888
 081051361X-9,9,Rue de la Fontaine Saint-Martin,08000,Charleville-Mézières,C+O,49.785333,4.692771
 081051370G-10,10,Avenue Forest,08000,Charleville-Mézières,C+O,49.769963,4.724549
+081051370G-11,11,Avenue Forest,08000,Charleville-Mézières,OSM,49.770744,4.724678
 081051370G-12,12,Avenue Forest,08000,Charleville-Mézières,C+O,49.770038,4.724595
 081051370G-12B,12BIS,Avenue Forest,08000,Charleville-Mézières,C+O,49.769991,4.724806
 081051370G-13,13,Avenue Forest,08000,Charleville-Mézières,C+O,49.770860,4.724861
@@ -9700,7 +9702,7 @@
 081051370G-31,31,Avenue Forest,08000,Charleville-Mézières,C+O,49.769857,4.724028
 081051370G-32,32,Avenue Forest,08000,Charleville-Mézières,C+O,49.770807,4.725065
 081051370G-33,33,Avenue Forest,08000,Charleville-Mézières,C+O,49.771917,4.725007
-081051370G-3,3,Avenue Forest,08000,Charleville-Mézières,C+O,49.769949,4.724304
+081051370G-3,3,Avenue Forest,08000,Charleville-Mézières,OSM,49.769976,4.724177
 081051370G-34,34,Avenue Forest,08000,Charleville-Mézières,C+O,49.770914,4.725130
 081051370G-35,35,Avenue Forest,08000,Charleville-Mézières,C+O,49.771993,4.725553
 081051370G-36,36,Avenue Forest,08000,Charleville-Mézières,C+O,49.771047,4.725179
@@ -9736,7 +9738,7 @@
 081051371H-56,56,Rue Forest,08000,Charleville-Mézières,C+O,49.773086,4.726391
 081051371H-57,57,Rue Forest,08000,Charleville-Mézières,C+O,49.773267,4.726356
 081051371H-58,58,Rue Forest,08000,Charleville-Mézières,C+O,49.773191,4.726452
-081051371H-59,59,Rue Forest,08000,Charleville-Mézières,C+O,49.773563,4.726541
+081051371H-59,59,Rue Forest,08000,Charleville-Mézières,OSM,49.773566,4.726456
 081051371H-60,60,Rue Forest,08000,Charleville-Mézières,C+O,49.773284,4.726508
 081051371H-61,61,Rue Forest,08000,Charleville-Mézières,C+O,49.773625,4.726589
 081051371H-62,62,Rue Forest,08000,Charleville-Mézières,C+O,49.773562,4.726710
@@ -9746,15 +9748,16 @@
 081051371H-66,66,Rue Forest,08000,Charleville-Mézières,C+O,49.773794,4.726854
 081051371H-67,67,Rue Forest,08000,Charleville-Mézières,C+O,49.774096,4.726649
 081051371H-68,68,Rue Forest,08000,Charleville-Mézières,C+O,49.773901,4.726920
-081051371H-69,69,Rue Forest,08000,Charleville-Mézières,C+O,49.774096,4.726663
+081051371H-69,69,Rue Forest,08000,Charleville-Mézières,OSM,49.774227,4.726860
 081051371H-69T,69TER,Rue Forest,08000,Charleville-Mézières,C+O,49.774375,4.727034
 081051371H-70,70,Rue Forest,08000,Charleville-Mézières,C+O,49.773938,4.727068
-081051371H-71,71,Rue Forest,08000,Charleville-Mézières,C+O,49.774488,4.727102
+081051371H-71,71,Rue Forest,08000,Charleville-Mézières,OSM,49.774516,4.727034
 081051371H-72,72,Rue Forest,08000,Charleville-Mézières,C+O,49.774117,4.727054
 081051371H-72B,72BIS,Rue Forest,08000,Charleville-Mézières,C+O,49.774024,4.727393
 081051371H-73,73,Rue Forest,08000,Charleville-Mézières,C+O,49.774581,4.727159
 081051371H-74,74,Rue Forest,08000,Charleville-Mézières,C+O,49.774655,4.727348
-081051371H-77,77,Rue Forest,08000,Charleville-Mézières,C+O,49.775135,4.727493
+081051371H-75,75,Rue Forest,08000,Charleville-Mézières,OSM,49.774943,4.726961
+081051371H-77,77,Rue Forest,08000,Charleville-Mézières,OSM,49.775158,4.727425
 081051371H-79,79,Rue Forest,08000,Charleville-Mézières,C+O,49.775254,4.727564
 081051380T-1,1,Rue des Forges Saint-Charles,08000,Charleville-Mézières,C+O,49.771260,4.729803
 081051380T-13,13,Rue des Forges Saint-Charles,08000,Charleville-Mézières,C+O,49.770823,4.728955
@@ -9888,10 +9891,10 @@
 081051410A-6,6,Rue Frédéric Chopin,08000,Charleville-Mézières,C+O,49.783119,4.709094
 081051410A-8,8,Rue Frédéric Chopin,08000,Charleville-Mézières,C+O,49.783206,4.708785
 081051410A-9,9,Rue Frédéric Chopin,08000,Charleville-Mézières,C+O,49.783448,4.708558
-081051415F-2,2,Rue Fred Scamaroni,08000,Charleville-Mézières,CAD,49.765549,4.693289
-081051415F-4,4,Rue Fred Scamaroni,08000,Charleville-Mézières,CAD,49.765741,4.692960
-081051415F-6,6,Rue Fred Scamaroni,08000,Charleville-Mézières,CAD,49.765853,4.693026
-081051415F-8,8,Rue Fred Scamaroni,08000,Charleville-Mézières,CAD,49.765802,4.694979
+081051415F-2,2,Rue Fred Scamaroni,08000,Charleville-Mézières,C+O,49.765549,4.693289
+081051415F-4,4,Rue Fred Scamaroni,08000,Charleville-Mézières,C+O,49.765741,4.692960
+081051415F-6,6,Rue Fred Scamaroni,08000,Charleville-Mézières,C+O,49.765853,4.693026
+081051415F-8,8,Rue Fred Scamaroni,08000,Charleville-Mézières,C+O,49.765802,4.694979
 081051420L-100,100,Boulevard Gambetta,08000,Charleville-Mézières,C+O,49.773272,4.707546
 081051420L-10,10,Boulevard Gambetta,08000,Charleville-Mézières,C+O,49.771223,4.716662
 081051420L-103,103,Boulevard Gambetta,08000,Charleville-Mézières,C+O,49.772581,4.709936
@@ -10478,30 +10481,30 @@
 081051570Z-7B,7BIS,Rue Hachette,08000,Charleville-Mézières,C+O,49.763269,4.720977
 081051570Z-7T,7TER,Rue Hachette,08000,Charleville-Mézières,C+O,49.763377,4.720994
 081051570Z-9,9,Rue Hachette,08000,Charleville-Mézières,C+O,49.763467,4.721008
-081051580K-10,10,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762335,4.707577
-081051580K-11,11,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762087,4.708284
-081051580K-1,1,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.761887,4.709021
-081051580K-12,12,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762398,4.707375
-081051580K-13,13,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762116,4.708181
-081051580K-15,15,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762147,4.708067
-081051580K-17,17,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762203,4.707863
-081051580K-19,19,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762260,4.707697
-081051580K-21,21,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762289,4.707560
-081051580K-2,2,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762022,4.708793
-081051580K-23,23,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762279,4.707461
-081051580K-25,25,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762357,4.707340
-081051580K-27,27,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762361,4.707176
-081051580K-29,29,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762538,4.706563
-081051580K-29B,29BIS,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762448,4.705996
-081051580K-2B,2BIS,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762088,4.708476
-081051580K-2T,2TER,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762112,4.708388
-081051580K-4,4,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762140,4.708289
-081051580K-5,5,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.761790,4.708812
-081051580K-6,6,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762180,4.708144
-081051580K-6B,6BIS,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762240,4.707930
-081051580K-7,7,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.761903,4.708533
-081051580K-8,8,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762289,4.707754
-081051580K-9,9,Rue de la Haie Forest,08000,Charleville-Mézières,CAD,49.762059,4.708386
+081051580K-10,10,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762335,4.707577
+081051580K-11,11,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762087,4.708284
+081051580K-1,1,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.761887,4.709021
+081051580K-12,12,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762398,4.707375
+081051580K-13,13,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762116,4.708181
+081051580K-15,15,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762147,4.708067
+081051580K-17,17,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762203,4.707863
+081051580K-19,19,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762260,4.707697
+081051580K-21,21,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762289,4.707560
+081051580K-2,2,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762022,4.708793
+081051580K-23,23,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762279,4.707461
+081051580K-25,25,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762357,4.707340
+081051580K-27,27,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762361,4.707176
+081051580K-29,29,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762538,4.706563
+081051580K-29B,29BIS,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762448,4.705996
+081051580K-2B,2BIS,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762088,4.708476
+081051580K-2T,2TER,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762112,4.708388
+081051580K-4,4,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762140,4.708289
+081051580K-5,5,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.761790,4.708812
+081051580K-6,6,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762180,4.708144
+081051580K-6B,6BIS,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762240,4.707930
+081051580K-7,7,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.761903,4.708533
+081051580K-8,8,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762289,4.707754
+081051580K-9,9,Rue de la Haie Forest,08000,Charleville-Mézières,C+O,49.762059,4.708386
 081051590W-10,10,Rue de la Haillette,08000,Charleville-Mézières,C+O,49.762367,4.701212
 081051590W-1,1,Rue de la Haillette,08000,Charleville-Mézières,C+O,49.762854,4.701908
 081051590W-12,12,Rue de la Haillette,08000,Charleville-Mézières,C+O,49.762267,4.701277
@@ -11888,34 +11891,34 @@
 081052140U-64,64,Rue Ledru-Rollin,08000,Charleville-Mézières,C+O,49.778894,4.710597
 081052140U-7,7,Rue Ledru-Rollin,08000,Charleville-Mézières,C+O,49.777110,4.708638
 081052140U-9,9,Rue Ledru-Rollin,08000,Charleville-Mézières,C+O,49.777180,4.708710
-081052150E-10,10,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762998,4.707748
-081052150E-10B,10BIS,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763026,4.707983
-081052150E-10T,10TER,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762987,4.707975
-081052150E-11,11,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762770,4.707201
-081052150E-12,12,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763229,4.707661
-081052150E-13,13,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762882,4.707283
-081052150E-15,15,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763037,4.707397
-081052150E-16,16,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763427,4.707804
-081052150E-17,17,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763318,4.707602
-081052150E-18,18,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763503,4.707859
-081052150E-19,19,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763461,4.707707
-081052150E-20,20,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763579,4.707914
-081052150E-21,21,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763538,4.707763
-081052150E-22,22,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763648,4.707965
-081052150E-23,23,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763604,4.707811
-081052150E-24,24,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763742,4.708033
-081052150E-25,25,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763694,4.707877
-081052150E-26,26,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763839,4.708103
-081052150E-27,27,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.763815,4.707965
-081052150E-3,3,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762371,4.706912
-081052150E-4,4,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762120,4.706852
-081052150E-5,5,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762553,4.707043
-081052150E-6,6,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762203,4.706912
-081052150E-7,7,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762621,4.707093
-081052150E-8,8,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762268,4.706960
-081052150E-8B,8BIS,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762535,4.707291
-081052150E-8T,8TER,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762645,4.707509
-081052150E-9,9,Rue Léon Blum,08000,Charleville-Mézières,CAD,49.762703,4.707153
+081052150E-10,10,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762998,4.707748
+081052150E-10B,10BIS,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763026,4.707983
+081052150E-10T,10TER,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762987,4.707975
+081052150E-11,11,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762770,4.707201
+081052150E-12,12,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763229,4.707661
+081052150E-13,13,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762882,4.707283
+081052150E-15,15,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763037,4.707397
+081052150E-16,16,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763427,4.707804
+081052150E-17,17,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763318,4.707602
+081052150E-18,18,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763503,4.707859
+081052150E-19,19,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763461,4.707707
+081052150E-20,20,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763579,4.707914
+081052150E-21,21,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763538,4.707763
+081052150E-22,22,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763648,4.707965
+081052150E-23,23,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763604,4.707811
+081052150E-24,24,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763742,4.708033
+081052150E-25,25,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763694,4.707877
+081052150E-26,26,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763839,4.708103
+081052150E-27,27,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.763815,4.707965
+081052150E-3,3,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762371,4.706912
+081052150E-4,4,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762120,4.706852
+081052150E-5,5,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762553,4.707043
+081052150E-6,6,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762203,4.706912
+081052150E-7,7,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762621,4.707093
+081052150E-8,8,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762268,4.706960
+081052150E-8B,8BIS,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762535,4.707291
+081052150E-8T,8TER,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762645,4.707509
+081052150E-9,9,Rue Léon Blum,08000,Charleville-Mézières,C+O,49.762703,4.707153
 081052160R-11,11,Avenue Léon Bourgeois,08000,Charleville-Mézières,C+O,49.754177,4.720068
 081052160R-12,12,Avenue Léon Bourgeois,08000,Charleville-Mézières,C+O,49.754285,4.719509
 081052160R-14,14,Avenue Léon Bourgeois,08000,Charleville-Mézières,C+O,49.754277,4.719398
@@ -17227,7 +17230,7 @@
 081054060F-33,33,Rue de Warcq,08000,Charleville-Mézières,C+O,49.763073,4.701560
 081054060F-3,3,Rue de Warcq,08000,Charleville-Mézières,C+O,49.762266,4.704759
 081054060F-34,34,Rue de Warcq,08000,Charleville-Mézières,C+O,49.765612,4.701724
-081054060F-36,36,Rue de Warcq,08000,Charleville-Mézières,C+O,49.763702,4.699631
+081054060F-36,36,Rue de Warcq,08000,Charleville-Mézières,OSM,49.764312,4.699992
 081054060F-36B,36BIS,Rue de Warcq,08000,Charleville-Mézières,C+O,49.765308,4.701408
 081054060F-36T,36TER,Rue de Warcq,08000,Charleville-Mézières,C+O,49.765222,4.701299
 081054060F-38,38,Rue de Warcq,08000,Charleville-Mézières,C+O,49.763990,4.698975
@@ -17243,7 +17246,7 @@
 081054060F-49,49,Rue de Warcq,08000,Charleville-Mézières,C+O,49.763389,4.700266
 081054060F-4B,4BIS,Rue de Warcq,08000,Charleville-Mézières,C+O,49.762375,4.705621
 081054060F-51,51,Rue de Warcq,08000,Charleville-Mézières,C+O,49.763423,4.700134
-081054060F-52,52,Rue de Warcq,08000,Charleville-Mézières,C+O,49.765101,4.698052
+081054060F-52,52,Rue de Warcq,08000,Charleville-Mézières,OSM,49.765031,4.698026
 081054060F-55,55,Rue de Warcq,08000,Charleville-Mézières,C+O,49.763484,4.699896
 081054060F-5,5,Rue de Warcq,08000,Charleville-Mézières,C+O,49.762347,4.704385
 081054060F-56,56,Rue de Warcq,08000,Charleville-Mézières,C+O,49.765062,4.697672
@@ -26629,44 +26632,54 @@
 082220107A-18,18,Chemin de Liemery,08170,Haybes,C+O,49.998494,4.697541
 082220107A-2,2,Chemin de Liemery,08170,Haybes,C+O,49.999857,4.697710
 082220107A-3,3,Chemin de Liemery,08170,Haybes,C+O,49.997620,4.698433
-082220115J-10,10,Rue Madame de Cormont,08170,Haybes,C+O,50.005964,4.708079
-082220115J-1,1,Rue Madame de Cormont,08170,Haybes,C+O,50.005148,4.708992
+082220115J-10,10,Rue Madame de Cormont,08170,Haybes,OSM,50.005868,4.708022
+082220115J-11,11,Rue Madame de Cormont,08170,Haybes,OSM,50.005919,4.708493
+082220115J-1,1,Rue Madame de Cormont,08170,Haybes,OSM,50.006147,4.708109
 082220115J-12,12,Rue Madame de Cormont,08170,Haybes,C+O,50.005623,4.708290
-082220115J-15,15,Rue Madame de Cormont,08170,Haybes,C+O,50.005707,4.708773
-082220115J-17,17,Rue Madame de Cormont,08170,Haybes,C+O,50.005619,4.708909
+082220115J-13,13,Rue Madame de Cormont,08170,Haybes,OSM,50.005845,4.708631
+082220115J-15,15,Rue Madame de Cormont,08170,Haybes,OSM,50.005751,4.708740
+082220115J-17,17,Rue Madame de Cormont,08170,Haybes,OSM,50.005665,4.708885
 082220115J-1B,1BIS,Rue Madame de Cormont,08170,Haybes,C+O,50.006195,4.708167
+082220115J-20,20,Rue Madame de Cormont,08170,Haybes,OSM,50.005170,4.709112
 082220115J-21,21,Rue Madame de Cormont,08170,Haybes,C+O,50.005499,4.709102
-082220115J-22,22,Rue Madame de Cormont,08170,Haybes,C+O,50.004979,4.709503
-082220115J-26,26,Rue Madame de Cormont,08170,Haybes,C+O,50.004792,4.709646
-082220115J-29,29,Rue Madame de Cormont,08170,Haybes,C+O,50.005144,4.709569
-082220115J-30,30,Rue Madame de Cormont,08170,Haybes,C+O,50.004541,4.709814
-082220115J-31,31,Rue Madame de Cormont,08170,Haybes,C+O,50.005087,4.709624
+082220115J-22,22,Rue Madame de Cormont,08170,Haybes,OSM,50.004956,4.709226
+082220115J-2,2,Rue Madame de Cormont,08170,Haybes,OSM,50.005972,4.707523
+082220115J-25,25,Rue Madame de Cormont,08170,Haybes,OSM,50.005525,4.709480
+082220115J-26,26,Rue Madame de Cormont,08170,Haybes,OSM,50.004739,4.709535
+082220115J-27,27,Rue Madame de Cormont,08170,Haybes,OSM,50.005352,4.709656
+082220115J-29,29,Rue Madame de Cormont,08170,Haybes,OSM,50.005171,4.709611
+082220115J-30,30,Rue Madame de Cormont,08170,Haybes,OSM,50.004426,4.709730
+082220115J-31,31,Rue Madame de Cormont,08170,Haybes,OSM,50.005110,4.709692
 082220115J-32,32,Rue Madame de Cormont,08170,Haybes,C+O,50.004127,4.709522
-082220115J-33,33,Rue Madame de Cormont,08170,Haybes,C+O,50.004997,4.709698
-082220115J-3,3,Rue Madame de Cormont,08170,Haybes,C+O,50.006059,4.708159
-082220115J-34,34,Rue Madame de Cormont,08170,Haybes,C+O,50.003995,4.709764
-082220115J-36,36,Rue Madame de Cormont,08170,Haybes,C+O,50.003781,4.709575
-082220115J-39,39,Rue Madame de Cormont,08170,Haybes,C+O,50.004633,4.709952
-082220115J-40,40,Rue Madame de Cormont,08170,Haybes,OSM,50.003515,4.710363
-082220115J-43,43,Rue Madame de Cormont,08170,Haybes,C+O,50.004680,4.710643
+082220115J-33,33,Rue Madame de Cormont,08170,Haybes,OSM,50.005030,4.709747
+082220115J-3,3,Rue Madame de Cormont,08170,Haybes,OSM,50.006092,4.708190
+082220115J-34,34,Rue Madame de Cormont,08170,Haybes,OSM,50.004048,4.710034
+082220115J-35,35,Rue Madame de Cormont,08170,Haybes,OSM,50.004903,4.709964
+082220115J-36,36,Rue Madame de Cormont,08170,Haybes,OSM,50.003906,4.710073
+082220115J-37,37,Rue Madame de Cormont,08170,Haybes,OSM,50.004799,4.710079
+082220115J-39,39,Rue Madame de Cormont,08170,Haybes,OSM,50.004655,4.710072
+082220115J-40,40,Rue Madame de Cormont,08170,Haybes,OSM,50.003507,4.710355
+082220115J-41,41,Rue Madame de Cormont,08170,Haybes,OSM,50.004592,4.710363
+082220115J-43,43,Rue Madame de Cormont,08170,Haybes,OSM,50.004378,4.710441
+082220115J-45,45,Rue Madame de Cormont,08170,Haybes,OSM,50.004240,4.710382
 082220115J-45B,45BIS,Rue Madame de Cormont,08170,Haybes,C+O,50.004256,4.710398
 082220115J-46,46,Rue Madame de Cormont,08170,Haybes,C+O,50.003039,4.711215
-082220115J-47,47,Rue Madame de Cormont,08170,Haybes,C+O,50.004164,4.710303
+082220115J-47,47,Rue Madame de Cormont,08170,Haybes,OSM,50.004193,4.710417
 082220115J-48,48,Rue Madame de Cormont,08170,Haybes,C+O,50.002904,4.711438
 082220115J-49,49,Rue Madame de Cormont,08170,Haybes,OSM,50.004085,4.710443
 082220115J-50,50,Rue Madame de Cormont,08170,Haybes,C+O,50.002440,4.711750
-082220115J-53,53,Rue Madame de Cormont,08170,Haybes,C+O,50.003750,4.710874
+082220115J-53,53,Rue Madame de Cormont,08170,Haybes,OSM,50.003857,4.711026
 082220115J-54,54,Rue Madame de Cormont,08170,Haybes,C+O,50.001970,4.712385
 082220115J-55,55,Rue Madame de Cormont,08170,Haybes,C+O,50.003680,4.711015
-082220115J-5,5,Rue Madame de Cormont,08170,Haybes,C+O,50.006024,4.708219
+082220115J-5,5,Rue Madame de Cormont,08170,Haybes,OSM,50.006065,4.708273
 082220115J-56,56,Rue Madame de Cormont,08170,Haybes,C+O,50.001861,4.712774
 082220115J-58,58,Rue Madame de Cormont,08170,Haybes,C+O,50.001648,4.712959
 082220115J-5B,5BIS,Rue Madame de Cormont,08170,Haybes,C+O,50.006089,4.708402
 082220115J-60,60,Rue Madame de Cormont,08170,Haybes,C+O,50.001086,4.713133
 082220115J-6,6,Rue Madame de Cormont,08170,Haybes,C+O,50.006105,4.707461
 082220115J-77,77,Rue Madame de Cormont,08170,Haybes,C+O,49.999637,4.714444
-082220115J-7,7,Rue Madame de Cormont,08170,Haybes,C+O,50.005946,4.708351
-082220115J-9,9,Rue Madame de Cormont,08170,Haybes,C+O,50.005879,4.708466
+082220115J-7,7,Rue Madame de Cormont,08170,Haybes,OSM,50.006037,4.708321
+082220115J-9,9,Rue Madame de Cormont,08170,Haybes,OSM,50.005976,4.708388
 082220120P-5,5,Square Marcel Ranson,08170,Haybes,C+O,50.010673,4.706640
 082220123T-2,2,Impasse des Merles,08170,Haybes,C+O,50.002170,4.711673
 082220125V-12,12,Rue des Mésanges,08170,Haybes,C+O,50.001878,4.709280
@@ -32762,64 +32775,64 @@
 083460120A-5,5,Rue du Stade,08000,Prix-lès-Mézières,C+O,49.753614,4.687496
 083460120A-7,7,Rue du Stade,08000,Prix-lès-Mézières,C+O,49.753584,4.687591
 083460120A-9,9,Rue du Stade,08000,Prix-lès-Mézières,C+O,49.753546,4.688123
-083460130L-10,10,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.754859,4.699221
-083460130L-12,12,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.754739,4.699018
-083460130L-13,13,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.754275,4.698671
-083460130L-15,15,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.754106,4.698369
-083460130L-16,16,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753875,4.697633
-083460130L-17,17,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753954,4.698124
-083460130L-19,19,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753787,4.697876
-083460130L-20,20,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753605,4.697200
-083460130L-21,21,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753565,4.697879
-083460130L-2,2,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.755623,4.701166
-083460130L-23,23,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753318,4.697117
-083460130L-25,25,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752951,4.697142
-083460130L-26,26,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753851,4.696538
-083460130L-27,27,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752972,4.696510
-083460130L-28,28,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.753089,4.696343
-083460130L-29,29,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752795,4.696267
-083460130L-2B,2BIS,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.755762,4.701392
-083460130L-30,30,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752374,4.695209
-083460130L-31,31,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752546,4.695820
-083460130L-32,32,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752192,4.694912
-083460130L-33,33,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752314,4.695484
-083460130L-3,3,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.755025,4.700176
-083460130L-34,34,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752065,4.694707
-083460130L-35,35,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.752199,4.695255
-083460130L-36,36,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.751927,4.694483
-083460130L-37,37,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.751938,4.694830
-083460130L-41,41,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.751624,4.694365
-083460130L-42,42,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.751039,4.693526
-083460130L-44,44,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.746545,4.686734
-083460130L-4,4,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.755717,4.700932
-083460130L-46,46,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.746002,4.684910
-083460130L-46B,46BIS,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.745889,4.684545
-083460130L-47,47,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.751346,4.693974
-083460130L-48,48,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.745742,4.684058
-083460130L-49,49,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.751091,4.693827
-083460130L-4B,4BIS,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.755503,4.700332
-083460130L-50,50,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.745600,4.683593
-083460130L-51,51,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.751086,4.694797
-083460130L-52,52,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.745802,4.682801
-083460130L-5,5,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.754963,4.699864
-083460130L-56,56,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.745083,4.681873
-083460130L-57,57,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.749629,4.692093
-083460130L-57B,57BIS,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.749423,4.691725
-083460130L-58,58,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.744881,4.681294
-083460130L-58B,58BIS,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.744800,4.681079
-083460130L-58Q,58QUATER,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.744484,4.680363
-083460130L-58T,58TER,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.744667,4.680762
-083460130L-60,60,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.744337,4.680044
-083460130L-62,62,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.744164,4.679667
-083460130L-66,66,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.744481,4.678882
-083460130L-6,6,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.756015,4.700699
-083460130L-68,68,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.745151,4.679110
-083460130L-70,70,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.743614,4.678483
-083460130L-72,72,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.743151,4.677574
-083460130L-77,77,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.742925,4.678048
-083460130L-7,7,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.754867,4.699613
-083460130L-8,8,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.755327,4.700345
-083460130L-9,9,Route de Warnecourt,08000,Prix-lès-Mézières,C+O,49.754746,4.699391
+083460130L-10,10,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.754859,4.699221
+083460130L-12,12,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.754739,4.699018
+083460130L-13,13,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.754275,4.698671
+083460130L-15,15,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.754106,4.698369
+083460130L-16,16,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753875,4.697633
+083460130L-17,17,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753954,4.698124
+083460130L-19,19,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753787,4.697876
+083460130L-20,20,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753605,4.697200
+083460130L-21,21,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753565,4.697879
+083460130L-2,2,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.755623,4.701166
+083460130L-23,23,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753318,4.697117
+083460130L-25,25,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752951,4.697142
+083460130L-26,26,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753851,4.696538
+083460130L-27,27,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752972,4.696510
+083460130L-28,28,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.753089,4.696343
+083460130L-29,29,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752795,4.696267
+083460130L-2B,2BIS,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.755762,4.701392
+083460130L-30,30,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752374,4.695209
+083460130L-31,31,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752546,4.695820
+083460130L-32,32,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752192,4.694912
+083460130L-33,33,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752314,4.695484
+083460130L-3,3,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.755025,4.700176
+083460130L-34,34,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752065,4.694707
+083460130L-35,35,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.752199,4.695255
+083460130L-36,36,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.751927,4.694483
+083460130L-37,37,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.751938,4.694830
+083460130L-41,41,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.751624,4.694365
+083460130L-42,42,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.751039,4.693526
+083460130L-44,44,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.746545,4.686734
+083460130L-4,4,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.755717,4.700932
+083460130L-46,46,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.746002,4.684910
+083460130L-46B,46BIS,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.745889,4.684545
+083460130L-47,47,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.751346,4.693974
+083460130L-48,48,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.745742,4.684058
+083460130L-49,49,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.751091,4.693827
+083460130L-4B,4BIS,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.755503,4.700332
+083460130L-50,50,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.745600,4.683593
+083460130L-51,51,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.751086,4.694797
+083460130L-52,52,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.745802,4.682801
+083460130L-5,5,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.754963,4.699864
+083460130L-56,56,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.745083,4.681873
+083460130L-57,57,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.749629,4.692093
+083460130L-57B,57BIS,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.749423,4.691725
+083460130L-58,58,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.744881,4.681294
+083460130L-58B,58BIS,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.744800,4.681079
+083460130L-58Q,58QUATER,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.744484,4.680363
+083460130L-58T,58TER,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.744667,4.680762
+083460130L-60,60,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.744337,4.680044
+083460130L-62,62,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.744164,4.679667
+083460130L-66,66,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.744481,4.678882
+083460130L-6,6,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.756015,4.700699
+083460130L-68,68,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.745151,4.679110
+083460130L-70,70,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.743614,4.678483
+083460130L-72,72,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.743151,4.677574
+083460130L-77,77,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.742925,4.678048
+083460130L-7,7,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.754867,4.699613
+083460130L-8,8,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.755327,4.700345
+083460130L-9,9,Route de Warnécourt,08000,Prix-lès-Mézières,C+O,49.754746,4.699391
 083530003T-10,10,Rue de l'Abreuvoir,08600,Rancennes,C+O,50.117177,4.818131
 083530003T-1,1,Rue de l'Abreuvoir,08600,Rancennes,C+O,50.117400,4.817422
 083530003T-2,2,Rue de l'Abreuvoir,08600,Rancennes,C+O,50.117123,4.817317
