@@ -2808,11 +2808,11 @@
 520720010D-7,7,Rue du Bois,52000,Brethenay,C+O,48.154207,5.135711
 520720010D-8,8,Rue du Bois,52000,Brethenay,C+O,48.154498,5.135693
 520720010D-9,9,Rue du Bois,52000,Brethenay,C+O,48.153771,5.135405
-520720011E-1,1,Chemin de la Carrière,52000,Brethenay,CAD,48.159705,5.137031
-520720011E-2,2,Chemin de la Carrière,52000,Brethenay,CAD,48.159749,5.136953
-520720011E-3,3,Chemin de la Carrière,52000,Brethenay,CAD,48.159901,5.136552
-520720012F-2,2,Chemin de la Croix,52000,Brethenay,CAD,48.159000,5.136696
-520720012F-4,4,Chemin de la Croix,52000,Brethenay,CAD,48.159042,5.136314
+520720011E-1,1,Chemin de la Carrière,52000,Brethenay,C+O,48.159705,5.137031
+520720011E-2,2,Chemin de la Carrière,52000,Brethenay,C+O,48.159749,5.136953
+520720011E-3,3,Chemin de la Carrière,52000,Brethenay,C+O,48.159901,5.136552
+520720012F-2,2,Chemin de la Croix,52000,Brethenay,C+O,48.159000,5.136696
+520720012F-4,4,Chemin de la Croix,52000,Brethenay,C+O,48.159042,5.136314
 520720015J-1,1,Rue Derrière la Ville,52000,Brethenay,C+O,48.153726,5.134632
 520720015J-12,12,Rue Derrière la Ville,52000,Brethenay,C+O,48.154472,5.132575
 520720015J-2,2,Rue Derrière la Ville,52000,Brethenay,C+O,48.153732,5.134980
@@ -2826,38 +2826,38 @@
 520720023T-2,2,Rue de l'Écluse,52000,Brethenay,C+O,48.153824,5.136479
 520720023T-3,3,Rue de l'Écluse,52000,Brethenay,C+O,48.154040,5.137095
 520720023T-5,5,Rue de l'Écluse,52000,Brethenay,C+O,48.154334,5.137438
-520720025V-1,1,Rue de l'Église,52000,Brethenay,CAD,48.155893,5.135063
-520720025V-2,2,Rue de l'Église,52000,Brethenay,CAD,48.156162,5.135852
-520720025V-3,3,Rue de l'Église,52000,Brethenay,CAD,48.155894,5.134865
-520720025V-5,5,Rue de l'Église,52000,Brethenay,CAD,48.155718,5.134489
-520720025V-6,6,Rue de l'Église,52000,Brethenay,CAD,48.155937,5.134675
-520720025V-8,8,Rue de l'Église,52000,Brethenay,CAD,48.155831,5.134505
-520720030A-2,2,Chemin de la Favière,52000,Brethenay,CAD,48.156518,5.132093
-520720030A-3,3,Chemin de la Favière,52000,Brethenay,CAD,48.157262,5.132299
-520720030A-4,4,Chemin de la Favière,52000,Brethenay,CAD,48.156901,5.132249
-520720035F-10,10,Grande Rue,52000,Brethenay,CAD,48.155338,5.134738
-520720035F-11,11,Grande Rue,52000,Brethenay,CAD,48.154928,5.134342
-520720035F-13,13,Grande Rue,52000,Brethenay,CAD,48.155362,5.134339
-520720035F-14,14,Grande Rue,52000,Brethenay,CAD,48.155483,5.134153
-520720035F-15,15,Grande Rue,52000,Brethenay,CAD,48.155388,5.134242
-520720035F-16,16,Grande Rue,52000,Brethenay,CAD,48.155545,5.133901
-520720035F-17,17,Grande Rue,52000,Brethenay,CAD,48.155420,5.134120
-520720035F-18,18,Grande Rue,52000,Brethenay,CAD,48.155587,5.133745
-520720035F-19,19,Grande Rue,52000,Brethenay,CAD,48.155503,5.133762
-520720035F-20,20,Grande Rue,52000,Brethenay,CAD,48.155619,5.133580
-520720035F-22,22,Grande Rue,52000,Brethenay,CAD,48.155667,5.132937
-520720035F-2,2,Grande Rue,52000,Brethenay,CAD,48.155936,5.136424
-520720035F-24,24,Grande Rue,52000,Brethenay,CAD,48.155805,5.132605
-520720035F-3,3,Grande Rue,52000,Brethenay,CAD,48.155139,5.135366
-520720035F-5,5,Grande Rue,52000,Brethenay,CAD,48.155218,5.134950
-520720035F-6,6,Grande Rue,52000,Brethenay,CAD,48.155190,5.135479
-520720035F-7,7,Grande Rue,52000,Brethenay,CAD,48.155229,5.134888
-520720035F-9,9,Grande Rue,52000,Brethenay,CAD,48.155260,5.134733
+520720025V-1,1,Rue de l'Église,52000,Brethenay,C+O,48.155893,5.135063
+520720025V-2,2,Rue de l'Église,52000,Brethenay,C+O,48.156162,5.135852
+520720025V-3,3,Rue de l'Église,52000,Brethenay,C+O,48.155894,5.134865
+520720025V-5,5,Rue de l'Église,52000,Brethenay,C+O,48.155718,5.134489
+520720025V-6,6,Rue de l'Église,52000,Brethenay,C+O,48.155937,5.134675
+520720025V-8,8,Rue de l'Église,52000,Brethenay,C+O,48.155831,5.134505
+520720030A-2,2,Chemin de la Favière,52000,Brethenay,C+O,48.156518,5.132093
+520720030A-3,3,Chemin de la Favière,52000,Brethenay,C+O,48.157262,5.132299
+520720030A-4,4,Chemin de la Favière,52000,Brethenay,C+O,48.156901,5.132249
+520720035F-10,10,Grande Rue,52000,Brethenay,C+O,48.155338,5.134738
+520720035F-11,11,Grande Rue,52000,Brethenay,C+O,48.154928,5.134342
+520720035F-13,13,Grande Rue,52000,Brethenay,C+O,48.155362,5.134339
+520720035F-14,14,Grande Rue,52000,Brethenay,C+O,48.155483,5.134153
+520720035F-15,15,Grande Rue,52000,Brethenay,C+O,48.155388,5.134242
+520720035F-16,16,Grande Rue,52000,Brethenay,C+O,48.155545,5.133901
+520720035F-17,17,Grande Rue,52000,Brethenay,C+O,48.155420,5.134120
+520720035F-18,18,Grande Rue,52000,Brethenay,C+O,48.155587,5.133745
+520720035F-19,19,Grande Rue,52000,Brethenay,C+O,48.155503,5.133762
+520720035F-20,20,Grande Rue,52000,Brethenay,C+O,48.155619,5.133580
+520720035F-22,22,Grande Rue,52000,Brethenay,C+O,48.155667,5.132937
+520720035F-2,2,Grande Rue,52000,Brethenay,C+O,48.155936,5.136424
+520720035F-24,24,Grande Rue,52000,Brethenay,C+O,48.155805,5.132605
+520720035F-3,3,Grande Rue,52000,Brethenay,C+O,48.155139,5.135366
+520720035F-5,5,Grande Rue,52000,Brethenay,C+O,48.155218,5.134950
+520720035F-6,6,Grande Rue,52000,Brethenay,C+O,48.155190,5.135479
+520720035F-7,7,Grande Rue,52000,Brethenay,C+O,48.155229,5.134888
+520720035F-9,9,Grande Rue,52000,Brethenay,C+O,48.155260,5.134733
 520720040L-1,1,Chemin de Lopin,52000,Brethenay,C+O,48.151233,5.133351
 520720040L-2,2,Chemin de Lopin,52000,Brethenay,C+O,48.150935,5.133206
-520720050X-1,1,Route de Marault,52000,Brethenay,CAD,48.156040,5.131952
-520720050X-2,2,Route de Marault,52000,Brethenay,CAD,48.157292,5.131288
-520720050X-3,3,Route de Marault,52000,Brethenay,CAD,48.156585,5.131748
+520720050X-1,1,Route de Marault,52000,Brethenay,C+O,48.156040,5.131952
+520720050X-2,2,Route de Marault,52000,Brethenay,C+O,48.157292,5.131288
+520720050X-3,3,Route de Marault,52000,Brethenay,C+O,48.156585,5.131748
 52072A001N-10,10,Lotissement Les Tilleuls,52000,Brethenay,C+O,48.153890,5.131900
 52072A001N-11,11,Lotissement Les Tilleuls,52000,Brethenay,C+O,48.153822,5.132035
 52072A001N-1,1,Lotissement Les Tilleuls,52000,Brethenay,C+O,48.154498,5.132185
@@ -7653,12 +7653,12 @@
 521210533J-7,7,Rue de la Chavoie,52000,Chaumont,C+O,48.081746,5.129006
 521210533J-8,8,Rue de la Côte Grillée,52000,Chaumont,C+O,48.081895,5.135983
 521210533J-9,9,Rue de la Chavoie,52000,Chaumont,C+O,48.081766,5.129344
-521210534K-1,1,Chemin des Jardins,52000,Chaumont,CAD,48.081501,5.129636
-521210534K-3,3,Chemin des Jardins,52000,Chaumont,CAD,48.081111,5.129708
-521210534K-6,6,Chemin des Jardins,52000,Chaumont,CAD,48.080563,5.129701
-521210534K-7,7,Chemin des Jardins,52000,Chaumont,CAD,48.080808,5.129765
-521210534K-8,8,Chemin des Jardins,52000,Chaumont,CAD,48.080747,5.129668
-521210534K-9,9,Chemin des Jardins,52000,Chaumont,CAD,48.080617,5.129800
+521210534K-1,1,Chemin des Jardins,52000,Chaumont,C+O,48.081501,5.129636
+521210534K-3,3,Chemin des Jardins,52000,Chaumont,C+O,48.081111,5.129708
+521210534K-6,6,Chemin des Jardins,52000,Chaumont,C+O,48.080563,5.129701
+521210534K-7,7,Chemin des Jardins,52000,Chaumont,C+O,48.080808,5.129765
+521210534K-8,8,Chemin des Jardins,52000,Chaumont,C+O,48.080747,5.129668
+521210534K-9,9,Chemin des Jardins,52000,Chaumont,C+O,48.080617,5.129800
 521210539R-10,10,Avenue Christian Pineau,52000,Chaumont,C+O,48.071681,5.147740
 521210539R-1,1,Avenue Christian Pineau,52000,Chaumont,C+O,48.070602,5.147288
 521210539R-2,2,Avenue Christian Pineau,52000,Chaumont,C+O,48.070510,5.147071
@@ -8452,51 +8452,51 @@
 521210830G-7,7,Rue de l'Espérance,52000,Chaumont,C+O,48.096307,5.149061
 521210830G-8,8,Rue de l'Espérance,52000,Chaumont,C+O,48.096485,5.148950
 521210830G-9,9,Rue de l'Espérance,52000,Chaumont,C+O,48.095756,5.149099
-521210840T-10,10,Avenue des États-Unis,52000,Chaumont,C+O,48.119686,5.142371
-521210840T-12,12,Avenue des États-Unis,52000,Chaumont,C+O,48.119865,5.142392
-521210840T-12B,12BIS,Avenue des États-Unis,52000,Chaumont,C+O,48.119807,5.142385
-521210840T-14,14,Avenue des États-Unis,52000,Chaumont,C+O,48.120004,5.142409
-521210840T-16,16,Avenue des États-Unis,52000,Chaumont,C+O,48.120182,5.142431
-521210840T-17,17,Avenue des États-Unis,52000,Chaumont,C+O,48.119856,5.141597
-521210840T-18,18,Avenue des États-Unis,52000,Chaumont,C+O,48.120356,5.142452
-521210840T-19,19,Avenue des États-Unis,52000,Chaumont,C+O,48.120178,5.142031
-521210840T-20,20,Avenue des États-Unis,52000,Chaumont,C+O,48.120492,5.142468
-521210840T-20B,20BIS,Avenue des États-Unis,52000,Chaumont,C+O,48.120632,5.142486
-521210840T-20T,20TER,Avenue des États-Unis,52000,Chaumont,C+O,48.120764,5.142503
-521210840T-21,21,Avenue des États-Unis,52000,Chaumont,C+O,48.120311,5.142047
-521210840T-22,22,Avenue des États-Unis,52000,Chaumont,C+O,48.120966,5.142574
-521210840T-2,2,Avenue des États-Unis,52000,Chaumont,C+O,48.119043,5.142293
-521210840T-23,23,Avenue des États-Unis,52000,Chaumont,C+O,48.120440,5.142062
-521210840T-24,24,Avenue des États-Unis,52000,Chaumont,C+O,48.121174,5.142599
-521210840T-25,25,Avenue des États-Unis,52000,Chaumont,C+O,48.120532,5.142074
-521210840T-25B,25BIS,Avenue des États-Unis,52000,Chaumont,C+O,48.120634,5.141762
-521210840T-26,26,Avenue des États-Unis,52000,Chaumont,C+O,48.121385,5.142628
-521210840T-27,27,Avenue des États-Unis,52000,Chaumont,C+O,48.120699,5.142093
-521210840T-28,28,Avenue des États-Unis,52000,Chaumont,C+O,48.121720,5.142611
-521210840T-29,29,Avenue des États-Unis,52000,Chaumont,C+O,48.120825,5.142107
-521210840T-2B,2BIS,Avenue des États-Unis,52000,Chaumont,C+O,48.119259,5.142488
-521210840T-30,30,Avenue des États-Unis,52000,Chaumont,C+O,48.121976,5.142641
-521210840T-31,31,Avenue des États-Unis,52000,Chaumont,C+O,48.120961,5.142123
-521210840T-32,32,Avenue des États-Unis,52000,Chaumont,C+O,48.122251,5.142680
-521210840T-33,33,Avenue des États-Unis,52000,Chaumont,C+O,48.121062,5.142134
-521210840T-34,34,Avenue des États-Unis,52000,Chaumont,C+O,48.122505,5.142714
-521210840T-35,35,Avenue des États-Unis,52000,Chaumont,C+O,48.121190,5.142150
-521210840T-36,36,Avenue des États-Unis,52000,Chaumont,C+O,48.122772,5.142747
-521210840T-37,37,Avenue des États-Unis,52000,Chaumont,C+O,48.121293,5.142163
-521210840T-39,39,Avenue des États-Unis,52000,Chaumont,C+O,48.121330,5.142186
-521210840T-4,4,Avenue des États-Unis,52000,Chaumont,C+O,48.119417,5.142338
-521210840T-47,47,Avenue des États-Unis,52000,Chaumont,C+O,48.121397,5.142196
-521210840T-49,49,Avenue des États-Unis,52000,Chaumont,C+O,48.121436,5.142182
-521210840T-55,55,Avenue des États-Unis,52000,Chaumont,C+O,48.121496,5.142190
-521210840T-5,5,Avenue des États-Unis,52000,Chaumont,C+O,48.118489,5.142048
-521210840T-57,57,Avenue des États-Unis,52000,Chaumont,C+O,48.121598,5.142203
-521210840T-59,59,Avenue des États-Unis,52000,Chaumont,C+O,48.121723,5.142220
-521210840T-61,61,Avenue des États-Unis,52000,Chaumont,C+O,48.121902,5.142245
-521210840T-63,63,Avenue des États-Unis,52000,Chaumont,C+O,48.122055,5.142266
-521210840T-65,65,Avenue des États-Unis,52000,Chaumont,C+O,48.122178,5.142283
-521210840T-6,6,Avenue des États-Unis,52000,Chaumont,C+O,48.119508,5.142350
-521210840T-8,8,Avenue des États-Unis,52000,Chaumont,C+O,48.119596,5.142361
-521210840T-9,9,Avenue des États-Unis,52000,Chaumont,C+O,48.118893,5.141892
+521210840T-10,10,Avenue des États Unis,52000,Chaumont,C+O,48.119686,5.142371
+521210840T-12,12,Avenue des États Unis,52000,Chaumont,C+O,48.119865,5.142392
+521210840T-12B,12BIS,Avenue des États Unis,52000,Chaumont,C+O,48.119807,5.142385
+521210840T-14,14,Avenue des États Unis,52000,Chaumont,C+O,48.120004,5.142409
+521210840T-16,16,Avenue des États Unis,52000,Chaumont,C+O,48.120182,5.142431
+521210840T-17,17,Avenue des États Unis,52000,Chaumont,C+O,48.119856,5.141597
+521210840T-18,18,Avenue des États Unis,52000,Chaumont,C+O,48.120356,5.142452
+521210840T-19,19,Avenue des États Unis,52000,Chaumont,C+O,48.120178,5.142031
+521210840T-20,20,Avenue des États Unis,52000,Chaumont,C+O,48.120492,5.142468
+521210840T-20B,20BIS,Avenue des États Unis,52000,Chaumont,C+O,48.120632,5.142486
+521210840T-20T,20TER,Avenue des États Unis,52000,Chaumont,C+O,48.120764,5.142503
+521210840T-21,21,Avenue des États Unis,52000,Chaumont,C+O,48.120311,5.142047
+521210840T-22,22,Avenue des États Unis,52000,Chaumont,C+O,48.120966,5.142574
+521210840T-2,2,Avenue des États Unis,52000,Chaumont,C+O,48.119043,5.142293
+521210840T-23,23,Avenue des États Unis,52000,Chaumont,C+O,48.120440,5.142062
+521210840T-24,24,Avenue des États Unis,52000,Chaumont,C+O,48.121174,5.142599
+521210840T-25,25,Avenue des États Unis,52000,Chaumont,C+O,48.120532,5.142074
+521210840T-25B,25BIS,Avenue des États Unis,52000,Chaumont,C+O,48.120634,5.141762
+521210840T-26,26,Avenue des États Unis,52000,Chaumont,C+O,48.121385,5.142628
+521210840T-27,27,Avenue des États Unis,52000,Chaumont,C+O,48.120699,5.142093
+521210840T-28,28,Avenue des États Unis,52000,Chaumont,C+O,48.121720,5.142611
+521210840T-29,29,Avenue des États Unis,52000,Chaumont,C+O,48.120825,5.142107
+521210840T-2B,2BIS,Avenue des États Unis,52000,Chaumont,C+O,48.119259,5.142488
+521210840T-30,30,Avenue des États Unis,52000,Chaumont,C+O,48.121976,5.142641
+521210840T-31,31,Avenue des États Unis,52000,Chaumont,C+O,48.120961,5.142123
+521210840T-32,32,Avenue des États Unis,52000,Chaumont,C+O,48.122251,5.142680
+521210840T-33,33,Avenue des États Unis,52000,Chaumont,C+O,48.121062,5.142134
+521210840T-34,34,Avenue des États Unis,52000,Chaumont,C+O,48.122505,5.142714
+521210840T-35,35,Avenue des États Unis,52000,Chaumont,C+O,48.121190,5.142150
+521210840T-36,36,Avenue des États Unis,52000,Chaumont,C+O,48.122772,5.142747
+521210840T-37,37,Avenue des États Unis,52000,Chaumont,C+O,48.121293,5.142163
+521210840T-39,39,Avenue des États Unis,52000,Chaumont,C+O,48.121330,5.142186
+521210840T-4,4,Avenue des États Unis,52000,Chaumont,C+O,48.119417,5.142338
+521210840T-47,47,Avenue des États Unis,52000,Chaumont,C+O,48.121397,5.142196
+521210840T-49,49,Avenue des États Unis,52000,Chaumont,C+O,48.121436,5.142182
+521210840T-55,55,Avenue des États Unis,52000,Chaumont,C+O,48.121496,5.142190
+521210840T-5,5,Avenue des États Unis,52000,Chaumont,C+O,48.118489,5.142048
+521210840T-57,57,Avenue des États Unis,52000,Chaumont,C+O,48.121598,5.142203
+521210840T-59,59,Avenue des États Unis,52000,Chaumont,C+O,48.121723,5.142220
+521210840T-61,61,Avenue des États Unis,52000,Chaumont,C+O,48.121902,5.142245
+521210840T-63,63,Avenue des États Unis,52000,Chaumont,C+O,48.122055,5.142266
+521210840T-65,65,Avenue des États Unis,52000,Chaumont,C+O,48.122178,5.142283
+521210840T-6,6,Avenue des États Unis,52000,Chaumont,C+O,48.119508,5.142350
+521210840T-8,8,Avenue des États Unis,52000,Chaumont,C+O,48.119596,5.142361
+521210840T-9,9,Avenue des États Unis,52000,Chaumont,C+O,48.118893,5.141892
 521210860P-11,11,Rue Eugène Dugrillon,52000,Chaumont,C+O,48.116058,5.146605
 521210860P-1,1,Rue Eugène Dugrillon,52000,Chaumont,C+O,48.116540,5.145474
 521210860P-2,2,Rue Eugène Dugrillon,52000,Chaumont,C+O,48.116178,5.145941
@@ -13410,50 +13410,50 @@
 521250005T-7,7,Impasse des Antes,52000,Chamarandes-Choignes,C+O,48.097331,5.165628
 521250005T-8,8,Impasse des Antes,52000,Chamarandes-Choignes,C+O,48.097269,5.165759
 521250005T-9,9,Impasse des Antes,52000,Chamarandes-Choignes,C+O,48.097359,5.165752
-521250015D-10,10,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107777,5.170675
-521250015D-11,11,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107266,5.171294
-521250015D-1,1,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.108083,5.171171
-521250015D-12,12,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107704,5.170746
-521250015D-13,13,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107223,5.171532
-521250015D-14,14,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107602,5.170788
-521250015D-15,15,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107083,5.171449
-521250015D-16,16,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107514,5.170815
-521250015D-17,17,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106939,5.171576
-521250015D-19,19,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106765,5.171720
-521250015D-20,20,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107431,5.170802
-521250015D-22,22,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107355,5.171019
-521250015D-2,2,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.108209,5.171029
-521250015D-26,26,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107098,5.170972
-521250015D-28,28,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107005,5.171384
-521250015D-32,32,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106910,5.171460
-521250015D-3,3,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.108040,5.171010
-521250015D-34,34,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106884,5.171475
-521250015D-38,38,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106690,5.171654
-521250015D-40,40,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106590,5.171713
-521250015D-42,42,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106478,5.171772
-521250015D-44,44,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106373,5.171816
-521250015D-4,4,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.108166,5.170901
-521250015D-46,46,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106230,5.171892
-521250015D-48,48,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.106046,5.171969
-521250015D-50,50,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.105942,5.172000
-521250015D-52,52,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.105868,5.172022
-521250015D-54,54,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.105653,5.171675
-521250015D-6,6,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.108051,5.170780
-521250015D-7,7,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107571,5.170949
-521250015D-8,8,Rue de Chamarandes,52000,Chamarandes-Choignes,CAD,48.107918,5.170682
-521250016E-10,10,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097415,5.164586
-521250016E-11,11,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097400,5.164343
-521250016E-12,12,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097638,5.164138
-521250016E-13,13,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097543,5.164036
-521250016E-14,14,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097530,5.164370
-521250016E-1B,1BIS,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.096761,5.165062
-521250016E-3,3,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.096924,5.164979
-521250016E-4,4,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.096978,5.165153
-521250016E-5,5,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097028,5.164736
-521250016E-6,6,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097289,5.164864
-521250016E-7,7,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097191,5.164715
-521250016E-8,8,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097354,5.164722
-521250016E-9,9,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097299,5.164589
+521250015D-10,10,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107777,5.170675
+521250015D-11,11,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107266,5.171294
+521250015D-1,1,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.108083,5.171171
+521250015D-12,12,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107704,5.170746
+521250015D-13,13,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107223,5.171532
+521250015D-14,14,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107602,5.170788
+521250015D-15,15,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107083,5.171449
+521250015D-16,16,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107514,5.170815
+521250015D-17,17,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106939,5.171576
+521250015D-19,19,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106765,5.171720
+521250015D-20,20,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107431,5.170802
+521250015D-22,22,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107355,5.171019
+521250015D-2,2,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.108209,5.171029
+521250015D-26,26,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107098,5.170972
+521250015D-28,28,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107005,5.171384
+521250015D-32,32,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106910,5.171460
+521250015D-3,3,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.108040,5.171010
+521250015D-34,34,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106884,5.171475
+521250015D-38,38,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106690,5.171654
+521250015D-40,40,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106590,5.171713
+521250015D-42,42,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106478,5.171772
+521250015D-44,44,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106373,5.171816
+521250015D-4,4,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.108166,5.170901
+521250015D-46,46,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106230,5.171892
+521250015D-48,48,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.106046,5.171969
+521250015D-50,50,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.105942,5.172000
+521250015D-52,52,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.105868,5.172022
+521250015D-54,54,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.105653,5.171675
+521250015D-6,6,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.108051,5.170780
+521250015D-7,7,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107571,5.170949
+521250015D-8,8,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107918,5.170682
+521250016E-10,10,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097415,5.164586
+521250016E-11,11,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097400,5.164343
+521250016E-12,12,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097638,5.164138
+521250016E-13,13,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097543,5.164036
+521250016E-14,14,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097530,5.164370
+521250016E-1B,1BIS,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.096761,5.165062
+521250016E-3,3,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.096924,5.164979
+521250016E-4,4,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.096978,5.165153
+521250016E-5,5,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097028,5.164736
+521250016E-6,6,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097289,5.164864
+521250016E-7,7,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097191,5.164715
+521250016E-8,8,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097354,5.164722
+521250016E-9,9,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097299,5.164589
 521250017F-10,10,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091648,5.154608
 521250017F-1,1,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091881,5.155624
 521250017F-12,12,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091616,5.154417
@@ -13529,13 +13529,13 @@
 521250022L-4,4,Rue du Chemin de Fer,52000,Chamarandes-Choignes,C+O,48.106334,5.156552
 521250022L-6,6,Rue du Chemin de Fer,52000,Chamarandes-Choignes,C+O,48.105736,5.156729
 521250022L-7,7,Rue du Chemin de Fer,52000,Chamarandes-Choignes,C+O,48.104065,5.157637
-521250027S-10,10,Rue Auguste Descharmes,52000,Chamarandes-Choignes,CAD,48.098385,5.163851
-521250027S-12,12,Rue Auguste Descharmes,52000,Chamarandes-Choignes,CAD,48.098496,5.163612
-521250027S-14,14,Rue Auguste Descharmes,52000,Chamarandes-Choignes,CAD,48.098887,5.162771
-521250027S-2,2,Rue Auguste Descharmes,52000,Chamarandes-Choignes,CAD,48.097167,5.163448
-521250027S-4,4,Rue Auguste Descharmes,52000,Chamarandes-Choignes,CAD,48.097357,5.163645
-521250027S-6,6,Rue Auguste Descharmes,52000,Chamarandes-Choignes,CAD,48.097992,5.164304
-521250027S-8,8,Rue Auguste Descharmes,52000,Chamarandes-Choignes,CAD,48.098269,5.164100
+521250027S-10,10,Rue Auguste Descharmes,52000,Chamarandes-Choignes,C+O,48.098385,5.163851
+521250027S-12,12,Rue Auguste Descharmes,52000,Chamarandes-Choignes,C+O,48.098496,5.163612
+521250027S-14,14,Rue Auguste Descharmes,52000,Chamarandes-Choignes,C+O,48.098887,5.162771
+521250027S-2,2,Rue Auguste Descharmes,52000,Chamarandes-Choignes,C+O,48.097167,5.163448
+521250027S-4,4,Rue Auguste Descharmes,52000,Chamarandes-Choignes,C+O,48.097357,5.163645
+521250027S-6,6,Rue Auguste Descharmes,52000,Chamarandes-Choignes,C+O,48.097992,5.164304
+521250027S-8,8,Rue Auguste Descharmes,52000,Chamarandes-Choignes,C+O,48.098269,5.164100
 521250030V-10,10,Rue Edith Bourlon de Rouvre,52000,Chamarandes-Choignes,C+O,48.096280,5.165994
 521250030V-1,1,Rue Edith Bourlon de Rouvre,52000,Chamarandes-Choignes,C+O,48.095855,5.164125
 521250030V-14,14,Rue Edith Bourlon de Rouvre,52000,Chamarandes-Choignes,C+O,48.096470,5.166702
@@ -13595,31 +13595,31 @@
 521250045L-1,1,Chemin des Jardins,52000,Chamarandes-Choignes,C+O,48.107930,5.168670
 521250045L-2,2,Chemin des Jardins,52000,Chamarandes-Choignes,C+O,48.107446,5.169465
 521250045L-4,4,Chemin des Jardins,52000,Chamarandes-Choignes,C+O,48.106930,5.169568
-521250046M-10,10,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096447,5.162606
-521250046M-1,1,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.095910,5.163347
-521250046M-12,12,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096528,5.162309
-521250046M-14,14,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096728,5.162205
-521250046M-2,2,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.095760,5.163267
-521250046M-3,3,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096083,5.163183
-521250046M-4,4,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.095929,5.163082
-521250046M-5,5,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096245,5.163014
-521250046M-6,6,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096099,5.162954
-521250046M-7,7,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096398,5.162859
-521250046M-8,8,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096290,5.162759
-521250048P-10,10,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098038,5.162175
-521250048P-1,1,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098557,5.162844
-521250048P-12,12,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.097879,5.162010
-521250048P-14,14,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.097707,5.161827
-521250048P-16,16,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.097740,5.162247
-521250048P-18,18,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.097512,5.162554
-521250048P-20,20,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.097230,5.162885
-521250048P-2,2,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098635,5.162793
-521250048P-3,3,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098359,5.162639
-521250048P-4,4,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098510,5.162664
-521250048P-5,5,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098157,5.162430
-521250048P-6,6,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098364,5.162513
-521250048P-7,7,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.097974,5.162239
-521250048P-8,8,Rue André Jacob,52000,Chamarandes-Choignes,CAD,48.098206,5.162349
+521250046M-10,10,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096447,5.162606
+521250046M-1,1,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.095910,5.163347
+521250046M-12,12,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096528,5.162309
+521250046M-14,14,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096728,5.162205
+521250046M-2,2,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.095760,5.163267
+521250046M-3,3,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096083,5.163183
+521250046M-4,4,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.095929,5.163082
+521250046M-5,5,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096245,5.163014
+521250046M-6,6,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096099,5.162954
+521250046M-7,7,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096398,5.162859
+521250046M-8,8,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096290,5.162759
+521250048P-10,10,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098038,5.162175
+521250048P-1,1,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098557,5.162844
+521250048P-12,12,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.097879,5.162010
+521250048P-14,14,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.097707,5.161827
+521250048P-16,16,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.097740,5.162247
+521250048P-18,18,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.097512,5.162554
+521250048P-20,20,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.097230,5.162885
+521250048P-2,2,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098635,5.162793
+521250048P-3,3,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098359,5.162639
+521250048P-4,4,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098510,5.162664
+521250048P-5,5,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098157,5.162430
+521250048P-6,6,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098364,5.162513
+521250048P-7,7,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.097974,5.162239
+521250048P-8,8,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098206,5.162349
 521250050S-58,58,Rue de Lamartine,52000,Chamarandes-Choignes,C+O,48.109408,5.151744
 521250050S-59,59,Rue de Lamartine,52000,Chamarandes-Choignes,C+O,48.109308,5.152010
 521250050S-59B,59BIS,Rue de Lamartine,52000,Chamarandes-Choignes,C+O,48.109392,5.152382
@@ -13643,21 +13643,21 @@
 521250060C-1,1,Rue du Moulin,52000,Chamarandes-Choignes,C+O,48.107254,5.171881
 521250060C-2,2,Rue du Moulin,52000,Chamarandes-Choignes,C+O,48.107279,5.171964
 521250060C-4,4,Rue du Moulin,52000,Chamarandes-Choignes,C+O,48.107895,5.171626
-521250065H-10,10,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098782,5.164694
-521250065H-1,1,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098735,5.164606
-521250065H-12,12,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098903,5.164434
-521250065H-14,14,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.099024,5.164173
-521250065H-16,16,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.099168,5.164040
-521250065H-18,18,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.099147,5.163946
-521250065H-20,20,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.099020,5.163815
-521250065H-22,22,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098864,5.163653
-521250065H-2,2,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098191,5.164510
-521250065H-24,24,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098697,5.163479
-521250065H-3,3,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098850,5.164359
-521250065H-4,4,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098355,5.164679
-521250065H-5,5,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098971,5.164099
-521250065H-6,6,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098536,5.164867
-521250065H-8,8,Rue Henri Noirot,52000,Chamarandes-Choignes,CAD,48.098742,5.165081
+521250065H-10,10,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098782,5.164694
+521250065H-1,1,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098735,5.164606
+521250065H-12,12,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098903,5.164434
+521250065H-14,14,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.099024,5.164173
+521250065H-16,16,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.099168,5.164040
+521250065H-18,18,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.099147,5.163946
+521250065H-20,20,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.099020,5.163815
+521250065H-22,22,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098864,5.163653
+521250065H-2,2,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098191,5.164510
+521250065H-24,24,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098697,5.163479
+521250065H-3,3,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098850,5.164359
+521250065H-4,4,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098355,5.164679
+521250065H-5,5,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098971,5.164099
+521250065H-6,6,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098536,5.164867
+521250065H-8,8,Rue Henri Noirot,52000,Chamarandes-Choignes,C+O,48.098742,5.165081
 521250078X-10,10,Rue de la Prairie,52000,Chamarandes-Choignes,C+O,48.106054,5.165808
 521250078X-11,11,Rue de la Prairie,52000,Chamarandes-Choignes,C+O,48.106474,5.165592
 521250078X-1,1,Rue de la Prairie,52000,Chamarandes-Choignes,C+O,48.106939,5.165626
@@ -13742,20 +13742,20 @@
 521250090K-7,7,Rue Saint-Vallier,52000,Chamarandes-Choignes,C+O,48.093260,5.156270
 521250090K-8,8,Rue Saint-Vallier,52000,Chamarandes-Choignes,C+O,48.093422,5.157223
 521250090K-9,9,Rue Saint-Vallier,52000,Chamarandes-Choignes,C+O,48.093384,5.156593
-521250100W-1,1,Place du Tilleul,52000,Chamarandes-Choignes,C+O,48.091869,5.155773
-521250100W-3,3,Place du Tilleul,52000,Chamarandes-Choignes,C+O,48.091911,5.156142
-521250100W-5,5,Place du Tilleul,52000,Chamarandes-Choignes,C+O,48.092118,5.156063
-521250100W-6,6,Place du Tilleul,52000,Chamarandes-Choignes,C+O,48.092061,5.156019
-52125A003K-11,11,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092766,5.155189
-52125A003K-1,1,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092022,5.155545
-52125A003K-13,13,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.093231,5.154915
-52125A003K-15,15,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.093402,5.153346
-52125A003K-2,2,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092574,5.155435
-52125A003K-3,3,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092324,5.155422
-52125A003K-4,4,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092651,5.155388
-52125A003K-5,5,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092394,5.155379
-52125A003K-7,7,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092527,5.155309
-52125A003K-9,9,Côteau Saint-Michel,52000,Chamarandes-Choignes,CAD,48.092642,5.155272
+521250100W-1,1,Place du Tilleul,52000,Chamarandes-Choignes,CAD,48.091869,5.155773
+521250100W-3,3,Place du Tilleul,52000,Chamarandes-Choignes,CAD,48.091911,5.156142
+521250100W-5,5,Place du Tilleul,52000,Chamarandes-Choignes,CAD,48.092118,5.156063
+521250100W-6,6,Place du Tilleul,52000,Chamarandes-Choignes,CAD,48.092061,5.156019
+52125A003K-11,11,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092766,5.155189
+52125A003K-1,1,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092022,5.155545
+52125A003K-13,13,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.093231,5.154915
+52125A003K-15,15,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.093402,5.153346
+52125A003K-2,2,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092574,5.155435
+52125A003K-3,3,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092324,5.155422
+52125A003K-4,4,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092651,5.155388
+52125A003K-5,5,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092394,5.155379
+52125A003K-7,7,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092527,5.155309
+52125A003K-9,9,Côteau Saint-Michel,52000,Chamarandes-Choignes,C+O,48.092642,5.155272
 52125A005M-10,10,Lotissement la Fauconnière,52000,Chamarandes-Choignes,C+O,48.094308,5.162541
 52125A005M-11,11,Lotissement la Fauconnière,52000,Chamarandes-Choignes,C+O,48.094625,5.163324
 52125A005M-1,1,Lotissement la Fauconnière,52000,Chamarandes-Choignes,C+O,48.094255,5.161777
@@ -19738,18 +19738,18 @@
 522690380Z-7,7,Rue de la Croisette,52200,Langres,C+O,47.865824,5.334274
 522690380Z-8,8,Rue de la Croisette,52200,Langres,C+O,47.865861,5.334332
 522690380Z-9,9,Rue de la Croisette,52200,Langres,C+O,47.865861,5.334083
-522690385E-10,10,Rue Dardenay,52200,Langres,C+O,47.862699,5.337491
-522690385E-1,1,Rue Dardenay,52200,Langres,C+O,47.863048,5.337402
-522690385E-12,12,Rue Dardenay,52200,Langres,C+O,47.862657,5.337488
-522690385E-14,14,Rue Dardenay,52200,Langres,C+O,47.862603,5.337514
-522690385E-2,2,Rue Dardenay,52200,Langres,C+O,47.862992,5.337349
-522690385E-3,3,Rue Dardenay,52200,Langres,C+O,47.862796,5.337520
-522690385E-4,4,Rue Dardenay,52200,Langres,C+O,47.862883,5.337391
-522690385E-5,5,Rue Dardenay,52200,Langres,C+O,47.862476,5.337453
-522690385E-6,6,Rue Dardenay,52200,Langres,C+O,47.862813,5.337420
-522690385E-7,7,Rue Dardenay,52200,Langres,C+O,47.862481,5.337341
-522690385E-8,8,Rue Dardenay,52200,Langres,C+O,47.862764,5.337433
-522690385E-9,9,Rue Dardenay,52200,Langres,C+O,47.862521,5.337285
+522690385E-10,10,Rue de Dardenay,52200,Langres,C+O,47.862699,5.337491
+522690385E-1,1,Rue de Dardenay,52200,Langres,C+O,47.863048,5.337402
+522690385E-12,12,Rue de Dardenay,52200,Langres,C+O,47.862657,5.337488
+522690385E-14,14,Rue de Dardenay,52200,Langres,C+O,47.862603,5.337514
+522690385E-2,2,Rue de Dardenay,52200,Langres,C+O,47.862992,5.337349
+522690385E-3,3,Rue de Dardenay,52200,Langres,C+O,47.862796,5.337520
+522690385E-4,4,Rue de Dardenay,52200,Langres,C+O,47.862883,5.337391
+522690385E-5,5,Rue de Dardenay,52200,Langres,C+O,47.862476,5.337453
+522690385E-6,6,Rue de Dardenay,52200,Langres,C+O,47.862813,5.337420
+522690385E-7,7,Rue de Dardenay,52200,Langres,C+O,47.862481,5.337341
+522690385E-8,8,Rue de Dardenay,52200,Langres,C+O,47.862764,5.337433
+522690385E-9,9,Rue de Dardenay,52200,Langres,C+O,47.862521,5.337285
 522690390K-1,1,Rue Denfert Rochereau,52200,Langres,C+O,47.859220,5.333689
 522690390K-1B,1BIS,Rue Denfert Rochereau,52200,Langres,C+O,47.859218,5.333854
 522690390K-1T,1TER,Rue Denfert Rochereau,52200,Langres,C+O,47.859239,5.333430
@@ -21680,51 +21680,51 @@
 522760028L-7,7,Rue de la Grand Haie,52000,Laville-aux-Bois,C+O,48.096575,5.233462
 522760028L-8,8,Rue de la Grand Haie,52000,Laville-aux-Bois,C+O,48.096195,5.232892
 522760028L-9,9,Rue de la Grand Haie,52000,Laville-aux-Bois,C+O,48.096893,5.233832
-522760032R-10,10,Rue Grande,52000,Laville-aux-Bois,CAD,48.095472,5.227155
-522760032R-11,11,Rue Grande,52000,Laville-aux-Bois,CAD,48.095381,5.226912
-522760032R-1,1,Rue Grande,52000,Laville-aux-Bois,CAD,48.095625,5.224750
-522760032R-12,12,Rue Grande,52000,Laville-aux-Bois,CAD,48.095457,5.226954
-522760032R-13,13,Rue Grande,52000,Laville-aux-Bois,CAD,48.095382,5.227193
-522760032R-14,14,Rue Grande,52000,Laville-aux-Bois,CAD,48.095505,5.227391
-522760032R-16,16,Rue Grande,52000,Laville-aux-Bois,CAD,48.095549,5.227653
-522760032R-16B,16BIS,Rue Grande,52000,Laville-aux-Bois,CAD,48.095589,5.227880
-522760032R-17,17,Rue Grande,52000,Laville-aux-Bois,CAD,48.095498,5.227862
-522760032R-18,18,Rue Grande,52000,Laville-aux-Bois,CAD,48.095602,5.228089
-522760032R-19,19,Rue Grande,52000,Laville-aux-Bois,CAD,48.095518,5.228072
-522760032R-20,20,Rue Grande,52000,Laville-aux-Bois,CAD,48.095615,5.228252
-522760032R-22,22,Rue Grande,52000,Laville-aux-Bois,CAD,48.095624,5.228384
-522760032R-2,2,Rue Grande,52000,Laville-aux-Bois,CAD,48.095713,5.224760
-522760032R-24,24,Rue Grande,52000,Laville-aux-Bois,CAD,48.095630,5.228513
-522760032R-25,25,Rue Grande,52000,Laville-aux-Bois,CAD,48.095574,5.229168
-522760032R-26,26,Rue Grande,52000,Laville-aux-Bois,CAD,48.095644,5.228786
-522760032R-27,27,Rue Grande,52000,Laville-aux-Bois,CAD,48.095601,5.229586
-522760032R-28,28,Rue Grande,52000,Laville-aux-Bois,CAD,48.095660,5.229119
-522760032R-29,29,Rue Grande,52000,Laville-aux-Bois,CAD,48.095584,5.230470
-522760032R-30,30,Rue Grande,52000,Laville-aux-Bois,CAD,48.095685,5.229582
-522760032R-31,31,Rue Grande,52000,Laville-aux-Bois,CAD,48.095555,5.230663
-522760032R-32,32,Rue Grande,52000,Laville-aux-Bois,CAD,48.095699,5.229733
-522760032R-33,33,Rue Grande,52000,Laville-aux-Bois,CAD,48.095490,5.231109
-522760032R-3,3,Rue Grande,52000,Laville-aux-Bois,CAD,48.095556,5.225036
-522760032R-35B,35BIS,Rue Grande,52000,Laville-aux-Bois,CAD,48.095227,5.232049
-522760032R-37,37,Rue Grande,52000,Laville-aux-Bois,CAD,48.095000,5.232344
-522760032R-38,38,Rue Grande,52000,Laville-aux-Bois,CAD,48.095778,5.230927
-522760032R-39,39,Rue Grande,52000,Laville-aux-Bois,CAD,48.094737,5.232681
-522760032R-40,40,Rue Grande,52000,Laville-aux-Bois,CAD,48.095557,5.231211
-522760032R-41,41,Rue Grande,52000,Laville-aux-Bois,CAD,48.094958,5.232906
-522760032R-42,42,Rue Grande,52000,Laville-aux-Bois,CAD,48.095508,5.231460
-522760032R-43,43,Rue Grande,52000,Laville-aux-Bois,CAD,48.095270,5.233280
-522760032R-44,44,Rue Grande,52000,Laville-aux-Bois,CAD,48.095463,5.231665
-522760032R-4,4,Rue Grande,52000,Laville-aux-Bois,CAD,48.095575,5.225278
-522760032R-46,46,Rue Grande,52000,Laville-aux-Bois,CAD,48.095427,5.231816
-522760032R-48,48,Rue Grande,52000,Laville-aux-Bois,CAD,48.095400,5.231927
-522760032R-50,50,Rue Grande,52000,Laville-aux-Bois,CAD,48.095386,5.231984
-522760032R-52,52,Rue Grande,52000,Laville-aux-Bois,CAD,48.095384,5.232057
-522760032R-54,54,Rue Grande,52000,Laville-aux-Bois,CAD,48.095310,5.233044
-522760032R-5,5,Rue Grande,52000,Laville-aux-Bois,CAD,48.095520,5.225272
-522760032R-56,56,Rue Grande,52000,Laville-aux-Bois,CAD,48.095484,5.233926
-522760032R-6,6,Rue Grande,52000,Laville-aux-Bois,CAD,48.095534,5.225616
-522760032R-7,7,Rue Grande,52000,Laville-aux-Bois,CAD,48.095498,5.225416
-522760032R-9,9,Rue Grande,52000,Laville-aux-Bois,CAD,48.095470,5.225707
+522760032R-10,10,Grande Rue,52000,Laville-aux-Bois,C+O,48.095472,5.227155
+522760032R-11,11,Grande Rue,52000,Laville-aux-Bois,C+O,48.095381,5.226912
+522760032R-1,1,Grande Rue,52000,Laville-aux-Bois,C+O,48.095625,5.224750
+522760032R-12,12,Grande Rue,52000,Laville-aux-Bois,C+O,48.095457,5.226954
+522760032R-13,13,Grande Rue,52000,Laville-aux-Bois,C+O,48.095382,5.227193
+522760032R-14,14,Grande Rue,52000,Laville-aux-Bois,C+O,48.095505,5.227391
+522760032R-16,16,Grande Rue,52000,Laville-aux-Bois,C+O,48.095549,5.227653
+522760032R-16B,16BIS,Grande Rue,52000,Laville-aux-Bois,C+O,48.095589,5.227880
+522760032R-17,17,Grande Rue,52000,Laville-aux-Bois,C+O,48.095498,5.227862
+522760032R-18,18,Grande Rue,52000,Laville-aux-Bois,C+O,48.095602,5.228089
+522760032R-19,19,Grande Rue,52000,Laville-aux-Bois,C+O,48.095518,5.228072
+522760032R-20,20,Grande Rue,52000,Laville-aux-Bois,C+O,48.095615,5.228252
+522760032R-22,22,Grande Rue,52000,Laville-aux-Bois,C+O,48.095624,5.228384
+522760032R-2,2,Grande Rue,52000,Laville-aux-Bois,C+O,48.095713,5.224760
+522760032R-24,24,Grande Rue,52000,Laville-aux-Bois,C+O,48.095630,5.228513
+522760032R-25,25,Grande Rue,52000,Laville-aux-Bois,C+O,48.095574,5.229168
+522760032R-26,26,Grande Rue,52000,Laville-aux-Bois,C+O,48.095644,5.228786
+522760032R-27,27,Grande Rue,52000,Laville-aux-Bois,C+O,48.095601,5.229586
+522760032R-28,28,Grande Rue,52000,Laville-aux-Bois,C+O,48.095660,5.229119
+522760032R-29,29,Grande Rue,52000,Laville-aux-Bois,C+O,48.095584,5.230470
+522760032R-30,30,Grande Rue,52000,Laville-aux-Bois,C+O,48.095685,5.229582
+522760032R-31,31,Grande Rue,52000,Laville-aux-Bois,C+O,48.095555,5.230663
+522760032R-32,32,Grande Rue,52000,Laville-aux-Bois,C+O,48.095699,5.229733
+522760032R-33,33,Grande Rue,52000,Laville-aux-Bois,C+O,48.095490,5.231109
+522760032R-3,3,Grande Rue,52000,Laville-aux-Bois,C+O,48.095556,5.225036
+522760032R-35B,35BIS,Grande Rue,52000,Laville-aux-Bois,C+O,48.095227,5.232049
+522760032R-37,37,Grande Rue,52000,Laville-aux-Bois,C+O,48.095000,5.232344
+522760032R-38,38,Grande Rue,52000,Laville-aux-Bois,C+O,48.095778,5.230927
+522760032R-39,39,Grande Rue,52000,Laville-aux-Bois,C+O,48.094737,5.232681
+522760032R-40,40,Grande Rue,52000,Laville-aux-Bois,C+O,48.095557,5.231211
+522760032R-41,41,Grande Rue,52000,Laville-aux-Bois,C+O,48.094958,5.232906
+522760032R-42,42,Grande Rue,52000,Laville-aux-Bois,C+O,48.095508,5.231460
+522760032R-43,43,Grande Rue,52000,Laville-aux-Bois,C+O,48.095270,5.233280
+522760032R-44,44,Grande Rue,52000,Laville-aux-Bois,C+O,48.095463,5.231665
+522760032R-4,4,Grande Rue,52000,Laville-aux-Bois,C+O,48.095575,5.225278
+522760032R-46,46,Grande Rue,52000,Laville-aux-Bois,C+O,48.095427,5.231816
+522760032R-48,48,Grande Rue,52000,Laville-aux-Bois,C+O,48.095400,5.231927
+522760032R-50,50,Grande Rue,52000,Laville-aux-Bois,C+O,48.095386,5.231984
+522760032R-52,52,Grande Rue,52000,Laville-aux-Bois,C+O,48.095384,5.232057
+522760032R-54,54,Grande Rue,52000,Laville-aux-Bois,C+O,48.095310,5.233044
+522760032R-5,5,Grande Rue,52000,Laville-aux-Bois,C+O,48.095520,5.225272
+522760032R-56,56,Grande Rue,52000,Laville-aux-Bois,C+O,48.095484,5.233926
+522760032R-6,6,Grande Rue,52000,Laville-aux-Bois,C+O,48.095534,5.225616
+522760032R-7,7,Grande Rue,52000,Laville-aux-Bois,C+O,48.095498,5.225416
+522760032R-9,9,Grande Rue,52000,Laville-aux-Bois,C+O,48.095470,5.225707
 522760080T-11,11,Rue du Val Moiron,52000,Laville-aux-Bois,C+O,48.094152,5.231443
 522760080T-1,1,Rue du Val Moiron,52000,Laville-aux-Bois,C+O,48.094605,5.231452
 522760080T-13,13,Rue du Val Moiron,52000,Laville-aux-Bois,C+O,48.094038,5.231463
@@ -24539,17 +24539,17 @@
 524260019Z-2,2,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278727,4.865620
 524260019Z-4,4,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278516,4.865546
 524260019Z-6,6,Place de la Mairie,52330,Rizaucourt-Buchey,CAD,48.278402,4.865555
-524260030L-10,10,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
-524260030L-11,11,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
-524260030L-1,1,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
-524260030L-12,12,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
-524260030L-13,13,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
-524260030L-19,19,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
-524260030L-3,3,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
-524260030L-5,5,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
-524260030L-7,7,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
-524260030L-8,8,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
-524260030L-9,9,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
+524260030L-10,10,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
+524260030L-11,11,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
+524260030L-1,1,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
+524260030L-12,12,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
+524260030L-13,13,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
+524260030L-19,19,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
+524260030L-3,3,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
+524260030L-5,5,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
+524260030L-7,7,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
+524260030L-8,8,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
+524260030L-9,9,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
 524260038V-1,1,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278763,4.866126
 524260038V-2,2,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278152,4.866097
 524260038V-4,4,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.277838,4.866379
@@ -33004,95 +33004,95 @@
 524870005U-4,4,Rue des Pommeroies,52220,Thilleux,CAD,48.438857,4.799045
 524870010Z-1,1,Route de Sommevoire,52220,Thilleux,CAD,48.438983,4.802444
 524870010Z-4,4,Route de Sommevoire,52220,Thilleux,CAD,48.438836,4.803032
-524940003L-2,2,Place de la Charme,52000,Treix,CAD,48.149454,5.187496
-524940003L-3,3,Place de la Charme,52000,Treix,CAD,48.149411,5.187779
-524940003L-4,4,Place de la Charme,52000,Treix,CAD,48.149387,5.188000
-524940003L-5,5,Place de la Charme,52000,Treix,CAD,48.149359,5.188352
-524940004M-1,1,Route de Chaumont,52000,Treix,CAD,48.142656,5.185039
-524940004M-3,3,Route de Chaumont,52000,Treix,CAD,48.143396,5.185412
-524940005N-1,1,Chemin des Chenevières,52000,Treix,CAD,48.149463,5.186609
-524940007R-1,1,Rue Voye de Darmannes,52000,Treix,CAD,48.148299,5.194368
-524940007R-20,20,Rue Voye de Darmannes,52000,Treix,CAD,48.145998,5.189545
-524940007R-2,2,Rue Voye de Darmannes,52000,Treix,CAD,48.148093,5.193898
-524940007R-3,3,Rue Voye de Darmannes,52000,Treix,CAD,48.148135,5.194134
-524940007R-4,4,Rue Voye de Darmannes,52000,Treix,CAD,48.147970,5.193725
-524940007R-5,5,Rue Voye de Darmannes,52000,Treix,CAD,48.147970,5.193898
-524940009T-11,11,Rue des Fontenelles,52000,Treix,CAD,48.146543,5.183753
-524940009T-1,1,Rue des Fontenelles,52000,Treix,CAD,48.145177,5.186158
-524940009T-15,15,Rue des Fontenelles,52000,Treix,CAD,48.146667,5.183534
-524940009T-17,17,Rue des Fontenelles,52000,Treix,CAD,48.146787,5.183309
-524940009T-18,18,Rue des Fontenelles,52000,Treix,CAD,48.146923,5.183176
-524940009T-19,19,Rue des Fontenelles,52000,Treix,CAD,48.146947,5.183070
-524940009T-20,20,Rue des Fontenelles,52000,Treix,CAD,48.147015,5.183048
-524940009T-21,21,Rue des Fontenelles,52000,Treix,CAD,48.147147,5.182704
-524940009T-2,2,Rue des Fontenelles,52000,Treix,CAD,48.145594,5.185272
-524940009T-24,24,Rue des Fontenelles,52000,Treix,CAD,48.147312,5.182620
-524940009T-3,3,Rue des Fontenelles,52000,Treix,CAD,48.145787,5.184827
-524940009T-5,5,Rue des Fontenelles,52000,Treix,CAD,48.146040,5.184431
-524940009T-7,7,Rue des Fontenelles,52000,Treix,CAD,48.146258,5.184194
-524940009T-9,9,Rue des Fontenelles,52000,Treix,CAD,48.146404,5.183996
-524940010U-2,2,Chemin de Fragneix,52000,Treix,CAD,48.142884,5.217763
-524940010U-3,3,Chemin de Fragneix,52000,Treix,CAD,48.141675,5.216450
-524940011V-10,10,Rue Frairenard,52000,Treix,CAD,48.149407,5.190274
-524940011V-12,12,Rue Frairenard,52000,Treix,CAD,48.149400,5.190557
-524940011V-14,14,Rue Frairenard,52000,Treix,CAD,48.149388,5.190863
-524940011V-16,16,Rue Frairenard,52000,Treix,CAD,48.149372,5.191155
-524940011V-18,18,Rue Frairenard,52000,Treix,CAD,48.149331,5.191521
-524940011V-20,20,Rue Frairenard,52000,Treix,CAD,48.149275,5.191852
-524940011V-22,22,Rue Frairenard,52000,Treix,CAD,48.149173,5.192265
-524940011V-2,2,Rue Frairenard,52000,Treix,CAD,48.149329,5.189043
-524940011V-24,24,Rue Frairenard,52000,Treix,CAD,48.149086,5.192617
-524940011V-26,26,Rue Frairenard,52000,Treix,CAD,48.148999,5.192967
-524940011V-28,28,Rue Frairenard,52000,Treix,CAD,48.148852,5.193546
-524940011V-30,30,Rue Frairenard,52000,Treix,CAD,48.148720,5.193905
-524940011V-32,32,Rue Frairenard,52000,Treix,CAD,48.148586,5.194249
-524940011V-34,34,Rue Frairenard,52000,Treix,CAD,48.148041,5.195290
-524940011V-36,36,Rue Frairenard,52000,Treix,CAD,48.147729,5.195940
-524940011V-40,40,Rue Frairenard,52000,Treix,CAD,48.147049,5.197382
-524940011V-42,42,Rue Frairenard,52000,Treix,CAD,48.146699,5.198159
-524940011V-44,44,Rue Frairenard,52000,Treix,CAD,48.146393,5.198849
-524940011V-4,4,Rue Frairenard,52000,Treix,CAD,48.149389,5.189432
-524940011V-6,6,Rue Frairenard,52000,Treix,CAD,48.149407,5.189730
-524940011V-7,7,Rue Frairenard,52000,Treix,CAD,48.149489,5.189804
-524940011V-8,8,Rue Frairenard,52000,Treix,CAD,48.149406,5.189987
-524940011V-9,9,Rue Frairenard,52000,Treix,CAD,48.149493,5.190131
-524940015Z-4,4,Chemin de Pierrefrite,52000,Treix,CAD,48.143774,5.183847
-524940016A-11,11,Rue du Pré Beugnot,52000,Treix,CAD,48.148994,5.185568
-524940016A-15,15,Rue du Pré Beugnot,52000,Treix,CAD,48.149028,5.185284
-524940016A-17,17,Rue du Pré Beugnot,52000,Treix,CAD,48.149033,5.185013
-524940016A-19,19,Rue du Pré Beugnot,52000,Treix,CAD,48.149021,5.184679
-524940016A-21,21,Rue du Pré Beugnot,52000,Treix,CAD,48.148984,5.184344
-524940016A-2,2,Rue du Pré Beugnot,52000,Treix,CAD,48.148648,5.187087
-524940016A-23,23,Rue du Pré Beugnot,52000,Treix,CAD,48.148930,5.184014
-524940016A-4,4,Rue du Pré Beugnot,52000,Treix,CAD,48.148753,5.186738
-524940016A-6,6,Rue du Pré Beugnot,52000,Treix,CAD,48.148855,5.186417
-524940016A-7,7,Rue du Pré Beugnot,52000,Treix,CAD,48.148842,5.186204
-524940016A-8,8,Rue du Pré Beugnot,52000,Treix,CAD,48.149022,5.185785
-524940017B-10,10,Rue Principale,52000,Treix,CAD,48.145899,5.186844
-524940017B-10B,10BIS,Rue Principale,52000,Treix,CAD,48.145801,5.187317
-524940017B-11,11,Rue Principale,52000,Treix,CAD,48.146249,5.186844
-524940017B-1,1,Rue Principale,52000,Treix,CAD,48.145371,5.186604
-524940017B-12,12,Rue Principale,52000,Treix,CAD,48.145979,5.186869
-524940017B-14,14,Rue Principale,52000,Treix,CAD,48.146097,5.186909
-524940017B-15,15,Rue Principale,52000,Treix,CAD,48.146350,5.186886
-524940017B-16,16,Rue Principale,52000,Treix,CAD,48.146258,5.186965
-524940017B-17,17,Rue Principale,52000,Treix,CAD,48.146470,5.186933
-524940017B-18,18,Rue Principale,52000,Treix,CAD,48.146468,5.187023
-524940017B-19,19,Rue Principale,52000,Treix,CAD,48.146590,5.186972
-524940017B-21,21,Rue Principale,52000,Treix,CAD,48.146734,5.187017
-524940017B-2,2,Rue Principale,52000,Treix,CAD,48.145252,5.186919
-524940017B-24,24,Rue Principale,52000,Treix,CAD,48.146850,5.187150
-524940017B-25,25,Rue Principale,52000,Treix,CAD,48.147815,5.187449
-524940017B-31,31,Rue Principale,52000,Treix,CAD,48.148341,5.187597
-524940017B-32,32,Rue Principale,52000,Treix,CAD,48.147270,5.187774
-524940017B-33,33,Rue Principale,52000,Treix,CAD,48.148960,5.187823
-524940017B-3,3,Rue Principale,52000,Treix,CAD,48.145650,5.186671
-524940017B-34,34,Rue Principale,52000,Treix,CAD,48.148071,5.187667
-524940017B-5,5,Rue Principale,52000,Treix,CAD,48.145827,5.186718
-524940017B-6,6,Rue Principale,52000,Treix,CAD,48.145664,5.186786
-524940017B-7,7,Rue Principale,52000,Treix,CAD,48.146002,5.186771
-524940017B-8,8,Rue Principale,52000,Treix,CAD,48.145812,5.186818
-524940018C-4,4,Chemin du Preux,52000,Treix,CAD,48.148433,5.188411
+524940003L-2,2,Place de la Charme,52000,Treix,C+O,48.149454,5.187496
+524940003L-3,3,Place de la Charme,52000,Treix,C+O,48.149411,5.187779
+524940003L-4,4,Place de la Charme,52000,Treix,C+O,48.149387,5.188000
+524940003L-5,5,Place de la Charme,52000,Treix,C+O,48.149359,5.188352
+524940004M-1,1,Route de Chaumont,52000,Treix,C+O,48.142656,5.185039
+524940004M-3,3,Route de Chaumont,52000,Treix,C+O,48.143396,5.185412
+524940005N-1,1,Chemin des Chenevières,52000,Treix,C+O,48.149463,5.186609
+524940007R-1,1,Rue Voye de Darmannes,52000,Treix,C+O,48.148299,5.194368
+524940007R-20,20,Rue Voye de Darmannes,52000,Treix,C+O,48.145998,5.189545
+524940007R-2,2,Rue Voye de Darmannes,52000,Treix,C+O,48.148093,5.193898
+524940007R-3,3,Rue Voye de Darmannes,52000,Treix,C+O,48.148135,5.194134
+524940007R-4,4,Rue Voye de Darmannes,52000,Treix,C+O,48.147970,5.193725
+524940007R-5,5,Rue Voye de Darmannes,52000,Treix,C+O,48.147970,5.193898
+524940009T-11,11,Rue des Fontenelles,52000,Treix,C+O,48.146543,5.183753
+524940009T-1,1,Rue des Fontenelles,52000,Treix,C+O,48.145177,5.186158
+524940009T-15,15,Rue des Fontenelles,52000,Treix,C+O,48.146667,5.183534
+524940009T-17,17,Rue des Fontenelles,52000,Treix,C+O,48.146787,5.183309
+524940009T-18,18,Rue des Fontenelles,52000,Treix,C+O,48.146923,5.183176
+524940009T-19,19,Rue des Fontenelles,52000,Treix,C+O,48.146947,5.183070
+524940009T-20,20,Rue des Fontenelles,52000,Treix,C+O,48.147015,5.183048
+524940009T-21,21,Rue des Fontenelles,52000,Treix,C+O,48.147147,5.182704
+524940009T-2,2,Rue des Fontenelles,52000,Treix,C+O,48.145594,5.185272
+524940009T-24,24,Rue des Fontenelles,52000,Treix,C+O,48.147312,5.182620
+524940009T-3,3,Rue des Fontenelles,52000,Treix,C+O,48.145787,5.184827
+524940009T-5,5,Rue des Fontenelles,52000,Treix,C+O,48.146040,5.184431
+524940009T-7,7,Rue des Fontenelles,52000,Treix,C+O,48.146258,5.184194
+524940009T-9,9,Rue des Fontenelles,52000,Treix,C+O,48.146404,5.183996
+524940010U-2,2,Chemin de Fragneix,52000,Treix,C+O,48.142884,5.217763
+524940010U-3,3,Chemin de Fragneix,52000,Treix,C+O,48.141675,5.216450
+524940011V-10,10,Rue frairenard,52000,Treix,C+O,48.149407,5.190274
+524940011V-12,12,Rue frairenard,52000,Treix,C+O,48.149400,5.190557
+524940011V-14,14,Rue frairenard,52000,Treix,C+O,48.149388,5.190863
+524940011V-16,16,Rue frairenard,52000,Treix,C+O,48.149372,5.191155
+524940011V-18,18,Rue frairenard,52000,Treix,C+O,48.149331,5.191521
+524940011V-20,20,Rue frairenard,52000,Treix,C+O,48.149275,5.191852
+524940011V-22,22,Rue frairenard,52000,Treix,C+O,48.149173,5.192265
+524940011V-2,2,Rue frairenard,52000,Treix,C+O,48.149329,5.189043
+524940011V-24,24,Rue frairenard,52000,Treix,C+O,48.149086,5.192617
+524940011V-26,26,Rue frairenard,52000,Treix,C+O,48.148999,5.192967
+524940011V-28,28,Rue frairenard,52000,Treix,C+O,48.148852,5.193546
+524940011V-30,30,Rue frairenard,52000,Treix,C+O,48.148720,5.193905
+524940011V-32,32,Rue frairenard,52000,Treix,C+O,48.148586,5.194249
+524940011V-34,34,Rue frairenard,52000,Treix,C+O,48.148041,5.195290
+524940011V-36,36,Rue frairenard,52000,Treix,C+O,48.147729,5.195940
+524940011V-40,40,Rue frairenard,52000,Treix,C+O,48.147049,5.197382
+524940011V-42,42,Rue frairenard,52000,Treix,C+O,48.146699,5.198159
+524940011V-44,44,Rue frairenard,52000,Treix,C+O,48.146393,5.198849
+524940011V-4,4,Rue frairenard,52000,Treix,C+O,48.149389,5.189432
+524940011V-6,6,Rue frairenard,52000,Treix,C+O,48.149407,5.189730
+524940011V-7,7,Rue frairenard,52000,Treix,C+O,48.149489,5.189804
+524940011V-8,8,Rue frairenard,52000,Treix,C+O,48.149406,5.189987
+524940011V-9,9,Rue frairenard,52000,Treix,C+O,48.149493,5.190131
+524940015Z-4,4,Chemin de Pierrefrite,52000,Treix,C+O,48.143774,5.183847
+524940016A-11,11,Rue du Pré Beugnot,52000,Treix,C+O,48.148994,5.185568
+524940016A-15,15,Rue du Pré Beugnot,52000,Treix,C+O,48.149028,5.185284
+524940016A-17,17,Rue du Pré Beugnot,52000,Treix,C+O,48.149033,5.185013
+524940016A-19,19,Rue du Pré Beugnot,52000,Treix,C+O,48.149021,5.184679
+524940016A-21,21,Rue du Pré Beugnot,52000,Treix,C+O,48.148984,5.184344
+524940016A-2,2,Rue du Pré Beugnot,52000,Treix,C+O,48.148648,5.187087
+524940016A-23,23,Rue du Pré Beugnot,52000,Treix,C+O,48.148930,5.184014
+524940016A-4,4,Rue du Pré Beugnot,52000,Treix,C+O,48.148753,5.186738
+524940016A-6,6,Rue du Pré Beugnot,52000,Treix,C+O,48.148855,5.186417
+524940016A-7,7,Rue du Pré Beugnot,52000,Treix,C+O,48.148842,5.186204
+524940016A-8,8,Rue du Pré Beugnot,52000,Treix,C+O,48.149022,5.185785
+524940017B-10,10,Rue Principale,52000,Treix,C+O,48.145899,5.186844
+524940017B-10B,10BIS,Rue Principale,52000,Treix,C+O,48.145801,5.187317
+524940017B-11,11,Rue Principale,52000,Treix,C+O,48.146249,5.186844
+524940017B-1,1,Rue Principale,52000,Treix,C+O,48.145371,5.186604
+524940017B-12,12,Rue Principale,52000,Treix,C+O,48.145979,5.186869
+524940017B-14,14,Rue Principale,52000,Treix,C+O,48.146097,5.186909
+524940017B-15,15,Rue Principale,52000,Treix,C+O,48.146350,5.186886
+524940017B-16,16,Rue Principale,52000,Treix,C+O,48.146258,5.186965
+524940017B-17,17,Rue Principale,52000,Treix,C+O,48.146470,5.186933
+524940017B-18,18,Rue Principale,52000,Treix,C+O,48.146468,5.187023
+524940017B-19,19,Rue Principale,52000,Treix,C+O,48.146590,5.186972
+524940017B-21,21,Rue Principale,52000,Treix,C+O,48.146734,5.187017
+524940017B-2,2,Rue Principale,52000,Treix,C+O,48.145252,5.186919
+524940017B-24,24,Rue Principale,52000,Treix,C+O,48.146850,5.187150
+524940017B-25,25,Rue Principale,52000,Treix,C+O,48.147815,5.187449
+524940017B-31,31,Rue Principale,52000,Treix,C+O,48.148341,5.187597
+524940017B-32,32,Rue Principale,52000,Treix,C+O,48.147270,5.187774
+524940017B-33,33,Rue Principale,52000,Treix,C+O,48.148960,5.187823
+524940017B-3,3,Rue Principale,52000,Treix,C+O,48.145650,5.186671
+524940017B-34,34,Rue Principale,52000,Treix,C+O,48.148071,5.187667
+524940017B-5,5,Rue Principale,52000,Treix,C+O,48.145827,5.186718
+524940017B-6,6,Rue Principale,52000,Treix,C+O,48.145664,5.186786
+524940017B-7,7,Rue Principale,52000,Treix,C+O,48.146002,5.186771
+524940017B-8,8,Rue Principale,52000,Treix,C+O,48.145812,5.186818
+524940018C-4,4,Chemin du Preux,52000,Treix,C+O,48.148433,5.188411
 524970010F-2,2,Rue de l'Abreuvoir,52130,Troisfontaines-la-Ville,CAD,48.541022,5.020509
 524970012H-1,1,Rue d'Anjou,52130,Troisfontaines-la-Ville,CAD,48.545065,4.979919
 524970012H-2,2,Rue d'Anjou,52130,Troisfontaines-la-Ville,CAD,48.544977,4.979921
@@ -33593,36 +33593,36 @@
 525000125T-4,4,Route de Wassy,52100,Valcourt,C+O,48.610245,4.908978
 525000125T-6,6,Route de Wassy,52100,Valcourt,C+O,48.610530,4.907649
 525000125T-8,8,Route de Wassy,52100,Valcourt,C+O,48.610864,4.907545
-525020010J-1,1,Route du Clos Mussey,52130,Valleret,CAD,48.486963,4.997551
-525020015P-1,1,Rue de l'Eglise,52130,Valleret,CAD,48.487493,5.002114
-525020015P-3,3,Rue de l'Eglise,52130,Valleret,CAD,48.487961,5.001689
-525020015P-4,4,Rue de l'Eglise,52130,Valleret,CAD,48.487661,5.002225
-525020015P-5,5,Rue de l'Eglise,52130,Valleret,CAD,48.487855,5.002020
-525020016R-1,1,Ruelle de l'Eglise,52130,Valleret,CAD,48.487964,5.002186
-525020016R-3,3,Ruelle de l'Eglise,52130,Valleret,CAD,48.488252,5.002581
-525020016R-5,5,Ruelle de l'Eglise,52130,Valleret,CAD,48.488022,5.002929
-525020020V-1,1,Chemin de Fays,52130,Valleret,CAD,48.488137,5.004594
-525020030F-10,10,Rue Grande,52130,Valleret,CAD,48.487144,5.001240
-525020030F-11,11,Rue Grande,52130,Valleret,CAD,48.487628,5.002453
-525020030F-1,1,Rue Grande,52130,Valleret,CAD,48.487128,4.999504
-525020030F-12,12,Rue Grande,52130,Valleret,CAD,48.487168,5.001453
-525020030F-13,13,Rue Grande,52130,Valleret,CAD,48.487626,5.002682
-525020030F-14,14,Rue Grande,52130,Valleret,CAD,48.487284,5.001999
-525020030F-15,15,Rue Grande,52130,Valleret,CAD,48.488125,5.003757
-525020030F-16,16,Rue Grande,52130,Valleret,CAD,48.487616,5.002986
-525020030F-18,18,Rue Grande,52130,Valleret,CAD,48.487527,5.003601
-525020030F-20,20,Rue Grande,52130,Valleret,CAD,48.488104,5.004049
-525020030F-2,2,Rue Grande,52130,Valleret,CAD,48.486983,4.999488
-525020030F-3,3,Rue Grande,52130,Valleret,CAD,48.487101,5.000184
-525020030F-4,4,Rue Grande,52130,Valleret,CAD,48.487018,5.000157
-525020030F-5,5,Rue Grande,52130,Valleret,CAD,48.487162,5.000674
-525020030F-6,6,Rue Grande,52130,Valleret,CAD,48.487056,5.000472
-525020030F-7,7,Rue Grande,52130,Valleret,CAD,48.487200,5.000991
-525020030F-8,8,Rue Grande,52130,Valleret,CAD,48.487091,5.000790
-525020030F-9,9,Rue Grande,52130,Valleret,CAD,48.487510,5.002343
-525020035L-1,1,Route de Janval,52130,Valleret,CAD,48.485427,4.998648
-525020035L-2,2,Route de Janval,52130,Valleret,CAD,48.486510,4.998512
-525020040S-1,1,Chemin de Maizières,52130,Valleret,CAD,48.488402,5.004122
+525020010J-1,1,Route du Clos Mussey,52130,Valleret,C+O,48.486963,4.997551
+525020015P-1,1,Rue de l'Église,52130,Valleret,C+O,48.487493,5.002114
+525020015P-3,3,Rue de l'Église,52130,Valleret,C+O,48.487961,5.001689
+525020015P-4,4,Rue de l'Église,52130,Valleret,C+O,48.487661,5.002225
+525020015P-5,5,Rue de l'Église,52130,Valleret,C+O,48.487855,5.002020
+525020016R-1,1,Ruelle de l'Église,52130,Valleret,C+O,48.487964,5.002186
+525020016R-3,3,Ruelle de l'Église,52130,Valleret,C+O,48.488252,5.002581
+525020016R-5,5,Ruelle de l'Église,52130,Valleret,C+O,48.488022,5.002929
+525020020V-1,1,Chemin de Fays,52130,Valleret,C+O,48.488137,5.004594
+525020030F-10,10,Rue Grande,52130,Valleret,C+O,48.487144,5.001240
+525020030F-11,11,Rue Grande,52130,Valleret,C+O,48.487628,5.002453
+525020030F-1,1,Rue Grande,52130,Valleret,C+O,48.487128,4.999504
+525020030F-12,12,Rue Grande,52130,Valleret,C+O,48.487168,5.001453
+525020030F-13,13,Rue Grande,52130,Valleret,C+O,48.487626,5.002682
+525020030F-14,14,Rue Grande,52130,Valleret,C+O,48.487284,5.001999
+525020030F-15,15,Rue Grande,52130,Valleret,C+O,48.488125,5.003757
+525020030F-16,16,Rue Grande,52130,Valleret,C+O,48.487616,5.002986
+525020030F-18,18,Rue Grande,52130,Valleret,C+O,48.487527,5.003601
+525020030F-20,20,Rue Grande,52130,Valleret,C+O,48.488104,5.004049
+525020030F-2,2,Rue Grande,52130,Valleret,C+O,48.486983,4.999488
+525020030F-3,3,Rue Grande,52130,Valleret,C+O,48.487101,5.000184
+525020030F-4,4,Rue Grande,52130,Valleret,C+O,48.487018,5.000157
+525020030F-5,5,Rue Grande,52130,Valleret,C+O,48.487162,5.000674
+525020030F-6,6,Rue Grande,52130,Valleret,C+O,48.487056,5.000472
+525020030F-7,7,Rue Grande,52130,Valleret,C+O,48.487200,5.000991
+525020030F-8,8,Rue Grande,52130,Valleret,C+O,48.487091,5.000790
+525020030F-9,9,Rue Grande,52130,Valleret,C+O,48.487510,5.002343
+525020035L-1,1,Route de Janval,52130,Valleret,C+O,48.485427,4.998648
+525020035L-2,2,Route de Janval,52130,Valleret,C+O,48.486510,4.998512
+525020040S-1,1,Chemin de Maizières,52130,Valleret,C+O,48.488402,5.004122
 525040015F-21,21,Place de l'Église,52400,Varennes-sur-Amance,OSM,47.896961,5.621657
 525100001P-12,12,Rue des Barizets,52130,Vaux-sur-Blaise,CAD,48.472242,4.971002
 525100001P-14,14,Rue des Barizets,52130,Vaux-sur-Blaise,CAD,48.472203,4.970840
