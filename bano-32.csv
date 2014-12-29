@@ -2872,16 +2872,16 @@
 320131487F-7,7,Rue Docteur Roux,32000,Auch,C+O,43.650935,0.606110
 320131487F-8,8,Rue Docteur Roux,32000,Auch,C+O,43.651061,0.606149
 320131487F-9,9,Rue Docteur Roux,32000,Auch,C+O,43.651078,0.606317
-320131490J-11,11,Rue Docteur Samalens,32000,Auch,CAD,43.647573,0.582289
-320131490J-1,1,Rue Docteur Samalens,32000,Auch,CAD,43.647011,0.583224
-320131490J-13B,13BIS,Rue Docteur Samalens,32000,Auch,CAD,43.648454,0.580816
-320131490J-2,2,Rue Docteur Samalens,32000,Auch,CAD,43.648702,0.580677
-320131490J-25,25,Rue Docteur Samalens,32000,Auch,CAD,43.648773,0.580302
-320131490J-27,27,Rue Docteur Samalens,32000,Auch,CAD,43.648819,0.580245
-320131490J-3,3,Rue Docteur Samalens,32000,Auch,CAD,43.647229,0.582867
-320131490J-5,5,Rue Docteur Samalens,32000,Auch,CAD,43.647309,0.582734
-320131490J-7,7,Rue Docteur Samalens,32000,Auch,CAD,43.647352,0.582661
-320131490J-9,9,Rue Docteur Samalens,32000,Auch,CAD,43.647433,0.582526
+320131490J-11,11,Rue Docteur Samalens,32000,Auch,C+O,43.647573,0.582289
+320131490J-1,1,Rue Docteur Samalens,32000,Auch,C+O,43.647011,0.583224
+320131490J-13B,13BIS,Rue Docteur Samalens,32000,Auch,C+O,43.648454,0.580816
+320131490J-2,2,Rue Docteur Samalens,32000,Auch,C+O,43.648702,0.580677
+320131490J-25,25,Rue Docteur Samalens,32000,Auch,C+O,43.648773,0.580302
+320131490J-27,27,Rue Docteur Samalens,32000,Auch,C+O,43.648819,0.580245
+320131490J-3,3,Rue Docteur Samalens,32000,Auch,C+O,43.647229,0.582867
+320131490J-5,5,Rue Docteur Samalens,32000,Auch,C+O,43.647309,0.582734
+320131490J-7,7,Rue Docteur Samalens,32000,Auch,C+O,43.647352,0.582661
+320131490J-9,9,Rue Docteur Samalens,32000,Auch,C+O,43.647433,0.582526
 320131515L-3,3,Impasse Ducos du Hauron,32000,Auch,CAD,43.653095,0.571493
 320131515L-4,4,Impasse Ducos du Hauron,32000,Auch,CAD,43.653002,0.571340
 320131515L-5,5,Impasse Ducos du Hauron,32000,Auch,CAD,43.652958,0.571403
@@ -7251,34 +7251,34 @@
 320270060U-9,9,Rue d'Albret,32720,Barcelonne-du-Gers,CAD,43.702320,-0.236610
 320270063X-3,3,Rue André Claret,32720,Barcelonne-du-Gers,C+O,43.704142,-0.241346
 320270063X-5,5,Rue André Claret,32720,Barcelonne-du-Gers,C+O,43.704340,-0.241248
-320270064Y-10,10,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704554,-0.227306
-320270064Y-11,11,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705086,-0.231403
-320270064Y-1,1,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705756,-0.234366
-320270064Y-12,12,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704516,-0.227127
-320270064Y-15,15,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704763,-0.228417
-320270064Y-17,17,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704699,-0.227919
-320270064Y-20,20,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704316,-0.225909
-320270064Y-21,21,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704641,-0.227465
-320270064Y-22,22,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704286,-0.225540
-320270064Y-2,2,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705243,-0.232868
-320270064Y-24,24,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704271,-0.225178
-320270064Y-3,3,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705638,-0.233941
-320270064Y-3B,3BIS,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705529,-0.233510
-320270064Y-3T,3TER,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705410,-0.233045
-320270064Y-41,41,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704331,-0.217579
-320270064Y-43,43,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704328,-0.217145
-320270064Y-44,44,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704172,-0.215840
-320270064Y-4,4,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704728,-0.228989
-320270064Y-45,45,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704272,-0.216217
-320270064Y-46,46,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704187,-0.214933
-320270064Y-48,48,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704187,-0.214214
-320270064Y-5,5,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705321,-0.232723
-320270064Y-60,60,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.702380,-0.202595
-320270064Y-62,62,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.702209,-0.202963
-320270064Y-6,6,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704641,-0.228020
-320270064Y-7,7,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705213,-0.232316
-320270064Y-8,8,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.704571,-0.227479
-320270064Y-9,9,Route d'Arblade Le Bas,32720,Barcelonne-du-Gers,CAD,43.705133,-0.231791
+320270064Y-10,10,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704554,-0.227306
+320270064Y-11,11,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705086,-0.231403
+320270064Y-1,1,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705756,-0.234366
+320270064Y-12,12,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704516,-0.227127
+320270064Y-15,15,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704763,-0.228417
+320270064Y-17,17,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704699,-0.227919
+320270064Y-20,20,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704316,-0.225909
+320270064Y-21,21,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704641,-0.227465
+320270064Y-22,22,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704286,-0.225540
+320270064Y-2,2,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705243,-0.232868
+320270064Y-24,24,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704271,-0.225178
+320270064Y-3,3,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705638,-0.233941
+320270064Y-3B,3BIS,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705529,-0.233510
+320270064Y-3T,3TER,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705410,-0.233045
+320270064Y-41,41,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704331,-0.217579
+320270064Y-43,43,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704328,-0.217145
+320270064Y-44,44,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704172,-0.215840
+320270064Y-4,4,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704728,-0.228989
+320270064Y-45,45,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704272,-0.216217
+320270064Y-46,46,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704187,-0.214933
+320270064Y-48,48,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704187,-0.214214
+320270064Y-5,5,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705321,-0.232723
+320270064Y-60,60,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.702380,-0.202595
+320270064Y-62,62,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.702209,-0.202963
+320270064Y-6,6,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704641,-0.228020
+320270064Y-7,7,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705213,-0.232316
+320270064Y-8,8,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.704571,-0.227479
+320270064Y-9,9,Route de l'Arblade le Bas,32720,Barcelonne-du-Gers,C+O,43.705133,-0.231791
 320270068C-10,10,Chemin du Béret de Haut,32720,Barcelonne-du-Gers,CAD,43.706886,-0.236510
 320270068C-1,1,Chemin du Béret de Haut,32720,Barcelonne-du-Gers,CAD,43.703306,-0.241671
 320270068C-13,13,Chemin du Béret de Haut,32720,Barcelonne-du-Gers,CAD,43.707124,-0.237025
@@ -7312,27 +7312,27 @@
 320270111Z-7,7,Impasse du Carchet,32720,Barcelonne-du-Gers,CAD,43.697915,-0.236544
 320270111Z-8,8,Impasse du Carchet,32720,Barcelonne-du-Gers,CAD,43.698063,-0.237200
 320270118G-1,1,Chemin Carrerot du Haou,32720,Barcelonne-du-Gers,CAD,43.703876,-0.235602
-320270120J-10,10,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702381,-0.237888
-320270120J-11,11,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700372,-0.238299
-320270120J-12,12,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702276,-0.237940
-320270120J-14,14,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702062,-0.238044
-320270120J-18,18,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.701014,-0.238560
-320270120J-20,20,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700762,-0.238563
-320270120J-22,22,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700596,-0.238502
-320270120J-2,2,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702883,-0.237652
-320270120J-24,24,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700492,-0.238455
-320270120J-26,26,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700364,-0.238395
-320270120J-26B,26BIS,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700205,-0.239246
-320270120J-28,28,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700036,-0.238255
-320270120J-28B,28BIS,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700124,-0.238294
-320270120J-30,30,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.699786,-0.238217
-320270120J-32,32,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.699429,-0.238217
-320270120J-3,3,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702740,-0.237611
-320270120J-4,4,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702684,-0.237741
-320270120J-5,5,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702350,-0.237789
-320270120J-6,6,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702567,-0.237797
-320270120J-8,8,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.702459,-0.237849
-320270120J-9,9,Rue de Casamont,32720,Barcelonne-du-Gers,CAD,43.700892,-0.238456
+320270120J-10,10,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702381,-0.237888
+320270120J-11,11,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700372,-0.238299
+320270120J-12,12,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702276,-0.237940
+320270120J-14,14,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702062,-0.238044
+320270120J-18,18,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.701014,-0.238560
+320270120J-20,20,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700762,-0.238563
+320270120J-22,22,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700596,-0.238502
+320270120J-2,2,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702883,-0.237652
+320270120J-24,24,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700492,-0.238455
+320270120J-26,26,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700364,-0.238395
+320270120J-26B,26BIS,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700205,-0.239246
+320270120J-28,28,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700036,-0.238255
+320270120J-28B,28BIS,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700124,-0.238294
+320270120J-30,30,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.699786,-0.238217
+320270120J-32,32,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.699429,-0.238217
+320270120J-3,3,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702740,-0.237611
+320270120J-4,4,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702684,-0.237741
+320270120J-5,5,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702350,-0.237789
+320270120J-6,6,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702567,-0.237797
+320270120J-8,8,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.702459,-0.237849
+320270120J-9,9,Rue de Casamont,32720,Barcelonne-du-Gers,C+O,43.700892,-0.238456
 320270140F-1,1,Rue des Casernes,32720,Barcelonne-du-Gers,CAD,43.702144,-0.236206
 320270140F-3,3,Rue des Casernes,32720,Barcelonne-du-Gers,CAD,43.702129,-0.236147
 320270160C-1,1,Rue du Château d'Eau,32720,Barcelonne-du-Gers,CAD,43.702011,-0.237213
@@ -7356,24 +7356,24 @@
 320270220T-4,4,Rue des Forges,32720,Barcelonne-du-Gers,CAD,43.702544,-0.234928
 320270240P-1,1,Rue des Fossés,32720,Barcelonne-du-Gers,CAD,43.701927,-0.236667
 320270240P-3,3,Rue des Fossés,32720,Barcelonne-du-Gers,CAD,43.701878,-0.236462
-320270260L-10,10,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.702948,-0.237373
-320270260L-11,11,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.702915,-0.237243
-320270260L-1,1,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703411,-0.236480
-320270260L-12,12,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.702848,-0.236972
-320270260L-14,14,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.702787,-0.236713
-320270260L-16,16,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.702880,-0.236355
-320270260L-16B,16BIS,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703015,-0.236288
-320270260L-17,17,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703067,-0.236263
-320270260L-18,18,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703099,-0.236247
-320270260L-19,19,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703127,-0.236233
-320270260L-1B,1BIS,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703452,-0.236642
-320270260L-20,20,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703150,-0.236221
-320270260L-2A,2A,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703479,-0.236746
-320270260L-3,3,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703513,-0.236885
-320270260L-5,5,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703585,-0.237187
-320270260L-6,6,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703481,-0.237379
-320270260L-7,7,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703358,-0.237439
-320270260L-8,8,Place de la Garlande,32720,Barcelonne-du-Gers,CAD,43.703142,-0.237543
+320270260L-10,10,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.702948,-0.237373
+320270260L-11,11,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.702915,-0.237243
+320270260L-1,1,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703411,-0.236480
+320270260L-12,12,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.702848,-0.236972
+320270260L-14,14,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.702787,-0.236713
+320270260L-16,16,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.702880,-0.236355
+320270260L-16B,16BIS,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703015,-0.236288
+320270260L-17,17,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703067,-0.236263
+320270260L-18,18,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703099,-0.236247
+320270260L-19,19,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703127,-0.236233
+320270260L-1B,1BIS,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703452,-0.236642
+320270260L-20,20,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703150,-0.236221
+320270260L-2A,2A,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703479,-0.236746
+320270260L-3,3,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703513,-0.236885
+320270260L-5,5,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703585,-0.237187
+320270260L-6,6,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703481,-0.237379
+320270260L-7,7,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703358,-0.237439
+320270260L-8,8,Place de la Garlande,32720,Barcelonne-du-Gers,C+O,43.703142,-0.237543
 320270270X-3,3,Rue des Halles,32720,Barcelonne-du-Gers,CAD,43.702867,-0.235513
 320270271Y-1,1,Rue de la Mairie,32720,Barcelonne-du-Gers,CAD,43.703605,-0.235934
 320270271Y-3,3,Rue de la Mairie,32720,Barcelonne-du-Gers,CAD,43.703573,-0.235804
@@ -7445,31 +7445,31 @@
 320270297B-4,4,Chemin de Mauvin,32720,Barcelonne-du-Gers,CAD,43.707877,-0.236835
 320270297B-5,5,Chemin de Mauvin,32720,Barcelonne-du-Gers,CAD,43.708010,-0.236858
 320270297B-6,6,Chemin de Mauvin,32720,Barcelonne-du-Gers,CAD,43.708049,-0.236733
-320270300E-10,10,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701822,-0.236638
-320270300E-11,11,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701670,-0.236339
-320270300E-1,1,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.702027,-0.234094
-320270300E-2,2,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.702478,-0.234120
-320270300E-3,3,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701817,-0.234215
-320270300E-4,4,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701615,-0.235101
-320270300E-5,5,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701532,-0.234265
-320270300E-7,7,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701375,-0.234162
-320270300E-8,8,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701801,-0.236507
-320270300E-9,9,Boulevard du Midi,32720,Barcelonne-du-Gers,CAD,43.701443,-0.234594
+320270300E-10,10,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701822,-0.236638
+320270300E-11,11,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701670,-0.236339
+320270300E-1,1,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.702027,-0.234094
+320270300E-2,2,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.702478,-0.234120
+320270300E-3,3,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701817,-0.234215
+320270300E-4,4,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701615,-0.235101
+320270300E-5,5,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701532,-0.234265
+320270300E-7,7,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701375,-0.234162
+320270300E-8,8,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701801,-0.236507
+320270300E-9,9,Boulevard du Midi,32720,Barcelonne-du-Gers,C+O,43.701443,-0.234594
 320270305K-1,1,Chemin des Moncaux,32720,Barcelonne-du-Gers,CAD,43.703029,-0.242210
 320270305K-3,3,Chemin des Moncaux,32720,Barcelonne-du-Gers,CAD,43.703164,-0.242813
 320270305K-5,5,Chemin des Moncaux,32720,Barcelonne-du-Gers,CAD,43.703244,-0.243165
-320270340Y-1,1,Boulevard du Nord,32720,Barcelonne-du-Gers,CAD,43.703256,-0.234410
-320270340Y-2,2,Boulevard du Nord,32720,Barcelonne-du-Gers,CAD,43.703469,-0.233778
-320270340Y-3,3,Boulevard du Nord,32720,Barcelonne-du-Gers,CAD,43.703662,-0.233984
-320270360V-10,10,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703843,-0.238360
-320270360V-1,1,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703584,-0.237462
-320270360V-14,14,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703915,-0.239874
-320270360V-14A,14A,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.704891,-0.239353
-320270360V-16,16,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703919,-0.240102
-320270360V-18,18,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703909,-0.240268
-320270360V-3,3,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703735,-0.238234
-320270360V-3A,3A,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703742,-0.238380
-320270360V-8,8,Rue Notre Dame,32720,Barcelonne-du-Gers,CAD,43.703840,-0.238284
+320270340Y-1,1,Boulevard du Nord,32720,Barcelonne-du-Gers,C+O,43.703256,-0.234410
+320270340Y-2,2,Boulevard du Nord,32720,Barcelonne-du-Gers,C+O,43.703469,-0.233778
+320270340Y-3,3,Boulevard du Nord,32720,Barcelonne-du-Gers,C+O,43.703662,-0.233984
+320270360V-10,10,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703843,-0.238360
+320270360V-1,1,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703584,-0.237462
+320270360V-14,14,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703915,-0.239874
+320270360V-14A,14A,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.704891,-0.239353
+320270360V-16,16,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703919,-0.240102
+320270360V-18,18,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703909,-0.240268
+320270360V-3,3,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703735,-0.238234
+320270360V-3A,3A,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703742,-0.238380
+320270360V-8,8,Rue Notre Dame,32720,Barcelonne-du-Gers,C+O,43.703840,-0.238284
 320270371G-1,1,Rue Nouvelle,32720,Barcelonne-du-Gers,CAD,43.702422,-0.232251
 320270371G-2,2,Rue Nouvelle,32720,Barcelonne-du-Gers,CAD,43.702560,-0.232012
 320270371G-3,3,Rue Nouvelle,32720,Barcelonne-du-Gers,CAD,43.702611,-0.232150
@@ -7487,38 +7487,38 @@
 320270380S-7,7,Rue des Pénitents,32720,Barcelonne-du-Gers,C+O,43.702647,-0.235830
 320270380S-8,8,Rue des Pénitents,32720,Barcelonne-du-Gers,C+O,43.702424,-0.235245
 320270380S-9,9,Rue des Pénitents,32720,Barcelonne-du-Gers,C+O,43.702475,-0.235159
-320270420K-10,10,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.699586,-0.237992
-320270420K-11,11,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.699351,-0.237962
-320270420K-1,1,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.701583,-0.237039
-320270420K-12,12,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.699505,-0.238028
-320270420K-14,14,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698985,-0.238279
-320270420K-15,15,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.699030,-0.238113
-320270420K-16,16,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698847,-0.238336
-320270420K-17,17,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698920,-0.238163
-320270420K-18,18,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698612,-0.238443
-320270420K-19,19,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698716,-0.238257
-320270420K-20,20,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698353,-0.238560
-320270420K-21,21,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698487,-0.238364
-320270420K-2,2,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.700804,-0.237431
-320270420K-23,23,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698251,-0.238469
-320270420K-27,27,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.698029,-0.238568
-320270420K-29,29,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.697956,-0.238600
-320270420K-31,31,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.697455,-0.238830
-320270420K-32,32,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.695443,-0.239914
-320270420K-3,3,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.701233,-0.237089
-320270420K-35,35,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.696510,-0.239287
-320270420K-37,37,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.696043,-0.239505
-320270420K-43,43,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.691340,-0.241332
-320270420K-46,46,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.689056,-0.242839
-320270420K-49,49,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.689863,-0.242338
-320270420K-51,51,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.689380,-0.242558
-320270420K-53,53,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.689180,-0.242648
-320270420K-55,55,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.688897,-0.242776
-320270420K-5,5,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.700415,-0.237466
-320270420K-6,6,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.700247,-0.237693
-320270420K-7,7,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.699630,-0.237831
-320270420K-8,8,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.700091,-0.237990
-320270420K-9,9,Route du Pont,32720,Barcelonne-du-Gers,CAD,43.699420,-0.237930
+320270420K-10,10,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.699586,-0.237992
+320270420K-11,11,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.699351,-0.237962
+320270420K-1,1,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.701583,-0.237039
+320270420K-12,12,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.699505,-0.238028
+320270420K-14,14,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698985,-0.238279
+320270420K-15,15,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.699030,-0.238113
+320270420K-16,16,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698847,-0.238336
+320270420K-17,17,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698920,-0.238163
+320270420K-18,18,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698612,-0.238443
+320270420K-19,19,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698716,-0.238257
+320270420K-20,20,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698353,-0.238560
+320270420K-21,21,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698487,-0.238364
+320270420K-2,2,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.700804,-0.237431
+320270420K-23,23,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698251,-0.238469
+320270420K-27,27,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.698029,-0.238568
+320270420K-29,29,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.697956,-0.238600
+320270420K-31,31,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.697455,-0.238830
+320270420K-32,32,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.695443,-0.239914
+320270420K-3,3,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.701233,-0.237089
+320270420K-35,35,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.696510,-0.239287
+320270420K-37,37,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.696043,-0.239505
+320270420K-43,43,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.691340,-0.241332
+320270420K-46,46,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.689056,-0.242839
+320270420K-49,49,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.689863,-0.242338
+320270420K-51,51,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.689380,-0.242558
+320270420K-53,53,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.689180,-0.242648
+320270420K-55,55,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.688897,-0.242776
+320270420K-5,5,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.700415,-0.237466
+320270420K-6,6,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.700247,-0.237693
+320270420K-7,7,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.699630,-0.237831
+320270420K-8,8,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.700091,-0.237990
+320270420K-9,9,Route du Pont,32720,Barcelonne-du-Gers,C+O,43.699420,-0.237930
 320270430W-10,10,Rue Jacques Prévert,32720,Barcelonne-du-Gers,CAD,43.703890,-0.230313
 320270430W-11,11,Rue Jacques Prévert,32720,Barcelonne-du-Gers,CAD,43.704238,-0.229570
 320270430W-1,1,Rue Jacques Prévert,32720,Barcelonne-du-Gers,CAD,43.704478,-0.231032
@@ -7535,26 +7535,26 @@
 320270430W-7,7,Rue Jacques Prévert,32720,Barcelonne-du-Gers,CAD,43.704296,-0.230041
 320270430W-8,8,Rue Jacques Prévert,32720,Barcelonne-du-Gers,CAD,43.703769,-0.230446
 320270430W-9,9,Rue Jacques Prévert,32720,Barcelonne-du-Gers,CAD,43.704264,-0.229849
-320270460D-10,10,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703115,-0.235608
-320270460D-12,12,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703097,-0.235538
-320270460D-16,16,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703036,-0.235302
-320270460D-18,18,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703021,-0.235244
-320270460D-20,20,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703000,-0.235165
-320270460D-22,22,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702978,-0.235083
-320270460D-2,2,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703227,-0.236047
-320270460D-24,24,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702950,-0.234974
-320270460D-26,26,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702927,-0.234889
-320270460D-28,28,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702908,-0.234817
-320270460D-30,30,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702831,-0.234524
-320270460D-32,32,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702561,-0.233535
-320270460D-3,3,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703028,-0.234960
-320270460D-34,34,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702498,-0.233317
-320270460D-36,36,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702436,-0.233099
-320270460D-38,38,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702259,-0.232462
-320270460D-4,4,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703174,-0.235842
-320270460D-5,5,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.702913,-0.234506
-320270460D-6,6,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703157,-0.235771
-320270460D-8,8,Rue des Pyrénées,32720,Barcelonne-du-Gers,CAD,43.703136,-0.235688
+320270460D-10,10,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703115,-0.235608
+320270460D-12,12,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703097,-0.235538
+320270460D-16,16,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703036,-0.235302
+320270460D-18,18,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703021,-0.235244
+320270460D-20,20,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703000,-0.235165
+320270460D-22,22,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702978,-0.235083
+320270460D-2,2,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703227,-0.236047
+320270460D-24,24,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702950,-0.234974
+320270460D-26,26,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702927,-0.234889
+320270460D-28,28,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702908,-0.234817
+320270460D-30,30,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702831,-0.234524
+320270460D-32,32,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702561,-0.233535
+320270460D-3,3,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703028,-0.234960
+320270460D-34,34,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702498,-0.233317
+320270460D-36,36,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702436,-0.233099
+320270460D-38,38,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702259,-0.232462
+320270460D-4,4,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703174,-0.235842
+320270460D-5,5,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.702913,-0.234506
+320270460D-6,6,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703157,-0.235771
+320270460D-8,8,Rue des Pyrénées,32720,Barcelonne-du-Gers,C+O,43.703136,-0.235688
 320270480A-1,1,Rue des Remparts,32720,Barcelonne-du-Gers,CAD,43.704774,-0.235935
 320270480A-2,2,Rue des Remparts,32720,Barcelonne-du-Gers,CAD,43.705051,-0.235843
 320270480A-3,3,Rue des Remparts,32720,Barcelonne-du-Gers,CAD,43.704879,-0.236400
@@ -7564,15 +7564,15 @@
 320270540R-1,1,Chemin de Sabastian,32720,Barcelonne-du-Gers,CAD,43.701020,-0.237816
 320270540R-4,4,Chemin de Sabastian,32720,Barcelonne-du-Gers,CAD,43.701096,-0.237806
 320270540R-6,6,Chemin de Sabastian,32720,Barcelonne-du-Gers,CAD,43.701152,-0.238028
-320270560M-11,11,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.703967,-0.236355
-320270560M-1,1,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.703729,-0.237257
-320270560M-13,13,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.703924,-0.236181
-320270560M-2,2,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.703663,-0.237220
-320270560M-3,3,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.703818,-0.237218
-320270560M-4,4,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.703881,-0.237135
-320270560M-5,5,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.703874,-0.237193
-320270560M-7,7,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.704145,-0.237062
-320270560M-9,9,Rue Saint-Jean,32720,Barcelonne-du-Gers,CAD,43.704073,-0.236781
+320270560M-11,11,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.703967,-0.236355
+320270560M-1,1,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.703729,-0.237257
+320270560M-13,13,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.703924,-0.236181
+320270560M-2,2,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.703663,-0.237220
+320270560M-3,3,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.703818,-0.237218
+320270560M-4,4,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.703881,-0.237135
+320270560M-5,5,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.703874,-0.237193
+320270560M-7,7,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.704145,-0.237062
+320270560M-9,9,Rue Saint-Jean,32720,Barcelonne-du-Gers,C+O,43.704073,-0.236781
 320270580J-3,3,Rue de Sarraguillot,32720,Barcelonne-du-Gers,CAD,43.703365,-0.234524
 320270590V-10,10,Route de Tarbes,32720,Barcelonne-du-Gers,CAD,43.701096,-0.228430
 320270590V-1,1,Route de Tarbes,32720,Barcelonne-du-Gers,CAD,43.701573,-0.229520
@@ -7619,36 +7619,36 @@
 320270590V-79,79,Route de Tarbes,32720,Barcelonne-du-Gers,CAD,43.682812,-0.157912
 320270590V-8,8,Route de Tarbes,32720,Barcelonne-du-Gers,CAD,43.701200,-0.228808
 320270590V-9,9,Route de Tarbes,32720,Barcelonne-du-Gers,CAD,43.700990,-0.227409
-320270591W-10,10,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.705938,-0.234661
-320270591W-11,11,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.705510,-0.235268
-320270591W-1,1,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.704519,-0.235736
-320270591W-12,12,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.706367,-0.233737
-320270591W-13,13,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.706197,-0.234414
-320270591W-20,20,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.707218,-0.231748
-320270591W-21,21,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.706863,-0.232941
-320270591W-22,22,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.707667,-0.230712
-320270591W-2,2,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.704485,-0.235570
-320270591W-23,23,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.707216,-0.232144
-320270591W-25,25,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.707232,-0.232097
-320270591W-27,27,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.707763,-0.230904
-320270591W-29,29,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.708087,-0.230168
-320270591W-30,30,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.710025,-0.225366
-320270591W-31,31,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.708371,-0.229516
-320270591W-32,32,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.711202,-0.222669
-320270591W-3,3,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.704662,-0.235640
-320270591W-40,40,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.714622,-0.212838
-320270591W-41,41,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.711744,-0.221793
-320270591W-42,42,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.714576,-0.211631
-320270591W-43,43,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.711996,-0.221214
-320270591W-44,44,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.714598,-0.210780
-320270591W-4,4,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.704662,-0.235517
-320270591W-45,45,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.712291,-0.220548
-320270591W-47,47,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.712562,-0.219927
-320270591W-5,5,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.704886,-0.235534
-320270591W-6,6,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.704834,-0.235406
-320270591W-7,7,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.705045,-0.235462
-320270591W-8,8,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.704942,-0.235350
-320270591W-9,9,Route de Toulouse,32720,Barcelonne-du-Gers,CAD,43.705216,-0.235382
+320270591W-10,10,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.705938,-0.234661
+320270591W-11,11,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.705510,-0.235268
+320270591W-1,1,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.704519,-0.235736
+320270591W-12,12,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.706367,-0.233737
+320270591W-13,13,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.706197,-0.234414
+320270591W-20,20,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.707218,-0.231748
+320270591W-21,21,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.706863,-0.232941
+320270591W-22,22,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.707667,-0.230712
+320270591W-2,2,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.704485,-0.235570
+320270591W-23,23,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.707216,-0.232144
+320270591W-25,25,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.707232,-0.232097
+320270591W-27,27,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.707763,-0.230904
+320270591W-29,29,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.708087,-0.230168
+320270591W-30,30,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.710025,-0.225366
+320270591W-31,31,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.708371,-0.229516
+320270591W-32,32,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.711202,-0.222669
+320270591W-3,3,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.704662,-0.235640
+320270591W-40,40,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.714622,-0.212838
+320270591W-41,41,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.711744,-0.221793
+320270591W-42,42,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.714576,-0.211631
+320270591W-43,43,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.711996,-0.221214
+320270591W-44,44,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.714598,-0.210780
+320270591W-4,4,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.704662,-0.235517
+320270591W-45,45,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.712291,-0.220548
+320270591W-47,47,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.712562,-0.219927
+320270591W-5,5,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.704886,-0.235534
+320270591W-6,6,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.704834,-0.235406
+320270591W-7,7,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.705045,-0.235462
+320270591W-8,8,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.704942,-0.235350
+320270591W-9,9,Route de Toulouse,32720,Barcelonne-du-Gers,C+O,43.705216,-0.235382
 320270595A-10,10,Chemin du Houga,32720,Barcelonne-du-Gers,CAD,43.708214,-0.235041
 320270595A-11,11,Chemin du Houga,32720,Barcelonne-du-Gers,CAD,43.708235,-0.235097
 320270595A-1,1,Chemin du Houga,32720,Barcelonne-du-Gers,CAD,43.707136,-0.235753
@@ -10370,39 +10370,39 @@
 321071070U-2,2,Square Salvandy,32100,Condom,CAD,43.955389,0.373491
 321071070U-3,3,Square Salvandy,32100,Condom,CAD,43.955349,0.373466
 321071070U-4,4,Square Salvandy,32100,Condom,CAD,43.955215,0.373382
-321071085K-10,10,Rue de la Selisse,32100,Condom,C+O,43.961370,0.360843
-321071085K-11,11,Rue de la Selisse,32100,Condom,C+O,43.962423,0.359342
-321071085K-1,1,Rue de la Selisse,32100,Condom,C+O,43.961517,0.359045
-321071085K-12,12,Rue de la Selisse,32100,Condom,C+O,43.961358,0.360754
-321071085K-13,13,Rue de la Selisse,32100,Condom,C+O,43.962533,0.359114
-321071085K-14,14,Rue de la Selisse,32100,Condom,C+O,43.961312,0.360416
-321071085K-15,15,Rue de la Selisse,32100,Condom,C+O,43.962805,0.358787
-321071085K-16,16,Rue de la Selisse,32100,Condom,C+O,43.961298,0.360307
-321071085K-18,18,Rue de la Selisse,32100,Condom,C+O,43.961259,0.360009
-321071085K-20,20,Rue de la Selisse,32100,Condom,C+O,43.961231,0.359791
-321071085K-22,22,Rue de la Selisse,32100,Condom,C+O,43.961251,0.359216
-321071085K-24,24,Rue de la Selisse,32100,Condom,C+O,43.961271,0.359052
-321071085K-26,26,Rue de la Selisse,32100,Condom,C+O,43.961254,0.358873
-321071085K-28,28,Rue de la Selisse,32100,Condom,C+O,43.961270,0.358725
-321071085K-30,30,Rue de la Selisse,32100,Condom,C+O,43.961415,0.358743
-321071085K-32,32,Rue de la Selisse,32100,Condom,C+O,43.961575,0.358583
-321071085K-3,3,Rue de la Selisse,32100,Condom,C+O,43.961750,0.359000
-321071085K-34,34,Rue de la Selisse,32100,Condom,C+O,43.961884,0.358835
-321071085K-36,36,Rue de la Selisse,32100,Condom,C+O,43.962046,0.358583
-321071085K-40,40,Rue de la Selisse,32100,Condom,C+O,43.962125,0.358598
-321071085K-42,42,Rue de la Selisse,32100,Condom,C+O,43.961980,0.358816
-321071085K-44,44,Rue de la Selisse,32100,Condom,C+O,43.962436,0.359107
-321071085K-4,4,Rue de la Selisse,32100,Condom,C+O,43.961470,0.361600
-321071085K-46,46,Rue de la Selisse,32100,Condom,C+O,43.962585,0.358833
-321071085K-48,48,Rue de la Selisse,32100,Condom,C+O,43.962576,0.358607
-321071085K-50,50,Rue de la Selisse,32100,Condom,C+O,43.962674,0.358583
-321071085K-52,52,Rue de la Selisse,32100,Condom,C+O,43.962874,0.358627
-321071085K-54,54,Rue de la Selisse,32100,Condom,C+O,43.963006,0.358655
-321071085K-5,5,Rue de la Selisse,32100,Condom,C+O,43.961903,0.359079
-321071085K-6,6,Rue de la Selisse,32100,Condom,C+O,43.961427,0.361278
-321071085K-7,7,Rue de la Selisse,32100,Condom,C+O,43.962092,0.359177
-321071085K-8,8,Rue de la Selisse,32100,Condom,C+O,43.961415,0.361185
-321071085K-9,9,Rue de la Selisse,32100,Condom,C+O,43.962249,0.359259
+321071085K-10,10,Rue de la Sélisse,32100,Condom,C+O,43.961370,0.360843
+321071085K-11,11,Rue de la Sélisse,32100,Condom,C+O,43.962423,0.359342
+321071085K-1,1,Rue de la Sélisse,32100,Condom,C+O,43.961517,0.359045
+321071085K-12,12,Rue de la Sélisse,32100,Condom,C+O,43.961358,0.360754
+321071085K-13,13,Rue de la Sélisse,32100,Condom,C+O,43.962533,0.359114
+321071085K-14,14,Rue de la Sélisse,32100,Condom,C+O,43.961312,0.360416
+321071085K-15,15,Rue de la Sélisse,32100,Condom,C+O,43.962805,0.358787
+321071085K-16,16,Rue de la Sélisse,32100,Condom,C+O,43.961298,0.360307
+321071085K-18,18,Rue de la Sélisse,32100,Condom,C+O,43.961259,0.360009
+321071085K-20,20,Rue de la Sélisse,32100,Condom,C+O,43.961231,0.359791
+321071085K-22,22,Rue de la Sélisse,32100,Condom,C+O,43.961251,0.359216
+321071085K-24,24,Rue de la Sélisse,32100,Condom,C+O,43.961271,0.359052
+321071085K-26,26,Rue de la Sélisse,32100,Condom,C+O,43.961254,0.358873
+321071085K-28,28,Rue de la Sélisse,32100,Condom,C+O,43.961270,0.358725
+321071085K-30,30,Rue de la Sélisse,32100,Condom,C+O,43.961415,0.358743
+321071085K-32,32,Rue de la Sélisse,32100,Condom,C+O,43.961575,0.358583
+321071085K-3,3,Rue de la Sélisse,32100,Condom,C+O,43.961750,0.359000
+321071085K-34,34,Rue de la Sélisse,32100,Condom,C+O,43.961884,0.358835
+321071085K-36,36,Rue de la Sélisse,32100,Condom,C+O,43.962046,0.358583
+321071085K-40,40,Rue de la Sélisse,32100,Condom,C+O,43.962125,0.358598
+321071085K-42,42,Rue de la Sélisse,32100,Condom,C+O,43.961980,0.358816
+321071085K-44,44,Rue de la Sélisse,32100,Condom,C+O,43.962436,0.359107
+321071085K-4,4,Rue de la Sélisse,32100,Condom,C+O,43.961470,0.361600
+321071085K-46,46,Rue de la Sélisse,32100,Condom,C+O,43.962585,0.358833
+321071085K-48,48,Rue de la Sélisse,32100,Condom,C+O,43.962576,0.358607
+321071085K-50,50,Rue de la Sélisse,32100,Condom,C+O,43.962674,0.358583
+321071085K-52,52,Rue de la Sélisse,32100,Condom,C+O,43.962874,0.358627
+321071085K-54,54,Rue de la Sélisse,32100,Condom,C+O,43.963006,0.358655
+321071085K-5,5,Rue de la Sélisse,32100,Condom,C+O,43.961903,0.359079
+321071085K-6,6,Rue de la Sélisse,32100,Condom,C+O,43.961427,0.361278
+321071085K-7,7,Rue de la Sélisse,32100,Condom,C+O,43.962092,0.359177
+321071085K-8,8,Rue de la Sélisse,32100,Condom,C+O,43.961415,0.361185
+321071085K-9,9,Rue de la Sélisse,32100,Condom,C+O,43.962249,0.359259
 321071090R-2,2,Rue de Sénechal,32100,Condom,C+O,43.958138,0.370753
 321071100B-10,10,Rue de la Tonnellerie,32100,Condom,C+O,43.958422,0.369898
 321071100B-1,1,Rue de la Tonnellerie,32100,Condom,C+O,43.958611,0.370023
@@ -30575,13 +30575,13 @@
 324240022B-1243,1243,Chemin de Mancin,32400,Ségos,CAD,43.629035,-0.269213
 324240023C-2005,2005,Chemin de Métas,32400,Ségos,CAD,43.628628,-0.276843
 324240023C-2056,2056,Chemin de Métas,32400,Ségos,CAD,43.628643,-0.277240
-324240024D-1500,1500,Routé de Pau,32400,Ségos,CAD,43.629701,-0.271890
-324240024D-1523,1523,Routé de Pau,32400,Ségos,CAD,43.631430,-0.271600
-324240024D-1526,1526,Routé de Pau,32400,Ségos,CAD,43.629256,-0.271698
-324240024D-1555,1555,Routé de Pau,32400,Ségos,CAD,43.629127,-0.271915
-324240024D-1599,1599,Routé de Pau,32400,Ségos,CAD,43.628582,-0.271942
-324240024D-1665,1665,Routé de Pau,32400,Ségos,CAD,43.632354,-0.271750
-324240024D-2146,2146,Routé de Pau,32400,Ségos,CAD,43.623837,-0.271945
+324240024D-1500,1500,Route de Pau,32400,Ségos,C+O,43.629701,-0.271890
+324240024D-1523,1523,Route de Pau,32400,Ségos,C+O,43.631430,-0.271600
+324240024D-1526,1526,Route de Pau,32400,Ségos,C+O,43.629256,-0.271698
+324240024D-1555,1555,Route de Pau,32400,Ségos,C+O,43.629127,-0.271915
+324240024D-1599,1599,Route de Pau,32400,Ségos,C+O,43.628582,-0.271942
+324240024D-1665,1665,Route de Pau,32400,Ségos,C+O,43.632354,-0.271750
+324240024D-2146,2146,Route de Pau,32400,Ségos,C+O,43.623837,-0.271945
 324240025E-855,855,Chemin de Pin,32400,Ségos,CAD,43.620160,-0.254952
 324240025E-887,887,Chemin de Pin,32400,Ségos,CAD,43.620100,-0.254530
 324240026F-1282,1282,Chemin de Pitchole,32400,Ségos,CAD,43.634917,-0.253753
@@ -32143,142 +32143,142 @@
 324600012J-2,2,Chemin de Mombet,32720,Vergoignan,CAD,43.730189,-0.174788
 324600012J-4,4,Chemin de Mombet,32720,Vergoignan,CAD,43.731738,-0.175729
 324600012J-6,6,Chemin de Mombet,32720,Vergoignan,CAD,43.732852,-0.176167
-324600013K-1,1,Chemin de Luzen,32720,Vergoignan,CAD,43.718786,-0.174363
-324600013K-2,2,Chemin de Luzen,32720,Vergoignan,CAD,43.722711,-0.188259
-324600013K-4,4,Chemin de Luzen,32720,Vergoignan,CAD,43.723086,-0.181505
-324600013K-6,6,Chemin de Luzen,32720,Vergoignan,CAD,43.719095,-0.174765
-324600014L-1,1,Chemin de Berduc,32720,Vergoignan,CAD,43.719252,-0.185718
-324600014L-2,2,Chemin de Berduc,32720,Vergoignan,CAD,43.721330,-0.190269
-324600014L-4,4,Chemin de Berduc,32720,Vergoignan,CAD,43.720343,-0.188382
-324600014L-6,6,Chemin de Berduc,32720,Vergoignan,CAD,43.720013,-0.187608
-324600015M-1,1,Chemin du Bois,32720,Vergoignan,CAD,43.723082,-0.188218
-324600015M-3,3,Chemin du Bois,32720,Vergoignan,CAD,43.723188,-0.188274
-324600015M-4,4,Chemin du Bois,32720,Vergoignan,CAD,43.724190,-0.188103
-324600015M-5,5,Chemin du Bois,32720,Vergoignan,CAD,43.723444,-0.188344
-324600015M-6,6,Chemin du Bois,32720,Vergoignan,CAD,43.724500,-0.188138
-324600015M-7,7,Chemin du Bois,32720,Vergoignan,CAD,43.724046,-0.188220
-324600015M-8,8,Chemin du Bois,32720,Vergoignan,CAD,43.724859,-0.188191
-324600015M-9,9,Chemin du Bois,32720,Vergoignan,CAD,43.726882,-0.188510
-324600016N-1,1,Route d'Arblade,32720,Vergoignan,CAD,43.716695,-0.198206
-324600016N-2,2,Route d'Arblade,32720,Vergoignan,CAD,43.716874,-0.198511
-324600016N-3,3,Route d'Arblade,32720,Vergoignan,CAD,43.716308,-0.197854
-324600016N-4,4,Route d'Arblade,32720,Vergoignan,CAD,43.716315,-0.197960
-324600016N-6,6,Route d'Arblade,32720,Vergoignan,CAD,43.716003,-0.198024
-324600016N-7B,7BIS,Route d'Arblade,32720,Vergoignan,CAD,43.716454,-0.197375
-324600016N-8,8,Route d'Arblade,32720,Vergoignan,CAD,43.716022,-0.195971
+324600013K-1,1,Chemin de Luzen,32720,Vergoignan,C+O,43.718786,-0.174363
+324600013K-2,2,Chemin de Luzen,32720,Vergoignan,C+O,43.722711,-0.188259
+324600013K-4,4,Chemin de Luzen,32720,Vergoignan,C+O,43.723086,-0.181505
+324600013K-6,6,Chemin de Luzen,32720,Vergoignan,C+O,43.719095,-0.174765
+324600014L-1,1,Chemin de Berduc,32720,Vergoignan,C+O,43.719252,-0.185718
+324600014L-2,2,Chemin de Berduc,32720,Vergoignan,C+O,43.721330,-0.190269
+324600014L-4,4,Chemin de Berduc,32720,Vergoignan,C+O,43.720343,-0.188382
+324600014L-6,6,Chemin de Berduc,32720,Vergoignan,C+O,43.720013,-0.187608
+324600015M-1,1,Chemin du Bois,32720,Vergoignan,C+O,43.723082,-0.188218
+324600015M-3,3,Chemin du Bois,32720,Vergoignan,C+O,43.723188,-0.188274
+324600015M-4,4,Chemin du Bois,32720,Vergoignan,C+O,43.724190,-0.188103
+324600015M-5,5,Chemin du Bois,32720,Vergoignan,C+O,43.723444,-0.188344
+324600015M-6,6,Chemin du Bois,32720,Vergoignan,C+O,43.724500,-0.188138
+324600015M-7,7,Chemin du Bois,32720,Vergoignan,C+O,43.724046,-0.188220
+324600015M-8,8,Chemin du Bois,32720,Vergoignan,C+O,43.724859,-0.188191
+324600015M-9,9,Chemin du Bois,32720,Vergoignan,C+O,43.726882,-0.188510
+324600016N-1,1,Route d'Arblade,32720,Vergoignan,C+O,43.716695,-0.198206
+324600016N-2,2,Route d'Arblade,32720,Vergoignan,C+O,43.716874,-0.198511
+324600016N-3,3,Route d'Arblade,32720,Vergoignan,C+O,43.716308,-0.197854
+324600016N-4,4,Route d'Arblade,32720,Vergoignan,C+O,43.716315,-0.197960
+324600016N-6,6,Route d'Arblade,32720,Vergoignan,C+O,43.716003,-0.198024
+324600016N-7B,7BIS,Route d'Arblade,32720,Vergoignan,C+O,43.716454,-0.197375
+324600016N-8,8,Route d'Arblade,32720,Vergoignan,C+O,43.716022,-0.195971
 324600017P-2,2,Chemin de Moulère,32720,Vergoignan,CAD,43.715451,-0.197869
 324600017P-4,4,Chemin de Moulère,32720,Vergoignan,CAD,43.714537,-0.198614
 324600017P-6,6,Chemin de Moulère,32720,Vergoignan,CAD,43.711319,-0.201298
-324600018R-10,10,Chemin de Manauton,32720,Vergoignan,CAD,43.715509,-0.200149
-324600018R-11,11,Chemin de Manauton,32720,Vergoignan,CAD,43.715289,-0.201305
-324600018R-12,12,Chemin de Manauton,32720,Vergoignan,CAD,43.715392,-0.200486
-324600018R-13,13,Chemin de Manauton,32720,Vergoignan,CAD,43.715292,-0.201520
-324600018R-14,14,Chemin de Manauton,32720,Vergoignan,CAD,43.715342,-0.200952
-324600018R-15,15,Chemin de Manauton,32720,Vergoignan,CAD,43.715274,-0.201978
-324600018R-16,16,Chemin de Manauton,32720,Vergoignan,CAD,43.715343,-0.201650
-324600018R-17,17,Chemin de Manauton,32720,Vergoignan,CAD,43.715256,-0.202363
-324600018R-18,18,Chemin de Manauton,32720,Vergoignan,CAD,43.715348,-0.201975
-324600018R-19,19,Chemin de Manauton,32720,Vergoignan,CAD,43.715252,-0.202579
-324600018R-20,20,Chemin de Manauton,32720,Vergoignan,CAD,43.715351,-0.202248
-324600018R-21,21,Chemin de Manauton,32720,Vergoignan,CAD,43.715490,-0.203006
-324600018R-22,22,Chemin de Manauton,32720,Vergoignan,CAD,43.715469,-0.202755
-324600018R-2,2,Chemin de Manauton,32720,Vergoignan,CAD,43.715694,-0.198889
-324600018R-23,23,Chemin de Manauton,32720,Vergoignan,CAD,43.715501,-0.203447
-324600018R-24,24,Chemin de Manauton,32720,Vergoignan,CAD,43.715592,-0.203299
-324600018R-25,25,Chemin de Manauton,32720,Vergoignan,CAD,43.715435,-0.203742
-324600018R-26,26,Chemin de Manauton,32720,Vergoignan,CAD,43.715537,-0.203849
-324600018R-3,3,Chemin de Manauton,32720,Vergoignan,CAD,43.715561,-0.199170
-324600018R-4,4,Chemin de Manauton,32720,Vergoignan,CAD,43.715652,-0.199260
-324600018R-5,5,Chemin de Manauton,32720,Vergoignan,CAD,43.715525,-0.199478
-324600018R-6,6,Chemin de Manauton,32720,Vergoignan,CAD,43.715603,-0.199626
-324600018R-7,7,Chemin de Manauton,32720,Vergoignan,CAD,43.715500,-0.199670
-324600018R-8,8,Chemin de Manauton,32720,Vergoignan,CAD,43.715556,-0.200007
-324600018R-9,9,Chemin de Manauton,32720,Vergoignan,CAD,43.715380,-0.200268
-324600019S-10,10,Route de Barcelonne,32720,Vergoignan,CAD,43.715825,-0.204686
-324600019S-1,1,Route de Barcelonne,32720,Vergoignan,CAD,43.715767,-0.204296
-324600019S-12,12,Route de Barcelonne,32720,Vergoignan,CAD,43.715295,-0.207023
-324600019S-2,2,Route de Barcelonne,32720,Vergoignan,CAD,43.716240,-0.202797
-324600019S-3,3,Route de Barcelonne,32720,Vergoignan,CAD,43.715732,-0.204493
-324600019S-4,4,Route de Barcelonne,32720,Vergoignan,CAD,43.716088,-0.203509
-324600019S-5,5,Route de Barcelonne,32720,Vergoignan,CAD,43.715636,-0.204969
-324600019S-6,6,Route de Barcelonne,32720,Vergoignan,CAD,43.715916,-0.204162
-324600019S-8,8,Route de Barcelonne,32720,Vergoignan,CAD,43.715858,-0.204431
-324600020T-1,1,Chemin de Lahitte,32720,Vergoignan,CAD,43.718299,-0.213925
-324600020T-2,2,Chemin de Lahitte,32720,Vergoignan,CAD,43.717908,-0.214186
-324600021U-1,1,Chemin de Laffitte,32720,Vergoignan,CAD,43.718298,-0.218778
-324600021U-2,2,Chemin de Laffitte,32720,Vergoignan,CAD,43.718159,-0.216746
-324600021U-4,4,Chemin de Laffitte,32720,Vergoignan,CAD,43.718224,-0.217794
-324600022V-1,1,Chemin de Lasburthes,32720,Vergoignan,CAD,43.722240,-0.190188
-324600022V-2,2,Chemin de Lasburthes,32720,Vergoignan,CAD,43.722314,-0.189667
-324600022V-3,3,Chemin de Lasburthes,32720,Vergoignan,CAD,43.722306,-0.190659
-324600022V-4,4,Chemin de Lasburthes,32720,Vergoignan,CAD,43.722319,-0.190258
-324600022V-5,5,Chemin de Lasburthes,32720,Vergoignan,CAD,43.722384,-0.190990
-324600022V-6,6,Chemin de Lasburthes,32720,Vergoignan,CAD,43.722598,-0.191109
-324600022V-7,7,Chemin de Lasburthes,32720,Vergoignan,CAD,43.722651,-0.191168
-324600023W-10,10,Chemin du Village,32720,Vergoignan,CAD,43.717792,-0.196290
-324600023W-1,1,Chemin du Village,32720,Vergoignan,CAD,43.717666,-0.197433
-324600023W-12,12,Chemin du Village,32720,Vergoignan,CAD,43.717792,-0.196216
-324600023W-2,2,Chemin du Village,32720,Vergoignan,CAD,43.717520,-0.197749
-324600023W-3,3,Chemin du Village,32720,Vergoignan,CAD,43.717781,-0.196775
-324600023W-4,4,Chemin du Village,32720,Vergoignan,CAD,43.717594,-0.197538
-324600023W-6,6,Chemin du Village,32720,Vergoignan,CAD,43.717701,-0.197093
-324600023W-8,8,Chemin du Village,32720,Vergoignan,CAD,43.717731,-0.196712
-324600024X-1,1,Allée de l'Eglise,32720,Vergoignan,CAD,43.718696,-0.197513
-324600024X-2,2,Allée de l'Eglise,32720,Vergoignan,CAD,43.718662,-0.197913
-324600024X-3,3,Allée de l'Eglise,32720,Vergoignan,CAD,43.718747,-0.197165
-324600024X-4,4,Allée de l'Eglise,32720,Vergoignan,CAD,43.718666,-0.197768
-324600024X-5,5,Allée de l'Eglise,32720,Vergoignan,CAD,43.718579,-0.196630
-324600025Y-10,10,Route de Nogaro,32720,Vergoignan,CAD,43.728788,-0.175999
-324600025Y-11,11,Route de Nogaro,32720,Vergoignan,CAD,43.733052,-0.160128
-324600025Y-1,1,Route de Nogaro,32720,Vergoignan,CAD,43.717395,-0.197444
-324600025Y-12,12,Route de Nogaro,32720,Vergoignan,CAD,43.731333,-0.166712
-324600025Y-14,14,Route de Nogaro,32720,Vergoignan,CAD,43.733112,-0.159583
-324600025Y-16,16,Route de Nogaro,32720,Vergoignan,CAD,43.733383,-0.159128
-324600025Y-18,18,Route de Nogaro,32720,Vergoignan,CAD,43.733655,-0.158670
-324600025Y-2,2,Route de Nogaro,32720,Vergoignan,CAD,43.720776,-0.204172
-324600025Y-2B,2BIS,Route de Nogaro,32720,Vergoignan,CAD,43.719857,-0.206744
-324600025Y-3,3,Route de Nogaro,32720,Vergoignan,CAD,43.717616,-0.196467
-324600025Y-4,4,Route de Nogaro,32720,Vergoignan,CAD,43.721750,-0.189962
-324600025Y-5,5,Route de Nogaro,32720,Vergoignan,CAD,43.717654,-0.196310
-324600025Y-6,6,Route de Nogaro,32720,Vergoignan,CAD,43.725493,-0.182698
-324600025Y-7,7,Route de Nogaro,32720,Vergoignan,CAD,43.718085,-0.195697
-324600025Y-8,8,Route de Nogaro,32720,Vergoignan,CAD,43.727349,-0.178880
-324600025Y-8B,8BIS,Route de Nogaro,32720,Vergoignan,CAD,43.727057,-0.178585
-324600025Y-9,9,Route de Nogaro,32720,Vergoignan,CAD,43.723139,-0.188022
-324600026Z-10,10,Chemin du Lavoir,32720,Vergoignan,CAD,43.718083,-0.199789
-324600026Z-1,1,Chemin du Lavoir,32720,Vergoignan,CAD,43.718207,-0.198421
-324600026Z-12,12,Chemin du Lavoir,32720,Vergoignan,CAD,43.718013,-0.200418
-324600026Z-2,2,Chemin du Lavoir,32720,Vergoignan,CAD,43.718277,-0.198425
-324600026Z-3,3,Chemin du Lavoir,32720,Vergoignan,CAD,43.718112,-0.198962
-324600026Z-4,4,Chemin du Lavoir,32720,Vergoignan,CAD,43.718214,-0.198781
-324600026Z-5,5,Chemin du Lavoir,32720,Vergoignan,CAD,43.718033,-0.199721
-324600026Z-6,6,Chemin du Lavoir,32720,Vergoignan,CAD,43.718151,-0.199097
-324600026Z-7,7,Chemin du Lavoir,32720,Vergoignan,CAD,43.717999,-0.200191
-324600026Z-8,8,Chemin du Lavoir,32720,Vergoignan,CAD,43.718094,-0.199460
-324600027A-10,10,Chemin de l'Etang,32720,Vergoignan,CAD,43.720501,-0.197755
-324600027A-1,1,Chemin de l'Etang,32720,Vergoignan,CAD,43.718162,-0.198066
-324600027A-12,12,Chemin de l'Etang,32720,Vergoignan,CAD,43.721106,-0.197327
-324600027A-14,14,Chemin de l'Etang,32720,Vergoignan,CAD,43.721219,-0.197214
-324600027A-16,16,Chemin de l'Etang,32720,Vergoignan,CAD,43.721703,-0.196837
-324600027A-2,2,Chemin de l'Etang,32720,Vergoignan,CAD,43.718140,-0.197959
-324600027A-3,3,Chemin de l'Etang,32720,Vergoignan,CAD,43.718553,-0.198045
-324600027A-4,4,Chemin de l'Etang,32720,Vergoignan,CAD,43.719967,-0.198007
-324600027A-5,5,Chemin de l'Etang,32720,Vergoignan,CAD,43.720103,-0.198026
-324600027A-5B,5BIS,Chemin de l'Etang,32720,Vergoignan,CAD,43.721418,-0.197363
-324600027A-6,6,Chemin de l'Etang,32720,Vergoignan,CAD,43.720203,-0.197890
-324600027A-8,8,Chemin de l'Etang,32720,Vergoignan,CAD,43.720000,-0.197973
-324600028B-10,10,Chemin de la Hountète,32720,Vergoignan,CAD,43.720306,-0.193427
-324600028B-12,12,Chemin de la Hountète,32720,Vergoignan,CAD,43.720361,-0.193249
-324600028B-14,14,Chemin de la Hountète,32720,Vergoignan,CAD,43.720465,-0.193243
-324600028B-16,16,Chemin de la Hountète,32720,Vergoignan,CAD,43.720862,-0.193559
-324600028B-2,2,Chemin de la Hountète,32720,Vergoignan,CAD,43.719048,-0.196460
-324600028B-3,3,Chemin de la Hountète,32720,Vergoignan,CAD,43.720107,-0.194710
-324600028B-4,4,Chemin de la Hountète,32720,Vergoignan,CAD,43.719929,-0.194807
-324600028B-5,5,Chemin de la Hountète,32720,Vergoignan,CAD,43.720692,-0.193924
-324600028B-6,6,Chemin de la Hountète,32720,Vergoignan,CAD,43.720300,-0.194428
-324600028B-7,7,Chemin de la Hountète,32720,Vergoignan,CAD,43.721018,-0.193406
-324600028B-8,8,Chemin de la Hountète,32720,Vergoignan,CAD,43.720578,-0.194029
-324600028B-9,9,Chemin de la Hountète,32720,Vergoignan,CAD,43.721213,-0.192832
+324600018R-10,10,Chemin de Manauton,32720,Vergoignan,C+O,43.715509,-0.200149
+324600018R-11,11,Chemin de Manauton,32720,Vergoignan,C+O,43.715289,-0.201305
+324600018R-12,12,Chemin de Manauton,32720,Vergoignan,C+O,43.715392,-0.200486
+324600018R-13,13,Chemin de Manauton,32720,Vergoignan,C+O,43.715292,-0.201520
+324600018R-14,14,Chemin de Manauton,32720,Vergoignan,C+O,43.715342,-0.200952
+324600018R-15,15,Chemin de Manauton,32720,Vergoignan,C+O,43.715274,-0.201978
+324600018R-16,16,Chemin de Manauton,32720,Vergoignan,C+O,43.715343,-0.201650
+324600018R-17,17,Chemin de Manauton,32720,Vergoignan,C+O,43.715256,-0.202363
+324600018R-18,18,Chemin de Manauton,32720,Vergoignan,C+O,43.715348,-0.201975
+324600018R-19,19,Chemin de Manauton,32720,Vergoignan,C+O,43.715252,-0.202579
+324600018R-20,20,Chemin de Manauton,32720,Vergoignan,C+O,43.715351,-0.202248
+324600018R-21,21,Chemin de Manauton,32720,Vergoignan,C+O,43.715490,-0.203006
+324600018R-22,22,Chemin de Manauton,32720,Vergoignan,C+O,43.715469,-0.202755
+324600018R-2,2,Chemin de Manauton,32720,Vergoignan,C+O,43.715694,-0.198889
+324600018R-23,23,Chemin de Manauton,32720,Vergoignan,C+O,43.715501,-0.203447
+324600018R-24,24,Chemin de Manauton,32720,Vergoignan,C+O,43.715592,-0.203299
+324600018R-25,25,Chemin de Manauton,32720,Vergoignan,C+O,43.715435,-0.203742
+324600018R-26,26,Chemin de Manauton,32720,Vergoignan,C+O,43.715537,-0.203849
+324600018R-3,3,Chemin de Manauton,32720,Vergoignan,C+O,43.715561,-0.199170
+324600018R-4,4,Chemin de Manauton,32720,Vergoignan,C+O,43.715652,-0.199260
+324600018R-5,5,Chemin de Manauton,32720,Vergoignan,C+O,43.715525,-0.199478
+324600018R-6,6,Chemin de Manauton,32720,Vergoignan,C+O,43.715603,-0.199626
+324600018R-7,7,Chemin de Manauton,32720,Vergoignan,C+O,43.715500,-0.199670
+324600018R-8,8,Chemin de Manauton,32720,Vergoignan,C+O,43.715556,-0.200007
+324600018R-9,9,Chemin de Manauton,32720,Vergoignan,C+O,43.715380,-0.200268
+324600019S-10,10,Route de Barcelonne,32720,Vergoignan,C+O,43.715825,-0.204686
+324600019S-1,1,Route de Barcelonne,32720,Vergoignan,C+O,43.715767,-0.204296
+324600019S-12,12,Route de Barcelonne,32720,Vergoignan,C+O,43.715295,-0.207023
+324600019S-2,2,Route de Barcelonne,32720,Vergoignan,C+O,43.716240,-0.202797
+324600019S-3,3,Route de Barcelonne,32720,Vergoignan,C+O,43.715732,-0.204493
+324600019S-4,4,Route de Barcelonne,32720,Vergoignan,C+O,43.716088,-0.203509
+324600019S-5,5,Route de Barcelonne,32720,Vergoignan,C+O,43.715636,-0.204969
+324600019S-6,6,Route de Barcelonne,32720,Vergoignan,C+O,43.715916,-0.204162
+324600019S-8,8,Route de Barcelonne,32720,Vergoignan,C+O,43.715858,-0.204431
+324600020T-1,1,Chemin de Lahitte,32720,Vergoignan,C+O,43.718299,-0.213925
+324600020T-2,2,Chemin de Lahitte,32720,Vergoignan,C+O,43.717908,-0.214186
+324600021U-1,1,Chemin de Laffitte,32720,Vergoignan,C+O,43.718298,-0.218778
+324600021U-2,2,Chemin de Laffitte,32720,Vergoignan,C+O,43.718159,-0.216746
+324600021U-4,4,Chemin de Laffitte,32720,Vergoignan,C+O,43.718224,-0.217794
+324600022V-1,1,Chemin de Lasburthes,32720,Vergoignan,C+O,43.722240,-0.190188
+324600022V-2,2,Chemin de Lasburthes,32720,Vergoignan,C+O,43.722314,-0.189667
+324600022V-3,3,Chemin de Lasburthes,32720,Vergoignan,C+O,43.722306,-0.190659
+324600022V-4,4,Chemin de Lasburthes,32720,Vergoignan,C+O,43.722319,-0.190258
+324600022V-5,5,Chemin de Lasburthes,32720,Vergoignan,C+O,43.722384,-0.190990
+324600022V-6,6,Chemin de Lasburthes,32720,Vergoignan,C+O,43.722598,-0.191109
+324600022V-7,7,Chemin de Lasburthes,32720,Vergoignan,C+O,43.722651,-0.191168
+324600023W-10,10,Chemin du Village,32720,Vergoignan,C+O,43.717792,-0.196290
+324600023W-1,1,Chemin du Village,32720,Vergoignan,C+O,43.717666,-0.197433
+324600023W-12,12,Chemin du Village,32720,Vergoignan,C+O,43.717792,-0.196216
+324600023W-2,2,Chemin du Village,32720,Vergoignan,C+O,43.717520,-0.197749
+324600023W-3,3,Chemin du Village,32720,Vergoignan,C+O,43.717781,-0.196775
+324600023W-4,4,Chemin du Village,32720,Vergoignan,C+O,43.717594,-0.197538
+324600023W-6,6,Chemin du Village,32720,Vergoignan,C+O,43.717701,-0.197093
+324600023W-8,8,Chemin du Village,32720,Vergoignan,C+O,43.717731,-0.196712
+324600024X-1,1,Allée de l'Église,32720,Vergoignan,C+O,43.718696,-0.197513
+324600024X-2,2,Allée de l'Église,32720,Vergoignan,C+O,43.718662,-0.197913
+324600024X-3,3,Allée de l'Église,32720,Vergoignan,C+O,43.718747,-0.197165
+324600024X-4,4,Allée de l'Église,32720,Vergoignan,C+O,43.718666,-0.197768
+324600024X-5,5,Allée de l'Église,32720,Vergoignan,C+O,43.718579,-0.196630
+324600025Y-10,10,Route de Nogaro,32720,Vergoignan,C+O,43.728788,-0.175999
+324600025Y-11,11,Route de Nogaro,32720,Vergoignan,C+O,43.733052,-0.160128
+324600025Y-1,1,Route de Nogaro,32720,Vergoignan,C+O,43.717395,-0.197444
+324600025Y-12,12,Route de Nogaro,32720,Vergoignan,C+O,43.731333,-0.166712
+324600025Y-14,14,Route de Nogaro,32720,Vergoignan,C+O,43.733112,-0.159583
+324600025Y-16,16,Route de Nogaro,32720,Vergoignan,C+O,43.733383,-0.159128
+324600025Y-18,18,Route de Nogaro,32720,Vergoignan,C+O,43.733655,-0.158670
+324600025Y-2,2,Route de Nogaro,32720,Vergoignan,C+O,43.720776,-0.204172
+324600025Y-2B,2BIS,Route de Nogaro,32720,Vergoignan,C+O,43.719857,-0.206744
+324600025Y-3,3,Route de Nogaro,32720,Vergoignan,C+O,43.717616,-0.196467
+324600025Y-4,4,Route de Nogaro,32720,Vergoignan,C+O,43.721750,-0.189962
+324600025Y-5,5,Route de Nogaro,32720,Vergoignan,C+O,43.717654,-0.196310
+324600025Y-6,6,Route de Nogaro,32720,Vergoignan,C+O,43.725493,-0.182698
+324600025Y-7,7,Route de Nogaro,32720,Vergoignan,C+O,43.718085,-0.195697
+324600025Y-8,8,Route de Nogaro,32720,Vergoignan,C+O,43.727349,-0.178880
+324600025Y-8B,8BIS,Route de Nogaro,32720,Vergoignan,C+O,43.727057,-0.178585
+324600025Y-9,9,Route de Nogaro,32720,Vergoignan,C+O,43.723139,-0.188022
+324600026Z-10,10,Chemin du Lavoir,32720,Vergoignan,C+O,43.718083,-0.199789
+324600026Z-1,1,Chemin du Lavoir,32720,Vergoignan,C+O,43.718207,-0.198421
+324600026Z-12,12,Chemin du Lavoir,32720,Vergoignan,C+O,43.718013,-0.200418
+324600026Z-2,2,Chemin du Lavoir,32720,Vergoignan,C+O,43.718277,-0.198425
+324600026Z-3,3,Chemin du Lavoir,32720,Vergoignan,C+O,43.718112,-0.198962
+324600026Z-4,4,Chemin du Lavoir,32720,Vergoignan,C+O,43.718214,-0.198781
+324600026Z-5,5,Chemin du Lavoir,32720,Vergoignan,C+O,43.718033,-0.199721
+324600026Z-6,6,Chemin du Lavoir,32720,Vergoignan,C+O,43.718151,-0.199097
+324600026Z-7,7,Chemin du Lavoir,32720,Vergoignan,C+O,43.717999,-0.200191
+324600026Z-8,8,Chemin du Lavoir,32720,Vergoignan,C+O,43.718094,-0.199460
+324600027A-10,10,Chemin de l'Étang,32720,Vergoignan,C+O,43.720501,-0.197755
+324600027A-1,1,Chemin de l'Étang,32720,Vergoignan,C+O,43.718162,-0.198066
+324600027A-12,12,Chemin de l'Étang,32720,Vergoignan,C+O,43.721106,-0.197327
+324600027A-14,14,Chemin de l'Étang,32720,Vergoignan,C+O,43.721219,-0.197214
+324600027A-16,16,Chemin de l'Étang,32720,Vergoignan,C+O,43.721703,-0.196837
+324600027A-2,2,Chemin de l'Étang,32720,Vergoignan,C+O,43.718140,-0.197959
+324600027A-3,3,Chemin de l'Étang,32720,Vergoignan,C+O,43.718553,-0.198045
+324600027A-4,4,Chemin de l'Étang,32720,Vergoignan,C+O,43.719967,-0.198007
+324600027A-5,5,Chemin de l'Étang,32720,Vergoignan,C+O,43.720103,-0.198026
+324600027A-5B,5BIS,Chemin de l'Étang,32720,Vergoignan,C+O,43.721418,-0.197363
+324600027A-6,6,Chemin de l'Étang,32720,Vergoignan,C+O,43.720203,-0.197890
+324600027A-8,8,Chemin de l'Étang,32720,Vergoignan,C+O,43.720000,-0.197973
+324600028B-10,10,Chemin de la Hountète,32720,Vergoignan,C+O,43.720306,-0.193427
+324600028B-12,12,Chemin de la Hountète,32720,Vergoignan,C+O,43.720361,-0.193249
+324600028B-14,14,Chemin de la Hountète,32720,Vergoignan,C+O,43.720465,-0.193243
+324600028B-16,16,Chemin de la Hountète,32720,Vergoignan,C+O,43.720862,-0.193559
+324600028B-2,2,Chemin de la Hountète,32720,Vergoignan,C+O,43.719048,-0.196460
+324600028B-3,3,Chemin de la Hountète,32720,Vergoignan,C+O,43.720107,-0.194710
+324600028B-4,4,Chemin de la Hountète,32720,Vergoignan,C+O,43.719929,-0.194807
+324600028B-5,5,Chemin de la Hountète,32720,Vergoignan,C+O,43.720692,-0.193924
+324600028B-6,6,Chemin de la Hountète,32720,Vergoignan,C+O,43.720300,-0.194428
+324600028B-7,7,Chemin de la Hountète,32720,Vergoignan,C+O,43.721018,-0.193406
+324600028B-8,8,Chemin de la Hountète,32720,Vergoignan,C+O,43.720578,-0.194029
+324600028B-9,9,Chemin de la Hountète,32720,Vergoignan,C+O,43.721213,-0.192832
 324620020J-2,2,Chemin de l'Abattoir,32190,Vic-Fezensac,C+O,43.761723,0.303925
 324620020J-9,9,Chemin de l'Abattoir,32190,Vic-Fezensac,C+O,43.761840,0.303233
 324620030V-11,11,Rue des Apothicaires,32190,Vic-Fezensac,C+O,43.756248,0.301502
