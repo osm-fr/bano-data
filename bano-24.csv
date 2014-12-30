@@ -18794,12 +18794,12 @@
 241380608H-7,7,Rue Georges Campagnac,24660,Coulounieix-Chamiers,C+O,45.174511,0.685216
 241380608H-8,8,Rue Georges Campagnac,24660,Coulounieix-Chamiers,C+O,45.174523,0.686668
 241380608H-9,9,Rue Georges Campagnac,24660,Coulounieix-Chamiers,C+O,45.174072,0.684198
-241380610K-2,2,Rue Georges Clémenceau,24660,Coulounieix-Chamiers,C+O,45.189732,0.694367
-241380610K-4,4,Rue Georges Clémenceau,24660,Coulounieix-Chamiers,C+O,45.189605,0.694290
-241380610K-4B,4BIS,Rue Georges Clémenceau,24660,Coulounieix-Chamiers,C+O,45.189548,0.694256
-241380610K-6,6,Rue Georges Clémenceau,24660,Coulounieix-Chamiers,C+O,45.189474,0.694211
-241380610K-6B,6BIS,Rue Georges Clémenceau,24660,Coulounieix-Chamiers,C+O,45.189764,0.693746
-241380610K-8,8,Rue Georges Clémenceau,24660,Coulounieix-Chamiers,C+O,45.189284,0.694098
+241380610K-2,2,Rue Georges Clemenceau,24660,Coulounieix-Chamiers,C+O,45.189732,0.694367
+241380610K-4,4,Rue Georges Clemenceau,24660,Coulounieix-Chamiers,C+O,45.189605,0.694290
+241380610K-4B,4BIS,Rue Georges Clemenceau,24660,Coulounieix-Chamiers,C+O,45.189548,0.694256
+241380610K-6,6,Rue Georges Clemenceau,24660,Coulounieix-Chamiers,C+O,45.189474,0.694211
+241380610K-6B,6BIS,Rue Georges Clemenceau,24660,Coulounieix-Chamiers,C+O,45.189764,0.693746
+241380610K-8,8,Rue Georges Clemenceau,24660,Coulounieix-Chamiers,C+O,45.189284,0.694098
 241380622Y-3,3,Rue Gisele Feyfant,24660,Coulounieix-Chamiers,CAD,45.192047,0.694722
 241380660P-10,10,Rue Gustave Eiffel,24660,Coulounieix-Chamiers,C+O,45.195509,0.692629
 241380660P-11,11,Rue Gustave Eiffel,24660,Coulounieix-Chamiers,C+O,45.195320,0.692499
@@ -36688,8 +36688,8 @@
 243222060L-58,58,Rue des Jardiniers,24000,Périgueux,C+O,45.185239,0.734283
 243222060L-60,60,Rue des Jardiniers,24000,Périgueux,C+O,45.185194,0.734305
 243222060L-62,62,Rue des Jardiniers,24000,Périgueux,C+O,45.185129,0.734338
-243222060L-64,64,Rue des Jardiniers,24000,Périgueux,C+O,45.185050,0.734380
-243222060L-66,66,Rue des Jardiniers,24000,Périgueux,C+O,45.184975,0.734418
+243222060L-64,64,Rue des Jardiniers,24000,Périgueux,OSM,45.185064,0.734481
+243222060L-66,66,Rue des Jardiniers,24000,Périgueux,OSM,45.185363,0.734393
 243222060L-67,67,Rue des Jardiniers,24000,Périgueux,C+O,45.184966,0.734338
 243222060L-69,69,Rue des Jardiniers,24000,Périgueux,C+O,45.184881,0.734382
 243222060L-75,75,Rue des Jardiniers,24000,Périgueux,C+O,45.184521,0.734563
@@ -46322,7 +46322,7 @@
 243520280W-32,32,Rue Couleau,24600,Ribérac,C+O,45.245918,0.339038
 243520280W-33,33,Rue Couleau,24600,Ribérac,C+O,45.245166,0.335828
 243520280W-34,34,Rue Couleau,24600,Ribérac,C+O,45.245869,0.338953
-243520280W-35,35,Rue Couleau,24600,Ribérac,OSM,45.245007,0.335916
+243520280W-35,35,Rue Couleau,24600,Ribérac,OSM,45.245013,0.335843
 243520280W-37,37,Rue Couleau,24600,Ribérac,C+O,45.244830,0.335793
 243520280W-38,38,Rue Couleau,24600,Ribérac,C+O,45.245769,0.338701
 243520280W-39,39,Rue Couleau,24600,Ribérac,C+O,45.244632,0.335278
@@ -47994,7 +47994,7 @@
 244540053F-1,1,Chemin de Plagnac,24610,Saint-Martin-de-Gurson,C+O,44.952974,0.106563
 244540054G-4,4,Route de la Plagne,24610,Saint-Martin-de-Gurson,CAD,44.950784,0.111663
 244540065U-11,11,Rue de la Tuiliere,24610,Saint-Martin-de-Gurson,CAD,44.949579,0.107735
-24454B114D-18,18,La Boueyne,24610,Saint-Martin-de-Gurson,OSM,44.975324,0.130345
+24454B114D-18,18,La Boueyne,24610,Saint-Martin-de-Gurson,OSM,44.974989,0.130474
 244600040R-1035,1035,Boulevard Eugène Leroy,24600,Saint-Méard-de-Drône,C+O,45.249952,0.422381
 244600040R-1055,1055,Boulevard Eugène Leroy,24600,Saint-Méard-de-Drône,C+O,45.250033,0.422608
 244600040R-1A,1A,Boulevard Eugène Leroy,24600,Saint-Méard-de-Drône,C+O,45.249601,0.422325
@@ -49171,7 +49171,7 @@
 245200703A-24,24,Avenue de la Dordogne,24200,Sarlat-la-Canéda,OSM,44.875742,1.212148
 245202040D-4,4,Rue du Présidial,24200,Sarlat-la-Canéda,OSM,44.889961,1.218066
 245202280P-111,111,Avenue de Selves,24200,Sarlat-la-Canéda,OSM,44.893870,1.215322
-245202410F-2,2,Rue Tourny,24200,Sarlat-la-Canéda,OSM,44.888598,1.216489
+245202410F-2,2,Rue Tourny,24200,Sarlat-la-Canéda,OSM,44.888617,1.216446
 245202410F-3,3,Rue Tourny,24200,Sarlat-la-Canéda,OSM,44.888561,1.216654
 245260004P-11,11,Rue d'Aquitaine,24270,Savignac-Lédrier,CAD,45.398199,1.212242
 245260004P-14,14,Rue d'Aquitaine,24270,Savignac-Lédrier,CAD,45.398214,1.211704
