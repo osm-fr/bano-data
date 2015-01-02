@@ -4404,10 +4404,10 @@
 080810790F-7,7,Place de la République,08120,Bogny-sur-Meuse,CAD,49.851696,4.766709
 080810790F-8,8,Place de la République,08120,Bogny-sur-Meuse,CAD,49.851115,4.766405
 080810790F-9,9,Place de la République,08120,Bogny-sur-Meuse,CAD,49.851726,4.766677
-080810791G-10,10,Impasse de la République,08120,Bogny-sur-Meuse,CAD,49.861852,4.759215
-080810791G-11,11,Impasse de la République,08120,Bogny-sur-Meuse,CAD,49.861670,4.759032
-080810791G-12,12,Impasse de la République,08120,Bogny-sur-Meuse,CAD,49.861483,4.758872
-080810791G-8,8,Impasse de la République,08120,Bogny-sur-Meuse,CAD,49.861934,4.759664
+080810791G-10,10,Impasse de la République,08120,Bogny-sur-Meuse,C+O,49.861852,4.759215
+080810791G-11,11,Impasse de la République,08120,Bogny-sur-Meuse,C+O,49.861670,4.759032
+080810791G-12,12,Impasse de la République,08120,Bogny-sur-Meuse,C+O,49.861483,4.758872
+080810791G-8,8,Impasse de la République,08120,Bogny-sur-Meuse,C+O,49.861934,4.759664
 080810792H-10,10,Rue de la République,08120,Bogny-sur-Meuse,C+O,49.862590,4.760502
 080810792H-1,1,Rue de la République,08120,Bogny-sur-Meuse,C+O,49.861941,4.761550
 080810792H-12,12,Rue de la République,08120,Bogny-sur-Meuse,C+O,49.862646,4.760366
@@ -44735,78 +44735,78 @@
 084870040A-7,7,Rue du Général Bertrand,08320,Vireux-Wallerand,C+O,50.085470,4.727848
 084870040A-8,8,Rue du Général Bertrand,08320,Vireux-Wallerand,C+O,50.085472,4.727449
 084870040A-9,9,Rue du Général Bertrand,08320,Vireux-Wallerand,C+O,50.085470,4.727862
-084870042C-1,1,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081284,4.730711
-084870042C-12B,12BIS,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080982,4.731777
-084870042C-13,13,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080659,4.731201
-084870042C-14,14,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080871,4.731498
-084870042C-15,15,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080443,4.730840
-084870042C-16,16,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080752,4.731503
-084870042C-17,17,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080309,4.731484
-084870042C-18,18,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080683,4.731514
-084870042C-19,19,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080151,4.731132
-084870042C-20,20,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080601,4.731527
-084870042C-22,22,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080537,4.731537
-084870042C-2,2,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081716,4.730843
-084870042C-24,24,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080486,4.731629
-084870042C-25,25,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.079783,4.731907
-084870042C-26,26,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080442,4.731654
-084870042C-27,27,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.079638,4.732025
-084870042C-28,28,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080309,4.731709
-084870042C-30,30,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080136,4.731847
-084870042C-31,31,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.079415,4.732155
-084870042C-32,32,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080166,4.732488
-084870042C-33,33,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.079165,4.732227
-084870042C-3,3,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081176,4.730781
-084870042C-34,34,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.079783,4.732128
-084870042C-35,35,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.079028,4.732282
-084870042C-36,36,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.079149,4.732439
-084870042C-37,37,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078855,4.732341
-084870042C-38,38,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078989,4.732494
-084870042C-39,39,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078726,4.732386
-084870042C-40,40,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078577,4.732635
-084870042C-41,41,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078639,4.732417
-084870042C-42,42,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078398,4.732696
-084870042C-43,43,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078546,4.732449
-084870042C-44,44,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078166,4.733024
-084870042C-4,4,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081328,4.732705
-084870042C-45,45,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078469,4.732477
-084870042C-46,46,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.077992,4.732834
-084870042C-47,47,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078284,4.732537
-084870042C-48,48,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.077807,4.732893
-084870042C-49,49,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.078149,4.732586
-084870042C-50,50,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.077619,4.732952
-084870042C-51,51,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.077119,4.732937
-084870042C-52,52,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.077421,4.733015
-084870042C-53,53,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076592,4.733299
-084870042C-54,54,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.077230,4.733096
-084870042C-55,55,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076411,4.733421
-084870042C-5,5,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081218,4.730692
-084870042C-56,56,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.077070,4.733187
-084870042C-57,57,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076177,4.733581
-084870042C-58,58,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076870,4.733323
-084870042C-59,59,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076007,4.733699
-084870042C-5B,5BIS,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081202,4.730642
-084870042C-60,60,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076596,4.733721
-084870042C-61,61,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.075737,4.733892
-084870042C-62,62,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076328,4.733690
-084870042C-63,63,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.075576,4.734003
-084870042C-64,64,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.076057,4.733881
-084870042C-64A,64A,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.075869,4.734344
-084870042C-64B,64B,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.075690,4.734470
-084870042C-64C,64C,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.075476,4.734616
-084870042C-64D,64D,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.075252,4.734466
-084870042C-65,65,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.073519,4.735380
-084870042C-66,66,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.075007,4.734596
-084870042C-6,6,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081528,4.730897
-084870042C-68,68,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.074899,4.735060
-084870042C-70,70,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.074632,4.734829
-084870042C-72,72,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.074440,4.734953
-084870042C-72B,72BIS,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.074027,4.735428
-084870042C-72T,72TER,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.073745,4.735421
-084870042C-74,74,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.072761,4.736121
-084870042C-7,7,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081006,4.730919
-084870042C-8,8,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.081457,4.730917
-084870042C-9,9,Avenue du General de Gaulle,08320,Vireux-Wallerand,C+O,50.080910,4.730998
+084870042C-1,1,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081284,4.730711
+084870042C-12B,12BIS,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080982,4.731777
+084870042C-13,13,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080659,4.731201
+084870042C-14,14,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080871,4.731498
+084870042C-15,15,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080443,4.730840
+084870042C-16,16,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080752,4.731503
+084870042C-17,17,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080309,4.731484
+084870042C-18,18,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080683,4.731514
+084870042C-19,19,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080151,4.731132
+084870042C-20,20,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080601,4.731527
+084870042C-22,22,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080537,4.731537
+084870042C-2,2,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081716,4.730843
+084870042C-24,24,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080486,4.731629
+084870042C-25,25,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.079783,4.731907
+084870042C-26,26,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080442,4.731654
+084870042C-27,27,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.079638,4.732025
+084870042C-28,28,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080309,4.731709
+084870042C-30,30,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080136,4.731847
+084870042C-31,31,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.079415,4.732155
+084870042C-32,32,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080166,4.732488
+084870042C-33,33,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.079165,4.732227
+084870042C-3,3,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081176,4.730781
+084870042C-34,34,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.079783,4.732128
+084870042C-35,35,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.079028,4.732282
+084870042C-36,36,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.079149,4.732439
+084870042C-37,37,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078855,4.732341
+084870042C-38,38,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078989,4.732494
+084870042C-39,39,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078726,4.732386
+084870042C-40,40,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078577,4.732635
+084870042C-41,41,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078639,4.732417
+084870042C-42,42,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078398,4.732696
+084870042C-43,43,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078546,4.732449
+084870042C-44,44,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078166,4.733024
+084870042C-4,4,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081328,4.732705
+084870042C-45,45,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078469,4.732477
+084870042C-46,46,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.077992,4.732834
+084870042C-47,47,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078284,4.732537
+084870042C-48,48,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.077807,4.732893
+084870042C-49,49,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.078149,4.732586
+084870042C-50,50,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.077619,4.732952
+084870042C-51,51,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.077119,4.732937
+084870042C-52,52,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.077421,4.733015
+084870042C-53,53,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076592,4.733299
+084870042C-54,54,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.077230,4.733096
+084870042C-55,55,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076411,4.733421
+084870042C-5,5,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081218,4.730692
+084870042C-56,56,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.077070,4.733187
+084870042C-57,57,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076177,4.733581
+084870042C-58,58,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076870,4.733323
+084870042C-59,59,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076007,4.733699
+084870042C-5B,5BIS,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081202,4.730642
+084870042C-60,60,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076596,4.733721
+084870042C-61,61,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.075737,4.733892
+084870042C-62,62,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076328,4.733690
+084870042C-63,63,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.075576,4.734003
+084870042C-64,64,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.076057,4.733881
+084870042C-64A,64A,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.075869,4.734344
+084870042C-64B,64B,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.075690,4.734470
+084870042C-64C,64C,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.075476,4.734616
+084870042C-64D,64D,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.075252,4.734466
+084870042C-65,65,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.073519,4.735380
+084870042C-66,66,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.075007,4.734596
+084870042C-6,6,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081528,4.730897
+084870042C-68,68,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.074899,4.735060
+084870042C-70,70,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.074632,4.734829
+084870042C-72,72,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.074440,4.734953
+084870042C-72B,72BIS,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.074027,4.735428
+084870042C-72T,72TER,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.073745,4.735421
+084870042C-74,74,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.072761,4.736121
+084870042C-7,7,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081006,4.730919
+084870042C-8,8,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.081457,4.730917
+084870042C-9,9,Avenue du Général de Gaulle,08320,Vireux-Wallerand,C+O,50.080910,4.730998
 084870045F-10,10,Chemin d'Hargnies,08320,Vireux-Wallerand,C+O,50.073412,4.736041
 084870045F-1,1,Chemin d'Hargnies,08320,Vireux-Wallerand,C+O,50.075918,4.735121
 084870045F-16,16,Chemin d'Hargnies,08320,Vireux-Wallerand,C+O,50.072730,4.736301
