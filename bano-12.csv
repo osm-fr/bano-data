@@ -3061,7 +3061,7 @@
 120430025B-405,405,Avenue de la Basilique,12450,Calmont,C+O,44.272545,2.523800
 120430025B-420,420,Avenue de la Basilique,12450,Calmont,C+O,44.272596,2.524140
 120430025B-444,444,Avenue de la Basilique,12450,Calmont,C+O,44.272637,2.524241
-120430025B-480,480,Avenue de la Basilique,12450,Calmont,OSM,44.272765,2.525050
+120430025B-480,480,Avenue de la Basilique,12450,Calmont,OSM,44.272589,2.524990
 120430025B-481,481,Avenue de la Basilique,12450,Calmont,C+O,44.273437,2.523734
 120430025B-484,484,Avenue de la Basilique,12450,Calmont,C+O,44.273197,2.525299
 120430025B-581,581,Avenue de la Basilique,12450,Calmont,C+O,44.273586,2.525061
@@ -6016,7 +6016,7 @@
 120660275Y-40,40,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.427445,2.411039
 120660275Y-42,42,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.427599,2.411081
 120660275Y-4,4,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426821,2.412199
-120660275Y-5,5,Avenue de la Tour,12330,Clairvaux-d'Aveyron,OSM,44.426901,2.410399
+120660275Y-5,5,Avenue de la Tour,12330,Clairvaux-d'Aveyron,OSM,44.426871,2.410470
 120660275Y-6,6,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426866,2.412033
 120660275Y-7,7,Avenue de la Tour,12330,Clairvaux-d'Aveyron,OSM,44.427365,2.410420
 120660275Y-8,8,Avenue de la Tour,12330,Clairvaux-d'Aveyron,C+O,44.426914,2.411970
@@ -10587,7 +10587,7 @@
 120960540F-23,23,Boulevard de Guizard,12500,Espalion,C+O,44.524209,2.764371
 120960540F-24,24,Boulevard de Guizard,12500,Espalion,C+O,44.524227,2.764600
 120960540F-26,26,Boulevard de Guizard,12500,Espalion,C+O,44.524296,2.764738
-120960540F-27,27,Boulevard de Guizard,12500,Espalion,OSM,44.524352,2.764479
+120960540F-27,27,Boulevard de Guizard,12500,Espalion,OSM,44.524388,2.764508
 120960540F-28,28,Boulevard de Guizard,12500,Espalion,OSM,44.524353,2.764977
 120960540F-29,29,Boulevard de Guizard,12500,Espalion,OSM,44.524518,2.764717
 120960540F-30,30,Boulevard de Guizard,12500,Espalion,C+O,44.524415,2.765129
@@ -13584,13 +13584,13 @@
 12115B011E-5,5,Les Cascabels,12230,L'Hospitalet-du-Larzac,CAD,43.965119,3.194980
 12115B014H-2,2,Les Condamines,12230,L'Hospitalet-du-Larzac,CAD,43.966243,3.198474
 12115B014H-4,4,Les Condamines,12230,L'Hospitalet-du-Larzac,CAD,43.966222,3.198380
-121190009D-1,1,Rue des Agrazals,12210,Laguiole,CAD,44.683181,2.852146
-121190009D-2,2,Rue des Agrazals,12210,Laguiole,CAD,44.683139,2.852061
-121190009D-3,3,Rue des Agrazals,12210,Laguiole,CAD,44.682907,2.852221
-121190009D-5,5,Rue des Agrazals,12210,Laguiole,CAD,44.682830,2.852214
-121190009D-6,6,Rue des Agrazals,12210,Laguiole,CAD,44.682674,2.852049
-121190009D-7,7,Rue des Agrazals,12210,Laguiole,CAD,44.682594,2.852502
-121190009D-8,8,Rue des Agrazals,12210,Laguiole,CAD,44.682475,2.851951
+121190009D-1,1,Rue des Agrazals,12210,Laguiole,C+O,44.683181,2.852146
+121190009D-2,2,Rue des Agrazals,12210,Laguiole,C+O,44.683139,2.852061
+121190009D-3,3,Rue des Agrazals,12210,Laguiole,C+O,44.682907,2.852221
+121190009D-5,5,Rue des Agrazals,12210,Laguiole,C+O,44.682830,2.852214
+121190009D-6,6,Rue des Agrazals,12210,Laguiole,C+O,44.682674,2.852049
+121190009D-7,7,Rue des Agrazals,12210,Laguiole,C+O,44.682594,2.852502
+121190009D-8,8,Rue des Agrazals,12210,Laguiole,C+O,44.682475,2.851951
 121190012G-11,11,Allée Amicale,12210,Laguiole,OSM,44.684259,2.847828
 121190012G-1,1,Allée Amicale,12210,Laguiole,OSM,44.684434,2.847359
 121190012G-12,12,Allée Amicale,12210,Laguiole,C+O,44.683377,2.849841
@@ -13813,9 +13813,9 @@
 121190244J-4,4,Les Gentianes,12210,Laguiole,C+O,44.687169,2.848581
 121190244J-6,6,Les Gentianes,12210,Laguiole,C+O,44.687340,2.848387
 121190244J-8,8,Les Gentianes,12210,Laguiole,C+O,44.687435,2.848295
-121190248N-2,2,Le Griffoulet,12210,Laguiole,CAD,44.683301,2.852552
-121190248N-4,4,Le Griffoulet,12210,Laguiole,CAD,44.683033,2.852695
-121190248N-6,6,Le Griffoulet,12210,Laguiole,CAD,44.682826,2.852693
+121190248N-2,2,Le Griffoulet,12210,Laguiole,C+O,44.683301,2.852552
+121190248N-4,4,Le Griffoulet,12210,Laguiole,C+O,44.683033,2.852695
+121190248N-6,6,Le Griffoulet,12210,Laguiole,C+O,44.682826,2.852693
 121190255W-10,10,Rue de Lavernhe,12210,Laguiole,CAD,44.684743,2.851410
 121190255W-12,12,Rue de Lavernhe,12210,Laguiole,CAD,44.684898,2.851324
 121190255W-14,14,Rue de Lavernhe,12210,Laguiole,CAD,44.685000,2.851367
@@ -13933,7 +13933,7 @@
 121190400D-32,32,Rue du Valat,12210,Laguiole,CAD,44.684999,2.846723
 121190400D-3,3,Rue du Valat,12210,Laguiole,CAD,44.684169,2.845824
 121190400D-4,4,Rue du Valat,12210,Laguiole,CAD,44.684254,2.845958
-121190400D-5,5,rue du valat,12210,Laguiole,OSM,44.684290,2.845851
+121190400D-5,5,rue du valat,12210,Laguiole,OSM,44.684275,2.845817
 121190400D-6,6,Rue du Valat,12210,Laguiole,CAD,44.684292,2.845985
 121190400D-7,7,Rue du Valat,12210,Laguiole,CAD,44.684308,2.845923
 121190400D-8,8,Rue du Valat,12210,Laguiole,CAD,44.684337,2.846015
@@ -13979,8 +13979,8 @@
 121190420A-7,7,Rue de la Violette,12210,Laguiole,C+O,44.684740,2.846796
 121190420A-8,8,Rue de la Violette,12210,Laguiole,C+O,44.684656,2.846982
 121190420A-9,9,Rue de la Violette,12210,Laguiole,C+O,44.684822,2.846804
-12119A010Z-2,2,Residence du Clos,12210,Laguiole,CAD,44.682113,2.850097
-12119A010Z-3,3,Residence du Clos,12210,Laguiole,CAD,44.682122,2.849962
+12119A010Z-2,2,Résidence du Clos,12210,Laguiole,OSM,44.682037,2.850329
+12119A010Z-3,3,Résidence du Clos,12210,Laguiole,OSM,44.682115,2.849885
 121200001R-11,11,Place Abbé Bessou,12310,Laissac,C+O,44.381513,2.821743
 121200001R-13,13,Place Abbé Bessou,12310,Laissac,C+O,44.381427,2.821865
 121200001R-5,5,Place Abbé Bessou,12310,Laissac,C+O,44.381663,2.821693
@@ -14347,7 +14347,7 @@
 121200057B-319,319,Avenue de Sévérac,12310,Laissac,C+O,44.379769,2.828206
 121200057B-32,32,Avenue de Sévérac,12310,Laissac,C+O,44.380784,2.825001
 121200057B-33,33,Avenue de Sévérac,12310,Laissac,OSM,44.381020,2.823778
-121200057B-35,35,Avenue de Sévérac,12310,Laissac,OSM,44.381074,2.823281
+121200057B-35,35,Avenue de Sévérac,12310,Laissac,OSM,44.381081,2.823657
 121200057B-38,38,Avenue de Sévérac,12310,Laissac,C+O,44.380769,2.825096
 121200057B-39,39,Avenue de Sévérac,12310,Laissac,C+O,44.380848,2.825117
 121200057B-401,401,Avenue de Sévérac,12310,Laissac,C+O,44.379339,2.828902
@@ -22762,16 +22762,16 @@
 121451810Y-2C,2C,Impasse Maréchal Foch,12100,Millau,C+O,44.097226,3.080347
 121451810Y-2D,2D,Impasse Maréchal Foch,12100,Millau,C+O,44.097243,3.080350
 121451810Y-3,3,Impasse Maréchal Foch,12100,Millau,C+O,44.097337,3.080463
-121451820J-10,10,Place Maréchal Foch,12100,Millau,OSM,44.097465,3.080621
-121451820J-11,11,Place Maréchal Foch,12100,Millau,C+O,44.097292,3.080679
-121451820J-2,2,Place Maréchal Foch,12100,Millau,OSM,44.098072,3.080858
-121451820J-3,3,Place Maréchal Foch,12100,Millau,C+O,44.098087,3.080733
-121451820J-3B,3BIS,Place Maréchal Foch,12100,Millau,C+O,44.098065,3.080808
-121451820J-6,6,Place Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
-121451820J-7,7,Place Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
-121451820J-7,7,Place Maréchal Foch,12100,Millau,OSM,44.097987,3.080545
-121451820J-8,8,Place Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
-121451820J-9,9,Place Maréchal Foch,12100,Millau,OSM,44.097513,3.080516
+121451820J-10,10,Place du Maréchal Foch,12100,Millau,OSM,44.097465,3.080621
+121451820J-11,11,Place du Maréchal Foch,12100,Millau,C+O,44.097292,3.080679
+121451820J-2,2,Place du Maréchal Foch,12100,Millau,OSM,44.098072,3.080858
+121451820J-3,3,Place du Maréchal Foch,12100,Millau,C+O,44.098087,3.080733
+121451820J-3B,3BIS,Place du Maréchal Foch,12100,Millau,C+O,44.098065,3.080808
+121451820J-6,6,Place du Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
+121451820J-7,7,Place du Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
+121451820J-7,7,Place du Maréchal Foch,12100,Millau,OSM,44.097987,3.080545
+121451820J-8,8,Place du Maréchal Foch,12100,Millau,OSM,44.097854,3.080519
+121451820J-9,9,Place du Maréchal Foch,12100,Millau,OSM,44.097513,3.080516
 121451825P-107,107,Boulevard Maréchal Leclerc,12100,Millau,C+O,44.107931,3.067966
 121451825P-110,110,Boulevard Maréchal Leclerc,12100,Millau,C+O,44.108087,3.068435
 121451825P-131,131,Boulevard Maréchal Leclerc,12100,Millau,C+O,44.108018,3.067989
@@ -25195,7 +25195,7 @@
 121460240M-26,26,Avenue de Millau,12000,Le Monastère,C+O,44.345874,2.579844
 121460240M-27,27,Avenue de Millau,12000,Le Monastère,OSM,44.345775,2.580025
 121460240M-28,28,Avenue de Millau,12000,Le Monastère,C+O,44.345804,2.579806
-121460240M-29,29,Avenue de Millau,12000,Le Monastère,OSM,44.345344,2.580115
+121460240M-29,29,Avenue de Millau,12000,Le Monastère,OSM,44.345316,2.580136
 121460240M-30,30,Avenue de Millau,12000,Le Monastère,C+O,44.345738,2.579771
 121460240M-31,31,Avenue de Millau,12000,Le Monastère,C+O,44.344603,2.580599
 121460240M-33,33,Avenue de Millau,12000,Le Monastère,C+O,44.344372,2.580947
@@ -36189,6 +36189,7 @@
 122020710E-8B,8BIS,Rue de la Fauvette,12000,Rodez,C+O,44.349765,2.566060
 122020727Y-189,189,Rue de la Ferronnerie,12000,Rodez,C+O,44.372215,2.545594
 122020727Y-2,2,Rue de la Ferronnerie,12000,Rodez,C+O,44.373056,2.544875
+122020727Y-63,63,Rue de la Ferronnerie,12000,Rodez,OSM,44.373212,2.543871
 122020730B-1,1,Boulevard Flaugergues,12000,Rodez,C+O,44.348135,2.577520
 122020730B-12,12,Boulevard Flaugergues,12000,Rodez,C+O,44.347575,2.576593
 122020730B-15,15,Boulevard Flaugergues,12000,Rodez,C+O,44.347026,2.576345
@@ -43840,17 +43841,17 @@
 122250140K-5,5,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.064793,2.984065
 122250140K-5B,5BIS,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.064710,2.984046
 122250140K-9,9,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.065359,2.983892
-122250143N-10,10,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060439,2.988917
-122250143N-11,11,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060138,2.988768
-122250143N-1,1,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060104,2.990286
-122250143N-2,2,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060282,2.989952
-122250143N-3,3,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060094,2.989973
-122250143N-4,4,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060330,2.989623
-122250143N-5,5,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060038,2.989687
-122250143N-6,6,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060260,2.989343
-122250143N-7,7,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060023,2.989406
-122250143N-8,8,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060273,2.989101
-122250143N-9,9,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060089,2.989079
+122250143N-10,10,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060439,2.988917
+122250143N-11,11,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060138,2.988768
+122250143N-1,1,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060104,2.990286
+122250143N-2,2,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060282,2.989952
+122250143N-3,3,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060094,2.989973
+122250143N-4,4,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060330,2.989623
+122250143N-5,5,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060038,2.989687
+122250143N-6,6,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060260,2.989343
+122250143N-7,7,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060023,2.989406
+122250143N-8,8,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060273,2.989101
+122250143N-9,9,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060089,2.989079
 122250160G-11,11,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.065640,2.986003
 122250160G-13,13,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.066569,2.986569
 122250160G-6,6,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.065318,2.985720
@@ -49059,14 +49060,14 @@
 123000277H-17B,17BIS,Place Bernard Lhez,12200,Villefranche-de-Rouergue,C+O,44.350080,2.036668
 123000277H-19,19,Place Bernard Lhez,12200,Villefranche-de-Rouergue,C+O,44.350110,2.036714
 123000277H-3,3,Place Bernard Lhez,12200,Villefranche-de-Rouergue,C+O,44.350782,2.036676
-123000293A-155,155,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.331846,2.031051
-123000293A-175,175,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.331688,2.030895
-123000293A-203,203,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.331520,2.030725
-123000293A-204,204,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.331485,2.030626
-123000293A-29,29,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.332723,2.032019
-123000293A-305,305,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.330903,2.029474
-123000293A-349,349,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.330794,2.029178
-123000293A-71,71,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,CAD,44.332472,2.031645
+123000293A-155,155,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.331846,2.031051
+123000293A-175,175,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.331688,2.030895
+123000293A-203,203,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.331520,2.030725
+123000293A-204,204,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.331485,2.030626
+123000293A-29,29,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.332723,2.032019
+123000293A-305,305,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.330903,2.029474
+123000293A-349,349,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.330794,2.029178
+123000293A-71,71,Chemin du Bois Bas,12200,Villefranche-de-Rouergue,C+O,44.332472,2.031645
 123000296D-348,348,Impasse du Boisseau,12200,Villefranche-de-Rouergue,C+O,44.370659,2.031651
 123000310U-1,1,Ruelle du Bon Pasteur,12200,Villefranche-de-Rouergue,C+O,44.349600,2.033104
 123000310U-12,12,Ruelle du Bon Pasteur,12200,Villefranche-de-Rouergue,C+O,44.350699,2.032702
@@ -49075,14 +49076,14 @@
 123000310U-5,5,Ruelle du Bon Pasteur,12200,Villefranche-de-Rouergue,C+O,44.349817,2.033039
 123000310U-6,6,Ruelle du Bon Pasteur,12200,Villefranche-de-Rouergue,C+O,44.350081,2.032894
 123000310U-8,8,Ruelle du Bon Pasteur,12200,Villefranche-de-Rouergue,C+O,44.350140,2.032869
-123000333U-109,109,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.332988,2.027451
-123000333U-170,170,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.332554,2.027186
-123000333U-189,189,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.332794,2.027373
-123000333U-194,194,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.332396,2.027117
-123000333U-216,216,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.332222,2.027036
-123000333U-230,230,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.332045,2.026997
-123000333U-243,243,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.332142,2.027068
-123000333U-93,93,Chemin de la Borie des Péres,12200,Villefranche-de-Rouergue,CAD,44.333167,2.027523
+123000333U-109,109,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.332988,2.027451
+123000333U-170,170,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.332554,2.027186
+123000333U-189,189,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.332794,2.027373
+123000333U-194,194,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.332396,2.027117
+123000333U-216,216,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.332222,2.027036
+123000333U-230,230,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.332045,2.026997
+123000333U-243,243,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.332142,2.027068
+123000333U-93,93,Chemin de Borie des Péres,12200,Villefranche-de-Rouergue,C+O,44.333167,2.027523
 123000341C-284,284,Chemin de Boscaud Amont,12200,Villefranche-de-Rouergue,C+O,44.363280,2.054088
 123000350M-11,11,Chemin de la Boudoumie,12200,Villefranche-de-Rouergue,C+O,44.352379,2.030989
 123000350M-12,12,Chemin de la Boudoumie,12200,Villefranche-de-Rouergue,C+O,44.352183,2.030871
@@ -49269,15 +49270,15 @@
 123000550E-5,5,Rue des Cassiers,12200,Villefranche-de-Rouergue,C+O,44.353424,2.037132
 123000550E-7,7,Rue des Cassiers,12200,Villefranche-de-Rouergue,C+O,44.353428,2.037001
 123000550E-8,8,Rue des Cassiers,12200,Villefranche-de-Rouergue,C+O,44.353452,2.037016
-123000554J-121,121,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.343284,2.003859
-123000554J-125,125,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.343151,2.003806
-123000554J-24,24,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.344149,2.003999
-123000554J-27,27,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.344116,2.004096
-123000554J-52,52,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.343882,2.003951
-123000554J-55,55,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.343847,2.004035
-123000554J-56,56,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.343825,2.003934
-123000554J-76,76,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.343674,2.003878
-123000554J-95,95,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,CAD,44.343575,2.003929
+123000554J-121,121,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.343284,2.003859
+123000554J-125,125,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.343151,2.003806
+123000554J-24,24,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.344149,2.003999
+123000554J-27,27,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.344116,2.004096
+123000554J-52,52,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.343882,2.003951
+123000554J-55,55,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.343847,2.004035
+123000554J-56,56,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.343825,2.003934
+123000554J-76,76,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.343674,2.003878
+123000554J-95,95,Chemin du Cauffanel,12200,Villefranche-de-Rouergue,C+O,44.343575,2.003929
 123000561S-105,105,Chemin du Causse de Veuzac,12200,Villefranche-de-Rouergue,C+O,44.378091,2.038674
 123000561S-140,140,Chemin du Causse de Veuzac,12200,Villefranche-de-Rouergue,C+O,44.378094,2.039115
 123000561S-165,165,Chemin du Causse de Veuzac,12200,Villefranche-de-Rouergue,C+O,44.378152,2.039628
@@ -49486,12 +49487,12 @@
 123000608T-870,870,Avenue de Champ Rouget,12200,Villefranche-de-Rouergue,C+O,44.369698,2.019003
 123000608T-876,876,Avenue de Champ Rouget,12200,Villefranche-de-Rouergue,C+O,44.369638,2.018807
 123000608T-889,889,Avenue de Champ Rouget,12200,Villefranche-de-Rouergue,C+O,44.369437,2.019132
-123000609U-22,22,Chemin de Champ Long,12200,Villefranche-de-Rouergue,CAD,44.335781,1.995651
+123000609U-22,22,Chemin de Champ Long,12200,Villefranche-de-Rouergue,C+O,44.335781,1.995651
 123000610V-1,1,Rue des Changeurs,12200,Villefranche-de-Rouergue,C+O,44.350859,2.036837
-123000611W-106,106,Chemin de Champredon,12200,Villefranche-de-Rouergue,CAD,44.336185,1.996174
-123000611W-266,266,Chemin de Champredon,12200,Villefranche-de-Rouergue,CAD,44.334853,1.995295
-123000611W-30,30,Chemin de Champredon,12200,Villefranche-de-Rouergue,CAD,44.337160,1.996551
-123000611W-56,56,Chemin de Champredon,12200,Villefranche-de-Rouergue,CAD,44.336716,1.996475
+123000611W-106,106,Chemin de Champredon,12200,Villefranche-de-Rouergue,C+O,44.336185,1.996174
+123000611W-266,266,Chemin de Champredon,12200,Villefranche-de-Rouergue,C+O,44.334853,1.995295
+123000611W-30,30,Chemin de Champredon,12200,Villefranche-de-Rouergue,C+O,44.337160,1.996551
+123000611W-56,56,Chemin de Champredon,12200,Villefranche-de-Rouergue,C+O,44.336716,1.996475
 123000620F-2,2,Rue des Chanoines,12200,Villefranche-de-Rouergue,C+O,44.352478,2.038085
 123000620F-4,4,Rue des Chanoines,12200,Villefranche-de-Rouergue,C+O,44.352559,2.038103
 123000620F-6,6,Rue des Chanoines,12200,Villefranche-de-Rouergue,C+O,44.352593,2.038109
@@ -49517,9 +49518,9 @@
 123000673N-3,3,Rue Claire Charles Geniaux,12200,Villefranche-de-Rouergue,C+O,44.357763,2.036228
 123000673N-78,78,Rue Claire Charles Geniaux,12200,Villefranche-de-Rouergue,C+O,44.358451,2.035980
 123000673N-90,90,Rue Claire Charles Geniaux,12200,Villefranche-de-Rouergue,C+O,44.358548,2.035936
-123000677T-10,10,Chemin du Claux,12200,Villefranche-de-Rouergue,CAD,44.336399,1.998055
-123000677T-46,46,Chemin du Claux,12200,Villefranche-de-Rouergue,CAD,44.336261,1.997750
-123000677T-65,65,Chemin du Claux,12200,Villefranche-de-Rouergue,CAD,44.335879,1.996747
+123000677T-10,10,Chemin du Claux,12200,Villefranche-de-Rouergue,C+O,44.336399,1.998055
+123000677T-46,46,Chemin du Claux,12200,Villefranche-de-Rouergue,C+O,44.336261,1.997750
+123000677T-65,65,Chemin du Claux,12200,Villefranche-de-Rouergue,C+O,44.335879,1.996747
 123000680W-2,2,Rue Claude Granier,12200,Villefranche-de-Rouergue,C+O,44.353263,2.037794
 123000680W-4,4,Rue Claude Granier,12200,Villefranche-de-Rouergue,C+O,44.353218,2.037481
 123000700T-11,11,Rue du Cloitre,12200,Villefranche-de-Rouergue,C+O,44.343698,2.035069
@@ -49595,8 +49596,8 @@
 123000790R-7,7,Rue des Cordeliers,12200,Villefranche-de-Rouergue,C+O,44.351672,2.035871
 123000790R-8,8,Rue des Cordeliers,12200,Villefranche-de-Rouergue,OSM,44.351741,2.035499
 123000790R-9,9,Rue des Cordeliers,12200,Villefranche-de-Rouergue,C+O,44.351705,2.035807
-123000796X-71,71,Impasse du Cot,12200,Villefranche-de-Rouergue,CAD,44.353745,2.020086
-123000796X-93,93,Impasse du Cot,12200,Villefranche-de-Rouergue,CAD,44.353896,2.020030
+123000796X-71,71,Impasse du Cot,12200,Villefranche-de-Rouergue,C+O,44.353745,2.020086
+123000796X-93,93,Impasse du Cot,12200,Villefranche-de-Rouergue,C+O,44.353896,2.020030
 123000800B-10,10,Rue de la Côte Pavée,12200,Villefranche-de-Rouergue,C+O,44.347610,2.038394
 123000800B-11,11,Rue de la Côte Pavée,12200,Villefranche-de-Rouergue,C+O,44.347642,2.038466
 123000800B-1,1,Rue de la Côte Pavée,12200,Villefranche-de-Rouergue,C+O,44.348035,2.038170
@@ -50615,23 +50616,23 @@
 123001605B-1,1,Avenue Jean Gazave,12200,Villefranche-de-Rouergue,C+O,44.354940,2.041058
 123001605B-15,15,Avenue Jean Gazave,12200,Villefranche-de-Rouergue,C+O,44.352745,2.041216
 123001605B-17,17,Avenue Jean Gazave,12200,Villefranche-de-Rouergue,C+O,44.352870,2.041095
-123001610G-10,10,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352845,2.034644
-123001610G-10B,10BIS,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352882,2.034658
-123001610G-11,11,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.353181,2.033743
-123001610G-1,1,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352343,2.033787
-123001610G-12,12,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352904,2.034666
-123001610G-14,14,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352924,2.034673
-123001610G-16,16,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352969,2.034689
-123001610G-18,18,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.353051,2.034719
-123001610G-2,2,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352471,2.034482
-123001610G-24,24,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.353326,2.034933
-123001610G-3,3,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352424,2.033800
-123001610G-40,40,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352398,2.034559
-123001610G-4,4,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352540,2.034511
-123001610G-5,5,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352567,2.033824
-123001610G-7,7,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352705,2.033852
-123001610G-9,9,Place Jean Jaures,12200,Villefranche-de-Rouergue,C+O,44.352990,2.033925
-123001616N-30,30,Chemin Jean Toulouse,12200,Villefranche-de-Rouergue,CAD,44.336002,2.001711
+123001610G-10,10,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352845,2.034644
+123001610G-10B,10BIS,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352882,2.034658
+123001610G-11,11,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.353181,2.033743
+123001610G-1,1,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352343,2.033787
+123001610G-12,12,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352904,2.034666
+123001610G-14,14,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352924,2.034673
+123001610G-16,16,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352969,2.034689
+123001610G-18,18,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.353051,2.034719
+123001610G-2,2,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352471,2.034482
+123001610G-24,24,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.353326,2.034933
+123001610G-3,3,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352424,2.033800
+123001610G-40,40,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352398,2.034559
+123001610G-4,4,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352540,2.034511
+123001610G-5,5,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352567,2.033824
+123001610G-7,7,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352705,2.033852
+123001610G-9,9,Place Jean Jaurès,12200,Villefranche-de-Rouergue,C+O,44.352990,2.033925
+123001616N-30,30,Chemin Jean Toulouse,12200,Villefranche-de-Rouergue,C+O,44.336002,2.001711
 123001620T-11,11,Rue du Jeu de Paume,12200,Villefranche-de-Rouergue,C+O,44.348417,2.037897
 123001620T-1,1,Rue du Jeu de Paume,12200,Villefranche-de-Rouergue,C+O,44.348714,2.037697
 123001620T-13,13,Rue du Jeu de Paume,12200,Villefranche-de-Rouergue,C+O,44.348383,2.037922
@@ -51280,8 +51281,8 @@
 123002040Z-6,6,Rue Notre-Dame,12200,Villefranche-de-Rouergue,C+O,44.352457,2.038231
 123002040Z-8,8,Rue Notre-Dame,12200,Villefranche-de-Rouergue,C+O,44.352441,2.038382
 123002065B-44,44,Rue du 11 Novembre,12200,Villefranche-de-Rouergue,C+O,44.353614,2.032383
-123002076N-100,100,Chemin d'Ordiget,12200,Villefranche-de-Rouergue,CAD,44.332150,2.011334
-123002076N-146,146,Chemin d'Ordiget,12200,Villefranche-de-Rouergue,CAD,44.331968,2.011395
+123002076N-100,100,Chemin d'Ordiget,12200,Villefranche-de-Rouergue,C+O,44.332150,2.011334
+123002076N-146,146,Chemin d'Ordiget,12200,Villefranche-de-Rouergue,C+O,44.331968,2.011395
 123002080T-3,3,Rue des Orfevres,12200,Villefranche-de-Rouergue,C+O,44.352822,2.036982
 123002080T-5,5,Rue des Orfevres,12200,Villefranche-de-Rouergue,C+O,44.352866,2.036997
 123002080T-6,6,Rue des Orfevres,12200,Villefranche-de-Rouergue,C+O,44.352855,2.037032
@@ -51462,17 +51463,17 @@
 123002286S-40,40,Route Basse des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.327353,2.018860
 123002286S-66,66,Route Basse des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.327086,2.018814
 123002286S-83,83,Route Basse des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.326913,2.018911
-123002287T-119,119,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.326326,2.021050
-123002287T-120,120,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.326368,2.020966
-123002287T-146,146,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.326146,2.021014
-123002287T-160,160,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.325988,2.021021
-123002287T-161,161,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.326027,2.021122
-123002287T-190,190,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.325759,2.021035
-123002287T-240,240,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.325368,2.021177
-123002287T-24,24,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.327389,2.021080
-123002287T-25,25,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.327331,2.021125
-123002287T-89,89,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.326696,2.020978
-123002287T-90,90,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,CAD,44.326673,2.020907
+123002287T-119,119,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.326326,2.021050
+123002287T-120,120,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.326368,2.020966
+123002287T-146,146,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.326146,2.021014
+123002287T-160,160,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.325988,2.021021
+123002287T-161,161,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.326027,2.021122
+123002287T-190,190,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.325759,2.021035
+123002287T-240,240,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.325368,2.021177
+123002287T-24,24,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.327389,2.021080
+123002287T-25,25,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.327331,2.021125
+123002287T-89,89,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.326696,2.020978
+123002287T-90,90,Route Haute des Peyrugues,12200,Villefranche-de-Rouergue,C+O,44.326673,2.020907
 123002290W-3,3,Rue Pie,12200,Villefranche-de-Rouergue,C+O,44.352219,2.036095
 123002290W-5,5,Rue Pie,12200,Villefranche-de-Rouergue,C+O,44.352173,2.036074
 123002290W-7,7,Rue Pie,12200,Villefranche-de-Rouergue,C+O,44.352139,2.036059
@@ -51613,7 +51614,7 @@
 123002460F-2,2,Rue Puechméja,12200,Villefranche-de-Rouergue,C+O,44.351384,2.039306
 123002460F-4,4,Rue Puechméja,12200,Villefranche-de-Rouergue,C+O,44.351496,2.039348
 123002460F-5,5,Rue Puechméja,12200,Villefranche-de-Rouergue,C+O,44.351400,2.039350
-123002463J-18,18,Chemin du Puits,12200,Villefranche-de-Rouergue,CAD,44.336538,1.997313
+123002463J-18,18,Chemin du Puits,12200,Villefranche-de-Rouergue,C+O,44.336538,1.997313
 123002464K-102,102,Chemin de la Puniere,12200,Villefranche-de-Rouergue,CAD,44.336635,2.015165
 123002470S-10,10,Avenue du Quercy,12200,Villefranche-de-Rouergue,C+O,44.353464,2.030234
 123002470S-101,101,Avenue du Quercy,12200,Villefranche-de-Rouergue,C+O,44.355865,2.027137
@@ -51986,7 +51987,7 @@
 123002613X-81,81,Impasse de la Roque,12200,Villefranche-de-Rouergue,C+O,44.339974,2.039366
 123002613X-82,82,Impasse de la Roque,12200,Villefranche-de-Rouergue,C+O,44.339983,2.039295
 123002613X-8,8,Impasse de la Roque,12200,Villefranche-de-Rouergue,C+O,44.340467,2.039093
-123002614Y-350,350,Impasse de Roussesque,12200,Villefranche-de-Rouergue,CAD,44.346868,2.011976
+123002614Y-350,350,Impasse de Roussesque,12200,Villefranche-de-Rouergue,C+O,44.346868,2.011976
 123002620E-10,10,Rue Rouzies Labastide,12200,Villefranche-de-Rouergue,C+O,44.350157,2.037919
 123002620E-1,1,Rue Rouzies Labastide,12200,Villefranche-de-Rouergue,C+O,44.350693,2.038156
 123002620E-12,12,Rue Rouzies Labastide,12200,Villefranche-de-Rouergue,C+O,44.350068,2.037905
@@ -52488,8 +52489,8 @@
 123002912X-606,606,Chemin du Teulel,12200,Villefranche-de-Rouergue,C+O,44.342301,2.028472
 123002912X-618,618,Chemin du Teulel,12200,Villefranche-de-Rouergue,C+O,44.342073,2.028778
 123002912X-826,826,Chemin du Teulel,12200,Villefranche-de-Rouergue,C+O,44.340140,2.028235
-123002913Y-104,104,Impasse des Teulières,12200,Villefranche-de-Rouergue,CAD,44.351192,2.010463
-123002913Y-95,95,Impasse des Teulières,12200,Villefranche-de-Rouergue,CAD,44.351088,2.011029
+123002913Y-104,104,Impasse des Teulières,12200,Villefranche-de-Rouergue,C+O,44.351192,2.010463
+123002913Y-95,95,Impasse des Teulières,12200,Villefranche-de-Rouergue,C+O,44.351088,2.011029
 123002915A-10,10,Rue des Tilleuls,12200,Villefranche-de-Rouergue,C+O,44.358423,2.028760
 123002915A-10B,10BIS,Rue des Tilleuls,12200,Villefranche-de-Rouergue,C+O,44.358689,2.028827
 123002915A-2,2,Rue des Tilleuls,12200,Villefranche-de-Rouergue,C+O,44.357811,2.028715
@@ -52792,17 +52793,17 @@
 123003130J-2,2,Rue des Vieilles Écoles,12200,Villefranche-de-Rouergue,C+O,44.353471,2.036704
 123003130J-3,3,Rue des Vieilles Écoles,12200,Villefranche-de-Rouergue,C+O,44.353473,2.036358
 123003130J-6,6,Rue des Vieilles Écoles,12200,Villefranche-de-Rouergue,C+O,44.353477,2.036631
-123003133M-411,411,Chemin du Vignal,12200,Villefranche-de-Rouergue,CAD,44.331550,2.003433
-123003133M-468,468,Chemin du Vignal,12200,Villefranche-de-Rouergue,CAD,44.330566,2.002779
+123003133M-411,411,Chemin du Vignal,12200,Villefranche-de-Rouergue,C+O,44.331550,2.003433
+123003133M-468,468,Chemin du Vignal,12200,Villefranche-de-Rouergue,C+O,44.330566,2.002779
 123003135P-6,6,Rue des Vignerons,12200,Villefranche-de-Rouergue,C+O,44.360918,2.041778
 123003136R-1,1,Rue des Vignes,12200,Villefranche-de-Rouergue,C+O,44.352757,2.026182
 123003136R-14,14,Rue des Vignes,12200,Villefranche-de-Rouergue,C+O,44.354930,2.026322
 123003136R-4,4,Rue des Vignes,12200,Villefranche-de-Rouergue,C+O,44.353271,2.027048
-123003138T-109,109,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,CAD,44.335222,2.000764
-123003138T-112,112,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,CAD,44.335241,2.000851
-123003138T-126,126,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,CAD,44.335411,2.000824
-123003138T-26,26,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,CAD,44.334364,2.000659
-123003138T-63,63,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,CAD,44.334681,2.000640
+123003138T-109,109,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,C+O,44.335222,2.000764
+123003138T-112,112,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,C+O,44.335241,2.000851
+123003138T-126,126,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,C+O,44.335411,2.000824
+123003138T-26,26,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,C+O,44.334364,2.000659
+123003138T-63,63,Chemin de la Vigne de Roujou,12200,Villefranche-de-Rouergue,C+O,44.334681,2.000640
 123003140V-100,100,Avenue Vincent Cibiel,12200,Villefranche-de-Rouergue,C+O,44.361690,2.022171
 123003140V-100B,100BIS,Avenue Vincent Cibiel,12200,Villefranche-de-Rouergue,C+O,44.361760,2.022349
 123003140V-101,101,Avenue Vincent Cibiel,12200,Villefranche-de-Rouergue,C+O,44.361909,2.021591
