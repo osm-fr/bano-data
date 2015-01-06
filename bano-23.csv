@@ -4622,14 +4622,14 @@
 230300632G-7,7,Allée Pablo Picasso,23400,Bourganeuf,C+O,45.951390,1.764820
 230300632G-8,8,Allée Pablo Picasso,23400,Bourganeuf,C+O,45.950875,1.764597
 230300632G-9,9,Allée Pablo Picasso,23400,Bourganeuf,C+O,45.951568,1.764924
-230300634J-10,10,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953692,1.746486
-230300634J-1,1,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953190,1.746612
-230300634J-2,2,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953004,1.746836
-230300634J-3,3,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953505,1.746421
-230300634J-4,4,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953221,1.746714
-230300634J-5,5,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953531,1.746268
-230300634J-6,6,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953532,1.746650
-230300634J-8,8,Allée Paul Eluard,23400,Bourganeuf,C+O,45.953652,1.746656
+230300634J-10,10,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953692,1.746486
+230300634J-1,1,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953190,1.746612
+230300634J-2,2,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953004,1.746836
+230300634J-3,3,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953505,1.746421
+230300634J-4,4,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953221,1.746714
+230300634J-5,5,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953531,1.746268
+230300634J-6,6,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953532,1.746650
+230300634J-8,8,Allée Paul Éluard,23400,Bourganeuf,C+O,45.953652,1.746656
 230300636L-16,16,Allée Paul Gauguin,23400,Bourganeuf,C+O,45.950332,1.762854
 230300636L-2,2,Allée Paul Gauguin,23400,Bourganeuf,C+O,45.950740,1.763761
 230300636L-4,4,Allée Paul Gauguin,23400,Bourganeuf,C+O,45.950519,1.763513
@@ -6775,7 +6775,7 @@
 230480007Z-7,7,Rue des Combrailles,23190,Champagnat,C+O,46.018380,2.283733
 230480007Z-8,8,Rue des Combrailles,23190,Champagnat,C+O,46.018763,2.285324
 230480009B-4,4,Chemin des Écoliers,23190,Champagnat,C+O,46.018955,2.282726
-230480013F-14,14,Route des Etangs,23190,Champagnat,C+O,46.020437,2.283905
+230480013F-14,14,Route des Étangs,23190,Champagnat,C+O,46.020437,2.283905
 230480015H-10,10,Rue de la Forge,23190,Champagnat,C+O,46.016381,2.284661
 230480015H-2,2,Rue de la Forge,23190,Champagnat,C+O,46.016642,2.284811
 230480015H-4,4,Rue de la Forge,23190,Champagnat,C+O,46.016565,2.284767
@@ -8783,8 +8783,8 @@
 230700007D-2,2,Chemin des Chaumats,23160,Crozant,C+O,46.391189,1.621210
 230700007D-7,7,Chemin des Chaumats,23160,Crozant,C+O,46.391062,1.620050
 230700007D-8,8,Chemin des Chaumats,23160,Crozant,C+O,46.391106,1.620321
-230700009F-5,5,Placa de la Chopeline,23160,Crozant,CAD,46.392770,1.620898
-230700009F-7,7,Placa de la Chopeline,23160,Crozant,CAD,46.393097,1.621328
+230700009F-5,5,Placa de la Chopeline,23160,Crozant,C+O,46.392770,1.620898
+230700009F-7,7,Placa de la Chopeline,23160,Crozant,C+O,46.393097,1.621328
 230700011H-3,3,Chemin de la Croix Piquat,23160,Crozant,C+O,46.384146,1.619024
 230700011H-5,5,Chemin de la Croix Piquat,23160,Crozant,C+O,46.383920,1.618576
 230700013K-11,11,Route d'Eguzon,23160,Crozant,C+O,46.384235,1.623003
@@ -13104,50 +13104,50 @@
 230960373N-5,5,Route de Chabrieres,23000,Guéret,C+O,46.147188,1.866015
 230960373N-7,7,Route de Chabrieres,23000,Guéret,C+O,46.147005,1.866053
 230960373N-8,8,Route de Chabrieres,23000,Guéret,C+O,46.147313,1.866138
-230960390G-10,10,Rue Champegaud,23000,Guéret,C+O,46.168331,1.863605
-230960390G-11,11,Rue Champegaud,23000,Guéret,C+O,46.167994,1.863023
-230960390G-1,1,Rue Champegaud,23000,Guéret,C+O,46.168781,1.863618
-230960390G-12,12,Rue Champegaud,23000,Guéret,C+O,46.168100,1.863272
-230960390G-14,14,Rue Champegaud,23000,Guéret,C+O,46.167801,1.863034
-230960390G-16,16,Rue Champegaud,23000,Guéret,C+O,46.167624,1.862992
-230960390G-18,18,Rue Champegaud,23000,Guéret,C+O,46.167385,1.862998
-230960390G-20,20,Rue Champegaud,23000,Guéret,C+O,46.167122,1.862768
-230960390G-21,21,Rue Champegaud,23000,Guéret,C+O,46.167180,1.862572
-230960390G-22,22,Rue Champegaud,23000,Guéret,C+O,46.166929,1.862594
-230960390G-23,23,Rue Champegaud,23000,Guéret,C+O,46.167054,1.862458
-230960390G-24,24,Rue Champegaud,23000,Guéret,C+O,46.166783,1.862462
-230960390G-25,25,Rue Champegaud,23000,Guéret,C+O,46.166931,1.862347
-230960390G-26,26,Rue Champegaud,23000,Guéret,C+O,46.166620,1.862313
-230960390G-27,27,Rue Champegaud,23000,Guéret,C+O,46.166804,1.862231
-230960390G-28,28,Rue Champegaud,23000,Guéret,C+O,46.166446,1.862152
-230960390G-29,29,Rue Champegaud,23000,Guéret,C+O,46.166670,1.862109
-230960390G-30,30,Rue Champegaud,23000,Guéret,C+O,46.166288,1.862008
-230960390G-31,31,Rue Champegaud,23000,Guéret,C+O,46.166545,1.861994
-230960390G-32,32,Rue Champegaud,23000,Guéret,C+O,46.166164,1.861897
-230960390G-33,33,Rue Champegaud,23000,Guéret,C+O,46.166426,1.861887
-230960390G-3,3,Rue Champegaud,23000,Guéret,C+O,46.168633,1.863570
-230960390G-34,34,Rue Champegaud,23000,Guéret,C+O,46.165964,1.861714
-230960390G-35,35,Rue Champegaud,23000,Guéret,C+O,46.166274,1.861733
-230960390G-36,36,Rue Champegaud,23000,Guéret,C+O,46.165968,1.861414
-230960390G-37,37,Rue Champegaud,23000,Guéret,C+O,46.166113,1.861486
-230960390G-39,39,Rue Champegaud,23000,Guéret,C+O,46.166017,1.861242
-230960390G-41,41,Rue Champegaud,23000,Guéret,C+O,46.165951,1.861050
-230960390G-43,43,Rue Champegaud,23000,Guéret,C+O,46.165885,1.860865
-230960390G-45,45,Rue Champegaud,23000,Guéret,C+O,46.165816,1.860666
-230960390G-47,47,Rue Champegaud,23000,Guéret,C+O,46.165734,1.860440
-230960390G-5,5,Rue Champegaud,23000,Guéret,C+O,46.168418,1.863480
-230960390G-61,61,Rue Champegaud,23000,Guéret,C+O,46.164643,1.859625
-230960390G-63,63,Rue Champegaud,23000,Guéret,C+O,46.164443,1.859630
-230960390G-65,65,Rue Champegaud,23000,Guéret,C+O,46.164263,1.859675
-230960390G-67,67,Rue Champegaud,23000,Guéret,C+O,46.164066,1.859740
-230960390G-69,69,Rue Champegaud,23000,Guéret,C+O,46.163919,1.859792
-230960390G-71,71,Rue Champegaud,23000,Guéret,C+O,46.163758,1.859844
-230960390G-73,73,Rue Champegaud,23000,Guéret,C+O,46.163570,1.859916
-230960390G-75,75,Rue Champegaud,23000,Guéret,C+O,46.163357,1.860018
-230960390G-77,77,Rue Champegaud,23000,Guéret,C+O,46.163199,1.860123
-230960390G-7,7,Rue Champegaud,23000,Guéret,C+O,46.168267,1.863330
-230960390G-79,79,Rue Champegaud,23000,Guéret,C+O,46.162976,1.859982
-230960390G-9,9,Rue Champegaud,23000,Guéret,C+O,46.168119,1.863155
+230960390G-10,10,Rue de Champegaud,23000,Guéret,C+O,46.168331,1.863605
+230960390G-11,11,Rue de Champegaud,23000,Guéret,C+O,46.167994,1.863023
+230960390G-1,1,Rue de Champegaud,23000,Guéret,C+O,46.168781,1.863618
+230960390G-12,12,Rue de Champegaud,23000,Guéret,C+O,46.168100,1.863272
+230960390G-14,14,Rue de Champegaud,23000,Guéret,C+O,46.167801,1.863034
+230960390G-16,16,Rue de Champegaud,23000,Guéret,C+O,46.167624,1.862992
+230960390G-18,18,Rue de Champegaud,23000,Guéret,C+O,46.167385,1.862998
+230960390G-20,20,Rue de Champegaud,23000,Guéret,C+O,46.167122,1.862768
+230960390G-21,21,Rue de Champegaud,23000,Guéret,C+O,46.167180,1.862572
+230960390G-22,22,Rue de Champegaud,23000,Guéret,C+O,46.166929,1.862594
+230960390G-23,23,Rue de Champegaud,23000,Guéret,C+O,46.167054,1.862458
+230960390G-24,24,Rue de Champegaud,23000,Guéret,C+O,46.166783,1.862462
+230960390G-25,25,Rue de Champegaud,23000,Guéret,C+O,46.166931,1.862347
+230960390G-26,26,Rue de Champegaud,23000,Guéret,C+O,46.166620,1.862313
+230960390G-27,27,Rue de Champegaud,23000,Guéret,C+O,46.166804,1.862231
+230960390G-28,28,Rue de Champegaud,23000,Guéret,C+O,46.166446,1.862152
+230960390G-29,29,Rue de Champegaud,23000,Guéret,C+O,46.166670,1.862109
+230960390G-30,30,Rue de Champegaud,23000,Guéret,C+O,46.166288,1.862008
+230960390G-31,31,Rue de Champegaud,23000,Guéret,C+O,46.166545,1.861994
+230960390G-32,32,Rue de Champegaud,23000,Guéret,C+O,46.166164,1.861897
+230960390G-33,33,Rue de Champegaud,23000,Guéret,C+O,46.166426,1.861887
+230960390G-3,3,Rue de Champegaud,23000,Guéret,C+O,46.168633,1.863570
+230960390G-34,34,Rue de Champegaud,23000,Guéret,C+O,46.165964,1.861714
+230960390G-35,35,Rue de Champegaud,23000,Guéret,C+O,46.166274,1.861733
+230960390G-36,36,Rue de Champegaud,23000,Guéret,C+O,46.165968,1.861414
+230960390G-37,37,Rue de Champegaud,23000,Guéret,C+O,46.166113,1.861486
+230960390G-39,39,Rue de Champegaud,23000,Guéret,C+O,46.166017,1.861242
+230960390G-41,41,Rue de Champegaud,23000,Guéret,C+O,46.165951,1.861050
+230960390G-43,43,Rue de Champegaud,23000,Guéret,C+O,46.165885,1.860865
+230960390G-45,45,Rue de Champegaud,23000,Guéret,C+O,46.165816,1.860666
+230960390G-47,47,Rue de Champegaud,23000,Guéret,C+O,46.165734,1.860440
+230960390G-5,5,Rue de Champegaud,23000,Guéret,C+O,46.168418,1.863480
+230960390G-61,61,Rue de Champegaud,23000,Guéret,C+O,46.164643,1.859625
+230960390G-63,63,Rue de Champegaud,23000,Guéret,C+O,46.164443,1.859630
+230960390G-65,65,Rue de Champegaud,23000,Guéret,C+O,46.164263,1.859675
+230960390G-67,67,Rue de Champegaud,23000,Guéret,C+O,46.164066,1.859740
+230960390G-69,69,Rue de Champegaud,23000,Guéret,C+O,46.163919,1.859792
+230960390G-71,71,Rue de Champegaud,23000,Guéret,C+O,46.163758,1.859844
+230960390G-73,73,Rue de Champegaud,23000,Guéret,C+O,46.163570,1.859916
+230960390G-75,75,Rue de Champegaud,23000,Guéret,C+O,46.163357,1.860018
+230960390G-77,77,Rue de Champegaud,23000,Guéret,C+O,46.163199,1.860123
+230960390G-7,7,Rue de Champegaud,23000,Guéret,C+O,46.168267,1.863330
+230960390G-79,79,Rue de Champegaud,23000,Guéret,C+O,46.162976,1.859982
+230960390G-9,9,Rue de Champegaud,23000,Guéret,C+O,46.168119,1.863155
 230960410D-1,1,Chemin de Chandonnet,23000,Guéret,CAD,46.176016,1.862857
 230960422S-1,1,Allée du Chanoine Plazanet,23000,Guéret,C+O,46.166722,1.875296
 230960422S-5,5,Allée du Chanoine Plazanet,23000,Guéret,C+O,46.167160,1.875183
@@ -18433,11 +18433,11 @@
 231310001G-1,1,Rue de Beauvais,23420,Mérinchal,C+O,45.916861,2.488607
 231310001G-2,2,Rue de Beauvais,23420,Mérinchal,C+O,45.917045,2.488552
 231310005L-1,1,Rue du Bois Lacheix,23420,Mérinchal,CAD,45.912647,2.494976
-231310010S-1,1,Rue du champ de la Plaine,23420,Mérinchal,C+O,45.914645,2.480228
-231310010S-3,3,Rue du champ de la Plaine,23420,Mérinchal,C+O,45.914480,2.480738
-231310010S-4,4,Rue du champ de la Plaine,23420,Mérinchal,C+O,45.914422,2.481147
-231310010S-5,5,Rue du champ de la Plaine,23420,Mérinchal,C+O,45.914463,2.481427
-231310010S-7,7,Rue du champ de la Plaine,23420,Mérinchal,C+O,45.914363,2.482044
+231310010S-1,1,Rue du Champ de la Plaine,23420,Mérinchal,C+O,45.914645,2.480228
+231310010S-3,3,Rue du Champ de la Plaine,23420,Mérinchal,C+O,45.914480,2.480738
+231310010S-4,4,Rue du Champ de la Plaine,23420,Mérinchal,C+O,45.914422,2.481147
+231310010S-5,5,Rue du Champ de la Plaine,23420,Mérinchal,C+O,45.914463,2.481427
+231310010S-7,7,Rue du Champ de la Plaine,23420,Mérinchal,C+O,45.914363,2.482044
 231310014W-10,10,Rue du Château de la Mothe,23420,Mérinchal,C+O,45.914811,2.488391
 231310014W-2,2,Rue du Château de la Mothe,23420,Mérinchal,C+O,45.916067,2.486526
 231310014W-2B,2BIS,Rue du Château de la Mothe,23420,Mérinchal,C+O,45.915890,2.486519
@@ -24194,17 +24194,17 @@
 231990002M-4,4,Place de l'Ancienne Poste,23160,Saint-Germain-Beaupré,C+O,46.309421,1.544597
 231990002M-5,5,Place de l'Ancienne Poste,23160,Saint-Germain-Beaupré,C+O,46.309341,1.544600
 231990002M-6,6,Place de l'Ancienne Poste,23160,Saint-Germain-Beaupré,C+O,46.309286,1.544368
-231990003N-1,1,Place de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.308663,1.545897
-231990003N-2,2,Place de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.308462,1.545770
-231990003N-3,3,Place de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.308367,1.545620
-231990003N-4,4,Place de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.308273,1.545415
-231990003N-5,5,Place de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.308208,1.545311
-231990003N-6,6,Place de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.308178,1.545262
-231990004P-1,1,Impasse de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.307948,1.544695
-231990004P-2,2,Impasse de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.307883,1.544768
-231990004P-3,3,Impasse de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.307846,1.544666
-231990004P-4,4,Impasse de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.307809,1.544566
-231990004P-5,5,Impasse de l'Eglise,23160,Saint-Germain-Beaupré,C+O,46.307855,1.544527
+231990003N-1,1,Place de l'Église,23160,Saint-Germain-Beaupré,C+O,46.308663,1.545897
+231990003N-2,2,Place de l'Église,23160,Saint-Germain-Beaupré,C+O,46.308462,1.545770
+231990003N-3,3,Place de l'Église,23160,Saint-Germain-Beaupré,C+O,46.308367,1.545620
+231990003N-4,4,Place de l'Église,23160,Saint-Germain-Beaupré,C+O,46.308273,1.545415
+231990003N-5,5,Place de l'Église,23160,Saint-Germain-Beaupré,C+O,46.308208,1.545311
+231990003N-6,6,Place de l'Église,23160,Saint-Germain-Beaupré,C+O,46.308178,1.545262
+231990004P-1,1,Impasse de l'Église,23160,Saint-Germain-Beaupré,C+O,46.307948,1.544695
+231990004P-2,2,Impasse de l'Église,23160,Saint-Germain-Beaupré,C+O,46.307883,1.544768
+231990004P-3,3,Impasse de l'Église,23160,Saint-Germain-Beaupré,C+O,46.307846,1.544666
+231990004P-4,4,Impasse de l'Église,23160,Saint-Germain-Beaupré,C+O,46.307809,1.544566
+231990004P-5,5,Impasse de l'Église,23160,Saint-Germain-Beaupré,C+O,46.307855,1.544527
 231990005R-10,10,Route du Boucheron,23160,Saint-Germain-Beaupré,CAD,46.305654,1.546328
 231990005R-12,12,Route du Boucheron,23160,Saint-Germain-Beaupré,CAD,46.305332,1.546371
 231990005R-14,14,Route du Boucheron,23160,Saint-Germain-Beaupré,CAD,46.303590,1.546500
@@ -24397,8 +24397,8 @@
 232050001K-4,4,Route de Peyrat le Château,23400,Saint-Junien-la-Bregère,C+O,45.884929,1.754559
 232050001K-5,5,Route de Peyrat le Château,23400,Saint-Junien-la-Bregère,C+O,45.881159,1.750694
 232050001K-6,6,Route de Peyrat le Château,23400,Saint-Junien-la-Bregère,C+O,45.884774,1.754388
-232050002L-3,3,Place de l'Eglise,23400,Saint-Junien-la-Bregère,C+O,45.881468,1.754297
-232050002L-4,4,Place de l'Eglise,23400,Saint-Junien-la-Bregère,C+O,45.881651,1.754761
+232050002L-3,3,Place de l'Église,23400,Saint-Junien-la-Bregère,C+O,45.881468,1.754297
+232050002L-4,4,Place de l'Église,23400,Saint-Junien-la-Bregère,C+O,45.881651,1.754761
 232050003M-10,10,Rue du Chevalier de Chateauneu,23400,Saint-Junien-la-Bregère,C+O,45.882611,1.754534
 232050003M-14,14,Rue du Chevalier de Chateauneu,23400,Saint-Junien-la-Bregère,C+O,45.882557,1.753112
 232050003M-16,16,Rue du Chevalier de Chateauneu,23400,Saint-Junien-la-Bregère,C+O,45.882583,1.752647
@@ -24410,9 +24410,9 @@
 232050003M-6,6,Rue du Chevalier de Chateauneu,23400,Saint-Junien-la-Bregère,C+O,45.882734,1.754844
 232050003M-8,8,Rue du Chevalier de Chateauneu,23400,Saint-Junien-la-Bregère,C+O,45.882672,1.754672
 232050003M-9,9,Rue du Chevalier de Chateauneu,23400,Saint-Junien-la-Bregère,C+O,45.883351,1.753451
-232050004N-2,2,Rue des Ecoles,23400,Saint-Junien-la-Bregère,C+O,45.885551,1.754867
-232050004N-4,4,Rue des Ecoles,23400,Saint-Junien-la-Bregère,C+O,45.885883,1.754457
-232050004N-5,5,Rue des Ecoles,23400,Saint-Junien-la-Bregère,C+O,45.885694,1.753999
+232050004N-2,2,Rue des Écoles,23400,Saint-Junien-la-Bregère,C+O,45.885551,1.754867
+232050004N-4,4,Rue des Écoles,23400,Saint-Junien-la-Bregère,C+O,45.885883,1.754457
+232050004N-5,5,Rue des Écoles,23400,Saint-Junien-la-Bregère,C+O,45.885694,1.753999
 232060001F-10,10,Rue des Fontaines,23000,Saint-Laurent,C+O,46.166859,1.961965
 232060001F-1,1,Rue des Fontaines,23000,Saint-Laurent,C+O,46.167047,1.961830
 232060001F-2,2,Rue des Fontaines,23000,Saint-Laurent,C+O,46.166639,1.962339
@@ -24598,17 +24598,17 @@
 232080030D-3,3,Rue du Château,23000,Saint-Léger-le-Guérétois,C+O,46.150324,1.814065
 232080030D-4,4,Rue du Château,23000,Saint-Léger-le-Guérétois,C+O,46.150441,1.813956
 232080030D-7,7,Rue du Château,23000,Saint-Léger-le-Guérétois,C+O,46.149786,1.813795
-232080040P-10,10,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150562,1.813062
-232080040P-1,1,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150813,1.814231
-232080040P-12,12,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150552,1.812884
-232080040P-14,14,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150950,1.812279
-232080040P-18,18,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.151182,1.811886
-232080040P-20,20,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.151210,1.811675
-232080040P-2,2,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150944,1.814386
-232080040P-3,3,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150598,1.813569
-232080040P-4,4,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150849,1.814113
-232080040P-6,6,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150769,1.813857
-232080040P-7,7,Rue des Ecoles,23000,Saint-Léger-le-Guérétois,C+O,46.150494,1.813027
+232080040P-10,10,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150562,1.813062
+232080040P-1,1,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150813,1.814231
+232080040P-12,12,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150552,1.812884
+232080040P-14,14,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150950,1.812279
+232080040P-18,18,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.151182,1.811886
+232080040P-20,20,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.151210,1.811675
+232080040P-2,2,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150944,1.814386
+232080040P-3,3,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150598,1.813569
+232080040P-4,4,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150849,1.814113
+232080040P-6,6,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150769,1.813857
+232080040P-7,7,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150494,1.813027
 232080045V-1,1,Place de l'Église,23000,Saint-Léger-le-Guérétois,CAD,46.151862,1.813579
 232080045V-2,2,Place de l'Église,23000,Saint-Léger-le-Guérétois,CAD,46.151954,1.813484
 232080050A-3,3,Rue des Flottes,23000,Saint-Léger-le-Guérétois,C+O,46.150271,1.810726
