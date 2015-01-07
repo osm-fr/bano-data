@@ -2273,17 +2273,17 @@
 120330058F-6,6,Place de la Mairie,12500,Bozouls,C+O,44.469992,2.720103
 120330058F-8,8,Place de la Mairie,12500,Bozouls,C+O,44.470075,2.719912
 120330058F-9,9,Place de la Mairie,12500,Bozouls,C+O,44.469830,2.719882
-120330059G-10,10,Rue Marc André Fabre,12500,Bozouls,C+O,44.473206,2.721711
-120330059G-11,11,Rue Marc André Fabre,12500,Bozouls,C+O,44.473848,2.721941
-120330059G-1,1,Rue Marc André Fabre,12500,Bozouls,C+O,44.471581,2.720408
-120330059G-12,12,Rue Marc André Fabre,12500,Bozouls,C+O,44.473529,2.721891
-120330059G-13,13,Rue Marc André Fabre,12500,Bozouls,C+O,44.474368,2.722140
-120330059G-14,14,Rue Marc André Fabre,12500,Bozouls,C+O,44.474517,2.722351
-120330059G-3,3,Rue Marc André Fabre,12500,Bozouls,C+O,44.471812,2.720614
-120330059G-5,5,Rue Marc André Fabre,12500,Bozouls,C+O,44.471959,2.720572
-120330059G-6106,6106,Rue Marc André Fabre,12500,Bozouls,C+O,44.471784,2.720688
-120330059G-6,6,Rue Marc André Fabre,12500,Bozouls,OSM,44.471723,2.721228
-120330059G-7,7,Rue Marc André Fabre,12500,Bozouls,C+O,44.472852,2.721066
+120330059G-10,10,Rue Marc-André Fabre,12500,Bozouls,C+O,44.473206,2.721711
+120330059G-11,11,Rue Marc-André Fabre,12500,Bozouls,C+O,44.473848,2.721941
+120330059G-1,1,Rue Marc-André Fabre,12500,Bozouls,C+O,44.471581,2.720408
+120330059G-12,12,Rue Marc-André Fabre,12500,Bozouls,C+O,44.473529,2.721891
+120330059G-13,13,Rue Marc-André Fabre,12500,Bozouls,C+O,44.474368,2.722140
+120330059G-14,14,Rue Marc-André Fabre,12500,Bozouls,C+O,44.474517,2.722351
+120330059G-3,3,Rue Marc-André Fabre,12500,Bozouls,C+O,44.471812,2.720614
+120330059G-5,5,Rue Marc-André Fabre,12500,Bozouls,C+O,44.471959,2.720572
+120330059G-6106,6106,Rue Marc-André Fabre,12500,Bozouls,C+O,44.471784,2.720688
+120330059G-6,6,Rue Marc-André Fabre,12500,Bozouls,OSM,44.471723,2.721228
+120330059G-7,7,Rue Marc-André Fabre,12500,Bozouls,C+O,44.472852,2.721066
 120330061J-11,11,Rue du 19 Mars 1962,12500,Bozouls,C+O,44.474638,2.725243
 120330061J-1,1,Rue du 19 Mars 1962,12500,Bozouls,C+O,44.475106,2.724504
 120330061J-3,3,Rue du 19 Mars 1962,12500,Bozouls,C+O,44.475014,2.724868
@@ -23139,7 +23139,7 @@
 121452105U-59,59,Chemin de Notre Campagne,12100,Millau,C+O,44.106848,3.054857
 121452105U-85,85,Chemin de Notre Campagne,12100,Millau,C+O,44.106723,3.054740
 121452105U-90,90,Chemin de Notre Campagne,12100,Millau,C+O,44.106638,3.054577
-121452115E-100,100,Place de l'Occitanie,12100,Millau,C+O,44.091226,3.056498
+121452115E-100,100,Place d'Occitanie,12100,Millau,C+O,44.091226,3.056498
 121452123N-20,20,Impasse des Ondes,12100,Millau,C+O,44.091363,3.065032
 121452123N-375B,375BIS,Impasse des Ondes,12100,Millau,C+O,44.091972,3.063143
 121452123N-6000,6000,Impasse des Ondes,12100,Millau,C+O,44.091794,3.062853
@@ -25048,17 +25048,17 @@
 121460145J-4,4,Rue du Chêne,12000,Le Monastère,C+O,44.340397,2.578524
 121460145J-6,6,Rue du Chêne,12000,Le Monastère,C+O,44.340309,2.578293
 121460145J-8,8,Rue du Chêne,12000,Le Monastère,C+O,44.340271,2.578160
-121460150P-10,10,Rue des Côteaux,12000,Le Monastère,C+O,44.339922,2.573787
-121460150P-11,11,Rue des Côteaux,12000,Le Monastère,C+O,44.339567,2.573860
-121460150P-1,1,Rue des Côteaux,12000,Le Monastère,C+O,44.338670,2.574137
-121460150P-2,2,Rue des Côteaux,12000,Le Monastère,C+O,44.339206,2.573959
-121460150P-3,3,Rue des Côteaux,12000,Le Monastère,C+O,44.338771,2.574105
-121460150P-4,4,Rue des Côteaux,12000,Le Monastère,C+O,44.339412,2.573930
-121460150P-5,5,Rue des Côteaux,12000,Le Monastère,C+O,44.338947,2.574063
-121460150P-6,6,Rue des Côteaux,12000,Le Monastère,C+O,44.339601,2.573905
-121460150P-7,7,Rue des Côteaux,12000,Le Monastère,C+O,44.339062,2.573978
-121460150P-8,8,Rue des Côteaux,12000,Le Monastère,C+O,44.339788,2.573879
-121460150P-9,9,Rue des Côteaux,12000,Le Monastère,C+O,44.339365,2.573886
+121460150P-10,10,Rue des Coteaux,12000,Le Monastère,C+O,44.339922,2.573787
+121460150P-11,11,Rue des Coteaux,12000,Le Monastère,C+O,44.339567,2.573860
+121460150P-1,1,Rue des Coteaux,12000,Le Monastère,C+O,44.338670,2.574137
+121460150P-2,2,Rue des Coteaux,12000,Le Monastère,C+O,44.339206,2.573959
+121460150P-3,3,Rue des Coteaux,12000,Le Monastère,C+O,44.338771,2.574105
+121460150P-4,4,Rue des Coteaux,12000,Le Monastère,C+O,44.339412,2.573930
+121460150P-5,5,Rue des Coteaux,12000,Le Monastère,C+O,44.338947,2.574063
+121460150P-6,6,Rue des Coteaux,12000,Le Monastère,C+O,44.339601,2.573905
+121460150P-7,7,Rue des Coteaux,12000,Le Monastère,C+O,44.339062,2.573978
+121460150P-8,8,Rue des Coteaux,12000,Le Monastère,C+O,44.339788,2.573879
+121460150P-9,9,Rue des Coteaux,12000,Le Monastère,C+O,44.339365,2.573886
 121460152S-1,1,Impasse du Couchant,12000,Le Monastère,C+O,44.335602,2.574912
 121460152S-2,2,Impasse du Couchant,12000,Le Monastère,C+O,44.335548,2.574902
 121460152S-3,3,Impasse du Couchant,12000,Le Monastère,C+O,44.335667,2.575192
@@ -38731,22 +38731,22 @@
 122021840H-54,54,Avenue du Ségala,12000,Rodez,OSM,44.344885,2.567385
 122021840H-5,5,Avenue du Ségala,12000,Rodez,C+O,44.345130,2.568685
 122021840H-6,6,Avenue du Ségala,12000,Rodez,C+O,44.345267,2.568841
-122021850U-1,1,Rue de Séguret Saincric,12000,Rodez,C+O,44.351959,2.570674
-122021850U-16,16,Rue de Séguret Saincric,12000,Rodez,C+O,44.353391,2.571761
-122021850U-17,17,Rue de Séguret Saincric,12000,Rodez,C+O,44.352702,2.571169
-122021850U-18,18,Rue de Séguret Saincric,12000,Rodez,C+O,44.353502,2.571833
-122021850U-21,21,Rue de Séguret Saincric,12000,Rodez,C+O,44.352891,2.571295
-122021850U-2,2,Rue de Séguret Saincric,12000,Rodez,C+O,44.351963,2.570817
-122021850U-23,23,Rue de Séguret Saincric,12000,Rodez,C+O,44.352991,2.571361
-122021850U-25,25,Rue de Séguret Saincric,12000,Rodez,C+O,44.353285,2.571588
-122021850U-27,27,Rue de Séguret Saincric,12000,Rodez,C+O,44.353401,2.571664
-122021850U-29,29,Rue de Séguret Saincric,12000,Rodez,OSM,44.353563,2.571736
-122021850U-31,31,Rue de Séguret Saincric,12000,Rodez,OSM,44.353721,2.571836
-122021850U-3,3,Rue de Séguret Saincric,12000,Rodez,C+O,44.352139,2.570798
-122021850U-4,4,Rue de Séguret Saincric,12000,Rodez,C+O,44.352127,2.570927
-122021850U-7,7,Rue de Séguret Saincric,12000,Rodez,C+O,44.352273,2.570886
-122021850U-8,8,Rue de Séguret Saincric,12000,Rodez,OSM,44.352616,2.571252
-122021850U-9,9,Rue de Séguret Saincric,12000,Rodez,C+O,44.352496,2.571035
+122021850U-1,1,Rue Séguret Saincric,12000,Rodez,C+O,44.351959,2.570674
+122021850U-16,16,Rue Séguret Saincric,12000,Rodez,C+O,44.353391,2.571761
+122021850U-17,17,Rue Séguret Saincric,12000,Rodez,C+O,44.352702,2.571169
+122021850U-18,18,Rue Séguret Saincric,12000,Rodez,C+O,44.353502,2.571833
+122021850U-21,21,Rue Séguret Saincric,12000,Rodez,C+O,44.352891,2.571295
+122021850U-2,2,Rue Séguret Saincric,12000,Rodez,C+O,44.351963,2.570817
+122021850U-23,23,Rue Séguret Saincric,12000,Rodez,C+O,44.352991,2.571361
+122021850U-25,25,Rue Séguret Saincric,12000,Rodez,C+O,44.353285,2.571588
+122021850U-27,27,Rue Séguret Saincric,12000,Rodez,C+O,44.353401,2.571664
+122021850U-29,29,Rue Séguret Saincric,12000,Rodez,OSM,44.353563,2.571736
+122021850U-31,31,Rue Séguret Saincric,12000,Rodez,OSM,44.353721,2.571836
+122021850U-3,3,Rue Séguret Saincric,12000,Rodez,C+O,44.352139,2.570798
+122021850U-4,4,Rue Séguret Saincric,12000,Rodez,C+O,44.352127,2.570927
+122021850U-7,7,Rue Séguret Saincric,12000,Rodez,C+O,44.352273,2.570886
+122021850U-8,8,Rue Séguret Saincric,12000,Rodez,OSM,44.352616,2.571252
+122021850U-9,9,Rue Séguret Saincric,12000,Rodez,C+O,44.352496,2.571035
 122021860E-10,10,Rue Séguy,12000,Rodez,C+O,44.351619,2.575395
 122021860E-11,11,Rue Séguy,12000,Rodez,C+O,44.351940,2.575601
 122021860E-1,1,Rue Séguy,12000,Rodez,OSM,44.351336,2.575169
@@ -42896,26 +42896,26 @@
 122240166T-7,7,Place du Général De Gaulle,12130,Saint-Geniez-d'Olt,C+O,44.464639,2.974520
 122240166T-8,8,Place du Général De Gaulle,12130,Saint-Geniez-d'Olt,C+O,44.464011,2.973892
 122240166T-9,9,Place du Général De Gaulle,12130,Saint-Geniez-d'Olt,C+O,44.464582,2.974535
-122240220B-11,11,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466041,2.973135
-122240220B-1,1,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466201,2.972879
-122240220B-12,12,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465773,2.973324
-122240220B-13,13,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466007,2.973181
-122240220B-14,14,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465720,2.973383
-122240220B-15,15,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,OSM,44.466018,2.973378
-122240220B-16,16,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465666,2.973435
-122240220B-17,17,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465878,2.973320
-122240220B-18,18,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465613,2.973481
-122240220B-19,19,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465839,2.973361
-122240220B-21,21,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465775,2.973407
-122240220B-2,2,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466148,2.972841
-122240220B-23,23,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465814,2.973618
-122240220B-3,3,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466168,2.972932
-122240220B-4,4,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466117,2.972896
-122240220B-5,5,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466130,2.972994
-122240220B-6,6,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466068,2.972961
-122240220B-7,7,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466285,2.973234
-122240220B-92,92,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.463943,2.969461
-122240220B-9,9,Rue de l'Hotêl de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466067,2.973095
+122240220B-11,11,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466041,2.973135
+122240220B-1,1,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466201,2.972879
+122240220B-12,12,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465773,2.973324
+122240220B-13,13,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466007,2.973181
+122240220B-14,14,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465720,2.973383
+122240220B-15,15,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,OSM,44.466018,2.973378
+122240220B-16,16,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465666,2.973435
+122240220B-17,17,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465878,2.973320
+122240220B-18,18,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465613,2.973481
+122240220B-19,19,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465839,2.973361
+122240220B-21,21,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465775,2.973407
+122240220B-2,2,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466148,2.972841
+122240220B-23,23,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.465814,2.973618
+122240220B-3,3,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466168,2.972932
+122240220B-4,4,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466117,2.972896
+122240220B-5,5,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466130,2.972994
+122240220B-6,6,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466068,2.972961
+122240220B-7,7,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466285,2.973234
+122240220B-92,92,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.463943,2.969461
+122240220B-9,9,Rue de l'Hôtel de Ville,12130,Saint-Geniez-d'Olt,C+O,44.466067,2.973095
 122240260V-10,10,Rue Hygonnet,12130,Saint-Geniez-d'Olt,C+O,44.466524,2.973239
 122240260V-1,1,Rue Hygonnet,12130,Saint-Geniez-d'Olt,C+O,44.466429,2.972827
 122240260V-12,12,Rue Hygonnet,12130,Saint-Geniez-d'Olt,C+O,44.466540,2.973330
@@ -43841,17 +43841,17 @@
 122250140K-5,5,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.064793,2.984065
 122250140K-5B,5BIS,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.064710,2.984046
 122250140K-9,9,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.065359,2.983892
-122250143N-10,10,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060439,2.988917
-122250143N-11,11,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060138,2.988768
-122250143N-1,1,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060104,2.990286
-122250143N-2,2,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060282,2.989952
-122250143N-3,3,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060094,2.989973
-122250143N-4,4,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060330,2.989623
-122250143N-5,5,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060038,2.989687
-122250143N-6,6,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060260,2.989343
-122250143N-7,7,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060023,2.989406
-122250143N-8,8,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060273,2.989101
-122250143N-9,9,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060089,2.989079
+122250143N-10,10,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060439,2.988917
+122250143N-11,11,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060138,2.988768
+122250143N-1,1,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060104,2.990286
+122250143N-2,2,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060282,2.989952
+122250143N-3,3,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060094,2.989973
+122250143N-4,4,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060330,2.989623
+122250143N-5,5,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060038,2.989687
+122250143N-6,6,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060260,2.989343
+122250143N-7,7,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060023,2.989406
+122250143N-8,8,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060273,2.989101
+122250143N-9,9,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060089,2.989079
 122250160G-11,11,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.065640,2.986003
 122250160G-13,13,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.066569,2.986569
 122250160G-6,6,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.065318,2.985720
@@ -47204,23 +47204,23 @@
 122700171Y-5,5,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327689,3.059806
 122700171Y-6,6,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327833,3.059946
 122700171Y-8,8,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327765,3.059785
-122700172Z-11,11,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
-122700172Z-1,1,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
-122700172Z-13,13,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
-122700172Z-15,15,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
-122700172Z-17,17,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
-122700172Z-19,19,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
-122700172Z-21,21,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
-122700172Z-2,2,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
-122700172Z-23,23,Rue Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
-122700172Z-3,3,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
-122700172Z-3B,3BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
-122700172Z-5,5,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
-122700172Z-6,6,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
-122700172Z-7,7,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
-122700172Z-7B,7BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
-122700172Z-8,8,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
-122700172Z-9,9,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
+122700172Z-11,11,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
+122700172Z-1,1,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
+122700172Z-13,13,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
+122700172Z-15,15,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
+122700172Z-17,17,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
+122700172Z-19,19,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
+122700172Z-21,21,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
+122700172Z-2,2,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
+122700172Z-23,23,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
+122700172Z-3,3,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
+122700172Z-3B,3BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
+122700172Z-5,5,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
+122700172Z-6,6,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
+122700172Z-7,7,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
+122700172Z-7B,7BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
+122700172Z-8,8,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
+122700172Z-9,9,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
 122700175C-1,1,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321673,3.068424
 122700175C-2,2,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321717,3.069372
 122700175C-3,3,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321697,3.068191
@@ -49571,14 +49571,14 @@
 123000735F-58,58,Chemin de la Combe de Najague,12200,Villefranche-de-Rouergue,C+O,44.347434,2.021716
 123000735F-60,60,Chemin de la Combe de Najague,12200,Villefranche-de-Rouergue,C+O,44.347220,2.021923
 123000735F-62,62,Chemin de la Combe de Najague,12200,Villefranche-de-Rouergue,C+O,44.347078,2.022060
-123000751Y-1,1,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.334401,2.049072
-123000751Y-324,324,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.336279,2.046919
-123000751Y-350,350,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.336640,2.046588
-123000751Y-400,400,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.336848,2.046397
-123000751Y-506,506,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.338241,2.044100
-123000751Y-510,510,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.337535,2.044801
-123000751Y-530,530,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.337207,2.044943
-123000751Y-608,608,Route de Combesales,12200,Villefranche-de-Rouergue,CAD,44.336728,2.044843
+123000751Y-1,1,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.334401,2.049072
+123000751Y-324,324,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.336279,2.046919
+123000751Y-350,350,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.336640,2.046588
+123000751Y-400,400,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.336848,2.046397
+123000751Y-506,506,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.338241,2.044100
+123000751Y-510,510,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.337535,2.044801
+123000751Y-530,530,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.337207,2.044943
+123000751Y-608,608,Route de Combesales,12200,Villefranche-de-Rouergue,C+O,44.336728,2.044843
 123000760H-11,11,Voie Communale Arcades du Consulat,12200,Villefranche-de-Rouergue,CAD,44.352069,2.037185
 123000760H-3,3,Voie Communale Arcades du Consulat,12200,Villefranche-de-Rouergue,CAD,44.351945,2.037421
 123000760H-5,5,Voie Communale Arcades du Consulat,12200,Villefranche-de-Rouergue,CAD,44.351965,2.037434
@@ -49995,8 +49995,8 @@
 123001100C-4,4,Rue des Flassadiers,12200,Villefranche-de-Rouergue,C+O,44.352459,2.036675
 123001100C-6,6,Rue des Flassadiers,12200,Villefranche-de-Rouergue,C+O,44.352525,2.036692
 123001100C-8,8,Rue des Flassadiers,12200,Villefranche-de-Rouergue,C+O,44.352605,2.036708
-123001111P-274,274,Chemin de Fonchaude,12200,Villefranche-de-Rouergue,CAD,44.353533,2.050067
-123001111P-286,286,Chemin de Fonchaude,12200,Villefranche-de-Rouergue,CAD,44.353410,2.050055
+123001111P-274,274,Chemin de Fonchaude,12200,Villefranche-de-Rouergue,C+O,44.353533,2.050067
+123001111P-286,286,Chemin de Fonchaude,12200,Villefranche-de-Rouergue,C+O,44.353410,2.050055
 123001141X-10,10,Avenue de Fondies,12200,Villefranche-de-Rouergue,C+O,44.347015,2.028030
 123001141X-1,1,Avenue de Fondies,12200,Villefranche-de-Rouergue,C+O,44.347104,2.028354
 123001141X-12,12,Avenue de Fondies,12200,Villefranche-de-Rouergue,C+O,44.346904,2.027855
@@ -50513,7 +50513,7 @@
 123001503R-18,18,Avenue Hugues Panassié,12200,Villefranche-de-Rouergue,C+O,44.354463,2.043689
 123001503R-20,20,Avenue Hugues Panassié,12200,Villefranche-de-Rouergue,C+O,44.354713,2.043906
 123001503R-22,22,Avenue Hugues Panassié,12200,Villefranche-de-Rouergue,C+O,44.354956,2.044117
-123001507V-392,392,Chemin des Igues,12200,Villefranche-de-Rouergue,CAD,44.366696,2.004340
+123001507V-392,392,Chemin des Igues,12200,Villefranche-de-Rouergue,C+O,44.366696,2.004340
 123001545L-4,4,Impasse Jacques Borelly,12200,Villefranche-de-Rouergue,C+O,44.353241,2.032041
 123001545L-6,6,Impasse Jacques Borelly,12200,Villefranche-de-Rouergue,C+O,44.353284,2.031950
 123001545L-7,7,Impasse Jacques Borelly,12200,Villefranche-de-Rouergue,C+O,44.353411,2.031919
@@ -51539,8 +51539,8 @@
 123002380U-4,4,Rue de la Poste,12200,Villefranche-de-Rouergue,C+O,44.352340,2.035094
 123002380U-5,5,Rue de la Poste,12200,Villefranche-de-Rouergue,C+O,44.352388,2.035145
 123002380U-9,9,Rue de la Poste,12200,Villefranche-de-Rouergue,C+O,44.352324,2.035127
-123002387B-165,165,Chemin des Poteaux,12200,Villefranche-de-Rouergue,CAD,44.333810,2.052672
-123002387B-191,191,Chemin des Poteaux,12200,Villefranche-de-Rouergue,CAD,44.333731,2.052954
+123002387B-165,165,Chemin des Poteaux,12200,Villefranche-de-Rouergue,C+O,44.333810,2.052672
+123002387B-191,191,Chemin des Poteaux,12200,Villefranche-de-Rouergue,C+O,44.333731,2.052954
 123002390E-11,11,Rue des Potiers,12200,Villefranche-de-Rouergue,C+O,44.348394,2.030722
 123002390E-13,13,Rue des Potiers,12200,Villefranche-de-Rouergue,C+O,44.348371,2.030600
 123002390E-14,14,Rue des Potiers,12200,Villefranche-de-Rouergue,C+O,44.348108,2.029942
@@ -52525,11 +52525,11 @@
 123002925L-842,842,Route de Toulonjac,12200,Villefranche-de-Rouergue,C+O,44.373781,2.014368
 123002925L-900,900,Route de Toulonjac,12200,Villefranche-de-Rouergue,C+O,44.374400,2.013961
 123002925L-90,90,Route de Toulonjac,12200,Villefranche-de-Rouergue,C+O,44.367346,2.015781
-123002928P-113,113,Impasse de la Tour,12200,Villefranche-de-Rouergue,CAD,44.362133,2.013537
-123002928P-19,19,Impasse de la Tour,12200,Villefranche-de-Rouergue,CAD,44.362823,2.013028
-123002928P-27,27,Impasse de la Tour,12200,Villefranche-de-Rouergue,CAD,44.362759,2.013118
-123002928P-45,45,Impasse de la Tour,12200,Villefranche-de-Rouergue,CAD,44.362633,2.013319
-123002928P-54,54,Impasse de la Tour,12200,Villefranche-de-Rouergue,CAD,44.362565,2.013353
+123002928P-113,113,Impasse de la Tour,12200,Villefranche-de-Rouergue,C+O,44.362133,2.013537
+123002928P-19,19,Impasse de la Tour,12200,Villefranche-de-Rouergue,C+O,44.362823,2.013028
+123002928P-27,27,Impasse de la Tour,12200,Villefranche-de-Rouergue,C+O,44.362759,2.013118
+123002928P-45,45,Impasse de la Tour,12200,Villefranche-de-Rouergue,C+O,44.362633,2.013319
+123002928P-54,54,Impasse de la Tour,12200,Villefranche-de-Rouergue,C+O,44.362565,2.013353
 123002930S-2,2,Rue de la Tour Grabdis,12200,Villefranche-de-Rouergue,C+O,44.351267,2.039815
 123002950N-1,1,Rue de la Tour de Sanvensa,12200,Villefranche-de-Rouergue,C+O,44.351579,2.039670
 123002950N-2,2,Rue de la Tour de Sanvensa,12200,Villefranche-de-Rouergue,C+O,44.351606,2.039764
