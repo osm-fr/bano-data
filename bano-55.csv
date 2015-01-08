@@ -3606,9 +3606,15 @@
 550290691W-7,7,Rue Montant Prolongée,55000,Bar-le-Duc,OSM,48.772770,5.154263
 550290691W-8,8,Rue Montant Prolongée,55000,Bar-le-Duc,OSM,48.772683,5.154327
 550290691W-9,9,Rue Montant Prolongée,55000,Bar-le-Duc,OSM,48.772789,5.154193
+550290710S-10,10,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770485,5.160650
 550290710S-1,1,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770631,5.160828
+550290710S-12,12,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770455,5.160549
+550290710S-14,14,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770383,5.160401
+550290710S-2,2,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770698,5.160960
 550290710S-3,3,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770572,5.160772
+550290710S-4,4,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770636,5.160902
 550290710S-5,5,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770543,5.160706
+550290710S-6,6,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770569,5.160840
 550290710S-7,7,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770521,5.160600
 550290710S-9,9,Rue Moulotte,55000,Bar-le-Duc,OSM,48.770487,5.160526
 550290750K-11,11,Rue Notre-Dame,55000,Bar-le-Duc,OSM,48.774989,5.160418
@@ -25162,10 +25168,10 @@
 555050025C-2,2,Allée des Bouvreuils,55840,Thierville-sur-Meuse,OSM,49.169921,5.358752
 555050025C-3,3,Allée des Bouvreuils,55840,Thierville-sur-Meuse,OSM,49.169784,5.359005
 555050025C-4,4,Allée des Bouvreuils,55840,Thierville-sur-Meuse,OSM,49.169963,5.359218
-555050030H-1B,1BIS,Chemin des Cailloux,55840,Thierville-sur-Meuse,C+O,49.167138,5.355794
-555050030H-3,3,Chemin des Cailloux,55840,Thierville-sur-Meuse,C+O,49.167035,5.355850
-555050030H-5,5,Chemin des Cailloux,55840,Thierville-sur-Meuse,C+O,49.166948,5.355935
-555050030H-9,9,Chemin des Cailloux,55840,Thierville-sur-Meuse,C+O,49.166778,5.356102
+555050030H-1B,1B,Chemin des Cailloux,55840,Thierville-sur-Meuse,OSM,49.166852,5.355473
+555050030H-3,3,Chemin des Cailloux,55840,Thierville-sur-Meuse,OSM,49.166430,5.354946
+555050030H-5,5,Chemin des Cailloux,55840,Thierville-sur-Meuse,OSM,49.166771,5.355714
+555050030H-9,9,Chemin des Cailloux,55840,Thierville-sur-Meuse,OSM,49.166433,5.355734
 555050032K-10,10,Avenue du 150e R.I.,55840,Thierville-sur-Meuse,OSM,49.172600,5.358469
 555050032K-11,11,Avenue du 150e R.I.,55840,Thierville-sur-Meuse,OSM,49.173131,5.357979
 555050032K-1,1,Avenue du 150e R.I.,55840,Thierville-sur-Meuse,OSM,49.173178,5.357503
@@ -25780,7 +25786,7 @@
 555050175R-118B,118B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167000,5.357517
 555050175R-118Q,118Q,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167168,5.357116
 555050175R-118T,118T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167124,5.357376
-555050175R-1,1,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163891,5.366444
+555050175R-1,1,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163890,5.366450
 555050175R-120,120,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167329,5.356589
 555050175R-122B,122B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167441,5.356299
 555050175R-122T,122T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167936,5.356400
@@ -25806,7 +25812,7 @@
 555050175R-140,140,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.168819,5.353482
 555050175R-140B,140B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.168860,5.353422
 555050175R-140T,140T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.168917,5.353346
-555050175R-14,14,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163794,5.367706
+555050175R-14,14,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163791,5.367750
 555050175R-142,142,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.169063,5.353270
 555050175R-144,144,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.169364,5.352850
 555050175R-146,146,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.169542,5.352594
@@ -25814,25 +25820,25 @@
 555050175R-150,150,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.169787,5.352310
 555050175R-15,15,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164030,5.365040
 555050175R-152,152,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.169876,5.352186
-555050175R-16,16,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163827,5.367594
+555050175R-16,16,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163829,5.367586
 555050175R-17,17,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163874,5.364685
 555050175R-17B,17B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164106,5.364882
-555050175R-18,18,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163851,5.367489
+555050175R-18,18,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163850,5.367495
 555050175R-19,19,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164125,5.364698
 555050175R-19B,19B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164148,5.364631
 555050175R-21,21,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164184,5.364056
-555050175R-22B,22BIS,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.164558,5.367249
+555050175R-22B,22B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164548,5.367584
 555050175R-23,23,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164379,5.363866
-555050175R-24,24,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163965,5.366997
-555050175R-24B,24B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163981,5.366927
+555050175R-24,24,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163963,5.367007
+555050175R-24B,24B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163981,5.366925
 555050175R-24E,24E,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.165672,5.368073
-555050175R-24F,24F,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.164669,5.367301
-555050175R-24T,24T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.164515,5.367110
+555050175R-24F,24F,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164675,5.367305
+555050175R-24T,24T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164569,5.366965
 555050175R-25,25,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164472,5.363684
 555050175R-25B,25B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164634,5.363278
-555050175R-26,26,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.164032,5.366702
-555050175R-26A,26A,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163995,5.366841
-555050175R-26B,26B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.164061,5.366550
+555050175R-26,26,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164064,5.366709
+555050175R-26A,26A,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164279,5.366982
+555050175R-26B,26B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164234,5.366608
 555050175R-27,27,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164688,5.363139
 555050175R-28,28,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.164785,5.366248
 555050175R-29,29,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164765,5.362847
@@ -25841,7 +25847,7 @@
 555050175R-31B,31B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166932,5.356996
 555050175R-31C,31C,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167009,5.356782
 555050175R-31D,31D,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167030,5.356722
-555050175R-3,3,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163927,5.366266
+555050175R-3,3,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163928,5.366259
 555050175R-34,34,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164235,5.364902
 555050175R-35,35,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.167539,5.354864
 555050175R-36,36,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164267,5.364804
@@ -25888,16 +25894,16 @@
 555050175R-68,68,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165027,5.362828
 555050175R-72,72,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165173,5.362375
 555050175R-76,76,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165484,5.361988
-555050175R-7,7,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163984,5.365793
+555050175R-7,7,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163972,5.365873
 555050175R-78,78,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165482,5.361659
-555050175R-7B,7BIS,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163996,5.365758
+555050175R-7B,7B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163985,5.365756
 555050175R-80,80,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165526,5.361424
 555050175R-82,82,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165564,5.361325
 555050175R-82B,82B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165603,5.361222
 555050175R-84B,84BIS,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.166072,5.361409
 555050175R-88,88,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166235,5.361688
 555050175R-88B,88B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166393,5.361836
-555050175R-88T,88TER,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.166729,5.362102
+555050175R-88T,88T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166740,5.361818
 555050175R-90,90,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166432,5.361580
 555050175R-94,94,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165773,5.360835
 555050175R-96,96,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165885,5.360529
@@ -25931,26 +25937,27 @@
 555050182Y-7,7,Rue des Prés,55840,Thierville-sur-Meuse,OSM,49.175183,5.348847
 555050182Y-8,8,Rue des Prés,55840,Thierville-sur-Meuse,OSM,49.175274,5.348987
 555050182Y-9,9,Rue des Prés,55840,Thierville-sur-Meuse,OSM,49.175290,5.349111
-555050190G-10,10,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.162604,5.365393
-555050190G-12B,12BIS,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.162385,5.364293
-555050190G-16,16,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161901,5.364790
-555050190G-18,18,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161752,5.364506
-555050190G-20,20,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161681,5.364367
-555050190G-22,22,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161627,5.364274
-555050190G-2,2,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163621,5.366417
-555050190G-24,24,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161561,5.364167
-555050190G-26,26,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161501,5.364071
-555050190G-28,28,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161431,5.363962
-555050190G-30,30,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161289,5.363765
-555050190G-32,32,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.161187,5.363623
-555050190G-4,4,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163370,5.366251
-555050190G-4B,4BIS,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163036,5.365951
-555050190G-4Q,4QUATER,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.162849,5.365780
-555050190G-4T,4TER,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.162926,5.365847
+555050190G-10,10,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162568,5.365234
+555050190G-12,12,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162451,5.364995
+555050190G-12B,12B,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162253,5.364901
+555050190G-16,16,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161956,5.364675
+555050190G-18,18,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161776,5.364467
+555050190G-20,20,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161703,5.364326
+555050190G-22,22,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161678,5.364169
+555050190G-2,2,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.163550,5.366273
+555050190G-24,24,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161573,5.364117
+555050190G-26,26,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161518,5.364030
+555050190G-28,28,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161434,5.363895
+555050190G-30,30,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161295,5.363718
+555050190G-32,32,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.161195,5.363567
+555050190G-4,4,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.163486,5.366228
+555050190G-4B,4B,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.163082,5.365919
+555050190G-4Q,4Q,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162974,5.365487
+555050190G-4T,4T,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162935,5.365618
 555050190G-6,6,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163017,5.365128
 555050190G-6B,6BIS,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163124,5.364909
 555050190G-6T,6TER,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163205,5.364947
-555050190G-8,8,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.162737,5.365621
+555050190G-8,8,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162780,5.365658
 555050192J-11,11,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.171732,5.351115
 555050192J-1,1,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.171416,5.351638
 555050192J-13,13,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.171792,5.351048
@@ -30334,13 +30341,13 @@
 555450677M-13,13,Avenue Jean Jaurès,55100,Verdun,OSM,49.163573,5.367923
 555450677M-15,15,Avenue Jean Jaurès,55100,Verdun,OSM,49.163698,5.367450
 555450677M-17,17,Avenue Jean Jaurès,55100,Verdun,OSM,49.163728,5.367299
-555450677M-19B,19BIS,Avenue Jean Jaurès,55100,Verdun,C+O,49.163223,5.366718
+555450677M-19B,19BIS,Avenue Jean Jaurès,55100,Verdun,CAD,49.163223,5.366718
 555450677M-21,21,Avenue Jean Jaurès,55100,Verdun,OSM,49.163794,5.366958
 555450677M-23,23,Avenue Jean Jaurès,55100,Verdun,OSM,49.163627,5.366777
 555450677M-25,25,Avenue Jean Jaurès,55100,Verdun,OSM,49.163837,5.366724
-555450677M-3,3,Avenue Jean Jaurès,55100,Verdun,C+O,49.163689,5.367306
+555450677M-3,3,Avenue Jean Jaurès,55100,Verdun,CAD,49.163689,5.367306
 555450677M-5,5,Avenue Jean Jaurès,55100,Verdun,OSM,49.163615,5.369509
-555450677M-7,7,Avenue Jean Jaurès,55100,Verdun,C+O,49.163224,5.366692
+555450677M-7,7,Avenue Jean Jaurès,55100,Verdun,CAD,49.163224,5.366692
 555450678N-1,1,Square Jean Moulin,55100,Verdun,OSM,49.166351,5.391256
 555450678N-3,3,Square Jean Moulin,55100,Verdun,OSM,49.166199,5.391390
 555450678N-4,4,Square Jean Moulin,55100,Verdun,OSM,49.166061,5.391170
