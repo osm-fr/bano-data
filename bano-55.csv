@@ -257,11 +257,11 @@
 550100023C-1,1,Impasse de la Croix Jacoty,55170,Ancerville,OSM,48.627162,5.017566
 550100023C-3,3,Impasse de la Croix Jacoty,55170,Ancerville,OSM,48.627339,5.017545
 550100023C-8,8,Impasse de la Croix Jacoty,55170,Ancerville,OSM,48.626926,5.017485
-550100024D-1,1,Rue Gérard Philippe,55170,Ancerville,OSM,48.636381,5.018147
-550100024D-4,4,Rue Gérard Philippe,55170,Ancerville,OSM,48.636504,5.018179
-550100024D-5,5,Rue Gérard Philippe,55170,Ancerville,OSM,48.636130,5.018007
-550100024D-6,6,Rue Gérard Philippe,55170,Ancerville,OSM,48.636418,5.018118
-550100024D-8,8,Rue Gérard Philippe,55170,Ancerville,OSM,48.636340,5.018018
+550100024D-1,1,Rue Gérard Philipe,55170,Ancerville,OSM,48.636381,5.018147
+550100024D-4,4,Rue Gérard Philipe,55170,Ancerville,OSM,48.636504,5.018179
+550100024D-5,5,Rue Gérard Philipe,55170,Ancerville,OSM,48.636130,5.018007
+550100024D-6,6,Rue Gérard Philipe,55170,Ancerville,OSM,48.636418,5.018118
+550100024D-8,8,Rue Gérard Philipe,55170,Ancerville,OSM,48.636340,5.018018
 550100026F-11,11,Rue de la Croix Jacoty,55170,Ancerville,OSM,48.626700,5.017571
 550100026F-1,1,Rue de la Croix Jacoty,55170,Ancerville,OSM,48.626361,5.015983
 550100026F-15,15,Rue de la Croix Jacoty,55170,Ancerville,OSM,48.626820,5.018381
@@ -2981,6 +2981,16 @@
 550290290K-89,89,Rue Ernest Bradfer,55000,Bar-le-Duc,OSM,48.764034,5.179371
 550290290K-91,91,Rue Ernest Bradfer,55000,Bar-le-Duc,OSM,48.763798,5.179672
 550290290K-9,9,Rue Ernest Bradfer,55000,Bar-le-Duc,OSM,48.770412,5.167967
+550290291L-11,11,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763277,5.152896
+550290291L-1,1,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763455,5.152551
+550290291L-13,13,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763210,5.153046
+550290291L-2,2,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763455,5.153008
+550290291L-3,3,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763398,5.152417
+550290291L-4,4,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763377,5.153084
+550290291L-5,5,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763334,5.152270
+550290291L-6,6,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763260,5.153162
+550290291L-7,7,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763269,5.152121
+550290291L-9,9,Allée Escadrille Lafayette,55000,Bar-le-Duc,OSM,48.763360,5.152813
 550290310G-19,19,Rue de l'Etoile,55000,Bar-le-Duc,OSM,48.772549,5.175265
 550290321U-10,10,Rue Exelmans,55000,Bar-le-Duc,OSM,48.775683,5.161504
 550290321U-11,11,Rue Exelmans,55000,Bar-le-Duc,OSM,48.775456,5.162152
@@ -3374,6 +3384,50 @@
 550290530W-3,3,Rue Konarski,55000,Bar-le-Duc,OSM,48.774276,5.157788
 550290530W-5,5,Rue Konarski,55000,Bar-le-Duc,OSM,48.774298,5.157761
 550290530W-7,7,Rue Konarski,55000,Bar-le-Duc,OSM,48.774314,5.157741
+550290539F-10,10,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764535,5.153632
+550290539F-11,11,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764433,5.152390
+550290539F-1,1,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764702,5.153317
+550290539F-12,12,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764480,5.153507
+550290539F-13,13,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764306,5.152213
+550290539F-14,14,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764427,5.153386
+550290539F-15,15,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764242,5.152069
+550290539F-16,16,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764371,5.153258
+550290539F-17,17,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764139,5.151841
+550290539F-18,18,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764426,5.153009
+550290539F-19,19,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764069,5.151685
+550290539F-20,20,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764371,5.152884
+550290539F-21,21,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764006,5.151952
+550290539F-22,22,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764277,5.152682
+550290539F-2,2,Rue Lafayette,55000,Bar-le-Duc,OSM,48.765020,5.153525
+550290539F-23,23,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763943,5.151810
+550290539F-24,24,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764219,5.152548
+550290539F-25,25,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763797,5.152182
+550290539F-26,26,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763946,5.152468
+550290539F-27,27,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763733,5.152035
+550290539F-28,28,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764000,5.152593
+550290539F-29,29,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763659,5.152305
+550290539F-30,30,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763949,5.152836
+550290539F-31,31,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763601,5.152170
+550290539F-32,32,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763998,5.152950
+550290539F-33,33,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763683,5.152747
+550290539F-3,3,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764631,5.153157
+550290539F-34,34,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763946,5.153194
+550290539F-35,35,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763736,5.152869
+550290539F-36,36,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763997,5.153313
+550290539F-37,37,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763686,5.153112
+550290539F-38,38,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763948,5.153556
+550290539F-39,39,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763738,5.153233
+550290539F-40,40,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763996,5.153668
+550290539F-41,41,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763673,5.153494
+550290539F-42,42,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763946,5.153905
+550290539F-43,43,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763731,5.153628
+550290539F-44,44,Rue Lafayette,55000,Bar-le-Duc,OSM,48.763999,5.154023
+550290539F-4,4,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764938,5.153610
+550290539F-5,5,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764569,5.152906
+550290539F-6,6,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764769,5.153780
+550290539F-7,7,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764509,5.152775
+550290539F-8,8,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764713,5.153657
+550290539F-9,9,Rue Lafayette,55000,Bar-le-Duc,OSM,48.764488,5.152516
 550290540G-11,11,Rue Landry-Gillon,55000,Bar-le-Duc,OSM,48.777482,5.158464
 550290540G-1,1,Rue Landry-Gillon,55000,Bar-le-Duc,OSM,48.777069,5.158071
 550290540G-13,13,Rue Landry-Gillon,55000,Bar-le-Duc,OSM,48.777576,5.158551
@@ -3767,6 +3821,26 @@
 550290810A-6,6,Rue Phulpin,55000,Bar-le-Duc,OSM,48.770363,5.157595
 550290810A-7,7,Rue Phulpin,55000,Bar-le-Duc,OSM,48.770210,5.157700
 550290810A-9,9,Rue Phulpin,55000,Bar-le-Duc,OSM,48.770369,5.157697
+550290820L-11,11,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.764895,5.155261
+550290820L-1,1,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.765397,5.156321
+550290820L-13,13,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.764704,5.155036
+550290820L-15,15,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.764569,5.154816
+550290820L-15B,15BIS,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.764451,5.154603
+550290820L-17,17,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.764195,5.154570
+550290820L-19,19,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.763597,5.153979
+550290820L-21,21,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.763549,5.153868
+550290820L-2,2,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.765255,5.156065
+550290820L-23,23,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.763347,5.153858
+550290820L-25,25,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.763290,5.153728
+550290820L-27,27,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.763228,5.153587
+550290820L-29,29,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.763165,5.153444
+550290820L-31,31,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.762963,5.153472
+550290820L-33,33,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.762903,5.153336
+550290820L-3,3,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.765333,5.156060
+550290820L-4,4,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.765112,5.155706
+550290820L-5,5,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.765257,5.155813
+550290820L-7,7,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.765169,5.155622
+550290820L-9,9,Rue de Pilviteuil,55000,Bar-le-Duc,OSM,48.765060,5.155463
 550290840H-10,10,Rue de Polval,55000,Bar-le-Duc,OSM,48.769197,5.163287
 550290840H-11,11,Rue de Polval,55000,Bar-le-Duc,OSM,48.768299,5.162739
 550290840H-12,12,Rue de Polval,55000,Bar-le-Duc,OSM,48.769043,5.163180
@@ -12839,7 +12913,7 @@
 552280030M-7,7,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038725,5.658837
 552280030M-8,8,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038579,5.658584
 552280030M-9,9,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038495,5.658439
-552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
+552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043358,5.662999
 552280045D-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
 552280045D-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
 552280045D-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
@@ -13012,7 +13086,7 @@
 552280125R-11,11,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036959,5.660557
 552280125R-12,12,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037623,5.658985
 552280125R-14,14,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037561,5.659073
-552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037508,5.659145
+552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037453,5.659216
 552280125R-20,20,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036748,5.659827
 552280125R-2,2,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.038003,5.658473
 552280125R-4,4,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037933,5.658570
@@ -19307,24 +19381,24 @@
 553660040Y-7,7,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801716,5.076432
 553660040Y-8,8,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801967,5.076217
 553660040Y-9,9,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801673,5.076123
-553660044C-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
-553660044C-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.801758,5.068813
-553660044C-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
-553660044C-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
-553660044C-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
-553660044C-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
-553660044C-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
-553660044C-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802176,5.069226
-553660044C-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
-553660044C-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
-553660044C-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
-553660044C-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
-553660044C-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
-553660044C-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802094,5.068972
-553660044C-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
-553660044C-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802219,5.068592
-553660044C-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
-553660044C-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
+553660045D-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
+553660045D-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811769,5.100625
+553660045D-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
+553660045D-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
+553660045D-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
+553660045D-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
+553660045D-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
+553660045D-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811653,5.100823
+553660045D-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
+553660045D-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
+553660045D-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
+553660045D-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
+553660045D-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
+553660045D-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811237,5.103535
+553660045D-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
+553660045D-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810480,5.108566
+553660045D-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
+553660045D-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
 553660048G-1,1,Route de Mussey,55000,Val-d'Ornain,OSM,48.813646,5.082232
 553660048G-3,3,Route de Mussey,55000,Val-d'Ornain,OSM,48.813365,5.081723
 553660049H-11,11,Rue Fernand Nanty,55000,Val-d'Ornain,OSM,48.804344,5.071459
@@ -25256,17 +25330,17 @@
 555020370R-8,8,Avenue Victor Hugo,55700,Stenay,C+O,49.489210,5.190166
 555020370R-9,9,Avenue Victor Hugo,55700,Stenay,C+O,49.489266,5.189691
 55502B124E-1,1,Sous Le Pave,55700,Stenay,CAD,49.493535,5.190489
-555050005F-11,11,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162335,5.360111
-555050005F-1,1,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162703,5.360573
-555050005F-13,13,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162274,5.360056
-555050005F-15,15,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162040,5.359996
-555050005F-17,17,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.161976,5.359828
-555050005F-19,19,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.161875,5.359920
-555050005F-21,21,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.161945,5.360087
-555050005F-3,3,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162541,5.360294
-555050005F-5,5,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162477,5.360232
-555050005F-7,7,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162434,5.360193
-555050005F-9,9,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,C+O,49.162383,5.360151
+555050005F-11,11,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162338,5.360130
+555050005F-1,1,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162713,5.360589
+555050005F-13,13,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162285,5.360083
+555050005F-15,15,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162032,5.359988
+555050005F-17,17,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.161978,5.359844
+555050005F-19,19,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.161883,5.359929
+555050005F-21,21,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.161938,5.360075
+555050005F-3,3,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162529,5.360302
+555050005F-5,5,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162483,5.360260
+555050005F-7,7,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162432,5.360215
+555050005F-9,9,Rue de l'Adjudant Morvan,55840,Thierville-sur-Meuse,OSM,49.162385,5.360173
 555050010L-1,1,Rue Auguste Marquet,55840,Thierville-sur-Meuse,OSM,49.169228,5.352158
 555050010L-6,6,Rue Auguste Marquet,55840,Thierville-sur-Meuse,OSM,49.169163,5.350334
 555050010L-7,7,Rue Auguste Marquet,55840,Thierville-sur-Meuse,OSM,49.168887,5.351043
@@ -25278,33 +25352,33 @@
 555050015S-5,5,Allée des Bergeronnettes,55840,Thierville-sur-Meuse,OSM,49.170414,5.357930
 555050015S-6,6,Allée des Bergeronnettes,55840,Thierville-sur-Meuse,OSM,49.170256,5.358125
 555050015S-7,7,Allée des Bergeronnettes,55840,Thierville-sur-Meuse,OSM,49.170610,5.358303
-555050020X-10,10,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162457,5.362987
-555050020X-11,11,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162635,5.362671
-555050020X-1,1,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.163240,5.361575
-555050020X-12,12,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162427,5.363063
-555050020X-13,13,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162534,5.362972
-555050020X-14,14,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162385,5.363135
-555050020X-15,15,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162452,5.363185
-555050020X-16,16,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162367,5.363217
-555050020X-18,18,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162339,5.363288
-555050020X-18B,18BIS,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162231,5.363623
-555050020X-19,19,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162241,5.363727
-555050020X-20,20,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162183,5.363737
-555050020X-21,21,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162170,5.363900
-555050020X-22,22,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162120,5.363885
+555050020X-10,10,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162439,5.362961
+555050020X-11,11,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162679,5.362574
+555050020X-1,1,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.163282,5.361736
+555050020X-12,12,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162406,5.363039
+555050020X-13,13,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162562,5.362974
+555050020X-14,14,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162370,5.363125
+555050020X-15,15,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162528,5.363195
+555050020X-16,16,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162345,5.363183
+555050020X-18,18,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162290,5.363244
+555050020X-18B,18B,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162111,5.363411
+555050020X-19,19,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162268,5.363768
+555050020X-20,20,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162140,5.363716
+555050020X-21,21,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162154,5.363963
+555050020X-22,22,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.161952,5.363686
 555050020X-22B,22BIS,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.161780,5.363760
-555050020X-2,2,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.163271,5.361395
-555050020X-23,23,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162100,5.364063
-555050020X-3,3,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.163100,5.361809
-555050020X-4,4,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162850,5.362062
-555050020X-5,5,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162954,5.362034
-555050020X-6,6,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162779,5.362172
-555050020X-6A,6A,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162682,5.362353
-555050020X-6B,6B,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162629,5.362509
-555050020X-6C,6C,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162264,5.362328
-555050020X-6D,6D,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162582,5.362624
-555050020X-7,7,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162790,5.362285
-555050020X-8,8,Rue de la Bonneterie,55840,Thierville-sur-Meuse,C+O,49.162499,5.362876
+555050020X-2,2,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.163088,5.361698
+555050020X-23,23,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162124,5.364033
+555050020X-3,3,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.163201,5.361920
+555050020X-4,4,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162805,5.362045
+555050020X-5,5,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.163026,5.362147
+555050020X-6,6,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162752,5.362126
+555050020X-6A,6A,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162635,5.362300
+555050020X-6B,6B,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162409,5.362121
+555050020X-6C,6C,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162308,5.362308
+555050020X-6D,6D,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162467,5.362530
+555050020X-7,7,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162854,5.362334
+555050020X-8,8,Rue de la Bonneterie,55840,Thierville-sur-Meuse,OSM,49.162477,5.362873
 555050025C-1,1,Allée des Bouvreuils,55840,Thierville-sur-Meuse,OSM,49.170024,5.358901
 555050025C-2,2,Allée des Bouvreuils,55840,Thierville-sur-Meuse,OSM,49.169921,5.358752
 555050025C-3,3,Allée des Bouvreuils,55840,Thierville-sur-Meuse,OSM,49.169784,5.359005
@@ -25697,9 +25771,9 @@
 555050117C-20,20,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.165359,5.366822
 555050117C-22,22,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.165417,5.366618
 555050117C-2,2,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.164967,5.366209
-555050117C-3,3,Rue Jules Poncet,55840,Thierville-sur-Meuse,C+O,49.164648,5.366307
+555050117C-3,3,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.164730,5.366060
 555050117C-4,4,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.165172,5.366359
-555050117C-5,5,Rue Jules Poncet,55840,Thierville-sur-Meuse,C+O,49.164785,5.366256
+555050117C-5,5,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.164802,5.366106
 555050117C-6,6,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.165144,5.366646
 555050117C-8,8,Rue Jules Poncet,55840,Thierville-sur-Meuse,OSM,49.165040,5.366894
 555050125L-10,10,Avenue Letellier,55840,Thierville-sur-Meuse,OSM,49.167436,5.359937
@@ -25896,27 +25970,27 @@
 555050165E-7,7,Rue Paul Gavini,55840,Thierville-sur-Meuse,OSM,49.169043,5.358919
 555050165E-8,8,Rue Paul Gavini,55840,Thierville-sur-Meuse,OSM,49.169155,5.359188
 555050165E-9,9,Rue Paul Gavini,55840,Thierville-sur-Meuse,OSM,49.169153,5.358714
-555050170K-5,5,Impasse Pierre Goubet,55840,Thierville-sur-Meuse,CAD,49.163964,5.365910
-555050170K-5B,5BIS,Impasse Pierre Goubet,55840,Thierville-sur-Meuse,CAD,49.163977,5.365847
-555050171L-10,10,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163188,5.364224
-555050171L-11,11,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163204,5.363072
-555050171L-11B,11BIS,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163227,5.362954
-555050171L-1,1,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.162915,5.362829
-555050171L-12,12,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163124,5.364566
-555050171L-13,13,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163136,5.363903
-555050171L-15,15,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163244,5.363990
-555050171L-16,16,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163157,5.364605
-555050171L-17,17,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163374,5.364086
-555050171L-2,2,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.162443,5.363965
-555050171L-3,3,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.162796,5.363043
-555050171L-4,4,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.162716,5.363679
-555050171L-48,48,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163227,5.364330
-555050171L-5,5,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.162694,5.363299
-555050171L-6,6,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.162885,5.363820
-555050171L-7,7,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163056,5.363558
-555050171L-8,8,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.162991,5.363969
+555050170K-5,5,Impasse Pierre Goubet,55840,Thierville-sur-Meuse,OSM,49.163903,5.365917
+555050170K-5B,5BIS,Impasse Pierre Goubet,55840,Thierville-sur-Meuse,C+O,49.163977,5.365847
+555050171L-10,10,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163118,5.364118
+555050171L-11,11,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163148,5.363099
+555050171L-11B,11B,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163229,5.362919
+555050171L-1,1,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.162906,5.362827
+555050171L-12,12,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163079,5.364536
+555050171L-13,13,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163142,5.363795
+555050171L-15,15,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163248,5.363935
+555050171L-16,16,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163183,5.364727
+555050171L-17,17,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163383,5.364007
+555050171L-2,2,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.162491,5.364020
+555050171L-3,3,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.162821,5.363065
+555050171L-4,4,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.162683,5.363755
+555050171L-48,48,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163243,5.364354
+555050171L-5,5,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.162742,5.363323
+555050171L-6,6,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.162917,5.363913
+555050171L-7,7,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163012,5.363533
+555050171L-8,8,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.162790,5.364197
 555050171L-8B,8BIS,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163045,5.363997
-555050171L-9,9,Rue du Plantin,55840,Thierville-sur-Meuse,C+O,49.163138,5.363290
+555050171L-9,9,Rue du Plantin,55840,Thierville-sur-Meuse,OSM,49.163068,5.363344
 555050175R-100,100,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166170,5.359757
 555050175R-102,102,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166202,5.359665
 555050175R-104,104,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.166220,5.359525
@@ -26002,13 +26076,13 @@
 555050175R-38,38,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164340,5.364649
 555050175R-39,39,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.168014,5.354127
 555050175R-39B,39B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.168075,5.354023
-555050175R-3B,3B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163480,5.365954
+555050175R-3B,3B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163477,5.365818
 555050175R-3C,3C,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163937,5.366131
 555050175R-3D,3D,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163914,5.366121
 555050175R-3E,3E,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163887,5.366109
 555050175R-3F,3F,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163863,5.366098
 555050175R-3G,3G,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163831,5.366084
-555050175R-3T,3T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163655,5.365993
+555050175R-3T,3T,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163613,5.365933
 555050175R-40,40,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164396,5.364501
 555050175R-41,41,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.168169,5.353791
 555050175R-42,42,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.164445,5.364371
@@ -26040,9 +26114,9 @@
 555050175R-68,68,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165027,5.362828
 555050175R-72,72,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165173,5.362375
 555050175R-76,76,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165484,5.361988
-555050175R-7,7,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163972,5.365873
+555050175R-7,7,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163985,5.365756
 555050175R-78,78,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165482,5.361659
-555050175R-7B,7B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.163985,5.365756
+555050175R-7B,7BIS,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,C+O,49.163996,5.365758
 555050175R-80,80,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165526,5.361424
 555050175R-82,82,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165564,5.361325
 555050175R-82B,82B,Avenue Pierre Goubet et Jean Van Heeghe,55840,Thierville-sur-Meuse,OSM,49.165603,5.361222
@@ -26100,9 +26174,9 @@
 555050190G-4B,4B,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.163082,5.365919
 555050190G-4Q,4Q,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162974,5.365487
 555050190G-4T,4T,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162935,5.365618
-555050190G-6,6,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163017,5.365128
-555050190G-6B,6BIS,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163124,5.364909
-555050190G-6T,6TER,Rue des Preux,55840,Thierville-sur-Meuse,C+O,49.163205,5.364947
+555050190G-6,6,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.163092,5.365198
+555050190G-6B,6B,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.163130,5.364898
+555050190G-6T,6T,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.163197,5.364941
 555050190G-8,8,Rue des Preux,55840,Thierville-sur-Meuse,OSM,49.162780,5.365658
 555050192J-11,11,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.171732,5.351115
 555050192J-1,1,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.171416,5.351638
@@ -26116,19 +26190,20 @@
 555050192J-7,7,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.171569,5.351253
 555050192J-8,8,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.172002,5.351150
 555050192J-9,9,Rue des Primevères,55840,Thierville-sur-Meuse,OSM,49.171621,5.351165
-555050195M-10,10,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160588,5.362099
-555050195M-10B,10BIS,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160500,5.361619
-555050195M-12,12,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160439,5.361300
-555050195M-12B,12BIS,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160379,5.360847
-555050195M-16,16,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160320,5.360137
-555050195M-18,18,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160269,5.359445
-555050195M-20,20,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160257,5.358841
-555050195M-2,2,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160738,5.362853
-555050195M-26,26,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160805,5.358171
-555050195M-28,28,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160208,5.357006
-555050195M-4,4,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160697,5.362663
-555050195M-6,6,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160662,5.362499
-555050195M-8,8,Allée Saint-Amant,55840,Thierville-sur-Meuse,CAD,49.160897,5.361091
+555050195M-10,10,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160678,5.362043
+555050195M-10B,10B,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160586,5.361592
+555050195M-12,12,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160476,5.361391
+555050195M-12B,12B,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160415,5.360798
+555050195M-16,16,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160404,5.360117
+555050195M-18,18,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160471,5.359533
+555050195M-20,20,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160382,5.358886
+555050195M-2,2,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160745,5.362820
+555050195M-24,24,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160414,5.357858
+555050195M-26,26,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160711,5.358224
+555050195M-28,28,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160320,5.357062
+555050195M-4,4,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160723,5.362719
+555050195M-6,6,Allée Saint-Amant,55840,Thierville-sur-Meuse,OSM,49.160861,5.362529
+555050195M-8,8,Allée Saint-Amant,55840,Thierville-sur-Meuse,C+O,49.160897,5.361091
 555050200T-10,10,Rue Saint-Brice,55840,Thierville-sur-Meuse,OSM,49.169617,5.355603
 555050200T-11,11,Rue Saint-Brice,55840,Thierville-sur-Meuse,OSM,49.169306,5.355299
 555050200T-1,1,Rue Saint-Brice,55840,Thierville-sur-Meuse,OSM,49.168625,5.356238
@@ -26151,36 +26226,36 @@
 555050205Y-4,4,Rue Saint-Exupéry,55840,Thierville-sur-Meuse,OSM,49.169360,5.357486
 555050205Y-5,5,Rue Saint-Exupéry,55840,Thierville-sur-Meuse,OSM,49.169133,5.357269
 555050205Y-6,6,Rue Saint-Exupéry,55840,Thierville-sur-Meuse,OSM,49.169490,5.357117
-555050215J-10,10,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161370,5.360204
-555050215J-11,11,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.162214,5.360676
-555050215J-1,1,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161849,5.360300
-555050215J-12,12,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161448,5.360408
-555050215J-13,13,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.162099,5.360785
-555050215J-14,14,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161714,5.360178
-555050215J-15,15,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.162020,5.360835
-555050215J-16,16,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161717,5.360346
-555050215J-17,17,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161906,5.360939
-555050215J-18,18,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161710,5.360530
-555050215J-20,20,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161721,5.360662
-555050215J-22,22,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161722,5.360876
-555050215J-2,2,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161675,5.359838
-555050215J-24,24,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161544,5.360828
-555050215J-26,26,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161446,5.360810
-555050215J-28,28,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161324,5.360835
-555050215J-30,30,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161224,5.360730
-555050215J-32,32,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161149,5.360940
-555050215J-3,3,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161862,5.360448
-555050215J-34,34,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161232,5.360985
-555050215J-36,36,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161328,5.361101
-555050215J-38,38,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161398,5.361147
-555050215J-40,40,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161505,5.361255
-555050215J-42,42,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161595,5.361347
-555050215J-4,4,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161552,5.359946
-555050215J-5,5,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161853,5.360648
-555050215J-6,6,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161508,5.360030
-555050215J-7,7,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.162041,5.360486
-555050215J-8,8,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.161400,5.360125
-555050215J-9,9,Rue Sgt Douat,55840,Thierville-sur-Meuse,C+O,49.162155,5.360585
+555050215J-10,10,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161370,5.360204
+555050215J-11,11,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.162214,5.360676
+555050215J-1,1,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161849,5.360300
+555050215J-12,12,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161448,5.360408
+555050215J-13,13,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.162099,5.360785
+555050215J-14,14,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161714,5.360178
+555050215J-15,15,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.162020,5.360835
+555050215J-16,16,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161717,5.360346
+555050215J-17,17,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161906,5.360939
+555050215J-18,18,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161710,5.360530
+555050215J-20,20,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161721,5.360662
+555050215J-22,22,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161722,5.360876
+555050215J-2,2,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161675,5.359838
+555050215J-24,24,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161544,5.360828
+555050215J-26,26,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161446,5.360810
+555050215J-28,28,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161324,5.360835
+555050215J-30,30,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161224,5.360730
+555050215J-32,32,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161149,5.360940
+555050215J-3,3,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161862,5.360448
+555050215J-34,34,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161232,5.360985
+555050215J-36,36,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161328,5.361101
+555050215J-38,38,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161398,5.361147
+555050215J-40,40,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161505,5.361255
+555050215J-42,42,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161595,5.361347
+555050215J-4,4,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161552,5.359946
+555050215J-5,5,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161853,5.360648
+555050215J-6,6,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161508,5.360030
+555050215J-7,7,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.162041,5.360486
+555050215J-8,8,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.161400,5.360125
+555050215J-9,9,Rue Sgt Douat,55840,Thierville-sur-Meuse,CAD,49.162155,5.360585
 555050220P-1,1,Allée des Tilleuls,55840,Thierville-sur-Meuse,OSM,49.167918,5.360398
 555050220P-2,2,Allée des Tilleuls,55840,Thierville-sur-Meuse,OSM,49.167855,5.361254
 555050220P-3,3,Allée des Tilleuls,55840,Thierville-sur-Meuse,OSM,49.167677,5.361209
@@ -32980,11 +33055,41 @@
 555451320L-6B,6B,Rue de la 7e Division Blindée U.S.,55100,Verdun,OSM,49.161835,5.381284
 555451320L-8,8,Rue de la 7e Division Blindée U.S.,55100,Verdun,OSM,49.161635,5.381262
 555451330X-4,4,Rue du 61e R.A.,55100,Verdun,OSM,49.156869,5.379569
+555451333A-10,10,Rue du Sergent Douat,55100,Verdun,OSM,49.161364,5.360223
+555451333A-11,11,Rue du Sergent Douat,55100,Verdun,OSM,49.162208,5.360698
+555451333A-1,1,Rue du Sergent Douat,55100,Verdun,OSM,49.161859,5.360312
+555451333A-12,12,Rue du Sergent Douat,55100,Verdun,OSM,49.161440,5.360420
+555451333A-13,13,Rue du Sergent Douat,55100,Verdun,OSM,49.162095,5.360803
+555451333A-14,14,Rue du Sergent Douat,55100,Verdun,OSM,49.161704,5.360178
+555451333A-15,15,Rue du Sergent Douat,55100,Verdun,OSM,49.162016,5.360853
+555451333A-16,16,Rue du Sergent Douat,55100,Verdun,OSM,49.161707,5.360350
+555451333A-17,17,Rue du Sergent Douat,55100,Verdun,OSM,49.161912,5.360948
+555451333A-18,18,Rue du Sergent Douat,55100,Verdun,OSM,49.161700,5.360535
+555451333A-20,20,Rue du Sergent Douat,55100,Verdun,OSM,49.161709,5.360659
+555451333A-22,22,Rue du Sergent Douat,55100,Verdun,OSM,49.161711,5.360876
 555451333A-2,2,Impasse des Sorbiers,55100,Verdun,OSM,49.159891,5.366258
+555451333A-2,2,Rue du Sergent Douat,55100,Verdun,OSM,49.161659,5.359834
+555451333A-24,24,Rue du Sergent Douat,55100,Verdun,OSM,49.161537,5.360812
+555451333A-26,26,Rue du Sergent Douat,55100,Verdun,OSM,49.161444,5.360795
+555451333A-28,28,Rue du Sergent Douat,55100,Verdun,OSM,49.161321,5.360818
+555451333A-30,30,Rue du Sergent Douat,55100,Verdun,OSM,49.161217,5.360718
+555451333A-32,32,Rue du Sergent Douat,55100,Verdun,OSM,49.161142,5.360933
 555451333A-3,3,Impasse des Sorbiers,55100,Verdun,OSM,49.159722,5.366033
+555451333A-3,3,Rue du Sergent Douat,55100,Verdun,OSM,49.161875,5.360460
+555451333A-34,34,Rue du Sergent Douat,55100,Verdun,OSM,49.161231,5.361000
+555451333A-36,36,Rue du Sergent Douat,55100,Verdun,OSM,49.161326,5.361118
+555451333A-38,38,Rue du Sergent Douat,55100,Verdun,OSM,49.161400,5.361168
+555451333A-40,40,Rue du Sergent Douat,55100,Verdun,OSM,49.161502,5.361271
+555451333A-42,42,Rue du Sergent Douat,55100,Verdun,OSM,49.161597,5.361367
 555451333A-4,4,Impasse des Sorbiers,55100,Verdun,OSM,49.160007,5.366280
+555451333A-4,4,Rue du Sergent Douat,55100,Verdun,OSM,49.161541,5.359936
+555451333A-5,5,Rue du Sergent Douat,55100,Verdun,OSM,49.161861,5.360659
 555451333A-6,6,Impasse des Sorbiers,55100,Verdun,OSM,49.160134,5.366303
+555451333A-6,6,Rue du Sergent Douat,55100,Verdun,OSM,49.161498,5.360022
+555451333A-7,7,Rue du Sergent Douat,55100,Verdun,OSM,49.162056,5.360478
 555451333A-8,8,Impasse des Sorbiers,55100,Verdun,OSM,49.160266,5.366329
+555451333A-8,8,Rue du Sergent Douat,55100,Verdun,OSM,49.161394,5.360112
+555451333A-9,9,Rue du Sergent Douat,55100,Verdun,OSM,49.162174,5.360582
 555451336D-17,17,Allée des Soupirs,55100,Verdun,OSM,49.160667,5.378428
 555451336D-2,2,Allée des Soupirs,55100,Verdun,OSM,49.162155,5.377173
 555451336D-33,33,Allée des Soupirs,55100,Verdun,OSM,49.160199,5.378301
