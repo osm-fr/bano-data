@@ -19257,14 +19257,14 @@
 231410014C-3,3,Route de dun-Le-Palestel,23800,Naillat,C+O,46.265607,1.639078
 231410014C-5,5,Route de dun-Le-Palestel,23800,Naillat,C+O,46.265734,1.639271
 231410014C-7,7,Route de dun-Le-Palestel,23800,Naillat,C+O,46.265889,1.639495
-231410017F-11,11,Rue des Ecoles,23800,Naillat,C+O,46.264955,1.637345
-231410017F-1,1,Rue des Ecoles,23800,Naillat,C+O,46.265333,1.637849
-231410017F-15,15,Rue des Ecoles,23800,Naillat,C+O,46.264824,1.637475
-231410017F-17,17,Rue des Ecoles,23800,Naillat,C+O,46.264749,1.637452
-231410017F-3,3,Rue des Ecoles,23800,Naillat,C+O,46.265308,1.638048
-231410017F-5,5,Rue des Ecoles,23800,Naillat,C+O,46.265130,1.637678
-231410017F-7,7,Rue des Ecoles,23800,Naillat,C+O,46.265023,1.637578
-231410017F-9,9,Rue des Ecoles,23800,Naillat,C+O,46.264988,1.637563
+231410017F-11,11,Rue des Écoles,23800,Naillat,C+O,46.264955,1.637345
+231410017F-1,1,Rue des Écoles,23800,Naillat,C+O,46.265333,1.637849
+231410017F-15,15,Rue des Écoles,23800,Naillat,C+O,46.264824,1.637475
+231410017F-17,17,Rue des Écoles,23800,Naillat,C+O,46.264749,1.637452
+231410017F-3,3,Rue des Écoles,23800,Naillat,C+O,46.265308,1.638048
+231410017F-5,5,Rue des Écoles,23800,Naillat,C+O,46.265130,1.637678
+231410017F-7,7,Rue des Écoles,23800,Naillat,C+O,46.265023,1.637578
+231410017F-9,9,Rue des Écoles,23800,Naillat,C+O,46.264988,1.637563
 231410019H-2,2,Place de l'Eglise,23800,Naillat,C+O,46.264840,1.637647
 231410019H-4,4,Place de l'Eglise,23800,Naillat,C+O,46.264784,1.637783
 231410020J-10,10,Rue de l'Etang,23800,Naillat,C+O,46.261098,1.636530
@@ -23909,9 +23909,9 @@
 231930054V-10,10,Rue des Thuyas,23000,Sainte-Feyre,C+O,46.137700,1.915574
 231930054V-2,2,Rue des Thuyas,23000,Sainte-Feyre,C+O,46.137975,1.915666
 231930054V-8,8,Rue des Thuyas,23000,Sainte-Feyre,C+O,46.137822,1.915639
-231930056X-35,35,Avenue du Bourbonnais,23000,Sainte-Feyre,CAD,46.174626,1.888949
-231930056X-37,37,Avenue du Bourbonnais,23000,Sainte-Feyre,CAD,46.174638,1.889112
-231930056X-39,39,Avenue du Bourbonnais,23000,Sainte-Feyre,CAD,46.174708,1.889429
+231930056X-35,35,Avenue du Bourbonnais,23000,Sainte-Feyre,C+O,46.174626,1.888949
+231930056X-37,37,Avenue du Bourbonnais,23000,Sainte-Feyre,C+O,46.174638,1.889112
+231930056X-39,39,Avenue du Bourbonnais,23000,Sainte-Feyre,C+O,46.174708,1.889429
 231930062D-1,1,Rue des Cerisiers,23000,Sainte-Feyre,C+O,46.138857,1.922748
 231930062D-13,13,Rue des Cerisiers,23000,Sainte-Feyre,C+O,46.137201,1.922109
 231930062D-14,14,Rue des Cerisiers,23000,Sainte-Feyre,C+O,46.138014,1.922356
@@ -24040,14 +24040,14 @@
 231930080Y-30,30,Rue Charles Trenet Pti Changon,23000,Sainte-Feyre,C+O,46.182120,1.902855
 231930080Y-31,31,Rue Charles Trenet Pti Changon,23000,Sainte-Feyre,C+O,46.182138,1.902603
 231930080Y-32,32,Rue Charles Trenet Pti Changon,23000,Sainte-Feyre,C+O,46.182166,1.902831
-231930081Z-12,12,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.190537,1.935232
-231930081Z-16,16,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.189724,1.936691
-231930081Z-17,17,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.190696,1.936492
-231930081Z-23,23,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.191634,1.937637
-231930081Z-24,24,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.191607,1.937981
-231930081Z-25,25,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.191466,1.938028
-231930081Z-26,26,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.191170,1.938460
-231930081Z-8,8,Rue Suzanne Fossey Pont Dauge,23000,Sainte-Feyre,CAD,46.189516,1.934287
+231930081Z-12,12,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.190537,1.935232
+231930081Z-16,16,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.189724,1.936691
+231930081Z-17,17,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.190696,1.936492
+231930081Z-23,23,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.191634,1.937637
+231930081Z-24,24,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.191607,1.937981
+231930081Z-25,25,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.191466,1.938028
+231930081Z-26,26,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.191170,1.938460
+231930081Z-8,8,Rue Suzanne Fossey,23000,Sainte-Feyre,C+O,46.189516,1.934287
 231930082A-1,1,Rue du Stade,23000,Sainte-Feyre,C+O,46.140258,1.922453
 231930082A-2,2,Rue du Stade,23000,Sainte-Feyre,C+O,46.140285,1.922742
 231930082A-31,31,Rue du Stade,23000,Sainte-Feyre,C+O,46.141489,1.924148
@@ -24109,7 +24109,7 @@
 23193A004K-7,7,Domaine de Bellevue Charsat,23000,Sainte-Feyre,C+O,46.174518,1.895432
 23193A004K-8,8,Domaine de Bellevue Charsat,23000,Sainte-Feyre,C+O,46.174701,1.893660
 23193A004K-9,9,Domaine de Bellevue Charsat,23000,Sainte-Feyre,C+O,46.174453,1.895469
-23193B031B-25,25,Cher de Lu,23000,Sainte-Feyre,CAD,46.136313,1.921183
+23193B031B-25,25,Chemin de Cher de Lu,23000,Sainte-Feyre,C+O,46.136313,1.921183
 23193B043P-6222,6222,Les Couteilles,23000,Sainte-Feyre,C+O,46.127675,1.921594
 23193B095W-3,3,Puychauveau,23000,Sainte-Feyre,CAD,46.162019,1.903191
 23193B124C-9,9,Villecusson,23000,Sainte-Feyre,C+O,46.155585,1.919151
@@ -26275,18 +26275,18 @@
 232450254L-52,52,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,C+O,46.169913,1.846516
 232450254L-52B,52BIS,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,C+O,46.170438,1.846028
 232450254L-61B,61BIS,Rue du Lavoir Les Coussières,23000,Saint-Sulpice-le-Guérétois,C+O,46.168202,1.847475
-232450255M-105,105,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169358,1.842430
-232450255M-67,67,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.167604,1.847468
-232450255M-67B,67BIS,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.167280,1.847129
-232450255M-80,80,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169070,1.844064
-232450255M-82,82,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169123,1.843881
-232450255M-84,84,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169187,1.843661
-232450255M-86,86,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169279,1.843371
-232450255M-89,89,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168481,1.844705
-232450255M-90,90,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169301,1.843276
-232450255M-91,91,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168460,1.843999
-232450255M-92,92,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.169388,1.843026
-232450255M-95,95,Rue du Quai de Javel Coussiere,23000,Saint-Sulpice-le-Guérétois,CAD,46.168714,1.842866
+232450255M-105,105,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.169358,1.842430
+232450255M-67,67,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.167604,1.847468
+232450255M-67B,67BIS,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.167280,1.847129
+232450255M-80,80,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.169070,1.844064
+232450255M-82,82,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.169123,1.843881
+232450255M-84,84,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.169187,1.843661
+232450255M-86,86,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.169279,1.843371
+232450255M-89,89,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.168481,1.844705
+232450255M-90,90,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.169301,1.843276
+232450255M-91,91,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.168460,1.843999
+232450255M-92,92,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.169388,1.843026
+232450255M-95,95,Rue du Quai de Javel Coussière,23000,Saint-Sulpice-le-Guérétois,C+O,46.168714,1.842866
 232450256N-56,56,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,C+O,46.167906,1.846841
 232450256N-58,58,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,C+O,46.167470,1.846536
 232450256N-60,60,Rue des Rebelettes Coussières,23000,Saint-Sulpice-le-Guérétois,C+O,46.167271,1.846394
