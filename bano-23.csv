@@ -3580,12 +3580,12 @@
 230220008N-4,4,Impasse Saint-Michel,23270,Bétête,C+O,46.359372,2.075466
 230220009P-1,1,Rue de la Bascule,23270,Bétête,C+O,46.358875,2.076648
 230220009P-3,3,Rue de la Bascule,23270,Bétête,C+O,46.358955,2.076562
-230220010R-1,1,Place du 18 juin 1940,23270,Bétête,C+O,46.358668,2.077230
-230220010R-2,2,Place du 18 juin 1940,23270,Bétête,C+O,46.358559,2.077278
-230220010R-5,5,Place du 18 juin 1940,23270,Bétête,C+O,46.358346,2.077134
-230220010R-6,6,Place du 18 juin 1940,23270,Bétête,C+O,46.358544,2.077024
-230220010R-7,7,Place du 18 juin 1940,23270,Bétête,C+O,46.359001,2.077025
-230220010R-8,8,Place du 18 juin 1940,23270,Bétête,C+O,46.358928,2.077081
+230220010R-1,1,Place du 18 Juin 1940,23270,Bétête,C+O,46.358668,2.077230
+230220010R-2,2,Place du 18 Juin 1940,23270,Bétête,C+O,46.358559,2.077278
+230220010R-5,5,Place du 18 Juin 1940,23270,Bétête,C+O,46.358346,2.077134
+230220010R-6,6,Place du 18 Juin 1940,23270,Bétête,C+O,46.358544,2.077024
+230220010R-7,7,Place du 18 Juin 1940,23270,Bétête,C+O,46.359001,2.077025
+230220010R-8,8,Place du 18 Juin 1940,23270,Bétête,C+O,46.358928,2.077081
 230220011S-1,1,Route de la Font Pérenche,23270,Bétête,C+O,46.358045,2.077565
 230220011S-2,2,Route de la Font Pérenche,23270,Bétête,C+O,46.357980,2.077497
 230220011S-4,4,Route de la Font Pérenche,23270,Bétête,C+O,46.357619,2.077745
@@ -6410,7 +6410,7 @@
 230450200X-37,37,Place Delamare,23170,Chambon-sur-Voueize,C+O,46.188615,2.427531
 230450200X-7,7,Place Delamare,23170,Chambon-sur-Voueize,C+O,46.188563,2.426362
 230450200X-9,9,Place Delamare,23170,Chambon-sur-Voueize,C+O,46.188627,2.426383
-230450210H-7,7,Place de l'Eglise,23170,Chambon-sur-Voueize,CAD,46.189685,2.425696
+230450210H-7,7,Place de l'Église,23170,Chambon-sur-Voueize,C+O,46.189685,2.425696
 230450240R-1,1,Route d'Evaux Les Bains,23170,Chambon-sur-Voueize,CAD,46.187117,2.428994
 230450240R-2,2,Route d'Evaux Les Bains,23170,Chambon-sur-Voueize,CAD,46.186420,2.430338
 230450240R-3,3,Route d'Evaux Les Bains,23170,Chambon-sur-Voueize,CAD,46.185760,2.430104
@@ -7815,13 +7815,13 @@
 230640005C-7,7,Rue du Docteur Turquet,23270,Clugnat,C+O,46.304894,2.119826
 230640005C-8,8,Rue du Docteur Turquet,23270,Clugnat,C+O,46.306517,2.118468
 230640005C-9,9,Rue du Docteur Turquet,23270,Clugnat,C+O,46.302998,2.120714
-230640006D-10,10,Place de l'Eglise,23270,Clugnat,C+O,46.307443,2.118761
-230640006D-12,12,Place de l'Eglise,23270,Clugnat,C+O,46.307427,2.118475
-230640006D-14,14,Place de l'Eglise,23270,Clugnat,C+O,46.307394,2.118280
-230640006D-2,2,Place de l'Eglise,23270,Clugnat,C+O,46.308047,2.118252
-230640006D-4,4,Place de l'Eglise,23270,Clugnat,C+O,46.307982,2.118303
-230640006D-6,6,Place de l'Eglise,23270,Clugnat,C+O,46.307906,2.118361
-230640006D-8,8,Place de l'Eglise,23270,Clugnat,C+O,46.307793,2.118435
+230640006D-10,10,Place de l'Église,23270,Clugnat,C+O,46.307443,2.118761
+230640006D-12,12,Place de l'Église,23270,Clugnat,C+O,46.307427,2.118475
+230640006D-14,14,Place de l'Église,23270,Clugnat,C+O,46.307394,2.118280
+230640006D-2,2,Place de l'Église,23270,Clugnat,C+O,46.308047,2.118252
+230640006D-4,4,Place de l'Église,23270,Clugnat,C+O,46.307982,2.118303
+230640006D-6,6,Place de l'Église,23270,Clugnat,C+O,46.307906,2.118361
+230640006D-8,8,Place de l'Église,23270,Clugnat,C+O,46.307793,2.118435
 230640007E-10,10,Rue George Sand,23270,Clugnat,C+O,46.308312,2.120461
 230640007E-11,11,Rue George Sand,23270,Clugnat,C+O,46.308309,2.119190
 230640007E-1,1,Rue George Sand,23270,Clugnat,C+O,46.308208,2.118270
@@ -11163,10 +11163,10 @@
 230820075A-4,4,Rue Pierre Rebière,23320,Fleurat,C+O,46.240115,1.678131
 230820075A-6,6,Rue Pierre Rebière,23320,Fleurat,C+O,46.240120,1.677987
 230820075A-8,8,Rue Pierre Rebière,23320,Fleurat,C+O,46.240130,1.677394
-230820078D-1,1,Placa Saint-Michel,23320,Fleurat,CAD,46.242441,1.679667
+230820078D-1,1,Place Saint-Michel,23320,Fleurat,C+O,46.242441,1.679667
 230820080F-2,2,Chemin de la Tonnelle,23320,Fleurat,C+O,46.240762,1.678391
 230820080F-6,6,Chemin de la Tonnelle,23320,Fleurat,C+O,46.240983,1.678083
-23082B010L-34,34,Les Fougeres,23320,Fleurat,CAD,46.226892,1.684088
+23082B010L-34,34,Les Fougeres,23320,Fleurat,C+O,46.226892,1.684088
 230840001L-1,1,Chemin des Bergères,23360,La Forêt-du-Temple,C+O,46.417470,1.902435
 230840002M-11,11,Rue François Ravaud,23360,La Forêt-du-Temple,C+O,46.420785,1.905831
 230840002M-1,1,Rue François Ravaud,23360,La Forêt-du-Temple,C+O,46.420418,1.903847
@@ -16812,8 +16812,8 @@
 231020003K-6,6,Route de La Châtre,23270,Ladapeyre,C+O,46.247473,2.046936
 231020004L-1,1,Route du Cimetière,23270,Ladapeyre,C+O,46.249459,2.048752
 231020004L-3,3,Route du Cimetière,23270,Ladapeyre,C+O,46.249854,2.048607
-231020005M-2,2,Place de l'Eglise,23270,Ladapeyre,C+O,46.248507,2.049943
-231020005M-4,4,Place de l'Eglise,23270,Ladapeyre,C+O,46.248523,2.050183
+231020005M-2,2,Place de l'Église,23270,Ladapeyre,C+O,46.248507,2.049943
+231020005M-4,4,Place de l'Église,23270,Ladapeyre,C+O,46.248523,2.050183
 231020006N-1,1,Route de la Fontaine,23270,Ladapeyre,C+O,46.247292,2.048604
 231020006N-2,2,Route de la Fontaine,23270,Ladapeyre,C+O,46.247089,2.048773
 231020008R-1,1,Impasse du Laurent,23270,Ladapeyre,C+O,46.246860,2.047801
@@ -17457,42 +17457,42 @@
 231110015J-1,1,Impasse de la Couture,23240,Lizières,C+O,46.210081,1.573117
 231110015J-2,2,Impasse de la Couture,23240,Lizières,C+O,46.209896,1.572847
 231110020P-1,1,Place de l'Église,23240,Lizières,C+O,46.211496,1.574482
-231110030A-4,4,Place de la Mairie,23240,Lizières,CAD,46.212360,1.578175
-231110032C-1,1,Route de la Mairie,23240,Lizières,CAD,46.211456,1.576377
-231110032C-2,2,Route de la Mairie,23240,Lizières,CAD,46.211322,1.576283
-231110032C-3,3,Route de la Mairie,23240,Lizières,CAD,46.211414,1.575806
-231110032C-4,4,Route de la Mairie,23240,Lizières,CAD,46.212494,1.578590
-231110035F-1,1,Place du 19 Mars 1962,23240,Lizières,CAD,46.212241,1.577587
-231110037H-1,1,Route de Maubrant,23240,Lizières,CAD,46.210143,1.573800
-231110037H-2,2,Route de Maubrant,23240,Lizières,CAD,46.210054,1.573761
-231110037H-3,3,Route de Maubrant,23240,Lizières,CAD,46.209864,1.573587
-231110037H-4,4,Route de Maubrant,23240,Lizières,CAD,46.209736,1.573507
-231110037H-52,52,Route de Maubrant,23240,Lizières,CAD,46.206518,1.572975
-231110037H-5,5,Route de Maubrant,23240,Lizières,CAD,46.208724,1.572745
-231110037H-6,6,Route de Maubrant,23240,Lizières,CAD,46.208272,1.572507
-231110037H-7,7,Route de Maubrant,23240,Lizières,CAD,46.208326,1.572427
-231110046T-1,1,Rue Rene Gillet,23240,Lizières,CAD,46.211379,1.574070
-231110046T-2,2,Rue Rene Gillet,23240,Lizières,CAD,46.211571,1.574069
-231110046T-3,3,Rue Rene Gillet,23240,Lizières,CAD,46.211771,1.573689
-231110046T-4,4,Rue Rene Gillet,23240,Lizières,CAD,46.212107,1.573307
-231110046T-5,5,Rue Rene Gillet,23240,Lizières,CAD,46.212913,1.574019
-231110049W-1,1,Rue de la Republique,23240,Lizières,CAD,46.211099,1.574263
-231110049W-2,2,Rue de la Republique,23240,Lizières,CAD,46.211010,1.574208
-231110049W-3,3,Rue de la Republique,23240,Lizières,CAD,46.210965,1.574326
-231110049W-4,4,Rue de la Republique,23240,Lizières,CAD,46.210828,1.574281
-231110049W-5,5,Rue de la Republique,23240,Lizières,CAD,46.210722,1.574136
-231110049W-6,6,Rue de la Republique,23240,Lizières,CAD,46.210677,1.574217
-231110049W-7,7,Rue de la Republique,23240,Lizières,CAD,46.210582,1.574174
-231110049W-8,8,Rue de la Republique,23240,Lizières,CAD,46.210431,1.574056
-231110049W-9,9,Rue de la Republique,23240,Lizières,CAD,46.210318,1.573805
-231110052Z-1,1,Chemin de Savignat,23240,Lizières,CAD,46.211195,1.575939
-231110052Z-2,2,Chemin de Savignat,23240,Lizières,CAD,46.211135,1.575931
-231110052Z-3,3,Chemin de Savignat,23240,Lizières,CAD,46.211077,1.574766
-231110056D-1,1,Route de la Suderie,23240,Lizières,CAD,46.210137,1.573459
-231110056D-2,2,Route de la Suderie,23240,Lizières,CAD,46.210308,1.572831
-231110056D-3,3,Route de la Suderie,23240,Lizières,CAD,46.210699,1.571906
-231110056D-4,4,Route de la Suderie,23240,Lizières,CAD,46.210816,1.571656
-231110056D-5,5,Route de la Suderie,23240,Lizières,CAD,46.210911,1.571442
+231110030A-4,4,Place de la Mairie,23240,Lizières,C+O,46.212360,1.578175
+231110032C-1,1,Route de la Mairie,23240,Lizières,C+O,46.211456,1.576377
+231110032C-2,2,Route de la Mairie,23240,Lizières,C+O,46.211322,1.576283
+231110032C-3,3,Route de la Mairie,23240,Lizières,C+O,46.211414,1.575806
+231110032C-4,4,Route de la Mairie,23240,Lizières,C+O,46.212494,1.578590
+231110035F-1,1,Place du 19 Mars 1962,23240,Lizières,C+O,46.212241,1.577587
+231110037H-1,1,Route de Maubrant,23240,Lizières,C+O,46.210143,1.573800
+231110037H-2,2,Route de Maubrant,23240,Lizières,C+O,46.210054,1.573761
+231110037H-3,3,Route de Maubrant,23240,Lizières,C+O,46.209864,1.573587
+231110037H-4,4,Route de Maubrant,23240,Lizières,C+O,46.209736,1.573507
+231110037H-52,52,Route de Maubrant,23240,Lizières,C+O,46.206518,1.572975
+231110037H-5,5,Route de Maubrant,23240,Lizières,C+O,46.208724,1.572745
+231110037H-6,6,Route de Maubrant,23240,Lizières,C+O,46.208272,1.572507
+231110037H-7,7,Route de Maubrant,23240,Lizières,C+O,46.208326,1.572427
+231110046T-1,1,Rue René Gillet,23240,Lizières,C+O,46.211379,1.574070
+231110046T-2,2,Rue René Gillet,23240,Lizières,C+O,46.211571,1.574069
+231110046T-3,3,Rue René Gillet,23240,Lizières,C+O,46.211771,1.573689
+231110046T-4,4,Rue René Gillet,23240,Lizières,C+O,46.212107,1.573307
+231110046T-5,5,Rue René Gillet,23240,Lizières,C+O,46.212913,1.574019
+231110049W-1,1,Rue de la République,23240,Lizières,C+O,46.211099,1.574263
+231110049W-2,2,Rue de la République,23240,Lizières,C+O,46.211010,1.574208
+231110049W-3,3,Rue de la République,23240,Lizières,C+O,46.210965,1.574326
+231110049W-4,4,Rue de la République,23240,Lizières,C+O,46.210828,1.574281
+231110049W-5,5,Rue de la République,23240,Lizières,C+O,46.210722,1.574136
+231110049W-6,6,Rue de la République,23240,Lizières,C+O,46.210677,1.574217
+231110049W-7,7,Rue de la République,23240,Lizières,C+O,46.210582,1.574174
+231110049W-8,8,Rue de la République,23240,Lizières,C+O,46.210431,1.574056
+231110049W-9,9,Rue de la République,23240,Lizières,C+O,46.210318,1.573805
+231110052Z-1,1,Chemin de Savignat,23240,Lizières,C+O,46.211195,1.575939
+231110052Z-2,2,Chemin de Savignat,23240,Lizières,C+O,46.211135,1.575931
+231110052Z-3,3,Chemin de Savignat,23240,Lizières,C+O,46.211077,1.574766
+231110056D-1,1,Route de la Suderie,23240,Lizières,C+O,46.210137,1.573459
+231110056D-2,2,Route de la Suderie,23240,Lizières,C+O,46.210308,1.572831
+231110056D-3,3,Route de la Suderie,23240,Lizières,C+O,46.210699,1.571906
+231110056D-4,4,Route de la Suderie,23240,Lizières,C+O,46.210816,1.571656
+231110056D-5,5,Route de la Suderie,23240,Lizières,C+O,46.210911,1.571442
 231120008X-1,1,Route d'Aigude,23360,Lourdoueix-Saint-Pierre,C+O,46.408613,1.817718
 231120008X-1B,1BIS,Route d'Aigude,23360,Lourdoueix-Saint-Pierre,C+O,46.408765,1.819224
 231120008X-2,2,Route d'Aigude,23360,Lourdoueix-Saint-Pierre,C+O,46.409256,1.820560
@@ -17668,14 +17668,14 @@
 231140134A-2,2,Place de l'Église,23170,Lussat,C+O,46.183003,2.340802
 231140134A-4,4,Place de l'Église,23170,Lussat,C+O,46.182828,2.340736
 231140134A-6,6,Place de l'Église,23170,Lussat,C+O,46.182726,2.340688
-231140135B-1,1,Rue de la fontaine,23170,Lussat,C+O,46.184266,2.344950
-231140135B-2,2,Rue de la fontaine,23170,Lussat,C+O,46.184226,2.344837
-231140135B-3,3,Rue de la fontaine,23170,Lussat,C+O,46.183999,2.345218
-231140135B-4,4,Rue de la fontaine,23170,Lussat,C+O,46.183778,2.345149
-231140135B-5,5,Rue de la fontaine,23170,Lussat,C+O,46.183596,2.345299
-231140135B-6,6,Rue de la fontaine,23170,Lussat,C+O,46.183551,2.345175
-231140135B-7,7,Rue de la fontaine,23170,Lussat,C+O,46.183210,2.345346
-231140135B-8,8,Rue de la fontaine,23170,Lussat,C+O,46.183238,2.345202
+231140135B-1,1,Rue de la Fontaine,23170,Lussat,C+O,46.184266,2.344950
+231140135B-2,2,Rue de la Fontaine,23170,Lussat,C+O,46.184226,2.344837
+231140135B-3,3,Rue de la Fontaine,23170,Lussat,C+O,46.183999,2.345218
+231140135B-4,4,Rue de la Fontaine,23170,Lussat,C+O,46.183778,2.345149
+231140135B-5,5,Rue de la Fontaine,23170,Lussat,C+O,46.183596,2.345299
+231140135B-6,6,Rue de la Fontaine,23170,Lussat,C+O,46.183551,2.345175
+231140135B-7,7,Rue de la Fontaine,23170,Lussat,C+O,46.183210,2.345346
+231140135B-8,8,Rue de la Fontaine,23170,Lussat,C+O,46.183238,2.345202
 231140136C-1,1,Rue des Loisirs,23170,Lussat,C+O,46.182896,2.341419
 231140136C-3,3,Rue des Loisirs,23170,Lussat,C+O,46.182876,2.341486
 231140136C-5,5,Rue des Loisirs,23170,Lussat,C+O,46.182765,2.341678
@@ -19155,9 +19155,9 @@
 231380006G-2,2,Place de l'Église,23150,Moutier-d'Ahun,C+O,46.091072,2.054632
 231380006G-4,4,Place de l'Église,23150,Moutier-d'Ahun,C+O,46.091109,2.054435
 231380006G-6,6,Place de l'Église,23150,Moutier-d'Ahun,C+O,46.091050,2.054055
-231390002Y-2,2,Place de l'Eglise,23220,Moutier-Malcard,C+O,46.393562,1.945869
-231390002Y-6,6,Place de l'Eglise,23220,Moutier-Malcard,C+O,46.393569,1.946145
-231390002Y-8,8,Place de l'Eglise,23220,Moutier-Malcard,C+O,46.393676,1.946152
+231390002Y-2,2,Place de l'Église,23220,Moutier-Malcard,C+O,46.393562,1.945869
+231390002Y-6,6,Place de l'Église,23220,Moutier-Malcard,C+O,46.393569,1.946145
+231390002Y-8,8,Place de l'Église,23220,Moutier-Malcard,C+O,46.393676,1.946152
 231390003Z-10,10,Route de Bonnat,23220,Moutier-Malcard,C+O,46.392006,1.944034
 231390003Z-1,1,Route de Bonnat,23220,Moutier-Malcard,C+O,46.392692,1.945142
 231390003Z-15,15,Route de Bonnat,23220,Moutier-Malcard,C+O,46.391651,1.943700
@@ -19190,17 +19190,17 @@
 231390005B-7,7,Rue des Écoles,23220,Moutier-Malcard,CAD,46.394524,1.942706
 231390005B-8,8,Rue des Écoles,23220,Moutier-Malcard,CAD,46.393956,1.943778
 231390005B-9,9,Rue des Écoles,23220,Moutier-Malcard,CAD,46.394478,1.942782
-231390006C-10,10,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393744,1.946804
-231390006C-11,11,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393318,1.945598
-231390006C-1,1,Route de l'Etang,23220,Moutier-Malcard,C+O,46.392919,1.949255
-231390006C-15,15,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393081,1.945618
-231390006C-17,17,Route de l'Etang,23220,Moutier-Malcard,C+O,46.392965,1.946009
-231390006C-2,2,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393197,1.950082
-231390006C-3,3,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393426,1.948259
-231390006C-4,4,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393640,1.947239
-231390006C-5,5,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393311,1.948137
-231390006C-6,6,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393689,1.947070
-231390006C-8,8,Route de l'Etang,23220,Moutier-Malcard,C+O,46.393727,1.946931
+231390006C-10,10,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393744,1.946804
+231390006C-11,11,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393318,1.945598
+231390006C-1,1,Route de l'Étang,23220,Moutier-Malcard,C+O,46.392919,1.949255
+231390006C-15,15,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393081,1.945618
+231390006C-17,17,Route de l'Étang,23220,Moutier-Malcard,C+O,46.392965,1.946009
+231390006C-2,2,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393197,1.950082
+231390006C-3,3,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393426,1.948259
+231390006C-4,4,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393640,1.947239
+231390006C-5,5,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393311,1.948137
+231390006C-6,6,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393689,1.947070
+231390006C-8,8,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393727,1.946931
 231390007D-10,10,Route du Geay,23220,Moutier-Malcard,C+O,46.393946,1.944192
 231390007D-11,11,Route du Geay,23220,Moutier-Malcard,C+O,46.394393,1.945084
 231390007D-1,1,Route du Geay,23220,Moutier-Malcard,C+O,46.395962,1.943849
@@ -19253,10 +19253,10 @@
 231410012A-4,4,Rue des Claudies,23800,Naillat,C+O,46.263732,1.636871
 231410012A-6,6,Rue des Claudies,23800,Naillat,C+O,46.263696,1.637017
 231410012A-8,8,Rue des Claudies,23800,Naillat,C+O,46.263699,1.637155
-231410014C-1,1,Route de dun-Le-Palestel,23800,Naillat,C+O,46.265508,1.638928
-231410014C-3,3,Route de dun-Le-Palestel,23800,Naillat,C+O,46.265607,1.639078
-231410014C-5,5,Route de dun-Le-Palestel,23800,Naillat,C+O,46.265734,1.639271
-231410014C-7,7,Route de dun-Le-Palestel,23800,Naillat,C+O,46.265889,1.639495
+231410014C-1,1,Route de Dun-Le-Palestel,23800,Naillat,C+O,46.265508,1.638928
+231410014C-3,3,Route de Dun-Le-Palestel,23800,Naillat,C+O,46.265607,1.639078
+231410014C-5,5,Route de Dun-Le-Palestel,23800,Naillat,C+O,46.265734,1.639271
+231410014C-7,7,Route de Dun-Le-Palestel,23800,Naillat,C+O,46.265889,1.639495
 231410017F-11,11,Rue des Écoles,23800,Naillat,C+O,46.264955,1.637345
 231410017F-1,1,Rue des Écoles,23800,Naillat,C+O,46.265333,1.637849
 231410017F-15,15,Rue des Écoles,23800,Naillat,C+O,46.264824,1.637475
@@ -19265,20 +19265,20 @@
 231410017F-5,5,Rue des Écoles,23800,Naillat,C+O,46.265130,1.637678
 231410017F-7,7,Rue des Écoles,23800,Naillat,C+O,46.265023,1.637578
 231410017F-9,9,Rue des Écoles,23800,Naillat,C+O,46.264988,1.637563
-231410019H-2,2,Place de l'Eglise,23800,Naillat,C+O,46.264840,1.637647
-231410019H-4,4,Place de l'Eglise,23800,Naillat,C+O,46.264784,1.637783
-231410020J-10,10,Rue de l'Etang,23800,Naillat,C+O,46.261098,1.636530
-231410020J-11,11,Rue de l'Etang,23800,Naillat,C+O,46.261177,1.637199
-231410020J-1,1,Rue de l'Etang,23800,Naillat,C+O,46.261438,1.635984
-231410020J-12,12,Rue de l'Etang,23800,Naillat,C+O,46.261088,1.636893
-231410020J-2,2,Rue de l'Etang,23800,Naillat,C+O,46.261523,1.635693
-231410020J-3,3,Rue de l'Etang,23800,Naillat,C+O,46.261227,1.636284
-231410020J-4,4,Rue de l'Etang,23800,Naillat,C+O,46.261337,1.635979
-231410020J-5,5,Rue de l'Etang,23800,Naillat,C+O,46.261285,1.636749
-231410020J-6,6,Rue de l'Etang,23800,Naillat,C+O,46.261223,1.636158
-231410020J-7,7,Rue de l'Etang,23800,Naillat,C+O,46.261328,1.636966
-231410020J-8,8,Rue de l'Etang,23800,Naillat,C+O,46.261105,1.636338
-231410020J-9,9,Rue de l'Etang,23800,Naillat,C+O,46.261288,1.637128
+231410019H-2,2,Place de l'Église,23800,Naillat,C+O,46.264840,1.637647
+231410019H-4,4,Place de l'Église,23800,Naillat,C+O,46.264784,1.637783
+231410020J-10,10,Rue de l'Étang,23800,Naillat,C+O,46.261098,1.636530
+231410020J-11,11,Rue de l'Étang,23800,Naillat,C+O,46.261177,1.637199
+231410020J-1,1,Rue de l'Étang,23800,Naillat,C+O,46.261438,1.635984
+231410020J-12,12,Rue de l'Étang,23800,Naillat,C+O,46.261088,1.636893
+231410020J-2,2,Rue de l'Étang,23800,Naillat,C+O,46.261523,1.635693
+231410020J-3,3,Rue de l'Étang,23800,Naillat,C+O,46.261227,1.636284
+231410020J-4,4,Rue de l'Étang,23800,Naillat,C+O,46.261337,1.635979
+231410020J-5,5,Rue de l'Étang,23800,Naillat,C+O,46.261285,1.636749
+231410020J-6,6,Rue de l'Étang,23800,Naillat,C+O,46.261223,1.636158
+231410020J-7,7,Rue de l'Étang,23800,Naillat,C+O,46.261328,1.636966
+231410020J-8,8,Rue de l'Étang,23800,Naillat,C+O,46.261105,1.636338
+231410020J-9,9,Rue de l'Étang,23800,Naillat,C+O,46.261288,1.637128
 231410021K-10,10,Chemin de la Fontaine,23800,Naillat,C+O,46.265525,1.637214
 231410021K-1,1,Chemin de la Fontaine,23800,Naillat,C+O,46.265358,1.637610
 231410021K-2,2,Chemin de la Fontaine,23800,Naillat,C+O,46.265429,1.637657
@@ -19343,63 +19343,63 @@
 231410056Y-6,6,Chemin de Saint-Jammes,23800,Naillat,C+O,46.263976,1.634733
 231410056Y-7,7,Chemin de Saint-Jammes,23800,Naillat,C+O,46.263923,1.635182
 231410064G-1,1,Route de la Scierie,23800,Naillat,C+O,46.262006,1.636860
-231410070N-1,1,Route du Bourg Les Villettes,23800,Naillat,CAD,46.242581,1.652830
-231410070N-3,3,Route du Bourg Les Villettes,23800,Naillat,CAD,46.242382,1.652787
-231410070N-5,5,Route du Bourg Les Villettes,23800,Naillat,CAD,46.242410,1.652979
-231410070N-7,7,Route du Bourg Les Villettes,23800,Naillat,CAD,46.242379,1.653157
-231410071P-1,1,Route de Fleurat Les Villettes,23800,Naillat,CAD,46.242472,1.654901
-231410071P-2,2,Route de Fleurat Les Villettes,23800,Naillat,CAD,46.241653,1.651583
-231410071P-4,4,Route de Fleurat Les Villettes,23800,Naillat,CAD,46.242072,1.651506
-231410071P-6,6,Route de Fleurat Les Villettes,23800,Naillat,CAD,46.241912,1.651868
-231410071P-8,8,Route de Fleurat Les Villettes,23800,Naillat,CAD,46.241954,1.654263
-231410072R-1,1,Rue du Pradeau Les Villettes,23800,Naillat,CAD,46.243821,1.653469
-231410072R-2,2,Rue du Pradeau Les Villettes,23800,Naillat,CAD,46.243146,1.654379
-231410072R-3,3,Rue du Pradeau Les Villettes,23800,Naillat,CAD,46.243038,1.655017
-231410072R-4,4,Rue du Pradeau Les Villettes,23800,Naillat,CAD,46.243064,1.654676
-231410072R-6,6,Rue du Pradeau Les Villettes,23800,Naillat,CAD,46.242961,1.655316
-231410073S-1,1,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.241560,1.652486
-231410073S-2,2,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.241868,1.652612
-231410073S-3,3,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.241171,1.652421
-231410073S-4,4,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.241503,1.652337
-231410073S-5,5,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.241212,1.652332
-231410073S-6,6,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.240891,1.651646
-231410073S-7,7,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.240757,1.651265
-231410073S-8,8,Rue du Tilleul Les Villettes,23800,Naillat,CAD,46.240796,1.651423
-231410074T-1,1,Rue du Puy de Seuil Villettes,23800,Naillat,CAD,46.241384,1.650884
-231410074T-2,2,Rue du Puy de Seuil Villettes,23800,Naillat,CAD,46.241323,1.650814
-231410074T-3,3,Rue du Puy de Seuil Villettes,23800,Naillat,CAD,46.240544,1.651028
-231410074T-4,4,Rue du Puy de Seuil Villettes,23800,Naillat,CAD,46.241206,1.650968
-231410074T-6,6,Rue du Puy de Seuil Villettes,23800,Naillat,CAD,46.240894,1.650974
-231410074T-8,8,Rue du Puy de Seuil Villettes,23800,Naillat,CAD,46.240739,1.650756
-231410075U-1,1,Rue de la Signole Villettes,23800,Naillat,CAD,46.240396,1.650647
-231410075U-2,2,Rue de la Signole Villettes,23800,Naillat,CAD,46.240419,1.650511
-231410075U-3,3,Rue de la Signole Villettes,23800,Naillat,CAD,46.239570,1.650751
-231410076V-1,1,Route de l'Etang Les Villettes,23800,Naillat,CAD,46.239779,1.649388
-231410076V-2,2,Route de l'Etang Les Villettes,23800,Naillat,CAD,46.240611,1.650376
-231410076V-4,4,Route de l'Etang Les Villettes,23800,Naillat,CAD,46.240104,1.649559
-231410077W-1,1,Place de la Liberté Villettes,23800,Naillat,CAD,46.241553,1.650932
-231410077W-2,2,Place de la Liberté Villettes,23800,Naillat,CAD,46.241761,1.651143
-231410077W-3,3,Place de la Liberté Villettes,23800,Naillat,CAD,46.241785,1.651050
-231410077W-4,4,Place de la Liberté Villettes,23800,Naillat,CAD,46.241782,1.650794
-231410077W-5,5,Place de la Liberté Villettes,23800,Naillat,CAD,46.241704,1.650663
+231410070N-1,1,Route du Bourg,23800,Naillat,C+O,46.242581,1.652830
+231410070N-3,3,Route du Bourg,23800,Naillat,C+O,46.242382,1.652787
+231410070N-5,5,Route du Bourg,23800,Naillat,C+O,46.242410,1.652979
+231410070N-7,7,Route du Bourg,23800,Naillat,C+O,46.242379,1.653157
+231410071P-1,1,Route de Fleurat,23800,Naillat,C+O,46.242472,1.654901
+231410071P-2,2,Route de Fleurat,23800,Naillat,C+O,46.241653,1.651583
+231410071P-4,4,Route de Fleurat,23800,Naillat,C+O,46.242072,1.651506
+231410071P-6,6,Route de Fleurat,23800,Naillat,C+O,46.241912,1.651868
+231410071P-8,8,Route de Fleurat,23800,Naillat,C+O,46.241954,1.654263
+231410072R-1,1,Rue du Pradeau,23800,Naillat,C+O,46.243821,1.653469
+231410072R-2,2,Rue du Pradeau,23800,Naillat,C+O,46.243146,1.654379
+231410072R-3,3,Rue du Pradeau,23800,Naillat,C+O,46.243038,1.655017
+231410072R-4,4,Rue du Pradeau,23800,Naillat,C+O,46.243064,1.654676
+231410072R-6,6,Rue du Pradeau,23800,Naillat,C+O,46.242961,1.655316
+231410073S-1,1,Rue du Tilleul,23800,Naillat,C+O,46.241560,1.652486
+231410073S-2,2,Rue du Tilleul,23800,Naillat,C+O,46.241868,1.652612
+231410073S-3,3,Rue du Tilleul,23800,Naillat,C+O,46.241171,1.652421
+231410073S-4,4,Rue du Tilleul,23800,Naillat,C+O,46.241503,1.652337
+231410073S-5,5,Rue du Tilleul,23800,Naillat,C+O,46.241212,1.652332
+231410073S-6,6,Rue du Tilleul,23800,Naillat,C+O,46.240891,1.651646
+231410073S-7,7,Rue du Tilleul,23800,Naillat,C+O,46.240757,1.651265
+231410073S-8,8,Rue du Tilleul,23800,Naillat,C+O,46.240796,1.651423
+231410074T-1,1,Rue du Puy de Seuil,23800,Naillat,C+O,46.241384,1.650884
+231410074T-2,2,Rue du Puy de Seuil,23800,Naillat,C+O,46.241323,1.650814
+231410074T-3,3,Rue du Puy de Seuil,23800,Naillat,C+O,46.240544,1.651028
+231410074T-4,4,Rue du Puy de Seuil,23800,Naillat,C+O,46.241206,1.650968
+231410074T-6,6,Rue du Puy de Seuil,23800,Naillat,C+O,46.240894,1.650974
+231410074T-8,8,Rue du Puy de Seuil,23800,Naillat,C+O,46.240739,1.650756
+231410075U-1,1,Rue de la Signolle,23800,Naillat,C+O,46.240396,1.650647
+231410075U-2,2,Rue de la Signolle,23800,Naillat,C+O,46.240419,1.650511
+231410075U-3,3,Rue de la Signolle,23800,Naillat,C+O,46.239570,1.650751
+231410076V-1,1,Route de l'Etang,23800,Naillat,C+O,46.239779,1.649388
+231410076V-2,2,Route de l'Etang,23800,Naillat,C+O,46.240611,1.650376
+231410076V-4,4,Route de l'Etang,23800,Naillat,C+O,46.240104,1.649559
+231410077W-1,1,Place de la Liberté,23800,Naillat,C+O,46.241553,1.650932
+231410077W-2,2,Place de la Liberté,23800,Naillat,C+O,46.241761,1.651143
+231410077W-3,3,Place de la Liberté,23800,Naillat,C+O,46.241785,1.651050
+231410077W-4,4,Place de la Liberté,23800,Naillat,C+O,46.241782,1.650794
+231410077W-5,5,Place de la Liberté,23800,Naillat,C+O,46.241704,1.650663
 231410078X-1,1,Rue du Lavoir Les Villettes,23800,Naillat,CAD,46.242002,1.650165
 231410078X-2,2,Rue du Lavoir Les Villettes,23800,Naillat,CAD,46.242266,1.650479
-231410079Y-2,2,Rue de la Cidrerie Villettes,23800,Naillat,CAD,46.241999,1.651209
-231410079Y-4,4,Rue de la Cidrerie Villettes,23800,Naillat,CAD,46.241956,1.650860
-231410079Y-6,6,Rue de la Cidrerie Villettes,23800,Naillat,CAD,46.241948,1.650792
-231410079Y-8,8,Rue de la Cidrerie Villettes,23800,Naillat,CAD,46.241935,1.650672
-231410080Z-1,1,Rue des Pouges Les Villettes,23800,Naillat,CAD,46.243331,1.649480
-231410081A-1,1,Voie des Marchands Villettes,23800,Naillat,CAD,46.241463,1.650108
-231410081A-2,2,Voie des Marchands Villettes,23800,Naillat,CAD,46.241565,1.650019
-231410081A-4,4,Voie des Marchands Villettes,23800,Naillat,CAD,46.241031,1.650309
-231410082B-1,1,Rue Saint-Chaves Les Villettes,23800,Naillat,CAD,46.242024,1.651373
-231410082B-2,2,Rue Saint-Chaves Les Villettes,23800,Naillat,CAD,46.242982,1.651335
-231410082B-3,3,Rue Saint-Chaves Les Villettes,23800,Naillat,CAD,46.242755,1.651506
-231410083C-1,1,Rue du Bouchaud Les Villettes,23800,Naillat,CAD,46.245212,1.651355
-231410083C-2,2,Rue du Bouchaud Les Villettes,23800,Naillat,CAD,46.245109,1.650279
-231410083C-3,3,Rue du Bouchaud Les Villettes,23800,Naillat,CAD,46.245037,1.650638
-231410083C-4,4,Rue du Bouchaud Les Villettes,23800,Naillat,CAD,46.245081,1.649965
-231410083C-5,5,Rue du Bouchaud Les Villettes,23800,Naillat,CAD,46.245037,1.650092
+231410079Y-2,2,Rue de la Cidrerie,23800,Naillat,C+O,46.241999,1.651209
+231410079Y-4,4,Rue de la Cidrerie,23800,Naillat,C+O,46.241956,1.650860
+231410079Y-6,6,Rue de la Cidrerie,23800,Naillat,C+O,46.241948,1.650792
+231410079Y-8,8,Rue de la Cidrerie,23800,Naillat,C+O,46.241935,1.650672
+231410080Z-1,1,Rue des Pouges,23800,Naillat,C+O,46.243331,1.649480
+231410081A-1,1,Voie des Marchands,23800,Naillat,C+O,46.241463,1.650108
+231410081A-2,2,Voie des Marchands,23800,Naillat,C+O,46.241565,1.650019
+231410081A-4,4,Voie des Marchands,23800,Naillat,C+O,46.241031,1.650309
+231410082B-1,1,Rue Saint-Chaves,23800,Naillat,C+O,46.242024,1.651373
+231410082B-2,2,Rue Saint-Chaves,23800,Naillat,C+O,46.242982,1.651335
+231410082B-3,3,Rue Saint-Chaves,23800,Naillat,C+O,46.242755,1.651506
+231410083C-1,1,Rue du Bouchaud,23800,Naillat,C+O,46.245212,1.651355
+231410083C-2,2,Rue du Bouchaud,23800,Naillat,C+O,46.245109,1.650279
+231410083C-3,3,Rue du Bouchaud,23800,Naillat,C+O,46.245037,1.650638
+231410083C-4,4,Rue du Bouchaud,23800,Naillat,C+O,46.245081,1.649965
+231410083C-5,5,Rue du Bouchaud,23800,Naillat,C+O,46.245037,1.650092
 231420001J-10,10,Rue des Couturières,23200,Néoux,C+O,45.915164,2.260652
 231420001J-11,11,Rue des Couturières,23200,Néoux,C+O,45.915268,2.260965
 231420001J-1,1,Rue des Couturières,23200,Néoux,C+O,45.915188,2.260396
@@ -19809,11 +19809,11 @@
 231510006A-4,4,Route de Chénerailles,23130,Peyrat-la-Nonière,C+O,46.088075,2.254926
 231510006A-5,5,Route de Chénerailles,23130,Peyrat-la-Nonière,C+O,46.088278,2.254220
 231510006A-8,8,Route de Chénerailles,23130,Peyrat-la-Nonière,C+O,46.088437,2.254040
-231510007B-2,2,Place de l'Eglise,23130,Peyrat-la-Nonière,C+O,46.087479,2.256082
-231510007B-3,3,Place de l'Eglise,23130,Peyrat-la-Nonière,C+O,46.087481,2.256348
-231510007B-4,4,Place de l'Eglise,23130,Peyrat-la-Nonière,C+O,46.087411,2.256127
-231510007B-5,5,Place de l'Eglise,23130,Peyrat-la-Nonière,C+O,46.087304,2.256384
-231510007B-6,6,Place de l'Eglise,23130,Peyrat-la-Nonière,C+O,46.087341,2.256209
+231510007B-2,2,Place de l'Église,23130,Peyrat-la-Nonière,C+O,46.087479,2.256082
+231510007B-3,3,Place de l'Église,23130,Peyrat-la-Nonière,C+O,46.087481,2.256348
+231510007B-4,4,Place de l'Église,23130,Peyrat-la-Nonière,C+O,46.087411,2.256127
+231510007B-5,5,Place de l'Église,23130,Peyrat-la-Nonière,C+O,46.087304,2.256384
+231510007B-6,6,Place de l'Église,23130,Peyrat-la-Nonière,C+O,46.087341,2.256209
 231510008C-15,15,Faubourg de l'Epaillard,23130,Peyrat-la-Nonière,C+O,46.086111,2.259718
 231510008C-2,2,Faubourg de l'Epaillard,23130,Peyrat-la-Nonière,C+O,46.084724,2.258942
 231510008C-4,4,Faubourg de l'Epaillard,23130,Peyrat-la-Nonière,C+O,46.084578,2.258399
@@ -22278,13 +22278,13 @@
 231761000X-7,7,Rue Martin Nadaud,23300,La Souterraine,C+O,46.243394,1.484598
 231761000X-8,8,Rue Martin Nadaud,23300,La Souterraine,C+O,46.242711,1.484298
 231761000X-9,9,Rue Martin Nadaud,23300,La Souterraine,C+O,46.243530,1.484621
-231761011J-10,10,Rue Maurice Genevois,23300,La Souterraine,CAD,46.227817,1.481415
-231761011J-1,1,Rue Maurice Genevois,23300,La Souterraine,CAD,46.227981,1.481406
-231761011J-12,12,Rue Maurice Genevois,23300,La Souterraine,CAD,46.227848,1.481633
-231761011J-2,2,Rue Maurice Genevois,23300,La Souterraine,CAD,46.228278,1.481369
-231761011J-4,4,Rue Maurice Genevois,23300,La Souterraine,CAD,46.228086,1.481297
-231761011J-6,6,Rue Maurice Genevois,23300,La Souterraine,CAD,46.227899,1.481251
-231761011J-8,8,Rue Maurice Genevois,23300,La Souterraine,CAD,46.227803,1.481259
+231761011J-10,10,Rue Maurice Genevoix,23300,La Souterraine,C+O,46.227817,1.481415
+231761011J-1,1,Rue Maurice Genevoix,23300,La Souterraine,C+O,46.227981,1.481406
+231761011J-12,12,Rue Maurice Genevoix,23300,La Souterraine,C+O,46.227848,1.481633
+231761011J-2,2,Rue Maurice Genevoix,23300,La Souterraine,C+O,46.228278,1.481369
+231761011J-4,4,Rue Maurice Genevoix,23300,La Souterraine,C+O,46.228086,1.481297
+231761011J-6,6,Rue Maurice Genevoix,23300,La Souterraine,C+O,46.227899,1.481251
+231761011J-8,8,Rue Maurice Genevoix,23300,La Souterraine,C+O,46.227803,1.481259
 231761015N-10,10,Rue Maurice Gibouin,23300,La Souterraine,C+O,46.240774,1.477505
 231761015N-2,2,Rue Maurice Gibouin,23300,La Souterraine,C+O,46.240750,1.478409
 231761015N-3T,3TER,Rue Maurice Gibouin,23300,La Souterraine,C+O,46.240513,1.477985
@@ -22633,7 +22633,7 @@
 231761300Y-7,7,Rue du Puycharraud,23300,La Souterraine,C+O,46.236786,1.482815
 231761300Y-8,8,Rue du Puycharraud,23300,La Souterraine,C+O,46.236879,1.482780
 231761300Y-9,9,Rue du Puycharraud,23300,La Souterraine,C+O,46.236798,1.482720
-231761310J-2,2,Rue du Puy Romain Bridiers,23300,La Souterraine,CAD,46.238783,1.532737
+231761310J-2,2,Rue du Puy Romain,23300,La Souterraine,C+O,46.238783,1.532737
 231761320V-1,1,Rue de la Rampe,23300,La Souterraine,C+O,46.237584,1.485362
 231761320V-2,2,Rue de la Rampe,23300,La Souterraine,C+O,46.237623,1.485435
 231761320V-3,3,Rue de la Rampe,23300,La Souterraine,C+O,46.237706,1.485295
@@ -23062,12 +23062,12 @@
 231761760Y-1T,1TER,Rue Yves Fesneau,23300,La Souterraine,C+O,46.237197,1.477891
 231761760Y-3,3,Rue Yves Fesneau,23300,La Souterraine,C+O,46.237139,1.477288
 231761760Y-9,9,Rue Yves Fesneau,23300,La Souterraine,C+O,46.237256,1.476321
-23176A030M-1,1,Cité Maurice Jeuniaux,23300,La Souterraine,CAD,46.233971,1.490369
-23176A030M-2,2,Cité Maurice Jeuniaux,23300,La Souterraine,CAD,46.233910,1.490456
-23176A030M-3,3,Cité Maurice Jeuniaux,23300,La Souterraine,CAD,46.233827,1.490463
-23176A030M-4,4,Cité Maurice Jeuniaux,23300,La Souterraine,CAD,46.233753,1.490360
-23176A030M-5,5,Cité Maurice Jeuniaux,23300,La Souterraine,CAD,46.233852,1.490178
-23176A030M-6,6,Cité Maurice Jeuniaux,23300,La Souterraine,CAD,46.233785,1.490275
+23176A030M-1,1,Cité Maurice Jeuniaux,23300,La Souterraine,C+O,46.233971,1.490369
+23176A030M-2,2,Cité Maurice Jeuniaux,23300,La Souterraine,C+O,46.233910,1.490456
+23176A030M-3,3,Cité Maurice Jeuniaux,23300,La Souterraine,C+O,46.233827,1.490463
+23176A030M-4,4,Cité Maurice Jeuniaux,23300,La Souterraine,C+O,46.233753,1.490360
+23176A030M-5,5,Cité Maurice Jeuniaux,23300,La Souterraine,C+O,46.233852,1.490178
+23176A030M-6,6,Cité Maurice Jeuniaux,23300,La Souterraine,C+O,46.233785,1.490275
 23176A044C-1,1,Cité Catenaires SNCF,23300,La Souterraine,C+O,46.238692,1.492390
 23176A047F-10,10,Hameau Le Mas de Compostelle,23300,La Souterraine,C+O,46.230410,1.482809
 23176A047F-11,11,Hameau Le Mas de Compostelle,23300,La Souterraine,C+O,46.230327,1.482824
@@ -24645,15 +24645,15 @@
 232090005X-7,7,Route de Chénerailles,23130,Saint-Loup,C+O,46.136299,2.268635
 232090005X-8,8,Route de Chénerailles,23130,Saint-Loup,C+O,46.136547,2.269043
 232090005X-9,9,Route de Chénerailles,23130,Saint-Loup,C+O,46.136027,2.267874
-232090008A-1,1,Place de l'Eglise,23130,Saint-Loup,C+O,46.136460,2.270889
-232090008A-2,2,Place de l'Eglise,23130,Saint-Loup,C+O,46.136519,2.271379
-232090008A-3,3,Place de l'Eglise,23130,Saint-Loup,C+O,46.136485,2.270648
-232090008A-4,4,Place de l'Eglise,23130,Saint-Loup,C+O,46.136611,2.271130
-232090008A-5,5,Place de l'Eglise,23130,Saint-Loup,C+O,46.136523,2.270296
-232090008A-6,6,Place de l'Eglise,23130,Saint-Loup,C+O,46.136651,2.270411
-232090008A-7,7,Place de l'Eglise,23130,Saint-Loup,C+O,46.136532,2.270210
-232090008A-8,8,Place de l'Eglise,23130,Saint-Loup,C+O,46.136861,2.270265
-232090008A-9,9,Place de l'Eglise,23130,Saint-Loup,C+O,46.136933,2.270113
+232090008A-1,1,Place de l'Église,23130,Saint-Loup,C+O,46.136460,2.270889
+232090008A-2,2,Place de l'Église,23130,Saint-Loup,C+O,46.136519,2.271379
+232090008A-3,3,Place de l'Église,23130,Saint-Loup,C+O,46.136485,2.270648
+232090008A-4,4,Place de l'Église,23130,Saint-Loup,C+O,46.136611,2.271130
+232090008A-5,5,Place de l'Église,23130,Saint-Loup,C+O,46.136523,2.270296
+232090008A-6,6,Place de l'Église,23130,Saint-Loup,C+O,46.136651,2.270411
+232090008A-7,7,Place de l'Église,23130,Saint-Loup,C+O,46.136532,2.270210
+232090008A-8,8,Place de l'Église,23130,Saint-Loup,C+O,46.136861,2.270265
+232090008A-9,9,Place de l'Église,23130,Saint-Loup,C+O,46.136933,2.270113
 232090010C-10,10,Route de l'Etang des Landes,23130,Saint-Loup,C+O,46.137563,2.274288
 232090010C-1,1,Route de l'Etang des Landes,23130,Saint-Loup,C+O,46.136784,2.272213
 232090010C-2,2,Route de l'Etang des Landes,23130,Saint-Loup,C+O,46.136510,2.271777
@@ -25578,26 +25578,26 @@
 23231A005W-7,7,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148621,1.509680
 23231A005W-8,8,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148286,1.510567
 23231A005W-9,9,Lotissement Le Ricourant,23290,Saint-Pierre-de-Fursac,C+O,46.148421,1.510734
-232350002F-1,1,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,CAD,46.201097,1.534988
-232350002F-2,2,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,CAD,46.200826,1.535966
-232350002F-4,4,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,CAD,46.200955,1.536106
-232350002F-7,7,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,CAD,46.201208,1.536224
-232350009N-2,2,Rue Camille Corot,23300,Saint-Priest-la-Feuille,CAD,46.200789,1.535028
-232350009N-4,4,Rue Camille Corot,23300,Saint-Priest-la-Feuille,CAD,46.200849,1.535124
-232350011R-1,1,Route de Chamborand,23300,Saint-Priest-la-Feuille,CAD,46.200510,1.536053
-232350011R-15,15,Route de Chamborand,23300,Saint-Priest-la-Feuille,CAD,46.199002,1.537534
-232350011R-17,17,Route de Chamborand,23300,Saint-Priest-la-Feuille,CAD,46.198393,1.536773
-232350011R-2,2,Route de Chamborand,23300,Saint-Priest-la-Feuille,CAD,46.197959,1.536992
-232350011R-9,9,Route de Chamborand,23300,Saint-Priest-la-Feuille,CAD,46.199428,1.536597
-232350015V-11,11,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.199455,1.537624
-232350015V-1,1,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.200047,1.536426
-232350015V-2,2,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.199874,1.536338
-232350015V-3,3,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.200139,1.536669
-232350015V-4,4,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.199966,1.536580
-232350015V-5,5,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.200116,1.536897
-232350015V-6,6,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.199990,1.536971
-232350015V-8,8,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.199578,1.537354
-232350015V-9,9,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,CAD,46.199652,1.537397
+232350002F-1,1,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,C+O,46.201097,1.534988
+232350002F-2,2,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,C+O,46.200826,1.535966
+232350002F-4,4,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,C+O,46.200955,1.536106
+232350002F-7,7,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,C+O,46.201208,1.536224
+232350009N-2,2,Rue Camille Corot,23300,Saint-Priest-la-Feuille,C+O,46.200789,1.535028
+232350009N-4,4,Rue Camille Corot,23300,Saint-Priest-la-Feuille,C+O,46.200849,1.535124
+232350011R-1,1,Route de Chamborand,23300,Saint-Priest-la-Feuille,C+O,46.200510,1.536053
+232350011R-15,15,Route de Chamborand,23300,Saint-Priest-la-Feuille,C+O,46.199002,1.537534
+232350011R-17,17,Route de Chamborand,23300,Saint-Priest-la-Feuille,C+O,46.198393,1.536773
+232350011R-2,2,Route de Chamborand,23300,Saint-Priest-la-Feuille,C+O,46.197959,1.536992
+232350011R-9,9,Route de Chamborand,23300,Saint-Priest-la-Feuille,C+O,46.199428,1.536597
+232350015V-11,11,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.199455,1.537624
+232350015V-1,1,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.200047,1.536426
+232350015V-2,2,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.199874,1.536338
+232350015V-3,3,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.200139,1.536669
+232350015V-4,4,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.199966,1.536580
+232350015V-5,5,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.200116,1.536897
+232350015V-6,6,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.199990,1.536971
+232350015V-8,8,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.199578,1.537354
+232350015V-9,9,Rue des Frères Stein,23300,Saint-Priest-la-Feuille,C+O,46.199652,1.537397
 232350018Y-1,1,Rue Jean-Francois Millet,23300,Saint-Priest-la-Feuille,C+O,46.200500,1.535312
 232350018Y-2,2,Rue Jean-Francois Millet,23300,Saint-Priest-la-Feuille,C+O,46.200789,1.535028
 232350018Y-3,3,Rue Jean-Francois Millet,23300,Saint-Priest-la-Feuille,C+O,46.200344,1.535424
@@ -25615,29 +25615,29 @@
 232350025F-6,6,Rue Leon Binet,23300,Saint-Priest-la-Feuille,C+O,46.201055,1.533776
 232350025F-7,7,Rue Leon Binet,23300,Saint-Priest-la-Feuille,C+O,46.200617,1.531857
 232350025F-8,8,Rue Leon Binet,23300,Saint-Priest-la-Feuille,C+O,46.201023,1.533696
-232350030L-1,1,Route de Maubrant,23300,Saint-Priest-la-Feuille,CAD,46.200772,1.537003
-232350030L-3,3,Route de Maubrant,23300,Saint-Priest-la-Feuille,CAD,46.200609,1.537329
-232350030L-4,4,Route de Maubrant,23300,Saint-Priest-la-Feuille,CAD,46.200399,1.537562
-232350030L-6,6,Route de Maubrant,23300,Saint-Priest-la-Feuille,CAD,46.200236,1.537880
-232350030L-7,7,Route de Maubrant,23300,Saint-Priest-la-Feuille,CAD,46.200075,1.538419
-232350031M-2,2,Place Maurice Utrillo,23300,Saint-Priest-la-Feuille,CAD,46.200582,1.534891
-232350035S-10,10,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,CAD,46.199361,1.537608
-232350035S-1,1,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,CAD,46.199023,1.536573
-232350035S-2,2,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,CAD,46.198972,1.536580
-232350035S-3,3,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,CAD,46.199123,1.536796
-232350035S-4,4,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,CAD,46.199076,1.536812
-232350035S-6,6,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,CAD,46.199197,1.537049
-232350040X-10,10,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201577,1.534203
-232350040X-11,11,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201309,1.534494
-232350040X-1,1,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201760,1.533911
-232350040X-12,12,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201420,1.534330
-232350040X-2,2,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.202099,1.533590
-232350040X-3,3,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201681,1.534207
-232350040X-4,4,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201909,1.533677
-232350040X-5,5,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201603,1.534312
-232350040X-6,6,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201811,1.533720
-232350040X-7,7,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201569,1.534364
-232350040X-8,8,Route de la Souterraine,23300,Saint-Priest-la-Feuille,CAD,46.201719,1.533774
+232350030L-1,1,Route de Maubrant,23300,Saint-Priest-la-Feuille,C+O,46.200772,1.537003
+232350030L-3,3,Route de Maubrant,23300,Saint-Priest-la-Feuille,C+O,46.200609,1.537329
+232350030L-4,4,Route de Maubrant,23300,Saint-Priest-la-Feuille,C+O,46.200399,1.537562
+232350030L-6,6,Route de Maubrant,23300,Saint-Priest-la-Feuille,C+O,46.200236,1.537880
+232350030L-7,7,Route de Maubrant,23300,Saint-Priest-la-Feuille,C+O,46.200075,1.538419
+232350031M-2,2,Place Maurice Utrillo,23300,Saint-Priest-la-Feuille,C+O,46.200582,1.534891
+232350035S-10,10,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,C+O,46.199361,1.537608
+232350035S-1,1,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,C+O,46.199023,1.536573
+232350035S-2,2,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,C+O,46.198972,1.536580
+232350035S-3,3,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,C+O,46.199123,1.536796
+232350035S-4,4,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,C+O,46.199076,1.536812
+232350035S-6,6,Rue Pierre Louyat,23300,Saint-Priest-la-Feuille,C+O,46.199197,1.537049
+232350040X-10,10,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201577,1.534203
+232350040X-11,11,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201309,1.534494
+232350040X-1,1,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201760,1.533911
+232350040X-12,12,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201420,1.534330
+232350040X-2,2,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.202099,1.533590
+232350040X-3,3,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201681,1.534207
+232350040X-4,4,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201909,1.533677
+232350040X-5,5,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201603,1.534312
+232350040X-6,6,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201811,1.533720
+232350040X-7,7,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201569,1.534364
+232350040X-8,8,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201719,1.533774
 23235B036Z-5,5,Chatelus,23300,Saint-Priest-la-Feuille,CAD,46.172793,1.547282
 232360010K-1,1,Allée du Château,23240,Saint-Priest-la-Plaine,C+O,46.192134,1.630141
 232360010K-2,2,Allée du Château,23240,Saint-Priest-la-Plaine,C+O,46.192578,1.629485
@@ -26905,54 +26905,54 @@
 232550005X-1,1,Route de la Bascule,23230,Trois-Fonds,C+O,46.249700,2.227575
 232550005X-2,2,Route de la Bascule,23230,Trois-Fonds,C+O,46.249866,2.227144
 232550005X-3,3,Route de la Bascule,23230,Trois-Fonds,C+O,46.249813,2.227080
-232550015H-2,2,Route de la Celle /Gouzon,23230,Trois-Fonds,C+O,46.249238,2.229818
-232550015H-4,4,Route de la Celle /Gouzon,23230,Trois-Fonds,C+O,46.248954,2.229764
-232550015H-6,6,Route de la Celle /Gouzon,23230,Trois-Fonds,C+O,46.247844,2.229217
-232550015H-8,8,Route de la Celle /Gouzon,23230,Trois-Fonds,C+O,46.246469,2.228611
+232550015H-2,2,Route de la Celle sur Gouzon,23230,Trois-Fonds,C+O,46.249238,2.229818
+232550015H-4,4,Route de la Celle sur Gouzon,23230,Trois-Fonds,C+O,46.248954,2.229764
+232550015H-6,6,Route de la Celle sur Gouzon,23230,Trois-Fonds,C+O,46.247844,2.229217
+232550015H-8,8,Route de la Celle sur Gouzon,23230,Trois-Fonds,C+O,46.246469,2.228611
 232550020N-2,2,Route du Pit,23230,Trois-Fonds,C+O,46.251963,2.228337
-232550025U-10,10,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250974,2.228902
-232550025U-11,11,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251060,2.228586
-232550025U-11B,11BIS,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251093,2.228455
-232550025U-1,1,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.248776,2.230213
-232550025U-12,12,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251193,2.228628
-232550025U-13,13,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251155,2.228276
-232550025U-14,14,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251200,2.228424
-232550025U-15,15,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250941,2.227998
-232550025U-16,16,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251319,2.228243
-232550025U-17,17,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251175,2.227897
-232550025U-18,18,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251224,2.227996
-232550025U-19,19,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251241,2.227678
-232550025U-20,20,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251295,2.227723
-232550025U-21,21,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251391,2.226986
-232550025U-22,22,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251464,2.226978
-232550025U-2,2,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.248459,2.230509
-232550025U-23,23,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250469,2.226580
-232550025U-24,24,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251472,2.226841
-232550025U-25,25,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249727,2.225018
-232550025U-26,26,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251496,2.226774
-232550025U-27,27,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249663,2.224797
-232550025U-28,28,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.251512,2.226544
-232550025U-29,29,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249610,2.224615
-232550025U-30,30,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250374,2.226374
-232550025U-31,31,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249553,2.224497
-232550025U-32,32,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250415,2.226136
-232550025U-33,33,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249230,2.224423
-232550025U-3,3,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250184,2.229383
-232550025U-34,34,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250361,2.226055
-232550025U-35,35,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249396,2.225004
-232550025U-36,36,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250210,2.225859
-232550025U-38,38,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250185,2.225665
-232550025U-40,40,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250053,2.225454
-232550025U-42,42,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249917,2.225210
-232550025U-44,44,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249824,2.225049
-232550025U-4,4,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.248590,2.230428
-232550025U-46,46,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.247968,2.224866
-232550025U-48,48,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.247704,2.225146
-232550025U-5,5,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250299,2.229275
-232550025U-6,6,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.248755,2.230325
-232550025U-7,7,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250465,2.229174
-232550025U-8,8,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.249930,2.229585
-232550025U-9,9,Route Saint-Silvain/Toulx,23230,Trois-Fonds,C+O,46.250671,2.229077
+232550025U-10,10,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250974,2.228902
+232550025U-11,11,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251060,2.228586
+232550025U-11B,11BIS,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251093,2.228455
+232550025U-1,1,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.248776,2.230213
+232550025U-12,12,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251193,2.228628
+232550025U-13,13,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251155,2.228276
+232550025U-14,14,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251200,2.228424
+232550025U-15,15,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250941,2.227998
+232550025U-16,16,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251319,2.228243
+232550025U-17,17,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251175,2.227897
+232550025U-18,18,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251224,2.227996
+232550025U-19,19,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251241,2.227678
+232550025U-20,20,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251295,2.227723
+232550025U-21,21,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251391,2.226986
+232550025U-22,22,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251464,2.226978
+232550025U-2,2,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.248459,2.230509
+232550025U-23,23,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250469,2.226580
+232550025U-24,24,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251472,2.226841
+232550025U-25,25,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249727,2.225018
+232550025U-26,26,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251496,2.226774
+232550025U-27,27,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249663,2.224797
+232550025U-28,28,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.251512,2.226544
+232550025U-29,29,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249610,2.224615
+232550025U-30,30,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250374,2.226374
+232550025U-31,31,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249553,2.224497
+232550025U-32,32,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250415,2.226136
+232550025U-33,33,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249230,2.224423
+232550025U-3,3,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250184,2.229383
+232550025U-34,34,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250361,2.226055
+232550025U-35,35,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249396,2.225004
+232550025U-36,36,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250210,2.225859
+232550025U-38,38,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250185,2.225665
+232550025U-40,40,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250053,2.225454
+232550025U-42,42,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249917,2.225210
+232550025U-44,44,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249824,2.225049
+232550025U-4,4,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.248590,2.230428
+232550025U-46,46,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.247968,2.224866
+232550025U-48,48,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.247704,2.225146
+232550025U-5,5,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250299,2.229275
+232550025U-6,6,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.248755,2.230325
+232550025U-7,7,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250465,2.229174
+232550025U-8,8,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.249930,2.229585
+232550025U-9,9,Route Saint-Silvain sur Toulx,23230,Trois-Fonds,C+O,46.250671,2.229077
 232570003L-2,2,Rue André Barthel,23120,Vallière,C+O,45.906799,2.035305
 232570005N-1,1,Rue de l'Arsenal,23120,Vallière,C+O,45.907550,2.040381
 232570005N-2,2,Rue de l'Arsenal,23120,Vallière,C+O,45.907460,2.040455
