@@ -549,7 +549,7 @@
 230060005E-9,9,Rue de la Mairie,23210,Arrènes,C+O,46.071752,1.570450
 230060006F-1,1,Impasse des Puits,23210,Arrènes,C+O,46.071302,1.569415
 230060006F-2,2,Impasse des Puits,23210,Arrènes,C+O,46.071243,1.569345
-23006B043C-3,3,Jourdaneix,23210,Arrènes,CAD,46.095201,1.548831
+23006B043C-3,3,Jourdaneix,23210,Arrènes,C+O,46.095201,1.548831
 23006B069F-10,10,La Pradelle,23210,Arrènes,C+O,46.080273,1.531314
 23006B069F-15,15,La Pradelle,23210,Arrènes,C+O,46.080428,1.531198
 230080010B-2,2,Rue de l'Abreuvoir,23200,Aubusson,C+O,45.957423,2.166764
@@ -6414,32 +6414,32 @@
 230450240R-1,1,Route d'Evaux les Bains,23170,Chambon-sur-Voueize,C+O,46.187117,2.428994
 230450240R-2,2,Route d'Evaux les Bains,23170,Chambon-sur-Voueize,C+O,46.186420,2.430338
 230450240R-3,3,Route d'Evaux les Bains,23170,Chambon-sur-Voueize,C+O,46.185760,2.430104
-230450260M-11,11,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189691,2.426186
-230450260M-12,12,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189600,2.426391
-230450260M-13,13,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189674,2.426254
-230450260M-14,14,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189579,2.426481
-230450260M-18,18,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189475,2.423446
+230450260M-11,11,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189691,2.426186
+230450260M-12,12,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189600,2.426391
+230450260M-13,13,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189674,2.426254
+230450260M-14,14,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189579,2.426481
+230450260M-18,18,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189475,2.423446
 230450260M-22,22,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189482,2.426754
-230450260M-23,23,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189564,2.426657
+230450260M-23,23,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189564,2.426657
 230450260M-25,25,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189645,2.426791
-230450260M-27,27,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189526,2.426770
-230450260M-28,28,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189279,2.427236
+230450260M-27,27,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189526,2.426770
+230450260M-28,28,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189279,2.427236
 230450260M-30,30,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189245,2.427289
-230450260M-31,31,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189461,2.426937
+230450260M-31,31,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189461,2.426937
 230450260M-32,32,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189185,2.427353
 230450260M-34,34,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189140,2.427383
-230450260M-35,35,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189424,2.427036
-230450260M-36,36,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189090,2.427399
-230450260M-37,37,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189412,2.427067
-230450260M-39,39,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189395,2.427109
-230450260M-41,41,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189258,2.427365
-230450260M-43,43,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189213,2.427413
-230450260M-45,45,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189166,2.427457
+230450260M-35,35,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189424,2.427036
+230450260M-36,36,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189090,2.427399
+230450260M-37,37,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189412,2.427067
+230450260M-39,39,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189395,2.427109
+230450260M-41,41,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189258,2.427365
+230450260M-43,43,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189213,2.427413
+230450260M-45,45,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189166,2.427457
 230450260M-47,47,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189135,2.427482
-230450260M-5,5,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189736,2.425984
-230450260M-7,7,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189723,2.426061
-230450260M-8,8,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189636,2.426180
-230450260M-9,9,Rue du Faubourg,23170,Chambon-sur-Voueize,C+O,46.189706,2.426127
+230450260M-5,5,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189736,2.425984
+230450260M-7,7,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189723,2.426061
+230450260M-8,8,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189636,2.426180
+230450260M-9,9,Grande Rue du Faubourg Saint-Martial,23170,Chambon-sur-Voueize,C+O,46.189706,2.426127
 230450300F-2,2,Rue du Fort de la Motte,23170,Chambon-sur-Voueize,C+O,46.189599,2.427902
 230450300F-4,4,Rue du Fort de la Motte,23170,Chambon-sur-Voueize,C+O,46.189685,2.427801
 230450300F-6,6,Rue du Fort de la Motte,23170,Chambon-sur-Voueize,C+O,46.189711,2.427778
@@ -6555,14 +6555,14 @@
 230450580K-4,4,Place du Marché,23170,Chambon-sur-Voueize,C+O,46.189498,2.424862
 230450580K-6,6,Place du Marché,23170,Chambon-sur-Voueize,C+O,46.189265,2.425188
 230450580K-8,8,Place du Marché,23170,Chambon-sur-Voueize,C+O,46.189599,2.425104
-230450600G-15,15,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189483,2.425868
-230450600G-19,19,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189435,2.426132
-230450600G-21,21,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189421,2.426205
-230450600G-2,2,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189493,2.425391
-230450600G-23,23,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189411,2.426317
-230450600G-25,25,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189394,2.426442
-230450600G-5,5,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189618,2.425621
-230450600G-9,9,Place Massy,23170,Chambon-sur-Voueize,CAD,46.189708,2.425766
+230450600G-15,15,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189483,2.425868
+230450600G-19,19,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189435,2.426132
+230450600G-21,21,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189421,2.426205
+230450600G-2,2,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189493,2.425391
+230450600G-23,23,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189411,2.426317
+230450600G-25,25,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189394,2.426442
+230450600G-5,5,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189618,2.425621
+230450600G-9,9,Place Massy,23170,Chambon-sur-Voueize,C+O,46.189708,2.425766
 230450620D-1,1,Route de Montluçon,23170,Chambon-sur-Voueize,C+O,46.188236,2.428149
 230450620D-2,2,Route de Montluçon,23170,Chambon-sur-Voueize,C+O,46.188345,2.430905
 230450620D-3,3,Route de Montluçon,23170,Chambon-sur-Voueize,C+O,46.188255,2.428302
@@ -11624,8 +11624,8 @@
 23092A152K-2,2,Lotissement Les Ecures,23380,Glénic,C+O,46.223632,1.932906
 23092A152K-3,3,Lotissement Les Ecures,23380,Glénic,C+O,46.223798,1.933002
 23092A152K-4,4,Lotissement Les Ecures,23380,Glénic,C+O,46.223976,1.933001
-23092B119L-11,11,Peyzat,23380,Glénic,CAD,46.221964,1.962176
-23092B119L-5,5,Peyzat,23380,Glénic,CAD,46.220865,1.959664
+23092B119L-11,11,Peyzat,23380,Glénic,C+O,46.221964,1.962176
+23092B119L-5,5,Peyzat,23380,Glénic,C+O,46.220865,1.959664
 230930015M-11,11,Rue de l'Aiguillon,23230,Gouzon,C+O,46.191952,2.242535
 230930015M-1,1,Rue de l'Aiguillon,23230,Gouzon,C+O,46.192301,2.241634
 230930015M-13,13,Rue de l'Aiguillon,23230,Gouzon,C+O,46.192102,2.242842
@@ -19171,25 +19171,25 @@
 231390004A-2,2,Place du Commerce,23220,Moutier-Malcard,C+O,46.393037,1.944576
 231390004A-4,4,Place du Commerce,23220,Moutier-Malcard,C+O,46.392984,1.944750
 231390004A-8,8,Place du Commerce,23220,Moutier-Malcard,C+O,46.392906,1.944951
-231390005B-10,10,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.393796,1.944183
-231390005B-11,11,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394397,1.942916
-231390005B-12,12,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.393698,1.944401
-231390005B-14,14,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.393607,1.944657
-231390005B-15,15,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394231,1.943299
-231390005B-16,16,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.393386,1.944519
-231390005B-17,17,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.392853,1.945476
-231390005B-18,18,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.393362,1.944874
-231390005B-19,19,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.392689,1.945643
-231390005B-22,22,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.390884,1.945567
-231390005B-2,2,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394693,1.942252
-231390005B-23,23,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.392252,1.945934
-231390005B-25,25,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.392328,1.945665
-231390005B-4,4,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394564,1.942442
-231390005B-5,5,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394625,1.942538
-231390005B-6,6,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394419,1.942655
-231390005B-7,7,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394524,1.942706
-231390005B-8,8,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.393956,1.943778
-231390005B-9,9,Rue des Ecoles,23220,Moutier-Malcard,C+O,46.394478,1.942782
+231390005B-10,10,Rue des Écoles,23220,Moutier-Malcard,C+O,46.393796,1.944183
+231390005B-11,11,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394397,1.942916
+231390005B-12,12,Rue des Écoles,23220,Moutier-Malcard,C+O,46.393698,1.944401
+231390005B-14,14,Rue des Écoles,23220,Moutier-Malcard,C+O,46.393607,1.944657
+231390005B-15,15,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394231,1.943299
+231390005B-16,16,Rue des Écoles,23220,Moutier-Malcard,C+O,46.393386,1.944519
+231390005B-17,17,Rue des Écoles,23220,Moutier-Malcard,C+O,46.392853,1.945476
+231390005B-18,18,Rue des Écoles,23220,Moutier-Malcard,C+O,46.393362,1.944874
+231390005B-19,19,Rue des Écoles,23220,Moutier-Malcard,C+O,46.392689,1.945643
+231390005B-22,22,Rue des Écoles,23220,Moutier-Malcard,C+O,46.390884,1.945567
+231390005B-2,2,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394693,1.942252
+231390005B-23,23,Rue des Écoles,23220,Moutier-Malcard,C+O,46.392252,1.945934
+231390005B-25,25,Rue des Écoles,23220,Moutier-Malcard,C+O,46.392328,1.945665
+231390005B-4,4,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394564,1.942442
+231390005B-5,5,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394625,1.942538
+231390005B-6,6,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394419,1.942655
+231390005B-7,7,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394524,1.942706
+231390005B-8,8,Rue des Écoles,23220,Moutier-Malcard,C+O,46.393956,1.943778
+231390005B-9,9,Rue des Écoles,23220,Moutier-Malcard,C+O,46.394478,1.942782
 231390006C-10,10,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393744,1.946804
 231390006C-11,11,Route de l'Étang,23220,Moutier-Malcard,C+O,46.393318,1.945598
 231390006C-1,1,Route de l'Étang,23220,Moutier-Malcard,C+O,46.392919,1.949255
@@ -19886,8 +19886,8 @@
 231510016L-2,2,Rue de Saint-Vincent,23130,Peyrat-la-Nonière,C+O,46.087519,2.258457
 231510016L-4,4,Rue de Saint-Vincent,23130,Peyrat-la-Nonière,C+O,46.087380,2.258470
 231510016L-5,5,Rue de Saint-Vincent,23130,Peyrat-la-Nonière,C+O,46.087240,2.258595
-231510017M-2,2,Faubourg de la Musette,23130,Peyrat-la-Nonière,CAD,46.087106,2.248319
-23151A001P-3,3,Lotissement des Champs Meaux,23130,Peyrat-la-Nonière,CAD,46.085760,2.250392
+231510017M-2,2,Faubourg de la Musette,23130,Peyrat-la-Nonière,C+O,46.087106,2.248319
+23151A001P-3,3,Lotissement des Champs Meaux,23130,Peyrat-la-Nonière,C+O,46.085760,2.250392
 231540001G-2,2,Place de la Mairie,23140,Pionnat,C+O,46.170327,2.025502
 231540001G-4,4,Place de la Mairie,23140,Pionnat,C+O,46.170351,2.025440
 231540001G-5,5,Place de la Mairie,23140,Pionnat,C+O,46.170579,2.024879
@@ -24160,7 +24160,7 @@
 231950035R-5,5,Rue Sylvain Blanchet,23000,Saint-Fiel,C+O,46.213840,1.895527
 231950035R-7,7,Rue Sylvain Blanchet,23000,Saint-Fiel,C+O,46.213704,1.895719
 23195B005P-34,34,Bois Chabrat,23000,Saint-Fiel,C+O,46.208454,1.878524
-23195B027N-14,14,Cher de Haut,23000,Saint-Fiel,CAD,46.192238,1.902107
+23195B027N-14,14,Cher de Haut,23000,Saint-Fiel,C+O,46.192238,1.902107
 231990001L-10,10,Grande Rue,23160,Saint-Germain-Beaupré,C+O,46.308496,1.545127
 231990001L-11,11,Grande Rue,23160,Saint-Germain-Beaupré,C+O,46.307476,1.545651
 231990001L-1,1,Grande Rue,23160,Saint-Germain-Beaupré,C+O,46.309164,1.544451
@@ -24609,8 +24609,8 @@
 232080040P-4,4,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150849,1.814113
 232080040P-6,6,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150769,1.813857
 232080040P-7,7,Rue des Écoles,23000,Saint-Léger-le-Guérétois,C+O,46.150494,1.813027
-232080045V-1,1,Place de l'Église,23000,Saint-Léger-le-Guérétois,CAD,46.151862,1.813579
-232080045V-2,2,Place de l'Église,23000,Saint-Léger-le-Guérétois,CAD,46.151954,1.813484
+232080045V-1,1,Place de l'Église,23000,Saint-Léger-le-Guérétois,C+O,46.151862,1.813579
+232080045V-2,2,Place de l'Église,23000,Saint-Léger-le-Guérétois,C+O,46.151954,1.813484
 232080050A-3,3,Rue des Flottes,23000,Saint-Léger-le-Guérétois,C+O,46.150271,1.810726
 232080050A-4,4,Rue des Flottes,23000,Saint-Léger-le-Guérétois,C+O,46.150061,1.810515
 232080050A-7,7,Rue des Flottes,23000,Saint-Léger-le-Guérétois,C+O,46.148719,1.811954
@@ -24622,7 +24622,7 @@
 232080060L-6,6,Rue du Maréchal Ferrant,23000,Saint-Léger-le-Guérétois,C+O,46.151208,1.813317
 232080060L-7,7,Rue du Maréchal Ferrant,23000,Saint-Léger-le-Guérétois,C+O,46.151018,1.812722
 232080060L-8,8,Rue du Maréchal Ferrant,23000,Saint-Léger-le-Guérétois,C+O,46.151167,1.813087
-232080070X-1,1,Rue de 1948,23000,Saint-Léger-le-Guérétois,CAD,46.150854,1.813089
+232080070X-1,1,Rue de 1948,23000,Saint-Léger-le-Guérétois,C+O,46.150854,1.813089
 232090001T-1,1,Route de l'Abeoradoux,23130,Saint-Loup,CAD,46.135754,2.272464
 232090001T-2,2,Route de l'Abeoradoux,23130,Saint-Loup,CAD,46.136300,2.271459
 232090001T-3,3,Route de l'Abeoradoux,23130,Saint-Loup,CAD,46.135575,2.272726
@@ -25638,7 +25638,7 @@
 232350040X-6,6,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201811,1.533720
 232350040X-7,7,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201569,1.534364
 232350040X-8,8,Route de La Souterraine,23300,Saint-Priest-la-Feuille,C+O,46.201719,1.533774
-23235B036Z-5,5,Chatelus,23300,Saint-Priest-la-Feuille,CAD,46.172793,1.547282
+23235B036Z-5,5,Chatelus,23300,Saint-Priest-la-Feuille,C+O,46.172793,1.547282
 232360010K-1,1,Allée du Château,23240,Saint-Priest-la-Plaine,C+O,46.192134,1.630141
 232360010K-2,2,Allée du Château,23240,Saint-Priest-la-Plaine,C+O,46.192578,1.629485
 232360010K-3,3,Allée du Château,23240,Saint-Priest-la-Plaine,C+O,46.192634,1.629553
