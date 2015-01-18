@@ -10129,7 +10129,7 @@
 973090086R-11B,11BIS,Route de Rémire,97354,Remire-Montjoly,C+O,4.887196,-52.275782
 973090086R-12,12,Route de Rémire,97354,Remire-Montjoly,C+O,4.890308,-52.275465
 973090086R-12B,12BIS,Route de Rémire,97354,Remire-Montjoly,C+O,4.891108,-52.275120
-973090086R-1301,1301,Route de Rémire,97354,Remire-Montjoly,OSM,4.898621,-52.274558
+973090086R-1301,1301,Route de Rémire,97354,Remire-Montjoly,OSM,4.899221,-52.274650
 973090086R-13,13,Route de Rémire,97354,Remire-Montjoly,C+O,4.887055,-52.275968
 973090086R-15,15,Route de Rémire,97354,Remire-Montjoly,C+O,4.886901,-52.275956
 973090086R-17,17,Route de Rémire,97354,Remire-Montjoly,C+O,4.886730,-52.275949
@@ -12402,29 +12402,29 @@
 973110063G-4,4,Rue Gontrand Damas,97320,Saint-Laurent-du-Maroni,CAD,5.502471,-54.027207
 973110063G-6,6,Rue Gontrand Damas,97320,Saint-Laurent-du-Maroni,CAD,5.502550,-54.027127
 973110065J-1,1,Avenue du Gouverneur Bouge,97320,Saint-Laurent-du-Maroni,CAD,5.503483,-54.027743
-973110067L-10,10,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494579,-54.029520
-973110067L-11,11,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494582,-54.029349
-973110067L-1,1,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494954,-54.030206
-973110067L-12,12,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494496,-54.029378
-973110067L-13,13,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494514,-54.029191
-973110067L-14,14,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494441,-54.029205
-973110067L-15,15,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494441,-54.029024
-973110067L-16,16,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494374,-54.029053
-973110067L-17,17,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494370,-54.028859
-973110067L-18,18,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494303,-54.028885
-973110067L-19,19,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494293,-54.028682
-973110067L-20,20,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494210,-54.028722
-973110067L-21,21,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494224,-54.028523
-973110067L-22,22,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494154,-54.028547
-973110067L-23,23,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494171,-54.028312
-973110067L-24,24,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494041,-54.028375
-973110067L-3,3,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494875,-54.030024
-973110067L-4,4,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494786,-54.030044
-973110067L-5,5,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494798,-54.029847
-973110067L-6,6,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494717,-54.029885
-973110067L-7,7,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494730,-54.029688
-973110067L-8,8,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494647,-54.029723
-973110067L-9,9,Allée de l'Aurore,97320,Saint-Laurent-du-Maroni,CAD,5.494652,-54.029508
+973110067L-10,10,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494579,-54.029520
+973110067L-11,11,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494582,-54.029349
+973110067L-1,1,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494954,-54.030206
+973110067L-12,12,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494496,-54.029378
+973110067L-13,13,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494514,-54.029191
+973110067L-14,14,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494441,-54.029205
+973110067L-15,15,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494441,-54.029024
+973110067L-16,16,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494374,-54.029053
+973110067L-17,17,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494370,-54.028859
+973110067L-18,18,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494303,-54.028885
+973110067L-19,19,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494293,-54.028682
+973110067L-20,20,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494210,-54.028722
+973110067L-21,21,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494224,-54.028523
+973110067L-22,22,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494154,-54.028547
+973110067L-23,23,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494171,-54.028312
+973110067L-24,24,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494041,-54.028375
+973110067L-3,3,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494875,-54.030024
+973110067L-4,4,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494786,-54.030044
+973110067L-5,5,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494798,-54.029847
+973110067L-6,6,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494717,-54.029885
+973110067L-7,7,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494730,-54.029688
+973110067L-8,8,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494647,-54.029723
+973110067L-9,9,Allée de l'aurore,97320,Saint-Laurent-du-Maroni,C+O,5.494652,-54.029508
 973110068M-10,10,Rue Cupidon,97320,Saint-Laurent-du-Maroni,CAD,5.503584,-54.024285
 973110068M-1,1,Rue Cupidon,97320,Saint-Laurent-du-Maroni,CAD,5.503150,-54.024530
 973110068M-12,12,Rue Cupidon,97320,Saint-Laurent-du-Maroni,CAD,5.503699,-54.024246
