@@ -737,14 +737,14 @@
 040190165J-7089,7089,Place du Docteur Louis Signoret,04400,Barcelonnette,CAD,44.387616,6.650939
 040190170P-3,3,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388112,6.653624
 040190170P-5,5,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388056,6.653818
-040190180A-2,2,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384846,6.650703
-040190180A-5,5,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.383831,6.651807
-040190180A-7003,7003,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385201,6.651369
-040190180A-7003A,7003A,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385193,6.651616
-040190180A-7003B,7003B,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385127,6.651634
-040190180A-7003C,7003C,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384970,6.651858
-040190180A-7091,7091,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385046,6.651312
-040190180A-7,7,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.382845,6.651150
+040190180A-2,2,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384846,6.650703
+040190180A-5,5,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.383831,6.651807
+040190180A-7003,7003,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385201,6.651369
+040190180A-7003A,7003A,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385193,6.651616
+040190180A-7003B,7003B,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385127,6.651634
+040190180A-7003C,7003C,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384970,6.651858
+040190180A-7091,7091,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385046,6.651312
+040190180A-7,7,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.382845,6.651150
 040190190L-1,1,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388450,6.644921
 040190190L-2,2,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388400,6.645217
 040190190L-3,3,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388557,6.644638
@@ -4794,16 +4794,16 @@
 040700220X-9,9,Rue Bonthoux,04000,Digne-les-Bains,C+O,44.089857,6.233817
 040700230H-14,14,Terrasse de la Boucherie,04000,Digne-les-Bains,CAD,44.092490,6.235417
 040700230H-2,2,Terrasse de la Boucherie,04000,Digne-les-Bains,CAD,44.092461,6.235320
-040700231J-11,11,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076883,6.178587
-040700231J-1,1,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077105,6.178148
-040700231J-2,2,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076458,6.178331
-040700231J-3,3,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077342,6.177917
-040700231J-4,4,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076811,6.178095
-040700231J-5,5,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077494,6.178262
-040700231J-6,6,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077024,6.178216
-040700231J-7,7,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077203,6.178313
-040700231J-8,8,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076802,6.178582
-040700231J-9,9,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077131,6.178341
+040700231J-11,11,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076883,6.178587
+040700231J-1,1,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077105,6.178148
+040700231J-2,2,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076458,6.178331
+040700231J-3,3,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077342,6.177917
+040700231J-4,4,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076811,6.178095
+040700231J-5,5,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077494,6.178262
+040700231J-6,6,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077024,6.178216
+040700231J-7,7,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077203,6.178313
+040700231J-8,8,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076802,6.178582
+040700231J-9,9,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077131,6.178341
 040700235N-1,1,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.089897,6.223156
 040700235N-2,2,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.090022,6.222557
 040700235N-3,3,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.089827,6.222778
@@ -20407,11 +20407,11 @@
 042090195R-4,4,Rue du Bosquet,04200,Sisteron,CAD,44.181334,5.942941
 042090195R-6,6,Rue du Bosquet,04200,Sisteron,CAD,44.181417,5.942879
 042090195R-8,8,Rue du Bosquet,04200,Sisteron,CAD,44.181587,5.942965
-042090200W-1,1,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
-042090200W-32,32,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
-042090200W-420,420,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
-042090200W-5B,5BIS,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
-042090200W-6,6,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
+042090200W-1,1,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
+042090200W-32,32,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
+042090200W-420,420,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
+042090200W-5B,5BIS,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
+042090200W-6,6,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
 042090206C-46,46,Chemin de la Bousquette,04200,Sisteron,CAD,44.218006,5.915048
 042090214L-1,1,Impasse des Cerisiers,04200,Sisteron,CAD,44.184405,5.948502
 042090214L-3,3,Impasse des Cerisiers,04200,Sisteron,CAD,44.184042,5.948317

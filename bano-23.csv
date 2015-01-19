@@ -6096,7 +6096,7 @@
 230390035U-8B,8BIS,Rue de la Marche,23800,La Celle-Dunoise,C+O,46.308592,1.769444
 230390035U-9,9,Rue de la Marche,23800,La Celle-Dunoise,C+O,46.308919,1.769683
 230390040Z-11,11,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311414,1.768617
-230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310334,1.769524
+230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310415,1.769245
 230390040Z-13,13,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311698,1.768479
 230390040Z-15,15,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311893,1.768409
 230390040Z-17,17,Route des Peintres,23800,La Celle-Dunoise,C+O,46.312112,1.768313
@@ -19212,6 +19212,7 @@
 231390007D-6,6,Route du Geay,23220,Moutier-Malcard,C+O,46.395012,1.944064
 231390007D-7,7,Route du Geay,23220,Moutier-Malcard,C+O,46.394852,1.944557
 231390007D-8,8,Route du Geay,23220,Moutier-Malcard,C+O,46.394342,1.944418
+231390008E-2,2,Place de la Mairie,23220,Moutier-Malcard,OSM,46.392479,1.945488
 231390008E-8,8,Place de la Mairie,23220,Moutier-Malcard,C+O,46.392677,1.945190
 231390009F-10,10,Place des Tilleuls,23220,Moutier-Malcard,C+O,46.394031,1.946166
 231390009F-12,12,Place des Tilleuls,23220,Moutier-Malcard,C+O,46.393975,1.946009
@@ -25331,7 +25332,7 @@
 232230004K-7,7,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853908,1.689322
 232230004K-9,9,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853813,1.689560
 232230005L-1,1,Route des Écoles,23400,Saint-Moreil,C+O,45.852558,1.689655
-232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851986,1.688807
+232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851774,1.688718
 232230005L-3,3,Route des Écoles,23400,Saint-Moreil,C+O,45.852004,1.689390
 232230006M-11,11,Place de l'Église,23400,Saint-Moreil,C+O,45.853061,1.689426
 232230006M-1,1,Place de l'Église,23400,Saint-Moreil,C+O,45.853711,1.689400
