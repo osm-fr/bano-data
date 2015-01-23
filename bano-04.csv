@@ -4794,16 +4794,16 @@
 040700220X-9,9,Rue Bonthoux,04000,Digne-les-Bains,C+O,44.089857,6.233817
 040700230H-14,14,Terrasse de la Boucherie,04000,Digne-les-Bains,CAD,44.092490,6.235417
 040700230H-2,2,Terrasse de la Boucherie,04000,Digne-les-Bains,CAD,44.092461,6.235320
-040700231J-11,11,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076883,6.178587
-040700231J-1,1,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077105,6.178148
-040700231J-2,2,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076458,6.178331
-040700231J-3,3,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077342,6.177917
-040700231J-4,4,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076811,6.178095
-040700231J-5,5,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077494,6.178262
-040700231J-6,6,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077024,6.178216
-040700231J-7,7,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077203,6.178313
-040700231J-8,8,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.076802,6.178582
-040700231J-9,9,Rue de la Bélugue,04000,Digne-les-Bains,C+O,44.077131,6.178341
+040700231J-11,11,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076883,6.178587
+040700231J-1,1,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077105,6.178148
+040700231J-2,2,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076458,6.178331
+040700231J-3,3,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077342,6.177917
+040700231J-4,4,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076811,6.178095
+040700231J-5,5,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077494,6.178262
+040700231J-6,6,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077024,6.178216
+040700231J-7,7,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077203,6.178313
+040700231J-8,8,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.076802,6.178582
+040700231J-9,9,Rue de la Belugue,04000,Digne-les-Bains,C+O,44.077131,6.178341
 040700235N-1,1,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.089897,6.223156
 040700235N-2,2,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.090022,6.222557
 040700235N-3,3,Impasse de Bonnette,04000,Digne-les-Bains,C+O,44.089827,6.222778
@@ -19205,11 +19205,11 @@
 04172X003B-17,17,Lotissement Parc des Ecoliers,04500,Roumoules,CAD,43.821977,6.128960
 04172X004C-2,2,Lotissement Le Colostre,04500,Roumoules,CAD,43.830760,6.134500
 041730007T-7114,7114,Rue Haute,04170,Saint-André-les-Alpes,CAD,43.970341,6.511893
-041730017D-1,1,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.969494,6.505315
-041730017D-7007,7007,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.971022,6.506827
-041730017D-7098,7098,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.971982,6.507022
-041730017D-7149,7149,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.970946,6.505294
-041730017D-7158,7158,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.972501,6.506462
+041730017D-1,1,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.969494,6.505315
+041730017D-7007,7007,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.971022,6.506827
+041730017D-7098,7098,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.971982,6.507022
+041730017D-7149,7149,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.970946,6.505294
+041730017D-7158,7158,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.972501,6.506462
 041730019F-7172,7172,Chemin des Accates,04170,Saint-André-les-Alpes,C+O,43.969087,6.512794
 041730020G-7120,7120,Chemin Bellevue,04170,Saint-André-les-Alpes,C+O,43.965209,6.505839
 041730021H-7133,7133,Chemin des Croues,04170,Saint-André-les-Alpes,C+O,43.964219,6.508763
@@ -21969,7 +21969,7 @@
 04230B231V-1,1,Le Pré de Foire,04210,Valensole,OSM,43.838415,5.987750
 04230X005B-14,14,Lotissement Les Abeilles,04210,Valensole,CAD,43.832267,5.974782
 04230X005B-15,15,Lotissement Les Abeilles,04210,Valensole,CAD,43.832533,5.974848
-04241X001Z-2,2,Lotissement Chant des Oiseaux,04110,Villemus,CAD,43.856037,5.700305
+04241X001Z-2,2,Lotissement du Chant des Oiseaux,04110,Villemus,C+O,43.856037,5.700305
 042420001L-1000,1000,Chemin des Oliviers,04180,Villeneuve,C+O,43.902198,5.865276
 042420001L-1023,1023,Chemin des Oliviers,04180,Villeneuve,C+O,43.902580,5.863980
 042420001L-1027,1027,Chemin des Oliviers,04180,Villeneuve,C+O,43.902841,5.863985
