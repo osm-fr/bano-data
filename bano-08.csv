@@ -10881,8 +10881,8 @@
 081051760F-1,1,Rue des Hortensias,08000,Charleville-Mézières,C+O,49.777505,4.729484
 081051760F-2,2,Rue des Hortensias,08000,Charleville-Mézières,C+O,49.777679,4.729678
 081051760F-4,4,Rue des Hortensias,08000,Charleville-Mézières,C+O,49.777608,4.729519
-081051770S-18,18,Place de l'Hôtel de Ville,08000,Charleville-Mézières,C+O,49.759906,4.718323
-081051770S-2,2,Place de l'Hôtel de Ville,08000,Charleville-Mézières,C+O,49.759691,4.719472
+081051770S-18,18,Place de l'Hôtel de Ville (Parking Gratuit),08000,Charleville-Mézières,C+O,49.759906,4.718323
+081051770S-2,2,Place de l'Hôtel de Ville (Parking Gratuit),08000,Charleville-Mézières,C+O,49.759691,4.719472
 081051780C-10,10,Rue du 8 Mai,08000,Charleville-Mézières,C+O,49.749672,4.728680
 081051780C-12,12,Rue du 8 Mai,08000,Charleville-Mézières,C+O,49.749523,4.728765
 081051780C-14,14,Rue du 8 Mai,08000,Charleville-Mézières,C+O,49.749436,4.728717
@@ -15678,7 +15678,7 @@
 081053530E-20,20,Rue de la Ronde Couture,08000,Charleville-Mézières,C+O,49.746683,4.719145
 081053530E-21,21,Rue de la Ronde Couture,08000,Charleville-Mézières,C+O,49.747579,4.719188
 081053530E-22,22,Rue de la Ronde Couture,08000,Charleville-Mézières,C+O,49.746597,4.719152
-081053530E-2,2,Rue de la Ronde Couture,08000,Charleville-Mézières,C+O,49.748267,4.719025
+081053530E-2,2,Rue de la Ronde Couture,08000,Charleville-Mézières,OSM,49.748251,4.718841
 081053530E-23,23,Rue de la Ronde Couture,08000,Charleville-Mézières,C+O,49.747480,4.719196
 081053530E-24,24,Rue de la Ronde Couture,08000,Charleville-Mézières,C+O,49.746512,4.719158
 081053530E-25,25,Rue de la Ronde Couture,08000,Charleville-Mézières,C+O,49.747388,4.719203
@@ -24011,7 +24011,7 @@
 081900720F-12,12,Place de la République,08600,Givet,CAD,50.134797,4.829419
 081900720F-13,13,Place de la République,08600,Givet,CAD,50.134874,4.829506
 081900720F-14,14,Place de la République,08600,Givet,CAD,50.135016,4.829661
-081900720F-15,15,Place de la République,08600,Givet,CAD,50.135315,4.829493
+081900720F-15,15,Place de la République,08600,Givet,OSM,50.135332,4.829594
 081900720F-16,16,Place de la République,08600,Givet,CAD,50.135248,4.828356
 081900720F-17,17,Place de la République,08600,Givet,CAD,50.135249,4.828165
 081900720F-2,2,Place de la République,08600,Givet,CAD,50.135085,4.828126
@@ -40085,7 +40085,7 @@
 084091096M-3,3,Chemin du Paquis,08200,Sedan,CAD,49.687492,4.899968
 084091096M-5,5,Chemin du Paquis,08200,Sedan,CAD,49.687558,4.899820
 084091100S-13,13,Avenue Pasteur,08200,Sedan,C+O,49.696645,4.929623
-084091100S-14,14,Avenue Pasteur,08200,Sedan,OSM,49.698272,4.924842
+084091100S-14,14,Avenue Pasteur,08200,Sedan,OSM,49.699124,4.927488
 084091100S-15,15,Avenue Pasteur,08200,Sedan,OSM,49.697982,4.925916
 084091100S-16,16,Avenue Pasteur,08200,Sedan,C+O,49.698754,4.927013
 084091100S-17,17,Avenue Pasteur,08200,Sedan,C+O,49.696859,4.929503
