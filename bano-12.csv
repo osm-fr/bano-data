@@ -23139,7 +23139,7 @@
 121452105U-59,59,Chemin de Notre Campagne,12100,Millau,C+O,44.106848,3.054857
 121452105U-85,85,Chemin de Notre Campagne,12100,Millau,C+O,44.106723,3.054740
 121452105U-90,90,Chemin de Notre Campagne,12100,Millau,C+O,44.106638,3.054577
-121452115E-100,100,Place d'Occitanie,12100,Millau,C+O,44.091226,3.056498
+121452115E-100,100,Place de l'Occitanie,12100,Millau,C+O,44.091226,3.056498
 121452123N-20,20,Impasse des Ondes,12100,Millau,C+O,44.091363,3.065032
 121452123N-375B,375BIS,Impasse des Ondes,12100,Millau,C+O,44.091972,3.063143
 121452123N-6000,6000,Impasse des Ondes,12100,Millau,C+O,44.091794,3.062853
@@ -39169,21 +39169,21 @@
 122030110Y-88,88,Avenue de Lauras,12250,Roquefort-sur-Soulzon,C+O,43.979511,2.984437
 122030110Y-90,90,Avenue de Lauras,12250,Roquefort-sur-Soulzon,C+O,43.979542,2.984336
 122030110Y-92,92,Avenue de Lauras,12250,Roquefort-sur-Soulzon,C+O,43.979582,2.984198
-122030124N-10,10,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.971865,2.960776
-122030124N-10B,10BIS,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.971498,2.960131
-122030124N-11,11,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.973493,2.961565
-122030124N-1,1,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.974738,2.961471
-122030124N-11B,11BIS,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.973207,2.961327
-122030124N-12,12,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.970787,2.959969
-122030124N-13,13,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.972771,2.961658
-122030124N-15,15,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.971361,2.960160
-122030124N-3,3,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.974513,2.961421
-122030124N-5,5,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.974306,2.961373
-122030124N-6,6,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.972639,2.961479
-122030124N-7,7,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.974088,2.961325
-122030124N-7B,7BIS,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.973590,2.962497
-122030124N-8,8,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.972247,2.961310
-122030124N-9,9,Avenue de Moussac,12250,Roquefort-sur-Soulzon,CAD,43.973540,2.961238
+122030124N-10,10,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.971865,2.960776
+122030124N-10B,10BIS,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.971498,2.960131
+122030124N-11,11,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.973493,2.961565
+122030124N-1,1,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.974738,2.961471
+122030124N-11B,11BIS,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.973207,2.961327
+122030124N-12,12,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.970787,2.959969
+122030124N-13,13,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.972771,2.961658
+122030124N-15,15,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.971361,2.960160
+122030124N-3,3,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.974513,2.961421
+122030124N-5,5,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.974306,2.961373
+122030124N-6,6,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.972639,2.961479
+122030124N-7,7,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.974088,2.961325
+122030124N-7B,7BIS,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.973590,2.962497
+122030124N-8,8,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.972247,2.961310
+122030124N-9,9,Avenue de Moussac,12250,Roquefort-sur-Soulzon,C+O,43.973540,2.961238
 122030127S-1,1,Rue du Pont Vieux,12250,Roquefort-sur-Soulzon,C+O,43.973813,2.960114
 122030127S-2,2,Rue du Pont Vieux,12250,Roquefort-sur-Soulzon,C+O,43.973812,2.960199
 122030127S-3,3,Rue du Pont Vieux,12250,Roquefort-sur-Soulzon,C+O,43.974147,2.960015
@@ -39256,38 +39256,38 @@
 122030160C-6,6,Rue du Ségala,12250,Roquefort-sur-Soulzon,C+O,43.971164,2.955966
 122030160C-8,8,Rue du Ségala,12250,Roquefort-sur-Soulzon,C+O,43.970045,2.958776
 122030160C-9,9,Rue du Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968511,2.959000
-122030170N-1,1,Route de Tiergues,12250,Roquefort-sur-Soulzon,CAD,43.975749,2.959259
-122030170N-2,2,Route de Tiergues,12250,Roquefort-sur-Soulzon,CAD,43.975517,2.960024
-122030170N-3,3,Route de Tiergues,12250,Roquefort-sur-Soulzon,CAD,43.975963,2.958535
-122030170N-5,5,Route de Tiergues,12250,Roquefort-sur-Soulzon,CAD,43.975983,2.958184
+122030170N-1,1,Route de Tiergues,12250,Roquefort-sur-Soulzon,C+O,43.975749,2.959259
+122030170N-2,2,Route de Tiergues,12250,Roquefort-sur-Soulzon,C+O,43.975517,2.960024
+122030170N-3,3,Route de Tiergues,12250,Roquefort-sur-Soulzon,C+O,43.975963,2.958535
+122030170N-5,5,Route de Tiergues,12250,Roquefort-sur-Soulzon,C+O,43.975983,2.958184
 12203A010J-6,6,Lotissement des Aumets,12250,Roquefort-sur-Soulzon,C+O,43.968723,2.961008
 12203A010J-7,7,Lotissement des Aumets,12250,Roquefort-sur-Soulzon,C+O,43.968077,2.960672
-12203A029E-10,10,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980342,2.984544
-12203A029E-1,1,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980211,2.985014
-12203A029E-12,12,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980387,2.984256
-12203A029E-2,2,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980162,2.985671
-12203A029E-3,3,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980272,2.984626
-12203A029E-4,4,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980208,2.985384
-12203A029E-6,6,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980250,2.985124
-12203A029E-8,8,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,CAD,43.980297,2.984828
+12203A029E-10,10,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980342,2.984544
+12203A029E-1,1,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980211,2.985014
+12203A029E-12,12,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980387,2.984256
+12203A029E-2,2,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980162,2.985671
+12203A029E-3,3,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980272,2.984626
+12203A029E-4,4,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980208,2.985384
+12203A029E-6,6,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980250,2.985124
+12203A029E-8,8,Lotissement de Conteynes,12250,Roquefort-sur-Soulzon,C+O,43.980297,2.984828
 12203A079J-1,1,Lotissement Maraval,12250,Roquefort-sur-Soulzon,C+O,43.974478,2.960092
 12203A079J-2,2,Lotissement Maraval,12250,Roquefort-sur-Soulzon,C+O,43.974443,2.960325
 12203A079J-3,3,Lotissement Maraval,12250,Roquefort-sur-Soulzon,C+O,43.974487,2.960403
 12203A079J-4,4,Lotissement Maraval,12250,Roquefort-sur-Soulzon,C+O,43.974498,2.960791
 12203A079J-5,5,Lotissement Maraval,12250,Roquefort-sur-Soulzon,C+O,43.974547,2.960772
 12203A079J-6,6,Lotissement Maraval,12250,Roquefort-sur-Soulzon,C+O,43.974488,2.960891
-12203A100G-10,10,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968963,2.957052
-12203A100G-11,11,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968867,2.957369
-12203A100G-1,1,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968704,2.957869
-12203A100G-12,12,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968734,2.957737
-12203A100G-2,2,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968844,2.957705
-12203A100G-3,3,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968932,2.957430
-12203A100G-4,4,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.969026,2.957114
-12203A100G-5,5,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.969216,2.956800
-12203A100G-6,6,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.969097,2.956717
-12203A100G-7,7,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968848,2.956530
-12203A100G-8,8,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968720,2.956265
-12203A100G-9,9,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,CAD,43.968635,2.956651
+12203A100G-10,10,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968963,2.957052
+12203A100G-11,11,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968867,2.957369
+12203A100G-1,1,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968704,2.957869
+12203A100G-12,12,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968734,2.957737
+12203A100G-2,2,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968844,2.957705
+12203A100G-3,3,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968932,2.957430
+12203A100G-4,4,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.969026,2.957114
+12203A100G-5,5,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.969216,2.956800
+12203A100G-6,6,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.969097,2.956717
+12203A100G-7,7,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968848,2.956530
+12203A100G-8,8,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968720,2.956265
+12203A100G-9,9,Lotissement Le Ségala,12250,Roquefort-sur-Soulzon,C+O,43.968635,2.956651
 122050005A-105,105,Rue de l'Abeille,12200,La Rouquette,C+O,44.345323,1.970995
 122050005A-155,155,Rue de l'Abeille,12200,La Rouquette,C+O,44.345076,1.971062
 122050005A-165,165,Rue de l'Abeille,12200,La Rouquette,C+O,44.344854,1.971152
@@ -39501,17 +39501,17 @@
 122080110B-7,7,Rue Basile Gavalda,12400,Saint-Affrique,C+O,43.954838,2.894217
 122080110B-8,8,Rue Basile Gavalda,12400,Saint-Affrique,C+O,43.954793,2.894268
 122080110B-9,9,Rue Basile Gavalda,12400,Saint-Affrique,C+O,43.955235,2.893922
-122080120M-11,11,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959768,2.885514
-122080120M-1,1,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959656,2.885994
-122080120M-18,18,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959602,2.885684
-122080120M-2,2,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959739,2.885801
-122080120M-3,3,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959668,2.885945
-122080120M-43,43,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959729,2.885935
-122080120M-4,4,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959768,2.885675
-122080120M-5,5,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959690,2.885856
-122080120M-7,7,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959747,2.885749
-122080120M-8,8,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959781,2.885581
-122080120M-9,9,Rue des Basses Tendes,12400,Saint-Affrique,CAD,43.959756,2.885613
+122080120M-11,11,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959768,2.885514
+122080120M-1,1,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959656,2.885994
+122080120M-18,18,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959602,2.885684
+122080120M-2,2,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959739,2.885801
+122080120M-3,3,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959668,2.885945
+122080120M-43,43,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959729,2.885935
+122080120M-4,4,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959768,2.885675
+122080120M-5,5,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959690,2.885856
+122080120M-7,7,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959747,2.885749
+122080120M-8,8,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959781,2.885581
+122080120M-9,9,Rue des Basses Tendes,12400,Saint-Affrique,C+O,43.959756,2.885613
 122080125T-2,2,Rue du Bastion du Dragon,12400,Saint-Affrique,C+O,43.956452,2.884858
 122080125T-3,3,Rue du Bastion du Dragon,12400,Saint-Affrique,C+O,43.956403,2.884530
 122080125T-4,4,Rue du Bastion du Dragon,12400,Saint-Affrique,C+O,43.956449,2.884736
@@ -39600,20 +39600,20 @@
 122080185H-658,658,Route de Bournac,12400,Saint-Affrique,C+O,43.958335,2.854346
 122080185H-754,754,Route de Bournac,12400,Saint-Affrique,C+O,43.959611,2.852383
 122080185H-882,882,Route de Bournac,12400,Saint-Affrique,C+O,43.957369,2.853731
-122080188L-150,150,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.953338,2.872461
-122080188L-152,152,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.953841,2.872871
-122080188L-189,189,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.952635,2.871777
-122080188L-242,242,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.952709,2.871935
-122080188L-312,312,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.952143,2.870661
-122080188L-345,345,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.951894,2.870435
-122080188L-502,502,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.951574,2.869298
-122080188L-503,503,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.951290,2.868747
-122080188L-533,533,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.951173,2.868515
-122080188L-534,534,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.951273,2.868659
-122080188L-582,582,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.951101,2.868113
-122080188L-582B,582BIS,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.951255,2.867742
-122080188L-645,645,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.950924,2.867394
-122080188L-6598,6598,Chemin du Bouthou,12400,Saint-Affrique,CAD,43.950641,2.868472
+122080188L-150,150,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.953338,2.872461
+122080188L-152,152,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.953841,2.872871
+122080188L-189,189,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.952635,2.871777
+122080188L-242,242,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.952709,2.871935
+122080188L-312,312,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.952143,2.870661
+122080188L-345,345,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.951894,2.870435
+122080188L-502,502,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.951574,2.869298
+122080188L-503,503,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.951290,2.868747
+122080188L-533,533,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.951173,2.868515
+122080188L-534,534,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.951273,2.868659
+122080188L-582,582,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.951101,2.868113
+122080188L-582B,582BIS,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.951255,2.867742
+122080188L-645,645,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.950924,2.867394
+122080188L-6598,6598,Chemin du Bouthou,12400,Saint-Affrique,C+O,43.950641,2.868472
 122080191P-10,10,Rue Georges Brassens,12400,Saint-Affrique,C+O,43.961609,2.872991
 122080191P-11,11,Rue Georges Brassens,12400,Saint-Affrique,C+O,43.961159,2.873358
 122080191P-1,1,Rue Georges Brassens,12400,Saint-Affrique,C+O,43.961584,2.873213
@@ -39693,19 +39693,19 @@
 122080237P-47,47,Rue du Canal,12400,Saint-Affrique,C+O,43.961126,2.885951
 122080237P-70,70,Rue du Canal,12400,Saint-Affrique,C+O,43.961621,2.886080
 122080237P-97,97,Rue du Canal,12400,Saint-Affrique,C+O,43.961866,2.885839
-122080270A-10,10,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.954832,2.890407
-122080270A-12A,12A,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.954558,2.890650
-122080270A-28,28,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.953301,2.891523
-122080270A-30,30,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.953170,2.891617
-122080270A-42,42,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.950368,2.893975
-122080270A-44,44,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.950249,2.894061
-122080270A-46,46,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.949968,2.894253
-122080270A-48,48,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.949811,2.894365
-122080270A-50,50,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.949684,2.894505
-122080270A-54,54,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.949123,2.894917
-122080270A-6,6,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.955404,2.890144
-122080270A-8,8,Boulevard de la Capelle,12400,Saint-Affrique,CAD,43.955112,2.890272
-122080275F-11B,11BIS,Rue de la Capelle,12400,Saint-Affrique,CAD,43.954432,2.894276
+122080270A-10,10,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.954832,2.890407
+122080270A-12A,12A,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.954558,2.890650
+122080270A-28,28,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.953301,2.891523
+122080270A-30,30,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.953170,2.891617
+122080270A-42,42,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.950368,2.893975
+122080270A-44,44,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.950249,2.894061
+122080270A-46,46,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.949968,2.894253
+122080270A-48,48,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.949811,2.894365
+122080270A-50,50,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.949684,2.894505
+122080270A-54,54,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.949123,2.894917
+122080270A-6,6,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.955404,2.890144
+122080270A-8,8,Boulevard de la Capelle,12400,Saint-Affrique,C+O,43.955112,2.890272
+122080275F-11B,11BIS,Rue de la Capelle,12400,Saint-Affrique,C+O,43.954432,2.894276
 122080290X-10,10,Boulevard Carnot,12400,Saint-Affrique,C+O,43.955916,2.884907
 122080290X-11,11,Boulevard Carnot,12400,Saint-Affrique,C+O,43.955761,2.883398
 122080290X-1,1,Boulevard Carnot,12400,Saint-Affrique,C+O,43.955719,2.884019
@@ -40210,7 +40210,7 @@
 122080497X-7,7,Rue du Docteur Valentin,12400,Saint-Affrique,C+O,43.959018,2.882160
 122080497X-8,8,Rue du Docteur Valentin,12400,Saint-Affrique,C+O,43.959332,2.882101
 122080497X-9,9,Rue du Docteur Valentin,12400,Saint-Affrique,C+O,43.959131,2.882112
-122080501B-6172,6172,Rue des 12 Étoiles,12400,Saint-Affrique,CAD,43.951241,2.894824
+122080501B-6172,6172,Rue des 12 Étoiles,12400,Saint-Affrique,C+O,43.951241,2.894824
 122080510L-2,2,Rue des Écoles,12400,Saint-Affrique,C+O,43.958138,2.882873
 122080510L-4,4,Rue des Écoles,12400,Saint-Affrique,C+O,43.958347,2.882786
 122080511M-6044A,6044A,Rue Thomas Edison,12400,Saint-Affrique,C+O,43.960278,2.860704
@@ -40326,26 +40326,26 @@
 122080617C-6,6,Rue François Arago,12400,Saint-Affrique,C+O,43.960545,2.865322
 122080617C-7,7,Rue François Arago,12400,Saint-Affrique,C+O,43.960221,2.865285
 122080617C-9,9,Rue François Arago,12400,Saint-Affrique,C+O,43.960267,2.865230
-122080620F-11,11,Place François Fabié,12400,Saint-Affrique,CAD,43.959517,2.885399
-122080620F-1,1,Place François Fabié,12400,Saint-Affrique,CAD,43.959352,2.885790
-122080620F-12,12,Place François Fabié,12400,Saint-Affrique,CAD,43.959503,2.885963
-122080620F-13,13,Place François Fabié,12400,Saint-Affrique,CAD,43.959556,2.885323
-122080620F-14,14,Place François Fabié,12400,Saint-Affrique,CAD,43.959542,2.885831
-122080620F-15,15,Place François Fabié,12400,Saint-Affrique,CAD,43.959543,2.885249
-122080620F-16,16,Place François Fabié,12400,Saint-Affrique,CAD,43.959585,2.885827
-122080620F-17,17,Place François Fabié,12400,Saint-Affrique,CAD,43.959513,2.885218
-122080620F-18,18,Place François Fabié,12400,Saint-Affrique,CAD,43.959602,2.885684
-122080620F-19,19,Place François Fabié,12400,Saint-Affrique,CAD,43.959547,2.885134
-122080620F-20,20,Place François Fabié,12400,Saint-Affrique,CAD,43.959658,2.885464
-122080620F-21,21,Place François Fabié,12400,Saint-Affrique,CAD,43.959592,2.885064
-122080620F-2,2,Place François Fabié,12400,Saint-Affrique,CAD,43.959447,2.885834
-122080620F-23,23,Place François Fabié,12400,Saint-Affrique,CAD,43.959663,2.885008
-122080620F-25,25,Place François Fabié,12400,Saint-Affrique,CAD,43.959738,2.885006
-122080620F-3,3,Place François Fabié,12400,Saint-Affrique,CAD,43.959374,2.885720
-122080620F-5,5,Place François Fabié,12400,Saint-Affrique,CAD,43.959445,2.885615
-122080620F-6,6,Place François Fabié,12400,Saint-Affrique,CAD,43.959417,2.885284
-122080620F-7,7,Place François Fabié,12400,Saint-Affrique,CAD,43.959459,2.885545
-122080620F-9,9,Place François Fabié,12400,Saint-Affrique,CAD,43.959477,2.885485
+122080620F-11,11,Place François Fabié,12400,Saint-Affrique,C+O,43.959517,2.885399
+122080620F-1,1,Place François Fabié,12400,Saint-Affrique,C+O,43.959352,2.885790
+122080620F-12,12,Place François Fabié,12400,Saint-Affrique,C+O,43.959503,2.885963
+122080620F-13,13,Place François Fabié,12400,Saint-Affrique,C+O,43.959556,2.885323
+122080620F-14,14,Place François Fabié,12400,Saint-Affrique,C+O,43.959542,2.885831
+122080620F-15,15,Place François Fabié,12400,Saint-Affrique,C+O,43.959543,2.885249
+122080620F-16,16,Place François Fabié,12400,Saint-Affrique,C+O,43.959585,2.885827
+122080620F-17,17,Place François Fabié,12400,Saint-Affrique,C+O,43.959513,2.885218
+122080620F-18,18,Place François Fabié,12400,Saint-Affrique,C+O,43.959602,2.885684
+122080620F-19,19,Place François Fabié,12400,Saint-Affrique,C+O,43.959547,2.885134
+122080620F-20,20,Place François Fabié,12400,Saint-Affrique,C+O,43.959658,2.885464
+122080620F-21,21,Place François Fabié,12400,Saint-Affrique,C+O,43.959592,2.885064
+122080620F-2,2,Place François Fabié,12400,Saint-Affrique,C+O,43.959447,2.885834
+122080620F-23,23,Place François Fabié,12400,Saint-Affrique,C+O,43.959663,2.885008
+122080620F-25,25,Place François Fabié,12400,Saint-Affrique,C+O,43.959738,2.885006
+122080620F-3,3,Place François Fabié,12400,Saint-Affrique,C+O,43.959374,2.885720
+122080620F-5,5,Place François Fabié,12400,Saint-Affrique,C+O,43.959445,2.885615
+122080620F-6,6,Place François Fabié,12400,Saint-Affrique,C+O,43.959417,2.885284
+122080620F-7,7,Place François Fabié,12400,Saint-Affrique,C+O,43.959459,2.885545
+122080620F-9,9,Place François Fabié,12400,Saint-Affrique,C+O,43.959477,2.885485
 122080625L-10,10,Rue Frangi et Ortega,12400,Saint-Affrique,C+O,43.958828,2.883377
 122080625L-11,11,Rue Frangi et Ortega,12400,Saint-Affrique,C+O,43.958905,2.883525
 122080625L-12,12,Rue Frangi et Ortega,12400,Saint-Affrique,C+O,43.958833,2.883405
@@ -40357,10 +40357,10 @@
 122080625L-7,7,Rue Frangi et Ortega,12400,Saint-Affrique,C+O,43.958878,2.883396
 122080625L-8,8,Rue Frangi et Ortega,12400,Saint-Affrique,C+O,43.958747,2.883126
 122080625L-9,9,Rue Frangi et Ortega,12400,Saint-Affrique,C+O,43.958894,2.883469
-122080645H-6344,6344,Rue Fregebise,12400,Saint-Affrique,CAD,43.951960,2.897084
-122080645H-6345,6345,Rue Fregebise,12400,Saint-Affrique,CAD,43.951936,2.897160
-122080645H-6346,6346,Rue Fregebise,12400,Saint-Affrique,CAD,43.952031,2.897003
-122080645H-6347,6347,Rue Fregebise,12400,Saint-Affrique,CAD,43.951997,2.897032
+122080645H-6344,6344,Rue Frègebise,12400,Saint-Affrique,C+O,43.951960,2.897084
+122080645H-6345,6345,Rue Frègebise,12400,Saint-Affrique,C+O,43.951936,2.897160
+122080645H-6346,6346,Rue Frègebise,12400,Saint-Affrique,C+O,43.952031,2.897003
+122080645H-6347,6347,Rue Frègebise,12400,Saint-Affrique,C+O,43.951997,2.897032
 122080650N-1,1,Rue Gambetta,12400,Saint-Affrique,C+O,43.958428,2.886192
 122080650N-12,12,Rue Gambetta,12400,Saint-Affrique,C+O,43.958201,2.886344
 122080650N-14,14,Rue Gambetta,12400,Saint-Affrique,C+O,43.958167,2.886386
@@ -40588,25 +40588,25 @@
 122080760H-7,7,Rue Henri Michel,12400,Saint-Affrique,C+O,43.955405,2.894374
 122080760H-8,8,Rue Henri Michel,12400,Saint-Affrique,C+O,43.955187,2.893850
 122080760H-9,9,Rue Henri Michel,12400,Saint-Affrique,C+O,43.955386,2.894369
-122080771V-165,165,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.953094,2.875661
-122080771V-187,187,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.953586,2.877870
-122080771V-274,274,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.953875,2.877959
-122080771V-284,284,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954066,2.877961
-122080771V-409,409,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954575,2.876882
-122080771V-441,441,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954786,2.876505
-122080771V-524,524,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955035,2.875795
-122080771V-533,533,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955064,2.875601
-122080771V-533B,533BIS,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954999,2.875917
-122080771V-551,551,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955279,2.875545
-122080771V-637,637,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955274,2.876819
-122080771V-709,709,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955260,2.877358
-122080771V-709B,709BIS,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955259,2.877091
-122080771V-749,749,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955265,2.877583
-122080771V-805,805,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.955181,2.878505
-122080771V-849,849,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954817,2.878822
-122080771V-860,860,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954630,2.878447
-122080771V-900,900,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954479,2.878183
-122080771V-941,941,Chemin de l'Hermitage,12400,Saint-Affrique,CAD,43.954229,2.877949
+122080771V-165,165,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.953094,2.875661
+122080771V-187,187,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.953586,2.877870
+122080771V-274,274,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.953875,2.877959
+122080771V-284,284,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954066,2.877961
+122080771V-409,409,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954575,2.876882
+122080771V-441,441,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954786,2.876505
+122080771V-524,524,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955035,2.875795
+122080771V-533,533,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955064,2.875601
+122080771V-533B,533BIS,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954999,2.875917
+122080771V-551,551,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955279,2.875545
+122080771V-637,637,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955274,2.876819
+122080771V-709,709,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955260,2.877358
+122080771V-709B,709BIS,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955259,2.877091
+122080771V-749,749,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955265,2.877583
+122080771V-805,805,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.955181,2.878505
+122080771V-849,849,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954817,2.878822
+122080771V-860,860,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954630,2.878447
+122080771V-900,900,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954479,2.878183
+122080771V-941,941,Chemin de l'Hermitage,12400,Saint-Affrique,C+O,43.954229,2.877949
 122080780E-108,108,Avenue Hippolyte Barascud,12400,Saint-Affrique,C+O,43.959508,2.889657
 122080780E-127,127,Avenue Hippolyte Barascud,12400,Saint-Affrique,C+O,43.959733,2.889829
 122080780E-130,130,Avenue Hippolyte Barascud,12400,Saint-Affrique,C+O,43.959830,2.890228
@@ -40755,26 +40755,26 @@
 122080854K-7,7,Rue Jean Moulin,12400,Saint-Affrique,C+O,43.957817,2.880446
 122080854K-8,8,Rue Jean Moulin,12400,Saint-Affrique,C+O,43.958044,2.880763
 122080854K-9,9,Rue Jean Moulin,12400,Saint-Affrique,C+O,43.957755,2.880089
-122080860S-10,10,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957068,2.878220
-122080860S-11,11,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.956949,2.877160
-122080860S-1,1,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957097,2.879057
-122080860S-12,12,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957054,2.877938
-122080860S-13B,13BIS,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957007,2.876778
-122080860S-14,14,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957060,2.877634
-122080860S-18,18,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957062,2.877099
-122080860S-20,20,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957082,2.876881
-122080860S-22,22,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957103,2.876720
-122080860S-2,2,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957173,2.878987
-122080860S-3,3,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957069,2.878912
-122080860S-4,4,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957142,2.878847
-122080860S-5,5,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957014,2.878571
-122080860S-6135,6135,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957097,2.878520
-122080860S-6137,6137,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957057,2.878010
-122080860S-6,6,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957121,2.878701
-122080860S-7,7,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.956954,2.877871
-122080860S-7B,7BIS,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.956938,2.877408
-122080860S-8,8,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.957086,2.878419
-122080860S-9,9,Avenue Jules Bourgougnon,12400,Saint-Affrique,CAD,43.956959,2.877025
+122080860S-10,10,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957068,2.878220
+122080860S-11,11,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.956949,2.877160
+122080860S-1,1,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957097,2.879057
+122080860S-12,12,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957054,2.877938
+122080860S-13B,13BIS,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957007,2.876778
+122080860S-14,14,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957060,2.877634
+122080860S-18,18,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957062,2.877099
+122080860S-20,20,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957082,2.876881
+122080860S-22,22,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957103,2.876720
+122080860S-2,2,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957173,2.878987
+122080860S-3,3,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957069,2.878912
+122080860S-4,4,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957142,2.878847
+122080860S-5,5,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957014,2.878571
+122080860S-6135,6135,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957097,2.878520
+122080860S-6137,6137,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957057,2.878010
+122080860S-6,6,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957121,2.878701
+122080860S-7,7,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.956954,2.877871
+122080860S-7B,7BIS,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.956938,2.877408
+122080860S-8,8,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.957086,2.878419
+122080860S-9,9,Avenue Jules Bourgougnon,12400,Saint-Affrique,C+O,43.956959,2.877025
 122080865X-1,1,Rue Jules Ferry,12400,Saint-Affrique,C+O,43.958626,2.882264
 122080865X-2,2,Rue Jules Ferry,12400,Saint-Affrique,C+O,43.958097,2.881030
 122080865X-41,41,Rue Jules Ferry,12400,Saint-Affrique,C+O,43.957819,2.881803
@@ -40907,21 +40907,21 @@
 122080940D-5,5,Rue du Levant,12400,Saint-Affrique,C+O,43.956923,2.888226
 122080940D-6,6,Rue du Levant,12400,Saint-Affrique,C+O,43.957109,2.888345
 122080940D-8,8,Rue du Levant,12400,Saint-Affrique,C+O,43.956734,2.887992
-122080960A-1,1,Place de la Liberté,12400,Saint-Affrique,CAD,43.958752,2.886319
-122080960A-12,12,Place de la Liberté,12400,Saint-Affrique,CAD,43.958596,2.886766
-122080960A-13,13,Place de la Liberté,12400,Saint-Affrique,CAD,43.958904,2.886731
-122080960A-17,17,Place de la Liberté,12400,Saint-Affrique,CAD,43.958852,2.886804
-122080960A-19,19,Place de la Liberté,12400,Saint-Affrique,CAD,43.958818,2.886857
-122080960A-1B,1BIS,Place de la Liberté,12400,Saint-Affrique,CAD,43.958763,2.886336
-122080960A-21,21,Place de la Liberté,12400,Saint-Affrique,CAD,43.958787,2.886895
-122080960A-21A,21A,Place de la Liberté,12400,Saint-Affrique,CAD,43.958740,2.886955
-122080960A-2,2,Place de la Liberté,12400,Saint-Affrique,CAD,43.958565,2.886472
-122080960A-23,23,Place de la Liberté,12400,Saint-Affrique,CAD,43.958674,2.887048
-122080960A-3,3,Place de la Liberté,12400,Saint-Affrique,CAD,43.958799,2.886376
-122080960A-4,4,Place de la Liberté,12400,Saint-Affrique,CAD,43.958581,2.886560
-122080960A-5,5,Place de la Liberté,12400,Saint-Affrique,CAD,43.958846,2.886438
-122080960A-6,6,Place de la Liberté,12400,Saint-Affrique,CAD,43.958593,2.886647
-122080960A-7,7,Place de la Liberté,12400,Saint-Affrique,CAD,43.958903,2.886515
+122080960A-1,1,Place de la Liberté,12400,Saint-Affrique,C+O,43.958752,2.886319
+122080960A-12,12,Place de la Liberté,12400,Saint-Affrique,C+O,43.958596,2.886766
+122080960A-13,13,Place de la Liberté,12400,Saint-Affrique,C+O,43.958904,2.886731
+122080960A-17,17,Place de la Liberté,12400,Saint-Affrique,C+O,43.958852,2.886804
+122080960A-19,19,Place de la Liberté,12400,Saint-Affrique,C+O,43.958818,2.886857
+122080960A-1B,1BIS,Place de la Liberté,12400,Saint-Affrique,C+O,43.958763,2.886336
+122080960A-21,21,Place de la Liberté,12400,Saint-Affrique,C+O,43.958787,2.886895
+122080960A-21A,21A,Place de la Liberté,12400,Saint-Affrique,C+O,43.958740,2.886955
+122080960A-2,2,Place de la Liberté,12400,Saint-Affrique,C+O,43.958565,2.886472
+122080960A-23,23,Place de la Liberté,12400,Saint-Affrique,C+O,43.958674,2.887048
+122080960A-3,3,Place de la Liberté,12400,Saint-Affrique,C+O,43.958799,2.886376
+122080960A-4,4,Place de la Liberté,12400,Saint-Affrique,C+O,43.958581,2.886560
+122080960A-5,5,Place de la Liberté,12400,Saint-Affrique,C+O,43.958846,2.886438
+122080960A-6,6,Place de la Liberté,12400,Saint-Affrique,C+O,43.958593,2.886647
+122080960A-7,7,Place de la Liberté,12400,Saint-Affrique,C+O,43.958903,2.886515
 122080980X-10,10,Rue du Lion d'Or,12400,Saint-Affrique,C+O,43.958498,2.888139
 122080980X-11,11,Rue du Lion d'Or,12400,Saint-Affrique,C+O,43.958572,2.888131
 122080980X-1,1,Rue du Lion d'Or,12400,Saint-Affrique,C+O,43.958290,2.887901
@@ -40943,7 +40943,7 @@
 122080990H-6227,6227,Rue de la Loge,12400,Saint-Affrique,C+O,43.956338,2.885061
 122080990H-6,6,Rue de la Loge,12400,Saint-Affrique,C+O,43.956463,2.885130
 122080990H-8,8,Rue de la Loge,12400,Saint-Affrique,C+O,43.956421,2.885095
-122081000U-1,1,Place Lonjon Raynaud,12400,Saint-Affrique,CAD,43.957715,2.888747
+122081000U-1,1,Place Lonjon Raynaud,12400,Saint-Affrique,C+O,43.957715,2.888747
 122081005Z-1,1,Rue de Lorraine,12400,Saint-Affrique,C+O,43.961660,2.871551
 122081005Z-2,2,Rue de Lorraine,12400,Saint-Affrique,C+O,43.961658,2.871646
 122081005Z-3,3,Rue de Lorraine,12400,Saint-Affrique,C+O,43.962024,2.871666
@@ -40961,28 +40961,28 @@
 122081020R-4,4,Rue Lucie,12400,Saint-Affrique,C+O,43.956881,2.884822
 122081020R-5,5,Rue Lucie,12400,Saint-Affrique,C+O,43.956817,2.884749
 122081020R-6,6,Rue Lucie,12400,Saint-Affrique,C+O,43.956824,2.884717
-122081022T-109,109,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957192,2.875163
-122081022T-1,1,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957016,2.876474
-122081022T-131,131,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957233,2.874846
-122081022T-146,146,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957380,2.874770
-122081022T-167,167,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957293,2.874243
-122081022T-198,198,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957444,2.874017
-122081022T-205,205,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957325,2.873984
-122081022T-221,221,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.956429,2.873218
-122081022T-227,227,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957403,2.873390
-122081022T-290,290,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957557,2.872483
-122081022T-307,307,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957473,2.872766
-122081022T-364,364,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957523,2.871978
-122081022T-380,380,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957499,2.871813
-122081022T-392,392,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957478,2.871687
-122081022T-404,404,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957394,2.871166
-122081022T-500,500,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957218,2.870204
-122081022T-560,560,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957130,2.869709
-122081022T-604,604,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957038,2.869186
-122081022T-604A,604A,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.957007,2.869009
-122081022T-664,664,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.956923,2.868570
-122081022T-720,720,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.956780,2.867856
-122081022T-88,88,Avenue Lucien Galtier,12400,Saint-Affrique,CAD,43.958146,2.874539
+122081022T-109,109,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957192,2.875163
+122081022T-1,1,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957016,2.876474
+122081022T-131,131,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957233,2.874846
+122081022T-146,146,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957380,2.874770
+122081022T-167,167,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957293,2.874243
+122081022T-198,198,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957444,2.874017
+122081022T-205,205,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957325,2.873984
+122081022T-221,221,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.956429,2.873218
+122081022T-227,227,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957403,2.873390
+122081022T-290,290,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957557,2.872483
+122081022T-307,307,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957473,2.872766
+122081022T-364,364,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957523,2.871978
+122081022T-380,380,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957499,2.871813
+122081022T-392,392,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957478,2.871687
+122081022T-404,404,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957394,2.871166
+122081022T-500,500,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957218,2.870204
+122081022T-560,560,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957130,2.869709
+122081022T-604,604,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957038,2.869186
+122081022T-604A,604A,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.957007,2.869009
+122081022T-664,664,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.956923,2.868570
+122081022T-720,720,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.956780,2.867856
+122081022T-88,88,Avenue Lucien Galtier,12400,Saint-Affrique,C+O,43.958146,2.874539
 122081025W-321,321,Allée du Mail,12400,Saint-Affrique,C+O,43.961911,2.879151
 122081040M-1,1,Rue Marceau,12400,Saint-Affrique,C+O,43.957674,2.888088
 122081040M-2,2,Rue Marceau,12400,Saint-Affrique,C+O,43.957807,2.888071
@@ -41531,16 +41531,16 @@
 122081605B-5,5,Rue des Roses,12400,Saint-Affrique,C+O,43.960628,2.876721
 122081605B-6059,6059,Rue des Roses,12400,Saint-Affrique,C+O,43.961545,2.876511
 122081605B-6062,6062,Rue des Roses,12400,Saint-Affrique,C+O,43.961742,2.876555
-122081611H-120,120,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.971117,2.891926
-122081611H-126,126,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.969803,2.891598
-122081611H-135,135,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.969787,2.891572
-122081611H-135B,135BIS,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.969663,2.892483
-122081611H-135T,135TER,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.969778,2.891645
-122081611H-25,25,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.970001,2.890401
-122081611H-41,41,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.969971,2.890710
-122081611H-43,43,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.970810,2.891082
-122081611H-45,45,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.969774,2.890787
-122081611H-9,9,Impasse de Roubiac,12400,Saint-Affrique,CAD,43.969999,2.890162
+122081611H-120,120,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.971117,2.891926
+122081611H-126,126,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.969803,2.891598
+122081611H-135,135,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.969787,2.891572
+122081611H-135B,135BIS,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.969663,2.892483
+122081611H-135T,135TER,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.969778,2.891645
+122081611H-25,25,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.970001,2.890401
+122081611H-41,41,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.969971,2.890710
+122081611H-43,43,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.970810,2.891082
+122081611H-45,45,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.969774,2.890787
+122081611H-9,9,Impasse de Roubiac,12400,Saint-Affrique,C+O,43.969999,2.890162
 122081615M-2,2,Rue du Rouergue,12400,Saint-Affrique,C+O,43.962564,2.870880
 122081615M-2B,2BIS,Rue du Rouergue,12400,Saint-Affrique,C+O,43.962414,2.870866
 122081615M-3,3,Rue du Rouergue,12400,Saint-Affrique,C+O,43.960937,2.870867
@@ -41915,10 +41915,10 @@
 122081970Y-2,2,Rue de la Vernière,12400,Saint-Affrique,C+O,43.956392,2.883274
 122081970Y-3,3,Rue de la Vernière,12400,Saint-Affrique,C+O,43.956360,2.883741
 122081970Y-5,5,Rue de la Vernière,12400,Saint-Affrique,C+O,43.956342,2.883585
-122081972A-2,2,Place de la Vernière,12400,Saint-Affrique,CAD,43.955848,2.881658
-122081972A-4,4,Place de la Vernière,12400,Saint-Affrique,CAD,43.955769,2.881172
-122081972A-4B,4BIS,Place de la Vernière,12400,Saint-Affrique,CAD,43.957254,2.880115
-122081972A-6,6,Place de la Vernière,12400,Saint-Affrique,CAD,43.955607,2.881056
+122081972A-2,2,Place de la Vernière,12400,Saint-Affrique,C+O,43.955848,2.881658
+122081972A-4,4,Place de la Vernière,12400,Saint-Affrique,C+O,43.955769,2.881172
+122081972A-4B,4BIS,Place de la Vernière,12400,Saint-Affrique,C+O,43.957254,2.880115
+122081972A-6,6,Place de la Vernière,12400,Saint-Affrique,C+O,43.955607,2.881056
 122081980J-10,10,Boulevard Victor Hugo,12400,Saint-Affrique,C+O,43.957536,2.887177
 122081980J-11,11,Boulevard Victor Hugo,12400,Saint-Affrique,C+O,43.957300,2.887230
 122081980J-1,1,Boulevard Victor Hugo,12400,Saint-Affrique,C+O,43.957890,2.887705
@@ -42008,7 +42008,7 @@
 12208A029H-30,30,Lotissement des Ondes,12400,Saint-Affrique,CAD,43.960426,2.874025
 12208A029H-52,52,Lotissement des Ondes,12400,Saint-Affrique,CAD,43.960804,2.874071
 12208A029H-72,72,Lotissement des Ondes,12400,Saint-Affrique,CAD,43.960995,2.874093
-12208A033M-60,60,Lotissement Les Marronniers,12400,Saint-Affrique,CAD,43.944922,2.893359
+12208A033M-60,60,Lotissement Les Marronniers,12400,Saint-Affrique,C+O,43.944922,2.893359
 12208B390M-399,399,Mas de Rouby,12400,Saint-Affrique,CAD,43.947487,2.874087
 12208B569G-1,1,Serre de Combe Vernie,12400,Saint-Affrique,CAD,43.969675,2.882854
 122090004G-1,1,Rue Principale,12460,Saint-Amans-des-Cots,C+O,44.688865,2.658142
@@ -43841,17 +43841,17 @@
 122250140K-5,5,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.064793,2.984065
 122250140K-5B,5BIS,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.064710,2.984046
 122250140K-9,9,Rue du Moulin de Taly,12100,Saint-Georges-de-Luzençon,C+O,44.065359,2.983892
-122250143N-10,10,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060439,2.988917
-122250143N-11,11,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060138,2.988768
-122250143N-1,1,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060104,2.990286
-122250143N-2,2,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060282,2.989952
-122250143N-3,3,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060094,2.989973
-122250143N-4,4,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060330,2.989623
-122250143N-5,5,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060038,2.989687
-122250143N-6,6,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060260,2.989343
-122250143N-7,7,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060023,2.989406
-122250143N-8,8,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060273,2.989101
-122250143N-9,9,Rue des Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060089,2.989079
+122250143N-10,10,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060439,2.988917
+122250143N-11,11,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060138,2.988768
+122250143N-1,1,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060104,2.990286
+122250143N-2,2,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060282,2.989952
+122250143N-3,3,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060094,2.989973
+122250143N-4,4,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060330,2.989623
+122250143N-5,5,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060038,2.989687
+122250143N-6,6,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060260,2.989343
+122250143N-7,7,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060023,2.989406
+122250143N-8,8,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060273,2.989101
+122250143N-9,9,Rue de Palières,12100,Saint-Georges-de-Luzençon,OSM,44.060089,2.989079
 122250160G-11,11,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.065640,2.986003
 122250160G-13,13,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.066569,2.986569
 122250160G-6,6,Chemin des Plantades,12100,Saint-Georges-de-Luzençon,C+O,44.065318,2.985720
@@ -44119,28 +44119,28 @@
 122290047S-1,1,Impasse du Ferradou,12250,Saint-Jean-d'Alcapiès,C+O,43.951208,2.975858
 122290047S-2,2,Impasse du Ferradou,12250,Saint-Jean-d'Alcapiès,C+O,43.951080,2.975560
 122290047S-3,3,Impasse du Ferradou,12250,Saint-Jean-d'Alcapiès,C+O,43.951010,2.975901
-122290070S-10,10,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951272,2.974963
-122290070S-11,11,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951174,2.975139
-122290070S-1,1,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951612,2.973686
-122290070S-12,12,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951240,2.975051
-122290070S-13,13,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951140,2.975230
-122290070S-14,14,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950892,2.975980
-122290070S-15,15,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950817,2.976169
-122290070S-16,16,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950868,2.976087
-122290070S-17,17,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950650,2.976549
-122290070S-18,18,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950767,2.976442
-122290070S-19,19,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950517,2.976792
-122290070S-19B,19BIS,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950404,2.976958
-122290070S-20,20,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950663,2.976640
-122290070S-21,21,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.950294,2.977105
-122290070S-2,2,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951663,2.972646
-122290070S-3,3,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951382,2.974302
-122290070S-4,4,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951365,2.974607
-122290070S-5,5,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951356,2.974442
-122290070S-6,6,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951321,2.974744
-122290070S-7,7,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951268,2.974869
-122290070S-8,8,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951326,2.974847
-122290070S-9,9,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,CAD,43.951215,2.975016
+122290070S-10,10,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951272,2.974963
+122290070S-11,11,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951174,2.975139
+122290070S-1,1,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951612,2.973686
+122290070S-12,12,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951240,2.975051
+122290070S-13,13,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951140,2.975230
+122290070S-14,14,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950892,2.975980
+122290070S-15,15,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950817,2.976169
+122290070S-16,16,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950868,2.976087
+122290070S-17,17,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950650,2.976549
+122290070S-18,18,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950767,2.976442
+122290070S-19,19,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950517,2.976792
+122290070S-19B,19BIS,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950404,2.976958
+122290070S-20,20,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950663,2.976640
+122290070S-21,21,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.950294,2.977105
+122290070S-2,2,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951663,2.972646
+122290070S-3,3,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951382,2.974302
+122290070S-4,4,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951365,2.974607
+122290070S-5,5,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951356,2.974442
+122290070S-6,6,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951321,2.974744
+122290070S-7,7,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951268,2.974869
+122290070S-8,8,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951326,2.974847
+122290070S-9,9,Rue Jean Moulin,12250,Saint-Jean-d'Alcapiès,C+O,43.951215,2.975016
 122290075X-1,1,Rue Joseph Mazel,12250,Saint-Jean-d'Alcapiès,C+O,43.951266,2.975195
 122290075X-2,2,Rue Joseph Mazel,12250,Saint-Jean-d'Alcapiès,C+O,43.951367,2.975081
 122290075X-3,3,Rue Joseph Mazel,12250,Saint-Jean-d'Alcapiès,C+O,43.951545,2.974978
@@ -44684,7 +44684,7 @@
 122430025G-7B,7BIS,Rue des Cades,12490,Saint-Rome-de-Cernon,C+O,44.009749,2.966082
 122430025G-8,8,Rue des Cades,12490,Saint-Rome-de-Cernon,C+O,44.009787,2.965888
 122430025G-9,9,Rue des Cades,12490,Saint-Rome-de-Cernon,C+O,44.009620,2.965974
-122430028K-2,2,Place du Castelou,12490,Saint-Rome-de-Cernon,CAD,44.012932,2.963194
+122430028K-2,2,Place du Castélou,12490,Saint-Rome-de-Cernon,C+O,44.012932,2.963194
 122430070F-10,10,Avenue du Crès,12490,Saint-Rome-de-Cernon,C+O,44.009264,2.966542
 122430070F-11,11,Avenue du Crès,12490,Saint-Rome-de-Cernon,C+O,44.011304,2.966814
 122430070F-1,1,Avenue du Crès,12490,Saint-Rome-de-Cernon,C+O,44.011966,2.967262
@@ -44753,22 +44753,22 @@
 122430205C-7,7,Avenue des Pins,12490,Saint-Rome-de-Cernon,C+O,44.011681,2.967682
 122430205C-7B,7BIS,Avenue des Pins,12490,Saint-Rome-de-Cernon,C+O,44.011555,2.968184
 122430205C-9,9,Avenue des Pins,12490,Saint-Rome-de-Cernon,C+O,44.011392,2.967837
-12243A060P-10,10,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008360,2.968953
-12243A060P-11,11,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008242,2.968797
-12243A060P-1,1,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.007549,2.967749
-12243A060P-12,12,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008183,2.968689
-12243A060P-13,13,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008002,2.968361
-12243A060P-14,14,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.007723,2.968205
-12243A060P-15,15,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.007561,2.968050
-12243A060P-16,16,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.007429,2.967913
-12243A060P-2,2,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.007696,2.968078
-12243A060P-3,3,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008045,2.968281
-12243A060P-4,4,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008129,2.968424
-12243A060P-5,5,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008296,2.968730
-12243A060P-6,6,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008766,2.968723
-12243A060P-7,7,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008869,2.969129
-12243A060P-8,8,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008752,2.969276
-12243A060P-9,9,Lotissement Les Orchidees,12490,Saint-Rome-de-Cernon,CAD,44.008599,2.969030
+12243A060P-10,10,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008360,2.968953
+12243A060P-11,11,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008242,2.968797
+12243A060P-1,1,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.007549,2.967749
+12243A060P-12,12,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008183,2.968689
+12243A060P-13,13,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008002,2.968361
+12243A060P-14,14,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.007723,2.968205
+12243A060P-15,15,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.007561,2.968050
+12243A060P-16,16,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.007429,2.967913
+12243A060P-2,2,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.007696,2.968078
+12243A060P-3,3,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008045,2.968281
+12243A060P-4,4,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008129,2.968424
+12243A060P-5,5,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008296,2.968730
+12243A060P-6,6,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008766,2.968723
+12243A060P-7,7,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008869,2.969129
+12243A060P-8,8,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008752,2.969276
+12243A060P-9,9,Lotissement Les Orchidées,12490,Saint-Rome-de-Cernon,C+O,44.008599,2.969030
 122440030H-161,161,Rue De La Capelle,12490,Saint-Rome-de-Tarn,C+O,44.050248,2.898356
 122480010U-10,10,Avenue d'Albi,12380,Saint-Sernin-sur-Rance,CAD,43.885520,2.603492
 122480010U-11,11,Avenue d'Albi,12380,Saint-Sernin-sur-Rance,CAD,43.885419,2.603353
@@ -47204,23 +47204,23 @@
 122700171Y-5,5,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327689,3.059806
 122700171Y-6,6,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327833,3.059946
 122700171Y-8,8,Rue du Clos de Langenoise,12720,Sévérac-le-Château,CAD,44.327765,3.059785
-122700172Z-11,11,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
-122700172Z-1,1,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
-122700172Z-13,13,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
-122700172Z-15,15,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
-122700172Z-17,17,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
-122700172Z-19,19,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
-122700172Z-21,21,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
-122700172Z-2,2,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
-122700172Z-23,23,Rue Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
-122700172Z-3,3,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
-122700172Z-3B,3BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
-122700172Z-5,5,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
-122700172Z-6,6,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
-122700172Z-7,7,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
-122700172Z-7B,7BIS,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
-122700172Z-8,8,Rue Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
-122700172Z-9,9,Rue Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
+122700172Z-11,11,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320698,3.068566
+122700172Z-1,1,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321424,3.069415
+122700172Z-13,13,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320624,3.068442
+122700172Z-15,15,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320147,3.068077
+122700172Z-17,17,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320098,3.068214
+122700172Z-19,19,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320001,3.068112
+122700172Z-21,21,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320080,3.067956
+122700172Z-2,2,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321256,3.069099
+122700172Z-23,23,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.318978,3.066647
+122700172Z-3,3,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321301,3.069405
+122700172Z-3B,3BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321252,3.069432
+122700172Z-5,5,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321296,3.069343
+122700172Z-6,6,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321341,3.069274
+122700172Z-7,7,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321248,3.069267
+122700172Z-7B,7BIS,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320967,3.068902
+122700172Z-8,8,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.321270,3.069174
+122700172Z-9,9,Rue de Latazou,12720,Sévérac-le-Château,C+O,44.320745,3.068634
 122700175C-1,1,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321673,3.068424
 122700175C-2,2,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321717,3.069372
 122700175C-3,3,Rue de la Liberté,12720,Sévérac-le-Château,C+O,44.321697,3.068191
