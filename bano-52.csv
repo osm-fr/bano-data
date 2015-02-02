@@ -157,6 +157,7 @@
 520060065A-98,98,Rue des Violettes,52130,Allichamps,C+O,48.562256,4.894652
 520060065A-99,99,Rue des Violettes,52130,Allichamps,C+O,48.562035,4.894836
 52006B011Y-18,18,L Epineux,52130,Allichamps,CAD,48.563349,4.896118
+520170103U-1,1,Place Moreau,52210,Arc-en-Barrois,OSM,47.948075,5.007911
 520210090M-1,1,Rue de la Croix de Fer,52130,Attancourt,C+O,48.526175,4.934180
 520210090M-3,3,Rue de la Croix de Fer,52130,Attancourt,C+O,48.526481,4.933981
 520210090M-5,5,Rue de la Croix de Fer,52130,Attancourt,C+O,48.526976,4.933488
@@ -5317,7 +5318,7 @@
 521140040D-2,2,Route de Chatillon,52120,Châteauvillain,C+O,48.032860,4.913256
 521140040D-3,3,Route de Chatillon,52120,Châteauvillain,C+O,48.032253,4.913227
 521140040D-4B,4BIS,Route de Chatillon,52120,Châteauvillain,C+O,48.031537,4.911676
-521140040D-5,5,Route de Chatillon,52120,Châteauvillain,OSM,48.031687,4.913116
+521140040D-5,5,Route de Chatillon,52120,Châteauvillain,OSM,48.031608,4.913542
 521140040D-6,6,Route de Chatillon,52120,Châteauvillain,C+O,48.029631,4.912029
 521140040D-7,7,Route de Chatillon,52120,Châteauvillain,OSM,48.030343,4.913040
 521140040D-8,8,Route de Chatillon,52120,Châteauvillain,C+O,48.028556,4.911356

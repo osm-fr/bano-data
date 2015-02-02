@@ -4273,21 +4273,21 @@
 080810682N-7,7,Rue de la Pierre Saint-Martin,08120,Bogny-sur-Meuse,C+O,49.847189,4.772985
 080810682N-8,8,Rue de la Pierre Saint-Martin,08120,Bogny-sur-Meuse,C+O,49.847291,4.773332
 080810682N-9,9,Rue de la Pierre Saint-Martin,08120,Bogny-sur-Meuse,C+O,49.847417,4.773000
-080810695C-10,10,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.847491,4.771909
-080810695C-1,1,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.849628,4.770649
-080810695C-12,12,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.847292,4.771798
-080810695C-3,3,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.849500,4.770872
-080810695C-4,4,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.849518,4.770645
-080810695C-5,5,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.849375,4.771091
-080810695C-7,7,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.849228,4.771355
-080810695C-8,8,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.847537,4.772236
-080810695C-9,9,Rue de la Plaine des Sports,08120,Bogny-sur-Meuse,CAD,49.849122,4.771553
-080810698F-1,1,Impasse des Plissons,08120,Bogny-sur-Meuse,CAD,49.849050,4.771208
-080810698F-2,2,Impasse des Plissons,08120,Bogny-sur-Meuse,CAD,49.849111,4.771014
-080810698F-3,3,Impasse des Plissons,08120,Bogny-sur-Meuse,CAD,49.848848,4.770911
-080810698F-4,4,Impasse des Plissons,08120,Bogny-sur-Meuse,CAD,49.848977,4.770804
-080810698F-5,5,Impasse des Plissons,08120,Bogny-sur-Meuse,CAD,49.848710,4.770691
-080810698F-6,6,Impasse des Plissons,08120,Bogny-sur-Meuse,CAD,49.848803,4.770526
+080810695C-10,10,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.847491,4.771909
+080810695C-1,1,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.849628,4.770649
+080810695C-12,12,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.847292,4.771798
+080810695C-3,3,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.849500,4.770872
+080810695C-4,4,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.849518,4.770645
+080810695C-5,5,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.849375,4.771091
+080810695C-7,7,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.849228,4.771355
+080810695C-8,8,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.847537,4.772236
+080810695C-9,9,rue de la plaine des sports,08120,Bogny-sur-Meuse,C+O,49.849122,4.771553
+080810698F-1,1,impasse des plissons,08120,Bogny-sur-Meuse,C+O,49.849050,4.771208
+080810698F-2,2,impasse des plissons,08120,Bogny-sur-Meuse,C+O,49.849111,4.771014
+080810698F-3,3,impasse des plissons,08120,Bogny-sur-Meuse,C+O,49.848848,4.770911
+080810698F-4,4,impasse des plissons,08120,Bogny-sur-Meuse,C+O,49.848977,4.770804
+080810698F-5,5,impasse des plissons,08120,Bogny-sur-Meuse,C+O,49.848710,4.770691
+080810698F-6,6,impasse des plissons,08120,Bogny-sur-Meuse,C+O,49.848803,4.770526
 080810700H-1,1,Rue de la Pointe Roche,08120,Bogny-sur-Meuse,C+O,49.859281,4.738469
 080810700H-3,3,Rue de la Pointe Roche,08120,Bogny-sur-Meuse,C+O,49.859018,4.738961
 080810700H-5,5,Rue de la Pointe Roche,08120,Bogny-sur-Meuse,C+O,49.858812,4.739287
@@ -7864,14 +7864,14 @@
 081050660K-5,5,Rue Charles Péguy,08000,Charleville-Mézières,C+O,49.747512,4.717966
 081050660K-7,7,Rue Charles Péguy,08000,Charleville-Mézières,C+O,49.747486,4.717734
 081050660K-9,9,Rue Charles Péguy,08000,Charleville-Mézières,C+O,49.747670,4.717562
-081050670W-12,12,Place du Château,08000,Charleville-Mézières,CAD,49.761044,4.717573
-081050670W-13,13,Place du Château,08000,Charleville-Mézières,CAD,49.760847,4.717778
-081050670W-15,15,Place du Château,08000,Charleville-Mézières,CAD,49.760866,4.717610
-081050670W-17,17,Place du Château,08000,Charleville-Mézières,CAD,49.760882,4.717478
-081050670W-19,19,Place du Château,08000,Charleville-Mézières,CAD,49.760889,4.717337
-081050670W-2,2,Place du Château,08000,Charleville-Mézières,CAD,49.761274,4.717261
-081050670W-7,7,Place du Château,08000,Charleville-Mézières,CAD,49.760812,4.718077
-081050670W-8,8,Place du Château,08000,Charleville-Mézières,CAD,49.760862,4.718081
+081050670W-12,12,Place du Château,08000,Charleville-Mézières,C+O,49.761044,4.717573
+081050670W-13,13,Place du Château,08000,Charleville-Mézières,C+O,49.760847,4.717778
+081050670W-15,15,Place du Château,08000,Charleville-Mézières,C+O,49.760866,4.717610
+081050670W-17,17,Place du Château,08000,Charleville-Mézières,C+O,49.760882,4.717478
+081050670W-19,19,Place du Château,08000,Charleville-Mézières,C+O,49.760889,4.717337
+081050670W-2,2,Place du Château,08000,Charleville-Mézières,C+O,49.761274,4.717261
+081050670W-7,7,Place du Château,08000,Charleville-Mézières,C+O,49.760812,4.718077
+081050670W-8,8,Place du Château,08000,Charleville-Mézières,C+O,49.760862,4.718081
 081050680G-10,10,Rue du Château,08000,Charleville-Mézières,C+O,49.761295,4.716711
 081050680G-2,2,Rue du Château,08000,Charleville-Mézières,C+O,49.761274,4.717261
 081050680G-4,4,Rue du Château,08000,Charleville-Mézières,C+O,49.761288,4.717014
