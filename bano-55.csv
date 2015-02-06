@@ -2441,6 +2441,15 @@
 550290090T-7,7,Rue Bar la Ville,55000,Bar-le-Duc,OSM,48.775748,5.161240
 550290090T-8,8,Rue Bar la Ville,55000,Bar-le-Duc,OSM,48.775962,5.161230
 550290090T-9,9,Rue Bar la Ville,55000,Bar-le-Duc,OSM,48.775765,5.161281
+550290106K-10,10,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.785307,5.156834
+550290106K-1,1,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.784783,5.156497
+550290106K-2,2,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.784375,5.156334
+550290106K-3,3,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.785302,5.156960
+550290106K-4,4,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.784697,5.156395
+550290106K-6,6,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.784941,5.156487
+550290106K-7,7,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.785497,5.157409
+550290106K-8,8,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.785057,5.156500
+550290106K-9,9,Allée de Beauregard,55000,Bar-le-Duc,OSM,48.785587,5.157477
 550290110P-11,11,Route de Behonne,55000,Bar-le-Duc,OSM,48.781412,5.157436
 550290110P-12B,12B,Route de Behonne,55000,Bar-le-Duc,OSM,48.785270,5.160109
 550290110P-13,13,Route de Behonne,55000,Bar-le-Duc,OSM,48.781678,5.157298
@@ -4238,6 +4247,17 @@
 550290515E-7,7,Rue Jean Jaurès,55000,Bar-le-Duc,OSM,48.773817,5.176635
 550290515E-8,8,Rue Jean Jaurès,55000,Bar-le-Duc,OSM,48.773511,5.177167
 550290515E-9,9,Rue Jean Jaurès,55000,Bar-le-Duc,OSM,48.774026,5.176467
+550290516F-10,10,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.787555,5.152653
+550290516F-11,11,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.785937,5.152594
+550290516F-1,1,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.785242,5.152745
+550290516F-13,13,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.786162,5.152640
+550290516F-2,2,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.785736,5.152429
+550290516F-2B,2B,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.786382,5.152328
+550290516F-3,3,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.785372,5.152707
+550290516F-4,4,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.786624,5.152386
+550290516F-5,5,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.785502,5.152661
+550290516F-6,6,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.786861,5.152384
+550290516F-7,7,Rue Jean Pornot,55000,Bar-le-Duc,OSM,48.785635,5.152625
 550290520K-1,1,Allée des Jonquilles,55000,Bar-le-Duc,OSM,48.771674,5.177348
 550290520K-2,2,Allée des Jonquilles,55000,Bar-le-Duc,OSM,48.771560,5.177459
 550290520K-3,3,Allée des Jonquilles,55000,Bar-le-Duc,OSM,48.771550,5.177361
@@ -6324,6 +6344,32 @@
 550291210K-92,92,Rue des Vaux de Naives,55000,Bar-le-Duc,OSM,48.778121,5.177052
 550291210K-94,94,Rue des Vaux de Naives,55000,Bar-le-Duc,OSM,48.778225,5.177300
 550291210K-96,96,Rue des Vaux de Naives,55000,Bar-le-Duc,OSM,48.778304,5.177504
+550291211L-10,10,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787208,5.155539
+550291211L-11,11,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786910,5.154269
+550291211L-1,1,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786571,5.153052
+550291211L-12,12,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787192,5.155689
+550291211L-13,13,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786984,5.154450
+550291211L-14,14,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787155,5.155945
+550291211L-15,15,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787036,5.154584
+550291211L-15B,15B,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787081,5.154699
+550291211L-16,16,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787097,5.156241
+550291211L-17,17,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787118,5.154879
+550291211L-18,18,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787037,5.156572
+550291211L-19,19,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787145,5.155041
+550291211L-21,21,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787111,5.155543
+550291211L-23,23,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787088,5.155822
+550291211L-25,25,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787024,5.156180
+550291211L-27,27,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786983,5.156474
+550291211L-29,29,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786974,5.156609
+550291211L-29B,29B,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786970,5.156774
+550291211L-31,31,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786982,5.157005
+550291211L-3,3,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786603,5.153257
+550291211L-5,5,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786649,5.153442
+550291211L-6,6,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787089,5.154447
+550291211L-6B,6B,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787214,5.154879
+550291211L-7,7,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786723,5.153706
+550291211L-8,8,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.787241,5.155181
+550291211L-9,9,Chemin de Vaux le Comte,55000,Bar-le-Duc,OSM,48.786838,5.154064
 550291215R-10,10,Chemin de Vaux Viry,55000,Bar-le-Duc,OSM,48.784010,5.155838
 550291215R-11,11,Chemin de Vaux Viry,55000,Bar-le-Duc,OSM,48.783958,5.156589
 550291215R-1,1,Chemin de Vaux Viry,55000,Bar-le-Duc,OSM,48.783635,5.154777
@@ -6725,7 +6771,12 @@
 550291250D-73,73,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.782623,5.155206
 550291250D-75,75,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.783056,5.154930
 550291250D-77,77,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.783300,5.154717
+550291250D-77B,77B,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.783900,5.154174
 550291250D-7,7,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.777765,5.163944
+550291250D-79,79,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.784233,5.153843
+550291250D-83,83,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.784454,5.153495
+550291250D-85,85,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.784595,5.153346
+550291250D-87,87,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.784851,5.153082
 550291250D-9,9,Voie des Fusillés,55000,Bar-le-Duc,OSM,48.777806,5.163863
 550291260P-10,10,Rue Voltaire,55000,Bar-le-Duc,OSM,48.772736,5.160331
 550291260P-11,11,Rue Voltaire,55000,Bar-le-Duc,OSM,48.772515,5.160499
@@ -7388,186 +7439,186 @@
 550470045R-7,7,Ruelle des Rogies,55100,Béthelainville,CAD,49.167997,5.233322
 550470050W-1,1,Chemin de Suzémont,55100,Béthelainville,CAD,49.165766,5.235733
 550470050W-3,3,Chemin de Suzémont,55100,Béthelainville,CAD,49.165606,5.236500
-550530005W-10,10,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.330837,5.572558
-550530005W-1,1,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.331034,5.572355
-550530005W-12,12,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.330836,5.572758
-550530005W-14,14,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.330836,5.572911
-550530005W-14B,14BIS,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.330837,5.573239
-550530005W-16,16,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.330877,5.573325
-550530005W-18,18,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.331007,5.573647
-550530005W-2,2,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.331320,5.572206
-550530005W-3,3,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.330937,5.572784
-550530005W-4,4,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.331180,5.572216
-550530005W-5,5,Rue de la Clanne,55230,Billy-sous-Mangiennes,CAD,49.330939,5.573211
-550530010B-2,2,Chemin des Clorières,55230,Billy-sous-Mangiennes,CAD,49.332902,5.573281
-550530010B-3,3,Chemin des Clorières,55230,Billy-sous-Mangiennes,CAD,49.332946,5.572668
-550530015G-2,2,Rue de la Cure,55230,Billy-sous-Mangiennes,CAD,49.332041,5.574778
-550530015G-3,3,Rue de la Cure,55230,Billy-sous-Mangiennes,CAD,49.332381,5.574607
-550530015G-4,4,Rue de la Cure,55230,Billy-sous-Mangiennes,CAD,49.332238,5.574814
-550530015G-5,5,Rue de la Cure,55230,Billy-sous-Mangiennes,CAD,49.332510,5.574605
-550530015G-6,6,Rue de la Cure,55230,Billy-sous-Mangiennes,CAD,49.332442,5.574842
-550530020M-1,1,Place de l'Église,55230,Billy-sous-Mangiennes,CAD,49.332642,5.573605
-550530020M-2,2,Place de l'Église,55230,Billy-sous-Mangiennes,CAD,49.332463,5.573547
-550530020M-3,3,Place de l'Église,55230,Billy-sous-Mangiennes,CAD,49.332306,5.573326
-550530020M-4,4,Place de l'Église,55230,Billy-sous-Mangiennes,CAD,49.332191,5.573301
-550530020M-4B,4BIS,Place de l'Église,55230,Billy-sous-Mangiennes,CAD,49.332127,5.572924
-550530020M-5,5,Place de l'Église,55230,Billy-sous-Mangiennes,CAD,49.332329,5.573813
-550530025T-1,1,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.333505,5.574670
-550530025T-2,2,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.333524,5.574871
-550530025T-2B,2BIS,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.333710,5.574884
-550530025T-3,3,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.333738,5.574636
-550530025T-4,4,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.333899,5.574880
-550530025T-5,5,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.334181,5.574544
-550530025T-6,6,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.334113,5.574862
-550530025T-7,7,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.334295,5.574524
-550530025T-8,8,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.334449,5.574831
-550530025T-9,9,Rue de la Fontaine,55230,Billy-sous-Mangiennes,CAD,49.334549,5.574499
-550530030Y-10,10,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.332731,5.576219
-550530030Y-1,1,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.331854,5.575771
-550530030Y-12,12,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.332957,5.576242
-550530030Y-13,13,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.333756,5.576069
-550530030Y-14,14,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.333030,5.576246
-550530030Y-15,15,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.333971,5.576060
-550530030Y-16,16,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.333249,5.576259
-550530030Y-17,17,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334138,5.576050
-550530030Y-18,18,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.333341,5.576264
-550530030Y-19,19,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334529,5.576050
-550530030Y-20,20,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.333495,5.576275
-550530030Y-21,21,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334770,5.576185
-550530030Y-22,22,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.333830,5.576285
-550530030Y-22B,22BIS,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334055,5.576734
-550530030Y-2,2,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.331808,5.575976
-550530030Y-24,24,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334321,5.576283
-550530030Y-24B,24BIS,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334697,5.576306
-550530030Y-26,26,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334790,5.576320
-550530030Y-28,28,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.334890,5.576335
-550530030Y-3,3,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.331958,5.575795
-550530030Y-4,4,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.331942,5.576013
-550530030Y-5,5,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.332145,5.575830
-550530030Y-6,6,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.332225,5.576091
-550530030Y-7,7,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.332312,5.575858
-550530030Y-8,8,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.332520,5.576173
-550530030Y-9,9,Grande Rue,55230,Billy-sous-Mangiennes,CAD,49.332429,5.575878
-550530035D-1,1,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334726,5.574848
-550530035D-2,2,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334621,5.574994
-550530035D-3,3,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334724,5.575116
-550530035D-4,4,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334579,5.575861
-550530035D-5,5,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334723,5.575269
-550530035D-7,7,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334721,5.575557
-550530035D-7B,7BIS,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334720,5.575818
-550530035D-9,9,Rue du Gué,55230,Billy-sous-Mangiennes,CAD,49.334871,5.575910
-550530040J-10,10,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331677,5.575606
-550530040J-1,1,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.332078,5.574082
-550530040J-12,12,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331573,5.576090
-550530040J-14,14,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331555,5.576358
-550530040J-17,17,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331499,5.577807
-550530040J-20,20,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331394,5.577727
-550530040J-2,2,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331897,5.574315
-550530040J-24,24,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331358,5.578116
-550530040J-26,26,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331371,5.578580
-550530040J-28,28,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331404,5.578848
-550530040J-2B,2BIS,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331814,5.574820
-550530040J-3,3,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.332064,5.574280
-550530040J-4,4,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331773,5.575058
-550530040J-5,5,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.332044,5.574523
-550530040J-6,6,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331737,5.575270
-550530040J-7,7,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331922,5.575063
-550530040J-8,8,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331707,5.575437
-550530040J-9,9,Rue des Juifs,55230,Billy-sous-Mangiennes,CAD,49.331852,5.575436
-550530045P-10,10,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.330371,5.575616
-550530045P-11,11,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.330823,5.575947
-550530045P-1,1,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.331477,5.575995
-550530045P-12,12,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.329114,5.575451
-550530045P-13,13,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.330667,5.575893
-550530045P-15,15,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.330043,5.575845
-550530045P-19,19,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.329777,5.576273
-550530045P-22,22,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.329317,5.577360
-550530045P-2,2,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.331515,5.575802
-550530045P-25,25,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.329440,5.577257
-550530045P-27,27,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.329299,5.577693
-550530045P-3,3,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.331327,5.576177
-550530045P-4,4,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.331343,5.575760
-550530045P-5,5,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.331244,5.576154
-550530045P-6,6,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.330507,5.575667
-550530045P-7,7,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.331182,5.576141
-550530045P-8,8,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.330443,5.575644
-550530045P-9,9,Route de Loison,55230,Billy-sous-Mangiennes,CAD,49.331071,5.576115
-550530050V-1,1,Place de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.333117,5.575504
-550530050V-2,2,Place de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.333272,5.575207
-550530055A-1,1,Rue de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.332682,5.575036
-550530055A-2,2,Rue de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.332626,5.574243
-550530055A-2B,2BIS,Rue de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.332519,5.575231
-550530055A-3,3,Rue de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.332573,5.575709
-550530055A-4B,4BIS,Rue de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.332509,5.575405
-550530055A-6,6,Rue de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.332495,5.575591
-550530055A-6B,6BIS,Rue de la Mairie,55230,Billy-sous-Mangiennes,CAD,49.332486,5.575702
-550530060F-10,10,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333627,5.574126
-550530060F-11,11,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.334241,5.573723
-550530060F-1,1,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333389,5.573851
-550530060F-12,12,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333750,5.574099
-550530060F-12B,12BIS,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333866,5.574072
-550530060F-13,13,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.334662,5.573660
-550530060F-16,16,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.334265,5.573988
-550530060F-18,18,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.334773,5.573950
-550530060F-2,2,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333077,5.574159
-550530060F-3,3,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333678,5.573804
-550530060F-4,4,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333192,5.574166
-550530060F-5,5,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333750,5.573793
-550530060F-6,6,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333301,5.574172
-550530060F-7,7,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333962,5.573762
-550530060F-8,8,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.333361,5.574342
-550530060F-9,9,Rue des Marais,55230,Billy-sous-Mangiennes,CAD,49.334102,5.573742
-550530065L-1,1,Rue Patouillots,55230,Billy-sous-Mangiennes,CAD,49.331786,5.574210
-550530065L-3,3,Rue Patouillots,55230,Billy-sous-Mangiennes,CAD,49.331618,5.574188
-550530065L-5,5,Rue Patouillots,55230,Billy-sous-Mangiennes,CAD,49.331437,5.574141
-550530065L-7,7,Rue Patouillots,55230,Billy-sous-Mangiennes,CAD,49.331292,5.574083
-550530070S-10,10,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.334091,5.575550
-550530070S-1,1,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.333936,5.575381
-550530070S-12,12,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.334257,5.575550
-550530070S-14,14,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.334439,5.575561
-550530070S-2,2,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.333339,5.575535
-550530070S-3B,3BIS,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.334318,5.575252
-550530070S-3T,3TER,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.334385,5.575272
-550530070S-4,4,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.333436,5.575535
-550530070S-4B,4BIS,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.333509,5.575538
-550530070S-5,5,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.334536,5.575360
-550530070S-5B,5BIS,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.334451,5.575218
-550530070S-6,6,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.333646,5.575545
-550530070S-8,8,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.333895,5.575719
-550530070S-8B,8BIS,Rue Perdue,55230,Billy-sous-Mangiennes,CAD,49.333954,5.575715
-550530075X-10,10,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331511,5.572202
-550530075X-10B,10BIS,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331517,5.572366
-550530075X-11,11,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331291,5.572784
-550530075X-1,1,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331748,5.573805
-550530075X-12,12,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331674,5.572028
-550530075X-2,2,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331574,5.573323
-550530075X-3,3,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331552,5.573761
-550530075X-4,4,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331704,5.572939
-550530075X-5,5,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331351,5.573533
-550530075X-6,6,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331775,5.572934
-550530075X-6B,6BIS,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331739,5.572882
-550530075X-6T,6TER,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331645,5.572771
-550530075X-7,7,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331358,5.573284
-550530075X-8,8,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331584,5.572525
-550530075X-8T,8TER,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331569,5.572701
-550530075X-9,9,Rue du Pont,55230,Billy-sous-Mangiennes,CAD,49.331360,5.573155
-550530080C-1,1,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.330906,5.573963
-550530080C-2,2,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.330696,5.574229
-550530080C-3,3,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.330582,5.574432
-550530080C-4,4,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.330629,5.574541
-550530080C-7,7,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.330749,5.574795
-550530085H-10,10,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331015,5.575380
-550530085H-1,1,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331210,5.574233
-550530085H-12,12,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.330988,5.575600
-550530085H-14,14,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.330967,5.575754
-550530085H-2,2,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331197,5.573855
-550530085H-3,3,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331172,5.574400
-550530085H-4,4,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331126,5.574012
-550530085H-5,5,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331133,5.574564
-550530085H-6,6,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331007,5.574723
-550530085H-8,8,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331011,5.575015
-550530085H-9,9,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331108,5.574805
-550530085H-9B,9BIS,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,CAD,49.331102,5.574975
+550530005W-10,10,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.330837,5.572558
+550530005W-1,1,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.331034,5.572355
+550530005W-12,12,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.330836,5.572758
+550530005W-14,14,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.330836,5.572911
+550530005W-14B,14BIS,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.330837,5.573239
+550530005W-16,16,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.330877,5.573325
+550530005W-18,18,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.331007,5.573647
+550530005W-2,2,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.331320,5.572206
+550530005W-3,3,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.330937,5.572784
+550530005W-4,4,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.331180,5.572216
+550530005W-5,5,Rue de la Clanne,55230,Billy-sous-Mangiennes,C+O,49.330939,5.573211
+550530010B-2,2,Chemin des Clorières,55230,Billy-sous-Mangiennes,C+O,49.332902,5.573281
+550530010B-3,3,Chemin des Clorières,55230,Billy-sous-Mangiennes,C+O,49.332946,5.572668
+550530015G-2,2,Rue de la Cure,55230,Billy-sous-Mangiennes,C+O,49.332041,5.574778
+550530015G-3,3,Rue de la Cure,55230,Billy-sous-Mangiennes,C+O,49.332381,5.574607
+550530015G-4,4,Rue de la Cure,55230,Billy-sous-Mangiennes,C+O,49.332238,5.574814
+550530015G-5,5,Rue de la Cure,55230,Billy-sous-Mangiennes,C+O,49.332510,5.574605
+550530015G-6,6,Rue de la Cure,55230,Billy-sous-Mangiennes,C+O,49.332442,5.574842
+550530020M-1,1,Place de l'Église,55230,Billy-sous-Mangiennes,C+O,49.332642,5.573605
+550530020M-2,2,Place de l'Église,55230,Billy-sous-Mangiennes,C+O,49.332463,5.573547
+550530020M-3,3,Place de l'Église,55230,Billy-sous-Mangiennes,C+O,49.332306,5.573326
+550530020M-4,4,Place de l'Église,55230,Billy-sous-Mangiennes,C+O,49.332191,5.573301
+550530020M-4B,4BIS,Place de l'Église,55230,Billy-sous-Mangiennes,C+O,49.332127,5.572924
+550530020M-5,5,Place de l'Église,55230,Billy-sous-Mangiennes,C+O,49.332329,5.573813
+550530025T-1,1,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.333505,5.574670
+550530025T-2,2,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.333524,5.574871
+550530025T-2B,2BIS,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.333710,5.574884
+550530025T-3,3,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.333738,5.574636
+550530025T-4,4,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.333899,5.574880
+550530025T-5,5,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.334181,5.574544
+550530025T-6,6,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.334113,5.574862
+550530025T-7,7,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.334295,5.574524
+550530025T-8,8,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.334449,5.574831
+550530025T-9,9,Rue de la Fontaine,55230,Billy-sous-Mangiennes,C+O,49.334549,5.574499
+550530030Y-10,10,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.332731,5.576219
+550530030Y-1,1,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.331854,5.575771
+550530030Y-12,12,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.332957,5.576242
+550530030Y-13,13,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.333756,5.576069
+550530030Y-14,14,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.333030,5.576246
+550530030Y-15,15,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.333971,5.576060
+550530030Y-16,16,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.333249,5.576259
+550530030Y-17,17,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334138,5.576050
+550530030Y-18,18,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.333341,5.576264
+550530030Y-19,19,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334529,5.576050
+550530030Y-20,20,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.333495,5.576275
+550530030Y-21,21,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334770,5.576185
+550530030Y-22,22,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.333830,5.576285
+550530030Y-22B,22BIS,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334055,5.576734
+550530030Y-2,2,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.331808,5.575976
+550530030Y-24,24,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334321,5.576283
+550530030Y-24B,24BIS,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334697,5.576306
+550530030Y-26,26,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334790,5.576320
+550530030Y-28,28,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.334890,5.576335
+550530030Y-3,3,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.331958,5.575795
+550530030Y-4,4,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.331942,5.576013
+550530030Y-5,5,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.332145,5.575830
+550530030Y-6,6,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.332225,5.576091
+550530030Y-7,7,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.332312,5.575858
+550530030Y-8,8,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.332520,5.576173
+550530030Y-9,9,Grande Rue,55230,Billy-sous-Mangiennes,C+O,49.332429,5.575878
+550530035D-1,1,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334726,5.574848
+550530035D-2,2,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334621,5.574994
+550530035D-3,3,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334724,5.575116
+550530035D-4,4,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334579,5.575861
+550530035D-5,5,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334723,5.575269
+550530035D-7,7,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334721,5.575557
+550530035D-7B,7BIS,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334720,5.575818
+550530035D-9,9,Rue du Gué,55230,Billy-sous-Mangiennes,C+O,49.334871,5.575910
+550530040J-10,10,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331677,5.575606
+550530040J-1,1,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.332078,5.574082
+550530040J-12,12,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331573,5.576090
+550530040J-14,14,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331555,5.576358
+550530040J-17,17,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331499,5.577807
+550530040J-20,20,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331394,5.577727
+550530040J-2,2,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331897,5.574315
+550530040J-24,24,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331358,5.578116
+550530040J-26,26,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331371,5.578580
+550530040J-28,28,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331404,5.578848
+550530040J-2B,2BIS,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331814,5.574820
+550530040J-3,3,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.332064,5.574280
+550530040J-4,4,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331773,5.575058
+550530040J-5,5,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.332044,5.574523
+550530040J-6,6,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331737,5.575270
+550530040J-7,7,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331922,5.575063
+550530040J-8,8,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331707,5.575437
+550530040J-9,9,Rue des Juifs,55230,Billy-sous-Mangiennes,C+O,49.331852,5.575436
+550530045P-10,10,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.330371,5.575616
+550530045P-11,11,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.330823,5.575947
+550530045P-1,1,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.331477,5.575995
+550530045P-12,12,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.329114,5.575451
+550530045P-13,13,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.330667,5.575893
+550530045P-15,15,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.330043,5.575845
+550530045P-19,19,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.329777,5.576273
+550530045P-22,22,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.329317,5.577360
+550530045P-2,2,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.331515,5.575802
+550530045P-25,25,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.329440,5.577257
+550530045P-27,27,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.329299,5.577693
+550530045P-3,3,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.331327,5.576177
+550530045P-4,4,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.331343,5.575760
+550530045P-5,5,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.331244,5.576154
+550530045P-6,6,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.330507,5.575667
+550530045P-7,7,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.331182,5.576141
+550530045P-8,8,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.330443,5.575644
+550530045P-9,9,Route de Loison,55230,Billy-sous-Mangiennes,C+O,49.331071,5.576115
+550530050V-1,1,Place de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.333117,5.575504
+550530050V-2,2,Place de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.333272,5.575207
+550530055A-1,1,Rue de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.332682,5.575036
+550530055A-2,2,Rue de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.332626,5.574243
+550530055A-2B,2BIS,Rue de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.332519,5.575231
+550530055A-3,3,Rue de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.332573,5.575709
+550530055A-4B,4BIS,Rue de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.332509,5.575405
+550530055A-6,6,Rue de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.332495,5.575591
+550530055A-6B,6BIS,Rue de la Mairie,55230,Billy-sous-Mangiennes,C+O,49.332486,5.575702
+550530060F-10,10,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333627,5.574126
+550530060F-11,11,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.334241,5.573723
+550530060F-1,1,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333389,5.573851
+550530060F-12,12,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333750,5.574099
+550530060F-12B,12BIS,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333866,5.574072
+550530060F-13,13,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.334662,5.573660
+550530060F-16,16,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.334265,5.573988
+550530060F-18,18,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.334773,5.573950
+550530060F-2,2,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333077,5.574159
+550530060F-3,3,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333678,5.573804
+550530060F-4,4,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333192,5.574166
+550530060F-5,5,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333750,5.573793
+550530060F-6,6,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333301,5.574172
+550530060F-7,7,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333962,5.573762
+550530060F-8,8,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.333361,5.574342
+550530060F-9,9,Rue des Marais,55230,Billy-sous-Mangiennes,C+O,49.334102,5.573742
+550530065L-1,1,Rue Patouillots,55230,Billy-sous-Mangiennes,C+O,49.331786,5.574210
+550530065L-3,3,Rue Patouillots,55230,Billy-sous-Mangiennes,C+O,49.331618,5.574188
+550530065L-5,5,Rue Patouillots,55230,Billy-sous-Mangiennes,C+O,49.331437,5.574141
+550530065L-7,7,Rue Patouillots,55230,Billy-sous-Mangiennes,C+O,49.331292,5.574083
+550530070S-10,10,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.334091,5.575550
+550530070S-1,1,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.333936,5.575381
+550530070S-12,12,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.334257,5.575550
+550530070S-14,14,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.334439,5.575561
+550530070S-2,2,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.333339,5.575535
+550530070S-3B,3BIS,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.334318,5.575252
+550530070S-3T,3TER,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.334385,5.575272
+550530070S-4,4,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.333436,5.575535
+550530070S-4B,4BIS,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.333509,5.575538
+550530070S-5,5,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.334536,5.575360
+550530070S-5B,5BIS,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.334451,5.575218
+550530070S-6,6,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.333646,5.575545
+550530070S-8,8,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.333895,5.575719
+550530070S-8B,8BIS,Rue Perdue,55230,Billy-sous-Mangiennes,C+O,49.333954,5.575715
+550530075X-10,10,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331511,5.572202
+550530075X-10B,10BIS,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331517,5.572366
+550530075X-11,11,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331291,5.572784
+550530075X-1,1,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331748,5.573805
+550530075X-12,12,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331674,5.572028
+550530075X-2,2,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331574,5.573323
+550530075X-3,3,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331552,5.573761
+550530075X-4,4,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331704,5.572939
+550530075X-5,5,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331351,5.573533
+550530075X-6,6,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331775,5.572934
+550530075X-6B,6BIS,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331739,5.572882
+550530075X-6T,6TER,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331645,5.572771
+550530075X-7,7,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331358,5.573284
+550530075X-8,8,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331584,5.572525
+550530075X-8T,8TER,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331569,5.572701
+550530075X-9,9,Rue du Pont,55230,Billy-sous-Mangiennes,C+O,49.331360,5.573155
+550530080C-1,1,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.330906,5.573963
+550530080C-2,2,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.330696,5.574229
+550530080C-3,3,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.330582,5.574432
+550530080C-4,4,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.330629,5.574541
+550530080C-7,7,Place de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.330749,5.574795
+550530085H-10,10,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331015,5.575380
+550530085H-1,1,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331210,5.574233
+550530085H-12,12,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.330988,5.575600
+550530085H-14,14,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.330967,5.575754
+550530085H-2,2,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331197,5.573855
+550530085H-3,3,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331172,5.574400
+550530085H-4,4,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331126,5.574012
+550530085H-5,5,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331133,5.574564
+550530085H-6,6,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331007,5.574723
+550530085H-8,8,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331011,5.575015
+550530085H-9,9,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331108,5.574805
+550530085H-9B,9BIS,Rue de la Vieille Ville,55230,Billy-sous-Mangiennes,C+O,49.331102,5.574975
 550570005D-1,1,Rue du Château,55400,Boinville-en-Woëvre,OSM,49.184492,5.672019
 550570005D-2,2,Rue du Château,55400,Boinville-en-Woëvre,OSM,49.184459,5.672606
 550570005D-3,3,Rue du Château,55400,Boinville-en-Woëvre,OSM,49.184238,5.672868
@@ -16955,7 +17006,7 @@
 552280075L-6,6,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038623,5.656788
 552280075L-8,8,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038338,5.656188
 552280085X-2,2,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038353,5.659221
-552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038771,5.658994
+552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038788,5.659434
 552280095H-10,10,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037507,5.657100
 552280095H-11,11,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037034,5.657047
 552280095H-11B,11BIS,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.036839,5.656716
@@ -17008,10 +17059,10 @@
 552290004E-5,5,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.868091,5.551082
 552290004E-7,7,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.867959,5.552075
 552290004E-9,9,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.867878,5.552453
-552290007H-11,11,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869494,5.550897
-552290007H-1,1,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.868708,5.550929
-552290007H-2,2,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.866484,5.538954
-552290007H-3,3,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869029,5.551283
+552290006G-11,11,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869494,5.550897
+552290006G-1,1,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.868708,5.550929
+552290006G-2,2,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.866484,5.538954
+552290006G-3,3,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869029,5.551283
 552290008J-10,10,Rue Falson,55300,Han-sur-Meuse,OSM,48.866302,5.540372
 552290008J-11,11,Rue Falson,55300,Han-sur-Meuse,OSM,48.866588,5.540408
 552290008J-1,1,Rue Falson,55300,Han-sur-Meuse,OSM,48.866097,5.539007
@@ -17080,7 +17131,7 @@
 552290013P-8,8,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864648,5.540992
 552290013P-9,9,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864483,5.541832
 552290015S-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
-552290015S-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865647,5.538939
+552290015S-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868899,5.550063
 552290015S-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865232,5.538708
 552290015S-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
 552290015S-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
@@ -23930,7 +23981,7 @@
 553510062M-20,20,Rue Ernest Mabille,55600,Montmédy,OSM,49.518225,5.367277
 553510062M-21,21,Rue Ernest Mabille,55600,Montmédy,OSM,49.518612,5.367726
 553510062M-3,3,Rue Ernest Mabille,55600,Montmédy,OSM,49.519424,5.367782
-553510062M-38,38,Rue Ernest Mabille,55600,Montmédy,OSM,49.517306,5.367227
+553510062M-38,38,Rue Ernest Mabille,55600,Montmédy,OSM,49.517371,5.367155
 553510062M-5,5,Rue Ernest Mabille,55600,Montmédy,OSM,49.519344,5.367771
 553510062M-7,7,Rue Ernest Mabille,55600,Montmédy,OSM,49.519235,5.367893
 553510062M-9,9,Rue Ernest Mabille,55600,Montmédy,OSM,49.519235,5.367893
@@ -23996,7 +24047,7 @@
 553510155N-18,18,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521514,5.364720
 553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
 553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
-553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522436,5.365403
+553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522350,5.365429
 553510155N-2,2,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520146,5.363978
 553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
 553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
@@ -29047,7 +29098,27 @@
 554580051K-7,7,Hameau du Sillon,55400,Saint-Jean-lès-Buzy,OSM,49.163678,5.732825
 554580051K-9,9,Hameau du Sillon,55400,Saint-Jean-lès-Buzy,OSM,49.163382,5.733452
 554620007V-6,6,Rue de l'Église,55210,Saint-Maurice-sous-les-Côtes,OSM,49.017117,5.676874
+554630010U-10,10,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887727,5.540325
+554630010U-10A,10A,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887695,5.540491
+554630010U-10B,10B,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887586,5.540784
+554630010U-11,11,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887308,5.543176
+554630010U-13,13,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887269,5.543541
+554630010U-16,16,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887281,5.542396
+554630010U-18,18,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887267,5.542476
+554630010U-20,20,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887255,5.542552
+554630010U-24,24,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887190,5.543397
+554630010U-26,26,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887173,5.543549
+554630010U-28,28,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887160,5.543656
+554630010U-30,30,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887099,5.543835
+554630010U-32,32,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887122,5.544135
+554630010U-34,34,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887115,5.544242
+554630010U-36,36,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887095,5.544576
+554630010U-4,4,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887384,5.539691
 554630010U-5,5,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887645,5.541090
+554630010U-6,6,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887755,5.539731
+554630010U-7,7,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887367,5.542544
+554630010U-8,8,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887753,5.539885
+554630010U-9B,9B,Rue des Abasseaux,55300,Saint-Mihiel,OSM,48.887343,5.542817
 554630020E-1,1,Rue des Acacias,55300,Saint-Mihiel,OSM,48.892866,5.538527
 554630030R-1,1,Place des Alliés,55300,Saint-Mihiel,OSM,48.889976,5.541492
 554630030R-2,2,Place des Alliés,55300,Saint-Mihiel,OSM,48.890124,5.541503
@@ -29100,6 +29171,8 @@
 554630060Y-7,7,Rue Basse des Fosses,55300,Saint-Mihiel,OSM,48.891203,5.541727
 554630060Y-8,8,Rue Basse des Fosses,55300,Saint-Mihiel,OSM,48.891217,5.541864
 554630060Y-9,9,Rue Basse des Fosses,55300,Saint-Mihiel,OSM,48.891264,5.541718
+554630080V-1,1,Rue des Boucheries,55300,Saint-Mihiel,OSM,48.889684,5.542466
+554630080V-3,3,Rue des Boucheries,55300,Saint-Mihiel,OSM,48.889468,5.542308
 554630090F-1,1,Rue de la Buanderie,55300,Saint-Mihiel,OSM,48.888971,5.540253
 554630090F-3,3,Rue de la Buanderie,55300,Saint-Mihiel,OSM,48.889014,5.540106
 554630090F-5,5,Rue de la Buanderie,55300,Saint-Mihiel,OSM,48.889052,5.539944
@@ -29121,19 +29194,34 @@
 554630120N-7,7,Rue des Carmes,55300,Saint-Mihiel,OSM,48.890535,5.540732
 554630120N-8,8,Rue des Carmes,55300,Saint-Mihiel,OSM,48.890692,5.540843
 554630120N-9,9,Rue des Carmes,55300,Saint-Mihiel,OSM,48.890611,5.540720
+554630130Z-11,11,Rue Carnot,55300,Saint-Mihiel,OSM,48.889520,5.543191
+554630130Z-1,1,Rue Carnot,55300,Saint-Mihiel,OSM,48.889382,5.543801
 554630130Z-12,12,Rue Carnot,55300,Saint-Mihiel,OSM,48.889944,5.542321
+554630130Z-13,13,Rue Carnot,55300,Saint-Mihiel,OSM,48.889540,5.543136
 554630130Z-14,14,Rue Carnot,55300,Saint-Mihiel,OSM,48.889964,5.542244
+554630130Z-15,15,Rue Carnot,55300,Saint-Mihiel,OSM,48.889557,5.543087
 554630130Z-16,16,Rue Carnot,55300,Saint-Mihiel,OSM,48.890020,5.542039
+554630130Z-17,17,Rue Carnot,55300,Saint-Mihiel,OSM,48.889584,5.543013
 554630130Z-18,18,Rue Carnot,55300,Saint-Mihiel,OSM,48.890056,5.541884
+554630130Z-19,19,Rue Carnot,55300,Saint-Mihiel,OSM,48.889644,5.542850
 554630130Z-20,20,Rue Carnot,55300,Saint-Mihiel,OSM,48.890089,5.541711
+554630130Z-21,21,Rue Carnot,55300,Saint-Mihiel,OSM,48.889671,5.542775
 554630130Z-22,22,Rue Carnot,55300,Saint-Mihiel,OSM,48.890101,5.541642
+554630130Z-2,2,Rue Carnot,55300,Saint-Mihiel,OSM,48.889797,5.542735
+554630130Z-23,23,Rue Carnot,55300,Saint-Mihiel,OSM,48.889700,5.542696
 554630130Z-24,24,Rue Carnot,55300,Saint-Mihiel,OSM,48.890112,5.541588
+554630130Z-25,25,Rue Carnot,55300,Saint-Mihiel,OSM,48.889733,5.542607
 554630130Z-27,27,Rue Carnot,55300,Saint-Mihiel,OSM,48.889859,5.542232
 554630130Z-29,29,Rue Carnot,55300,Saint-Mihiel,OSM,48.889916,5.542008
 554630130Z-31,31,Rue Carnot,55300,Saint-Mihiel,OSM,48.889942,5.541899
 554630130Z-33,33,Rue Carnot,55300,Saint-Mihiel,OSM,48.889955,5.541833
+554630130Z-3,3,Rue Carnot,55300,Saint-Mihiel,OSM,48.889391,5.543565
 554630130Z-35,35,Rue Carnot,55300,Saint-Mihiel,OSM,48.889965,5.541777
 554630130Z-37,37,Rue Carnot,55300,Saint-Mihiel,OSM,48.889981,5.541681
+554630130Z-4,4,Rue Carnot,55300,Saint-Mihiel,OSM,48.889838,5.542617
+554630130Z-5,5,Rue Carnot,55300,Saint-Mihiel,OSM,48.889424,5.543461
+554630130Z-7,7,Rue Carnot,55300,Saint-Mihiel,OSM,48.889445,5.543402
+554630130Z-9,9,Rue Carnot,55300,Saint-Mihiel,OSM,48.889486,5.543286
 554630140K-11,11,Rue de la Caserne,55300,Saint-Mihiel,OSM,48.888420,5.539111
 554630140K-1,1,Rue de la Caserne,55300,Saint-Mihiel,OSM,48.888888,5.539088
 554630140K-13,13,Rue de la Caserne,55300,Saint-Mihiel,OSM,48.888327,5.539117
@@ -29174,6 +29262,42 @@
 554630150W-7,7,Rue des Champs,55300,Saint-Mihiel,OSM,48.892295,5.541869
 554630150W-8,8,Rue des Champs,55300,Saint-Mihiel,OSM,48.892207,5.541953
 554630150W-9,9,Rue des Champs,55300,Saint-Mihiel,OSM,48.892336,5.541893
+554630180D-11,11,Route de Commercy,55300,Saint-Mihiel,OSM,48.886618,5.538454
+554630180D-1,1,Route de Commercy,55300,Saint-Mihiel,OSM,48.887421,5.538931
+554630180D-13,13,Route de Commercy,55300,Saint-Mihiel,OSM,48.886443,5.538094
+554630180D-15,15,Route de Commercy,55300,Saint-Mihiel,OSM,48.886286,5.537880
+554630180D-17,17,Route de Commercy,55300,Saint-Mihiel,OSM,48.886134,5.537654
+554630180D-19,19,Route de Commercy,55300,Saint-Mihiel,OSM,48.885861,5.537312
+554630180D-21,21,Route de Commercy,55300,Saint-Mihiel,OSM,48.885630,5.537008
+554630180D-2,2,Route de Commercy,55300,Saint-Mihiel,OSM,48.886204,5.537424
+554630180D-23,23,Route de Commercy,55300,Saint-Mihiel,OSM,48.885236,5.536579
+554630180D-25,25,Route de Commercy,55300,Saint-Mihiel,OSM,48.884925,5.536120
+554630180D-2B,2B,Route de Commercy,55300,Saint-Mihiel,OSM,48.885886,5.536943
+554630180D-3,3,Route de Commercy,55300,Saint-Mihiel,OSM,48.887352,5.538894
+554630180D-4,4,Route de Commercy,55300,Saint-Mihiel,OSM,48.885659,5.536728
+554630180D-4B,4B,Route de Commercy,55300,Saint-Mihiel,OSM,48.885542,5.536583
+554630180D-5,5,Route de Commercy,55300,Saint-Mihiel,OSM,48.887282,5.538847
+554630180D-7,7,Route de Commercy,55300,Saint-Mihiel,OSM,48.887213,5.538791
+554630180D-9,9,Route de Commercy,55300,Saint-Mihiel,OSM,48.886910,5.538704
+554630199Z-2,2,Allée Côte des Abasseaux,55300,Saint-Mihiel,OSM,48.886870,5.540103
+554630230H-10,10,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.887943,5.543325
+554630230H-10B,10B,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.887603,5.543108
+554630230H-1,1,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.888208,5.542622
+554630230H-12,12,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.887817,5.543482
+554630230H-14,14,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.887765,5.543706
+554630230H-16,16,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.887764,5.543907
+554630230H-2,2,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.888135,5.542510
+554630230H-3,3,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.888173,5.542770
+554630230H-4,4,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.888111,5.542612
+554630230H-4B,4B,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.888087,5.542719
+554630230H-5,5,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.888199,5.543479
+554630230H-6,6,Rue du Docteur Albert Thierry,55300,Saint-Mihiel,OSM,48.888067,5.542805
+554630235N-10,10,Rue du 12ème Chasseur,55300,Saint-Mihiel,OSM,48.884946,5.533912
+554630235N-12,12,Rue du 12ème Chasseur,55300,Saint-Mihiel,OSM,48.885203,5.533782
+554630235N-2,2,Rue du 12ème Chasseur,55300,Saint-Mihiel,OSM,48.885008,5.535401
+554630235N-4,4,Rue du 12ème Chasseur,55300,Saint-Mihiel,OSM,48.884936,5.535049
+554630235N-6,6,Rue du 12ème Chasseur,55300,Saint-Mihiel,OSM,48.884880,5.534687
+554630235N-8,8,Rue du 12ème Chasseur,55300,Saint-Mihiel,OSM,48.884786,5.534377
 554630240U-10,10,Rue des Écoles,55300,Saint-Mihiel,OSM,48.891212,5.539576
 554630240U-11,11,Rue des Écoles,55300,Saint-Mihiel,OSM,48.891063,5.539962
 554630240U-12,12,Rue des Écoles,55300,Saint-Mihiel,OSM,48.891231,5.539473
@@ -29230,12 +29354,26 @@
 554630300J-6,6,Rue du Four,55300,Saint-Mihiel,OSM,48.890982,5.541659
 554630300J-7,7,Rue du Four,55300,Saint-Mihiel,OSM,48.890786,5.542204
 554630300J-9,9,Rue du Four,55300,Saint-Mihiel,OSM,48.890845,5.542104
+554630320F-11,11,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.885465,5.537869
+554630320F-11B,11B,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.884932,5.537853
+554630320F-11T,11T,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.885226,5.538617
+554630320F-13,13,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.884472,5.537141
+554630320F-17,17,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.884262,5.537243
+554630320F-17B,17B,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.884098,5.537648
+554630320F-3,3,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.886827,5.538919
+554630320F-5,5,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.886214,5.538730
+554630320F-7,7,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.885996,5.538531
+554630320F-9,9,Chemin de la Garenne,55300,Saint-Mihiel,OSM,48.885783,5.538333
 554630340C-11,11,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.889974,5.542468
+554630340C-1,1,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.889847,5.542822
 554630340C-13,13,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.890054,5.542479
 554630340C-15,15,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.890125,5.542461
 554630340C-19,19,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.890285,5.542426
 554630340C-21,21,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.890333,5.542412
 554630340C-23,23,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.890465,5.542388
+554630340C-3,3,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.889884,5.542740
+554630340C-5,5,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.889916,5.542676
+554630340C-7,7,Rue du Général Blaise,55300,Saint-Mihiel,OSM,48.889944,5.542622
 554630350N-10,10,Rue du Général Pershing,55300,Saint-Mihiel,OSM,48.892455,5.541458
 554630350N-11,11,Rue du Général Pershing,55300,Saint-Mihiel,OSM,48.892777,5.541432
 554630350N-1,1,Rue du Général Pershing,55300,Saint-Mihiel,OSM,48.892484,5.541154
@@ -29347,8 +29485,13 @@
 554630460H-7,7,Rue sur Meuse,55300,Saint-Mihiel,OSM,48.891440,5.539306
 554630460H-8,8,Rue sur Meuse,55300,Saint-Mihiel,OSM,48.891640,5.539659
 554630460H-9,9,Rue sur Meuse,55300,Saint-Mihiel,OSM,48.891475,5.539334
+554630480E-1,1,Place des Moines,55300,Saint-Mihiel,OSM,48.888598,5.542721
 554630480E-2,2,Place des Moines,55300,Saint-Mihiel,OSM,48.887744,5.541338
 554630480E-4,4,Place des Moines,55300,Saint-Mihiel,OSM,48.887623,5.541265
+554630480E-5,5,Place des Moines,55300,Saint-Mihiel,OSM,48.889058,5.542845
+554630480E-5B,5B,Place des Moines,55300,Saint-Mihiel,OSM,48.889131,5.542715
+554630480E-5T,5T,Place des Moines,55300,Saint-Mihiel,OSM,48.889201,5.542527
+554630480E-7,7,Place des Moines,55300,Saint-Mihiel,OSM,48.889120,5.542340
 554630490R-10,10,Rue Morguesson,55300,Saint-Mihiel,OSM,48.890337,5.539932
 554630490R-11,11,Rue Morguesson,55300,Saint-Mihiel,OSM,48.890242,5.539896
 554630490R-1,1,Rue Morguesson,55300,Saint-Mihiel,OSM,48.890113,5.540680
@@ -29454,6 +29597,11 @@
 554630640D-4,4,Place du Quartier,55300,Saint-Mihiel,OSM,48.889211,5.538572
 554630640D-6,6,Place du Quartier,55300,Saint-Mihiel,OSM,48.889188,5.538446
 554630640D-8,8,Place du Quartier,55300,Saint-Mihiel,OSM,48.889140,5.538181
+554630650P-10,10,Rue Raymond Poincaré,55300,Saint-Mihiel,OSM,48.889271,5.544612
+554630650P-2,2,Rue Raymond Poincaré,55300,Saint-Mihiel,OSM,48.889367,5.544016
+554630650P-4,4,Rue Raymond Poincaré,55300,Saint-Mihiel,OSM,48.889357,5.544177
+554630650P-6,6,Rue Raymond Poincaré,55300,Saint-Mihiel,OSM,48.889323,5.544340
+554630650P-8,8,Rue Raymond Poincaré,55300,Saint-Mihiel,OSM,48.889295,5.544489
 554630680X-11,11,Rue Roger Brocard,55300,Saint-Mihiel,OSM,48.890100,5.538151
 554630680X-12,12,Rue Roger Brocard,55300,Saint-Mihiel,OSM,48.891135,5.538063
 554630680X-13,13,Rue Roger Brocard,55300,Saint-Mihiel,OSM,48.890313,5.537989
@@ -29528,6 +29676,10 @@
 554630736H-6,6,Impasse Sire Thomas,55300,Saint-Mihiel,OSM,48.890341,5.541069
 554630736H-8,8,Impasse Sire Thomas,55300,Saint-Mihiel,OSM,48.890327,5.541152
 554630746U-2,2,Place du Souvenir Français,55300,Saint-Mihiel,OSM,48.893260,5.539580
+554630780F-10,10,Ruelle de la Tête d'Or,55300,Saint-Mihiel,OSM,48.888832,5.543462
+554630780F-2,2,Ruelle de la Tête d'Or,55300,Saint-Mihiel,OSM,48.888479,5.544062
+554630780F-26,26,Ruelle de la Tête d'Or,55300,Saint-Mihiel,OSM,48.889310,5.542623
+554630780F-8,8,Ruelle de la Tête d'Or,55300,Saint-Mihiel,OSM,48.888720,5.543599
 554630840W-11,11,Rue de Verdun,55300,Saint-Mihiel,OSM,48.893637,5.542641
 554630840W-1,1,Rue de Verdun,55300,Saint-Mihiel,OSM,48.893376,5.542164
 554630840W-13,13,Rue de Verdun,55300,Saint-Mihiel,OSM,48.893679,5.542674
