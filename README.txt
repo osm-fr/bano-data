@@ -42,7 +42,7 @@ BANO est une base de données composite, constituée à partir de différentes s
   - Arles Crau Camargue Montagnette (Licence Ouverte) - juin 2014
   - Ville de Montpellier (Licence Ouverte) - janvier 2014
   - Toulouse Métropole (ODbL) - juin 2014
-  - Rennes Métropole (ODbL) - juin 2014
+  - Rennes Métropole (ODbL) - février 2015
   - Mulhouse Alsace Agglomération (Licence Ouverte) - septembre 2013
   - Grand Nancy (ODbL) - septembre 2013
   - Nantes Métropole (ODbL) - avril 2014
@@ -50,9 +50,10 @@ BANO est une base de données composite, constituée à partir de différentes s
   - Communauté Urbaine de Bordeaux (ODbL) - juin 2014
   - Communauté Urbaine de Strasbourg (Licence Ouverte) - février 2014
   - Communauté Urbaine de Lille Métropole (Licence Ouverte) - juin 2014
-  - Communauté d'Agglomération Metz Métropole (ODbL 1.0) - septembre 2014
+  - Communauté d'Agglomération Metz Métropole (ODbL) - septembre 2014
   - Métropole Nice Côte d'Azur (Licence Ouverte) - janvier 2015
-  - Ville de Limoges (ODbL 1.0) - décembre 2014
+  - Ville de Limoges (ODbL) - décembre 2014
+  - Ville de La Rochelle (ODbL) - février 2015
 - données adresses collectées sur le site du cadastre et fichier FANTOIR (Licence Ouverte) - 2014
 
 
