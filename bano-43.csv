@@ -25295,6 +25295,14 @@
 432240256P-17,17,Rue Fayard Guillaumond,43600,Sainte-Sigolène,C+O,45.244112,4.236730
 432240256P-19B,19BIS,Rue Fayard Guillaumond,43600,Sainte-Sigolène,C+O,45.244181,4.236943
 432240256P-35,35,Rue Fayard Guillaumond,43600,Sainte-Sigolène,C+O,45.244500,4.238045
+432240280R-11,11,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243718,4.235062
+432240280R-1,1,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243487,4.235133
+432240280R-2,2,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243387,4.235175
+432240280R-3,3,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243413,4.235560
+432240280R-4,4,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243489,4.235532
+432240280R-7,7,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243836,4.235605
+432240280R-8,8,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243770,4.235221
+432240280R-9,9,Place du Maréchal Leclerc,43600,Sainte-Sigolène,OSM,45.243718,4.235192
 432240290B-19,19,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240770,4.236421
 432240290B-21,21,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240735,4.236517
 432240290B-23,23,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240717,4.236589
@@ -25307,13 +25315,6 @@
 432240290B-37,37,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240451,4.237363
 432240290B-39,39,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240312,4.237642
 432240290B-41,41,Rue de la Gendarmerie,43600,Sainte-Sigolène,OSM,45.240119,4.238025
-432240292D-1,1,Place du Général Leclerc,43600,Sainte-Sigolène,OSM,45.243487,4.235133
-432240292D-2,2,Place du Général Leclerc,43600,Sainte-Sigolène,OSM,45.243387,4.235175
-432240292D-3,3,Place du Général Leclerc,43600,Sainte-Sigolène,OSM,45.243413,4.235560
-432240292D-4,4,Place du Général Leclerc,43600,Sainte-Sigolène,OSM,45.243489,4.235532
-432240292D-7,7,Place du Général Leclerc,43600,Sainte-Sigolène,OSM,45.243836,4.235605
-432240292D-8,8,Place du Général Leclerc,43600,Sainte-Sigolène,OSM,45.243770,4.235221
-432240292D-9,9,Place du Général Leclerc,43600,Sainte-Sigolène,OSM,45.243718,4.235192
 432240330V-3,3,Rue des Jardins,43600,Sainte-Sigolène,C+O,45.241682,4.232934
 432240335A-1,1,Place Jean Salque,43600,Sainte-Sigolène,OSM,45.241853,4.235744
 432240335A-2,2,Place Jean Salque,43600,Sainte-Sigolène,OSM,45.242032,4.235102
@@ -25606,7 +25607,7 @@
 432360300K-5,5,Petite Place,43140,La Séauve-sur-Semène,CAD,45.293454,4.249069
 432360330T-5,5,Rue Jacques Prevert,43140,La Séauve-sur-Semène,CAD,45.300564,4.256072
 432360342F-9,9,Rue Sainte-Marguerite,43140,La Séauve-sur-Semène,CAD,45.292451,4.251483
-432360360A-88,88,Avenue de la Semène,43140,La Séauve-sur-Semène,OSM,45.295232,4.256296
+432360360A-88,88,Avenue de la Semène,43140,La Séauve-sur-Semène,OSM,45.295207,4.256303
 432410007V-1,1,Route de la Cascade,43370,Solignac-sur-Loire,CAD,44.967391,3.887848
 432410019H-10,10,Rue des Prades,43370,Solignac-sur-Loire,CAD,44.972860,3.883430
 432410019H-11,11,Rue des Prades,43370,Solignac-sur-Loire,CAD,44.972821,3.883336
