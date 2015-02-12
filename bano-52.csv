@@ -2644,6 +2644,8 @@
 520610005W-5,5,Rue des Anciens Combattants 39-45,52700,Bourdons-sur-Rognon,C+O,48.167011,5.349253
 520610005W-7,7,Rue des Anciens Combattants 39-45,52700,Bourdons-sur-Rognon,C+O,48.166837,5.349399
 520610005W-9,9,Rue des Anciens Combattants 39-45,52700,Bourdons-sur-Rognon,C+O,48.166713,5.349527
+520610006X-3,3,Place des Anciens Combattants d'Afrique du Nord,52700,Bourdons-sur-Rognon,C+O,48.166754,5.349094
+520610006X-4,4,Place des Anciens Combattants d'Afrique du Nord,52700,Bourdons-sur-Rognon,C+O,48.166995,5.349106
 520610010B-12,12,Rue de Brethenay,52700,Bourdons-sur-Rognon,C+O,48.166301,5.347093
 520610010B-14,14,Rue de Brethenay,52700,Bourdons-sur-Rognon,C+O,48.165996,5.347349
 520610010B-16,16,Rue de Brethenay,52700,Bourdons-sur-Rognon,C+O,48.165946,5.347292
@@ -2745,7 +2747,7 @@
 520610064K-4,4,Rue Traversière,52700,Bourdons-sur-Rognon,C+O,48.164837,5.347303
 520610064K-6,6,Rue Traversière,52700,Bourdons-sur-Rognon,C+O,48.164747,5.347399
 520610064K-8,8,Rue Traversière,52700,Bourdons-sur-Rognon,C+O,48.164665,5.347496
-520610065L-2,2,Rue de la Tuilerie,52700,Bourdons-sur-Rognon,CAD,48.169024,5.348763
+520610065L-2,2,Rue de la Tuilerie,52700,Bourdons-sur-Rognon,C+O,48.169024,5.348763
 520610067N-10,10,Rue de Vallicote,52700,Bourdons-sur-Rognon,C+O,48.165937,5.350956
 520610067N-1,1,Rue de Vallicote,52700,Bourdons-sur-Rognon,C+O,48.165983,5.350300
 520610067N-12,12,Rue de Vallicote,52700,Bourdons-sur-Rognon,C+O,48.165778,5.351076
@@ -2756,36 +2758,36 @@
 520610067N-6,6,Rue de Vallicote,52700,Bourdons-sur-Rognon,C+O,48.165875,5.350410
 520610067N-7,7,Rue de Vallicote,52700,Bourdons-sur-Rognon,C+O,48.166209,5.351355
 520610067N-8,8,Rue de Vallicote,52700,Bourdons-sur-Rognon,C+O,48.165844,5.350926
-520610070S-10,10,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165553,5.347911
-520610070S-11,11,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165433,5.348561
-520610070S-11B,11BIS,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165453,5.348363
-520610070S-12,12,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165440,5.347593
-520610070S-15,15,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165367,5.347781
-520610070S-16,16,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165287,5.347222
-520610070S-17,17,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165282,5.347533
-520610070S-18,18,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165233,5.347113
-520610070S-19,19,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165259,5.347462
-520610070S-20,20,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165230,5.346821
-520610070S-21,21,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165224,5.347375
-520610070S-2,2,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165830,5.348696
-520610070S-23,23,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165181,5.347271
-520610070S-25,25,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165143,5.347180
-520610070S-26,26,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.164615,5.346254
-520610070S-28,28,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.164394,5.346125
-520610070S-29,29,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165018,5.346909
-520610070S-31,31,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.164962,5.346848
-520610070S-33,33,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.164909,5.346799
-520610070S-3,3,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165811,5.349306
-520610070S-35,35,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.164824,5.346744
-520610070S-37,37,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.164784,5.346657
-520610070S-39,39,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.164726,5.346618
-520610070S-4,4,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165773,5.348556
-520610070S-51,51,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.163721,5.346425
-520610070S-5,5,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165792,5.348923
-520610070S-6,6,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165744,5.348470
-520610070S-7,7,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165743,5.348793
-520610070S-8,8,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165682,5.348283
-520610070S-9,9,Rue de Verdun,52700,Bourdons-sur-Rognon,CAD,48.165648,5.348567
+520610070S-10,10,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165553,5.347911
+520610070S-11,11,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165433,5.348561
+520610070S-11B,11BIS,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165453,5.348363
+520610070S-12,12,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165440,5.347593
+520610070S-15,15,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165367,5.347781
+520610070S-16,16,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165287,5.347222
+520610070S-17,17,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165282,5.347533
+520610070S-18,18,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165233,5.347113
+520610070S-19,19,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165259,5.347462
+520610070S-20,20,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165230,5.346821
+520610070S-21,21,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165224,5.347375
+520610070S-2,2,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165830,5.348696
+520610070S-23,23,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165181,5.347271
+520610070S-25,25,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165143,5.347180
+520610070S-26,26,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.164615,5.346254
+520610070S-28,28,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.164394,5.346125
+520610070S-29,29,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165018,5.346909
+520610070S-31,31,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.164962,5.346848
+520610070S-33,33,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.164909,5.346799
+520610070S-3,3,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165811,5.349306
+520610070S-35,35,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.164824,5.346744
+520610070S-37,37,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.164784,5.346657
+520610070S-39,39,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.164726,5.346618
+520610070S-4,4,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165773,5.348556
+520610070S-51,51,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.163721,5.346425
+520610070S-5,5,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165792,5.348923
+520610070S-6,6,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165744,5.348470
+520610070S-7,7,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165743,5.348793
+520610070S-8,8,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165682,5.348283
+520610070S-9,9,Rue de Verdun,52700,Bourdons-sur-Rognon,C+O,48.165648,5.348567
 520720010D-10,10,Rue du Bois,52000,Brethenay,C+O,48.154104,5.135500
 520720010D-11,11,Rue du Bois,52000,Brethenay,C+O,48.153664,5.135348
 520720010D-1,1,Rue du Bois,52000,Brethenay,C+O,48.154969,5.135864
@@ -13442,19 +13444,19 @@
 521250015D-6,6,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.108051,5.170780
 521250015D-7,7,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107571,5.170949
 521250015D-8,8,Rue de Chamarandes,52000,Chamarandes-Choignes,C+O,48.107918,5.170682
-521250016E-10,10,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097415,5.164586
-521250016E-11,11,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097400,5.164343
-521250016E-12,12,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097638,5.164138
-521250016E-13,13,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097543,5.164036
-521250016E-14,14,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097530,5.164370
-521250016E-1B,1BIS,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.096761,5.165062
-521250016E-3,3,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.096924,5.164979
-521250016E-4,4,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.096978,5.165153
-521250016E-5,5,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097028,5.164736
-521250016E-6,6,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097289,5.164864
-521250016E-7,7,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097191,5.164715
-521250016E-8,8,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097354,5.164722
-521250016E-9,9,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.097299,5.164589
+521250016E-10,10,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097415,5.164586
+521250016E-11,11,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097400,5.164343
+521250016E-12,12,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097638,5.164138
+521250016E-13,13,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097543,5.164036
+521250016E-14,14,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097530,5.164370
+521250016E-1B,1BIS,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.096761,5.165062
+521250016E-3,3,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.096924,5.164979
+521250016E-4,4,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.096978,5.165153
+521250016E-5,5,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097028,5.164736
+521250016E-6,6,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097289,5.164864
+521250016E-7,7,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097191,5.164715
+521250016E-8,8,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097354,5.164722
+521250016E-9,9,Avenue des Htes Charrières Choign,52000,Chamarandes-Choignes,CAD,48.097299,5.164589
 521250017F-10,10,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091648,5.154608
 521250017F-1,1,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091881,5.155624
 521250017F-12,12,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091616,5.154417
@@ -13485,7 +13487,7 @@
 521250017F-7B,7BIS,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091463,5.154121
 521250017F-8,8,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091745,5.154895
 521250017F-9,9,Rue du Château,52000,Chamarandes-Choignes,C+O,48.091381,5.153791
-521250018G-1,1,Avenue des Htes Charrières Chamar,52000,Chamarandes-Choignes,CAD,48.096582,5.165153
+521250018G-1,1,Avenue des Hautes Charrières,52000,Chamarandes-Choignes,C+O,48.096582,5.165153
 521250019H-10B,10BIS,Rue de Chaumont,52000,Chamarandes-Choignes,C+O,48.108173,5.169251
 521250019H-11,11,Rue de Chaumont,52000,Chamarandes-Choignes,C+O,48.108125,5.168982
 521250019H-1,1,Rue de Chaumont,52000,Chamarandes-Choignes,C+O,48.107943,5.170487
@@ -13596,17 +13598,17 @@
 521250045L-1,1,Chemin des Jardins,52000,Chamarandes-Choignes,C+O,48.107930,5.168670
 521250045L-2,2,Chemin des Jardins,52000,Chamarandes-Choignes,C+O,48.107446,5.169465
 521250045L-4,4,Chemin des Jardins,52000,Chamarandes-Choignes,C+O,48.106930,5.169568
-521250046M-10,10,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096447,5.162606
-521250046M-1,1,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.095910,5.163347
-521250046M-12,12,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096528,5.162309
-521250046M-14,14,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096728,5.162205
-521250046M-2,2,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.095760,5.163267
-521250046M-3,3,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096083,5.163183
-521250046M-4,4,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.095929,5.163082
-521250046M-5,5,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096245,5.163014
-521250046M-6,6,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096099,5.162954
-521250046M-7,7,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096398,5.162859
-521250046M-8,8,Impasse de la Gravière A Chamarand,52000,Chamarandes-Choignes,CAD,48.096290,5.162759
+521250046M-10,10,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096447,5.162606
+521250046M-1,1,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.095910,5.163347
+521250046M-12,12,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096528,5.162309
+521250046M-14,14,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096728,5.162205
+521250046M-2,2,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.095760,5.163267
+521250046M-3,3,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096083,5.163183
+521250046M-4,4,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.095929,5.163082
+521250046M-5,5,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096245,5.163014
+521250046M-6,6,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096099,5.162954
+521250046M-7,7,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096398,5.162859
+521250046M-8,8,Impasse de la Gravière,52000,Chamarandes-Choignes,C+O,48.096290,5.162759
 521250048P-10,10,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098038,5.162175
 521250048P-1,1,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.098557,5.162844
 521250048P-12,12,Rue André Jacob,52000,Chamarandes-Choignes,C+O,48.097879,5.162010
@@ -19739,18 +19741,18 @@
 522690380Z-7,7,Rue de la Croisette,52200,Langres,C+O,47.865824,5.334274
 522690380Z-8,8,Rue de la Croisette,52200,Langres,C+O,47.865861,5.334332
 522690380Z-9,9,Rue de la Croisette,52200,Langres,C+O,47.865861,5.334083
-522690385E-10,10,Rue de Dardenay,52200,Langres,C+O,47.862699,5.337491
-522690385E-1,1,Rue de Dardenay,52200,Langres,C+O,47.863048,5.337402
-522690385E-12,12,Rue de Dardenay,52200,Langres,C+O,47.862657,5.337488
-522690385E-14,14,Rue de Dardenay,52200,Langres,C+O,47.862603,5.337514
-522690385E-2,2,Rue de Dardenay,52200,Langres,C+O,47.862992,5.337349
-522690385E-3,3,Rue de Dardenay,52200,Langres,C+O,47.862796,5.337520
-522690385E-4,4,Rue de Dardenay,52200,Langres,C+O,47.862883,5.337391
-522690385E-5,5,Rue de Dardenay,52200,Langres,C+O,47.862476,5.337453
-522690385E-6,6,Rue de Dardenay,52200,Langres,C+O,47.862813,5.337420
-522690385E-7,7,Rue de Dardenay,52200,Langres,C+O,47.862481,5.337341
-522690385E-8,8,Rue de Dardenay,52200,Langres,C+O,47.862764,5.337433
-522690385E-9,9,Rue de Dardenay,52200,Langres,C+O,47.862521,5.337285
+522690385E-10,10,Rue Dardenay,52200,Langres,C+O,47.862699,5.337491
+522690385E-1,1,Rue Dardenay,52200,Langres,C+O,47.863048,5.337402
+522690385E-12,12,Rue Dardenay,52200,Langres,C+O,47.862657,5.337488
+522690385E-14,14,Rue Dardenay,52200,Langres,C+O,47.862603,5.337514
+522690385E-2,2,Rue Dardenay,52200,Langres,C+O,47.862992,5.337349
+522690385E-3,3,Rue Dardenay,52200,Langres,C+O,47.862796,5.337520
+522690385E-4,4,Rue Dardenay,52200,Langres,C+O,47.862883,5.337391
+522690385E-5,5,Rue Dardenay,52200,Langres,C+O,47.862476,5.337453
+522690385E-6,6,Rue Dardenay,52200,Langres,C+O,47.862813,5.337420
+522690385E-7,7,Rue Dardenay,52200,Langres,C+O,47.862481,5.337341
+522690385E-8,8,Rue Dardenay,52200,Langres,C+O,47.862764,5.337433
+522690385E-9,9,Rue Dardenay,52200,Langres,C+O,47.862521,5.337285
 522690390K-1,1,Rue Denfert Rochereau,52200,Langres,C+O,47.859220,5.333689
 522690390K-1B,1BIS,Rue Denfert Rochereau,52200,Langres,C+O,47.859218,5.333854
 522690390K-1T,1TER,Rue Denfert Rochereau,52200,Langres,C+O,47.859239,5.333430
@@ -24540,17 +24542,17 @@
 524260019Z-2,2,Place de la Mairie,52330,Rizaucourt-Buchey,C+O,48.278727,4.865620
 524260019Z-4,4,Place de la Mairie,52330,Rizaucourt-Buchey,C+O,48.278516,4.865546
 524260019Z-6,6,Place de la Mairie,52330,Rizaucourt-Buchey,C+O,48.278402,4.865555
-524260030L-10,10,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
-524260030L-11,11,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
-524260030L-1,1,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
-524260030L-12,12,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
-524260030L-13,13,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
-524260030L-19,19,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
-524260030L-3,3,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
-524260030L-5,5,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
-524260030L-7,7,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
-524260030L-8,8,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
-524260030L-9,9,Rue Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
+524260030L-10,10,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277352,4.864526
+524260030L-11,11,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277509,4.864462
+524260030L-1,1,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.279100,4.864185
+524260030L-12,12,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276950,4.864932
+524260030L-13,13,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277194,4.864456
+524260030L-19,19,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.276328,4.866796
+524260030L-3,3,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278852,4.864235
+524260030L-5,5,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278660,4.864261
+524260030L-7,7,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.278445,4.864221
+524260030L-8,8,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277618,4.864554
+524260030L-9,9,Rue du Pichot,52330,Rizaucourt-Buchey,C+O,48.277839,4.864406
 524260038V-1,1,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278763,4.866126
 524260038V-2,2,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.278152,4.866097
 524260038V-4,4,Rue de la Ruelle,52330,Rizaucourt-Buchey,C+O,48.277838,4.866379
