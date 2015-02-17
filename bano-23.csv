@@ -11351,7 +11351,7 @@
 230870039P-9,9,Rue Maurice Rollinat,23450,Fresselines,C+O,46.383024,1.683669
 23087B041Y-10B,10BIS,Les Combes,23450,Fresselines,C+O,46.402849,1.661239
 230880005Y-11,11,Rue du Bois Sergent,23320,Gartempe,C+O,46.149989,1.737974
-230880005Y-1,1,Rue du Bois Sergent,23320,Gartempe,C+O,46.150113,1.736880
+230880005Y-1,1,Rue du Bois Sergent,23320,Gartempe,OSM,46.150157,1.736941
 230880005Y-15,15,Rue du Bois Sergent,23320,Gartempe,C+O,46.149991,1.738041
 230880005Y-17,17,Rue du Bois Sergent,23320,Gartempe,C+O,46.149993,1.738097
 230880005Y-19,19,Rue du Bois Sergent,23320,Gartempe,C+O,46.150000,1.738514
@@ -25346,7 +25346,7 @@
 232230004K-7,7,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853908,1.689322
 232230004K-9,9,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853813,1.689560
 232230005L-1,1,Route des Écoles,23400,Saint-Moreil,C+O,45.852558,1.689655
-232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851774,1.688718
+232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851986,1.688807
 232230005L-3,3,Route des Écoles,23400,Saint-Moreil,C+O,45.852004,1.689390
 232230006M-11,11,Place de l'Église,23400,Saint-Moreil,C+O,45.853061,1.689426
 232230006M-1,1,Place de l'Église,23400,Saint-Moreil,C+O,45.853711,1.689400
@@ -25896,6 +25896,7 @@
 232420015P-1,1,Place de l'Église,23320,Saint-Silvain-Montaigut,C+O,46.142350,1.751514
 232420015P-2,2,Place de l'Église,23320,Saint-Silvain-Montaigut,C+O,46.142192,1.751213
 232420015P-3,3,Place de l'Église,23320,Saint-Silvain-Montaigut,C+O,46.142117,1.751131
+232420015P-4,4,Place de l'Église,23320,Saint-Silvain-Montaigut,OSM,46.142010,1.751143
 232420020V-11,11,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142840,1.752186
 232420020V-1,1,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.141875,1.751413
 232420020V-12,12,Rue de la Gartempe,23320,Saint-Silvain-Montaigut,C+O,46.142557,1.752190
@@ -26421,6 +26422,7 @@
 232460006M-18,18,Route de Banize,23480,Saint-Sulpice-les-Champs,C+O,45.994029,2.020380
 232460006M-20,20,Route de Banize,23480,Saint-Sulpice-les-Champs,C+O,45.993859,2.020189
 232460006M-22,22,Route de Banize,23480,Saint-Sulpice-les-Champs,C+O,45.993602,2.019901
+232460006M-2,2,Route de Banize,23480,Saint-Sulpice-les-Champs,OSM,45.995222,2.021342
 232460006M-26,26,Route de Banize,23480,Saint-Sulpice-les-Champs,C+O,45.992850,2.019055
 232460006M-28,28,Route de Banize,23480,Saint-Sulpice-les-Champs,C+O,45.992549,2.018718
 232460006M-30,30,Route de Banize,23480,Saint-Sulpice-les-Champs,C+O,45.991917,2.018029

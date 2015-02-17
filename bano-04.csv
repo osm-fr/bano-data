@@ -1032,7 +1032,7 @@
 040190340Z-44,44,Rue Manuel,04400,Barcelonnette,C+O,44.386992,6.650954
 040190340Z-4,4,Rue Manuel,04400,Barcelonnette,C+O,44.387456,6.653320
 040190340Z-45,45,Rue Manuel,04400,Barcelonnette,C+O,44.386922,6.651012
-040190340Z-46,46,Rue Manuel,04400,Barcelonnette,OSM,44.386986,6.650754
+040190340Z-46,46,Rue Manuel,04400,Barcelonnette,OSM,44.386947,6.650606
 040190340Z-47,47,Rue Manuel,04400,Barcelonnette,C+O,44.386911,6.650953
 040190340Z-48,48,Rue Manuel,04400,Barcelonnette,C+O,44.386923,6.650636
 040190340Z-49,49,Rue Manuel,04400,Barcelonnette,OSM,44.386810,6.650845
@@ -4423,24 +4423,25 @@
 040700050M-4,4,Rue Almerad,04000,Digne-les-Bains,CAD,44.088126,6.230623
 040700050M-6,6,Rue Almerad,04000,Digne-les-Bains,CAD,44.088067,6.230803
 040700050M-8,8,Rue Almerad,04000,Digne-les-Bains,CAD,44.088007,6.230984
-040700060Y-10,10,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094367,6.232689
+040700060Y-10,10,Rue Alphonse Richard,04000,Digne-les-Bains,OSM,44.094474,6.232815
 040700060Y-11,11,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.095345,6.234408
-040700060Y-12,12,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094618,6.233348
+040700060Y-12,12,Rue Alphonse Richard,04000,Digne-les-Bains,OSM,44.094469,6.233358
 040700060Y-13,13,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.095428,6.234765
 040700060Y-14,14,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094668,6.233626
 040700060Y-16,16,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094736,6.234004
 040700060Y-18,18,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094767,6.234176
 040700060Y-20,20,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094818,6.234412
 040700060Y-22,22,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094857,6.234624
-040700060Y-2,2,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094339,6.231818
+040700060Y-2,2,Rue Alphonse Richard,04000,Digne-les-Bains,OSM,44.094223,6.231848
 040700060Y-24,24,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094879,6.234748
 040700060Y-26,26,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094606,6.234956
 040700060Y-28,28,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094953,6.235157
 040700060Y-3,3,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094825,6.234137
-040700060Y-4,4,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094424,6.232268
+040700060Y-4,4,Rue Alphonse Richard,04000,Digne-les-Bains,OSM,44.094351,6.232301
 040700060Y-5,5,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094894,6.234513
-040700060Y-6,6,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094455,6.232433
+040700060Y-6,6,Rue Alphonse Richard,04000,Digne-les-Bains,OSM,44.094401,6.232462
 040700060Y-7,7,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.094935,6.234737
+040700060Y-8,8,Rue Alphonse Richard,04000,Digne-les-Bains,OSM,44.094441,6.232621
 040700060Y-9,9,Rue Alphonse Richard,04000,Digne-les-Bains,C+O,44.095159,6.234460
 040700062A-1,1,Chemin des Alpilles,04000,Digne-les-Bains,C+O,44.083786,6.205581
 040700062A-12,12,Chemin des Alpilles,04000,Digne-les-Bains,C+O,44.082939,6.205174
@@ -5051,19 +5052,21 @@
 040700362B-26,26,Rue Charles Grouiller,04000,Digne-les-Bains,C+O,44.106019,6.234464
 040700362B-28,28,Rue Charles Grouiller,04000,Digne-les-Bains,C+O,44.106217,6.234642
 040700362B-5,5,Rue Charles Grouiller,04000,Digne-les-Bains,C+O,44.103422,6.232276
-040700370K-10,10,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093493,6.232536
+040700370K-10,10,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093514,6.232512
 040700370K-11,11,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093825,6.231515
 040700370K-1,1,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093073,6.231840
-040700370K-12,12,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093726,6.232405
-040700370K-13,13,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093938,6.231519
-040700370K-14,14,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093664,6.232180
-040700370K-15,15,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.094203,6.231390
-040700370K-16,16,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093645,6.231770
-040700370K-17,17,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.094424,6.231283
+040700370K-12,12,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093798,6.232406
+040700370K-13,13,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093929,6.231454
+040700370K-13B,13BIS,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.094038,6.230697
+040700370K-14,14,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093729,6.232122
+040700370K-15,15,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.094312,6.231248
+040700370K-16,16,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093688,6.231896
+040700370K-17,17,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.094393,6.231163
+040700370K-18,18,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093937,6.232010
 040700370K-19,19,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.094523,6.231223
-040700370K-21,21,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.094814,6.231158
-040700370K-2,2,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093109,6.231937
-040700370K-23,23,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.094945,6.231015
+040700370K-21,21,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.094784,6.230994
+040700370K-2,2,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093112,6.232088
+040700370K-23,23,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.094907,6.230770
 040700370K-25,25,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.095097,6.230951
 040700370K-26,26,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.095209,6.231006
 040700370K-27,27,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.095235,6.230892
@@ -5073,11 +5076,11 @@
 040700370K-31,31,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.095692,6.230698
 040700370K-3,3,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093344,6.231678
 040700370K-3B,3BIS,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093350,6.231685
-040700370K-4,4,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093244,6.231891
+040700370K-4,4,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093279,6.232034
 040700370K-5,5,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093469,6.231614
-040700370K-6,6,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093401,6.231839
+040700370K-6,6,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093428,6.231953
 040700370K-7,7,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093625,6.231595
-040700370K-8,8,Avenue des Charrois,04000,Digne-les-Bains,C+O,44.093419,6.232220
+040700370K-8,8,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093452,6.232203
 040700370K-9,9,Avenue des Charrois,04000,Digne-les-Bains,OSM,44.093744,6.231553
 040700374P-1,1,Chemin de Chastranelle,04000,Digne-les-Bains,C+O,44.105472,6.205044
 040700374P-3,3,Chemin de Chastranelle,04000,Digne-les-Bains,C+O,44.105445,6.204353
@@ -5300,8 +5303,9 @@
 040700477B-6,6,Rue Cyrille Rouit,04000,Digne-les-Bains,OSM,44.087244,6.224435
 040700477B-7,7,Rue Cyrille Rouit,04000,Digne-les-Bains,OSM,44.087519,6.223739
 040700477B-8,8,Rue Cyrille Rouit,04000,Digne-les-Bains,OSM,44.087318,6.224354
-040700480E-16,16,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.094243,6.230498
-040700480E-18,18,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.094486,6.230481
+040700480E-10,10,Avenue Demontzey,04000,Digne-les-Bains,OSM,44.093763,6.230948
+040700480E-16,16,Avenue Demontzey,04000,Digne-les-Bains,OSM,44.094288,6.230628
+040700480E-18,18,Avenue Demontzey,04000,Digne-les-Bains,OSM,44.094573,6.230772
 040700480E-2,2,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.098534,6.230932
 040700480E-24,24,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.094997,6.230470
 040700480E-34,34,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.096465,6.230445
@@ -5309,9 +5313,9 @@
 040700480E-40,40,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.097246,6.230498
 040700480E-42B,42B,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.097579,6.231015
 040700480E-42C,42C,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.097589,6.231239
-040700480E-4,4,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.093170,6.230712
-040700480E-6,6,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.093311,6.230670
-040700480E-8,8,Avenue Demontzey,04000,Digne-les-Bains,C+O,44.093474,6.230621
+040700480E-4,4,Avenue Demontzey,04000,Digne-les-Bains,OSM,44.093191,6.230849
+040700480E-6,6,Avenue Demontzey,04000,Digne-les-Bains,OSM,44.093349,6.230822
+040700480E-8,8,Avenue Demontzey,04000,Digne-les-Bains,OSM,44.093506,6.230746
 040700481F-10,10,Rue Denis Papin,04000,Digne-les-Bains,C+O,44.075687,6.183803
 040700481F-1,1,Rue Denis Papin,04000,Digne-les-Bains,C+O,44.076421,6.184813
 040700481F-12,12,Rue Denis Papin,04000,Digne-les-Bains,C+O,44.075519,6.183719
@@ -5521,37 +5525,39 @@
 040700630T-8,8,Rue Firmin-Guichard,04000,Digne-les-Bains,C+O,44.085520,6.228747
 040700637A-2,2,Boulevard des Fontaines,04000,Digne-les-Bains,C+O,44.084094,6.251515
 040700637A-4,4,Boulevard des Fontaines,04000,Digne-les-Bains,C+O,44.082493,6.252795
-040700640D-10,10,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092708,6.231780
+040700640D-10,10,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092680,6.231703
 040700640D-11,11,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093051,6.232462
-040700640D-1,1,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092830,6.230917
-040700640D-12,12,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092855,6.231723
+040700640D-1,1,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092901,6.230974
+040700640D-12,12,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092816,6.231733
 040700640D-14,14,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092920,6.232085
 040700640D-15,15,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093080,6.232686
-040700640D-16,16,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092927,6.232226
+040700640D-16,16,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092850,6.232255
 040700640D-17,17,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093324,6.232662
+040700640D-18,18,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092851,6.232388
 040700640D-19,19,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093383,6.232847
-040700640D-20,20,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092960,6.232507
+040700640D-20,20,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092871,6.232537
 040700640D-21,21,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093123,6.233012
-040700640D-22,22,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092959,6.232621
+040700640D-22,22,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092906,6.232648
 040700640D-2,2,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092589,6.230857
 040700640D-23,23,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093135,6.233107
-040700640D-24,24,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092905,6.232812
+040700640D-24,24,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092941,6.232798
 040700640D-25,25,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093154,6.233259
-040700640D-26,26,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092904,6.232824
+040700640D-26,26,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092949,6.233007
 040700640D-27,27,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093175,6.233418
-040700640D-30,30,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093063,6.233163
-040700640D-31,31,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093615,6.233917
-040700640D-32,32,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093095,6.233535
-040700640D-34,34,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093121,6.233713
+040700640D-30,30,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092992,6.233202
+040700640D-31,31,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.093650,6.233867
+040700640D-32,32,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.093023,6.233548
+040700640D-3,3,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092923,6.231254
+040700640D-34,34,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.093053,6.233745
 040700640D-35,35,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093298,6.234183
 040700640D-39,39,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.094006,6.235063
 040700640D-41,41,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.094229,6.234867
-040700640D-42,42,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093082,6.234584
-040700640D-44,44,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093295,6.234517
-040700640D-4,4,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092760,6.231077
-040700640D-5,5,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092932,6.231615
-040700640D-6,6,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092785,6.231241
-040700640D-8,8,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.092818,6.231467
+040700640D-42,42,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.093175,6.234451
+040700640D-44,44,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.093247,6.234575
+040700640D-4,4,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092713,6.231113
+040700640D-5,5,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.093010,6.231663
+040700640D-6,6,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092734,6.231256
+040700640D-8,8,Allée des Fontainiers,04000,Digne-les-Bains,OSM,44.092738,6.231499
 040700640D-9,9,Allée des Fontainiers,04000,Digne-les-Bains,C+O,44.093035,6.232338
 040700651R-11,11,Route des Fonts,04000,Digne-les-Bains,CAD,44.049747,6.193106
 040700651R-1,1,Route des Fonts,04000,Digne-les-Bains,CAD,44.052192,6.186740
@@ -5993,7 +5999,7 @@
 040700799B-7,7,Chemin des Hautes-Sièyes,04000,Digne-les-Bains,C+O,44.087724,6.212377
 040700810N-10,10,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.087967,6.224957
 040700810N-11,11,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.087598,6.225394
-040700810N-1,1,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.088550,6.226112
+040700810N-1,1,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.088364,6.226360
 040700810N-12,12,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.087826,6.224929
 040700810N-13,13,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.087423,6.225240
 040700810N-15,15,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.087196,6.225154
@@ -6032,7 +6038,7 @@
 040700810N-45,45,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.085862,6.222758
 040700810N-46,46,Avenue Henri Jaubert,04000,Digne-les-Bains,C+O,44.085084,6.220924
 040700810N-47,47,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.085770,6.222607
-040700810N-48,48,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.085047,6.220025
+040700810N-48,48,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.085205,6.219822
 040700810N-49,49,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.085475,6.222717
 040700810N-51,51,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.085665,6.222399
 040700810N-52,52,Avenue Henri Jaubert,04000,Digne-les-Bains,OSM,44.084718,6.219755
@@ -6259,7 +6265,7 @@
 040700910X-10,10,Avenue Joseph Reinach,04000,Digne-les-Bains,C+O,44.093932,6.233396
 040700910X-1,1,Avenue Joseph Reinach,04000,Digne-les-Bains,C+O,44.093323,6.233542
 040700910X-12,12,Avenue Joseph Reinach,04000,Digne-les-Bains,C+O,44.094026,6.233358
-040700910X-13,13,Avenue Joseph Reinach,04000,Digne-les-Bains,C+O,44.094425,6.233106
+040700910X-13,13,Avenue Joseph Reinach,04000,Digne-les-Bains,OSM,44.094505,6.232999
 040700910X-17,17,Avenue Joseph Reinach,04000,Digne-les-Bains,C+O,44.095502,6.232681
 040700910X-17B,17BIS,Avenue Joseph Reinach,04000,Digne-les-Bains,C+O,44.095480,6.232340
 040700910X-17Q,17QUATER,Avenue Joseph Reinach,04000,Digne-les-Bains,C+O,44.095437,6.232063
@@ -7042,7 +7048,7 @@
 040701303Z-5,5,Chemin des Prés,04000,Digne-les-Bains,CAD,44.076212,6.204892
 040701303Z-6,6,Chemin des Prés,04000,Digne-les-Bains,CAD,44.075639,6.203968
 040701303Z-8,8,Chemin des Prés,04000,Digne-les-Bains,CAD,44.075478,6.203669
-040701310G-11,11,Rue Prête-à-Partir,04000,Digne-les-Bains,C+O,44.092832,6.231751
+040701310G-11,11,Rue Prête-à-Partir,04000,Digne-les-Bains,OSM,44.092832,6.231845
 040701310G-1,1,Rue Prête-à-Partir,04000,Digne-les-Bains,C+O,44.092460,6.232023
 040701310G-2,2,Rue Prête-à-Partir,04000,Digne-les-Bains,C+O,44.092507,6.232096
 040701310G-3,3,Rue Prête-à-Partir,04000,Digne-les-Bains,OSM,44.092561,6.231994
@@ -9267,10 +9273,10 @@
 040940125P-7352,7352,Rue Jean-Baptiste Malon,04800,Gréoux-les-Bains,C+O,43.759731,5.884710
 040940125P-8,8,Rue Jean-Baptiste Malon,04800,Gréoux-les-Bains,C+O,43.759119,5.884015
 040940125P-9B,9BIS,Rue Jean-Baptiste Malon,04800,Gréoux-les-Bains,C+O,43.759211,5.884088
-040940130V-582,582,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.755874,5.879430
-040940130V-592,592,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.756220,5.879580
+040940130V-582,582,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.755776,5.880198
+040940130V-592,592,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.756156,5.880305
 040940130V-613,613,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.756243,5.880764
-040940130V-623,623,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.756486,5.879751
+040940130V-623,623,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.756471,5.879979
 040940130V-645,645,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.756496,5.880901
 040940130V-673,673,Avenue Jean Moulin,04800,Gréoux-les-Bains,OSM,43.756870,5.880761
 040940130V-7080,7080,Avenue Jean Moulin,04800,Gréoux-les-Bains,C+O,43.756145,5.878939
@@ -11287,7 +11293,7 @@
 041120355L-214,214,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823467,5.787497
 041120355L-245,245,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823264,5.786899
 041120355L-254,254,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823042,5.787330
-041120355L-254,254,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823177,5.787314
+041120355L-254,254,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823529,5.786698
 041120355L-266,266,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823041,5.787428
 041120355L-266,266,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823042,5.787330
 041120355L-286,286,Avenue Frédéric Mistral,04100,Manosque,OSM,43.823042,5.787330
@@ -13194,7 +13200,7 @@
 041120925F-131,131,Rue des Roses,04100,Manosque,OSM,43.821210,5.785953
 041120925F-47,47,Rue des Roses,04100,Manosque,OSM,43.821925,5.786412
 041120925F-55,55,Rue des Roses,04100,Manosque,OSM,43.821925,5.786412
-041120925F-59,59,Rue des Roses,04100,Manosque,OSM,43.821612,5.786796
+041120925F-59,59,Rue des Roses,04100,Manosque,OSM,43.821741,5.786619
 041120925F-82,82,Rue des Roses,04100,Manosque,OSM,43.822338,5.786109
 041120925F-85,85,Rue des Roses,04100,Manosque,OSM,43.821654,5.786323
 041120930L-3,3,Rue Rossini,04100,Manosque,C+O,43.835710,5.783520
@@ -16058,8 +16064,8 @@
 041430489X-1235,1235,Avenue de Traversetolo,04700,Oraison,OSM,43.906065,5.903537
 041430489X-1264,1264,Avenue de Traversetolo,04700,Oraison,OSM,43.906285,5.902465
 041430489X-1299,1299,Avenue de Traversetolo,04700,Oraison,OSM,43.905814,5.903319
-041430489X-1300,1300,Avenue de Traversetolo,04700,Oraison,OSM,43.905909,5.902087
-041430489X-1360,1360,Avenue de Traversetolo,04700,Oraison,OSM,43.905354,5.902228
+041430489X-1300,1300,Avenue de Traversetolo,04700,Oraison,OSM,43.905944,5.901843
+041430489X-1360,1360,Avenue de Traversetolo,04700,Oraison,OSM,43.905372,5.902001
 041430489X-422,422,Avenue de Traversetolo,04700,Oraison,OSM,43.911491,5.909717
 041430489X-460,460,Avenue de Traversetolo,04700,Oraison,OSM,43.911510,5.908932
 041430489X-591,591,Avenue de Traversetolo,04700,Oraison,OSM,43.910208,5.908057
