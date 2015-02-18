@@ -3530,7 +3530,7 @@
 230220002G-2,2,Route des Héros,23270,Bétête,C+O,46.360262,2.083072
 230220002G-3,3,Route des Héros,23270,Bétête,C+O,46.360413,2.083295
 230220002G-5,5,Route des Héros,23270,Bétête,C+O,46.360554,2.083657
-230220003H-10,10,Grande Rue,23270,Bétête,OSM,46.359395,2.078389
+230220003H-10,10,Grande Rue,23270,Bétête,OSM,46.359387,2.078394
 230220003H-11,11,Grande Rue,23270,Bétête,C+O,46.359454,2.077817
 230220003H-1,1,Grande Rue,23270,Bétête,C+O,46.359049,2.076788
 230220003H-13,13,Grande Rue,23270,Bétête,C+O,46.359456,2.078002
@@ -6103,7 +6103,7 @@
 230390035U-8B,8BIS,Rue de la Marche,23800,La Celle-Dunoise,C+O,46.308592,1.769444
 230390035U-9,9,Rue de la Marche,23800,La Celle-Dunoise,C+O,46.308919,1.769683
 230390040Z-11,11,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311414,1.768617
-230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310334,1.769524
+230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310415,1.769245
 230390040Z-13,13,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311698,1.768479
 230390040Z-15,15,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311893,1.768409
 230390040Z-17,17,Route des Peintres,23800,La Celle-Dunoise,C+O,46.312112,1.768313
@@ -6979,7 +6979,7 @@
 230560018B-19,19,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.998095,1.608304
 230560018B-20,20,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.997379,1.608142
 230560018B-21,21,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.998142,1.608321
-230560018B-22,22,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.997651,1.608263
+230560018B-22,22,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,OSM,45.997634,1.608342
 230560018B-23,23,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.998167,1.608331
 230560018B-24,24,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.997787,1.608352
 230560018B-25,25,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.998212,1.608350
@@ -7010,6 +7010,7 @@
 230560018B-55,55,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.999271,1.607165
 230560018B-7,7,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.995177,1.607381
 230560018B-9,9,Rue des Deux Ponts,23430,Châtelus-le-Marcheix,C+O,45.995561,1.608246
+230560020D-1,1,Rue des Écoliers,23430,Châtelus-le-Marcheix,OSM,46.000181,1.606620
 230560020D-2,2,Rue des Écoliers,23430,Châtelus-le-Marcheix,C+O,45.999879,1.606734
 230560020D-3,3,Rue des Écoliers,23430,Châtelus-le-Marcheix,C+O,46.000168,1.606678
 230560020D-4,4,Rue des Écoliers,23430,Châtelus-le-Marcheix,C+O,46.002752,1.606655
@@ -18296,6 +18297,7 @@
 231260018X-12,12,Route du Montalescot,23400,Masbaraud-Mérignat,C+O,45.974325,1.738436
 231260018X-14,14,Route du Montalescot,23400,Masbaraud-Mérignat,C+O,45.973738,1.738054
 231260018X-2,2,Route du Montalescot,23400,Masbaraud-Mérignat,C+O,45.975663,1.739695
+231260018X-3,3,Route du Montalescot,23400,Masbaraud-Mérignat,OSM,45.975687,1.739988
 231260018X-7,7,Route du Montalescot,23400,Masbaraud-Mérignat,C+O,45.975075,1.739228
 231260018X-8,8,Route du Montalescot,23400,Masbaraud-Mérignat,C+O,45.974906,1.738898
 231260018X-9,9,Route du Montalescot,23400,Masbaraud-Mérignat,C+O,45.974864,1.738996
