@@ -17620,7 +17620,7 @@
 552280075L-6,6,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038623,5.656788
 552280075L-8,8,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038338,5.656188
 552280085X-2,2,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038353,5.659221
-552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038788,5.659434
+552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038771,5.658994
 552280095H-10,10,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037507,5.657100
 552280095H-11,11,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037034,5.657047
 552280095H-11B,11BIS,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.036839,5.656716
@@ -17745,7 +17745,7 @@
 552290013P-8,8,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864648,5.540992
 552290013P-9,9,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864483,5.541832
 552290014R-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
-552290014R-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868899,5.550063
+552290014R-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865647,5.538939
 552290014R-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868990,5.550507
 552290014R-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
 552290014R-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
@@ -19487,66 +19487,66 @@
 552640022X-7,7,Place Haroy,55300,Kœur-la-Petite,OSM,48.855540,5.493839
 552640023Y-4,4,Impasse du Gayoir,55300,Kœur-la-Petite,OSM,48.854646,5.493327
 552640023Y-6,6,Impasse du Gayoir,55300,Kœur-la-Petite,OSM,48.854703,5.493185
-552680001G-1,1,Rue de la Basse-Fontaine,55300,Lacroix-sur-Meuse,C+O,48.971880,5.512785
-552680001G-2,2,Rue de la Basse-Fontaine,55300,Lacroix-sur-Meuse,C+O,48.971888,5.512586
-552680001G-3,3,Rue de la Basse-Fontaine,55300,Lacroix-sur-Meuse,C+O,48.971372,5.512200
-552680001G-4,4,Rue de la Basse-Fontaine,55300,Lacroix-sur-Meuse,C+O,48.971757,5.512166
-552680002H-11,11,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973787,5.511166
-552680002H-1,1,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973581,5.510663
-552680002H-13,13,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973853,5.511338
-552680002H-1A,1A,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973594,5.510700
-552680002H-3,3,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973619,5.510744
-552680002H-5,5,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973652,5.510821
-552680002H-7,7,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973698,5.510957
-552680002H-9,9,Rue des Bots,55300,Lacroix-sur-Meuse,CAD,48.973752,5.511078
-552680003J-10,10,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972505,5.514941
-552680003J-11,11,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972583,5.514665
-552680003J-1,1,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972351,5.513808
-552680003J-12,12,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972569,5.515206
-552680003J-13,13,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972631,5.514800
-552680003J-14,14,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972564,5.515895
-552680003J-16,16,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972548,5.516140
-552680003J-17,17,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972679,5.515045
-552680003J-18,18,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972532,5.516351
-552680003J-18B,18BIS,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972532,5.516535
-552680003J-19,19,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972738,5.515256
-552680003J-21,21,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972782,5.515422
-552680003J-2,2,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972227,5.513786
-552680003J-27,27,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.973594,5.516252
-552680003J-3,3,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972402,5.513998
-552680003J-4,4,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972294,5.514139
-552680003J-5,5,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972460,5.514261
-552680003J-6,6,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972343,5.514328
-552680003J-7,7,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972502,5.514410
-552680003J-8,8,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972412,5.514555
-552680003J-9,9,Rue du Chateau,55300,Lacroix-sur-Meuse,CAD,48.972706,5.514450
-552680007N-11,11,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971233,5.513936
-552680007N-11B,11BIS,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971336,5.513847
-552680007N-1,1,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.970676,5.514480
-552680007N-12,12,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972078,5.513533
-552680007N-13,13,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971429,5.513784
-552680007N-13B,13BIS,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971523,5.513723
-552680007N-14,14,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972292,5.513353
-552680007N-16,16,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972400,5.513219
-552680007N-18,18,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972496,5.513024
-552680007N-18B,18BIS,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972589,5.512930
-552680007N-19,19,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971987,5.513376
+552680001G-1,1,Rue de la Basse Fontaine,55300,Lacroix-sur-Meuse,OSM,48.971879,5.512781
+552680001G-2,2,Rue de la Basse Fontaine,55300,Lacroix-sur-Meuse,OSM,48.971897,5.512605
+552680001G-3,3,Rue de la Basse Fontaine,55300,Lacroix-sur-Meuse,OSM,48.971485,5.512423
+552680001G-4,4,Rue de la Basse Fontaine,55300,Lacroix-sur-Meuse,OSM,48.971874,5.512137
+552680002H-11,11,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973804,5.511211
+552680002H-1,1,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973575,5.510650
+552680002H-13,13,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973849,5.511329
+552680002H-1A,1A,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973598,5.510698
+552680002H-3,3,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973622,5.510751
+552680002H-5,5,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973656,5.510834
+552680002H-7,7,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973697,5.510954
+552680002H-9,9,Rue des Bots,55300,Lacroix-sur-Meuse,OSM,48.973755,5.511086
+552680003J-10,10,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972454,5.514786
+552680003J-11,11,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972584,5.514671
+552680003J-1,1,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972353,5.513814
+552680003J-12,12,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972527,5.515244
+552680003J-13,13,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972632,5.514806
+552680003J-14,14,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972151,5.516127
+552680003J-16,16,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972469,5.516195
+552680003J-17,17,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972682,5.515056
+552680003J-18,18,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972365,5.516510
+552680003J-18B,18B,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972296,5.516890
+552680003J-19,19,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972745,5.515239
+552680003J-21,21,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972845,5.515419
+552680003J-2,2,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972228,5.513787
+552680003J-27,27,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.973583,5.516171
+552680003J-3,3,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972405,5.514007
+552680003J-4,4,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972294,5.514141
+552680003J-5,5,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972462,5.514270
+552680003J-6,6,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972093,5.514477
+552680003J-7,7,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972503,5.514416
+552680003J-8,8,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972189,5.514763
+552680003J-9,9,Rue du Château,55300,Lacroix-sur-Meuse,OSM,48.972544,5.514554
+552680007N-11,11,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971237,5.513932
+552680007N-11B,11B,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971321,5.513786
+552680007N-1,1,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.970691,5.514467
+552680007N-12,12,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972090,5.513524
+552680007N-13,13,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971422,5.513774
+552680007N-13B,13B,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971500,5.513715
+552680007N-14,14,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972305,5.513336
+552680007N-16,16,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972401,5.513218
+552680007N-18,18,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972527,5.512987
+552680007N-18B,18B,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972592,5.512928
+552680007N-19,19,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971989,5.513375
 552680007N-20,20,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972527,5.512650
 552680007N-21,21,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972288,5.512522
-552680007N-22,22,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972577,5.512444
-552680007N-2,2,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971103,5.514365
+552680007N-22,22,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972599,5.512442
+552680007N-2,2,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971127,5.514666
 552680007N-23,23,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972269,5.512362
-552680007N-24,24,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972663,5.512271
+552680007N-24,24,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972678,5.512279
 552680007N-25,25,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972439,5.512290
-552680007N-26,26,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.973058,5.512006
+552680007N-26,26,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.973031,5.512034
 552680007N-27,27,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972516,5.512165
-552680007N-28,28,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972974,5.511692
+552680007N-28,28,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.972971,5.511695
 552680007N-29,29,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972569,5.512084
-552680007N-2A,2A,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.970639,5.514774
-552680007N-30,30,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.973242,5.511336
+552680007N-2A,2A,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.970677,5.515010
+552680007N-30,30,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.973243,5.511333
 552680007N-31,31,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972651,5.511941
 552680007N-33,33,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972801,5.511687
-552680007N-3,3,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.970840,5.514360
+552680007N-3,3,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.970836,5.514362
 552680007N-35,35,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972900,5.511482
 552680007N-36,36,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.973868,5.509896
 552680007N-37,37,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.972820,5.511218
@@ -19557,7 +19557,7 @@
 552680007N-42,42,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.974174,5.509091
 552680007N-43,43,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.973225,5.510771
 552680007N-44,44,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.974617,5.508323
-552680007N-4,4,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971240,5.514245
+552680007N-4,4,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971274,5.514335
 552680007N-45,45,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.973285,5.510654
 552680007N-47,47,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.973554,5.510062
 552680007N-48,48,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.974868,5.507828
@@ -19569,7 +19569,7 @@
 552680007N-54,54,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975402,5.506884
 552680007N-54B,54BIS,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975465,5.506778
 552680007N-55,55,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.973820,5.509140
-552680007N-5,5,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.970927,5.514293
+552680007N-5,5,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.970920,5.514292
 552680007N-56,56,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975584,5.506526
 552680007N-57,57,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.974271,5.508638
 552680007N-58,58,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975689,5.506320
@@ -19584,7 +19584,7 @@
 552680007N-64,64,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.976429,5.505002
 552680007N-65,65,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.974574,5.507337
 552680007N-66,66,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.976570,5.504742
-552680007N-6,6,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971332,5.514167
+552680007N-6,6,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971362,5.514259
 552680007N-67,67,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.974869,5.507379
 552680007N-68,68,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.976770,5.504381
 552680007N-69,69,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975065,5.507165
@@ -19593,15 +19593,15 @@
 552680007N-73,73,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975289,5.506728
 552680007N-75,75,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975464,5.506426
 552680007N-77,77,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975530,5.506312
-552680007N-7,7,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971019,5.514110
+552680007N-7,7,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.970960,5.513877
 552680007N-79,79,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975618,5.506157
 552680007N-81,81,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975737,5.505946
 552680007N-83,83,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.975949,5.505571
 552680007N-83B,83BIS,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.976055,5.505381
 552680007N-85,85,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.976892,5.503870
-552680007N-8,8,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971507,5.514013
-552680007N-8T,8TER,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971427,5.514075
-552680007N-9,9,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,C+O,48.971106,5.514031
+552680007N-8,8,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971543,5.514118
+552680007N-8T,8T,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971463,5.514184
+552680007N-9,9,Rue du Général de Gaulle,55300,Lacroix-sur-Meuse,OSM,48.971103,5.513944
 552680008P-10,10,Rue de Gundershoffen,55300,Lacroix-sur-Meuse,CAD,48.972958,5.509923
 552680008P-11,11,Rue de Gundershoffen,55300,Lacroix-sur-Meuse,CAD,48.972034,5.508609
 552680008P-1,1,Rue de Gundershoffen,55300,Lacroix-sur-Meuse,CAD,48.973214,5.510352
@@ -19619,23 +19619,23 @@
 552680008P-7,7,Rue de Gundershoffen,55300,Lacroix-sur-Meuse,CAD,48.972350,5.509250
 552680008P-8,8,Rue de Gundershoffen,55300,Lacroix-sur-Meuse,CAD,48.973055,5.510014
 552680008P-9,9,Rue de Gundershoffen,55300,Lacroix-sur-Meuse,CAD,48.972279,5.509087
-552680009R-10,10,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973625,5.512439
-552680009R-11,11,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973725,5.512040
-552680009R-1,1,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.972697,5.513122
-552680009R-2,2,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973052,5.512902
-552680009R-4,4,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973192,5.512771
-552680009R-5,5,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.972979,5.512853
-552680009R-6,6,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973362,5.512601
-552680009R-7,7,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973153,5.512690
-552680009R-8,8,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973455,5.512513
-552680009R-9,9,Rue Haute,55300,Lacroix-sur-Meuse,CAD,48.973558,5.512261
-552680010S-1,1,Rue du Moulin,55300,Lacroix-sur-Meuse,CAD,48.974199,5.511562
-552680010S-3,3,Rue du Moulin,55300,Lacroix-sur-Meuse,CAD,48.974342,5.511437
-552680010S-4,4,Rue du Moulin,55300,Lacroix-sur-Meuse,CAD,48.974906,5.511531
-552680010S-4B,4BIS,Rue du Moulin,55300,Lacroix-sur-Meuse,CAD,48.975019,5.511767
-552680010S-5,5,Rue du Moulin,55300,Lacroix-sur-Meuse,CAD,48.974488,5.511310
-552680010S-7,7,Rue du Moulin,55300,Lacroix-sur-Meuse,CAD,48.974569,5.511163
-552680010S-9,9,Rue du Moulin,55300,Lacroix-sur-Meuse,CAD,48.974688,5.511219
+552680009R-10,10,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973658,5.512415
+552680009R-11,11,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973726,5.512040
+552680009R-1,1,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.972696,5.513100
+552680009R-2,2,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973048,5.512905
+552680009R-4,4,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973203,5.512761
+552680009R-5,5,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.972985,5.512848
+552680009R-6,6,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973373,5.512590
+552680009R-7,7,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973153,5.512690
+552680009R-8,8,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973456,5.512513
+552680009R-9,9,Rue Haute,55300,Lacroix-sur-Meuse,OSM,48.973552,5.512266
+552680010S-1,1,Rue du Moulin,55300,Lacroix-sur-Meuse,OSM,48.974205,5.511557
+552680010S-3,3,Rue du Moulin,55300,Lacroix-sur-Meuse,OSM,48.974348,5.511434
+552680010S-4,4,Rue du Moulin,55300,Lacroix-sur-Meuse,OSM,48.974916,5.511524
+552680010S-4B,4B,Rue du Moulin,55300,Lacroix-sur-Meuse,OSM,48.975152,5.511497
+552680010S-5,5,Rue du Moulin,55300,Lacroix-sur-Meuse,OSM,48.974493,5.511304
+552680010S-7,7,Rue du Moulin,55300,Lacroix-sur-Meuse,OSM,48.974567,5.511168
+552680010S-9,9,Rue du Moulin,55300,Lacroix-sur-Meuse,OSM,48.974692,5.511225
 552680011T-11,11,Route de Seuzey,55300,Lacroix-sur-Meuse,CAD,48.974967,5.509866
 552680011T-1,1,Route de Seuzey,55300,Lacroix-sur-Meuse,CAD,48.974342,5.509479
 552680011T-13,13,Route de Seuzey,55300,Lacroix-sur-Meuse,CAD,48.975050,5.509915
@@ -19678,30 +19678,30 @@
 552680011T-8,8,Route de Seuzey,55300,Lacroix-sur-Meuse,CAD,48.976052,5.510498
 552680011T-9,9,Route de Seuzey,55300,Lacroix-sur-Meuse,CAD,48.974873,5.509850
 552680012U-2,2,Sentier de la Caserne,55300,Lacroix-sur-Meuse,CAD,48.972567,5.510296
-552680013V-10,10,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973635,5.511623
-552680013V-11,11,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974967,5.513398
-552680013V-1,1,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973764,5.511617
-552680013V-12,12,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973687,5.511760
-552680013V-13,13,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.975088,5.513601
-552680013V-15,15,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.975230,5.513840
-552680013V-16,16,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974162,5.512503
-552680013V-17,17,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.975382,5.514100
-552680013V-18,18,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974243,5.512643
-552680013V-19,19,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.975862,5.513897
-552680013V-20,20,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974433,5.512830
-552680013V-22,22,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974655,5.513140
-552680013V-2,2,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973345,5.511196
-552680013V-24,24,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974846,5.513421
-552680013V-26,26,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.975020,5.513737
-552680013V-30,30,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.975794,5.515040
-552680013V-3,3,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973811,5.511716
-552680013V-4,4,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973422,5.511228
-552680013V-5,5,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974100,5.512053
-552680013V-6,6,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973496,5.511374
-552680013V-7,7,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974250,5.512377
-552680013V-8,8,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973576,5.511525
-552680013V-9,9,Rue de Tourbon,55300,Lacroix-sur-Meuse,C+O,48.974605,5.512973
-552680014W-1,1,Rue de la Varenne,55300,Lacroix-sur-Meuse,C+O,48.971474,5.513164
+552680013V-10,10,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.973635,5.511623
+552680013V-11,11,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.975062,5.513329
+552680013V-1,1,Rue Tourbon,55300,Lacroix-sur-Meuse,C+O,48.973764,5.511617
+552680013V-12,12,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.973687,5.511759
+552680013V-13,13,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.975145,5.513466
+552680013V-15,15,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.975287,5.513729
+552680013V-16,16,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974159,5.512497
+552680013V-17,17,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.975467,5.513938
+552680013V-18,18,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974245,5.512644
+552680013V-19,19,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.975740,5.514313
+552680013V-20,20,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974315,5.513192
+552680013V-22,22,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974607,5.513270
+552680013V-2,2,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.973377,5.511133
+552680013V-24,24,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974746,5.513604
+552680013V-26,26,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974892,5.514035
+552680013V-30,30,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.975696,5.515202
+552680013V-3,3,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.973816,5.511725
+552680013V-4,4,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.973425,5.511234
+552680013V-5,5,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974096,5.512042
+552680013V-6,6,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.973495,5.511373
+552680013V-7,7,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974280,5.512364
+552680013V-8,8,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.973569,5.511512
+552680013V-9,9,Rue Tourbon,55300,Lacroix-sur-Meuse,OSM,48.974608,5.512905
+552680014W-1,1,Rue de la Varenne,55300,Lacroix-sur-Meuse,OSM,48.971475,5.513170
 552680016Y-1,1,Rue du Port,55300,Lacroix-sur-Meuse,CAD,48.971769,5.508356
 552680016Y-3,3,Rue du Port,55300,Lacroix-sur-Meuse,CAD,48.971591,5.508552
 552680016Y-5,5,Rue du Port,55300,Lacroix-sur-Meuse,CAD,48.971367,5.508769
@@ -19723,8 +19723,8 @@
 552680019B-5,5,Rue du Stade,55300,Lacroix-sur-Meuse,OSM,48.967712,5.516123
 552680019B-6,6,Rue du Stade,55300,Lacroix-sur-Meuse,OSM,48.966089,5.515864
 552680019B-8,8,Rue du Stade,55300,Lacroix-sur-Meuse,OSM,48.965916,5.516025
-552680020C-2,2,Rue du Mont,55300,Lacroix-sur-Meuse,CAD,48.971966,5.513719
-552680020C-4,4,Rue du Mont,55300,Lacroix-sur-Meuse,CAD,48.972055,5.513964
+552680020C-2,2,Rue du Mont,55300,Lacroix-sur-Meuse,OSM,48.971964,5.513715
+552680020C-4,4,Rue du Mont,55300,Lacroix-sur-Meuse,OSM,48.972064,5.513992
 552680023F-11,11,Rue des Champs,55300,Lacroix-sur-Meuse,OSM,48.968348,5.516703
 552680023F-1,1,Rue des Champs,55300,Lacroix-sur-Meuse,OSM,48.965858,5.517957
 552680023F-13,13,Rue des Champs,55300,Lacroix-sur-Meuse,OSM,48.968548,5.516530
@@ -19743,21 +19743,21 @@
 552680023F-7,7,Rue des Champs,55300,Lacroix-sur-Meuse,OSM,48.967259,5.517594
 552680023F-9,9,Rue des Champs,55300,Lacroix-sur-Meuse,OSM,48.968192,5.517003
 552680025H-1,1,Rue de la Finotte,55300,Lacroix-sur-Meuse,OSM,48.966486,5.518552
-552680026J-11,11,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.975750,5.513559
-552680026J-1,1,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976063,5.514959
-552680026J-13,13,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.975880,5.513779
-552680026J-15,15,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976018,5.514014
-552680026J-17,17,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976197,5.514237
-552680026J-19,19,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976356,5.514422
-552680026J-21,21,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976409,5.514538
-552680026J-23,23,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976406,5.514602
-552680026J-25,25,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976362,5.514681
-552680026J-27,27,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976216,5.514880
-552680026J-29,29,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976092,5.515047
-552680026J-3,3,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.976240,5.514719
-552680026J-5,5,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.975503,5.513234
-552680026J-7,7,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.975563,5.513153
-552680026J-9,9,Impasse Sous La Vaux,55300,Lacroix-sur-Meuse,CAD,48.975653,5.513211
+552680026J-11,11,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.975750,5.513559
+552680026J-1,1,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976063,5.514959
+552680026J-13,13,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.975880,5.513779
+552680026J-15,15,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976018,5.514014
+552680026J-17,17,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976197,5.514237
+552680026J-19,19,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976356,5.514422
+552680026J-21,21,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976409,5.514538
+552680026J-23,23,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976406,5.514602
+552680026J-25,25,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976362,5.514681
+552680026J-27,27,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.976216,5.514880
+552680026J-29,29,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,OSM,48.976147,5.515245
+552680026J-3,3,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,OSM,48.976163,5.514654
+552680026J-5,5,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.975503,5.513234
+552680026J-7,7,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,C+O,48.975563,5.513153
+552680026J-9,9,Impasse sous la Vaux,55300,Lacroix-sur-Meuse,OSM,48.975707,5.513195
 55268B066J-11,11,Sous Renaud Cote,55300,Lacroix-sur-Meuse,CAD,48.977639,5.510099
 55268B066J-13,13,Sous Renaud Cote,55300,Lacroix-sur-Meuse,CAD,48.977703,5.509943
 55268B066J-15,15,Sous Renaud Cote,55300,Lacroix-sur-Meuse,CAD,48.977708,5.510199
@@ -20447,32 +20447,32 @@
 552790040B-3,3,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488921,5.161933
 552790040B-4,4,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489111,5.162022
 552790040B-5,5,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488807,5.162051
-552790041C-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489134,5.161464
-552790041C-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489439,5.162867
-552790041C-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489404,5.162459
-552790041C-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489603,5.161354
-552790041C-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489021,5.161510
-552790041C-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489248,5.162720
-552790041C-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488821,5.161551
-552790041C-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488764,5.162275
-552790041C-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488754,5.161560
-552790041C-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488793,5.161946
-552790041C-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488514,5.161574
-552790041C-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488782,5.161903
-552790041C-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488650,5.161931
-552790041C-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488761,5.161805
-552790041C-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488077,5.161679
-552790041C-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489700,5.161140
-552790041C-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488494,5.161731
-552790041C-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488060,5.161853
-552790041C-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.487858,5.161946
-552790041C-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489474,5.161413
-552790041C-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489265,5.161561
-552790041C-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489369,5.161342
-552790041C-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489268,5.162132
-552790041C-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489234,5.161411
-552790041C-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489302,5.162289
-552790042D-1,1,Ruelle du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489410,5.162298
+552790042D-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489134,5.161464
+552790042D-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489439,5.162867
+552790042D-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489404,5.162459
+552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489410,5.162298
+552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489603,5.161354
+552790042D-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489021,5.161510
+552790042D-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489248,5.162720
+552790042D-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488821,5.161551
+552790042D-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488764,5.162275
+552790042D-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488754,5.161560
+552790042D-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488793,5.161946
+552790042D-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488514,5.161574
+552790042D-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488782,5.161903
+552790042D-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488650,5.161931
+552790042D-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488761,5.161805
+552790042D-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488077,5.161679
+552790042D-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489700,5.161140
+552790042D-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488494,5.161731
+552790042D-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488060,5.161853
+552790042D-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.487858,5.161946
+552790042D-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489474,5.161413
+552790042D-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489265,5.161561
+552790042D-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489369,5.161342
+552790042D-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489268,5.162132
+552790042D-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489234,5.161411
+552790042D-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489302,5.162289
 552790045G-1,1,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490991,5.163266
 552790045G-2,2,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491024,5.163228
 552790045G-3,3,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491067,5.163178
@@ -24345,192 +24345,192 @@
 553380056M-4T,4TER,Rue de Tabure,55110,Milly-sur-Bradon,C+O,49.399024,5.205414
 553380056M-5,5,Rue de Tabure,55110,Milly-sur-Bradon,C+O,49.399593,5.205369
 553380056M-6,6,Rue de Tabure,55110,Milly-sur-Bradon,C+O,49.399228,5.205687
-553400004X-11,11,Ruelle de la Bouillére,55800,Mognéville,CAD,48.785252,5.003269
-553400004X-1,1,Ruelle de la Bouillére,55800,Mognéville,CAD,48.784222,5.004664
-553400004X-3,3,Ruelle de la Bouillére,55800,Mognéville,CAD,48.784306,5.004562
-553400004X-5,5,Ruelle de la Bouillére,55800,Mognéville,CAD,48.784380,5.004543
-553400004X-7,7,Ruelle de la Bouillére,55800,Mognéville,CAD,48.784490,5.004502
-553400010D-10,10,Rue du Château,55800,Mognéville,CAD,48.782452,5.006789
-553400010D-1,1,Rue du Château,55800,Mognéville,CAD,48.782628,5.006242
-553400010D-12,12,Rue du Château,55800,Mognéville,CAD,48.782414,5.007172
-553400010D-2,2,Rue du Château,55800,Mognéville,CAD,48.782506,5.005523
-553400010D-3,3,Rue du Château,55800,Mognéville,CAD,48.782546,5.006589
-553400010D-3T,3TER,Rue du Château,55800,Mognéville,CAD,48.782617,5.006826
-553400010D-4,4,Rue du Château,55800,Mognéville,CAD,48.782510,5.006234
-553400010D-5,5,Rue du Château,55800,Mognéville,CAD,48.782489,5.007113
-553400010D-8,8,Rue du Château,55800,Mognéville,CAD,48.782466,5.006656
-553400014H-1,1,Chemin de l'Huis Colas,55800,Mognéville,CAD,48.782742,5.002244
-553400014H-3,3,Chemin de l'Huis Colas,55800,Mognéville,CAD,48.782856,5.002107
-553400014H-5,5,Chemin de l'Huis Colas,55800,Mognéville,CAD,48.783078,5.001843
-553400014H-9,9,Chemin de l'Huis Colas,55800,Mognéville,CAD,48.783949,5.001564
-553400018M-10,10,Rue de l'Église,55800,Mognéville,CAD,48.783506,5.005197
-553400018M-11,11,Rue de l'Église,55800,Mognéville,CAD,48.784016,5.004824
-553400018M-1,1,Rue de l'Église,55800,Mognéville,CAD,48.783048,5.005374
-553400018M-13,13,Rue de l'Église,55800,Mognéville,CAD,48.784467,5.004771
-553400018M-14,14,Rue de l'Église,55800,Mognéville,CAD,48.783690,5.005086
-553400018M-15,15,Rue de l'Église,55800,Mognéville,CAD,48.784287,5.005176
-553400018M-18,18,Rue de l'Église,55800,Mognéville,CAD,48.783932,5.005034
-553400018M-20,20,Rue de l'Église,55800,Mognéville,CAD,48.784026,5.005031
-553400018M-2,2,Rue de l'Église,55800,Mognéville,CAD,48.783056,5.005528
-553400018M-3,3,Rue de l'Église,55800,Mognéville,CAD,48.783225,5.005275
-553400018M-5,5,Rue de l'Église,55800,Mognéville,CAD,48.783413,5.005138
-553400018M-7,7,Rue de l'Église,55800,Mognéville,CAD,48.783524,5.005052
-553400018M-8,8,Rue de l'Église,55800,Mognéville,CAD,48.783436,5.005244
-553400018M-9,9,Rue de l'Église,55800,Mognéville,CAD,48.783788,5.004920
-553400022S-10,10,Rue de la Gare,55800,Mognéville,CAD,48.782371,5.002399
-553400022S-11,11,Rue de la Gare,55800,Mognéville,CAD,48.781954,5.001574
-553400022S-1,1,Rue de la Gare,55800,Mognéville,CAD,48.782501,5.003371
-553400022S-2,2,Rue de la Gare,55800,Mognéville,CAD,48.782640,5.003453
-553400022S-4,4,Rue de la Gare,55800,Mognéville,CAD,48.782830,5.003366
-553400022S-7,7,Rue de la Gare,55800,Mognéville,CAD,48.782251,5.002411
-553400022S-9,9,Rue de la Gare,55800,Mognéville,CAD,48.782155,5.002055
-553400025V-1,1,Impasse de la Halle,55800,Mognéville,CAD,48.782443,5.001480
-553400025V-3,3,Impasse de la Halle,55800,Mognéville,CAD,48.782585,5.001346
-553400030A-1,1,Rue du Monument,55800,Mognéville,CAD,48.782807,5.004707
-553400030A-4,4,Rue du Monument,55800,Mognéville,CAD,48.782821,5.004040
-553400032C-2,2,Chemin de la Moye,55800,Mognéville,CAD,48.784759,5.007904
-553400032C-3,3,Chemin de la Moye,55800,Mognéville,CAD,48.784971,5.006727
-553400032C-4,4,Chemin de la Moye,55800,Mognéville,CAD,48.784429,5.008894
-553400032C-5,5,Chemin de la Moye,55800,Mognéville,CAD,48.785171,5.008037
-553400035F-4,4,Chemin du Parfondpre,55800,Mognéville,CAD,48.785741,4.998159
-553400035F-6,6,Chemin du Parfondpre,55800,Mognéville,CAD,48.785469,4.998394
-553400035F-7,7,Chemin du Parfondpre,55800,Mognéville,CAD,48.784912,4.998356
-553400037H-8,8,Ruelle Pierrot,55800,Mognéville,CAD,48.782972,5.004019
-553400042N-10,10,Rue de Rippe,55800,Mognéville,CAD,48.780711,5.004184
-553400042N-1,1,Rue de Rippe,55800,Mognéville,CAD,48.780982,5.005524
-553400042N-12,12,Rue de Rippe,55800,Mognéville,CAD,48.780553,5.003541
-553400042N-15,15,Rue de Rippe,55800,Mognéville,CAD,48.779950,5.003715
-553400042N-17,17,Rue de Rippe,55800,Mognéville,CAD,48.780289,5.003179
-553400042N-2,2,Rue de Rippe,55800,Mognéville,CAD,48.780908,5.004910
-553400042N-4,4,Rue de Rippe,55800,Mognéville,CAD,48.780833,5.004635
-553400042N-7,7,Rue de Rippe,55800,Mognéville,CAD,48.780779,5.004929
-553400042N-9,9,Rue de Rippe,55800,Mognéville,CAD,48.780740,5.004677
-553400044R-10,10,Rue Robert Rouy,55800,Mognéville,CAD,48.781167,5.005551
-553400044R-11,11,Rue Robert Rouy,55800,Mognéville,CAD,48.781361,5.004816
-553400044R-1,1,Rue Robert Rouy,55800,Mognéville,CAD,48.780794,5.006337
-553400044R-12,12,Rue Robert Rouy,55800,Mognéville,CAD,48.781304,5.005258
-553400044R-13,13,Rue Robert Rouy,55800,Mognéville,CAD,48.781500,5.004624
-553400044R-14,14,Rue Robert Rouy,55800,Mognéville,CAD,48.781346,5.005189
-553400044R-15,15,Rue Robert Rouy,55800,Mognéville,CAD,48.781619,5.004451
-553400044R-16,16,Rue Robert Rouy,55800,Mognéville,CAD,48.781437,5.005050
-553400044R-17,17,Rue Robert Rouy,55800,Mognéville,CAD,48.781728,5.004307
-553400044R-18,18,Rue Robert Rouy,55800,Mognéville,CAD,48.781586,5.004833
-553400044R-19,19,Rue Robert Rouy,55800,Mognéville,CAD,48.781812,5.004208
-553400044R-21,21,Rue Robert Rouy,55800,Mognéville,CAD,48.781859,5.004161
-553400044R-22,22,Rue Robert Rouy,55800,Mognéville,CAD,48.781811,5.004529
-553400044R-2,2,Rue Robert Rouy,55800,Mognéville,CAD,48.780796,5.006807
-553400044R-23,23,Rue Robert Rouy,55800,Mognéville,CAD,48.781922,5.004098
-553400044R-24,24,Rue Robert Rouy,55800,Mognéville,CAD,48.781909,5.004403
-553400044R-27,27,Rue Robert Rouy,55800,Mognéville,CAD,48.782039,5.003980
-553400044R-28,28,Rue Robert Rouy,55800,Mognéville,CAD,48.782160,5.004100
-553400044R-29,29,Rue Robert Rouy,55800,Mognéville,CAD,48.782098,5.003918
-553400044R-31,31,Rue Robert Rouy,55800,Mognéville,CAD,48.782165,5.003853
-553400044R-32,32,Rue Robert Rouy,55800,Mognéville,CAD,48.782314,5.003963
-553400044R-33,33,Rue Robert Rouy,55800,Mognéville,CAD,48.782242,5.003783
-553400044R-34,34,Rue Robert Rouy,55800,Mognéville,CAD,48.782508,5.003832
-553400044R-36,36,Rue Robert Rouy,55800,Mognéville,CAD,48.783047,5.003666
-553400044R-37,37,Rue Robert Rouy,55800,Mognéville,CAD,48.782479,5.003608
-553400044R-38,38,Rue Robert Rouy,55800,Mognéville,CAD,48.783634,5.003766
-553400044R-39,39,Rue Robert Rouy,55800,Mognéville,CAD,48.782941,5.003454
-553400044R-40,40,Rue Robert Rouy,55800,Mognéville,CAD,48.783723,5.003491
-553400044R-41,41,Rue Robert Rouy,55800,Mognéville,CAD,48.783045,5.003439
-553400044R-42,42,Rue Robert Rouy,55800,Mognéville,CAD,48.783829,5.003455
-553400044R-43,43,Rue Robert Rouy,55800,Mognéville,CAD,48.783272,5.003388
-553400044R-44,44,Rue Robert Rouy,55800,Mognéville,CAD,48.783961,5.003410
-553400044R-4,4,Rue Robert Rouy,55800,Mognéville,CAD,48.780999,5.006488
-553400044R-45,45,Rue Robert Rouy,55800,Mognéville,CAD,48.783465,5.003345
-553400044R-46,46,Rue Robert Rouy,55800,Mognéville,CAD,48.784135,5.003327
-553400044R-47,47,Rue Robert Rouy,55800,Mognéville,CAD,48.783640,5.003339
-553400044R-48,48,Rue Robert Rouy,55800,Mognéville,CAD,48.784281,5.003241
-553400044R-49,49,Rue Robert Rouy,55800,Mognéville,CAD,48.783794,5.003301
-553400044R-50,50,Rue Robert Rouy,55800,Mognéville,CAD,48.784402,5.003157
-553400044R-52,52,Rue Robert Rouy,55800,Mognéville,CAD,48.784557,5.003041
-553400044R-53,53,Rue Robert Rouy,55800,Mognéville,CAD,48.784710,5.002557
-553400044R-54,54,Rue Robert Rouy,55800,Mognéville,CAD,48.784890,5.002728
-553400044R-55,55,Rue Robert Rouy,55800,Mognéville,CAD,48.784847,5.002521
-553400044R-56,56,Rue Robert Rouy,55800,Mognéville,CAD,48.785051,5.002576
-553400044R-57,57,Rue Robert Rouy,55800,Mognéville,CAD,48.784966,5.002417
-553400044R-58,58,Rue Robert Rouy,55800,Mognéville,CAD,48.785128,5.002503
-553400044R-60,60,Rue Robert Rouy,55800,Mognéville,CAD,48.785218,5.002423
-553400044R-6,6,Rue Robert Rouy,55800,Mognéville,CAD,48.781172,5.006046
-553400044R-68,68,Rue Robert Rouy,55800,Mognéville,CAD,48.786538,5.001302
-553400044R-6B,6BIS,Rue Robert Rouy,55800,Mognéville,CAD,48.781176,5.006001
-553400044R-70,70,Rue Robert Rouy,55800,Mognéville,CAD,48.788311,5.000470
-553400044R-8,8,Rue Robert Rouy,55800,Mognéville,CAD,48.781104,5.005806
-553400044R-9,9,Rue Robert Rouy,55800,Mognéville,CAD,48.781261,5.004958
-553400045S-3,3,Rue Sageot,55800,Mognéville,CAD,48.783243,5.004521
-553400045S-4,4,Rue Sageot,55800,Mognéville,CAD,48.783445,5.004390
-553400045S-5,5,Rue Sageot,55800,Mognéville,CAD,48.783277,5.004240
-553400045S-6,6,Rue Sageot,55800,Mognéville,CAD,48.783404,5.004276
-553400045S-8,8,Rue Sageot,55800,Mognéville,CAD,48.783340,5.004117
-553400048V-10,10,Rue Saint-Antoine,55800,Mognéville,CAD,48.782225,5.004570
-553400048V-1,1,Rue Saint-Antoine,55800,Mognéville,CAD,48.782388,5.005171
-553400048V-3,3,Rue Saint-Antoine,55800,Mognéville,CAD,48.782230,5.004879
-553400048V-4,4,Rue Saint-Antoine,55800,Mognéville,CAD,48.782408,5.004952
-553400048V-6,6,Rue Saint-Antoine,55800,Mognéville,CAD,48.782362,5.004859
-553400048V-8,8,Rue Saint-Antoine,55800,Mognéville,CAD,48.782322,5.004780
-553400052Z-10,10,Rue du Tréssaut,55800,Mognéville,CAD,48.785321,5.006058
-553400052Z-1,1,Rue du Tréssaut,55800,Mognéville,CAD,48.784798,5.005852
-553400052Z-12,12,Rue du Tréssaut,55800,Mognéville,CAD,48.785365,5.006040
-553400052Z-13,13,Rue du Tréssaut,55800,Mognéville,CAD,48.785696,5.005748
-553400052Z-14,14,Rue du Tréssaut,55800,Mognéville,CAD,48.785478,5.005992
-553400052Z-15,15,Rue du Tréssaut,55800,Mognéville,CAD,48.785843,5.005665
-553400052Z-16,16,Rue du Tréssaut,55800,Mognéville,CAD,48.785598,5.005929
-553400052Z-18,18,Rue du Tréssaut,55800,Mognéville,CAD,48.785688,5.005905
-553400052Z-19,19,Rue du Tréssaut,55800,Mognéville,CAD,48.786117,5.005522
-553400052Z-20,20,Rue du Tréssaut,55800,Mognéville,CAD,48.785757,5.005875
-553400052Z-22,22,Rue du Tréssaut,55800,Mognéville,CAD,48.785917,5.005813
-553400052Z-2,2,Rue du Tréssaut,55800,Mognéville,CAD,48.784292,5.006168
-553400052Z-24,24,Rue du Tréssaut,55800,Mognéville,CAD,48.786147,5.005650
-553400052Z-25,25,Rue du Tréssaut,55800,Mognéville,CAD,48.786565,5.005186
-553400052Z-26,26,Rue du Tréssaut,55800,Mognéville,CAD,48.786300,5.005543
-553400052Z-27,27,Rue du Tréssaut,55800,Mognéville,CAD,48.786715,5.005067
-553400052Z-28,28,Rue du Tréssaut,55800,Mognéville,CAD,48.786470,5.005425
-553400052Z-29,29,Rue du Tréssaut,55800,Mognéville,CAD,48.786866,5.004938
-553400052Z-30,30,Rue du Tréssaut,55800,Mognéville,CAD,48.786646,5.005282
-553400052Z-31,31,Rue du Tréssaut,55800,Mognéville,CAD,48.787007,5.004804
-553400052Z-32,32,Rue du Tréssaut,55800,Mognéville,CAD,48.786796,5.005143
-553400052Z-33,33,Rue du Tréssaut,55800,Mognéville,CAD,48.787143,5.004675
-553400052Z-3,3,Rue du Tréssaut,55800,Mognéville,CAD,48.784979,5.005991
-553400052Z-34,34,Rue du Tréssaut,55800,Mognéville,CAD,48.786935,5.005015
-553400052Z-4,4,Rue du Tréssaut,55800,Mognéville,CAD,48.784906,5.006218
-553400052Z-5,5,Rue du Tréssaut,55800,Mognéville,CAD,48.785103,5.005981
-553400052Z-6,6,Rue du Tréssaut,55800,Mognéville,CAD,48.784954,5.006203
-553400052Z-7,7,Rue du Tréssaut,55800,Mognéville,CAD,48.785221,5.005930
-553400052Z-8,8,Rue du Tréssaut,55800,Mognéville,CAD,48.785147,5.006113
-553400052Z-9,9,Rue du Tréssaut,55800,Mognéville,CAD,48.785325,5.005885
-553400056D-10,10,Rue de la Varnelle,55800,Mognéville,CAD,48.787419,5.005408
-553400056D-11,11,Rue de la Varnelle,55800,Mognéville,CAD,48.786644,5.005861
-553400056D-1,1,Rue de la Varnelle,55800,Mognéville,CAD,48.787221,5.005435
-553400056D-12,12,Rue de la Varnelle,55800,Mognéville,CAD,48.787459,5.005518
-553400056D-13,13,Rue de la Varnelle,55800,Mognéville,CAD,48.786558,5.005925
-553400056D-14,14,Rue de la Varnelle,55800,Mognéville,CAD,48.787307,5.005501
-553400056D-15,15,Rue de la Varnelle,55800,Mognéville,CAD,48.786436,5.006012
-553400056D-16,16,Rue de la Varnelle,55800,Mognéville,CAD,48.787223,5.005560
-553400056D-17,17,Rue de la Varnelle,55800,Mognéville,CAD,48.786351,5.006072
-553400056D-18,18,Rue de la Varnelle,55800,Mognéville,CAD,48.787150,5.005612
-553400056D-19,19,Rue de la Varnelle,55800,Mognéville,CAD,48.786270,5.006130
-553400056D-1B,1BIS,Rue de la Varnelle,55800,Mognéville,CAD,48.787187,5.004985
-553400056D-20,20,Rue de la Varnelle,55800,Mognéville,CAD,48.787093,5.005654
-553400056D-22,22,Rue de la Varnelle,55800,Mognéville,CAD,48.787032,5.005698
-553400056D-2,2,Rue de la Varnelle,55800,Mognéville,CAD,48.787231,5.004871
-553400056D-24,24,Rue de la Varnelle,55800,Mognéville,CAD,48.786971,5.005742
-553400056D-26,26,Rue de la Varnelle,55800,Mognéville,CAD,48.786878,5.005809
-553400056D-28,28,Rue de la Varnelle,55800,Mognéville,CAD,48.786779,5.005871
-553400056D-30,30,Rue de la Varnelle,55800,Mognéville,CAD,48.786625,5.005990
-553400056D-32,32,Rue de la Varnelle,55800,Mognéville,CAD,48.786546,5.006045
-553400056D-3,3,Rue de la Varnelle,55800,Mognéville,CAD,48.787063,5.005570
-553400056D-34,34,Rue de la Varnelle,55800,Mognéville,CAD,48.786487,5.006088
-553400056D-36,36,Rue de la Varnelle,55800,Mognéville,CAD,48.786375,5.006165
-553400056D-38,38,Rue de la Varnelle,55800,Mognéville,CAD,48.786209,5.006280
-553400056D-40,40,Rue de la Varnelle,55800,Mognéville,CAD,48.786119,5.006313
-553400056D-42,42,Rue de la Varnelle,55800,Mognéville,CAD,48.786081,5.006156
-553400056D-4,4,Rue de la Varnelle,55800,Mognéville,CAD,48.787276,5.005000
-553400056D-5,5,Rue de la Varnelle,55800,Mognéville,CAD,48.786947,5.005654
-553400056D-6,6,Rue de la Varnelle,55800,Mognéville,CAD,48.787319,5.005124
-553400056D-7,7,Rue de la Varnelle,55800,Mognéville,CAD,48.786847,5.005731
-553400056D-8,8,Rue de la Varnelle,55800,Mognéville,CAD,48.787374,5.005281
-553400056D-9,9,Rue de la Varnelle,55800,Mognéville,CAD,48.786714,5.005810
+553400004X-11,11,Ruelle de la Bouillère,55800,Mognéville,C+O,48.785252,5.003269
+553400004X-1,1,Ruelle de la Bouillère,55800,Mognéville,C+O,48.784222,5.004664
+553400004X-3,3,Ruelle de la Bouillère,55800,Mognéville,C+O,48.784306,5.004562
+553400004X-5,5,Ruelle de la Bouillère,55800,Mognéville,C+O,48.784380,5.004543
+553400004X-7,7,Ruelle de la Bouillère,55800,Mognéville,C+O,48.784490,5.004502
+553400010D-10,10,Rue du Château,55800,Mognéville,C+O,48.782452,5.006789
+553400010D-1,1,Rue du Château,55800,Mognéville,C+O,48.782628,5.006242
+553400010D-12,12,Rue du Château,55800,Mognéville,C+O,48.782414,5.007172
+553400010D-2,2,Rue du Château,55800,Mognéville,C+O,48.782506,5.005523
+553400010D-3,3,Rue du Château,55800,Mognéville,C+O,48.782546,5.006589
+553400010D-3T,3TER,Rue du Château,55800,Mognéville,C+O,48.782617,5.006826
+553400010D-4,4,Rue du Château,55800,Mognéville,C+O,48.782510,5.006234
+553400010D-5,5,Rue du Château,55800,Mognéville,C+O,48.782489,5.007113
+553400010D-8,8,Rue du Château,55800,Mognéville,C+O,48.782466,5.006656
+553400014H-1,1,Chemin de l'Huis Colas,55800,Mognéville,C+O,48.782742,5.002244
+553400014H-3,3,Chemin de l'Huis Colas,55800,Mognéville,C+O,48.782856,5.002107
+553400014H-5,5,Chemin de l'Huis Colas,55800,Mognéville,C+O,48.783078,5.001843
+553400014H-9,9,Chemin de l'Huis Colas,55800,Mognéville,C+O,48.783949,5.001564
+553400018M-10,10,Rue de l'Église,55800,Mognéville,C+O,48.783506,5.005197
+553400018M-11,11,Rue de l'Église,55800,Mognéville,C+O,48.784016,5.004824
+553400018M-1,1,Rue de l'Église,55800,Mognéville,C+O,48.783048,5.005374
+553400018M-13,13,Rue de l'Église,55800,Mognéville,C+O,48.784467,5.004771
+553400018M-14,14,Rue de l'Église,55800,Mognéville,C+O,48.783690,5.005086
+553400018M-15,15,Rue de l'Église,55800,Mognéville,C+O,48.784287,5.005176
+553400018M-18,18,Rue de l'Église,55800,Mognéville,C+O,48.783932,5.005034
+553400018M-20,20,Rue de l'Église,55800,Mognéville,C+O,48.784026,5.005031
+553400018M-2,2,Rue de l'Église,55800,Mognéville,C+O,48.783056,5.005528
+553400018M-3,3,Rue de l'Église,55800,Mognéville,C+O,48.783225,5.005275
+553400018M-5,5,Rue de l'Église,55800,Mognéville,C+O,48.783413,5.005138
+553400018M-7,7,Rue de l'Église,55800,Mognéville,C+O,48.783524,5.005052
+553400018M-8,8,Rue de l'Église,55800,Mognéville,C+O,48.783436,5.005244
+553400018M-9,9,Rue de l'Église,55800,Mognéville,C+O,48.783788,5.004920
+553400022S-10,10,Rue de la Gare,55800,Mognéville,C+O,48.782371,5.002399
+553400022S-11,11,Rue de la Gare,55800,Mognéville,C+O,48.781954,5.001574
+553400022S-1,1,Rue de la Gare,55800,Mognéville,C+O,48.782501,5.003371
+553400022S-2,2,Rue de la Gare,55800,Mognéville,C+O,48.782640,5.003453
+553400022S-4,4,Rue de la Gare,55800,Mognéville,C+O,48.782830,5.003366
+553400022S-7,7,Rue de la Gare,55800,Mognéville,C+O,48.782251,5.002411
+553400022S-9,9,Rue de la Gare,55800,Mognéville,C+O,48.782155,5.002055
+553400025V-1,1,Impasse de la Halle,55800,Mognéville,C+O,48.782443,5.001480
+553400025V-3,3,Impasse de la Halle,55800,Mognéville,C+O,48.782585,5.001346
+553400030A-1,1,Rue du Monument,55800,Mognéville,C+O,48.782807,5.004707
+553400030A-4,4,Rue du Monument,55800,Mognéville,C+O,48.782821,5.004040
+553400032C-2,2,Chemin de la Moye,55800,Mognéville,C+O,48.784759,5.007904
+553400032C-3,3,Chemin de la Moye,55800,Mognéville,C+O,48.784971,5.006727
+553400032C-4,4,Chemin de la Moye,55800,Mognéville,C+O,48.784429,5.008894
+553400032C-5,5,Chemin de la Moye,55800,Mognéville,C+O,48.785171,5.008037
+553400035F-4,4,Chemin du Parfondpré,55800,Mognéville,C+O,48.785741,4.998159
+553400035F-6,6,Chemin du Parfondpré,55800,Mognéville,C+O,48.785469,4.998394
+553400035F-7,7,Chemin du Parfondpré,55800,Mognéville,C+O,48.784912,4.998356
+553400037H-8,8,Ruelle Pierrot,55800,Mognéville,C+O,48.782972,5.004019
+553400042N-10,10,Rue de Rippe,55800,Mognéville,C+O,48.780711,5.004184
+553400042N-1,1,Rue de Rippe,55800,Mognéville,C+O,48.780982,5.005524
+553400042N-12,12,Rue de Rippe,55800,Mognéville,C+O,48.780553,5.003541
+553400042N-15,15,Rue de Rippe,55800,Mognéville,C+O,48.779950,5.003715
+553400042N-17,17,Rue de Rippe,55800,Mognéville,C+O,48.780289,5.003179
+553400042N-2,2,Rue de Rippe,55800,Mognéville,C+O,48.780908,5.004910
+553400042N-4,4,Rue de Rippe,55800,Mognéville,C+O,48.780833,5.004635
+553400042N-7,7,Rue de Rippe,55800,Mognéville,C+O,48.780779,5.004929
+553400042N-9,9,Rue de Rippe,55800,Mognéville,C+O,48.780740,5.004677
+553400044R-10,10,Rue Robert Rouy,55800,Mognéville,C+O,48.781167,5.005551
+553400044R-11,11,Rue Robert Rouy,55800,Mognéville,C+O,48.781361,5.004816
+553400044R-1,1,Rue Robert Rouy,55800,Mognéville,C+O,48.780794,5.006337
+553400044R-12,12,Rue Robert Rouy,55800,Mognéville,C+O,48.781304,5.005258
+553400044R-13,13,Rue Robert Rouy,55800,Mognéville,C+O,48.781500,5.004624
+553400044R-14,14,Rue Robert Rouy,55800,Mognéville,C+O,48.781346,5.005189
+553400044R-15,15,Rue Robert Rouy,55800,Mognéville,C+O,48.781619,5.004451
+553400044R-16,16,Rue Robert Rouy,55800,Mognéville,C+O,48.781437,5.005050
+553400044R-17,17,Rue Robert Rouy,55800,Mognéville,C+O,48.781728,5.004307
+553400044R-18,18,Rue Robert Rouy,55800,Mognéville,C+O,48.781586,5.004833
+553400044R-19,19,Rue Robert Rouy,55800,Mognéville,C+O,48.781812,5.004208
+553400044R-21,21,Rue Robert Rouy,55800,Mognéville,C+O,48.781859,5.004161
+553400044R-22,22,Rue Robert Rouy,55800,Mognéville,C+O,48.781811,5.004529
+553400044R-2,2,Rue Robert Rouy,55800,Mognéville,C+O,48.780796,5.006807
+553400044R-23,23,Rue Robert Rouy,55800,Mognéville,C+O,48.781922,5.004098
+553400044R-24,24,Rue Robert Rouy,55800,Mognéville,C+O,48.781909,5.004403
+553400044R-27,27,Rue Robert Rouy,55800,Mognéville,C+O,48.782039,5.003980
+553400044R-28,28,Rue Robert Rouy,55800,Mognéville,C+O,48.782160,5.004100
+553400044R-29,29,Rue Robert Rouy,55800,Mognéville,C+O,48.782098,5.003918
+553400044R-31,31,Rue Robert Rouy,55800,Mognéville,C+O,48.782165,5.003853
+553400044R-32,32,Rue Robert Rouy,55800,Mognéville,C+O,48.782314,5.003963
+553400044R-33,33,Rue Robert Rouy,55800,Mognéville,C+O,48.782242,5.003783
+553400044R-34,34,Rue Robert Rouy,55800,Mognéville,C+O,48.782508,5.003832
+553400044R-36,36,Rue Robert Rouy,55800,Mognéville,C+O,48.783047,5.003666
+553400044R-37,37,Rue Robert Rouy,55800,Mognéville,C+O,48.782479,5.003608
+553400044R-38,38,Rue Robert Rouy,55800,Mognéville,C+O,48.783634,5.003766
+553400044R-39,39,Rue Robert Rouy,55800,Mognéville,C+O,48.782941,5.003454
+553400044R-40,40,Rue Robert Rouy,55800,Mognéville,C+O,48.783723,5.003491
+553400044R-41,41,Rue Robert Rouy,55800,Mognéville,C+O,48.783045,5.003439
+553400044R-42,42,Rue Robert Rouy,55800,Mognéville,C+O,48.783829,5.003455
+553400044R-43,43,Rue Robert Rouy,55800,Mognéville,C+O,48.783272,5.003388
+553400044R-44,44,Rue Robert Rouy,55800,Mognéville,C+O,48.783961,5.003410
+553400044R-4,4,Rue Robert Rouy,55800,Mognéville,C+O,48.780999,5.006488
+553400044R-45,45,Rue Robert Rouy,55800,Mognéville,C+O,48.783465,5.003345
+553400044R-46,46,Rue Robert Rouy,55800,Mognéville,C+O,48.784135,5.003327
+553400044R-47,47,Rue Robert Rouy,55800,Mognéville,C+O,48.783640,5.003339
+553400044R-48,48,Rue Robert Rouy,55800,Mognéville,C+O,48.784281,5.003241
+553400044R-49,49,Rue Robert Rouy,55800,Mognéville,C+O,48.783794,5.003301
+553400044R-50,50,Rue Robert Rouy,55800,Mognéville,C+O,48.784402,5.003157
+553400044R-52,52,Rue Robert Rouy,55800,Mognéville,C+O,48.784557,5.003041
+553400044R-53,53,Rue Robert Rouy,55800,Mognéville,C+O,48.784710,5.002557
+553400044R-54,54,Rue Robert Rouy,55800,Mognéville,C+O,48.784890,5.002728
+553400044R-55,55,Rue Robert Rouy,55800,Mognéville,C+O,48.784847,5.002521
+553400044R-56,56,Rue Robert Rouy,55800,Mognéville,C+O,48.785051,5.002576
+553400044R-57,57,Rue Robert Rouy,55800,Mognéville,C+O,48.784966,5.002417
+553400044R-58,58,Rue Robert Rouy,55800,Mognéville,C+O,48.785128,5.002503
+553400044R-60,60,Rue Robert Rouy,55800,Mognéville,C+O,48.785218,5.002423
+553400044R-6,6,Rue Robert Rouy,55800,Mognéville,C+O,48.781172,5.006046
+553400044R-68,68,Rue Robert Rouy,55800,Mognéville,C+O,48.786538,5.001302
+553400044R-6B,6BIS,Rue Robert Rouy,55800,Mognéville,C+O,48.781176,5.006001
+553400044R-70,70,Rue Robert Rouy,55800,Mognéville,C+O,48.788311,5.000470
+553400044R-8,8,Rue Robert Rouy,55800,Mognéville,C+O,48.781104,5.005806
+553400044R-9,9,Rue Robert Rouy,55800,Mognéville,C+O,48.781261,5.004958
+553400045S-3,3,Rue Sageot,55800,Mognéville,C+O,48.783243,5.004521
+553400045S-4,4,Rue Sageot,55800,Mognéville,C+O,48.783445,5.004390
+553400045S-5,5,Rue Sageot,55800,Mognéville,C+O,48.783277,5.004240
+553400045S-6,6,Rue Sageot,55800,Mognéville,C+O,48.783404,5.004276
+553400045S-8,8,Rue Sageot,55800,Mognéville,C+O,48.783340,5.004117
+553400048V-10,10,Rue Saint-Antoine,55800,Mognéville,C+O,48.782225,5.004570
+553400048V-1,1,Rue Saint-Antoine,55800,Mognéville,C+O,48.782388,5.005171
+553400048V-3,3,Rue Saint-Antoine,55800,Mognéville,C+O,48.782230,5.004879
+553400048V-4,4,Rue Saint-Antoine,55800,Mognéville,C+O,48.782408,5.004952
+553400048V-6,6,Rue Saint-Antoine,55800,Mognéville,C+O,48.782362,5.004859
+553400048V-8,8,Rue Saint-Antoine,55800,Mognéville,C+O,48.782322,5.004780
+553400052Z-10,10,Rue du Tréssaut,55800,Mognéville,C+O,48.785321,5.006058
+553400052Z-1,1,Rue du Tréssaut,55800,Mognéville,C+O,48.784798,5.005852
+553400052Z-12,12,Rue du Tréssaut,55800,Mognéville,C+O,48.785365,5.006040
+553400052Z-13,13,Rue du Tréssaut,55800,Mognéville,C+O,48.785696,5.005748
+553400052Z-14,14,Rue du Tréssaut,55800,Mognéville,C+O,48.785478,5.005992
+553400052Z-15,15,Rue du Tréssaut,55800,Mognéville,C+O,48.785843,5.005665
+553400052Z-16,16,Rue du Tréssaut,55800,Mognéville,C+O,48.785598,5.005929
+553400052Z-18,18,Rue du Tréssaut,55800,Mognéville,C+O,48.785688,5.005905
+553400052Z-19,19,Rue du Tréssaut,55800,Mognéville,C+O,48.786117,5.005522
+553400052Z-20,20,Rue du Tréssaut,55800,Mognéville,C+O,48.785757,5.005875
+553400052Z-22,22,Rue du Tréssaut,55800,Mognéville,C+O,48.785917,5.005813
+553400052Z-2,2,Rue du Tréssaut,55800,Mognéville,C+O,48.784292,5.006168
+553400052Z-24,24,Rue du Tréssaut,55800,Mognéville,C+O,48.786147,5.005650
+553400052Z-25,25,Rue du Tréssaut,55800,Mognéville,C+O,48.786565,5.005186
+553400052Z-26,26,Rue du Tréssaut,55800,Mognéville,C+O,48.786300,5.005543
+553400052Z-27,27,Rue du Tréssaut,55800,Mognéville,C+O,48.786715,5.005067
+553400052Z-28,28,Rue du Tréssaut,55800,Mognéville,C+O,48.786470,5.005425
+553400052Z-29,29,Rue du Tréssaut,55800,Mognéville,C+O,48.786866,5.004938
+553400052Z-30,30,Rue du Tréssaut,55800,Mognéville,C+O,48.786646,5.005282
+553400052Z-31,31,Rue du Tréssaut,55800,Mognéville,C+O,48.787007,5.004804
+553400052Z-32,32,Rue du Tréssaut,55800,Mognéville,C+O,48.786796,5.005143
+553400052Z-33,33,Rue du Tréssaut,55800,Mognéville,C+O,48.787143,5.004675
+553400052Z-3,3,Rue du Tréssaut,55800,Mognéville,C+O,48.784979,5.005991
+553400052Z-34,34,Rue du Tréssaut,55800,Mognéville,C+O,48.786935,5.005015
+553400052Z-4,4,Rue du Tréssaut,55800,Mognéville,C+O,48.784906,5.006218
+553400052Z-5,5,Rue du Tréssaut,55800,Mognéville,C+O,48.785103,5.005981
+553400052Z-6,6,Rue du Tréssaut,55800,Mognéville,C+O,48.784954,5.006203
+553400052Z-7,7,Rue du Tréssaut,55800,Mognéville,C+O,48.785221,5.005930
+553400052Z-8,8,Rue du Tréssaut,55800,Mognéville,C+O,48.785147,5.006113
+553400052Z-9,9,Rue du Tréssaut,55800,Mognéville,C+O,48.785325,5.005885
+553400056D-10,10,Rue de la Varnelle,55800,Mognéville,C+O,48.787419,5.005408
+553400056D-11,11,Rue de la Varnelle,55800,Mognéville,C+O,48.786644,5.005861
+553400056D-1,1,Rue de la Varnelle,55800,Mognéville,C+O,48.787221,5.005435
+553400056D-12,12,Rue de la Varnelle,55800,Mognéville,C+O,48.787459,5.005518
+553400056D-13,13,Rue de la Varnelle,55800,Mognéville,C+O,48.786558,5.005925
+553400056D-14,14,Rue de la Varnelle,55800,Mognéville,C+O,48.787307,5.005501
+553400056D-15,15,Rue de la Varnelle,55800,Mognéville,C+O,48.786436,5.006012
+553400056D-16,16,Rue de la Varnelle,55800,Mognéville,C+O,48.787223,5.005560
+553400056D-17,17,Rue de la Varnelle,55800,Mognéville,C+O,48.786351,5.006072
+553400056D-18,18,Rue de la Varnelle,55800,Mognéville,C+O,48.787150,5.005612
+553400056D-19,19,Rue de la Varnelle,55800,Mognéville,C+O,48.786270,5.006130
+553400056D-1B,1BIS,Rue de la Varnelle,55800,Mognéville,C+O,48.787187,5.004985
+553400056D-20,20,Rue de la Varnelle,55800,Mognéville,C+O,48.787093,5.005654
+553400056D-22,22,Rue de la Varnelle,55800,Mognéville,C+O,48.787032,5.005698
+553400056D-2,2,Rue de la Varnelle,55800,Mognéville,C+O,48.787231,5.004871
+553400056D-24,24,Rue de la Varnelle,55800,Mognéville,C+O,48.786971,5.005742
+553400056D-26,26,Rue de la Varnelle,55800,Mognéville,C+O,48.786878,5.005809
+553400056D-28,28,Rue de la Varnelle,55800,Mognéville,C+O,48.786779,5.005871
+553400056D-30,30,Rue de la Varnelle,55800,Mognéville,C+O,48.786625,5.005990
+553400056D-32,32,Rue de la Varnelle,55800,Mognéville,C+O,48.786546,5.006045
+553400056D-3,3,Rue de la Varnelle,55800,Mognéville,C+O,48.787063,5.005570
+553400056D-34,34,Rue de la Varnelle,55800,Mognéville,C+O,48.786487,5.006088
+553400056D-36,36,Rue de la Varnelle,55800,Mognéville,C+O,48.786375,5.006165
+553400056D-38,38,Rue de la Varnelle,55800,Mognéville,C+O,48.786209,5.006280
+553400056D-40,40,Rue de la Varnelle,55800,Mognéville,C+O,48.786119,5.006313
+553400056D-42,42,Rue de la Varnelle,55800,Mognéville,C+O,48.786081,5.006156
+553400056D-4,4,Rue de la Varnelle,55800,Mognéville,C+O,48.787276,5.005000
+553400056D-5,5,Rue de la Varnelle,55800,Mognéville,C+O,48.786947,5.005654
+553400056D-6,6,Rue de la Varnelle,55800,Mognéville,C+O,48.787319,5.005124
+553400056D-7,7,Rue de la Varnelle,55800,Mognéville,C+O,48.786847,5.005731
+553400056D-8,8,Rue de la Varnelle,55800,Mognéville,C+O,48.787374,5.005281
+553400056D-9,9,Rue de la Varnelle,55800,Mognéville,C+O,48.786714,5.005810
 553450005B-10,10,Rue Baudin,55110,Mont-devant-Sassey,C+O,49.411185,5.167685
 553450005B-11,11,Rue Baudin,55110,Mont-devant-Sassey,C+O,49.411382,5.168475
 553450005B-1,1,Rue Baudin,55110,Mont-devant-Sassey,C+O,49.410941,5.166389
@@ -26015,24 +26015,24 @@
 553660040Y-7,7,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801716,5.076432
 553660040Y-8,8,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801967,5.076217
 553660040Y-9,9,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801673,5.076123
-553660044C-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
-553660044C-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.801758,5.068813
-553660044C-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
-553660044C-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
-553660044C-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
-553660044C-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
-553660044C-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
-553660044C-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802176,5.069226
-553660044C-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
-553660044C-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
-553660044C-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
-553660044C-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
-553660044C-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
-553660044C-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802094,5.068972
-553660044C-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
-553660044C-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802219,5.068592
-553660044C-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
-553660044C-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
+553660045D-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
+553660045D-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811769,5.100625
+553660045D-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
+553660045D-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
+553660045D-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
+553660045D-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
+553660045D-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
+553660045D-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811653,5.100823
+553660045D-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
+553660045D-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
+553660045D-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
+553660045D-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
+553660045D-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
+553660045D-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802094,5.068972
+553660045D-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
+553660045D-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810480,5.108566
+553660045D-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
+553660045D-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
 553660048G-1,1,Route de Mussey,55000,Val-d'Ornain,OSM,48.813646,5.082232
 553660048G-3,3,Route de Mussey,55000,Val-d'Ornain,OSM,48.813365,5.081723
 553660049H-11,11,Rue Fernand Nanty,55000,Val-d'Ornain,OSM,48.804344,5.071459
@@ -26700,123 +26700,123 @@
 553770030P-3,3,Rue du 3 Eme Rac,55700,Nepvant,CAD,49.538567,5.224481
 553770030P-5,5,Rue du 3 Eme Rac,55700,Nepvant,CAD,49.538383,5.224499
 553770030P-7,7,Rue du 3 Eme Rac,55700,Nepvant,CAD,49.538317,5.224509
-553780008L-2,2,Route de Charmont,55800,Nettancourt,CAD,48.877840,4.938545
-553780008L-3,3,Route de Charmont,55800,Nettancourt,CAD,48.876773,4.939787
-553780010N-1,1,Rue du Château,55800,Nettancourt,CAD,48.876043,4.943255
-553780010N-2,2,Rue du Château,55800,Nettancourt,CAD,48.875608,4.942923
-553780013S-10,10,Rue de Chée,55800,Nettancourt,CAD,48.874060,4.944979
-553780013S-11,11,Rue de Chée,55800,Nettancourt,CAD,48.874458,4.944011
-553780013S-1,1,Rue de Chée,55800,Nettancourt,CAD,48.874737,4.943253
-553780013S-13,13,Rue de Chée,55800,Nettancourt,CAD,48.874399,4.944203
-553780013S-15,15,Rue de Chée,55800,Nettancourt,CAD,48.874316,4.944367
-553780013S-17,17,Rue de Chée,55800,Nettancourt,CAD,48.874255,4.944510
-553780013S-19,19,Rue de Chée,55800,Nettancourt,CAD,48.874141,4.944968
-553780013S-2,2,Rue de Chée,55800,Nettancourt,CAD,48.874691,4.943125
-553780013S-3,3,Rue de Chée,55800,Nettancourt,CAD,48.874691,4.943380
-553780013S-4,4,Rue de Chée,55800,Nettancourt,CAD,48.874622,4.943299
-553780013S-5,5,Rue de Chée,55800,Nettancourt,CAD,48.875471,4.943680
-553780013S-6,6,Rue de Chée,55800,Nettancourt,CAD,48.874588,4.943392
-553780013S-7,7,Rue de Chée,55800,Nettancourt,CAD,48.875424,4.944287
-553780013S-8,8,Rue de Chée,55800,Nettancourt,CAD,48.874420,4.943829
-553780013S-9,9,Rue de Chée,55800,Nettancourt,CAD,48.874732,4.944121
-553780020Z-10,10,Rue de l'Église,55800,Nettancourt,CAD,48.873470,4.941555
-553780020Z-12,12,Rue de l'Église,55800,Nettancourt,CAD,48.873420,4.941415
-553780020Z-14,14,Rue de l'Église,55800,Nettancourt,CAD,48.873460,4.940975
-553780020Z-2,2,Rue de l'Église,55800,Nettancourt,CAD,48.873718,4.942472
-553780020Z-3,3,Rue de l'Église,55800,Nettancourt,CAD,48.873203,4.942205
-553780020Z-6,6,Rue de l'Église,55800,Nettancourt,CAD,48.873600,4.941958
-553780020Z-8,8,Rue de l'Église,55800,Nettancourt,CAD,48.873566,4.941840
-553780020Z-9,9,Rue de l'Église,55800,Nettancourt,CAD,48.873449,4.940802
-553780028H-11,11,Rue de la Gare,55800,Nettancourt,CAD,48.880699,4.943101
-553780028H-14,14,Rue de la Gare,55800,Nettancourt,CAD,48.884238,4.945333
-553780028H-16,16,Rue de la Gare,55800,Nettancourt,CAD,48.884367,4.946264
-553780028H-21,21,Rue de la Gare,55800,Nettancourt,CAD,48.887382,4.945360
-553780032M-10,10,Rue de la Halle,55800,Nettancourt,CAD,48.874774,4.942618
-553780032M-11,11,Rue de la Halle,55800,Nettancourt,CAD,48.874806,4.942456
-553780032M-1,1,Rue de la Halle,55800,Nettancourt,CAD,48.873590,4.942679
-553780032M-12,12,Rue de la Halle,55800,Nettancourt,CAD,48.875072,4.942679
-553780032M-13,13,Rue de la Halle,55800,Nettancourt,CAD,48.874979,4.942493
-553780032M-14,14,Rue de la Halle,55800,Nettancourt,CAD,48.875428,4.942789
-553780032M-15,15,Rue de la Halle,55800,Nettancourt,CAD,48.875180,4.942510
-553780032M-17,17,Rue de la Halle,55800,Nettancourt,CAD,48.875324,4.942524
-553780032M-19,19,Rue de la Halle,55800,Nettancourt,CAD,48.875455,4.942510
-553780032M-2,2,Rue de la Halle,55800,Nettancourt,CAD,48.873840,4.942765
-553780032M-3,3,Rue de la Halle,55800,Nettancourt,CAD,48.874050,4.942546
-553780032M-4,4,Rue de la Halle,55800,Nettancourt,CAD,48.874184,4.942645
-553780032M-4B,4BIS,Rue de la Halle,55800,Nettancourt,CAD,48.874302,4.942790
-553780032M-8,8,Rue de la Halle,55800,Nettancourt,CAD,48.874624,4.942603
-553780032M-9,9,Rue de la Halle,55800,Nettancourt,CAD,48.874665,4.942414
-553780035R-11,11,Rue des Juifs,55800,Nettancourt,CAD,48.872807,4.940328
-553780035R-1,1,Rue des Juifs,55800,Nettancourt,CAD,48.873228,4.941276
-553780035R-13,13,Rue des Juifs,55800,Nettancourt,CAD,48.872415,4.940324
-553780035R-15,15,Rue des Juifs,55800,Nettancourt,CAD,48.872133,4.940368
-553780035R-17,17,Rue des Juifs,55800,Nettancourt,CAD,48.871816,4.940500
-553780035R-2,2,Rue des Juifs,55800,Nettancourt,CAD,48.873258,4.941031
-553780035R-3,3,Rue des Juifs,55800,Nettancourt,CAD,48.873099,4.941369
-553780035R-4,4,Rue des Juifs,55800,Nettancourt,CAD,48.873031,4.940653
-553780035R-4B,4BIS,Rue des Juifs,55800,Nettancourt,CAD,48.872894,4.940287
-553780035R-5,5,Rue des Juifs,55800,Nettancourt,CAD,48.873016,4.940827
-553780035R-6,6,Rue des Juifs,55800,Nettancourt,CAD,48.872840,4.940153
-553780035R-7,7,Rue des Juifs,55800,Nettancourt,CAD,48.872930,4.940636
-553780035R-8,8,Rue des Juifs,55800,Nettancourt,CAD,48.872559,4.940146
-553780035R-9,9,Rue des Juifs,55800,Nettancourt,CAD,48.872864,4.940467
-553780040W-10,10,Rue de Leurande,55800,Nettancourt,CAD,48.876089,4.942340
-553780040W-11,11,Rue de Leurande,55800,Nettancourt,CAD,48.876415,4.941988
-553780040W-1,1,Rue de Leurande,55800,Nettancourt,CAD,48.875591,4.942461
-553780040W-12,12,Rue de Leurande,55800,Nettancourt,CAD,48.876238,4.942266
-553780040W-13,13,Rue de Leurande,55800,Nettancourt,CAD,48.876728,4.941800
-553780040W-14,14,Rue de Leurande,55800,Nettancourt,CAD,48.876330,4.942221
-553780040W-15,15,Rue de Leurande,55800,Nettancourt,CAD,48.876888,4.941620
-553780040W-16,16,Rue de Leurande,55800,Nettancourt,CAD,48.876431,4.942172
-553780040W-17,17,Rue de Leurande,55800,Nettancourt,CAD,48.877170,4.941429
-553780040W-18,18,Rue de Leurande,55800,Nettancourt,CAD,48.876561,4.942108
-553780040W-20,20,Rue de Leurande,55800,Nettancourt,CAD,48.876651,4.942062
-553780040W-22,22,Rue de Leurande,55800,Nettancourt,CAD,48.876905,4.941863
-553780040W-2,2,Rue de Leurande,55800,Nettancourt,CAD,48.875646,4.942606
-553780040W-24,24,Rue de Leurande,55800,Nettancourt,CAD,48.877033,4.941770
-553780040W-3,3,Rue de Leurande,55800,Nettancourt,CAD,48.875651,4.942402
-553780040W-5,5,Rue de Leurande,55800,Nettancourt,CAD,48.875862,4.942270
-553780040W-5B,5BIS,Rue de Leurande,55800,Nettancourt,CAD,48.875995,4.942225
-553780040W-6,6,Rue de Leurande,55800,Nettancourt,CAD,48.875814,4.942497
-553780040W-7,7,Rue de Leurande,55800,Nettancourt,CAD,48.876112,4.942156
-553780040W-8,8,Rue de Leurande,55800,Nettancourt,CAD,48.875893,4.942447
-553780045B-10,10,Rue du Moulin,55800,Nettancourt,CAD,48.872220,4.942668
-553780045B-11,11,Rue du Moulin,55800,Nettancourt,CAD,48.871898,4.942706
-553780045B-1,1,Rue du Moulin,55800,Nettancourt,CAD,48.872849,4.943084
-553780045B-12,12,Rue du Moulin,55800,Nettancourt,CAD,48.872070,4.942617
-553780045B-13,13,Rue du Moulin,55800,Nettancourt,CAD,48.871746,4.942690
-553780045B-14,14,Rue du Moulin,55800,Nettancourt,CAD,48.871869,4.942551
-553780045B-15,15,Rue du Moulin,55800,Nettancourt,CAD,48.871624,4.942684
-553780045B-19,19,Rue du Moulin,55800,Nettancourt,CAD,48.871222,4.942731
-553780045B-19B,19BIS,Rue du Moulin,55800,Nettancourt,CAD,48.870843,4.942857
-553780045B-21,21,Rue du Moulin,55800,Nettancourt,CAD,48.870193,4.944290
-553780045B-2,2,Rue du Moulin,55800,Nettancourt,CAD,48.873149,4.942761
-553780045B-3,3,Rue du Moulin,55800,Nettancourt,CAD,48.872517,4.942914
-553780045B-4,4,Rue du Moulin,55800,Nettancourt,CAD,48.873067,4.942828
-553780045B-5,5,Rue du Moulin,55800,Nettancourt,CAD,48.872422,4.942872
-553780045B-6,6,Rue du Moulin,55800,Nettancourt,CAD,48.872655,4.942857
-553780045B-8,8,Rue du Moulin,55800,Nettancourt,CAD,48.872532,4.942796
-553780045B-8B,8BIS,Rue du Moulin,55800,Nettancourt,CAD,48.872359,4.942716
-553780045B-9,9,Rue du Moulin,55800,Nettancourt,CAD,48.872083,4.942747
-553780052J-10,10,Rue de l'Orme,55800,Nettancourt,CAD,48.873875,4.943704
-553780052J-12,12,Rue de l'Orme,55800,Nettancourt,CAD,48.874026,4.943994
-553780052J-16,16,Rue de l'Orme,55800,Nettancourt,CAD,48.874100,4.944293
-553780052J-2,2,Rue de l'Orme,55800,Nettancourt,CAD,48.873240,4.943031
-553780052J-3,3,Rue de l'Orme,55800,Nettancourt,CAD,48.873576,4.943157
-553780052J-4,4,Rue de l'Orme,55800,Nettancourt,CAD,48.873563,4.943247
-553780052J-4B,4BIS,Rue de l'Orme,55800,Nettancourt,CAD,48.873681,4.943344
-553780052J-5,5,Rue de l'Orme,55800,Nettancourt,CAD,48.873970,4.943614
-553780052J-6,6,Rue de l'Orme,55800,Nettancourt,CAD,48.873704,4.943384
-553780052J-7,7,Rue de l'Orme,55800,Nettancourt,CAD,48.874043,4.943817
-553780052J-8,8,Rue de l'Orme,55800,Nettancourt,CAD,48.873761,4.943445
-553780055M-11,11,Rue du Plaisir,55800,Nettancourt,CAD,48.878432,4.942192
-553780055M-1,1,Rue du Plaisir,55800,Nettancourt,CAD,48.877930,4.941003
-553780055M-2,2,Rue du Plaisir,55800,Nettancourt,CAD,48.878418,4.942567
-553780055M-3,3,Rue du Plaisir,55800,Nettancourt,CAD,48.877981,4.941246
-553780055M-4,4,Rue du Plaisir,55800,Nettancourt,CAD,48.878577,4.942773
-553780055M-5,5,Rue du Plaisir,55800,Nettancourt,CAD,48.878039,4.941457
-553780055M-7,7,Rue du Plaisir,55800,Nettancourt,CAD,48.878321,4.941340
-553780055M-9,9,Rue du Plaisir,55800,Nettancourt,CAD,48.878510,4.941965
+553780008L-2,2,Route de Charmont,55800,Nettancourt,C+O,48.877840,4.938545
+553780008L-3,3,Route de Charmont,55800,Nettancourt,C+O,48.876773,4.939787
+553780010N-1,1,Rue du Château,55800,Nettancourt,C+O,48.876043,4.943255
+553780010N-2,2,Rue du Château,55800,Nettancourt,C+O,48.875608,4.942923
+553780013S-10,10,Rue de Chée,55800,Nettancourt,C+O,48.874060,4.944979
+553780013S-11,11,Rue de Chée,55800,Nettancourt,C+O,48.874458,4.944011
+553780013S-1,1,Rue de Chée,55800,Nettancourt,C+O,48.874737,4.943253
+553780013S-13,13,Rue de Chée,55800,Nettancourt,C+O,48.874399,4.944203
+553780013S-15,15,Rue de Chée,55800,Nettancourt,C+O,48.874316,4.944367
+553780013S-17,17,Rue de Chée,55800,Nettancourt,C+O,48.874255,4.944510
+553780013S-19,19,Rue de Chée,55800,Nettancourt,C+O,48.874141,4.944968
+553780013S-2,2,Rue de Chée,55800,Nettancourt,C+O,48.874691,4.943125
+553780013S-3,3,Rue de Chée,55800,Nettancourt,C+O,48.874691,4.943380
+553780013S-4,4,Rue de Chée,55800,Nettancourt,C+O,48.874622,4.943299
+553780013S-5,5,Rue de Chée,55800,Nettancourt,C+O,48.875471,4.943680
+553780013S-6,6,Rue de Chée,55800,Nettancourt,C+O,48.874588,4.943392
+553780013S-7,7,Rue de Chée,55800,Nettancourt,C+O,48.875424,4.944287
+553780013S-8,8,Rue de Chée,55800,Nettancourt,C+O,48.874420,4.943829
+553780013S-9,9,Rue de Chée,55800,Nettancourt,C+O,48.874732,4.944121
+553780020Z-10,10,Rue de l'Église,55800,Nettancourt,C+O,48.873470,4.941555
+553780020Z-12,12,Rue de l'Église,55800,Nettancourt,C+O,48.873420,4.941415
+553780020Z-14,14,Rue de l'Église,55800,Nettancourt,C+O,48.873460,4.940975
+553780020Z-2,2,Rue de l'Église,55800,Nettancourt,C+O,48.873718,4.942472
+553780020Z-3,3,Rue de l'Église,55800,Nettancourt,C+O,48.873203,4.942205
+553780020Z-6,6,Rue de l'Église,55800,Nettancourt,C+O,48.873600,4.941958
+553780020Z-8,8,Rue de l'Église,55800,Nettancourt,C+O,48.873566,4.941840
+553780020Z-9,9,Rue de l'Église,55800,Nettancourt,C+O,48.873449,4.940802
+553780028H-11,11,Rue de la Gare,55800,Nettancourt,C+O,48.880699,4.943101
+553780028H-14,14,Rue de la Gare,55800,Nettancourt,C+O,48.884238,4.945333
+553780028H-16,16,Rue de la Gare,55800,Nettancourt,C+O,48.884367,4.946264
+553780028H-21,21,Rue de la Gare,55800,Nettancourt,C+O,48.887382,4.945360
+553780032M-10,10,Rue de la Halle,55800,Nettancourt,C+O,48.874774,4.942618
+553780032M-11,11,Rue de la Halle,55800,Nettancourt,C+O,48.874806,4.942456
+553780032M-1,1,Rue de la Halle,55800,Nettancourt,C+O,48.873590,4.942679
+553780032M-12,12,Rue de la Halle,55800,Nettancourt,C+O,48.875072,4.942679
+553780032M-13,13,Rue de la Halle,55800,Nettancourt,C+O,48.874979,4.942493
+553780032M-14,14,Rue de la Halle,55800,Nettancourt,C+O,48.875428,4.942789
+553780032M-15,15,Rue de la Halle,55800,Nettancourt,C+O,48.875180,4.942510
+553780032M-17,17,Rue de la Halle,55800,Nettancourt,C+O,48.875324,4.942524
+553780032M-19,19,Rue de la Halle,55800,Nettancourt,C+O,48.875455,4.942510
+553780032M-2,2,Rue de la Halle,55800,Nettancourt,C+O,48.873840,4.942765
+553780032M-3,3,Rue de la Halle,55800,Nettancourt,C+O,48.874050,4.942546
+553780032M-4,4,Rue de la Halle,55800,Nettancourt,C+O,48.874184,4.942645
+553780032M-4B,4BIS,Rue de la Halle,55800,Nettancourt,C+O,48.874302,4.942790
+553780032M-8,8,Rue de la Halle,55800,Nettancourt,C+O,48.874624,4.942603
+553780032M-9,9,Rue de la Halle,55800,Nettancourt,C+O,48.874665,4.942414
+553780035R-11,11,Rue des Juifs,55800,Nettancourt,C+O,48.872807,4.940328
+553780035R-1,1,Rue des Juifs,55800,Nettancourt,C+O,48.873228,4.941276
+553780035R-13,13,Rue des Juifs,55800,Nettancourt,C+O,48.872415,4.940324
+553780035R-15,15,Rue des Juifs,55800,Nettancourt,C+O,48.872133,4.940368
+553780035R-17,17,Rue des Juifs,55800,Nettancourt,C+O,48.871816,4.940500
+553780035R-2,2,Rue des Juifs,55800,Nettancourt,C+O,48.873258,4.941031
+553780035R-3,3,Rue des Juifs,55800,Nettancourt,C+O,48.873099,4.941369
+553780035R-4,4,Rue des Juifs,55800,Nettancourt,C+O,48.873031,4.940653
+553780035R-4B,4BIS,Rue des Juifs,55800,Nettancourt,C+O,48.872894,4.940287
+553780035R-5,5,Rue des Juifs,55800,Nettancourt,C+O,48.873016,4.940827
+553780035R-6,6,Rue des Juifs,55800,Nettancourt,C+O,48.872840,4.940153
+553780035R-7,7,Rue des Juifs,55800,Nettancourt,C+O,48.872930,4.940636
+553780035R-8,8,Rue des Juifs,55800,Nettancourt,C+O,48.872559,4.940146
+553780035R-9,9,Rue des Juifs,55800,Nettancourt,C+O,48.872864,4.940467
+553780040W-10,10,Rue de Leurande,55800,Nettancourt,C+O,48.876089,4.942340
+553780040W-11,11,Rue de Leurande,55800,Nettancourt,C+O,48.876415,4.941988
+553780040W-1,1,Rue de Leurande,55800,Nettancourt,C+O,48.875591,4.942461
+553780040W-12,12,Rue de Leurande,55800,Nettancourt,C+O,48.876238,4.942266
+553780040W-13,13,Rue de Leurande,55800,Nettancourt,C+O,48.876728,4.941800
+553780040W-14,14,Rue de Leurande,55800,Nettancourt,C+O,48.876330,4.942221
+553780040W-15,15,Rue de Leurande,55800,Nettancourt,C+O,48.876888,4.941620
+553780040W-16,16,Rue de Leurande,55800,Nettancourt,C+O,48.876431,4.942172
+553780040W-17,17,Rue de Leurande,55800,Nettancourt,C+O,48.877170,4.941429
+553780040W-18,18,Rue de Leurande,55800,Nettancourt,C+O,48.876561,4.942108
+553780040W-20,20,Rue de Leurande,55800,Nettancourt,C+O,48.876651,4.942062
+553780040W-22,22,Rue de Leurande,55800,Nettancourt,C+O,48.876905,4.941863
+553780040W-2,2,Rue de Leurande,55800,Nettancourt,C+O,48.875646,4.942606
+553780040W-24,24,Rue de Leurande,55800,Nettancourt,C+O,48.877033,4.941770
+553780040W-3,3,Rue de Leurande,55800,Nettancourt,C+O,48.875651,4.942402
+553780040W-5,5,Rue de Leurande,55800,Nettancourt,C+O,48.875862,4.942270
+553780040W-5B,5BIS,Rue de Leurande,55800,Nettancourt,C+O,48.875995,4.942225
+553780040W-6,6,Rue de Leurande,55800,Nettancourt,C+O,48.875814,4.942497
+553780040W-7,7,Rue de Leurande,55800,Nettancourt,C+O,48.876112,4.942156
+553780040W-8,8,Rue de Leurande,55800,Nettancourt,C+O,48.875893,4.942447
+553780045B-10,10,Rue du Moulin,55800,Nettancourt,C+O,48.872220,4.942668
+553780045B-11,11,Rue du Moulin,55800,Nettancourt,C+O,48.871898,4.942706
+553780045B-1,1,Rue du Moulin,55800,Nettancourt,C+O,48.872849,4.943084
+553780045B-12,12,Rue du Moulin,55800,Nettancourt,C+O,48.872070,4.942617
+553780045B-13,13,Rue du Moulin,55800,Nettancourt,C+O,48.871746,4.942690
+553780045B-14,14,Rue du Moulin,55800,Nettancourt,C+O,48.871869,4.942551
+553780045B-15,15,Rue du Moulin,55800,Nettancourt,C+O,48.871624,4.942684
+553780045B-19,19,Rue du Moulin,55800,Nettancourt,C+O,48.871222,4.942731
+553780045B-19B,19BIS,Rue du Moulin,55800,Nettancourt,C+O,48.870843,4.942857
+553780045B-21,21,Rue du Moulin,55800,Nettancourt,C+O,48.870193,4.944290
+553780045B-2,2,Rue du Moulin,55800,Nettancourt,C+O,48.873149,4.942761
+553780045B-3,3,Rue du Moulin,55800,Nettancourt,C+O,48.872517,4.942914
+553780045B-4,4,Rue du Moulin,55800,Nettancourt,C+O,48.873067,4.942828
+553780045B-5,5,Rue du Moulin,55800,Nettancourt,C+O,48.872422,4.942872
+553780045B-6,6,Rue du Moulin,55800,Nettancourt,C+O,48.872655,4.942857
+553780045B-8,8,Rue du Moulin,55800,Nettancourt,C+O,48.872532,4.942796
+553780045B-8B,8BIS,Rue du Moulin,55800,Nettancourt,C+O,48.872359,4.942716
+553780045B-9,9,Rue du Moulin,55800,Nettancourt,C+O,48.872083,4.942747
+553780052J-10,10,Rue de l'Orme,55800,Nettancourt,C+O,48.873875,4.943704
+553780052J-12,12,Rue de l'Orme,55800,Nettancourt,C+O,48.874026,4.943994
+553780052J-16,16,Rue de l'Orme,55800,Nettancourt,C+O,48.874100,4.944293
+553780052J-2,2,Rue de l'Orme,55800,Nettancourt,C+O,48.873240,4.943031
+553780052J-3,3,Rue de l'Orme,55800,Nettancourt,C+O,48.873576,4.943157
+553780052J-4,4,Rue de l'Orme,55800,Nettancourt,C+O,48.873563,4.943247
+553780052J-4B,4BIS,Rue de l'Orme,55800,Nettancourt,C+O,48.873681,4.943344
+553780052J-5,5,Rue de l'Orme,55800,Nettancourt,C+O,48.873970,4.943614
+553780052J-6,6,Rue de l'Orme,55800,Nettancourt,C+O,48.873704,4.943384
+553780052J-7,7,Rue de l'Orme,55800,Nettancourt,C+O,48.874043,4.943817
+553780052J-8,8,Rue de l'Orme,55800,Nettancourt,C+O,48.873761,4.943445
+553780055M-11,11,Rue du Plaisir,55800,Nettancourt,C+O,48.878432,4.942192
+553780055M-1,1,Rue du Plaisir,55800,Nettancourt,C+O,48.877930,4.941003
+553780055M-2,2,Rue du Plaisir,55800,Nettancourt,C+O,48.878418,4.942567
+553780055M-3,3,Rue du Plaisir,55800,Nettancourt,C+O,48.877981,4.941246
+553780055M-4,4,Rue du Plaisir,55800,Nettancourt,C+O,48.878577,4.942773
+553780055M-5,5,Rue du Plaisir,55800,Nettancourt,C+O,48.878039,4.941457
+553780055M-7,7,Rue du Plaisir,55800,Nettancourt,C+O,48.878321,4.941340
+553780055M-9,9,Rue du Plaisir,55800,Nettancourt,C+O,48.878510,4.941965
 553820003N-10,10,Rue Anatole Géas,55800,Neuville-sur-Ornain,OSM,48.822688,5.046610
 553820003N-11,11,Rue Anatole Géas,55800,Neuville-sur-Ornain,OSM,48.822076,5.048285
 553820003N-1,1,Rue Anatole Géas,55800,Neuville-sur-Ornain,OSM,48.823148,5.046304
@@ -27082,7 +27082,7 @@
 553860083H-8,8,Rue des Vergers,55210,Nonsard-Lamarche,C+O,48.933708,5.762749
 553860083H-9,9,Rue des Vergers,55210,Nonsard-Lamarche,C+O,48.933262,5.761740
 55386B033K-1,1,Maléchamp,55210,Nonsard-Lamarche,C+O,48.934332,5.763554
-553880005P-1,1,Ruelle du Grand Jardin,55800,Noyers-Auzécourt,CAD,48.883940,4.972306
+553880005P-1,1,Ruelle du Grand Jardin,55800,Noyers-Auzécourt,C+O,48.883940,4.972306
 553880007S-11,11,Grande Rue,55800,Noyers-Auzécourt,C+O,48.883817,4.992105
 553880007S-1,1,Grande Rue,55800,Noyers-Auzécourt,C+O,48.882736,4.995718
 553880007S-13,13,Grande Rue,55800,Noyers-Auzécourt,C+O,48.883899,4.991862
@@ -27106,9 +27106,9 @@
 553880007S-5,5,Grande Rue,55800,Noyers-Auzécourt,C+O,48.883492,4.993200
 553880007S-6,6,Grande Rue,55800,Noyers-Auzécourt,C+O,48.883514,4.993574
 553880007S-8,8,Grande Rue,55800,Noyers-Auzécourt,C+O,48.883687,4.993227
-553880010V-1,1,Rue de la Louviere,55800,Noyers-Auzécourt,CAD,48.881339,4.970750
-553880010V-3,3,Rue de la Louviere,55800,Noyers-Auzécourt,CAD,48.881258,4.970959
-553880010V-5,5,Rue de la Louviere,55800,Noyers-Auzécourt,CAD,48.881173,4.971187
+553880010V-1,1,Rue de la Louvière,55800,Noyers-Auzécourt,C+O,48.881339,4.970750
+553880010V-3,3,Rue de la Louvière,55800,Noyers-Auzécourt,C+O,48.881258,4.970959
+553880010V-5,5,Rue de la Louvière,55800,Noyers-Auzécourt,C+O,48.881173,4.971187
 553880015A-10,10,Rue de Maurupt,55800,Noyers-Auzécourt,C+O,48.884419,4.974062
 553880015A-11,11,Rue de Maurupt,55800,Noyers-Auzécourt,C+O,48.884554,4.974012
 553880015A-1,1,Rue de Maurupt,55800,Noyers-Auzécourt,C+O,48.885197,4.973054
@@ -27121,41 +27121,41 @@
 553880015A-7,7,Rue de Maurupt,55800,Noyers-Auzécourt,C+O,48.884850,4.973578
 553880015A-8,8,Rue de Maurupt,55800,Noyers-Auzécourt,C+O,48.884482,4.973959
 553880015A-9,9,Rue de Maurupt,55800,Noyers-Auzécourt,C+O,48.884720,4.973769
-553880020F-2,2,Rue du Pont des Perches,55800,Noyers-Auzécourt,CAD,48.885019,4.970275
-553880020F-4,4,Rue du Pont des Perches,55800,Noyers-Auzécourt,CAD,48.885051,4.969719
-553880025L-10,10,Rue Principale,55800,Noyers-Auzécourt,CAD,48.886517,4.972949
-553880025L-11,11,Rue Principale,55800,Noyers-Auzécourt,CAD,48.885543,4.972630
-553880025L-1,1,Rue Principale,55800,Noyers-Auzécourt,CAD,48.884503,4.971342
-553880025L-13,13,Rue Principale,55800,Noyers-Auzécourt,CAD,48.886021,4.972931
-553880025L-15,15,Rue Principale,55800,Noyers-Auzécourt,CAD,48.886347,4.972875
-553880025L-2,2,Rue Principale,55800,Noyers-Auzécourt,CAD,48.884606,4.971977
-553880025L-4,4,Rue Principale,55800,Noyers-Auzécourt,CAD,48.884737,4.972165
-553880025L-5,5,Rue Principale,55800,Noyers-Auzécourt,CAD,48.884680,4.971872
-553880025L-6,6,Rue Principale,55800,Noyers-Auzécourt,CAD,48.885536,4.972839
-553880025L-8,8,Rue Principale,55800,Noyers-Auzécourt,CAD,48.886106,4.973223
-553880025L-9,9,Rue Principale,55800,Noyers-Auzécourt,CAD,48.885449,4.972569
-553880027N-11,11,Rue de Rennecourt,55800,Noyers-Auzécourt,CAD,48.873398,4.956406
-553880030S-11,11,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.883301,4.971737
-553880030S-1,1,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.884364,4.971714
-553880030S-12,12,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.883025,4.971311
-553880030S-13,13,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.882892,4.971943
-553880030S-14,14,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.882404,4.970798
-553880030S-15,15,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.882930,4.971412
-553880030S-16,16,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.882285,4.970665
-553880030S-17,17,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.882457,4.970994
-553880030S-18,18,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.881962,4.970459
-553880030S-21,21,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.881633,4.970626
-553880030S-3,3,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.884169,4.971601
-553880030S-5,5,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.883352,4.971386
-553880030S-7,7,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.883119,4.971497
-553880030S-9,9,Rue Saint-Coppin,55800,Noyers-Auzécourt,CAD,48.883230,4.971616
-553880035X-1,1,Rue de la Seigneurie,55800,Noyers-Auzécourt,CAD,48.885355,4.970453
-553880035X-2,2,Rue de la Seigneurie,55800,Noyers-Auzécourt,CAD,48.884970,4.971310
-553880035X-4,4,Rue de la Seigneurie,55800,Noyers-Auzécourt,CAD,48.885076,4.971085
-553880035X-6,6,Rue de la Seigneurie,55800,Noyers-Auzécourt,CAD,48.885262,4.970750
-553880045H-2,2,Rue de la Voie Romaine,55800,Noyers-Auzécourt,CAD,48.877517,4.959355
-553880045H-3,3,Rue de la Voie Romaine,55800,Noyers-Auzécourt,CAD,48.877837,4.957839
-553880045H-6,6,Rue de la Voie Romaine,55800,Noyers-Auzécourt,CAD,48.877182,4.960017
+553880020F-2,2,Rue du Pont des Perches,55800,Noyers-Auzécourt,C+O,48.885019,4.970275
+553880020F-4,4,Rue du Pont des Perches,55800,Noyers-Auzécourt,C+O,48.885051,4.969719
+553880025L-10,10,Rue Principale,55800,Noyers-Auzécourt,C+O,48.886517,4.972949
+553880025L-11,11,Rue Principale,55800,Noyers-Auzécourt,C+O,48.885543,4.972630
+553880025L-1,1,Rue Principale,55800,Noyers-Auzécourt,C+O,48.884503,4.971342
+553880025L-13,13,Rue Principale,55800,Noyers-Auzécourt,C+O,48.886021,4.972931
+553880025L-15,15,Rue Principale,55800,Noyers-Auzécourt,C+O,48.886347,4.972875
+553880025L-2,2,Rue Principale,55800,Noyers-Auzécourt,C+O,48.884606,4.971977
+553880025L-4,4,Rue Principale,55800,Noyers-Auzécourt,C+O,48.884737,4.972165
+553880025L-5,5,Rue Principale,55800,Noyers-Auzécourt,C+O,48.884680,4.971872
+553880025L-6,6,Rue Principale,55800,Noyers-Auzécourt,C+O,48.885536,4.972839
+553880025L-8,8,Rue Principale,55800,Noyers-Auzécourt,C+O,48.886106,4.973223
+553880025L-9,9,Rue Principale,55800,Noyers-Auzécourt,C+O,48.885449,4.972569
+553880027N-11,11,Rue de Rennecourt,55800,Noyers-Auzécourt,C+O,48.873398,4.956406
+553880030S-11,11,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.883301,4.971737
+553880030S-1,1,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.884364,4.971714
+553880030S-12,12,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.883025,4.971311
+553880030S-13,13,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.882892,4.971943
+553880030S-14,14,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.882404,4.970798
+553880030S-15,15,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.882930,4.971412
+553880030S-16,16,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.882285,4.970665
+553880030S-17,17,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.882457,4.970994
+553880030S-18,18,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.881962,4.970459
+553880030S-21,21,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.881633,4.970626
+553880030S-3,3,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.884169,4.971601
+553880030S-5,5,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.883352,4.971386
+553880030S-7,7,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.883119,4.971497
+553880030S-9,9,Rue Saint-Coppin,55800,Noyers-Auzécourt,C+O,48.883230,4.971616
+553880035X-1,1,Rue de la Seigneurie,55800,Noyers-Auzécourt,C+O,48.885355,4.970453
+553880035X-2,2,Rue de la Seigneurie,55800,Noyers-Auzécourt,C+O,48.884970,4.971310
+553880035X-4,4,Rue de la Seigneurie,55800,Noyers-Auzécourt,C+O,48.885076,4.971085
+553880035X-6,6,Rue de la Seigneurie,55800,Noyers-Auzécourt,C+O,48.885262,4.970750
+553880045H-2,2,Rue de la Voie Romaine,55800,Noyers-Auzécourt,C+O,48.877517,4.959355
+553880045H-3,3,Rue de la Voie Romaine,55800,Noyers-Auzécourt,C+O,48.877837,4.957839
+553880045H-6,6,Rue de la Voie Romaine,55800,Noyers-Auzécourt,C+O,48.877182,4.960017
 553890003H-10,10,Rue Antoine Tixier,55250,Nubécourt,C+O,48.999312,5.172268
 553890003H-11,11,Rue Antoine Tixier,55250,Nubécourt,C+O,49.000728,5.170973
 553890003H-1,1,Rue Antoine Tixier,55250,Nubécourt,C+O,48.998246,5.172729
@@ -36317,113 +36317,113 @@
 555280008J-6,6,Rue de Madine,55300,Varnéville,C+O,48.870541,5.654850
 555280009K-1,1,Rue de la Mairie,55300,Varnéville,C+O,48.870589,5.655571
 555280009K-3,3,Rue de la Mairie,55300,Varnéville,C+O,48.871473,5.654900
-555310002P-10,10,Rue de l'Église,55800,Vassincourt,CAD,48.804506,5.026645
-555310002P-1,1,Rue de l'Église,55800,Vassincourt,CAD,48.803097,5.027493
-555310002P-1B,1BIS,Rue de l'Église,55800,Vassincourt,CAD,48.803560,5.027216
-555310002P-2,2,Rue de l'Église,55800,Vassincourt,CAD,48.802841,5.027775
-555310002P-3,3,Rue de l'Église,55800,Vassincourt,CAD,48.803854,5.027054
-555310002P-5,5,Rue de l'Église,55800,Vassincourt,CAD,48.803991,5.026983
-555310002P-6,6,Rue de l'Église,55800,Vassincourt,CAD,48.803736,5.028275
-555310002P-7,7,Rue de l'Église,55800,Vassincourt,CAD,48.804213,5.026819
-555310005T-1,1,Impasse du Château,55800,Vassincourt,CAD,48.804231,5.025548
-555310005T-1B,1BIS,Impasse du Château,55800,Vassincourt,CAD,48.804238,5.025749
-555310005T-2,2,Impasse du Château,55800,Vassincourt,CAD,48.804321,5.026448
-555310010Y-2,2,Chémin de Couvonges,55800,Vassincourt,CAD,48.801700,5.030348
-555310010Y-3,3,Chémin de Couvonges,55800,Vassincourt,CAD,48.801707,5.030724
-555310014C-22,22,Chémin Fargi Pré,55800,Vassincourt,CAD,48.801686,5.026324
-555310014C-2,2,Chémin Fargi Pré,55800,Vassincourt,CAD,48.802060,5.029962
-555310014C-23,23,Chémin Fargi Pré,55800,Vassincourt,CAD,48.801079,5.026564
-555310014C-25,25,Chémin Fargi Pré,55800,Vassincourt,CAD,48.801700,5.025635
-555310014C-6,6,Chémin Fargi Pré,55800,Vassincourt,CAD,48.801864,5.029282
-555310016E-10,10,Rue du Moutier,55800,Vassincourt,CAD,48.804325,5.031342
-555310016E-11,11,Rue du Moutier,55800,Vassincourt,CAD,48.804014,5.028370
-555310016E-12,12,Rue du Moutier,55800,Vassincourt,CAD,48.804458,5.030895
-555310016E-14,14,Rue du Moutier,55800,Vassincourt,CAD,48.804522,5.030278
-555310016E-16,16,Rue du Moutier,55800,Vassincourt,CAD,48.804518,5.029815
-555310016E-18,18,Rue du Moutier,55800,Vassincourt,CAD,48.804488,5.029417
-555310016E-1B,1BIS,Rue du Moutier,55800,Vassincourt,CAD,48.803868,5.030915
-555310016E-2,2,Rue du Moutier,55800,Vassincourt,CAD,48.803881,5.032692
-555310016E-24,24,Rue du Moutier,55800,Vassincourt,CAD,48.804238,5.028232
-555310016E-26,26,Rue du Moutier,55800,Vassincourt,CAD,48.804148,5.027998
-555310016E-3,3,Rue du Moutier,55800,Vassincourt,CAD,48.804479,5.030058
-555310016E-4,4,Rue du Moutier,55800,Vassincourt,CAD,48.803943,5.032515
-555310016E-5,5,Rue du Moutier,55800,Vassincourt,CAD,48.804470,5.029726
-555310016E-6B,6BIS,Rue du Moutier,55800,Vassincourt,CAD,48.804085,5.032066
-555310016E-8,8,Rue du Moutier,55800,Vassincourt,CAD,48.804475,5.031838
-555310016E-9,9,Rue du Moutier,55800,Vassincourt,CAD,48.804294,5.028554
-555310020J-1,1,Route de Neuville,55800,Vassincourt,CAD,48.803216,5.030078
-555310020J-3,3,Route de Neuville,55800,Vassincourt,CAD,48.803882,5.030588
-555310020J-5,5,Route de Neuville,55800,Vassincourt,CAD,48.804205,5.030883
-555310025P-10,10,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803351,5.031240
-555310025P-11,11,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803276,5.031377
-555310025P-11B,11BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803239,5.031144
-555310025P-1,1,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803835,5.033230
-555310025P-12,12,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803306,5.030974
-555310025P-13,13,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802798,5.030850
-555310025P-14,14,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803271,5.030736
-555310025P-15,15,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803146,5.030534
-555310025P-16,16,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803223,5.030403
-555310025P-17,17,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803137,5.030412
-555310025P-18,18,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803119,5.029722
-555310025P-20,20,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803092,5.029544
-555310025P-21,21,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803010,5.029721
-555310025P-22,22,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803053,5.029322
-555310025P-2,2,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.804043,5.033399
-555310025P-23,23,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803015,5.029592
-555310025P-25,25,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802909,5.029070
-555310025P-26,26,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802959,5.028806
-555310025P-27,27,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802865,5.028827
-555310025P-28,28,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802915,5.028483
-555310025P-29,29,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802838,5.028609
-555310025P-2B,2BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803680,5.032527
-555310025P-30,30,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802893,5.028366
-555310025P-31,31,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802792,5.028368
-555310025P-32,32,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802865,5.028207
-555310025P-32B,32BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802810,5.027578
-555310025P-33,33,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802744,5.028056
-555310025P-33B,33BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802435,5.028176
-555310025P-3,3,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803731,5.032954
-555310025P-34,34,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802694,5.027174
-555310025P-35,35,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802690,5.027824
-555310025P-36,36,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802657,5.026819
-555310025P-37,37,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802652,5.027550
-555310025P-38,38,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802658,5.026700
-555310025P-39,39,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802594,5.027205
-555310025P-39B,39BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802583,5.026931
-555310025P-40,40,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802652,5.026423
-555310025P-41,41,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802084,5.027118
-555310025P-42,42,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802665,5.026135
-555310025P-43,43,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802194,5.026641
-555310025P-44,44,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802673,5.025952
-555310025P-4,4,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803578,5.032204
-555310025P-45,45,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802569,5.026692
-555310025P-46,46,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802711,5.025652
-555310025P-46B,46BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802729,5.025553
-555310025P-47,47,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802552,5.026471
-555310025P-48,48,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802770,5.025339
-555310025P-49,49,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802572,5.026175
-555310025P-50,50,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802810,5.025134
-555310025P-51,51,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802583,5.025935
-555310025P-53,53,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802614,5.025690
-555310025P-54,54,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802886,5.024700
-555310025P-55,55,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802688,5.025287
-555310025P-56,56,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802963,5.024347
-555310025P-57,57,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802581,5.024849
-555310025P-57B,57BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802439,5.024801
-555310025P-57T,57TER,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802387,5.024330
-555310025P-59B,59BIS,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802960,5.023774
-555310025P-61,61,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803020,5.023304
-555310025P-63,63,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802273,5.023096
-555310025P-65,65,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.802206,5.022815
-555310025P-6,6,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803511,5.031929
-555310025P-67,67,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803029,5.022554
-555310025P-7,7,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803428,5.031991
-555310025P-8,8,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803398,5.031463
-555310025P-9,9,Rue du 15Eme Corps,55800,Vassincourt,CAD,48.803307,5.031533
-555310030V-1,1,Chémin de Signée Pré,55800,Vassincourt,CAD,48.802386,5.025691
-555310030V-2,2,Chémin de Signée Pré,55800,Vassincourt,CAD,48.802348,5.025528
-555310030V-4,4,Chémin de Signée Pré,55800,Vassincourt,CAD,48.802198,5.025621
-555310030V-6,6,Chémin de Signée Pré,55800,Vassincourt,CAD,48.802089,5.025662
+555310002P-10,10,Rue de l'Église,55800,Vassincourt,C+O,48.804506,5.026645
+555310002P-1,1,Rue de l'Église,55800,Vassincourt,C+O,48.803097,5.027493
+555310002P-1B,1BIS,Rue de l'Église,55800,Vassincourt,C+O,48.803560,5.027216
+555310002P-2,2,Rue de l'Église,55800,Vassincourt,C+O,48.802841,5.027775
+555310002P-3,3,Rue de l'Église,55800,Vassincourt,C+O,48.803854,5.027054
+555310002P-5,5,Rue de l'Église,55800,Vassincourt,C+O,48.803991,5.026983
+555310002P-6,6,Rue de l'Église,55800,Vassincourt,C+O,48.803736,5.028275
+555310002P-7,7,Rue de l'Église,55800,Vassincourt,C+O,48.804213,5.026819
+555310005T-1,1,Impasse du Château,55800,Vassincourt,C+O,48.804231,5.025548
+555310005T-1B,1BIS,Impasse du Château,55800,Vassincourt,C+O,48.804238,5.025749
+555310005T-2,2,Impasse du Château,55800,Vassincourt,C+O,48.804321,5.026448
+555310010Y-2,2,Chemin de Couvonges,55800,Vassincourt,C+O,48.801700,5.030348
+555310010Y-3,3,Chemin de Couvonges,55800,Vassincourt,C+O,48.801707,5.030724
+555310014C-22,22,Chemin Fargi Pré,55800,Vassincourt,C+O,48.801686,5.026324
+555310014C-2,2,Chemin Fargi Pré,55800,Vassincourt,C+O,48.802060,5.029962
+555310014C-23,23,Chemin Fargi Pré,55800,Vassincourt,C+O,48.801079,5.026564
+555310014C-25,25,Chemin Fargi Pré,55800,Vassincourt,C+O,48.801700,5.025635
+555310014C-6,6,Chemin Fargi Pré,55800,Vassincourt,C+O,48.801864,5.029282
+555310016E-10,10,Rue du Moutier,55800,Vassincourt,C+O,48.804325,5.031342
+555310016E-11,11,Rue du Moutier,55800,Vassincourt,C+O,48.804014,5.028370
+555310016E-12,12,Rue du Moutier,55800,Vassincourt,C+O,48.804458,5.030895
+555310016E-14,14,Rue du Moutier,55800,Vassincourt,C+O,48.804522,5.030278
+555310016E-16,16,Rue du Moutier,55800,Vassincourt,C+O,48.804518,5.029815
+555310016E-18,18,Rue du Moutier,55800,Vassincourt,C+O,48.804488,5.029417
+555310016E-1B,1BIS,Rue du Moutier,55800,Vassincourt,C+O,48.803868,5.030915
+555310016E-2,2,Rue du Moutier,55800,Vassincourt,C+O,48.803881,5.032692
+555310016E-24,24,Rue du Moutier,55800,Vassincourt,C+O,48.804238,5.028232
+555310016E-26,26,Rue du Moutier,55800,Vassincourt,C+O,48.804148,5.027998
+555310016E-3,3,Rue du Moutier,55800,Vassincourt,C+O,48.804479,5.030058
+555310016E-4,4,Rue du Moutier,55800,Vassincourt,C+O,48.803943,5.032515
+555310016E-5,5,Rue du Moutier,55800,Vassincourt,C+O,48.804470,5.029726
+555310016E-6B,6BIS,Rue du Moutier,55800,Vassincourt,C+O,48.804085,5.032066
+555310016E-8,8,Rue du Moutier,55800,Vassincourt,C+O,48.804475,5.031838
+555310016E-9,9,Rue du Moutier,55800,Vassincourt,C+O,48.804294,5.028554
+555310020J-1,1,Route de Neuville,55800,Vassincourt,C+O,48.803216,5.030078
+555310020J-3,3,Route de Neuville,55800,Vassincourt,C+O,48.803882,5.030588
+555310020J-5,5,Route de Neuville,55800,Vassincourt,C+O,48.804205,5.030883
+555310025P-10,10,Rue du 15e Corps,55800,Vassincourt,C+O,48.803351,5.031240
+555310025P-11,11,Rue du 15e Corps,55800,Vassincourt,C+O,48.803276,5.031377
+555310025P-11B,11BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.803239,5.031144
+555310025P-1,1,Rue du 15e Corps,55800,Vassincourt,C+O,48.803835,5.033230
+555310025P-12,12,Rue du 15e Corps,55800,Vassincourt,C+O,48.803306,5.030974
+555310025P-13,13,Rue du 15e Corps,55800,Vassincourt,C+O,48.802798,5.030850
+555310025P-14,14,Rue du 15e Corps,55800,Vassincourt,C+O,48.803271,5.030736
+555310025P-15,15,Rue du 15e Corps,55800,Vassincourt,C+O,48.803146,5.030534
+555310025P-16,16,Rue du 15e Corps,55800,Vassincourt,C+O,48.803223,5.030403
+555310025P-17,17,Rue du 15e Corps,55800,Vassincourt,C+O,48.803137,5.030412
+555310025P-18,18,Rue du 15e Corps,55800,Vassincourt,C+O,48.803119,5.029722
+555310025P-20,20,Rue du 15e Corps,55800,Vassincourt,C+O,48.803092,5.029544
+555310025P-21,21,Rue du 15e Corps,55800,Vassincourt,C+O,48.803010,5.029721
+555310025P-22,22,Rue du 15e Corps,55800,Vassincourt,C+O,48.803053,5.029322
+555310025P-2,2,Rue du 15e Corps,55800,Vassincourt,C+O,48.804043,5.033399
+555310025P-23,23,Rue du 15e Corps,55800,Vassincourt,C+O,48.803015,5.029592
+555310025P-25,25,Rue du 15e Corps,55800,Vassincourt,C+O,48.802909,5.029070
+555310025P-26,26,Rue du 15e Corps,55800,Vassincourt,C+O,48.802959,5.028806
+555310025P-27,27,Rue du 15e Corps,55800,Vassincourt,C+O,48.802865,5.028827
+555310025P-28,28,Rue du 15e Corps,55800,Vassincourt,C+O,48.802915,5.028483
+555310025P-29,29,Rue du 15e Corps,55800,Vassincourt,C+O,48.802838,5.028609
+555310025P-2B,2BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.803680,5.032527
+555310025P-30,30,Rue du 15e Corps,55800,Vassincourt,C+O,48.802893,5.028366
+555310025P-31,31,Rue du 15e Corps,55800,Vassincourt,C+O,48.802792,5.028368
+555310025P-32,32,Rue du 15e Corps,55800,Vassincourt,C+O,48.802865,5.028207
+555310025P-32B,32BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.802810,5.027578
+555310025P-33,33,Rue du 15e Corps,55800,Vassincourt,C+O,48.802744,5.028056
+555310025P-33B,33BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.802435,5.028176
+555310025P-3,3,Rue du 15e Corps,55800,Vassincourt,C+O,48.803731,5.032954
+555310025P-34,34,Rue du 15e Corps,55800,Vassincourt,C+O,48.802694,5.027174
+555310025P-35,35,Rue du 15e Corps,55800,Vassincourt,C+O,48.802690,5.027824
+555310025P-36,36,Rue du 15e Corps,55800,Vassincourt,C+O,48.802657,5.026819
+555310025P-37,37,Rue du 15e Corps,55800,Vassincourt,C+O,48.802652,5.027550
+555310025P-38,38,Rue du 15e Corps,55800,Vassincourt,C+O,48.802658,5.026700
+555310025P-39,39,Rue du 15e Corps,55800,Vassincourt,C+O,48.802594,5.027205
+555310025P-39B,39BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.802583,5.026931
+555310025P-40,40,Rue du 15e Corps,55800,Vassincourt,C+O,48.802652,5.026423
+555310025P-41,41,Rue du 15e Corps,55800,Vassincourt,C+O,48.802084,5.027118
+555310025P-42,42,Rue du 15e Corps,55800,Vassincourt,C+O,48.802665,5.026135
+555310025P-43,43,Rue du 15e Corps,55800,Vassincourt,C+O,48.802194,5.026641
+555310025P-44,44,Rue du 15e Corps,55800,Vassincourt,C+O,48.802673,5.025952
+555310025P-4,4,Rue du 15e Corps,55800,Vassincourt,C+O,48.803578,5.032204
+555310025P-45,45,Rue du 15e Corps,55800,Vassincourt,C+O,48.802569,5.026692
+555310025P-46,46,Rue du 15e Corps,55800,Vassincourt,C+O,48.802711,5.025652
+555310025P-46B,46BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.802729,5.025553
+555310025P-47,47,Rue du 15e Corps,55800,Vassincourt,C+O,48.802552,5.026471
+555310025P-48,48,Rue du 15e Corps,55800,Vassincourt,C+O,48.802770,5.025339
+555310025P-49,49,Rue du 15e Corps,55800,Vassincourt,C+O,48.802572,5.026175
+555310025P-50,50,Rue du 15e Corps,55800,Vassincourt,C+O,48.802810,5.025134
+555310025P-51,51,Rue du 15e Corps,55800,Vassincourt,C+O,48.802583,5.025935
+555310025P-53,53,Rue du 15e Corps,55800,Vassincourt,C+O,48.802614,5.025690
+555310025P-54,54,Rue du 15e Corps,55800,Vassincourt,C+O,48.802886,5.024700
+555310025P-55,55,Rue du 15e Corps,55800,Vassincourt,C+O,48.802688,5.025287
+555310025P-56,56,Rue du 15e Corps,55800,Vassincourt,C+O,48.802963,5.024347
+555310025P-57,57,Rue du 15e Corps,55800,Vassincourt,C+O,48.802581,5.024849
+555310025P-57B,57BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.802439,5.024801
+555310025P-57T,57TER,Rue du 15e Corps,55800,Vassincourt,C+O,48.802387,5.024330
+555310025P-59B,59BIS,Rue du 15e Corps,55800,Vassincourt,C+O,48.802960,5.023774
+555310025P-61,61,Rue du 15e Corps,55800,Vassincourt,C+O,48.803020,5.023304
+555310025P-63,63,Rue du 15e Corps,55800,Vassincourt,C+O,48.802273,5.023096
+555310025P-65,65,Rue du 15e Corps,55800,Vassincourt,C+O,48.802206,5.022815
+555310025P-6,6,Rue du 15e Corps,55800,Vassincourt,C+O,48.803511,5.031929
+555310025P-67,67,Rue du 15e Corps,55800,Vassincourt,C+O,48.803029,5.022554
+555310025P-7,7,Rue du 15e Corps,55800,Vassincourt,C+O,48.803428,5.031991
+555310025P-8,8,Rue du 15e Corps,55800,Vassincourt,C+O,48.803398,5.031463
+555310025P-9,9,Rue du 15e Corps,55800,Vassincourt,C+O,48.803307,5.031533
+555310030V-1,1,Chemin de Signée Pré,55800,Vassincourt,C+O,48.802386,5.025691
+555310030V-2,2,Chemin de Signée Pré,55800,Vassincourt,C+O,48.802348,5.025528
+555310030V-4,4,Chemin de Signée Pré,55800,Vassincourt,C+O,48.802198,5.025621
+555310030V-6,6,Chemin de Signée Pré,55800,Vassincourt,C+O,48.802089,5.025662
 555430005R-10,10,Rue Jacques Brel,55500,Velaines,OSM,48.695593,5.316033
 555430005R-11,11,Rue Jacques Brel,55500,Velaines,OSM,48.695052,5.314732
 555430005R-1,1,Rue Jacques Brel,55500,Velaines,OSM,48.694394,5.313864
