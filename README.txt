@@ -53,6 +53,8 @@ BANO est une base de données composite, constituée à partir de différentes s
   - Métropole Nice Côte d'Azur (Licence Ouverte - Janvier 2015)
   - Ville de Limoges (ODbL - Décembre 2014)
   - Ville de La Rochelle (ODbL - Février 2015)
+  - Brest Métropole Océane (ODbL - Février 2015)
+  - Ville de Nanterre (Licence Ouverte - Février 2015)
 - données adresses collectées sur le site du cadastre et fichier FANTOIR (Licence Ouverte) - 2014
 
 
