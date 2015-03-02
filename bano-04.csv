@@ -737,14 +737,14 @@
 040190165J-7089,7089,Place du Docteur Louis Signoret,04400,Barcelonnette,CAD,44.387616,6.650939
 040190170P-3,3,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388112,6.653624
 040190170P-5,5,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388056,6.653818
-040190180A-2,2,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384846,6.650703
-040190180A-5,5,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.383831,6.651807
-040190180A-7003,7003,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385201,6.651369
-040190180A-7003A,7003A,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385193,6.651616
-040190180A-7003B,7003B,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385127,6.651634
-040190180A-7003C,7003C,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384970,6.651858
-040190180A-7091,7091,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385046,6.651312
-040190180A-7,7,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.382845,6.651150
+040190180A-2,2,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384846,6.650703
+040190180A-5,5,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.383831,6.651807
+040190180A-7003,7003,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385201,6.651369
+040190180A-7003A,7003A,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385193,6.651616
+040190180A-7003B,7003B,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385127,6.651634
+040190180A-7003C,7003C,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384970,6.651858
+040190180A-7091,7091,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385046,6.651312
+040190180A-7,7,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.382845,6.651150
 040190190L-1,1,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388450,6.644921
 040190190L-2,2,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388400,6.645217
 040190190L-3,3,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388557,6.644638
@@ -1032,7 +1032,7 @@
 040190340Z-44,44,Rue Manuel,04400,Barcelonnette,C+O,44.386992,6.650954
 040190340Z-4,4,Rue Manuel,04400,Barcelonnette,C+O,44.387456,6.653320
 040190340Z-45,45,Rue Manuel,04400,Barcelonnette,C+O,44.386922,6.651012
-040190340Z-46,46,Rue Manuel,04400,Barcelonnette,OSM,44.386947,6.650606
+040190340Z-46,46,Rue Manuel,04400,Barcelonnette,OSM,44.386986,6.650754
 040190340Z-47,47,Rue Manuel,04400,Barcelonnette,C+O,44.386911,6.650953
 040190340Z-48,48,Rue Manuel,04400,Barcelonnette,C+O,44.386923,6.650636
 040190340Z-49,49,Rue Manuel,04400,Barcelonnette,OSM,44.386810,6.650845
@@ -1757,13 +1757,13 @@
 040390105G-7272,7272,Chemin des Listes,04120,Castellane,C+O,43.844384,6.509416
 040390105G-7272A,7272A,Chemin des Listes,04120,Castellane,C+O,43.844383,6.509434
 040390105G-7355,7355,Chemin des Listes,04120,Castellane,C+O,43.843395,6.504681
-040390110M-1,1,Place Marcel Sauvaire,04120,Castellane,CAD,43.846588,6.512699
-040390110M-14,14,Place Marcel Sauvaire,04120,Castellane,CAD,43.846274,6.513702
-040390110M-2,2,Place Marcel Sauvaire,04120,Castellane,CAD,43.846037,6.512270
-040390110M-3,3,Place Marcel Sauvaire,04120,Castellane,CAD,43.846611,6.512851
-040390110M-5,5,Place Marcel Sauvaire,04120,Castellane,CAD,43.846608,6.513132
-040390110M-7,7,Place Marcel Sauvaire,04120,Castellane,CAD,43.846597,6.513228
-040390110M-9,9,Place Marcel Sauvaire,04120,Castellane,CAD,43.846591,6.513298
+040390110M-1,1,Place Marcel Sauvaire,04120,Castellane,C+O,43.846588,6.512699
+040390110M-14,14,Place Marcel Sauvaire,04120,Castellane,C+O,43.846274,6.513702
+040390110M-2,2,Place Marcel Sauvaire,04120,Castellane,C+O,43.846037,6.512270
+040390110M-3,3,Place Marcel Sauvaire,04120,Castellane,C+O,43.846611,6.512851
+040390110M-5,5,Place Marcel Sauvaire,04120,Castellane,C+O,43.846608,6.513132
+040390110M-7,7,Place Marcel Sauvaire,04120,Castellane,C+O,43.846597,6.513228
+040390110M-9,9,Place Marcel Sauvaire,04120,Castellane,C+O,43.846591,6.513298
 040390120Y-3,3,Rue du Mazeau,04120,Castellane,C+O,43.846805,6.512931
 040390120Y-7053,7053,Rue du Mazeau,04120,Castellane,C+O,43.846825,6.512770
 040390140V-10,10,Rue du Mitan,04120,Castellane,C+O,43.847454,6.512437
@@ -4642,7 +4642,7 @@
 040700175Y-41,41,Route de Barles,04000,Digne-les-Bains,C+O,44.128998,6.234788
 040700175Y-45,45,Route de Barles,04000,Digne-les-Bains,C+O,44.129405,6.234400
 040700175Y-5,5,Route de Barles,04000,Digne-les-Bains,C+O,44.122778,6.233874
-040700176Z-12,12,Place de la Barlette,04000,Digne-les-Bains,CAD,44.091258,6.234127
+040700176Z-12,12,Place de la Barlette,04000,Digne-les-Bains,C+O,44.091258,6.234127
 040700177A-3,3,Traverse de la Barlette,04000,Digne-les-Bains,C+O,44.091498,6.233949
 040700178B-10,10,Chemin de la Barricade,04000,Digne-les-Bains,CAD,44.060382,6.175630
 040700178B-12,12,Chemin de la Barricade,04000,Digne-les-Bains,CAD,44.059489,6.174915
@@ -5215,12 +5215,12 @@
 040700407A-6,6,Rue des Coquelicots,04000,Digne-les-Bains,C+O,44.086567,6.205986
 040700407A-8,8,Rue des Coquelicots,04000,Digne-les-Bains,C+O,44.087012,6.206041
 040700407A-9,9,Rue des Coquelicots,04000,Digne-les-Bains,C+O,44.087095,6.205972
-040700410D-10,10,Place des Cordeliers,04000,Digne-les-Bains,CAD,44.094076,6.237798
-040700410D-1,1,Place des Cordeliers,04000,Digne-les-Bains,CAD,44.093953,6.236992
-040700410D-5,5,Place des Cordeliers,04000,Digne-les-Bains,CAD,44.094677,6.237397
-040700410D-5A,5A,Place des Cordeliers,04000,Digne-les-Bains,CAD,44.094325,6.237873
-040700410D-6,6,Place des Cordeliers,04000,Digne-les-Bains,CAD,44.093968,6.237441
-040700410D-6A,6A,Place des Cordeliers,04000,Digne-les-Bains,CAD,44.093953,6.237391
+040700410D-10,10,Place des Cordeliers,04000,Digne-les-Bains,C+O,44.094076,6.237798
+040700410D-1,1,Place des Cordeliers,04000,Digne-les-Bains,C+O,44.093953,6.236992
+040700410D-5,5,Place des Cordeliers,04000,Digne-les-Bains,C+O,44.094677,6.237397
+040700410D-5A,5A,Place des Cordeliers,04000,Digne-les-Bains,C+O,44.094325,6.237873
+040700410D-6,6,Place des Cordeliers,04000,Digne-les-Bains,C+O,44.093968,6.237441
+040700410D-6A,6A,Place des Cordeliers,04000,Digne-les-Bains,C+O,44.093953,6.237391
 040700411E-10,10,Rue de Coste Plane,04000,Digne-les-Bains,C+O,44.070293,6.214489
 040700411E-11,11,Rue de Coste Plane,04000,Digne-les-Bains,C+O,44.070323,6.213302
 040700411E-13,13,Rue de Coste Plane,04000,Digne-les-Bains,C+O,44.070121,6.213554
@@ -5506,14 +5506,14 @@
 040700595E-5,5,Rue de la Farigoule,04000,Digne-les-Bains,C+O,44.083684,6.206323
 040700595E-6,6,Rue de la Farigoule,04000,Digne-les-Bains,C+O,44.083357,6.207021
 040700595E-8,8,Rue de la Farigoule,04000,Digne-les-Bains,C+O,44.083570,6.206971
-040700600K-10,10,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087271,6.222080
-040700600K-1,1,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087339,6.222821
-040700600K-12,12,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087228,6.221881
-040700600K-2,2,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087706,6.222684
-040700600K-3,3,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087295,6.222614
-040700600K-6,6,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087424,6.222437
-040700600K-7,7,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087148,6.221944
-040700600K-8,8,Place Félix Esclangon,04000,Digne-les-Bains,CAD,44.087372,6.222255
+040700600K-10,10,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087271,6.222080
+040700600K-1,1,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087339,6.222821
+040700600K-12,12,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087228,6.221881
+040700600K-2,2,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087706,6.222684
+040700600K-3,3,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087295,6.222614
+040700600K-6,6,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087424,6.222437
+040700600K-7,7,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087148,6.221944
+040700600K-8,8,Place Félix-Esclangon,04000,Digne-les-Bains,C+O,44.087372,6.222255
 040700605R-2,2,Rue Ferdinand de Lesseps,04000,Digne-les-Bains,C+O,44.075964,6.188729
 040700605R-4,4,Rue Ferdinand de Lesseps,04000,Digne-les-Bains,C+O,44.076276,6.189344
 040700620G-2,2,Rue du Figuier,04000,Digne-les-Bains,C+O,44.091703,6.235649
@@ -5768,9 +5768,9 @@
 040700730B-9,9,Avenue Gaston-Boyer,04000,Digne-les-Bains,C+O,44.103018,6.231140
 040700731C-4,4,Place Gaston-Boyer,04000,Digne-les-Bains,C+O,44.102436,6.230780
 040700731C-6,6,Place Gaston-Boyer,04000,Digne-les-Bains,C+O,44.102440,6.230574
-040700742P-1,1,Place de la Gavotte,04000,Digne-les-Bains,CAD,44.076221,6.176132
-040700742P-2,2,Place de la Gavotte,04000,Digne-les-Bains,CAD,44.076093,6.176068
-040700742P-3,3,Place de la Gavotte,04000,Digne-les-Bains,CAD,44.076314,6.176264
+040700742P-1,1,Place de la gavotte,04000,Digne-les-Bains,C+O,44.076221,6.176132
+040700742P-2,2,Place de la gavotte,04000,Digne-les-Bains,C+O,44.076093,6.176068
+040700742P-3,3,Place de la gavotte,04000,Digne-les-Bains,C+O,44.076314,6.176264
 040700745T-10,10,Place du Général De Gaulle,04000,Digne-les-Bains,CAD,44.092646,6.235551
 040700745T-12,12,Place du Général De Gaulle,04000,Digne-les-Bains,CAD,44.092673,6.235624
 040700745T-14,14,Place du Général De Gaulle,04000,Digne-les-Bains,CAD,44.092699,6.235697
@@ -6390,16 +6390,16 @@
 040701010F-9,9,Rue Maldonat,04000,Digne-les-Bains,CAD,44.101927,6.232569
 040701018P-2,2,Rue Marcel Pagnol,04000,Digne-les-Bains,C+O,44.098557,6.232196
 040701018P-4,4,Rue Marcel Pagnol,04000,Digne-les-Bains,C+O,44.098546,6.231891
-040701020S-10,10,Place du Marché,04000,Digne-les-Bains,CAD,44.092133,6.236659
-040701020S-12,12,Place du Marché,04000,Digne-les-Bains,CAD,44.092176,6.236702
-040701020S-14,14,Place du Marché,04000,Digne-les-Bains,CAD,44.092335,6.237176
-040701020S-2,2,Place du Marché,04000,Digne-les-Bains,CAD,44.092332,6.237075
-040701020S-4,4,Place du Marché,04000,Digne-les-Bains,CAD,44.092099,6.236641
-040701020S-5,5,Place du Marché,04000,Digne-les-Bains,CAD,44.092517,6.236694
-040701020S-6,6,Place du Marché,04000,Digne-les-Bains,CAD,44.092099,6.236654
-040701020S-7,7,Place du Marché,04000,Digne-les-Bains,CAD,44.092544,6.236817
-040701020S-8,8,Place du Marché,04000,Digne-les-Bains,CAD,44.092054,6.236575
-040701020S-9,9,Place du Marché,04000,Digne-les-Bains,CAD,44.092408,6.236850
+040701020S-10,10,Place du Marché,04000,Digne-les-Bains,C+O,44.092133,6.236659
+040701020S-12,12,Place du Marché,04000,Digne-les-Bains,C+O,44.092176,6.236702
+040701020S-14,14,Place du Marché,04000,Digne-les-Bains,C+O,44.092335,6.237176
+040701020S-2,2,Place du Marché,04000,Digne-les-Bains,C+O,44.092332,6.237075
+040701020S-4,4,Place du Marché,04000,Digne-les-Bains,C+O,44.092099,6.236641
+040701020S-5,5,Place du Marché,04000,Digne-les-Bains,C+O,44.092517,6.236694
+040701020S-6,6,Place du Marché,04000,Digne-les-Bains,C+O,44.092099,6.236654
+040701020S-7,7,Place du Marché,04000,Digne-les-Bains,C+O,44.092544,6.236817
+040701020S-8,8,Place du Marché,04000,Digne-les-Bains,C+O,44.092054,6.236575
+040701020S-9,9,Place du Marché,04000,Digne-les-Bains,C+O,44.092408,6.236850
 040701022U-10,10,Route de Marcoux,04000,Digne-les-Bains,C+O,44.101717,6.252508
 040701022U-11,11,Route de Marcoux,04000,Digne-les-Bains,C+O,44.102582,6.251660
 040701022U-1,1,Route de Marcoux,04000,Digne-les-Bains,C+O,44.103801,6.247707
@@ -6889,15 +6889,15 @@
 040701226R-3,3,Rue des Peupliers,04000,Digne-les-Bains,C+O,44.106602,6.234423
 040701226R-4,4,Rue des Peupliers,04000,Digne-les-Bains,C+O,44.106565,6.234433
 040701226R-6,6,Rue des Peupliers,04000,Digne-les-Bains,C+O,44.106577,6.234657
-040701228T-20,20,Place du Pic de Couar,04000,Digne-les-Bains,CAD,44.074760,6.178602
-040701228T-22,22,Place du Pic de Couar,04000,Digne-les-Bains,CAD,44.074826,6.178689
-040701228T-24,24,Place du Pic de Couar,04000,Digne-les-Bains,CAD,44.074925,6.178607
-040701229U-1,1,Place du Pic d'Oise,04000,Digne-les-Bains,CAD,44.075217,6.177008
-040701229U-3,3,Place du Pic d'Oise,04000,Digne-les-Bains,CAD,44.075276,6.177092
-040701229U-4,4,Place du Pic d'Oise,04000,Digne-les-Bains,CAD,44.074967,6.177183
-040701229U-5,5,Place du Pic d'Oise,04000,Digne-les-Bains,CAD,44.075175,6.177212
-040701229U-7,7,Place du Pic d'Oise,04000,Digne-les-Bains,CAD,44.075113,6.177303
-040701229U-9,9,Place du Pic d'Oise,04000,Digne-les-Bains,CAD,44.075054,6.177351
+040701228T-20,20,Place du Pic de Couar,04000,Digne-les-Bains,C+O,44.074760,6.178602
+040701228T-22,22,Place du Pic de Couar,04000,Digne-les-Bains,C+O,44.074826,6.178689
+040701228T-24,24,Place du Pic de Couar,04000,Digne-les-Bains,C+O,44.074925,6.178607
+040701229U-1,1,Place du Pic d'Oise,04000,Digne-les-Bains,C+O,44.075217,6.177008
+040701229U-3,3,Place du Pic d'Oise,04000,Digne-les-Bains,C+O,44.075276,6.177092
+040701229U-4,4,Place du Pic d'Oise,04000,Digne-les-Bains,C+O,44.074967,6.177183
+040701229U-5,5,Place du Pic d'Oise,04000,Digne-les-Bains,C+O,44.075175,6.177212
+040701229U-7,7,Place du Pic d'Oise,04000,Digne-les-Bains,C+O,44.075113,6.177303
+040701229U-9,9,Place du Pic d'Oise,04000,Digne-les-Bains,C+O,44.075054,6.177351
 040701230V-1,1,Chemin de Pied-Cocu,04000,Digne-les-Bains,C+O,44.092840,6.238412
 040701230V-3,3,Chemin de Pied-Cocu,04000,Digne-les-Bains,C+O,44.092900,6.238509
 040701230V-5B,5BIS,Chemin de Pied-Cocu,04000,Digne-les-Bains,C+O,44.092996,6.238550
@@ -7135,15 +7135,15 @@
 040701366T-55,55,Avenue René Cassin,04000,Digne-les-Bains,OSM,44.080730,6.218884
 040701366T-57,57,Avenue René Cassin,04000,Digne-les-Bains,OSM,44.080650,6.218963
 040701368V-1,1,Rue Ed. Richard,04000,Digne-les-Bains,CAD,44.078466,6.195758
-040701375C-10,10,Place de la République,04000,Digne-les-Bains,CAD,44.099674,6.230679
-040701375C-12,12,Place de la République,04000,Digne-les-Bains,CAD,44.099848,6.230764
-040701375C-14,14,Place de la République,04000,Digne-les-Bains,CAD,44.100215,6.230651
-040701375C-18,18,Place de la République,04000,Digne-les-Bains,CAD,44.100409,6.230542
-040701375C-20,20,Place de la République,04000,Digne-les-Bains,CAD,44.100565,6.230519
-040701375C-2,2,Place de la République,04000,Digne-les-Bains,CAD,44.098519,6.230696
-040701375C-4,4,Place de la République,04000,Digne-les-Bains,CAD,44.098708,6.230224
-040701375C-6,6,Place de la République,04000,Digne-les-Bains,CAD,44.099010,6.230358
-040701375C-8,8,Place de la République,04000,Digne-les-Bains,CAD,44.099293,6.230493
+040701375C-10,10,Place de la République,04000,Digne-les-Bains,C+O,44.099674,6.230679
+040701375C-12,12,Place de la République,04000,Digne-les-Bains,C+O,44.099848,6.230764
+040701375C-14,14,Place de la République,04000,Digne-les-Bains,C+O,44.100215,6.230651
+040701375C-18,18,Place de la République,04000,Digne-les-Bains,C+O,44.100409,6.230542
+040701375C-20,20,Place de la République,04000,Digne-les-Bains,C+O,44.100565,6.230519
+040701375C-2,2,Place de la République,04000,Digne-les-Bains,C+O,44.098519,6.230696
+040701375C-4,4,Place de la République,04000,Digne-les-Bains,C+O,44.098708,6.230224
+040701375C-6,6,Place de la République,04000,Digne-les-Bains,C+O,44.099010,6.230358
+040701375C-8,8,Place de la République,04000,Digne-les-Bains,C+O,44.099293,6.230493
 040701376D-10,10,Rue des Romarins,04000,Digne-les-Bains,C+O,44.083921,6.213339
 040701376D-11,11,Rue des Romarins,04000,Digne-les-Bains,C+O,44.083685,6.212573
 040701376D-1,1,Rue des Romarins,04000,Digne-les-Bains,C+O,44.083602,6.213411
@@ -7496,9 +7496,9 @@
 040701588J-4,4,Rue des Tamaris,04000,Digne-les-Bains,C+O,44.103284,6.233141
 040701588J-5,5,Rue des Tamaris,04000,Digne-les-Bains,C+O,44.103256,6.233561
 040701588J-6,6,Rue des Tamaris,04000,Digne-les-Bains,C+O,44.103228,6.233539
-040701590L-10,10,Place Tampinet,04000,Digne-les-Bains,CAD,44.091890,6.231903
-040701590L-12,12,Place Tampinet,04000,Digne-les-Bains,CAD,44.091965,6.231945
-040701590L-6,6,Place Tampinet,04000,Digne-les-Bains,CAD,44.091558,6.231719
+040701590L-10,10,Place du Tampinet,04000,Digne-les-Bains,C+O,44.091890,6.231903
+040701590L-12,12,Place du Tampinet,04000,Digne-les-Bains,C+O,44.091965,6.231945
+040701590L-6,6,Place du Tampinet,04000,Digne-les-Bains,C+O,44.091558,6.231719
 040701600X-2,2,Rue des Tanneurs,04000,Digne-les-Bains,C+O,44.090918,6.235225
 040701600X-4,4,Rue des Tanneurs,04000,Digne-les-Bains,C+O,44.090927,6.235303
 040701600X-6,6,Rue des Tanneurs,04000,Digne-les-Bains,C+O,44.090725,6.235334
@@ -7593,11 +7593,11 @@
 040701655G-9,9,Cours du Tribunal,04000,Digne-les-Bains,C+O,44.092130,6.238980
 040701660M-15,15,Cours Tribun Pce Recollet,04000,Digne-les-Bains,CAD,44.092017,6.239399
 040701662P-5,5,Rue du Triple Effort,04000,Digne-les-Bains,CAD,44.081324,6.220547
-040701664S-21,21,Place des Trois Eveches,04000,Digne-les-Bains,CAD,44.075410,6.177760
-040701664S-23,23,Place des Trois Eveches,04000,Digne-les-Bains,CAD,44.075454,6.177623
-040701664S-25,25,Place des Trois Eveches,04000,Digne-les-Bains,CAD,44.075500,6.177612
-040701664S-29,29,Place des Trois Eveches,04000,Digne-les-Bains,CAD,44.075570,6.177759
-040701664S-31,31,Place des Trois Eveches,04000,Digne-les-Bains,CAD,44.075474,6.177835
+040701664S-21,21,Place des Trois Evêchés,04000,Digne-les-Bains,C+O,44.075410,6.177760
+040701664S-23,23,Place des Trois Evêchés,04000,Digne-les-Bains,C+O,44.075454,6.177623
+040701664S-25,25,Place des Trois Evêchés,04000,Digne-les-Bains,C+O,44.075500,6.177612
+040701664S-29,29,Place des Trois Evêchés,04000,Digne-les-Bains,C+O,44.075570,6.177759
+040701664S-31,31,Place des Trois Evêchés,04000,Digne-les-Bains,C+O,44.075474,6.177835
 040701665T-2,2,Impasse des Tulipes,04000,Digne-les-Bains,C+O,44.101119,6.231238
 040701665T-4,4,Impasse des Tulipes,04000,Digne-les-Bains,C+O,44.101195,6.231424
 040701665T-6,6,Impasse des Tulipes,04000,Digne-les-Bains,C+O,44.101119,6.231662
@@ -11313,7 +11313,7 @@
 041120355L-544,544,Avenue Frédéric Mistral,04100,Manosque,OSM,43.820912,5.786637
 041120355L-544A,544A,Avenue Frédéric Mistral,04100,Manosque,C+O,43.820629,5.787091
 041120361T-31,31,Rue Pierre Garcin,04100,Manosque,OSM,43.810931,5.781748
-041120361T-33,33,Rue Pierre Garcin,04100,Manosque,OSM,43.810119,5.781461
+041120361T-33,33,Rue Pierre Garcin,04100,Manosque,OSM,43.810051,5.781362
 041120361T-35,35,Rue Pierre Garcin,04100,Manosque,OSM,43.810301,5.780986
 041120361T-435,435,Rue Pierre Garcin,04100,Manosque,OSM,43.814122,5.782351
 041120363V-105,105,Allée de la Garrigue,04100,Manosque,OSM,43.828023,5.750515
@@ -19261,11 +19261,11 @@
 04172X003B-17,17,Lotissement Parc des Ecoliers,04500,Roumoules,CAD,43.821977,6.128960
 04172X004C-2,2,Lotissement Le Colostre,04500,Roumoules,CAD,43.830760,6.134500
 041730007T-7114,7114,Rue Haute,04170,Saint-André-les-Alpes,CAD,43.970341,6.511893
-041730017D-1,1,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.969494,6.505315
-041730017D-7007,7007,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.971022,6.506827
-041730017D-7098,7098,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.971982,6.507022
-041730017D-7149,7149,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.970946,6.505294
-041730017D-7158,7158,Chemin des Vertus,04170,Saint-André-les-Alpes,C+O,43.972501,6.506462
+041730017D-1,1,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.969494,6.505315
+041730017D-7007,7007,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.971022,6.506827
+041730017D-7098,7098,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.971982,6.507022
+041730017D-7149,7149,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.970946,6.505294
+041730017D-7158,7158,Chemin de Vertus,04170,Saint-André-les-Alpes,C+O,43.972501,6.506462
 041730019F-7172,7172,Chemin des Accates,04170,Saint-André-les-Alpes,C+O,43.969087,6.512794
 041730020G-7120,7120,Chemin Bellevue,04170,Saint-André-les-Alpes,C+O,43.965209,6.505839
 041730021H-7133,7133,Chemin des Croues,04170,Saint-André-les-Alpes,C+O,43.964219,6.508763
@@ -20463,11 +20463,11 @@
 042090195R-4,4,Rue du Bosquet,04200,Sisteron,CAD,44.181334,5.942941
 042090195R-6,6,Rue du Bosquet,04200,Sisteron,CAD,44.181417,5.942879
 042090195R-8,8,Rue du Bosquet,04200,Sisteron,CAD,44.181587,5.942965
-042090200W-1,1,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
-042090200W-32,32,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
-042090200W-420,420,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
-042090200W-5B,5BIS,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
-042090200W-6,6,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
+042090200W-1,1,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
+042090200W-32,32,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
+042090200W-420,420,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
+042090200W-5B,5BIS,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
+042090200W-6,6,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
 042090206C-46,46,Chemin de la Bousquette,04200,Sisteron,CAD,44.218006,5.915048
 042090214L-1,1,Impasse des Cerisiers,04200,Sisteron,CAD,44.184405,5.948502
 042090214L-3,3,Impasse des Cerisiers,04200,Sisteron,CAD,44.184042,5.948317
@@ -21160,10 +21160,10 @@
 042091140T-4,4,Avenue Paul Arène,04200,Sisteron,C+O,44.196090,5.942886
 042091140T-87,87,Avenue Paul Arène,04200,Sisteron,C+O,44.196215,5.942557
 042091140T-99,99,Avenue Paul Arène,04200,Sisteron,C+O,44.196370,5.942411
-042091141U-25,25,Place Paul Arène,04200,Sisteron,CAD,44.197100,5.944008
-042091141U-33,33,Place Paul Arène,04200,Sisteron,CAD,44.197121,5.944171
-042091141U-55,55,Place Paul Arène,04200,Sisteron,CAD,44.197019,5.944331
-042091141U-6,6,Place Paul Arène,04200,Sisteron,CAD,44.196484,5.943680
+042091141U-25,25,Place Paul Arène,04200,Sisteron,C+O,44.197100,5.944008
+042091141U-33,33,Place Paul Arène,04200,Sisteron,C+O,44.197121,5.944171
+042091141U-55,55,Place Paul Arène,04200,Sisteron,C+O,44.197019,5.944331
+042091141U-6,6,Place Paul Arène,04200,Sisteron,C+O,44.196484,5.943680
 042091160P-13,13,Chemin Plan de Leydet,04200,Sisteron,CAD,44.224095,5.937423
 042091160P-18,18,Chemin Plan de Leydet,04200,Sisteron,CAD,44.226910,5.938753
 042091160P-21,21,Chemin Plan de Leydet,04200,Sisteron,CAD,44.224173,5.937011
@@ -21372,8 +21372,8 @@
 042091640L-5,5,Impasse des Tilleuls,04200,Sisteron,CAD,44.183986,5.948246
 042091640L-7,7,Impasse des Tilleuls,04200,Sisteron,CAD,44.183957,5.948120
 042091640L-9,9,Impasse des Tilleuls,04200,Sisteron,CAD,44.183963,5.948046
-042091660H-20,20,Place du Tivoli,04200,Sisteron,CAD,44.196602,5.941976
-042091660H-51,51,Place du Tivoli,04200,Sisteron,CAD,44.196355,5.941365
+042091660H-20,20,Place du Tivoli,04200,Sisteron,C+O,44.196602,5.941976
+042091660H-51,51,Place du Tivoli,04200,Sisteron,C+O,44.196355,5.941365
 042091690R-16,16,Rue de la Vigne,04200,Sisteron,CAD,44.182541,5.942110
 042091690R-6,6,Rue de la Vigne,04200,Sisteron,CAD,44.182607,5.941350
 042091700B-1530,1530,Route de Volonne,04200,Sisteron,C+O,44.181621,5.956527

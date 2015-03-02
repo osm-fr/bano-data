@@ -9669,13 +9669,13 @@
 430990220U-4,4,Place des Tilleuls,43250,Frugerès-les-Mines,C+O,45.387176,3.307863
 430990220U-6,6,Place des Tilleuls,43250,Frugerès-les-Mines,C+O,45.387132,3.307775
 430990220U-8,8,Place des Tilleuls,43250,Frugerès-les-Mines,C+O,45.387141,3.307792
-430990230E-11,11,Place du Vardirou,43250,Frugerès-les-Mines,CAD,45.386070,3.307920
-430990230E-1,1,Place du Vardirou,43250,Frugerès-les-Mines,CAD,45.385892,3.307103
-430990230E-2,2,Place du Vardirou,43250,Frugerès-les-Mines,CAD,45.385632,3.307821
-430990230E-3,3,Place du Vardirou,43250,Frugerès-les-Mines,CAD,45.385909,3.307264
-430990230E-5,5,Place du Vardirou,43250,Frugerès-les-Mines,CAD,45.385953,3.307453
-430990230E-7,7,Place du Vardirou,43250,Frugerès-les-Mines,CAD,45.385984,3.307601
-430990230E-9,9,Place du Vardirou,43250,Frugerès-les-Mines,CAD,45.386023,3.307732
+430990230E-11,11,Place du Vardirou,43250,Frugerès-les-Mines,C+O,45.386070,3.307920
+430990230E-1,1,Place du Vardirou,43250,Frugerès-les-Mines,C+O,45.385892,3.307103
+430990230E-2,2,Place du Vardirou,43250,Frugerès-les-Mines,C+O,45.385632,3.307821
+430990230E-3,3,Place du Vardirou,43250,Frugerès-les-Mines,C+O,45.385909,3.307264
+430990230E-5,5,Place du Vardirou,43250,Frugerès-les-Mines,C+O,45.385953,3.307453
+430990230E-7,7,Place du Vardirou,43250,Frugerès-les-Mines,C+O,45.385984,3.307601
+430990230E-9,9,Place du Vardirou,43250,Frugerès-les-Mines,C+O,45.386023,3.307732
 430990240R-1,1,Rue des Verriers,43250,Frugerès-les-Mines,C+O,45.386500,3.307643
 430990240R-3,3,Rue des Verriers,43250,Frugerès-les-Mines,C+O,45.386541,3.307722
 430990250B-10,10,Rue du Vieux Bourg,43250,Frugerès-les-Mines,C+O,45.386248,3.307863
@@ -10848,9 +10848,9 @@
 431200080A-2,2,Rue du Béal,43410,Lempdes-sur-Allagnon,C+O,45.386487,3.269219
 431200080A-3,3,Rue du Béal,43410,Lempdes-sur-Allagnon,C+O,45.386289,3.269510
 431200080A-4,4,Rue du Béal,43410,Lempdes-sur-Allagnon,C+O,45.386322,3.269569
-431200100X-1,1,Place du Bosquet,43410,Lempdes-sur-Allagnon,CAD,45.386308,3.268528
-431200100X-2,2,Place du Bosquet,43410,Lempdes-sur-Allagnon,CAD,45.386360,3.268461
-431200100X-3,3,Place du Bosquet,43410,Lempdes-sur-Allagnon,CAD,45.386420,3.268381
+431200100X-1,1,Place du Bosquet,43410,Lempdes-sur-Allagnon,C+O,45.386308,3.268528
+431200100X-2,2,Place du Bosquet,43410,Lempdes-sur-Allagnon,C+O,45.386360,3.268461
+431200100X-3,3,Place du Bosquet,43410,Lempdes-sur-Allagnon,C+O,45.386420,3.268381
 431200110H-2,2,Rue des Buanderies,43410,Lempdes-sur-Allagnon,C+O,45.385202,3.268242
 431200110H-3,3,Rue des Buanderies,43410,Lempdes-sur-Allagnon,C+O,45.385469,3.267891
 431200110H-4,4,Rue des Buanderies,43410,Lempdes-sur-Allagnon,C+O,45.385270,3.268163
@@ -10887,9 +10887,9 @@
 431200150B-29,29,Rue de la Croix Saint-Géraud,43410,Lempdes-sur-Allagnon,CAD,45.383360,3.278049
 431200150B-4,4,Rue de la Croix Saint-Géraud,43410,Lempdes-sur-Allagnon,CAD,45.383506,3.275097
 431200150B-6,6,Rue de la Croix Saint-Géraud,43410,Lempdes-sur-Allagnon,CAD,45.383431,3.275688
-431200170Y-1,1,Place Docteur Chalchat,43410,Lempdes-sur-Allagnon,CAD,45.386407,3.269017
-431200170Y-2,2,Place Docteur Chalchat,43410,Lempdes-sur-Allagnon,CAD,45.386286,3.269177
-431200170Y-3,3,Place Docteur Chalchat,43410,Lempdes-sur-Allagnon,CAD,45.386199,3.269074
+431200170Y-1,1,Place du Docteur Chalchat,43410,Lempdes-sur-Allagnon,C+O,45.386407,3.269017
+431200170Y-2,2,Place du Docteur Chalchat,43410,Lempdes-sur-Allagnon,C+O,45.386286,3.269177
+431200170Y-3,3,Place du Docteur Chalchat,43410,Lempdes-sur-Allagnon,C+O,45.386199,3.269074
 431200180J-10,10,Rue du Docteur Raymond,43410,Lempdes-sur-Allagnon,C+O,45.382566,3.273438
 431200180J-11,11,Rue du Docteur Raymond,43410,Lempdes-sur-Allagnon,C+O,45.383159,3.273163
 431200180J-12,12,Rue du Docteur Raymond,43410,Lempdes-sur-Allagnon,C+O,45.382392,3.273488
@@ -11185,11 +11185,11 @@
 431200440S-7,7,Rue Léonce Lagarde,43410,Lempdes-sur-Allagnon,C+O,45.384836,3.269043
 431200440S-8,8,Rue Léonce Lagarde,43410,Lempdes-sur-Allagnon,C+O,45.384993,3.268778
 431200440S-9,9,Rue Léonce Lagarde,43410,Lempdes-sur-Allagnon,C+O,45.384738,3.268985
-431200480K-1,1,Place de la Mairie,43410,Lempdes-sur-Allagnon,CAD,45.385387,3.270732
-431200480K-2,2,Place de la Mairie,43410,Lempdes-sur-Allagnon,CAD,45.385162,3.270836
-431200480K-4,4,Place de la Mairie,43410,Lempdes-sur-Allagnon,CAD,45.385221,3.270758
-431200480K-6,6,Place de la Mairie,43410,Lempdes-sur-Allagnon,CAD,45.385269,3.270772
-431200480K-8,8,Place de la Mairie,43410,Lempdes-sur-Allagnon,CAD,45.385324,3.270792
+431200480K-1,1,Place de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385387,3.270732
+431200480K-2,2,Place de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385162,3.270836
+431200480K-4,4,Place de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385221,3.270758
+431200480K-6,6,Place de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385269,3.270772
+431200480K-8,8,Place de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385324,3.270792
 431200490W-10,10,Rue de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385875,3.269909
 431200490W-11,11,Rue de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385714,3.269790
 431200490W-1,1,Rue de la Mairie,43410,Lempdes-sur-Allagnon,C+O,45.385323,3.270425
@@ -16531,19 +16531,19 @@
 431571210T-7,7,Rue l'et J Coudeyrette,43750,Le Puy-en-Velay,CAD,45.033195,3.882709
 431571210T-8,8,Rue l'et J Coudeyrette,43750,Le Puy-en-Velay,CAD,45.033059,3.882506
 431571210T-9,9,Rue l'et J Coudeyrette,43750,Le Puy-en-Velay,CAD,45.032974,3.882548
-431571215Y-14,14,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047823,3.877301
-431571215Y-16,16,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047723,3.876997
-431571215Y-27,27,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047413,3.878036
-431571215Y-3,3,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047197,3.878826
-431571215Y-39,39,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047377,3.877297
-431571215Y-47,47,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047371,3.877049
-431571215Y-4B,4BIS,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047813,3.877665
-431571215Y-4T,4TER,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047854,3.877711
-431571215Y-53,53,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047447,3.876121
-431571215Y-55,55,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047563,3.876165
-431571215Y-5,5,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047254,3.878760
-431571215Y-57,57,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047600,3.876157
-431571215Y-8,8,Place de la Liberation,43750,Le Puy-en-Velay,CAD,45.047734,3.877571
+431571215Y-14,14,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047823,3.877301
+431571215Y-16,16,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047723,3.876997
+431571215Y-27,27,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047413,3.878036
+431571215Y-3,3,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047197,3.878826
+431571215Y-39,39,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047377,3.877297
+431571215Y-47,47,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047371,3.877049
+431571215Y-4B,4BIS,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047813,3.877665
+431571215Y-4T,4TER,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047854,3.877711
+431571215Y-53,53,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047447,3.876121
+431571215Y-55,55,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047563,3.876165
+431571215Y-5,5,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047254,3.878760
+431571215Y-57,57,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047600,3.876157
+431571215Y-8,8,Place de la Libération,43750,Le Puy-en-Velay,C+O,45.047734,3.877571
 431571220D-10,10,Rue des Lilas,43750,Le Puy-en-Velay,C+O,45.043586,3.896386
 431571220D-10B,10BIS,Rue des Lilas,43750,Le Puy-en-Velay,C+O,45.043591,3.896476
 431571220D-12,12,Rue des Lilas,43750,Le Puy-en-Velay,C+O,45.043595,3.896599
@@ -20367,20 +20367,20 @@
 431850180B-3,3,Rue du Dix Neuf Mars 1962,43250,Sainte-Florine,CAD,45.409180,3.318690
 431850180B-4,4,Rue du Dix Neuf Mars 1962,43250,Sainte-Florine,CAD,45.409241,3.318530
 431850180B-5,5,Rue du Dix Neuf Mars 1962,43250,Sainte-Florine,CAD,45.409177,3.318409
-431850190M-10,10,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405517,3.318018
-431850190M-12,12,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405507,3.317972
-431850190M-14,14,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405498,3.317928
-431850190M-16,16,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405483,3.317871
-431850190M-18,18,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405449,3.317891
-431850190M-20,20,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405412,3.317915
-431850190M-22,22,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405371,3.317940
-431850190M-2,2,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405581,3.318334
-431850190M-24,24,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405305,3.317982
-431850190M-28,28,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405092,3.317987
-431850190M-40,40,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405097,3.318286
-431850190M-42,42,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405114,3.318325
-431850190M-6,6,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405542,3.318141
-431850190M-8,8,Place Docteur Gigante,43250,Sainte-Florine,CAD,45.405525,3.318058
+431850190M-10,10,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405517,3.318018
+431850190M-12,12,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405507,3.317972
+431850190M-14,14,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405498,3.317928
+431850190M-16,16,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405483,3.317871
+431850190M-18,18,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405449,3.317891
+431850190M-20,20,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405412,3.317915
+431850190M-22,22,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405371,3.317940
+431850190M-2,2,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405581,3.318334
+431850190M-24,24,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405305,3.317982
+431850190M-28,28,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405092,3.317987
+431850190M-40,40,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405097,3.318286
+431850190M-42,42,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405114,3.318325
+431850190M-6,6,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405542,3.318141
+431850190M-8,8,Place du Docteur Gigante,43250,Sainte-Florine,C+O,45.405525,3.318058
 431850200Y-10,10,Rue du Docteur Gigante,43250,Sainte-Florine,C+O,45.405330,3.320714
 431850200Y-2,2,Rue du Docteur Gigante,43250,Sainte-Florine,C+O,45.405957,3.320521
 431850200Y-3B,3BIS,Rue du Docteur Gigante,43250,Sainte-Florine,C+O,45.405869,3.320839
@@ -21200,10 +21200,10 @@
 431850542V-5,5,Rue du Président,43250,Sainte-Florine,C+O,45.401384,3.308400
 431850542V-7,7,Rue du Président,43250,Sainte-Florine,C+O,45.401263,3.308247
 431850542V-9,9,Rue du Président,43250,Sainte-Florine,C+O,45.401099,3.308107
-431850545Y-2,2,Place de la Résistance,43250,Sainte-Florine,CAD,45.394670,3.323134
-431850545Y-4,4,Place de la Résistance,43250,Sainte-Florine,CAD,45.394695,3.322917
-431850545Y-6,6,Place de la Résistance,43250,Sainte-Florine,CAD,45.394570,3.322884
-431850545Y-8,8,Place de la Résistance,43250,Sainte-Florine,CAD,45.394390,3.322933
+431850545Y-2,2,Place de la Résistance,43250,Sainte-Florine,C+O,45.394670,3.323134
+431850545Y-4,4,Place de la Résistance,43250,Sainte-Florine,C+O,45.394695,3.322917
+431850545Y-6,6,Place de la Résistance,43250,Sainte-Florine,C+O,45.394570,3.322884
+431850545Y-8,8,Place de la Résistance,43250,Sainte-Florine,C+O,45.394390,3.322933
 431850548B-1,1,Impasse la Rochille,43250,Sainte-Florine,C+O,45.408241,3.314179
 431850548B-2,2,Impasse la Rochille,43250,Sainte-Florine,C+O,45.408194,3.314098
 431850548B-4,4,Impasse la Rochille,43250,Sainte-Florine,C+O,45.408198,3.314177

@@ -5558,7 +5558,7 @@
 230320020H-111,111,Rue Grande,23600,Boussac-Bourg,C+O,46.360296,2.229625
 230320020H-11,11,Rue Grande,23600,Boussac-Bourg,C+O,46.360010,2.229756
 230320020H-1,1,Rue Grande,23600,Boussac-Bourg,C+O,46.359662,2.228342
-230320020H-12,12,Rue Grande,23600,Boussac-Bourg,C+O,46.360512,2.232348
+230320020H-12,12,Rue Grande,23600,Boussac-Bourg,OSM,46.360475,2.232917
 230320020H-15,15,Rue Grande,23600,Boussac-Bourg,C+O,46.360097,2.230023
 230320020H-16,16,Rue Grande,23600,Boussac-Bourg,C+O,46.360733,2.234456
 230320020H-17,17,Rue Grande,23600,Boussac-Bourg,C+O,46.360153,2.230248
@@ -6321,7 +6321,7 @@
 230440011W-1,1,Rue des Buis,23220,Chambon-Sainte-Croix,C+O,46.353987,1.774939
 230440012X-10,10,Rue de la Mairie,23220,Chambon-Sainte-Croix,C+O,46.354455,1.775274
 230440012X-11,11,Rue de la Mairie,23220,Chambon-Sainte-Croix,C+O,46.354707,1.775331
-230440012X-1,1,Rue de la Mairie,23220,Chambon-Sainte-Croix,C+O,46.355840,1.775020
+230440012X-1,1,Rue de la Mairie,23220,Chambon-Sainte-Croix,OSM,46.354512,1.775631
 230440012X-12,12,Rue de la Mairie,23220,Chambon-Sainte-Croix,C+O,46.354330,1.775308
 230440012X-13,13,Rue de la Mairie,23220,Chambon-Sainte-Croix,C+O,46.354464,1.775401
 230440012X-14,14,Rue de la Mairie,23220,Chambon-Sainte-Croix,C+O,46.354131,1.775361
@@ -6498,7 +6498,7 @@
 230450370G-2,2,Rue de la Gaité,23170,Chambon-sur-Voueize,C+O,46.190959,2.426402
 230450380T-10,10,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188614,2.424218
 230450380T-11,11,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188277,2.426425
-230450380T-1,1,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188019,2.427756
+230450380T-1,1,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,OSM,46.187490,2.427812
 230450380T-12,12,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188626,2.424108
 230450380T-14,14,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188637,2.424015
 230450380T-15,15,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188259,2.425960
@@ -6506,7 +6506,7 @@
 230450380T-2,2,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188228,2.427902
 230450380T-24,24,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188840,2.422266
 230450380T-26,26,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188894,2.421805
-230450380T-33,33,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188461,2.424138
+230450380T-33,33,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,OSM,46.188381,2.423997
 230450380T-3,3,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,OSM,46.187947,2.427422
 230450380T-35,35,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188499,2.423960
 230450380T-37,37,Avenue Georges Clemenceau,23170,Chambon-sur-Voueize,C+O,46.188538,2.423777
@@ -7719,7 +7719,7 @@
 230620500Z-11,11,Rue de la Liberté,23220,Chéniers,C+O,46.351312,1.827774
 230620500Z-1,1,Rue de la Liberté,23220,Chéniers,C+O,46.351644,1.827352
 230620500Z-12,12,Rue de la Liberté,23220,Chéniers,C+O,46.351465,1.827441
-230620500Z-13,13,Rue de la Liberté,23220,Chéniers,C+O,46.350872,1.827982
+230620500Z-13,13,Rue de la Liberté,23220,Chéniers,OSM,46.350822,1.828100
 230620500Z-14,14,Rue de la Liberté,23220,Chéniers,C+O,46.351344,1.827609
 230620500Z-16,16,Rue de la Liberté,23220,Chéniers,C+O,46.351229,1.827736
 230620500Z-18,18,Rue de la Liberté,23220,Chéniers,C+O,46.351054,1.827813
@@ -17698,6 +17698,7 @@
 231140136C-3,3,Rue des Loisirs,23170,Lussat,C+O,46.182876,2.341486
 231140136C-5,5,Rue des Loisirs,23170,Lussat,C+O,46.182765,2.341678
 231140137D-11,11,Rue de la Mairie,23170,Lussat,C+O,46.183716,2.341208
+231140137D-1,1,Rue de la Mairie,23170,Lussat,OSM,46.183317,2.340648
 231140137D-12,12,Rue de la Mairie,23170,Lussat,C+O,46.183723,2.341314
 231140137D-14,14,Rue de la Mairie,23170,Lussat,C+O,46.183823,2.341360
 231140137D-15,15,Rue de la Mairie,23170,Lussat,C+O,46.183821,2.341256
@@ -20864,7 +20865,7 @@
 231740005Z-1,1,Rue des Chrysanthèmes,23600,Soumans,C+O,46.301378,2.303332
 231740005Z-2,2,Rue des Chrysanthèmes,23600,Soumans,C+O,46.301268,2.303149
 231740005Z-3,3,Rue des Chrysanthèmes,23600,Soumans,C+O,46.301205,2.302555
-231740006A-10,10,Rue des Écoles,23600,Soumans,C+O,46.301559,2.309446
+231740006A-10,10,Rue des Écoles,23600,Soumans,OSM,46.301759,2.309502
 231740006A-1,1,Rue des Écoles,23600,Soumans,C+O,46.301409,2.308132
 231740006A-2,2,Rue des Écoles,23600,Soumans,C+O,46.301433,2.308375
 231740006A-3,3,Rue des Écoles,23600,Soumans,C+O,46.301393,2.308269
@@ -20880,6 +20881,7 @@
 231740007B-4,4,Rue Eugene Romaine,23600,Soumans,C+O,46.299292,2.307459
 231740007B-6,6,Rue Eugene Romaine,23600,Soumans,C+O,46.300670,2.307470
 231740007B-7,7,Rue Eugene Romaine,23600,Soumans,C+O,46.300505,2.307440
+231740007B-9,9,Rue Eugene Romaine,23600,Soumans,OSM,46.300578,2.307408
 231740009D-10,10,Route de Montebras,23600,Soumans,C+O,46.303703,2.308932
 231740009D-11,11,Route de Montebras,23600,Soumans,C+O,46.303762,2.309033
 231740009D-1,1,Route de Montebras,23600,Soumans,C+O,46.301386,2.307955
@@ -21718,7 +21720,7 @@
 231760621K-3,3,Rue du Docteur Georges Marlaud,23300,La Souterraine,C+O,46.231018,1.485793
 231760621K-5,5,Rue du Docteur Georges Marlaud,23300,La Souterraine,C+O,46.230822,1.486250
 231760621K-7,7,Rue du Docteur Georges Marlaud,23300,La Souterraine,C+O,46.230726,1.486512
-231760621K-8,8,Rue du Docteur Georges Marlaud,23300,La Souterraine,C+O,46.231697,1.485267
+231760621K-8,8,Rue du Docteur Georges Marlaud,23300,La Souterraine,OSM,46.231477,1.485011
 231760621K-9,9,Rue du Docteur Georges Marlaud,23300,La Souterraine,C+O,46.230497,1.487404
 231760625P-11,11,Avenue Georges Pompidou,23300,La Souterraine,C+O,46.234228,1.480196
 231760625P-1,1,Avenue Georges Pompidou,23300,La Souterraine,C+O,46.233780,1.481607
@@ -27255,6 +27257,7 @@
 232580042Z-3,3,Impasse du Souvenir,23300,Vareilles,C+O,46.299520,1.478329
 232610002T-1,1,Rue Saint-Blaise,23170,Viersat,C+O,46.270625,2.430945
 232610003U-10,10,Rue de la Brande,23170,Viersat,C+O,46.268727,2.429212
+232610003U-2,2,Rue de la Brande,23170,Viersat,OSM,46.270010,2.429414
 232610003U-3,3,Rue de la Brande,23170,Viersat,C+O,46.269931,2.429625
 232610003U-4,4,Rue de la Brande,23170,Viersat,C+O,46.269657,2.429167
 232610003U-7,7,Rue de la Brande,23170,Viersat,C+O,46.269598,2.429279
