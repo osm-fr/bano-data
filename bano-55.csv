@@ -2181,7 +2181,7 @@
 550220017U-7,7,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566179,5.390499
 550220017U-9,9,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566247,5.390461
 550220018V-10,10,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566577,5.390942
-550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566454,5.390873
+550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566483,5.390965
 550220018V-1,1,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.567272,5.390848
 550220018V-12,12,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566304,5.391260
 550220018V-14,14,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566325,5.391413
@@ -9133,12 +9133,12 @@
 550850013R-1,1,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.813885,5.732695
 550850013R-2,2,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814254,5.733547
 550850013R-3,3,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814489,5.733445
-550850015T-2,2,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813197,5.733614
-550850015T-3,3,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813661,5.733752
-550850015T-4,4,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813299,5.733468
-550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813848,5.734103
-550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
-550850015T-6,6,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813419,5.733681
+550850014S-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
+550850015T-2,2,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813197,5.733614
+550850015T-3,3,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813661,5.733752
+550850015T-4,4,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813299,5.733468
+550850015T-5,5,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813848,5.734103
+550850015T-6,6,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813419,5.733681
 550850016U-5,5,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824526,5.705386
 550850016U-5A,5A,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824694,5.705362
 550850017V-1,1,Chemin de Jouy,55200,Broussey-Raulecourt,C+O,48.822058,5.705791
@@ -14175,6 +14175,39 @@
 55165B007T-1,1,La Beaugette,55110,Doulcon,CAD,49.376622,5.162283
 55165B018E-1,1,La Chevrue,55110,Doulcon,CAD,49.376622,5.162283
 55165B051R-4,4,La Maladrie,55110,Doulcon,CAD,49.383215,5.171316
+551660020W-11,11,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105346,5.385265
+551660020W-1,1,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.104891,5.384799
+551660020W-13,13,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105393,5.385317
+551660020W-15,15,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105445,5.385518
+551660020W-17,17,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105544,5.385660
+551660020W-19,19,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105566,5.386046
+551660020W-21,21,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105964,5.386814
+551660020W-23,23,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.106023,5.386921
+551660020W-25,25,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.106115,5.387072
+551660020W-27,27,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.106203,5.387227
+551660020W-29,29,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.106307,5.387382
+551660020W-31,31,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.106375,5.387477
+551660020W-3,3,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.104975,5.384874
+551660020W-5,5,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105101,5.385002
+551660020W-7,7,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105227,5.385137
+551660020W-9,9,Rue Briquette,55100,Dugny-sur-Meuse,OSM,49.105235,5.385304
+551660045Y-10,10,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106695,5.386232
+551660045Y-11,11,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106359,5.386134
+551660045Y-1,1,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.105732,5.385151
+551660045Y-12,12,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106849,5.386391
+551660045Y-13,13,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106408,5.386256
+551660045Y-14,14,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106998,5.386526
+551660045Y-15,15,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106514,5.386524
+551660045Y-17,17,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106597,5.386658
+551660045Y-19,19,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106680,5.386794
+551660045Y-3,3,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.105783,5.385206
+551660045Y-4,4,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106348,5.385607
+551660045Y-5,5,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.105870,5.385320
+551660045Y-6,6,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106441,5.385754
+551660045Y-7,7,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106242,5.385857
+551660045Y-8,8,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106544,5.385909
+551660045Y-8A,8A,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106656,5.386150
+551660045Y-9,9,Rue Louis Piquet,55100,Dugny-sur-Meuse,OSM,49.106298,5.386040
 551660065V-10,10,Rue des Prés,55100,Dugny-sur-Meuse,OSM,49.103448,5.385708
 551660065V-11,11,Rue des Prés,55100,Dugny-sur-Meuse,OSM,49.103175,5.385963
 551660065V-1,1,Rue des Prés,55100,Dugny-sur-Meuse,OSM,49.103019,5.385155
@@ -14197,6 +14230,65 @@
 551660065V-7,7,Rue des Prés,55100,Dugny-sur-Meuse,OSM,49.103160,5.385768
 551660065V-8,8,Rue des Prés,55100,Dugny-sur-Meuse,OSM,49.103414,5.385511
 551660065V-9,9,Rue des Prés,55100,Dugny-sur-Meuse,OSM,49.103167,5.385856
+551660070A-11,11,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108027,5.389033
+551660070A-11B,11B,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108899,5.389429
+551660070A-1,1,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107342,5.387856
+551660070A-12,12,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107673,5.387778
+551660070A-13,13,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109051,5.389445
+551660070A-14,14,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107728,5.387847
+551660070A-15,15,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109155,5.389498
+551660070A-16,16,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107776,5.387909
+551660070A-17,17,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109263,5.389550
+551660070A-18,18,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107834,5.387990
+551660070A-19,19,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109380,5.389610
+551660070A-20,20,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107872,5.388071
+551660070A-21,21,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109498,5.389678
+551660070A-21B,21B,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109605,5.389767
+551660070A-22,22,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107910,5.388133
+551660070A-2,2,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107429,5.387476
+551660070A-23,23,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109774,5.389927
+551660070A-24,24,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107969,5.388169
+551660070A-25,25,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109788,5.390400
+551660070A-26,26,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108006,5.388222
+551660070A-26A,26A,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108104,5.388303
+551660070A-27,27,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110083,5.390225
+551660070A-27B,27B,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110140,5.390343
+551660070A-28,28,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108204,5.388461
+551660070A-29,29,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110289,5.390428
+551660070A-29B,29B,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110360,5.390499
+551660070A-30,30,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108271,5.388529
+551660070A-31,31,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110444,5.390581
+551660070A-32,32,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108323,5.388564
+551660070A-33,33,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110530,5.390656
+551660070A-33B,33B,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110630,5.390732
+551660070A-3,3,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107401,5.387913
+551660070A-34,34,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108378,5.388597
+551660070A-35,35,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110878,5.390907
+551660070A-36,36,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108471,5.388654
+551660070A-38,38,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108559,5.388708
+551660070A-40,40,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108643,5.388763
+551660070A-42,42,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.108873,5.388827
+551660070A-44,44,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109092,5.389094
+551660070A-4,4,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107475,5.387526
+551660070A-46,46,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109393,5.389170
+551660070A-48,48,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109565,5.389323
+551660070A-50,50,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109631,5.389378
+551660070A-52,52,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109685,5.389422
+551660070A-54,54,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109736,5.389461
+551660070A-5,5,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107509,5.387859
+551660070A-56,56,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109787,5.389499
+551660070A-58,58,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109918,5.389495
+551660070A-60,60,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.109977,5.389648
+551660070A-62,62,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110115,5.389750
+551660070A-64,64,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110219,5.389830
+551660070A-66,66,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110276,5.389895
+551660070A-6,6,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107550,5.387632
+551660070A-70,70,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110365,5.389969
+551660070A-72,72,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110456,5.390045
+551660070A-74,74,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110647,5.390200
+551660070A-74B,74B,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.110999,5.389850
+551660070A-7,7,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107804,5.388216
+551660070A-9,9,Rue Raymond Parmentier,55100,Dugny-sur-Meuse,OSM,49.107934,5.388455
 551660075F-10,10,Rue René Jacques,55100,Dugny-sur-Meuse,OSM,49.102334,5.386002
 551660075F-11,11,Rue René Jacques,55100,Dugny-sur-Meuse,OSM,49.102179,5.386752
 551660075F-1,1,Rue René Jacques,55100,Dugny-sur-Meuse,OSM,49.101832,5.385392
@@ -14225,6 +14317,16 @@
 551660075F-7,7,Rue René Jacques,55100,Dugny-sur-Meuse,OSM,49.102151,5.386243
 551660075F-8,8,Rue René Jacques,55100,Dugny-sur-Meuse,OSM,49.102432,5.385728
 551660075F-9,9,Rue René Jacques,55100,Dugny-sur-Meuse,OSM,49.102194,5.386593
+551660080L-11,11,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107369,5.387175
+551660080L-1,1,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107034,5.386875
+551660080L-2,2,Place de la République,55100,Dugny-sur-Meuse,OSM,49.106782,5.386965
+551660080L-3,3,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107078,5.386928
+551660080L-5,5,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107135,5.386996
+551660080L-6,6,Place de la République,55100,Dugny-sur-Meuse,OSM,49.106939,5.387214
+551660080L-7,7,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107191,5.387064
+551660080L-8,8,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107015,5.387312
+551660080L-9,9,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107313,5.387108
+551660080L-9A,9A,Place de la République,55100,Dugny-sur-Meuse,OSM,49.107340,5.387141
 551660085S-10,10,Rue de Saint-Mihiel,55100,Dugny-sur-Meuse,OSM,49.103380,5.384628
 551660085S-11,11,Rue de Saint-Mihiel,55100,Dugny-sur-Meuse,OSM,49.100008,5.386774
 551660085S-12,12,Rue de Saint-Mihiel,55100,Dugny-sur-Meuse,OSM,49.102923,5.384869
@@ -14238,6 +14340,11 @@
 551660085S-6,6,Rue de Saint-Mihiel,55100,Dugny-sur-Meuse,OSM,49.104002,5.384564
 551660085S-8,8,Rue de Saint-Mihiel,55100,Dugny-sur-Meuse,OSM,49.103860,5.384540
 551660085S-9,9,Rue de Saint-Mihiel,55100,Dugny-sur-Meuse,OSM,49.100537,5.386122
+551660100H-1,1,Rue de Verdun,55100,Dugny-sur-Meuse,OSM,49.105412,5.384851
+551660100H-3,3,Rue de Verdun,55100,Dugny-sur-Meuse,OSM,49.105583,5.385087
+551660100H-5,5,Rue de Verdun,55100,Dugny-sur-Meuse,OSM,49.106165,5.385090
+551660100H-7,7,Rue de Verdun,55100,Dugny-sur-Meuse,OSM,49.106325,5.385148
+551660100H-7A,7A,Rue de Verdun,55100,Dugny-sur-Meuse,OSM,49.106461,5.385131
 551670002X-10,10,Rue des Acacias,55110,Dun-sur-Meuse,C+O,49.389674,5.190100
 551670002X-11,11,Rue des Acacias,55110,Dun-sur-Meuse,C+O,49.389788,5.189633
 551670002X-1,1,Rue des Acacias,55110,Dun-sur-Meuse,C+O,49.390073,5.190395
@@ -17906,7 +18013,7 @@
 552280030M-7,7,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038725,5.658837
 552280030M-8,8,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038579,5.658584
 552280030M-9,9,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038495,5.658439
-552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043358,5.662999
+552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
 552280045D-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
 552280045D-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
 552280045D-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
@@ -18179,13 +18286,13 @@
 552290013P-7,7,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864718,5.541550
 552290013P-8,8,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864648,5.540992
 552290013P-9,9,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864483,5.541832
-552290014R-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
-552290014R-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868899,5.550063
-552290014R-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868990,5.550507
-552290014R-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
-552290014R-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
-552290014R-6,6,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865997,5.539381
-552290014R-8,8,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866290,5.539552
+552290015S-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
+552290015S-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865647,5.538939
+552290015S-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865232,5.538708
+552290015S-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
+552290015S-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
+552290015S-6,6,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865997,5.539381
+552290015S-8,8,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866290,5.539552
 552290016T-10,10,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.870273,5.547199
 552290016T-1,1,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.868756,5.549572
 552290016T-12,12,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.870442,5.547009
@@ -20921,32 +21028,32 @@
 552790040B-3,3,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488921,5.161933
 552790040B-4,4,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489111,5.162022
 552790040B-5,5,Place du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488807,5.162051
-552790042D-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489134,5.161464
-552790042D-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489439,5.162867
-552790042D-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489404,5.162459
-552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489410,5.162298
-552790042D-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489603,5.161354
-552790042D-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489021,5.161510
-552790042D-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489248,5.162720
-552790042D-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488821,5.161551
-552790042D-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488764,5.162275
-552790042D-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488754,5.161560
-552790042D-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488793,5.161946
-552790042D-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488514,5.161574
-552790042D-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488782,5.161903
-552790042D-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488650,5.161931
-552790042D-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488761,5.161805
-552790042D-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488077,5.161679
-552790042D-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489700,5.161140
-552790042D-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488494,5.161731
-552790042D-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488060,5.161853
-552790042D-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.487858,5.161946
-552790042D-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489474,5.161413
-552790042D-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489265,5.161561
-552790042D-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489369,5.161342
-552790042D-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489268,5.162132
-552790042D-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489234,5.161411
-552790042D-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489302,5.162289
+552790041C-10,10,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489134,5.161464
+552790041C-11,11,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489439,5.162867
+552790041C-11B,11BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489404,5.162459
+552790041C-1,1,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489603,5.161354
+552790041C-12,12,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489021,5.161510
+552790041C-13,13,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489248,5.162720
+552790041C-14,14,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488821,5.161551
+552790041C-15,15,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488764,5.162275
+552790041C-16,16,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488754,5.161560
+552790041C-17,17,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488793,5.161946
+552790041C-18,18,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488514,5.161574
+552790041C-19,19,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488782,5.161903
+552790041C-19T,19TER,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488650,5.161931
+552790041C-21,21,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488761,5.161805
+552790041C-22,22,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488077,5.161679
+552790041C-2,2,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489700,5.161140
+552790041C-23,23,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488494,5.161731
+552790041C-25B,25BIS,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.488060,5.161853
+552790041C-27,27,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.487858,5.161946
+552790041C-3,3,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489474,5.161413
+552790041C-5,5,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489265,5.161561
+552790041C-6,6,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489369,5.161342
+552790041C-7,7,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489268,5.162132
+552790041C-8,8,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489234,5.161411
+552790041C-9,9,Rue du Faubourg,55700,Laneuville-sur-Meuse,C+O,49.489302,5.162289
+552790042D-1,1,Ruelle du Faubourg,55700,Laneuville-sur-Meuse,CAD,49.489410,5.162298
 552790045G-1,1,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.490991,5.163266
 552790045G-2,2,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491024,5.163228
 552790045G-3,3,Place de la Fontaine,55700,Laneuville-sur-Meuse,C+O,49.491067,5.163178
