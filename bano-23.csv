@@ -6108,7 +6108,7 @@
 230390035U-8B,8BIS,Rue de la Marche,23800,La Celle-Dunoise,C+O,46.308592,1.769444
 230390035U-9,9,Rue de la Marche,23800,La Celle-Dunoise,C+O,46.308919,1.769683
 230390040Z-11,11,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311414,1.768617
-230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310334,1.769524
+230390040Z-1,1,Route des Peintres,23800,La Celle-Dunoise,OSM,46.310415,1.769245
 230390040Z-13,13,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311698,1.768479
 230390040Z-15,15,Route des Peintres,23800,La Celle-Dunoise,C+O,46.311893,1.768409
 230390040Z-17,17,Route des Peintres,23800,La Celle-Dunoise,C+O,46.312112,1.768313
@@ -16772,7 +16772,7 @@
 231010008V-7,7,Rue des Écoles,23220,Jouillat,C+O,46.258357,1.935562
 231010009W-1,1,Rue de la Mairie,23220,Jouillat,C+O,46.256899,1.935650
 231010009W-2,2,Rue de la Mairie,23220,Jouillat,C+O,46.257014,1.935631
-231010009W-7,7,Rue de la Mairie,23220,Jouillat,OSM,46.257032,1.935412
+231010009W-7,7,Rue de la Mairie,23220,Jouillat,OSM,46.257048,1.935415
 231010010X-1,1,Route du Moulin de la Canarde,23220,Jouillat,C+O,46.257789,1.932907
 231010010X-2,2,Route du Moulin de la Canarde,23220,Jouillat,C+O,46.258680,1.930318
 231010010X-3,3,Route du Moulin de la Canarde,23220,Jouillat,C+O,46.257591,1.933556
@@ -24458,15 +24458,16 @@
 232060001F-2,2,Rue des Fontaines,23000,Saint-Laurent,C+O,46.166639,1.962339
 232060001F-4,4,Rue des Fontaines,23000,Saint-Laurent,C+O,46.166700,1.962161
 232060001F-7,7,Rue des Fontaines,23000,Saint-Laurent,C+O,46.167945,1.961265
-232060002G-14,14,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.165864,1.965706
-232060002G-15,15,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.165953,1.965738
-232060002G-16,16,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.165650,1.966242
-232060002G-17,17,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.165731,1.966296
-232060002G-2,2,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.166566,1.962300
-232060002G-3,3,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.166498,1.963051
-232060002G-4,4,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.166490,1.962503
-232060002G-6,6,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.166417,1.962611
-232060002G-7,7,Rue des Écoles D 4,23000,Saint-Laurent,C+O,46.166304,1.964158
+232060002G-14,14,Rue des Écoles,23000,Saint-Laurent,C+O,46.165864,1.965706
+232060002G-15,15,Rue des Écoles,23000,Saint-Laurent,C+O,46.165953,1.965738
+232060002G-16,16,Rue des Écoles,23000,Saint-Laurent,C+O,46.165650,1.966242
+232060002G-17,17,Rue des Écoles,23000,Saint-Laurent,C+O,46.165731,1.966296
+232060002G-2,2,Rue des Écoles,23000,Saint-Laurent,C+O,46.166566,1.962300
+232060002G-3,3,Rue des Écoles,23000,Saint-Laurent,C+O,46.166498,1.963051
+232060002G-4,4,Rue des Écoles,23000,Saint-Laurent,C+O,46.166490,1.962503
+232060002G-6,6,Rue des Écoles,23000,Saint-Laurent,C+O,46.166417,1.962611
+232060002G-7,7,Rue des Écoles,23000,Saint-Laurent,C+O,46.166304,1.964158
+232060002G-9,9,Rue des Écoles,23000,Saint-Laurent,OSM,46.166396,1.964399
 232060003H-10,10,Rue des Cerisiers,23000,Saint-Laurent,C+O,46.165263,1.960341
 232060003H-11,11,Rue des Cerisiers,23000,Saint-Laurent,C+O,46.166409,1.961760
 232060003H-1,1,Rue des Cerisiers,23000,Saint-Laurent,C+O,46.166578,1.962217
@@ -24498,7 +24499,7 @@
 232060008N-2,2,Allée des Chênes,23000,Saint-Laurent,C+O,46.164753,1.965147
 232060008N-3,3,Allée des Chênes,23000,Saint-Laurent,C+O,46.164672,1.965780
 232060009P-1,1,Place de l'Église,23000,Saint-Laurent,C+O,46.166669,1.961543
-232060009P-3,3,Place de l'Église,23000,Saint-Laurent,C+O,46.166784,1.961286
+232060009P-3,3,Place de l'Église,23000,Saint-Laurent,OSM,46.166786,1.961161
 232060010R-1,1,Impasse des Jardins,23000,Saint-Laurent,C+O,46.165269,1.962064
 232060010R-3,3,Impasse des Jardins,23000,Saint-Laurent,C+O,46.165212,1.962026
 232060012T-1,1,Place du Tilleul,23000,Saint-Laurent,C+O,46.166011,1.962075
@@ -25337,7 +25338,7 @@
 232230004K-7,7,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853908,1.689322
 232230004K-9,9,Route de la Croix-Pierre,23400,Saint-Moreil,C+O,45.853813,1.689560
 232230005L-1,1,Route des Écoles,23400,Saint-Moreil,C+O,45.852558,1.689655
-232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851774,1.688718
+232230005L-2,2,Route des Écoles,23400,Saint-Moreil,OSM,45.851546,1.688634
 232230005L-3,3,Route des Écoles,23400,Saint-Moreil,C+O,45.852004,1.689390
 232230006M-11,11,Place de l'Église,23400,Saint-Moreil,C+O,45.853061,1.689426
 232230006M-1,1,Place de l'Église,23400,Saint-Moreil,C+O,45.853711,1.689400
