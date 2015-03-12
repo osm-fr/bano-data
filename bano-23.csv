@@ -3532,7 +3532,7 @@
 230220002G-2,2,Route des Héros,23270,Bétête,C+O,46.360262,2.083072
 230220002G-3,3,Route des Héros,23270,Bétête,C+O,46.360413,2.083295
 230220002G-5,5,Route des Héros,23270,Bétête,C+O,46.360554,2.083657
-230220003H-10,10,Grande Rue,23270,Bétête,OSM,46.359387,2.078394
+230220003H-10,10,Grande Rue,23270,Bétête,OSM,46.359395,2.078389
 230220003H-11,11,Grande Rue,23270,Bétête,C+O,46.359454,2.077817
 230220003H-1,1,Grande Rue,23270,Bétête,C+O,46.359049,2.076788
 230220003H-13,13,Grande Rue,23270,Bétête,C+O,46.359456,2.078002
@@ -8951,6 +8951,7 @@
 230750020W-27,27,Avenue d'Auvergne,23800,Dun-le-Palestel,C+O,46.297075,1.678760
 230750020W-4,4,Avenue d'Auvergne,23800,Dun-le-Palestel,C+O,46.299788,1.676834
 230750020W-6,6,Avenue d'Auvergne,23800,Dun-le-Palestel,C+O,46.299718,1.676916
+230750020W-7,7,Avenue d'Auvergne,23800,Dun-le-Palestel,OSM,46.301151,1.674807
 230750025B-10,10,Rue de la Barre,23800,Dun-le-Palestel,C+O,46.305005,1.666545
 230750025B-12,12,Rue de la Barre,23800,Dun-le-Palestel,C+O,46.304970,1.666555
 230750025B-15,15,Rue de la Barre,23800,Dun-le-Palestel,C+O,46.304546,1.666644
@@ -9095,7 +9096,7 @@
 230750055J-8,8,Voie de la Claudière,23800,Dun-le-Palestel,C+O,46.308914,1.661464
 230750055J-9,9,Voie de la Claudière,23800,Dun-le-Palestel,C+O,46.308425,1.661672
 230750065V-1,1,Rue du 19 Mars 1962,23800,Dun-le-Palestel,C+O,46.306940,1.670580
-230750065V-2,2,Rue du 19 Mars 1962,23800,Dun-le-Palestel,C+O,46.306631,1.671234
+230750065V-2,2,Rue du 19 Mars 1962,23800,Dun-le-Palestel,OSM,46.306726,1.671321
 230750065V-3,3,Rue du 19 Mars 1962,23800,Dun-le-Palestel,C+O,46.307348,1.669969
 230750065V-4,4,Rue du 19 Mars 1962,23800,Dun-le-Palestel,C+O,46.306958,1.670735
 230750065V-6,6,Rue du 19 Mars 1962,23800,Dun-le-Palestel,C+O,46.307232,1.670325
@@ -9260,7 +9261,7 @@
 230750140B-13,13,Rue du Bazennerye,23800,Dun-le-Palestel,C+O,46.306268,1.666617
 230750140B-19,19,Rue du Bazennerye,23800,Dun-le-Palestel,C+O,46.306620,1.666333
 230750140B-3,3,Rue du Bazennerye,23800,Dun-le-Palestel,C+O,46.305923,1.666896
-230750140B-4,4,Rue du Bazennerye,23800,Dun-le-Palestel,C+O,46.306388,1.666667
+230750140B-4,4,Rue du Bazennerye,23800,Dun-le-Palestel,OSM,46.306090,1.667169
 230750140B-5,5,Rue du Bazennerye,23800,Dun-le-Palestel,C+O,46.306036,1.666804
 230750140B-6,6,Rue du Bazennerye,23800,Dun-le-Palestel,C+O,46.306544,1.666543
 230750140B-7,7,Rue du Bazennerye,23800,Dun-le-Palestel,C+O,46.306110,1.666746
@@ -9366,7 +9367,7 @@
 230750204W-8,8,Rue des Quatre Chemins,23800,Dun-le-Palestel,C+O,46.302283,1.670055
 230750205X-1,1,Route des Rateries,23800,Dun-le-Palestel,C+O,46.305949,1.674387
 230750205X-1B,1BIS,Route des Rateries,23800,Dun-le-Palestel,C+O,46.305943,1.675387
-230750205X-2,2,Route des Rateries,23800,Dun-le-Palestel,C+O,46.304201,1.675184
+230750205X-2,2,Route des Rateries,23800,Dun-le-Palestel,OSM,46.306179,1.673871
 230750205X-3,3,Route des Rateries,23800,Dun-le-Palestel,C+O,46.305647,1.674674
 230750205X-5,5,Route des Rateries,23800,Dun-le-Palestel,C+O,46.304948,1.674878
 230750205X-7,7,Route des Rateries,23800,Dun-le-Palestel,C+O,46.304694,1.675015
@@ -25021,7 +25022,7 @@
 232190008G-4,4,Rue de l'Ancienne Poste,23300,Saint-Maurice-la-Souterraine,C+O,46.214548,1.431327
 232190008G-6,6,Rue de l'Ancienne Poste,23300,Saint-Maurice-la-Souterraine,C+O,46.214598,1.431338
 232190009H-1,1,Place de la Mairie,23300,Saint-Maurice-la-Souterraine,C+O,46.214379,1.430868
-232190009H-2,2,Place de la Mairie,23300,Saint-Maurice-la-Souterraine,C+O,46.214205,1.430845
+232190009H-2,2,Place de la Mairie,23300,Saint-Maurice-la-Souterraine,OSM,46.214384,1.430766
 232190009H-3,3,Place de la Mairie,23300,Saint-Maurice-la-Souterraine,C+O,46.214228,1.431533
 232190009H-4,4,Place de la Mairie,23300,Saint-Maurice-la-Souterraine,C+O,46.214229,1.431546
 232190009H-5,5,Place de la Mairie,23300,Saint-Maurice-la-Souterraine,C+O,46.214512,1.431044
@@ -25589,6 +25590,7 @@
 232350002F-2,2,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,C+O,46.200826,1.535966
 232350002F-4,4,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,C+O,46.200955,1.536106
 232350002F-7,7,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,C+O,46.201208,1.536224
+232350002F-9,9,Rue Auguste Coulon,23300,Saint-Priest-la-Feuille,OSM,46.201474,1.536794
 232350009N-2,2,Rue Camille Corot,23300,Saint-Priest-la-Feuille,C+O,46.200789,1.535028
 232350009N-4,4,Rue Camille Corot,23300,Saint-Priest-la-Feuille,C+O,46.200849,1.535124
 232350011R-1,1,Route de Chamborand,23300,Saint-Priest-la-Feuille,C+O,46.200510,1.536053

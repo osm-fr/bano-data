@@ -2181,7 +2181,7 @@
 550220017U-7,7,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566179,5.390499
 550220017U-9,9,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566247,5.390461
 550220018V-10,10,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566577,5.390942
-550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566483,5.390965
+550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566454,5.390873
 550220018V-1,1,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.567272,5.390848
 550220018V-12,12,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566304,5.391260
 550220018V-14,14,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566325,5.391413
@@ -18622,7 +18622,7 @@
 552280030M-7,7,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038725,5.658837
 552280030M-8,8,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038579,5.658584
 552280030M-9,9,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038495,5.658439
-552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043358,5.662999
+552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
 552280045D-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
 552280045D-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
 552280045D-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
@@ -18795,7 +18795,7 @@
 552280125R-11,11,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036959,5.660557
 552280125R-12,12,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037623,5.658985
 552280125R-14,14,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037561,5.659073
-552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037508,5.659145
+552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037453,5.659216
 552280125R-20,20,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036748,5.659827
 552280125R-2,2,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.038003,5.658473
 552280125R-4,4,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037933,5.658570
@@ -26389,7 +26389,7 @@
 553510155N-18,18,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521514,5.364720
 553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
 553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
-553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522350,5.365429
+553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522436,5.365403
 553510155N-2,2,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520146,5.363978
 553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
 553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
@@ -28447,6 +28447,132 @@
 553820060A-4,4,Rue de la Vendée,55800,Neuville-sur-Ornain,OSM,48.824049,5.042788
 553820060A-6,6,Rue de la Vendée,55800,Neuville-sur-Ornain,OSM,48.824130,5.042667
 553820060A-8,8,Rue de la Vendée,55800,Neuville-sur-Ornain,OSM,48.824183,5.042586
+553850005C-11,11,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.110084,5.275307
+553850005C-1,1,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.109735,5.273740
+553850005C-13,13,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.110090,5.275574
+553850005C-15,15,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.110082,5.275679
+553850005C-17,17,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.110077,5.275858
+553850005C-19,19,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.110094,5.276184
+553850005C-1B,1B,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.109787,5.273851
+553850005C-3,3,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.109859,5.273942
+553850005C-4,4,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.109712,5.274134
+553850005C-5,5,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.109937,5.274358
+553850005C-6,6,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.109883,5.275138
+553850005C-7,7,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.109975,5.274556
+553850005C-9,9,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.110021,5.274946
+553850005C-9B,9B,Rue Basse du Pêche,55120,Nixéville-Blercourt,OSM,49.110058,5.275158
+553850010H-10,10,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.108842,5.276575
+553850010H-1,1,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.109382,5.276249
+553850010H-12,12,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.108579,5.276789
+553850010H-2,2,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.109446,5.275998
+553850010H-3,3,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.109035,5.276791
+553850010H-4,4,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.109401,5.276037
+553850010H-5,5,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.108803,5.277035
+553850010H-6,6,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.109235,5.276181
+553850010H-7,7,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.108557,5.277247
+553850010H-9,9,Voie du Bois,55120,Nixéville-Blercourt,OSM,49.108234,5.277569
+553850015N-1,1,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110427,5.273767
+553850015N-2,2,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110265,5.273860
+553850015N-3,3,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110555,5.274099
+553850015N-5,5,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110585,5.274211
+553850015N-7,7,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110632,5.274311
+553850020U-11,11,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109987,5.271810
+553850020U-1,1,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110140,5.273640
+553850020U-13,13,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109877,5.271585
+553850020U-15,15,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109511,5.271161
+553850020U-2,2,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110348,5.273328
+553850020U-3,3,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110174,5.273457
+553850020U-4,4,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110318,5.272877
+553850020U-5,5,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110181,5.273070
+553850020U-6,6,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110164,5.272238
+553850020U-7,7,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110117,5.272731
+553850020U-7B,7B,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109771,5.272314
+553850020U-8,8,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109598,5.270970
+553850020U-9,9,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110027,5.271955
+553850025Z-1,1,Rue de la Fontaine,55120,Nixéville-Blercourt,OSM,49.110226,5.271277
+553850025Z-2,2,Rue de la Fontaine,55120,Nixéville-Blercourt,OSM,49.110258,5.271524
+553850025Z-3,3,Rue de la Fontaine,55120,Nixéville-Blercourt,OSM,49.110336,5.271386
+553850030E-10,10,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109414,5.275337
+553850030E-11,11,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110302,5.277180
+553850030E-1,1,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109622,5.275217
+553850030E-12,12,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109477,5.275556
+553850030E-13,13,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110586,5.277634
+553850030E-14,14,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109565,5.275870
+553850030E-16,16,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109632,5.276155
+553850030E-16B,16B,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109687,5.276281
+553850030E-18,18,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109742,5.276402
+553850030E-2,2,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109671,5.274467
+553850030E-26,26,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110301,5.277943
+553850030E-28,28,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110425,5.278229
+553850030E-32,32,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110576,5.278694
+553850030E-3,3,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109692,5.275850
+553850030E-34,34,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110697,5.278910
+553850030E-4,4,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109501,5.274939
+553850030E-5,5,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110108,5.276628
+553850030E-6,6,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.109280,5.275036
+553850030E-7,7,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110163,5.276835
+553850030E-9,9,Rue Haute du Pêche,55120,Nixéville-Blercourt,OSM,49.110209,5.276985
+553850035K-10,10,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114265,5.282823
+553850035K-11,11,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114087,5.283031
+553850035K-1,1,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113226,5.283731
+553850035K-12,12,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113938,5.283261
+553850035K-13,13,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113759,5.283512
+553850035K-14,14,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113601,5.283759
+553850035K-15,15,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113409,5.283972
+553850035K-16,16,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113861,5.284190
+553850035K-17,17,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114122,5.284321
+553850035K-18,18,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114404,5.284334
+553850035K-19,19,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114617,5.284562
+553850035K-19B,19B,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114353,5.285078
+553850035K-20,20,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114153,5.284973
+553850035K-2,2,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113399,5.283417
+553850035K-3,3,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113530,5.283241
+553850035K-4,4,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113723,5.283057
+553850035K-5,5,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113869,5.282775
+553850035K-6,6,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.113996,5.282478
+553850035K-7,7,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114178,5.282256
+553850035K-8,8,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114335,5.282278
+553850035K-9,9,Rue du Lotissement de Mont Ville,55120,Nixéville-Blercourt,OSM,49.114436,5.282611
+553850040R-1,1,Chemin des Six Frères,55120,Nixéville-Blercourt,OSM,49.109586,5.272060
+553850040R-2,2,Chemin des Six Frères,55120,Nixéville-Blercourt,OSM,49.109346,5.271918
+553850040R-3,3,Chemin des Six Frères,55120,Nixéville-Blercourt,OSM,49.109001,5.272529
+553850040R-4,4,Chemin des Six Frères,55120,Nixéville-Blercourt,OSM,49.109083,5.272025
+553850040R-4B,4B,Chemin des Six Frères,55120,Nixéville-Blercourt,OSM,49.108937,5.272201
+553850040R-6,6,Chemin des Six Frères,55120,Nixéville-Blercourt,OSM,49.108824,5.272324
+553850040R-9,9,Chemin des Six Frères,55120,Nixéville-Blercourt,OSM,49.108642,5.273017
+553850045W-10,10,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111399,5.280825
+553850045W-11,11,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111900,5.280129
+553850045W-1,1,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111279,5.278990
+553850045W-12,12,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111503,5.281068
+553850045W-13,13,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111639,5.280499
+553850045W-14,14,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111636,5.281322
+553850045W-15,15,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111709,5.280812
+553850045W-15Q,15Q,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.112209,5.281497
+553850045W-16,16,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111742,5.281627
+553850045W-17,17,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.112478,5.281726
+553850045W-18,18,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111871,5.281913
+553850045W-19,19,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.112576,5.282180
+553850045W-20,20,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111990,5.282382
+553850045W-21,21,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.112699,5.282457
+553850045W-22,22,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.112142,5.282719
+553850045W-2,2,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111006,5.279419
+553850045W-3,3,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111362,5.279245
+553850045W-4,4,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111149,5.279905
+553850045W-5,5,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111582,5.279391
+553850045W-6,6,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111210,5.280289
+553850045W-7,7,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111678,5.279585
+553850045W-8,8,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111307,5.280558
+553850045W-9,9,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111720,5.279796
+553850083M-1,1,Impasse Mille Épines,55120,Nixéville-Blercourt,OSM,49.112826,5.282900
+553850083M-2,2,Impasse Mille Épines,55120,Nixéville-Blercourt,OSM,49.112897,5.283148
+553850083M-3,3,Impasse Mille Épines,55120,Nixéville-Blercourt,OSM,49.112990,5.282694
+553850083M-4,4,Impasse Mille Épines,55120,Nixéville-Blercourt,OSM,49.113142,5.282954
+553850083M-5,5,Impasse Mille Épines,55120,Nixéville-Blercourt,OSM,49.113156,5.282403
+553850083M-6,6,Impasse Mille Épines,55120,Nixéville-Blercourt,OSM,49.113347,5.282668
+553850098D-1,1,Allée de La Prêle,55120,Nixéville-Blercourt,OSM,49.110920,5.277946
+553850098D-2,2,Allée de La Prêle,55120,Nixéville-Blercourt,OSM,49.110940,5.278309
+553850098D-3,3,Allée de La Prêle,55120,Nixéville-Blercourt,OSM,49.111158,5.277715
+553850098D-4,4,Allée de La Prêle,55120,Nixéville-Blercourt,OSM,49.111227,5.277978
 553860001U-2,2,Rue de l'Abreuvoir,55210,Nonsard-Lamarche,C+O,48.930930,5.761309
 553860001U-4,4,Rue de l'Abreuvoir,55210,Nonsard-Lamarche,C+O,48.930832,5.761576
 553860001U-7,7,Rue de l'Abreuvoir,55210,Nonsard-Lamarche,C+O,48.930778,5.761982
