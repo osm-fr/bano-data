@@ -737,14 +737,14 @@
 040190165J-7089,7089,Place du Docteur Louis Signoret,04400,Barcelonnette,CAD,44.387616,6.650939
 040190170P-3,3,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388112,6.653624
 040190170P-5,5,Rue du Docteur Marius Devars,04400,Barcelonnette,C+O,44.388056,6.653818
-040190180A-2,2,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384846,6.650703
-040190180A-5,5,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.383831,6.651807
-040190180A-7003,7003,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385201,6.651369
-040190180A-7003A,7003A,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385193,6.651616
-040190180A-7003B,7003B,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385127,6.651634
-040190180A-7003C,7003C,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.384970,6.651858
-040190180A-7091,7091,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.385046,6.651312
-040190180A-7,7,Rue du Docteur Pierre Groués,04400,Barcelonnette,C+O,44.382845,6.651150
+040190180A-2,2,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384846,6.650703
+040190180A-5,5,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.383831,6.651807
+040190180A-7003,7003,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385201,6.651369
+040190180A-7003A,7003A,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385193,6.651616
+040190180A-7003B,7003B,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385127,6.651634
+040190180A-7003C,7003C,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.384970,6.651858
+040190180A-7091,7091,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.385046,6.651312
+040190180A-7,7,Rue Docteur Pierre Groues,04400,Barcelonnette,C+O,44.382845,6.651150
 040190190L-1,1,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388450,6.644921
 040190190L-2,2,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388400,6.645217
 040190190L-3,3,Montée des Edelweiss,04400,Barcelonnette,C+O,44.388557,6.644638
@@ -6228,12 +6228,12 @@
 040700896G-4,4,Rue Jean Moulin,04000,Digne-les-Bains,C+O,44.087294,6.230359
 040700896G-6,6,Rue Jean Moulin,04000,Digne-les-Bains,C+O,44.087261,6.230516
 040700896G-8,8,Rue Jean Moulin,04000,Digne-les-Bains,C+O,44.087209,6.230648
-040700900L-1,1,Rue Jeu-de-Paume,04000,Digne-les-Bains,C+O,44.092690,6.236573
-040700900L-2,2,Rue Jeu-de-Paume,04000,Digne-les-Bains,C+O,44.092762,6.236422
-040700900L-3,3,Rue Jeu-de-Paume,04000,Digne-les-Bains,C+O,44.092589,6.236358
-040700900L-4,4,Rue Jeu-de-Paume,04000,Digne-les-Bains,C+O,44.092636,6.236278
-040700900L-5,5,Rue Jeu-de-Paume,04000,Digne-les-Bains,C+O,44.092546,6.236274
-040700900L-8,8,Rue Jeu-de-Paume,04000,Digne-les-Bains,OSM,44.092575,6.236093
+040700900L-1,1,Rue du Jeu de Paume,04000,Digne-les-Bains,C+O,44.092690,6.236573
+040700900L-2,2,Rue du Jeu de Paume,04000,Digne-les-Bains,C+O,44.092762,6.236422
+040700900L-3,3,Rue du Jeu de Paume,04000,Digne-les-Bains,C+O,44.092589,6.236358
+040700900L-4,4,Rue du Jeu de Paume,04000,Digne-les-Bains,C+O,44.092636,6.236278
+040700900L-5,5,Rue du Jeu de Paume,04000,Digne-les-Bains,C+O,44.092546,6.236274
+040700900L-8,8,Rue du Jeu de Paume,04000,Digne-les-Bains,OSM,44.092575,6.236093
 040700905S-10,10,Rue des Jonquilles,04000,Digne-les-Bains,CAD,44.097656,6.231161
 040700905S-12,12,Rue des Jonquilles,04000,Digne-les-Bains,CAD,44.098221,6.231407
 040700905S-14,14,Rue des Jonquilles,04000,Digne-les-Bains,CAD,44.098207,6.231643
@@ -20533,11 +20533,11 @@
 042090195R-4,4,Rue du Bosquet,04200,Sisteron,CAD,44.181334,5.942941
 042090195R-6,6,Rue du Bosquet,04200,Sisteron,CAD,44.181417,5.942879
 042090195R-8,8,Rue du Bosquet,04200,Sisteron,CAD,44.181587,5.942965
-042090200W-1,1,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
-042090200W-32,32,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
-042090200W-420,420,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
-042090200W-5B,5BIS,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
-042090200W-6,6,Rue Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
+042090200W-1,1,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197519,5.945516
+042090200W-32,32,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197271,5.946035
+042090200W-420,420,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.197648,5.945776
+042090200W-5B,5BIS,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.195780,5.945285
+042090200W-6,6,Rue du Bourg-Reynaud,04200,Sisteron,C+O,44.196502,5.945781
 042090206C-46,46,Chemin de la Bousquette,04200,Sisteron,CAD,44.218006,5.915048
 042090214L-1,1,Impasse des Cerisiers,04200,Sisteron,CAD,44.184405,5.948502
 042090214L-3,3,Impasse des Cerisiers,04200,Sisteron,CAD,44.184042,5.948317
