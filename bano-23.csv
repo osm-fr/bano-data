@@ -3532,7 +3532,7 @@
 230220002G-2,2,Route des Héros,23270,Bétête,C+O,46.360262,2.083072
 230220002G-3,3,Route des Héros,23270,Bétête,C+O,46.360413,2.083295
 230220002G-5,5,Route des Héros,23270,Bétête,C+O,46.360554,2.083657
-230220003H-10,10,Grande Rue,23270,Bétête,OSM,46.359395,2.078389
+230220003H-10,10,Grande Rue,23270,Bétête,OSM,46.359387,2.078394
 230220003H-11,11,Grande Rue,23270,Bétête,C+O,46.359454,2.077817
 230220003H-1,1,Grande Rue,23270,Bétête,C+O,46.359049,2.076788
 230220003H-13,13,Grande Rue,23270,Bétête,C+O,46.359456,2.078002
@@ -5200,21 +5200,21 @@
 230310715T-7,7,Rue des Hortensias,23600,Boussac,C+O,46.348213,2.226498
 230310715T-8,8,Rue des Hortensias,23600,Boussac,C+O,46.348619,2.226129
 230310715T-9,9,Rue des Hortensias,23600,Boussac,C+O,46.348575,2.226014
-230310720Y-16,16,Place de l'Hôtel de Ville,23600,Boussac,OSM,46.348742,2.214088
-230310720Y-18,18,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348693,2.214266
-230310720Y-24,24,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348725,2.214631
-230310720Y-26,26,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348598,2.214840
-230310720Y-28,28,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348479,2.214908
-230310720Y-30,30,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348422,2.215019
-230310720Y-32,32,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348366,2.215160
-230310720Y-36,36,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.347971,2.214723
-230310720Y-38,38,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.347949,2.214580
-230310720Y-40,40,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.347923,2.214460
-230310720Y-42,42,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.347844,2.214099
-230310720Y-44,44,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.347798,2.213926
-230310720Y-6,6,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348411,2.214046
-230310720Y-6769,6769,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348020,2.213911
-230310720Y-8,8,Place de l'Hôtel de Ville,23600,Boussac,C+O,46.348468,2.214033
+230310720Y-16,16,Place de l'Hotel de Ville,23600,Boussac,OSM,46.348742,2.214088
+230310720Y-18,18,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348693,2.214266
+230310720Y-24,24,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348725,2.214631
+230310720Y-26,26,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348598,2.214840
+230310720Y-28,28,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348479,2.214908
+230310720Y-30,30,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348422,2.215019
+230310720Y-32,32,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348366,2.215160
+230310720Y-36,36,Place de l'Hotel de Ville,23600,Boussac,C+O,46.347971,2.214723
+230310720Y-38,38,Place de l'Hotel de Ville,23600,Boussac,C+O,46.347949,2.214580
+230310720Y-40,40,Place de l'Hotel de Ville,23600,Boussac,C+O,46.347923,2.214460
+230310720Y-42,42,Place de l'Hotel de Ville,23600,Boussac,C+O,46.347844,2.214099
+230310720Y-44,44,Place de l'Hotel de Ville,23600,Boussac,C+O,46.347798,2.213926
+230310720Y-6,6,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348411,2.214046
+230310720Y-6769,6769,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348020,2.213911
+230310720Y-8,8,Place de l'Hotel de Ville,23600,Boussac,C+O,46.348468,2.214033
 230310784T-1,1,Rue du 8 Mai 1945,23600,Boussac,C+O,46.350616,2.215322
 230310784T-13,13,Rue du 8 Mai 1945,23600,Boussac,C+O,46.351305,2.214180
 230310784T-2,2,Rue du 8 Mai 1945,23600,Boussac,C+O,46.350653,2.215424
@@ -22828,7 +22828,7 @@
 231761370Z-60,60,Avenue de la République,23300,La Souterraine,C+O,46.241087,1.503700
 231761370Z-62,62,Avenue de la République,23300,La Souterraine,C+O,46.241226,1.504533
 231761370Z-6,6,Avenue de la République,23300,La Souterraine,C+O,46.238780,1.494563
-231761370Z-7,7,Avenue de la République,23300,La Souterraine,C+O,46.238936,1.494748
+231761370Z-7,7,Avenue de la République,23300,La Souterraine,OSM,46.239072,1.494831
 231761370Z-8,8,Avenue de la République,23300,La Souterraine,C+O,46.238810,1.494709
 231761370Z-8B,8BIS,Avenue de la République,23300,La Souterraine,C+O,46.238618,1.494901
 231761370Z-9,9,Avenue de la République,23300,La Souterraine,C+O,46.239046,1.495295
@@ -26050,12 +26050,12 @@
 232440024R-7,7,Rue Principale,23800,Saint-Sulpice-le-Dunois,C+O,46.299180,1.730537
 232440024R-8,8,Rue Principale,23800,Saint-Sulpice-le-Dunois,C+O,46.299396,1.730009
 232440024R-9,9,Rue Principale,23800,Saint-Sulpice-le-Dunois,C+O,46.299154,1.730629
-232440027U-1,1,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,OSM,46.299516,1.728832
-232440027U-2,2,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,C+O,46.299572,1.729390
-232440027U-3,3,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,C+O,46.299387,1.729413
-232440027U-4,4,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,C+O,46.299565,1.729517
-232440027U-5,5,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,C+O,46.299379,1.729610
-232440027U-6,6,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,C+O,46.299521,1.729583
+232440027U-1,1,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,CAD,46.299480,1.729165
+232440027U-2,2,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,CAD,46.299572,1.729390
+232440027U-3,3,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,CAD,46.299387,1.729413
+232440027U-4,4,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,CAD,46.299565,1.729517
+232440027U-5,5,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,CAD,46.299379,1.729610
+232440027U-6,6,Placa du Souvenir,23800,Saint-Sulpice-le-Dunois,CAD,46.299521,1.729583
 232440029W-7,7,Les Mesures Sud,23800,Saint-Sulpice-le-Dunois,C+O,46.304839,1.720857
 232440029W-8,8,Les Mesures Sud,23800,Saint-Sulpice-le-Dunois,C+O,46.304576,1.720590
 232440029W-9,9,Les Mesures Sud,23800,Saint-Sulpice-le-Dunois,C+O,46.304820,1.720110
