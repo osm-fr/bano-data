@@ -9354,12 +9354,12 @@
 550850013R-1,1,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.813885,5.732695
 550850013R-2,2,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814254,5.733547
 550850013R-3,3,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814489,5.733445
-550850014S-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
-550850015T-2,2,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813197,5.733614
-550850015T-3,3,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813661,5.733752
-550850015T-4,4,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813299,5.733468
-550850015T-5,5,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813848,5.734103
-550850015T-6,6,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813419,5.733681
+550850015T-2,2,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813197,5.733614
+550850015T-3,3,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813661,5.733752
+550850015T-4,4,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813299,5.733468
+550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813848,5.734103
+550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
+550850015T-6,6,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813419,5.733681
 550850016U-5,5,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824526,5.705386
 550850016U-5A,5A,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824694,5.705362
 550850017V-1,1,Chemin de Jouy,55200,Broussey-Raulecourt,C+O,48.822058,5.705791
@@ -13953,6 +13953,148 @@
 551540155V-6,6,Rue de la Meuse,55320,Dieue-sur-Meuse,OSM,49.070863,5.420750
 551540155V-8,8,Rue de la Meuse,55320,Dieue-sur-Meuse,OSM,49.070824,5.420570
 551540200U-114,114,Rue du Rattentout,55320,Dieue-sur-Meuse,OSM,49.064038,5.431644
+551550005C-105,105,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136529,5.190114
+551550005C-111,111,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136510,5.190021
+551550005C-117,117,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136492,5.189805
+551550005C-133,133,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136448,5.189615
+551550005C-171,171,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136344,5.189128
+551550005C-183,183,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136314,5.188968
+551550005C-186,186,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136394,5.188721
+551550005C-201,201,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136188,5.188690
+551550005C-222,222,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136320,5.188549
+551550005C-232,232,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136241,5.188354
+551550005C-25,25,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136699,5.191174
+551550005C-276,276,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135969,5.187714
+551550005C-277,277,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135818,5.187852
+551550005C-286,286,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135916,5.187599
+551550005C-330,330,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135560,5.187289
+551550005C-336,336,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135700,5.187002
+551550005C-41,41,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136662,5.190994
+551550005C-61,61,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136608,5.190596
+551550005C-67,67,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136585,5.190493
+551550010H-215,215,Rue des Échavées,55120,Dombasle-en-Argonne,OSM,49.138207,5.196349
+551550010H-5,5,Rue des Échavées,55120,Dombasle-en-Argonne,OSM,49.137847,5.193538
+551550015N-109,109,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138024,5.189550
+551550015N-115,115,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138068,5.189404
+551550015N-125,125,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138098,5.189231
+551550015N-145,145,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138070,5.188991
+551550015N-167,167,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138222,5.188745
+551550015N-29,29,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.137778,5.190436
+551550015N-49,49,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.137785,5.190159
+551550015N-54,54,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138319,5.189816
+551550015N-61,61,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.137799,5.190050
+551550015N-75,75,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.137934,5.189845
+551550015N-80,80,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138241,5.189531
+551550025Z-21,21,Carrefour de la Libération,55120,Dombasle-en-Argonne,OSM,49.136924,5.190807
+551550025Z-60,60,Carrefour de la Libération,55120,Dombasle-en-Argonne,OSM,49.137233,5.190506
+551550030E-117,117,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137229,5.189001
+551550030E-120,120,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137472,5.188871
+551550030E-130,130,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137501,5.188719
+551550030E-135,135,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137311,5.188692
+551550030E-146,146,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137652,5.188598
+551550030E-20,20,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137201,5.190122
+551550030E-214,214,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137854,5.187742
+551550030E-242,242,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137888,5.187371
+551550030E-31,31,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137015,5.189926
+551550030E-47,47,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.136986,5.189782
+551550030E-50,50,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137431,5.189900
+551550030E-55,55,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137071,5.189603
+551550030E-59,59,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137092,5.189520
+551550030E-87,87,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137167,5.189226
+551550035K-13,13,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136570,5.191648
+551550035K-33,33,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136412,5.191581
+551550035K-51,51,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136362,5.191327
+551550035K-59,59,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136259,5.191246
+551550035K-81,81,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.135943,5.190849
+551550040R-107,107,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138906,5.191420
+551550040R-113,113,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138976,5.191552
+551550040R-116,116,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138865,5.191681
+551550040R-140,140,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139013,5.191847
+551550040R-141,141,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139083,5.191787
+551550040R-160,160,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139097,5.191970
+551550040R-175,175,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139276,5.192053
+551550040R-18,18,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138235,5.190633
+551550040R-32,32,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138329,5.190719
+551550040R-42,42,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138461,5.190854
+551550040R-43,43,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138524,5.190728
+551550040R-4,4,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138151,5.190556
+551550040R-5,5,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138355,5.190458
+551550040R-56,56,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138521,5.190961
+551550040R-57,57,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138615,5.190823
+551550040R-64,64,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138559,5.191030
+551550040R-69,69,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138648,5.190969
+551550040R-75,75,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138715,5.191095
+551550040R-80,80,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138610,5.191193
+551550040R-88,88,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138661,5.191317
+551550040R-95,95,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138837,5.191292
+551550050B-117,117,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138196,5.191719
+551550050B-122,122,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138145,5.192020
+551550050B-125,125,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138292,5.191804
+551550050B-131,131,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138416,5.191860
+551550050B-161,161,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138603,5.191916
+551550050B-234,234,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139151,5.192417
+551550050B-255,255,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139446,5.192260
+551550050B-256,256,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139101,5.193159
+551550050B-272,272,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139514,5.192599
+551550050B-280,280,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139626,5.192690
+551550050B-294,294,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139770,5.192694
+551550050B-320,320,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139910,5.192811
+551550050B-331,331,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140157,5.192690
+551550050B-332,332,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140055,5.192931
+551550050B-344,344,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140163,5.193021
+551550050B-371,371,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140326,5.192831
+551550050B-379,379,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140435,5.192919
+551550050B-395,395,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140548,5.193011
+551550050B-415,415,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140727,5.193155
+551550050B-423,423,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140871,5.193267
+551550050B-447,447,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141019,5.193401
+551550050B-45,45,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137753,5.191035
+551550050B-463,463,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141137,5.193509
+551550050B-493,493,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141273,5.193617
+551550050B-54,54,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137694,5.191254
+551550050B-55,55,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137848,5.191211
+551550050B-66,66,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137815,5.191454
+551550050B-69,69,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137958,5.191346
+551550050B-72,72,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137808,5.191750
+551550050B-89,89,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138024,5.191510
+551550050B-96,96,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137963,5.191803
+551550050B-99,99,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138115,5.191621
+551550055G-111,111,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.138125,5.193451
+551550055G-11,11,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.138460,5.192230
+551550055G-160,160,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.137737,5.193172
+551550055G-195,195,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.137794,5.192840
+551550055G-205,205,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.137966,5.192689
+551550055G-212,212,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.138035,5.192570
+551550055G-31,31,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.138411,5.192493
+551550055G-5,5,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.138478,5.192136
+551550055G-69,69,Place Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.138325,5.192878
+551550060M-12,12,Rue Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.137980,5.193939
+551550060M-28,28,Rue Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.138073,5.194015
+551550060M-6,6,Rue Saint-Basle,55120,Dombasle-en-Argonne,OSM,49.137911,5.193961
+551550065T-24,24,Rue Saint-Nicolas,55120,Dombasle-en-Argonne,OSM,49.137591,5.192928
+551550065T-44,44,Rue Saint-Nicolas,55120,Dombasle-en-Argonne,OSM,49.137530,5.192605
+551550065T-62,62,Rue Saint-Nicolas,55120,Dombasle-en-Argonne,OSM,49.137276,5.192571
+551550070Y-123,123,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137200,5.193012
+551550070Y-133,133,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137231,5.193222
+551550070Y-134,134,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137089,5.193477
+551550070Y-140,140,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.136947,5.193857
+551550070Y-155,155,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137286,5.193475
+551550070Y-160,160,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137164,5.193944
+551550070Y-176,176,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137112,5.194206
+551550070Y-185,185,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137422,5.193825
+551550070Y-205,205,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137484,5.194130
+551550070Y-228,228,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137219,5.194801
+551550070Y-253,253,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137603,5.194661
+551550070Y-28,28,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.136850,5.192169
+551550070Y-296,296,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137424,5.195629
+551550070Y-299,299,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137697,5.195382
+551550070Y-304,304,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137656,5.196051
+551550070Y-335,335,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137766,5.195729
+551550070Y-413,413,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137992,5.196803
+551550070Y-46,46,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.136936,5.192382
+551550070Y-58,58,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.136976,5.192572
+551550070Y-65,65,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137101,5.192270
+551550070Y-90,90,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137034,5.192950
 551590012T-2,2,Rue de la Cantine,55300,Dompcevrin,OSM,48.933644,5.490388
 551590012T-4,4,Rue de la Cantine,55300,Dompcevrin,OSM,48.934041,5.490318
 551590013U-2,2,Rue des Maix,55300,Dompcevrin,OSM,48.929377,5.489074
@@ -18622,7 +18764,7 @@
 552280030M-7,7,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038725,5.658837
 552280030M-8,8,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038579,5.658584
 552280030M-9,9,Place du Château,55210,Hannonville-sous-les-Côtes,OSM,49.038495,5.658439
-552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043366,5.662522
+552280045D-101,101,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043358,5.662999
 552280045D-103,103,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043405,5.663112
 552280045D-105,105,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043436,5.663197
 552280045D-107,107,Rue Chaude,55210,Hannonville-sous-les-Côtes,OSM,49.043470,5.663281
@@ -18824,10 +18966,10 @@
 552290004E-5,5,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.868091,5.551082
 552290004E-7,7,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.867959,5.552075
 552290004E-9,9,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.867878,5.552453
-552290007H-11,11,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869494,5.550897
-552290007H-1,1,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.868708,5.550929
-552290007H-2,2,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.866484,5.538954
-552290007H-3,3,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869029,5.551283
+552290006G-11,11,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869494,5.550897
+552290006G-1,1,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.868708,5.550929
+552290006G-2,2,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.866484,5.538954
+552290006G-3,3,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869029,5.551283
 552290008J-10,10,Rue Falson,55300,Han-sur-Meuse,OSM,48.866302,5.540372
 552290008J-11,11,Rue Falson,55300,Han-sur-Meuse,OSM,48.866588,5.540408
 552290008J-1,1,Rue Falson,55300,Han-sur-Meuse,OSM,48.866097,5.539007
@@ -18895,13 +19037,13 @@
 552290013P-7,7,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864718,5.541550
 552290013P-8,8,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864648,5.540992
 552290013P-9,9,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864483,5.541832
-552290015S-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
-552290015S-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865647,5.538939
-552290015S-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865232,5.538708
-552290015S-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
-552290015S-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
-552290015S-6,6,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865997,5.539381
-552290015S-8,8,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866290,5.539552
+552290014R-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
+552290014R-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868899,5.550063
+552290014R-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868990,5.550507
+552290014R-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
+552290014R-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
+552290014R-6,6,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865997,5.539381
+552290014R-8,8,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866290,5.539552
 552290016T-10,10,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.870273,5.547199
 552290016T-1,1,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.868756,5.549572
 552290016T-12,12,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.870442,5.547009
@@ -24521,27 +24663,27 @@
 553020007R-7,7,Rue des Alliés,55000,Longeville-en-Barrois,C+O,48.742423,5.210635
 553020007R-8,8,Rue des Alliés,55000,Longeville-en-Barrois,C+O,48.742478,5.210848
 553020007R-9,9,Rue des Alliés,55000,Longeville-en-Barrois,C+O,48.742373,5.210680
-553020013X-10,10,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743372,5.209767
-553020013X-11,11,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743255,5.210148
-553020013X-1,1,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.742884,5.210473
-553020013X-12,12,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743460,5.209698
-553020013X-13,13,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743353,5.210062
-553020013X-14,14,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743592,5.209590
-553020013X-15,15,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743534,5.209900
-553020013X-16,16,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743716,5.209485
-553020013X-18,18,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743820,5.209391
-553020013X-19,19,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743750,5.209706
-553020013X-21,21,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743837,5.209629
-553020013X-2,2,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.742913,5.210169
-553020013X-25,25,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.745304,5.208321
-553020013X-27,27,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.745365,5.208267
-553020013X-29,29,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.745548,5.208102
-553020013X-31,31,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.747859,5.206625
-553020013X-3,3,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.742951,5.210417
-553020013X-4,4,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743053,5.210034
-553020013X-5,5,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743017,5.210360
-553020013X-8,8,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743313,5.209814
-553020013X-9,9,Rue de Bar,55000,Longeville-en-Barrois,CAD,48.743186,5.210209
+553020013X-10,10,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743372,5.209767
+553020013X-11,11,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743255,5.210148
+553020013X-1,1,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.742884,5.210473
+553020013X-12,12,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743460,5.209698
+553020013X-13,13,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743353,5.210062
+553020013X-14,14,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743592,5.209590
+553020013X-15,15,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743534,5.209900
+553020013X-16,16,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743716,5.209485
+553020013X-18,18,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743820,5.209391
+553020013X-19,19,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743750,5.209706
+553020013X-21,21,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743837,5.209629
+553020013X-2,2,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.742913,5.210169
+553020013X-25,25,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.745304,5.208321
+553020013X-27,27,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.745365,5.208267
+553020013X-29,29,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.745548,5.208102
+553020013X-31,31,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.747859,5.206625
+553020013X-3,3,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.742951,5.210417
+553020013X-4,4,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743053,5.210034
+553020013X-5,5,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743017,5.210360
+553020013X-8,8,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743313,5.209814
+553020013X-9,9,Rue de Bar,55000,Longeville-en-Barrois,C+O,48.743186,5.210209
 553020014Y-2,2,Ferme de Beauregard,55000,Longeville-en-Barrois,CAD,48.729864,5.197461
 553020014Y-4,4,Ferme de Beauregard,55000,Longeville-en-Barrois,CAD,48.729579,5.196723
 553020023H-1,1,Rue du Calvaire,55000,Longeville-en-Barrois,C+O,48.743424,5.204739
@@ -24552,15 +24694,15 @@
 553020023H-6,6,Rue du Calvaire,55000,Longeville-en-Barrois,C+O,48.743346,5.204751
 553020023H-8,8,Rue du Calvaire,55000,Longeville-en-Barrois,C+O,48.743399,5.204410
 553020025K-6,6,Rue des Cerisiers,55000,Longeville-en-Barrois,C+O,48.746796,5.205940
-553020032T-10,10,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.740481,5.200075
-553020032T-10B,10BIS,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.740124,5.200802
-553020032T-1,1,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.741563,5.201100
-553020032T-12,12,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.740232,5.199793
-553020032T-3,3,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.741392,5.200897
-553020032T-4,4,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.740920,5.201305
-553020032T-6,6,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.740741,5.201082
-553020032T-7,7,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.741005,5.199705
-553020032T-9,9,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,CAD,48.740431,5.199834
+553020032T-10,10,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.740481,5.200075
+553020032T-10B,10BIS,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.740124,5.200802
+553020032T-1,1,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.741563,5.201100
+553020032T-12,12,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.740232,5.199793
+553020032T-3,3,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.741392,5.200897
+553020032T-4,4,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.740920,5.201305
+553020032T-6,6,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.740741,5.201082
+553020032T-7,7,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.741005,5.199705
+553020032T-9,9,Chemin de la Grande Chalaide,55000,Longeville-en-Barrois,C+O,48.740431,5.199834
 553020034V-10,10,Rue des Chenevières,55000,Longeville-en-Barrois,C+O,48.743006,5.208775
 553020034V-11,11,Rue des Chenevières,55000,Longeville-en-Barrois,C+O,48.742895,5.208801
 553020034V-12,12,Rue des Chenevières,55000,Longeville-en-Barrois,C+O,48.743067,5.208866
@@ -24606,16 +24748,16 @@
 553020036X-3,3,Rue de la Citadelle,55000,Longeville-en-Barrois,C+O,48.741101,5.206784
 553020036X-7,7,Rue de la Citadelle,55000,Longeville-en-Barrois,C+O,48.740943,5.206687
 553020036X-9,9,Rue de la Citadelle,55000,Longeville-en-Barrois,C+O,48.740844,5.206620
-553020038Z-3,3,Chemin des Clous,55000,Longeville-en-Barrois,CAD,48.740174,5.201947
-553020038Z-5,5,Chemin des Clous,55000,Longeville-en-Barrois,CAD,48.740487,5.202810
+553020038Z-3,3,Chemin des Clous,55000,Longeville-en-Barrois,C+O,48.740174,5.201947
+553020038Z-5,5,Chemin des Clous,55000,Longeville-en-Barrois,C+O,48.740487,5.202810
 553020041C-1,1,Côte des Fermes,55000,Longeville-en-Barrois,CAD,48.732155,5.198896
 553020041C-2,2,Côte des Fermes,55000,Longeville-en-Barrois,CAD,48.738032,5.206614
 553020041C-4,4,Côte des Fermes,55000,Longeville-en-Barrois,CAD,48.737820,5.206205
-553020042D-12,12,Impasse de l'Ecluse,55000,Longeville-en-Barrois,CAD,48.742282,5.202531
-553020042D-14,14,Impasse de l'Ecluse,55000,Longeville-en-Barrois,CAD,48.742079,5.202875
-553020042D-16,16,Impasse de l'Ecluse,55000,Longeville-en-Barrois,CAD,48.741919,5.202616
-553020042D-18,18,Impasse de l'Ecluse,55000,Longeville-en-Barrois,CAD,48.741841,5.202469
-553020042D-20,20,Impasse de l'Ecluse,55000,Longeville-en-Barrois,CAD,48.742046,5.202286
+553020042D-12,12,Impasse de l'Écluse,55000,Longeville-en-Barrois,C+O,48.742282,5.202531
+553020042D-14,14,Impasse de l'Écluse,55000,Longeville-en-Barrois,C+O,48.742079,5.202875
+553020042D-16,16,Impasse de l'Écluse,55000,Longeville-en-Barrois,C+O,48.741919,5.202616
+553020042D-18,18,Impasse de l'Écluse,55000,Longeville-en-Barrois,C+O,48.741841,5.202469
+553020042D-20,20,Impasse de l'Écluse,55000,Longeville-en-Barrois,C+O,48.742046,5.202286
 553020044F-11,11,Rue de la Fontaine,55000,Longeville-en-Barrois,C+O,48.741958,5.208024
 553020044F-1,1,Rue de la Fontaine,55000,Longeville-en-Barrois,C+O,48.741494,5.208040
 553020044F-13,13,Rue de la Fontaine,55000,Longeville-en-Barrois,C+O,48.742341,5.207971
@@ -24733,14 +24875,14 @@
 553020054S-7,7,Rue de Laissue,55000,Longeville-en-Barrois,C+O,48.738755,5.211204
 553020054S-8,8,Rue de Laissue,55000,Longeville-en-Barrois,C+O,48.738477,5.211544
 553020054S-9,9,Rue de Laissue,55000,Longeville-en-Barrois,C+O,48.738694,5.211253
-553020058W-10,10,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.745355,5.210133
-553020058W-1,1,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.744425,5.209293
-553020058W-2,2,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.744490,5.209237
-553020058W-3,3,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.744557,5.209517
-553020058W-4,4,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.744631,5.209471
-553020058W-5,5,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.744706,5.209769
-553020058W-6,6,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.744774,5.209709
-553020058W-8,8,Rue Lydie Ries,55000,Longeville-en-Barrois,CAD,48.744916,5.209946
+553020058W-10,10,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.745355,5.210133
+553020058W-1,1,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.744425,5.209293
+553020058W-2,2,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.744490,5.209237
+553020058W-3,3,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.744557,5.209517
+553020058W-4,4,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.744631,5.209471
+553020058W-5,5,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.744706,5.209769
+553020058W-6,6,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.744774,5.209709
+553020058W-8,8,Rue Lydie Ries,55000,Longeville-en-Barrois,C+O,48.744916,5.209946
 553020059X-2,2,Rue Manises,55000,Longeville-en-Barrois,CAD,48.747096,5.205024
 553020062A-10,10,Rue Meseaux,55000,Longeville-en-Barrois,C+O,48.741047,5.208095
 553020062A-1,1,Rue Meseaux,55000,Longeville-en-Barrois,C+O,48.741357,5.207759
@@ -24858,8 +25000,8 @@
 553020092H-9,9,Rue du Paquis,55000,Longeville-en-Barrois,C+O,48.743170,5.205504
 553020093J-1,1,Impasse de la Praye,55000,Longeville-en-Barrois,C+O,48.751710,5.194549
 553020093J-3,3,Impasse de la Praye,55000,Longeville-en-Barrois,C+O,48.752051,5.195139
-553020097N-1,1,Chemin de la Praie,55000,Longeville-en-Barrois,CAD,48.743446,5.203331
-553020097N-2,2,Chemin de la Praie,55000,Longeville-en-Barrois,CAD,48.743474,5.202969
+553020097N-1,1,Chemin de la Praie,55000,Longeville-en-Barrois,C+O,48.743446,5.203331
+553020097N-2,2,Chemin de la Praie,55000,Longeville-en-Barrois,C+O,48.743474,5.202969
 553020101T-1,1,Avenue des Romains,55000,Longeville-en-Barrois,C+O,48.756343,5.196560
 553020101T-2,2,Avenue des Romains,55000,Longeville-en-Barrois,C+O,48.754921,5.194403
 553020102U-10,10,Rue de la Ruelle,55000,Longeville-en-Barrois,C+O,48.741731,5.208942
@@ -24970,26 +25112,26 @@
 553020122R-8,8,Rue des Trois Pressoirs,55000,Longeville-en-Barrois,C+O,48.739481,5.210364
 553020122R-9,9,Rue des Trois Pressoirs,55000,Longeville-en-Barrois,C+O,48.739478,5.210136
 553020125U-1,1,Ferme de Vadinseaux,55000,Longeville-en-Barrois,CAD,48.728209,5.190344
-553020129Y-10,10,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.740067,5.211185
-553020129Y-11,11,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739496,5.211080
-553020129Y-1,1,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.740145,5.210774
-553020129Y-12,12,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739934,5.211031
-553020129Y-13,13,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739410,5.211118
-553020129Y-14,14,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739811,5.211083
-553020129Y-16,16,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739650,5.211120
-553020129Y-18,18,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739531,5.211171
-553020129Y-20,20,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739452,5.211207
-553020129Y-22,22,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739372,5.211244
-553020129Y-2,2,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.740317,5.210847
-553020129Y-24,24,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739276,5.211281
-553020129Y-26,26,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739132,5.211322
-553020129Y-28,28,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.738971,5.211381
-553020129Y-30,30,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.738931,5.211420
-553020129Y-4,4,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.740190,5.210859
-553020129Y-4B,4BIS,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.740188,5.210997
-553020129Y-6,6,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.740067,5.210975
-553020129Y-8,8,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.740096,5.211244
-553020129Y-9,9,Rue Voiselle,55000,Longeville-en-Barrois,CAD,48.739551,5.210823
+553020129Y-10,10,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.740067,5.211185
+553020129Y-11,11,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739496,5.211080
+553020129Y-1,1,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.740145,5.210774
+553020129Y-12,12,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739934,5.211031
+553020129Y-13,13,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739410,5.211118
+553020129Y-14,14,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739811,5.211083
+553020129Y-16,16,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739650,5.211120
+553020129Y-18,18,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739531,5.211171
+553020129Y-20,20,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739452,5.211207
+553020129Y-22,22,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739372,5.211244
+553020129Y-2,2,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.740317,5.210847
+553020129Y-24,24,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739276,5.211281
+553020129Y-26,26,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739132,5.211322
+553020129Y-28,28,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.738971,5.211381
+553020129Y-30,30,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.738931,5.211420
+553020129Y-4,4,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.740190,5.210859
+553020129Y-4B,4BIS,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.740188,5.210997
+553020129Y-6,6,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.740067,5.210975
+553020129Y-8,8,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.740096,5.211244
+553020129Y-9,9,Rue Voiselle,55000,Longeville-en-Barrois,C+O,48.739551,5.210823
 553030001E-2,2,Ruelle de la Barre,55300,Loupmont,CAD,48.870093,5.674900
 553030002F-6,6,Chemin du Breuil,55300,Loupmont,CAD,48.869990,5.676814
 553030004H-10,10,Grande Rue,55300,Loupmont,CAD,48.870908,5.675530
@@ -25459,117 +25601,117 @@
 553290015G-3,3,Rue Saint-Michel,55300,Mécrin,OSM,48.820551,5.536855
 553290015G-4,4,Rue Saint-Michel,55300,Mécrin,OSM,48.820533,5.536678
 553290015G-5,5,Rue Saint-Michel,55300,Mécrin,OSM,48.820513,5.536482
-553320005H-1,1,Rue Basse,55500,Menaucourt,CAD,48.650443,5.352196
-553320005H-12,12,Rue Basse,55500,Menaucourt,CAD,48.650806,5.351938
-553320005H-14,14,Rue Basse,55500,Menaucourt,CAD,48.650864,5.351847
-553320005H-15,15,Rue Basse,55500,Menaucourt,CAD,48.651051,5.350605
-553320005H-16,16,Rue Basse,55500,Menaucourt,CAD,48.650954,5.351696
-553320005H-18,18,Rue Basse,55500,Menaucourt,CAD,48.651049,5.351536
-553320005H-2,2,Rue Basse,55500,Menaucourt,CAD,48.650475,5.352523
-553320005H-24,24,Rue Basse,55500,Menaucourt,CAD,48.651249,5.351197
-553320005H-26,26,Rue Basse,55500,Menaucourt,CAD,48.651410,5.351014
-553320005H-3,3,Rue Basse,55500,Menaucourt,CAD,48.650836,5.351774
-553320005H-7,7,Rue Basse,55500,Menaucourt,CAD,48.651021,5.351475
-553320005H-8,8,Rue Basse,55500,Menaucourt,CAD,48.650680,5.352126
-553320005H-9,9,Rue Basse,55500,Menaucourt,CAD,48.650888,5.350962
+553320005H-1,1,Rue Basse,55500,Menaucourt,C+O,48.650443,5.352196
+553320005H-12,12,Rue Basse,55500,Menaucourt,C+O,48.650806,5.351938
+553320005H-14,14,Rue Basse,55500,Menaucourt,C+O,48.650864,5.351847
+553320005H-15,15,Rue Basse,55500,Menaucourt,C+O,48.651051,5.350605
+553320005H-16,16,Rue Basse,55500,Menaucourt,C+O,48.650954,5.351696
+553320005H-18,18,Rue Basse,55500,Menaucourt,C+O,48.651049,5.351536
+553320005H-2,2,Rue Basse,55500,Menaucourt,C+O,48.650475,5.352523
+553320005H-24,24,Rue Basse,55500,Menaucourt,C+O,48.651249,5.351197
+553320005H-26,26,Rue Basse,55500,Menaucourt,C+O,48.651410,5.351014
+553320005H-3,3,Rue Basse,55500,Menaucourt,C+O,48.650836,5.351774
+553320005H-7,7,Rue Basse,55500,Menaucourt,C+O,48.651021,5.351475
+553320005H-8,8,Rue Basse,55500,Menaucourt,C+O,48.650680,5.352126
+553320005H-9,9,Rue Basse,55500,Menaucourt,C+O,48.650888,5.350962
 553320008L-10,10,Chemin Departemental 5,55500,Menaucourt,CAD,48.649579,5.350043
-553320016V-10,10,Rue de l'Église,55500,Menaucourt,CAD,48.649876,5.355651
-553320016V-11,11,Rue de l'Église,55500,Menaucourt,CAD,48.649370,5.356436
-553320016V-1,1,Rue de l'Église,55500,Menaucourt,CAD,48.649993,5.355227
-553320016V-12,12,Rue de l'Église,55500,Menaucourt,CAD,48.649725,5.355904
-553320016V-14,14,Rue de l'Église,55500,Menaucourt,CAD,48.649643,5.355953
-553320016V-15,15,Rue de l'Église,55500,Menaucourt,CAD,48.649301,5.356584
-553320016V-16,16,Rue de l'Église,55500,Menaucourt,CAD,48.649551,5.356009
-553320016V-17,17,Rue de l'Église,55500,Menaucourt,CAD,48.649221,5.356749
-553320016V-19,19,Rue de l'Église,55500,Menaucourt,CAD,48.649155,5.356895
-553320016V-2,2,Rue de l'Église,55500,Menaucourt,CAD,48.649717,5.354531
-553320016V-23,23,Rue de l'Église,55500,Menaucourt,CAD,48.649055,5.357118
-553320016V-24,24,Rue de l'Église,55500,Menaucourt,CAD,48.649118,5.356851
-553320016V-25,25,Rue de l'Église,55500,Menaucourt,CAD,48.649017,5.357204
-553320016V-26,26,Rue de l'Église,55500,Menaucourt,CAD,48.649025,5.357026
-553320016V-27,27,Rue de l'Église,55500,Menaucourt,CAD,48.648973,5.357304
-553320016V-28,28,Rue de l'Église,55500,Menaucourt,CAD,48.648929,5.357252
-553320016V-29,29,Rue de l'Église,55500,Menaucourt,CAD,48.648925,5.357413
-553320016V-30,30,Rue de l'Église,55500,Menaucourt,CAD,48.648884,5.357345
-553320016V-31,31,Rue de l'Église,55500,Menaucourt,CAD,48.648864,5.357517
-553320016V-33,33,Rue de l'Église,55500,Menaucourt,CAD,48.648785,5.357707
-553320016V-3,3,Rue de l'Église,55500,Menaucourt,CAD,48.649963,5.355496
-553320016V-34,34,Rue de l'Église,55500,Menaucourt,CAD,48.648824,5.357473
-553320016V-36,36,Rue de l'Église,55500,Menaucourt,CAD,48.648754,5.357624
-553320016V-39,39,Rue de l'Église,55500,Menaucourt,CAD,48.648288,5.358598
-553320016V-40,40,Rue de l'Église,55500,Menaucourt,CAD,48.648540,5.358018
-553320016V-42,42,Rue de l'Église,55500,Menaucourt,CAD,48.648414,5.358249
-553320016V-44,44,Rue de l'Église,55500,Menaucourt,CAD,48.648356,5.358354
-553320016V-4,4,Rue de l'Église,55500,Menaucourt,CAD,48.649940,5.354885
-553320016V-6,6,Rue de l'Église,55500,Menaucourt,CAD,48.649925,5.355035
-553320016V-7,7,Rue de l'Église,55500,Menaucourt,CAD,48.649608,5.356048
-553320016V-7B,7BIS,Rue de l'Église,55500,Menaucourt,CAD,48.649486,5.356152
-553320016V-8,8,Rue de l'Église,55500,Menaucourt,CAD,48.649915,5.355322
-553320016V-9B,9BIS,Rue de l'Église,55500,Menaucourt,CAD,48.649406,5.356335
-553320022B-2,2,Chemin de la Forge,55500,Menaucourt,CAD,48.649695,5.353728
-553320030K-10,10,Rue du Moulin,55500,Menaucourt,CAD,48.650223,5.354212
-553320030K-11,11,Rue du Moulin,55500,Menaucourt,CAD,48.650258,5.353306
-553320030K-1,1,Rue du Moulin,55500,Menaucourt,CAD,48.650119,5.354431
-553320030K-12,12,Rue du Moulin,55500,Menaucourt,CAD,48.650243,5.354106
-553320030K-13,13,Rue du Moulin,55500,Menaucourt,CAD,48.650283,5.353154
-553320030K-14,14,Rue du Moulin,55500,Menaucourt,CAD,48.650263,5.353947
-553320030K-16,16,Rue du Moulin,55500,Menaucourt,CAD,48.650270,5.353820
-553320030K-17,17,Rue du Moulin,55500,Menaucourt,CAD,48.650331,5.352903
-553320030K-19,19,Rue du Moulin,55500,Menaucourt,CAD,48.650285,5.352612
-553320030K-20,20,Rue du Moulin,55500,Menaucourt,CAD,48.650285,5.353539
-553320030K-22,22,Rue du Moulin,55500,Menaucourt,CAD,48.650298,5.353379
-553320030K-2,2,Rue du Moulin,55500,Menaucourt,CAD,48.650092,5.354804
-553320030K-26,26,Rue du Moulin,55500,Menaucourt,CAD,48.650331,5.353177
-553320030K-28,28,Rue du Moulin,55500,Menaucourt,CAD,48.650353,5.353061
-553320030K-30,30,Rue du Moulin,55500,Menaucourt,CAD,48.650371,5.352970
-553320030K-32,32,Rue du Moulin,55500,Menaucourt,CAD,48.650384,5.352876
-553320030K-34,34,Rue du Moulin,55500,Menaucourt,CAD,48.650423,5.352712
-553320030K-5,5,Rue du Moulin,55500,Menaucourt,CAD,48.650211,5.353912
-553320030K-6,6,Rue du Moulin,55500,Menaucourt,CAD,48.650177,5.354451
-553320030K-8,8,Rue du Moulin,55500,Menaucourt,CAD,48.650202,5.354322
-553320030K-9,9,Rue du Moulin,55500,Menaucourt,CAD,48.650233,5.353584
-553320040W-1,1,Rue d'Oey,55500,Menaucourt,CAD,48.650247,5.355164
-553320040W-13,13,Rue d'Oey,55500,Menaucourt,CAD,48.650863,5.356029
-553320040W-2,2,Rue d'Oey,55500,Menaucourt,CAD,48.650208,5.355247
-553320040W-2B,2BIS,Rue d'Oey,55500,Menaucourt,CAD,48.650048,5.355281
-553320040W-4,4,Rue d'Oey,55500,Menaucourt,CAD,48.650318,5.355378
-553320040W-6,6,Rue d'Oey,55500,Menaucourt,CAD,48.650366,5.355437
-553320040W-7,7,Rue d'Oey,55500,Menaucourt,CAD,48.650530,5.355529
-553320045B-10,10,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651802,5.354386
-553320045B-11,11,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651179,5.353603
-553320045B-1,1,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.650878,5.355552
-553320045B-14,14,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651561,5.353461
-553320045B-15,15,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651643,5.353087
-553320045B-16,16,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651681,5.353191
-553320045B-17,17,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651952,5.352549
-553320045B-18,18,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651819,5.352888
-553320045B-19,19,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.652090,5.352326
-553320045B-21,21,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.652264,5.351960
-553320045B-22,22,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.652035,5.352579
-553320045B-2,2,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651162,5.355137
-553320045B-5,5,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651111,5.354562
-553320045B-6,6,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651200,5.354481
-553320045B-7,7,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651183,5.354312
-553320045B-9,9,Chemin de la Petite Côte,55500,Menaucourt,CAD,48.651252,5.354115
-553320048E-10,10,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.650414,5.356002
-553320048E-1,1,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.649886,5.356091
-553320048E-2,2,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.649809,5.356105
-553320048E-4B,4BIS,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.650227,5.356473
-553320048E-5,5,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.650362,5.355957
-553320048E-6,6,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.650243,5.356303
-553320048E-7,7,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.650431,5.355818
-553320048E-8,8,Petite Rue Petite Rue,55500,Menaucourt,CAD,48.650336,5.356138
+553320016V-10,10,Rue de l'Église,55500,Menaucourt,C+O,48.649876,5.355651
+553320016V-11,11,Rue de l'Église,55500,Menaucourt,C+O,48.649370,5.356436
+553320016V-1,1,Rue de l'Église,55500,Menaucourt,C+O,48.649993,5.355227
+553320016V-12,12,Rue de l'Église,55500,Menaucourt,C+O,48.649725,5.355904
+553320016V-14,14,Rue de l'Église,55500,Menaucourt,C+O,48.649643,5.355953
+553320016V-15,15,Rue de l'Église,55500,Menaucourt,C+O,48.649301,5.356584
+553320016V-16,16,Rue de l'Église,55500,Menaucourt,C+O,48.649551,5.356009
+553320016V-17,17,Rue de l'Église,55500,Menaucourt,C+O,48.649221,5.356749
+553320016V-19,19,Rue de l'Église,55500,Menaucourt,C+O,48.649155,5.356895
+553320016V-2,2,Rue de l'Église,55500,Menaucourt,C+O,48.649717,5.354531
+553320016V-23,23,Rue de l'Église,55500,Menaucourt,C+O,48.649055,5.357118
+553320016V-24,24,Rue de l'Église,55500,Menaucourt,C+O,48.649118,5.356851
+553320016V-25,25,Rue de l'Église,55500,Menaucourt,C+O,48.649017,5.357204
+553320016V-26,26,Rue de l'Église,55500,Menaucourt,C+O,48.649025,5.357026
+553320016V-27,27,Rue de l'Église,55500,Menaucourt,C+O,48.648973,5.357304
+553320016V-28,28,Rue de l'Église,55500,Menaucourt,C+O,48.648929,5.357252
+553320016V-29,29,Rue de l'Église,55500,Menaucourt,C+O,48.648925,5.357413
+553320016V-30,30,Rue de l'Église,55500,Menaucourt,C+O,48.648884,5.357345
+553320016V-31,31,Rue de l'Église,55500,Menaucourt,C+O,48.648864,5.357517
+553320016V-33,33,Rue de l'Église,55500,Menaucourt,C+O,48.648785,5.357707
+553320016V-3,3,Rue de l'Église,55500,Menaucourt,C+O,48.649963,5.355496
+553320016V-34,34,Rue de l'Église,55500,Menaucourt,C+O,48.648824,5.357473
+553320016V-36,36,Rue de l'Église,55500,Menaucourt,C+O,48.648754,5.357624
+553320016V-39,39,Rue de l'Église,55500,Menaucourt,C+O,48.648288,5.358598
+553320016V-40,40,Rue de l'Église,55500,Menaucourt,C+O,48.648540,5.358018
+553320016V-42,42,Rue de l'Église,55500,Menaucourt,C+O,48.648414,5.358249
+553320016V-44,44,Rue de l'Église,55500,Menaucourt,C+O,48.648356,5.358354
+553320016V-4,4,Rue de l'Église,55500,Menaucourt,C+O,48.649940,5.354885
+553320016V-6,6,Rue de l'Église,55500,Menaucourt,C+O,48.649925,5.355035
+553320016V-7,7,Rue de l'Église,55500,Menaucourt,C+O,48.649608,5.356048
+553320016V-7B,7BIS,Rue de l'Église,55500,Menaucourt,C+O,48.649486,5.356152
+553320016V-8,8,Rue de l'Église,55500,Menaucourt,C+O,48.649915,5.355322
+553320016V-9B,9BIS,Rue de l'Église,55500,Menaucourt,C+O,48.649406,5.356335
+553320022B-2,2,Chemin de la la Forge,55500,Menaucourt,C+O,48.649695,5.353728
+553320030K-10,10,Rue du Moulin,55500,Menaucourt,C+O,48.650223,5.354212
+553320030K-11,11,Rue du Moulin,55500,Menaucourt,C+O,48.650258,5.353306
+553320030K-1,1,Rue du Moulin,55500,Menaucourt,C+O,48.650119,5.354431
+553320030K-12,12,Rue du Moulin,55500,Menaucourt,C+O,48.650243,5.354106
+553320030K-13,13,Rue du Moulin,55500,Menaucourt,C+O,48.650283,5.353154
+553320030K-14,14,Rue du Moulin,55500,Menaucourt,C+O,48.650263,5.353947
+553320030K-16,16,Rue du Moulin,55500,Menaucourt,C+O,48.650270,5.353820
+553320030K-17,17,Rue du Moulin,55500,Menaucourt,C+O,48.650331,5.352903
+553320030K-19,19,Rue du Moulin,55500,Menaucourt,C+O,48.650285,5.352612
+553320030K-20,20,Rue du Moulin,55500,Menaucourt,C+O,48.650285,5.353539
+553320030K-22,22,Rue du Moulin,55500,Menaucourt,C+O,48.650298,5.353379
+553320030K-2,2,Rue du Moulin,55500,Menaucourt,C+O,48.650092,5.354804
+553320030K-26,26,Rue du Moulin,55500,Menaucourt,C+O,48.650331,5.353177
+553320030K-28,28,Rue du Moulin,55500,Menaucourt,C+O,48.650353,5.353061
+553320030K-30,30,Rue du Moulin,55500,Menaucourt,C+O,48.650371,5.352970
+553320030K-32,32,Rue du Moulin,55500,Menaucourt,C+O,48.650384,5.352876
+553320030K-34,34,Rue du Moulin,55500,Menaucourt,C+O,48.650423,5.352712
+553320030K-5,5,Rue du Moulin,55500,Menaucourt,C+O,48.650211,5.353912
+553320030K-6,6,Rue du Moulin,55500,Menaucourt,C+O,48.650177,5.354451
+553320030K-8,8,Rue du Moulin,55500,Menaucourt,C+O,48.650202,5.354322
+553320030K-9,9,Rue du Moulin,55500,Menaucourt,C+O,48.650233,5.353584
+553320040W-1,1,Rue d'Oey,55500,Menaucourt,C+O,48.650247,5.355164
+553320040W-13,13,Rue d'Oey,55500,Menaucourt,C+O,48.650863,5.356029
+553320040W-2,2,Rue d'Oey,55500,Menaucourt,C+O,48.650208,5.355247
+553320040W-2B,2BIS,Rue d'Oey,55500,Menaucourt,C+O,48.650048,5.355281
+553320040W-4,4,Rue d'Oey,55500,Menaucourt,C+O,48.650318,5.355378
+553320040W-6,6,Rue d'Oey,55500,Menaucourt,C+O,48.650366,5.355437
+553320040W-7,7,Rue d'Oey,55500,Menaucourt,C+O,48.650530,5.355529
+553320045B-10,10,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651802,5.354386
+553320045B-11,11,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651179,5.353603
+553320045B-1,1,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.650878,5.355552
+553320045B-14,14,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651561,5.353461
+553320045B-15,15,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651643,5.353087
+553320045B-16,16,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651681,5.353191
+553320045B-17,17,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651952,5.352549
+553320045B-18,18,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651819,5.352888
+553320045B-19,19,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.652090,5.352326
+553320045B-21,21,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.652264,5.351960
+553320045B-22,22,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.652035,5.352579
+553320045B-2,2,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651162,5.355137
+553320045B-5,5,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651111,5.354562
+553320045B-6,6,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651200,5.354481
+553320045B-7,7,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651183,5.354312
+553320045B-9,9,Chemin de la Petite Côte,55500,Menaucourt,C+O,48.651252,5.354115
+553320048E-10,10,Petite Rue,55500,Menaucourt,C+O,48.650414,5.356002
+553320048E-1,1,Petite Rue,55500,Menaucourt,C+O,48.649886,5.356091
+553320048E-2,2,Petite Rue,55500,Menaucourt,C+O,48.649809,5.356105
+553320048E-4B,4BIS,Petite Rue,55500,Menaucourt,C+O,48.650227,5.356473
+553320048E-5,5,Petite Rue,55500,Menaucourt,C+O,48.650362,5.355957
+553320048E-6,6,Petite Rue,55500,Menaucourt,C+O,48.650243,5.356303
+553320048E-7,7,Petite Rue,55500,Menaucourt,C+O,48.650431,5.355818
+553320048E-8,8,Petite Rue,55500,Menaucourt,C+O,48.650336,5.356138
 553320050G-3,3,Chemin du Port,55500,Menaucourt,CAD,48.647802,5.348190
 553320052J-14,14,D 966,55500,Menaucourt,CAD,48.645232,5.354027
 553320052J-16,16,D 966,55500,Menaucourt,CAD,48.645055,5.354201
 553320052J-21,21,D 966,55500,Menaucourt,CAD,48.644232,5.355714
 553320052J-23,23,D 966,55500,Menaucourt,CAD,48.643732,5.356386
 553320052J-8,8,D 966,55500,Menaucourt,CAD,48.646391,5.352509
-553320055M-1,1,Chemin de Tourteloup,55500,Menaucourt,CAD,48.650061,5.356528
-553320055M-2,2,Chemin de Tourteloup,55500,Menaucourt,CAD,48.649974,5.356575
-553320055M-3,3,Chemin de Tourteloup,55500,Menaucourt,CAD,48.650025,5.356597
-553320055M-5,5,Chemin de Tourteloup,55500,Menaucourt,CAD,48.649973,5.356719
-553320055M-9,9,Chemin de Tourteloup,55500,Menaucourt,CAD,48.649761,5.357860
+553320055M-1,1,Chemin de Tourteloup,55500,Menaucourt,C+O,48.650061,5.356528
+553320055M-2,2,Chemin de Tourteloup,55500,Menaucourt,C+O,48.649974,5.356575
+553320055M-3,3,Chemin de Tourteloup,55500,Menaucourt,C+O,48.650025,5.356597
+553320055M-5,5,Chemin de Tourteloup,55500,Menaucourt,C+O,48.649973,5.356719
+553320055M-9,9,Chemin de Tourteloup,55500,Menaucourt,C+O,48.649761,5.357860
 553380005G-2,2,Rue des Blossiers,55110,Milly-sur-Bradon,C+O,49.398348,5.205967
 553380005G-3,3,Rue des Blossiers,55110,Milly-sur-Bradon,C+O,49.398565,5.206416
 553380005G-4B,4BIS,Rue des Blossiers,55110,Milly-sur-Bradon,C+O,49.398488,5.206435
@@ -26281,7 +26423,7 @@
 553510062M-3,3,Rue Ernest Mabille,55600,Montmédy,OSM,49.519424,5.367782
 553510062M-34,34,Rue Ernest Mabille,55600,Montmédy,OSM,49.517809,5.367220
 553510062M-36,36,Rue Ernest Mabille,55600,Montmédy,OSM,49.517673,5.367159
-553510062M-38,38,Rue Ernest Mabille,55600,Montmédy,OSM,49.517371,5.367155
+553510062M-38,38,Rue Ernest Mabille,55600,Montmédy,OSM,49.517306,5.367227
 553510062M-4,4,Rue Ernest Mabille,55600,Montmédy,OSM,49.519055,5.367219
 553510062M-5,5,Rue Ernest Mabille,55600,Montmédy,OSM,49.519344,5.367771
 553510062M-6,6,Rue Ernest Mabille,55600,Montmédy,OSM,49.518952,5.367155
@@ -26308,7 +26450,7 @@
 553510070W-13,13,Place du Fort Mutin,55600,Montmédy,OSM,49.518152,5.366292
 553510070W-14,14,Place du Fort Mutin,55600,Montmédy,OSM,49.518197,5.366844
 553510070W-15,15,Place du Fort Mutin,55600,Montmédy,OSM,49.518206,5.366254
-553510070W-2,2,Place du Fort Mutin,55600,Montmédy,OSM,49.517853,5.366894
+553510070W-2,2,Place du Fort Mutin,55600,Montmédy,OSM,49.517998,5.366352
 553510070W-3,3,Place du Fort Mutin,55600,Montmédy,OSM,49.517861,5.366484
 553510070W-4,4,Place du Fort Mutin,55600,Montmédy,OSM,49.517909,5.366825
 553510070W-5,5,Place du Fort Mutin,55600,Montmédy,OSM,49.517918,5.366421
@@ -26418,7 +26560,7 @@
 553510155N-18,18,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521514,5.364720
 553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
 553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
-553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522436,5.365403
+553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522350,5.365429
 553510155N-2,2,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520146,5.363978
 553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
 553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
@@ -26535,8 +26677,8 @@
 553580020L-5,5,Rue de Chennevières,55500,Chanteraine,CAD,48.679623,5.399174
 553580020L-8,8,Rue de Chennevières,55500,Chanteraine,CAD,48.679485,5.398766
 553580022N-2,2,Rue de Derrière Le Four,55500,Chanteraine,CAD,48.680955,5.398764
-553580025S-1,1,Rue de l'Église,55500,Chanteraine,CAD,48.662104,5.406212
-553580025S-3,3,Rue de l'Église,55500,Chanteraine,CAD,48.662034,5.406131
+553580025S-1,1,Rue de l'Église,55500,Chanteraine,C+O,48.662104,5.406212
+553580025S-3,3,Rue de l'Église,55500,Chanteraine,C+O,48.662034,5.406131
 553580028V-1,1,Chemin de Gaisol,55500,Chanteraine,CAD,48.681408,5.402205
 553580028V-3,3,Chemin de Gaisol,55500,Chanteraine,CAD,48.681373,5.402450
 553580028V-5,5,Chemin de Gaisol,55500,Chanteraine,CAD,48.681331,5.403123
@@ -26607,8 +26749,8 @@
 553580063H-5,5,Rue de Saint-Aubin,55500,Chanteraine,CAD,48.681476,5.401156
 553580063H-6,6,Rue de Saint-Aubin,55500,Chanteraine,CAD,48.681747,5.401987
 553580063H-7,7,Rue de Saint-Aubin,55500,Chanteraine,CAD,48.682100,5.401511
-553580065K-1,1,Chemin du Val d'Oey,55500,Chanteraine,CAD,48.663847,5.404191
-553580065K-3,3,Chemin du Val d'Oey,55500,Chanteraine,CAD,48.664308,5.403716
+553580065K-1,1,Chemin du Val d'Oey,55500,Chanteraine,C+O,48.663847,5.404191
+553580065K-3,3,Chemin du Val d'Oey,55500,Chanteraine,C+O,48.664308,5.403716
 553620001Y-10,10,Route d'autréville,55700,Moulins-Saint-Hubert,CAD,49.574451,5.126937
 553620001Y-1,1,Route d'autréville,55700,Moulins-Saint-Hubert,CAD,49.576521,5.127004
 553620001Y-2,2,Route d'autréville,55700,Moulins-Saint-Hubert,CAD,49.576001,5.127175
@@ -28000,10 +28142,10 @@
 553690096W-7,7,Rue du Val Seigneur,55000,Naives-Rosières,C+O,48.799793,5.230795
 553690096W-8,8,Rue du Val Seigneur,55000,Naives-Rosières,C+O,48.800040,5.231060
 553690096W-9,9,Rue du Val Seigneur,55000,Naives-Rosières,C+O,48.800000,5.230899
-553700001N-11,11,Rue Basse,55500,Naix-aux-Forges,CAD,48.636127,5.376091
-553700001N-2,2,Rue Basse,55500,Naix-aux-Forges,CAD,48.636808,5.376426
-553700001N-5,5,Rue Basse,55500,Naix-aux-Forges,CAD,48.636629,5.376279
-553700001N-8,8,Rue Basse,55500,Naix-aux-Forges,CAD,48.636514,5.376335
+553700001N-11,11,Rue Basse,55500,Naix-aux-Forges,C+O,48.636127,5.376091
+553700001N-2,2,Rue Basse,55500,Naix-aux-Forges,C+O,48.636808,5.376426
+553700001N-5,5,Rue Basse,55500,Naix-aux-Forges,C+O,48.636629,5.376279
+553700001N-8,8,Rue Basse,55500,Naix-aux-Forges,C+O,48.636514,5.376335
 553700005T-10,10,Rue du Canal,55500,Naix-aux-Forges,C+O,48.639526,5.377358
 553700005T-11,11,Rue du Canal,55500,Naix-aux-Forges,C+O,48.638855,5.375504
 553700005T-1,1,Rue du Canal,55500,Naix-aux-Forges,C+O,48.637493,5.376235
@@ -28016,80 +28158,80 @@
 553700005T-7,7,Rue du Canal,55500,Naix-aux-Forges,C+O,48.638304,5.376157
 553700005T-8,8,Rue du Canal,55500,Naix-aux-Forges,C+O,48.639263,5.377350
 553700005T-9,9,Rue du Canal,55500,Naix-aux-Forges,C+O,48.638457,5.376121
-553700010Y-11,11,Rue d'Enfer,55500,Naix-aux-Forges,CAD,48.638052,5.374999
-553700010Y-13,13,Rue d'Enfer,55500,Naix-aux-Forges,CAD,48.638322,5.374980
-553700010Y-4,4,Rue d'Enfer,55500,Naix-aux-Forges,CAD,48.637677,5.375302
-553700010Y-6,6,Rue d'Enfer,55500,Naix-aux-Forges,CAD,48.637861,5.375250
-553700010Y-7,7,Rue d'Enfer,55500,Naix-aux-Forges,CAD,48.637375,5.375368
-553700015D-11,11,Rue Haute,55500,Naix-aux-Forges,CAD,48.636737,5.377812
-553700015D-1,1,Rue Haute,55500,Naix-aux-Forges,CAD,48.637195,5.376813
-553700015D-12,12,Rue Haute,55500,Naix-aux-Forges,CAD,48.636721,5.377692
-553700015D-13,13,Rue Haute,55500,Naix-aux-Forges,CAD,48.636669,5.377838
-553700015D-14,14,Rue Haute,55500,Naix-aux-Forges,CAD,48.636670,5.377706
-553700015D-15,15,Rue Haute,55500,Naix-aux-Forges,CAD,48.636587,5.377863
-553700015D-16,16,Rue Haute,55500,Naix-aux-Forges,CAD,48.636534,5.377754
-553700015D-17,17,Rue Haute,55500,Naix-aux-Forges,CAD,48.636510,5.377876
-553700015D-20,20,Rue Haute,55500,Naix-aux-Forges,CAD,48.636333,5.377742
-553700015D-21,21,Rue Haute,55500,Naix-aux-Forges,CAD,48.636329,5.377893
-553700015D-22,22,Rue Haute,55500,Naix-aux-Forges,CAD,48.636245,5.377749
-553700015D-2,2,Rue Haute,55500,Naix-aux-Forges,CAD,48.636950,5.376625
-553700015D-23,23,Rue Haute,55500,Naix-aux-Forges,CAD,48.636226,5.377893
-553700015D-24,24,Rue Haute,55500,Naix-aux-Forges,CAD,48.636079,5.377763
-553700015D-26,26,Rue Haute,55500,Naix-aux-Forges,CAD,48.635944,5.377751
-553700015D-26B,26BIS,Rue Haute,55500,Naix-aux-Forges,CAD,48.635931,5.377389
-553700015D-27,27,Rue Haute,55500,Naix-aux-Forges,CAD,48.636050,5.377892
-553700015D-28,28,Rue Haute,55500,Naix-aux-Forges,CAD,48.635835,5.377751
-553700015D-29,29,Rue Haute,55500,Naix-aux-Forges,CAD,48.635899,5.377889
-553700015D-30,30,Rue Haute,55500,Naix-aux-Forges,CAD,48.635768,5.377778
-553700015D-31,31,Rue Haute,55500,Naix-aux-Forges,CAD,48.635726,5.377884
-553700015D-32,32,Rue Haute,55500,Naix-aux-Forges,CAD,48.635645,5.377745
-553700015D-33,33,Rue Haute,55500,Naix-aux-Forges,CAD,48.635644,5.377881
-553700015D-3,3,Rue Haute,55500,Naix-aux-Forges,CAD,48.636974,5.377074
-553700015D-34,34,Rue Haute,55500,Naix-aux-Forges,CAD,48.635527,5.377479
-553700015D-36,36,Rue Haute,55500,Naix-aux-Forges,CAD,48.635162,5.377759
-553700015D-37,37,Rue Haute,55500,Naix-aux-Forges,CAD,48.635251,5.378229
-553700015D-38,38,Rue Haute,55500,Naix-aux-Forges,CAD,48.635165,5.377081
-553700015D-4,4,Rue Haute,55500,Naix-aux-Forges,CAD,48.636707,5.376939
-553700015D-7,7,Rue Haute,55500,Naix-aux-Forges,CAD,48.636972,5.377728
-553700015D-9,9,Rue Haute,55500,Naix-aux-Forges,CAD,48.636898,5.378194
-553700020J-10,10,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637058,5.375565
-553700020J-11,11,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636975,5.375058
-553700020J-1,1,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636972,5.376149
-553700020J-13,13,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636907,5.374769
-553700020J-16,16,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637031,5.374776
-553700020J-20,20,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637022,5.374454
-553700020J-21,21,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636683,5.374011
-553700020J-2,2,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637053,5.376144
-553700020J-23,23,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636946,5.373819
-553700020J-24,24,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637139,5.374124
-553700020J-25,25,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636949,5.373729
-553700020J-27,27,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636652,5.373276
-553700020J-29,29,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637027,5.373002
-553700020J-31,31,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637052,5.372636
-553700020J-32,32,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637110,5.372552
-553700020J-32B,32BIS,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637347,5.372493
-553700020J-33,33,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637104,5.372321
-553700020J-3,3,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636974,5.375979
-553700020J-35,35,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637183,5.372063
-553700020J-36,36,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637255,5.372018
-553700020J-37,37,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636824,5.371628
-553700020J-39,39,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636881,5.371297
-553700020J-41,41,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636881,5.370984
-553700020J-4,4,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637058,5.375953
-553700020J-45,45,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.638562,5.366430
-553700020J-48,48,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.639898,5.365904
-553700020J-49,49,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.638730,5.367274
-553700020J-5,5,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636995,5.375802
-553700020J-6,6,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637064,5.375828
-553700020J-7,7,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636997,5.375579
-553700020J-8,8,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.637065,5.375664
-553700020J-9,9,Rue de Ligny,55500,Naix-aux-Forges,CAD,48.636980,5.375337
-553700025P-1,1,Rue du Moulin,55500,Naix-aux-Forges,CAD,48.637117,5.377535
-553700025P-3,3,Rue du Moulin,55500,Naix-aux-Forges,CAD,48.637198,5.377544
-553700025P-4,4,Rue du Moulin,55500,Naix-aux-Forges,CAD,48.637375,5.377658
-553700025P-7,7,Rue du Moulin,55500,Naix-aux-Forges,CAD,48.637352,5.377566
-553700030V-1,1,Impasse du Prieure,55500,Naix-aux-Forges,CAD,48.637443,5.376674
-553700030V-3,3,Impasse du Prieure,55500,Naix-aux-Forges,CAD,48.637490,5.377156
+553700010Y-11,11,Rue d'Enfer,55500,Naix-aux-Forges,C+O,48.638052,5.374999
+553700010Y-13,13,Rue d'Enfer,55500,Naix-aux-Forges,C+O,48.638322,5.374980
+553700010Y-4,4,Rue d'Enfer,55500,Naix-aux-Forges,C+O,48.637677,5.375302
+553700010Y-6,6,Rue d'Enfer,55500,Naix-aux-Forges,C+O,48.637861,5.375250
+553700010Y-7,7,Rue d'Enfer,55500,Naix-aux-Forges,C+O,48.637375,5.375368
+553700015D-11,11,Rue Haute,55500,Naix-aux-Forges,C+O,48.636737,5.377812
+553700015D-1,1,Rue Haute,55500,Naix-aux-Forges,C+O,48.637195,5.376813
+553700015D-12,12,Rue Haute,55500,Naix-aux-Forges,C+O,48.636721,5.377692
+553700015D-13,13,Rue Haute,55500,Naix-aux-Forges,C+O,48.636669,5.377838
+553700015D-14,14,Rue Haute,55500,Naix-aux-Forges,C+O,48.636670,5.377706
+553700015D-15,15,Rue Haute,55500,Naix-aux-Forges,C+O,48.636587,5.377863
+553700015D-16,16,Rue Haute,55500,Naix-aux-Forges,C+O,48.636534,5.377754
+553700015D-17,17,Rue Haute,55500,Naix-aux-Forges,C+O,48.636510,5.377876
+553700015D-20,20,Rue Haute,55500,Naix-aux-Forges,C+O,48.636333,5.377742
+553700015D-21,21,Rue Haute,55500,Naix-aux-Forges,C+O,48.636329,5.377893
+553700015D-22,22,Rue Haute,55500,Naix-aux-Forges,C+O,48.636245,5.377749
+553700015D-2,2,Rue Haute,55500,Naix-aux-Forges,C+O,48.636950,5.376625
+553700015D-23,23,Rue Haute,55500,Naix-aux-Forges,C+O,48.636226,5.377893
+553700015D-24,24,Rue Haute,55500,Naix-aux-Forges,C+O,48.636079,5.377763
+553700015D-26,26,Rue Haute,55500,Naix-aux-Forges,C+O,48.635944,5.377751
+553700015D-26B,26BIS,Rue Haute,55500,Naix-aux-Forges,C+O,48.635931,5.377389
+553700015D-27,27,Rue Haute,55500,Naix-aux-Forges,C+O,48.636050,5.377892
+553700015D-28,28,Rue Haute,55500,Naix-aux-Forges,C+O,48.635835,5.377751
+553700015D-29,29,Rue Haute,55500,Naix-aux-Forges,C+O,48.635899,5.377889
+553700015D-30,30,Rue Haute,55500,Naix-aux-Forges,C+O,48.635768,5.377778
+553700015D-31,31,Rue Haute,55500,Naix-aux-Forges,C+O,48.635726,5.377884
+553700015D-32,32,Rue Haute,55500,Naix-aux-Forges,C+O,48.635645,5.377745
+553700015D-33,33,Rue Haute,55500,Naix-aux-Forges,C+O,48.635644,5.377881
+553700015D-3,3,Rue Haute,55500,Naix-aux-Forges,C+O,48.636974,5.377074
+553700015D-34,34,Rue Haute,55500,Naix-aux-Forges,C+O,48.635527,5.377479
+553700015D-36,36,Rue Haute,55500,Naix-aux-Forges,C+O,48.635162,5.377759
+553700015D-37,37,Rue Haute,55500,Naix-aux-Forges,C+O,48.635251,5.378229
+553700015D-38,38,Rue Haute,55500,Naix-aux-Forges,C+O,48.635165,5.377081
+553700015D-4,4,Rue Haute,55500,Naix-aux-Forges,C+O,48.636707,5.376939
+553700015D-7,7,Rue Haute,55500,Naix-aux-Forges,C+O,48.636972,5.377728
+553700015D-9,9,Rue Haute,55500,Naix-aux-Forges,C+O,48.636898,5.378194
+553700020J-10,10,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637058,5.375565
+553700020J-11,11,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636975,5.375058
+553700020J-1,1,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636972,5.376149
+553700020J-13,13,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636907,5.374769
+553700020J-16,16,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637031,5.374776
+553700020J-20,20,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637022,5.374454
+553700020J-21,21,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636683,5.374011
+553700020J-2,2,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637053,5.376144
+553700020J-23,23,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636946,5.373819
+553700020J-24,24,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637139,5.374124
+553700020J-25,25,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636949,5.373729
+553700020J-27,27,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636652,5.373276
+553700020J-29,29,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637027,5.373002
+553700020J-31,31,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637052,5.372636
+553700020J-32,32,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637110,5.372552
+553700020J-32B,32BIS,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637347,5.372493
+553700020J-33,33,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637104,5.372321
+553700020J-3,3,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636974,5.375979
+553700020J-35,35,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637183,5.372063
+553700020J-36,36,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637255,5.372018
+553700020J-37,37,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636824,5.371628
+553700020J-39,39,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636881,5.371297
+553700020J-41,41,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636881,5.370984
+553700020J-4,4,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637058,5.375953
+553700020J-45,45,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.638562,5.366430
+553700020J-48,48,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.639898,5.365904
+553700020J-49,49,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.638730,5.367274
+553700020J-5,5,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636995,5.375802
+553700020J-6,6,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637064,5.375828
+553700020J-7,7,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636997,5.375579
+553700020J-8,8,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.637065,5.375664
+553700020J-9,9,Rue de Ligny,55500,Naix-aux-Forges,C+O,48.636980,5.375337
+553700025P-1,1,Rue du Moulin,55500,Naix-aux-Forges,C+O,48.637117,5.377535
+553700025P-3,3,Rue du Moulin,55500,Naix-aux-Forges,C+O,48.637198,5.377544
+553700025P-4,4,Rue du Moulin,55500,Naix-aux-Forges,C+O,48.637375,5.377658
+553700025P-7,7,Rue du Moulin,55500,Naix-aux-Forges,C+O,48.637352,5.377566
+553700030V-1,1,Impasse du Prieuré,55500,Naix-aux-Forges,C+O,48.637443,5.376674
+553700030V-3,3,Impasse du Prieuré,55500,Naix-aux-Forges,C+O,48.637490,5.377156
 55370B091T-5,5,La Pagetee,55500,Naix-aux-Forges,CAD,48.641230,5.375202
 553750005W-2,2,Rue de la Bourbillotte,55270,Nantillois,CAD,49.296882,5.137235
 553750005W-4,4,Rue de la Bourbillotte,55270,Nantillois,CAD,49.297290,5.136995
@@ -30079,27 +30221,27 @@
 554240015U-6,6,Route de Sermaize,55800,Remennecourt,OSM,48.801782,4.920357
 554240015U-7,7,Route de Sermaize,55800,Remennecourt,OSM,48.800218,4.919363
 554240015U-9,9,Route de Sermaize,55800,Remennecourt,OSM,48.800473,4.919549
-554260004Y-1,1,Route de Bar,55000,Resson,CAD,48.768025,5.227054
-554260004Y-2,2,Route de Bar,55000,Resson,CAD,48.766291,5.224269
-554260004Y-3,3,Route de Bar,55000,Resson,CAD,48.767893,5.226880
-554260006A-10,10,Voie de Bar,55000,Resson,CAD,48.769075,5.225509
-554260006A-11,11,Voie de Bar,55000,Resson,CAD,48.769635,5.225284
-554260006A-1,1,Voie de Bar,55000,Resson,CAD,48.768460,5.226758
-554260006A-12,12,Voie de Bar,55000,Resson,CAD,48.769395,5.225220
-554260006A-14,14,Voie de Bar,55000,Resson,CAD,48.771154,5.223611
-554260006A-2,2,Voie de Bar,55000,Resson,CAD,48.768266,5.226758
-554260006A-3,3,Voie de Bar,55000,Resson,CAD,48.768589,5.226576
-554260006A-4,4,Voie de Bar,55000,Resson,CAD,48.767850,5.225727
-554260006A-5,5,Voie de Bar,55000,Resson,CAD,48.768869,5.226236
-554260006A-7,7,Voie de Bar,55000,Resson,CAD,48.769046,5.226035
-554260006A-8,8,Voie de Bar,55000,Resson,CAD,48.768805,5.226141
-554260006A-9,9,Voie de Bar,55000,Resson,CAD,48.769350,5.225632
-554260007B-1,1,Chemin Beauregard,55000,Resson,CAD,48.768769,5.231738
-554260007B-2,2,Chemin Beauregard,55000,Resson,CAD,48.768761,5.231979
-554260007B-3,3,Chemin Beauregard,55000,Resson,CAD,48.768489,5.231665
-554260007B-4,4,Chemin Beauregard,55000,Resson,CAD,48.768593,5.231847
-554260007B-6,6,Chemin Beauregard,55000,Resson,CAD,48.768313,5.231689
-554260007B-7,7,Chemin Beauregard,55000,Resson,CAD,48.768067,5.231440
+554260004Y-1,1,Route de Bar,55000,Resson,C+O,48.768025,5.227054
+554260004Y-2,2,Route de Bar,55000,Resson,C+O,48.766291,5.224269
+554260004Y-3,3,Route de Bar,55000,Resson,C+O,48.767893,5.226880
+554260006A-10,10,Voie de Bar,55000,Resson,C+O,48.769075,5.225509
+554260006A-11,11,Voie de Bar,55000,Resson,C+O,48.769635,5.225284
+554260006A-1,1,Voie de Bar,55000,Resson,C+O,48.768460,5.226758
+554260006A-12,12,Voie de Bar,55000,Resson,C+O,48.769395,5.225220
+554260006A-14,14,Voie de Bar,55000,Resson,C+O,48.771154,5.223611
+554260006A-2,2,Voie de Bar,55000,Resson,C+O,48.768266,5.226758
+554260006A-3,3,Voie de Bar,55000,Resson,C+O,48.768589,5.226576
+554260006A-4,4,Voie de Bar,55000,Resson,C+O,48.767850,5.225727
+554260006A-5,5,Voie de Bar,55000,Resson,C+O,48.768869,5.226236
+554260006A-7,7,Voie de Bar,55000,Resson,C+O,48.769046,5.226035
+554260006A-8,8,Voie de Bar,55000,Resson,C+O,48.768805,5.226141
+554260006A-9,9,Voie de Bar,55000,Resson,C+O,48.769350,5.225632
+554260007B-1,1,Chemin Beauregard,55000,Resson,C+O,48.768769,5.231738
+554260007B-2,2,Chemin Beauregard,55000,Resson,C+O,48.768761,5.231979
+554260007B-3,3,Chemin Beauregard,55000,Resson,C+O,48.768489,5.231665
+554260007B-4,4,Chemin Beauregard,55000,Resson,C+O,48.768593,5.231847
+554260007B-6,6,Chemin Beauregard,55000,Resson,C+O,48.768313,5.231689
+554260007B-7,7,Chemin Beauregard,55000,Resson,C+O,48.768067,5.231440
 554260008C-1,1,Sentier de Chardon,55000,Resson,CAD,48.770024,5.229815
 554260009D-10,10,Rue de Culey,55000,Resson,C+O,48.769090,5.231217
 554260009D-11,11,Rue de Culey,55000,Resson,C+O,48.769038,5.231050
@@ -30119,96 +30261,96 @@
 554260009D-8,8,Rue de Culey,55000,Resson,C+O,48.769121,5.230937
 554260009D-9,9,Rue de Culey,55000,Resson,C+O,48.769053,5.230936
 554260010E-1,1,Place Martin Contenot,55000,Resson,CAD,48.769964,5.230565
-554260014J-13,13,Rue de l'Église,55000,Resson,CAD,48.769575,5.231326
-554260014J-15,15,Rue de l'Église,55000,Resson,CAD,48.769546,5.231464
-554260014J-17,17,Rue de l'Église,55000,Resson,CAD,48.769523,5.231604
-554260014J-19,19,Rue de l'Église,55000,Resson,CAD,48.769493,5.231773
-554260014J-21,21,Rue de l'Église,55000,Resson,CAD,48.769456,5.232096
-554260014J-2B,2BIS,Rue de l'Église,55000,Resson,CAD,48.770046,5.230673
-554260014J-4,4,Rue de l'Église,55000,Resson,CAD,48.769658,5.231225
-554260014J-6,6,Rue de l'Église,55000,Resson,CAD,48.769536,5.231990
-554260014J-9,9,Rue de l'Église,55000,Resson,CAD,48.769639,5.231021
-554260019P-10,10,Rue Emile Josse,55000,Resson,CAD,48.770506,5.230255
-554260019P-11,11,Rue Emile Josse,55000,Resson,CAD,48.770389,5.230338
-554260019P-12,12,Rue Emile Josse,55000,Resson,CAD,48.770612,5.230285
-554260019P-13,13,Rue Emile Josse,55000,Resson,CAD,48.770449,5.230376
-554260019P-14,14,Rue Emile Josse,55000,Resson,CAD,48.770677,5.230317
-554260019P-15,15,Rue Emile Josse,55000,Resson,CAD,48.770520,5.230366
-554260019P-16,16,Rue Emile Josse,55000,Resson,CAD,48.770799,5.230363
-554260019P-16B,16BIS,Rue Emile Josse,55000,Resson,CAD,48.770860,5.230395
-554260019P-17,17,Rue Emile Josse,55000,Resson,CAD,48.770585,5.230404
-554260019P-20,20,Rue Emile Josse,55000,Resson,CAD,48.770936,5.230489
-554260019P-21,21,Rue Emile Josse,55000,Resson,CAD,48.770855,5.230582
-554260019P-22,22,Rue Emile Josse,55000,Resson,CAD,48.771072,5.230562
-554260019P-22B,22BIS,Rue Emile Josse,55000,Resson,CAD,48.771008,5.230529
-554260019P-23,23,Rue Emile Josse,55000,Resson,CAD,48.771006,5.230707
-554260019P-24,24,Rue Emile Josse,55000,Resson,CAD,48.771215,5.230625
-554260019P-26,26,Rue Emile Josse,55000,Resson,CAD,48.771286,5.230643
-554260019P-27,27,Rue Emile Josse,55000,Resson,CAD,48.771261,5.230738
-554260019P-28,28,Rue Emile Josse,55000,Resson,CAD,48.771386,5.230662
-554260019P-29,29,Rue Emile Josse,55000,Resson,CAD,48.771363,5.230753
-554260019P-30,30,Rue Emile Josse,55000,Resson,CAD,48.771759,5.230703
-554260019P-31,31,Rue Emile Josse,55000,Resson,CAD,48.771438,5.230923
-554260019P-33,33,Rue Emile Josse,55000,Resson,CAD,48.771559,5.230809
-554260019P-3,3,Rue Emile Josse,55000,Resson,CAD,48.770153,5.230220
-554260019P-35,35,Rue Emile Josse,55000,Resson,CAD,48.771792,5.231013
-554260019P-37,37,Rue Emile Josse,55000,Resson,CAD,48.772012,5.230920
-554260019P-4,4,Rue Emile Josse,55000,Resson,CAD,48.770273,5.230141
-554260019P-5,5,Rue Emile Josse,55000,Resson,CAD,48.770238,5.230246
-554260019P-6,6,Rue Emile Josse,55000,Resson,CAD,48.770357,5.230181
-554260019P-7,7,Rue Emile Josse,55000,Resson,CAD,48.770287,5.230274
-554260019P-8,8,Rue Emile Josse,55000,Resson,CAD,48.770434,5.230219
-554260019P-9,9,Rue Emile Josse,55000,Resson,CAD,48.770327,5.230299
-554260030B-10,10,Grande Rue,55000,Resson,CAD,48.768164,5.228989
-554260030B-11,11,Grande Rue,55000,Resson,CAD,48.767892,5.228962
-554260030B-1,1,Grande Rue,55000,Resson,CAD,48.767289,5.228696
-554260030B-12,12,Grande Rue,55000,Resson,CAD,48.768265,5.229074
-554260030B-14,14,Grande Rue,55000,Resson,CAD,48.768344,5.229136
-554260030B-15,15,Grande Rue,55000,Resson,CAD,48.768185,5.229199
-554260030B-16,16,Grande Rue,55000,Resson,CAD,48.768405,5.229182
-554260030B-17,17,Grande Rue,55000,Resson,CAD,48.768243,5.229251
-554260030B-18,18,Grande Rue,55000,Resson,CAD,48.768484,5.229243
-554260030B-19,19,Grande Rue,55000,Resson,CAD,48.768302,5.229305
-554260030B-20,20,Grande Rue,55000,Resson,CAD,48.768568,5.229308
-554260030B-21,21,Grande Rue,55000,Resson,CAD,48.768363,5.229359
-554260030B-23,23,Grande Rue,55000,Resson,CAD,48.768423,5.229403
-554260030B-25,25,Grande Rue,55000,Resson,CAD,48.768480,5.229444
-554260030B-26,26,Grande Rue,55000,Resson,CAD,48.768865,5.229477
-554260030B-27,27,Grande Rue,55000,Resson,CAD,48.768543,5.229491
-554260030B-28,28,Grande Rue,55000,Resson,CAD,48.768926,5.229518
-554260030B-30,30,Grande Rue,55000,Resson,CAD,48.769001,5.229572
-554260030B-31,31,Grande Rue,55000,Resson,CAD,48.768615,5.229545
-554260030B-32,32,Grande Rue,55000,Resson,CAD,48.769075,5.229629
-554260030B-33,33,Grande Rue,55000,Resson,CAD,48.768665,5.229582
-554260030B-3,3,Grande Rue,55000,Resson,CAD,48.767456,5.228754
-554260030B-34,34,Grande Rue,55000,Resson,CAD,48.769128,5.229665
-554260030B-35,35,Grande Rue,55000,Resson,CAD,48.768749,5.229564
-554260030B-36,36,Grande Rue,55000,Resson,CAD,48.769180,5.229694
-554260030B-37,37,Grande Rue,55000,Resson,CAD,48.768813,5.229612
-554260030B-38,38,Grande Rue,55000,Resson,CAD,48.769231,5.229719
-554260030B-39,39,Grande Rue,55000,Resson,CAD,48.768871,5.229659
-554260030B-40,40,Grande Rue,55000,Resson,CAD,48.769485,5.229359
-554260030B-40B,40BIS,Grande Rue,55000,Resson,CAD,48.769421,5.229770
-554260030B-41,41,Grande Rue,55000,Resson,CAD,48.768944,5.229711
-554260030B-42,42,Grande Rue,55000,Resson,CAD,48.769451,5.229782
-554260030B-43,43,Grande Rue,55000,Resson,CAD,48.769002,5.229753
-554260030B-44,44,Grande Rue,55000,Resson,CAD,48.769500,5.229808
-554260030B-45,45,Grande Rue,55000,Resson,CAD,48.769071,5.229791
-554260030B-47,47,Grande Rue,55000,Resson,CAD,48.769211,5.229965
-554260030B-48,48,Grande Rue,55000,Resson,CAD,48.769751,5.229903
-554260030B-50,50,Grande Rue,55000,Resson,CAD,48.769821,5.229933
-554260030B-51,51,Grande Rue,55000,Resson,CAD,48.769358,5.230005
-554260030B-51B,51BIS,Grande Rue,55000,Resson,CAD,48.769381,5.230524
-554260030B-52,52,Grande Rue,55000,Resson,CAD,48.769923,5.229976
-554260030B-53,53,Grande Rue,55000,Resson,CAD,48.769464,5.230008
-554260030B-55,55,Grande Rue,55000,Resson,CAD,48.769509,5.230018
-554260030B-57,57,Grande Rue,55000,Resson,CAD,48.769568,5.230033
-554260030B-59,59,Grande Rue,55000,Resson,CAD,48.769567,5.230556
-554260030B-61,61,Grande Rue,55000,Resson,CAD,48.769721,5.230094
-554260030B-6,6,Grande Rue,55000,Resson,CAD,48.768036,5.228851
-554260030B-7,7,Grande Rue,55000,Resson,CAD,48.767725,5.228820
-554260030B-8,8,Grande Rue,55000,Resson,CAD,48.768097,5.228922
-554260030B-9,9,Grande Rue,55000,Resson,CAD,48.767821,5.228884
+554260014J-13,13,Rue de l'Église,55000,Resson,C+O,48.769575,5.231326
+554260014J-15,15,Rue de l'Église,55000,Resson,C+O,48.769546,5.231464
+554260014J-17,17,Rue de l'Église,55000,Resson,C+O,48.769523,5.231604
+554260014J-19,19,Rue de l'Église,55000,Resson,C+O,48.769493,5.231773
+554260014J-21,21,Rue de l'Église,55000,Resson,C+O,48.769456,5.232096
+554260014J-2B,2BIS,Rue de l'Église,55000,Resson,C+O,48.770046,5.230673
+554260014J-4,4,Rue de l'Église,55000,Resson,C+O,48.769658,5.231225
+554260014J-6,6,Rue de l'Église,55000,Resson,C+O,48.769536,5.231990
+554260014J-9,9,Rue de l'Église,55000,Resson,C+O,48.769639,5.231021
+554260019P-10,10,Rue Émile Josse,55000,Resson,C+O,48.770506,5.230255
+554260019P-11,11,Rue Émile Josse,55000,Resson,C+O,48.770389,5.230338
+554260019P-12,12,Rue Émile Josse,55000,Resson,C+O,48.770612,5.230285
+554260019P-13,13,Rue Émile Josse,55000,Resson,C+O,48.770449,5.230376
+554260019P-14,14,Rue Émile Josse,55000,Resson,C+O,48.770677,5.230317
+554260019P-15,15,Rue Émile Josse,55000,Resson,C+O,48.770520,5.230366
+554260019P-16,16,Rue Émile Josse,55000,Resson,C+O,48.770799,5.230363
+554260019P-16B,16BIS,Rue Émile Josse,55000,Resson,C+O,48.770860,5.230395
+554260019P-17,17,Rue Émile Josse,55000,Resson,C+O,48.770585,5.230404
+554260019P-20,20,Rue Émile Josse,55000,Resson,C+O,48.770936,5.230489
+554260019P-21,21,Rue Émile Josse,55000,Resson,C+O,48.770855,5.230582
+554260019P-22,22,Rue Émile Josse,55000,Resson,C+O,48.771072,5.230562
+554260019P-22B,22BIS,Rue Émile Josse,55000,Resson,C+O,48.771008,5.230529
+554260019P-23,23,Rue Émile Josse,55000,Resson,C+O,48.771006,5.230707
+554260019P-24,24,Rue Émile Josse,55000,Resson,C+O,48.771215,5.230625
+554260019P-26,26,Rue Émile Josse,55000,Resson,C+O,48.771286,5.230643
+554260019P-27,27,Rue Émile Josse,55000,Resson,C+O,48.771261,5.230738
+554260019P-28,28,Rue Émile Josse,55000,Resson,C+O,48.771386,5.230662
+554260019P-29,29,Rue Émile Josse,55000,Resson,C+O,48.771363,5.230753
+554260019P-30,30,Rue Émile Josse,55000,Resson,C+O,48.771759,5.230703
+554260019P-31,31,Rue Émile Josse,55000,Resson,C+O,48.771438,5.230923
+554260019P-33,33,Rue Émile Josse,55000,Resson,C+O,48.771559,5.230809
+554260019P-3,3,Rue Émile Josse,55000,Resson,C+O,48.770153,5.230220
+554260019P-35,35,Rue Émile Josse,55000,Resson,C+O,48.771792,5.231013
+554260019P-37,37,Rue Émile Josse,55000,Resson,C+O,48.772012,5.230920
+554260019P-4,4,Rue Émile Josse,55000,Resson,C+O,48.770273,5.230141
+554260019P-5,5,Rue Émile Josse,55000,Resson,C+O,48.770238,5.230246
+554260019P-6,6,Rue Émile Josse,55000,Resson,C+O,48.770357,5.230181
+554260019P-7,7,Rue Émile Josse,55000,Resson,C+O,48.770287,5.230274
+554260019P-8,8,Rue Émile Josse,55000,Resson,C+O,48.770434,5.230219
+554260019P-9,9,Rue Émile Josse,55000,Resson,C+O,48.770327,5.230299
+554260030B-10,10,Grande Rue,55000,Resson,C+O,48.768164,5.228989
+554260030B-11,11,Grande Rue,55000,Resson,C+O,48.767892,5.228962
+554260030B-1,1,Grande Rue,55000,Resson,C+O,48.767289,5.228696
+554260030B-12,12,Grande Rue,55000,Resson,C+O,48.768265,5.229074
+554260030B-14,14,Grande Rue,55000,Resson,C+O,48.768344,5.229136
+554260030B-15,15,Grande Rue,55000,Resson,C+O,48.768185,5.229199
+554260030B-16,16,Grande Rue,55000,Resson,C+O,48.768405,5.229182
+554260030B-17,17,Grande Rue,55000,Resson,C+O,48.768243,5.229251
+554260030B-18,18,Grande Rue,55000,Resson,C+O,48.768484,5.229243
+554260030B-19,19,Grande Rue,55000,Resson,C+O,48.768302,5.229305
+554260030B-20,20,Grande Rue,55000,Resson,C+O,48.768568,5.229308
+554260030B-21,21,Grande Rue,55000,Resson,C+O,48.768363,5.229359
+554260030B-23,23,Grande Rue,55000,Resson,C+O,48.768423,5.229403
+554260030B-25,25,Grande Rue,55000,Resson,C+O,48.768480,5.229444
+554260030B-26,26,Grande Rue,55000,Resson,C+O,48.768865,5.229477
+554260030B-27,27,Grande Rue,55000,Resson,C+O,48.768543,5.229491
+554260030B-28,28,Grande Rue,55000,Resson,C+O,48.768926,5.229518
+554260030B-30,30,Grande Rue,55000,Resson,C+O,48.769001,5.229572
+554260030B-31,31,Grande Rue,55000,Resson,C+O,48.768615,5.229545
+554260030B-32,32,Grande Rue,55000,Resson,C+O,48.769075,5.229629
+554260030B-33,33,Grande Rue,55000,Resson,C+O,48.768665,5.229582
+554260030B-3,3,Grande Rue,55000,Resson,C+O,48.767456,5.228754
+554260030B-34,34,Grande Rue,55000,Resson,C+O,48.769128,5.229665
+554260030B-35,35,Grande Rue,55000,Resson,C+O,48.768749,5.229564
+554260030B-36,36,Grande Rue,55000,Resson,C+O,48.769180,5.229694
+554260030B-37,37,Grande Rue,55000,Resson,C+O,48.768813,5.229612
+554260030B-38,38,Grande Rue,55000,Resson,C+O,48.769231,5.229719
+554260030B-39,39,Grande Rue,55000,Resson,C+O,48.768871,5.229659
+554260030B-40,40,Grande Rue,55000,Resson,C+O,48.769485,5.229359
+554260030B-40B,40BIS,Grande Rue,55000,Resson,C+O,48.769421,5.229770
+554260030B-41,41,Grande Rue,55000,Resson,C+O,48.768944,5.229711
+554260030B-42,42,Grande Rue,55000,Resson,C+O,48.769451,5.229782
+554260030B-43,43,Grande Rue,55000,Resson,C+O,48.769002,5.229753
+554260030B-44,44,Grande Rue,55000,Resson,C+O,48.769500,5.229808
+554260030B-45,45,Grande Rue,55000,Resson,C+O,48.769071,5.229791
+554260030B-47,47,Grande Rue,55000,Resson,C+O,48.769211,5.229965
+554260030B-48,48,Grande Rue,55000,Resson,C+O,48.769751,5.229903
+554260030B-50,50,Grande Rue,55000,Resson,C+O,48.769821,5.229933
+554260030B-51,51,Grande Rue,55000,Resson,C+O,48.769358,5.230005
+554260030B-51B,51BIS,Grande Rue,55000,Resson,C+O,48.769381,5.230524
+554260030B-52,52,Grande Rue,55000,Resson,C+O,48.769923,5.229976
+554260030B-53,53,Grande Rue,55000,Resson,C+O,48.769464,5.230008
+554260030B-55,55,Grande Rue,55000,Resson,C+O,48.769509,5.230018
+554260030B-57,57,Grande Rue,55000,Resson,C+O,48.769568,5.230033
+554260030B-59,59,Grande Rue,55000,Resson,C+O,48.769567,5.230556
+554260030B-61,61,Grande Rue,55000,Resson,C+O,48.769721,5.230094
+554260030B-6,6,Grande Rue,55000,Resson,C+O,48.768036,5.228851
+554260030B-7,7,Grande Rue,55000,Resson,C+O,48.767725,5.228820
+554260030B-8,8,Grande Rue,55000,Resson,C+O,48.768097,5.228922
+554260030B-9,9,Grande Rue,55000,Resson,C+O,48.767821,5.228884
 554260032D-10,10,Voie de Hasoy,55000,Resson,CAD,48.769833,5.233172
 554260032D-1,1,Voie de Hasoy,55000,Resson,CAD,48.769252,5.232608
 554260032D-12,12,Voie de Hasoy,55000,Resson,CAD,48.769800,5.233525
@@ -30216,33 +30358,33 @@
 554260032D-3,3,Voie de Hasoy,55000,Resson,CAD,48.769596,5.232583
 554260032D-6,6,Voie de Hasoy,55000,Resson,CAD,48.770084,5.232026
 554260033E-2,2,Voie de Ligny,55000,Resson,CAD,48.766735,5.229206
-554260034F-10,10,Voie de Naives,55000,Resson,CAD,48.768856,5.227746
-554260034F-11,11,Voie de Naives,55000,Resson,CAD,48.768916,5.227905
-554260034F-12,12,Voie de Naives,55000,Resson,CAD,48.769025,5.227780
-554260034F-14,14,Voie de Naives,55000,Resson,CAD,48.769290,5.227852
-554260034F-15,15,Voie de Naives,55000,Resson,CAD,48.769256,5.227985
-554260034F-16,16,Voie de Naives,55000,Resson,CAD,48.769541,5.227942
-554260034F-19,19,Voie de Naives,55000,Resson,CAD,48.769627,5.228113
-554260034F-20,20,Voie de Naives,55000,Resson,CAD,48.769942,5.228084
-554260034F-21,21,Voie de Naives,55000,Resson,CAD,48.769886,5.228197
-554260034F-22,22,Voie de Naives,55000,Resson,CAD,48.770078,5.228125
-554260034F-2,2,Voie de Naives,55000,Resson,CAD,48.768262,5.227316
-554260034F-24,24,Voie de Naives,55000,Resson,CAD,48.770215,5.228170
-554260034F-25,25,Voie de Naives,55000,Resson,CAD,48.770280,5.228343
-554260034F-26,26,Voie de Naives,55000,Resson,CAD,48.770468,5.228259
-554260034F-28,28,Voie de Naives,55000,Resson,CAD,48.770820,5.228336
-554260034F-29,29,Voie de Naives,55000,Resson,CAD,48.770632,5.228463
-554260034F-30,30,Voie de Naives,55000,Resson,CAD,48.771000,5.228357
-554260034F-31,31,Voie de Naives,55000,Resson,CAD,48.770813,5.228484
-554260034F-32,32,Voie de Naives,55000,Resson,CAD,48.771362,5.228346
-554260034F-34,34,Voie de Naives,55000,Resson,CAD,48.771616,5.228297
-554260034F-35,35,Voie de Naives,55000,Resson,CAD,48.771032,5.228497
-554260034F-36,36,Voie de Naives,55000,Resson,CAD,48.771801,5.228254
-554260034F-37,37,Voie de Naives,55000,Resson,CAD,48.771305,5.228483
-554260034F-39,39,Voie de Naives,55000,Resson,CAD,48.771576,5.228435
-554260034F-41,41,Voie de Naives,55000,Resson,CAD,48.771930,5.228358
-554260034F-4,4,Voie de Naives,55000,Resson,CAD,48.768370,5.227432
-554260034F-8,8,Voie de Naives,55000,Resson,CAD,48.768960,5.227140
+554260034F-10,10,Voie de Naives,55000,Resson,C+O,48.768856,5.227746
+554260034F-11,11,Voie de Naives,55000,Resson,C+O,48.768916,5.227905
+554260034F-12,12,Voie de Naives,55000,Resson,C+O,48.769025,5.227780
+554260034F-14,14,Voie de Naives,55000,Resson,C+O,48.769290,5.227852
+554260034F-15,15,Voie de Naives,55000,Resson,C+O,48.769256,5.227985
+554260034F-16,16,Voie de Naives,55000,Resson,C+O,48.769541,5.227942
+554260034F-19,19,Voie de Naives,55000,Resson,C+O,48.769627,5.228113
+554260034F-20,20,Voie de Naives,55000,Resson,C+O,48.769942,5.228084
+554260034F-21,21,Voie de Naives,55000,Resson,C+O,48.769886,5.228197
+554260034F-22,22,Voie de Naives,55000,Resson,C+O,48.770078,5.228125
+554260034F-2,2,Voie de Naives,55000,Resson,C+O,48.768262,5.227316
+554260034F-24,24,Voie de Naives,55000,Resson,C+O,48.770215,5.228170
+554260034F-25,25,Voie de Naives,55000,Resson,C+O,48.770280,5.228343
+554260034F-26,26,Voie de Naives,55000,Resson,C+O,48.770468,5.228259
+554260034F-28,28,Voie de Naives,55000,Resson,C+O,48.770820,5.228336
+554260034F-29,29,Voie de Naives,55000,Resson,C+O,48.770632,5.228463
+554260034F-30,30,Voie de Naives,55000,Resson,C+O,48.771000,5.228357
+554260034F-31,31,Voie de Naives,55000,Resson,C+O,48.770813,5.228484
+554260034F-32,32,Voie de Naives,55000,Resson,C+O,48.771362,5.228346
+554260034F-34,34,Voie de Naives,55000,Resson,C+O,48.771616,5.228297
+554260034F-35,35,Voie de Naives,55000,Resson,C+O,48.771032,5.228497
+554260034F-36,36,Voie de Naives,55000,Resson,C+O,48.771801,5.228254
+554260034F-37,37,Voie de Naives,55000,Resson,C+O,48.771305,5.228483
+554260034F-39,39,Voie de Naives,55000,Resson,C+O,48.771576,5.228435
+554260034F-41,41,Voie de Naives,55000,Resson,C+O,48.771930,5.228358
+554260034F-4,4,Voie de Naives,55000,Resson,C+O,48.768370,5.227432
+554260034F-8,8,Voie de Naives,55000,Resson,C+O,48.768960,5.227140
 554260040M-1,1,Rue Simon Michel,55000,Resson,C+O,48.768076,5.227358
 554260040M-12,12,Rue Simon Michel,55000,Resson,C+O,48.767971,5.227909
 554260040M-14,14,Rue Simon Michel,55000,Resson,C+O,48.767856,5.228304
@@ -30257,11 +30399,11 @@
 554260040M-6,6,Rue Simon Michel,55000,Resson,C+O,48.768045,5.227638
 554260040M-7,7,Rue Simon Michel,55000,Resson,C+O,48.767953,5.227665
 554260040M-8,8,Rue Simon Michel,55000,Resson,C+O,48.768007,5.227742
-554260050Y-11,11,Chemin du Waché,55000,Resson,CAD,48.770193,5.231855
-554260050Y-1,1,Chemin du Waché,55000,Resson,CAD,48.770009,5.232503
-554260050Y-5,5,Chemin du Waché,55000,Resson,CAD,48.770079,5.232270
-554260050Y-7,7,Chemin du Waché,55000,Resson,CAD,48.770121,5.232116
-554260050Y-9,9,Chemin du Waché,55000,Resson,CAD,48.770155,5.231994
+554260050Y-11,11,Chemin du Waché,55000,Resson,C+O,48.770193,5.231855
+554260050Y-1,1,Chemin du Waché,55000,Resson,C+O,48.770009,5.232503
+554260050Y-5,5,Chemin du Waché,55000,Resson,C+O,48.770079,5.232270
+554260050Y-7,7,Chemin du Waché,55000,Resson,C+O,48.770121,5.232116
+554260050Y-9,9,Chemin du Waché,55000,Resson,C+O,48.770155,5.231994
 554270010A-10,10,Rue du Pâquis,55800,Revigny-sur-Ornain,OSM,48.828368,4.991125
 554270010A-1,1,Rue de l'Abattoir,55800,Revigny-sur-Ornain,OSM,48.825831,4.984047
 554270010A-1,1,Rue du Pâquis,55800,Revigny-sur-Ornain,OSM,48.828661,4.992771
