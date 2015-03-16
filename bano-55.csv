@@ -9354,12 +9354,12 @@
 550850013R-1,1,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.813885,5.732695
 550850013R-2,2,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814254,5.733547
 550850013R-3,3,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814489,5.733445
-550850015T-2,2,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813197,5.733614
-550850015T-3,3,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813661,5.733752
-550850015T-4,4,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813299,5.733468
-550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813848,5.734103
-550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
-550850015T-6,6,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813419,5.733681
+550850014S-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
+550850015T-2,2,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813197,5.733614
+550850015T-3,3,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813661,5.733752
+550850015T-4,4,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813299,5.733468
+550850015T-5,5,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813848,5.734103
+550850015T-6,6,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813419,5.733681
 550850016U-5,5,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824526,5.705386
 550850016U-5A,5A,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824694,5.705362
 550850017V-1,1,Chemin de Jouy,55200,Broussey-Raulecourt,C+O,48.822058,5.705791
@@ -13969,7 +13969,10 @@
 551550005C-286,286,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135916,5.187599
 551550005C-330,330,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135560,5.187289
 551550005C-336,336,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135700,5.187002
+551550005C-371,371,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135297,5.186698
 551550005C-41,41,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136662,5.190994
+551550005C-421,421,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135178,5.186130
+551550005C-451,451,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.135301,5.185614
 551550005C-61,61,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136608,5.190596
 551550005C-67,67,Rue de la Concorde,55120,Dombasle-en-Argonne,OSM,49.136585,5.190493
 551550010H-215,215,Rue des Échavées,55120,Dombasle-en-Argonne,OSM,49.138207,5.196349
@@ -13985,6 +13988,8 @@
 551550015N-61,61,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.137799,5.190050
 551550015N-75,75,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.137934,5.189845
 551550015N-80,80,Place de l'Église,55120,Dombasle-en-Argonne,OSM,49.138241,5.189531
+551550020U-22,22,Rue du Labour,55120,Dombasle-en-Argonne,OSM,49.138162,5.197998
+551550020U-226,226,Rue du Labour,55120,Dombasle-en-Argonne,OSM,49.139071,5.200204
 551550025Z-21,21,Carrefour de la Libération,55120,Dombasle-en-Argonne,OSM,49.136924,5.190807
 551550025Z-60,60,Carrefour de la Libération,55120,Dombasle-en-Argonne,OSM,49.137233,5.190506
 551550030E-117,117,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137229,5.189001
@@ -13992,25 +13997,32 @@
 551550030E-130,130,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137501,5.188719
 551550030E-135,135,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137311,5.188692
 551550030E-146,146,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137652,5.188598
+551550030E-173,173,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137358,5.187956
 551550030E-20,20,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137201,5.190122
 551550030E-214,214,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137854,5.187742
 551550030E-242,242,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137888,5.187371
+551550030E-310,310,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.138311,5.186884
 551550030E-31,31,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137015,5.189926
+551550030E-370,370,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.138424,5.185973
+551550030E-429,429,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.138517,5.184956
 551550030E-47,47,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.136986,5.189782
 551550030E-50,50,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137431,5.189900
+551550030E-539,539,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.138936,5.183810
 551550030E-55,55,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137071,5.189603
+551550030E-584,584,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.139458,5.183157
 551550030E-59,59,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137092,5.189520
+551550030E-599,599,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.139412,5.182437
 551550030E-87,87,Rue de la Libération,55120,Dombasle-en-Argonne,OSM,49.137167,5.189226
 551550035K-13,13,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136570,5.191648
 551550035K-33,33,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136412,5.191581
 551550035K-51,51,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136362,5.191327
 551550035K-59,59,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.136259,5.191246
-551550035K-81,81,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.135943,5.190849
+551550035K-81,81,Rue du Moulin,55120,Dombasle-en-Argonne,OSM,49.135785,5.191633
 551550040R-107,107,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138906,5.191420
 551550040R-113,113,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138976,5.191552
 551550040R-116,116,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138865,5.191681
 551550040R-140,140,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139013,5.191847
-551550040R-141,141,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139083,5.191787
+551550040R-141,141,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139074,5.191712
 551550040R-160,160,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139097,5.191970
 551550040R-175,175,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.139276,5.192053
 551550040R-18,18,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138235,5.190633
@@ -14027,6 +14039,11 @@
 551550040R-80,80,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138610,5.191193
 551550040R-88,88,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138661,5.191317
 551550040R-95,95,Rue Nationale,55120,Dombasle-en-Argonne,OSM,49.138837,5.191292
+551550045W-120,120,Rue de Pamplume,55120,Dombasle-en-Argonne,OSM,49.135449,5.188674
+551550045W-160,160,Rue de Pamplume,55120,Dombasle-en-Argonne,OSM,49.135313,5.189299
+551550045W-196,196,Rue de Pamplume,55120,Dombasle-en-Argonne,OSM,49.135154,5.189519
+551550045W-220,220,Rue de Pamplume,55120,Dombasle-en-Argonne,OSM,49.134975,5.189841
+551550045W-28,28,Rue de Pamplume,55120,Dombasle-en-Argonne,OSM,49.135327,5.187016
 551550050B-117,117,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138196,5.191719
 551550050B-122,122,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138145,5.192020
 551550050B-125,125,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.138292,5.191804
@@ -14035,24 +14052,36 @@
 551550050B-234,234,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139151,5.192417
 551550050B-255,255,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139446,5.192260
 551550050B-256,256,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139101,5.193159
+551550050B-271,271,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139815,5.191638
 551550050B-272,272,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139514,5.192599
 551550050B-280,280,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139626,5.192690
+551550050B-291,291,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139736,5.192336
 551550050B-294,294,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139770,5.192694
 551550050B-320,320,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139910,5.192811
+551550050B-325,325,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.139981,5.192348
+551550050B-329,329,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140299,5.191848
 551550050B-331,331,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140157,5.192690
 551550050B-332,332,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140055,5.192931
 551550050B-344,344,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140163,5.193021
 551550050B-371,371,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140326,5.192831
 551550050B-379,379,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140435,5.192919
+551550050B-384,384,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140402,5.193367
 551550050B-395,395,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140548,5.193011
+551550050B-404,404,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140617,5.193384
 551550050B-415,415,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140727,5.193155
 551550050B-423,423,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140871,5.193267
+551550050B-432,432,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140802,5.193542
+551550050B-446,446,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.140959,5.193666
 551550050B-447,447,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141019,5.193401
 551550050B-45,45,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137753,5.191035
 551550050B-463,463,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141137,5.193509
+551550050B-468,468,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141075,5.193911
 551550050B-493,493,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141273,5.193617
+551550050B-540,540,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141771,5.194405
 551550050B-54,54,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137694,5.191254
+551550050B-545,545,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.141793,5.193887
 551550050B-55,55,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137848,5.191211
+551550050B-585,585,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.142200,5.194107
 551550050B-66,66,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137815,5.191454
 551550050B-69,69,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137958,5.191346
 551550050B-72,72,Rue de la République,55120,Dombasle-en-Argonne,OSM,49.137808,5.191750
@@ -14090,11 +14119,27 @@
 551550070Y-299,299,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137697,5.195382
 551550070Y-304,304,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137656,5.196051
 551550070Y-335,335,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137766,5.195729
+551550070Y-376,376,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137637,5.196848
+551550070Y-400,400,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137838,5.197123
 551550070Y-413,413,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137992,5.196803
+551550070Y-420,420,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137891,5.197404
+551550070Y-440,440,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137933,5.197704
 551550070Y-46,46,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.136936,5.192382
+551550070Y-500,500,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137644,5.198785
+551550070Y-520,520,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137580,5.199083
+551550070Y-574,574,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137481,5.199585
+551550070Y-581,581,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137764,5.199494
 551550070Y-58,58,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.136976,5.192572
+551550070Y-604,604,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137434,5.199955
+551550070Y-636,636,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137318,5.200411
 551550070Y-65,65,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137101,5.192270
+551550070Y-656,656,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137267,5.200953
+551550070Y-667,667,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137735,5.200570
+551550070Y-685,685,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137536,5.201623
 551550070Y-90,90,Rue Stanislas Havette,55120,Dombasle-en-Argonne,OSM,49.137034,5.192950
+551550075D-139,139,Rue de Verdun,55120,Dombasle-en-Argonne,OSM,49.136111,5.193613
+551550075D-259,259,Rue de Verdun,55120,Dombasle-en-Argonne,OSM,49.135555,5.194832
+551550075D-270,270,Rue de Verdun,55120,Dombasle-en-Argonne,OSM,49.135244,5.194686
 551590012T-2,2,Rue de la Cantine,55300,Dompcevrin,OSM,48.933644,5.490388
 551590012T-4,4,Rue de la Cantine,55300,Dompcevrin,OSM,48.934041,5.490318
 551590013U-2,2,Rue des Maix,55300,Dompcevrin,OSM,48.929377,5.489074
@@ -18913,7 +18958,7 @@
 552280075L-6,6,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038623,5.656788
 552280075L-8,8,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038338,5.656188
 552280085X-2,2,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038353,5.659221
-552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038771,5.658994
+552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038788,5.659434
 552280095H-10,10,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037507,5.657100
 552280095H-11,11,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037034,5.657047
 552280095H-11B,11BIS,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.036839,5.656716
@@ -18937,7 +18982,7 @@
 552280125R-11,11,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036959,5.660557
 552280125R-12,12,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037623,5.658985
 552280125R-14,14,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037561,5.659073
-552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037508,5.659145
+552280125R-16,16,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037453,5.659216
 552280125R-20,20,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.036748,5.659827
 552280125R-2,2,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.038003,5.658473
 552280125R-4,4,Rue de Thillot,55210,Hannonville-sous-les-Côtes,OSM,49.037933,5.658570
@@ -26450,7 +26495,7 @@
 553510070W-13,13,Place du Fort Mutin,55600,Montmédy,OSM,49.518152,5.366292
 553510070W-14,14,Place du Fort Mutin,55600,Montmédy,OSM,49.518197,5.366844
 553510070W-15,15,Place du Fort Mutin,55600,Montmédy,OSM,49.518206,5.366254
-553510070W-2,2,Place du Fort Mutin,55600,Montmédy,OSM,49.517998,5.366352
+553510070W-2,2,Place du Fort Mutin,55600,Montmédy,OSM,49.517853,5.366894
 553510070W-3,3,Place du Fort Mutin,55600,Montmédy,OSM,49.517861,5.366484
 553510070W-4,4,Place du Fort Mutin,55600,Montmédy,OSM,49.517909,5.366825
 553510070W-5,5,Place du Fort Mutin,55600,Montmédy,OSM,49.517918,5.366421
@@ -26560,7 +26605,7 @@
 553510155N-18,18,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521514,5.364720
 553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
 553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
-553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522350,5.365429
+553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522436,5.365403
 553510155N-2,2,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520146,5.363978
 553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
 553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
@@ -28653,7 +28698,7 @@
 553850020U-15,15,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109511,5.271161
 553850020U-2,2,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110348,5.273328
 553850020U-2B,2B,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.112252,5.238215
-553850020U-3,3,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110174,5.273457
+553850020U-3,3,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.112318,5.238672
 553850020U-4,4,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110318,5.272877
 553850020U-5,5,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110181,5.273070
 553850020U-6,6,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110164,5.272238
@@ -30193,6 +30238,33 @@
 554140020T-7,7,Rue de Vroil,55800,Rancourt-sur-Ornain,OSM,48.827452,4.914157
 554140020T-8,8,Rue de Vroil,55800,Rancourt-sur-Ornain,OSM,48.826998,4.914575
 554140020T-9,9,Rue de Vroil,55800,Rancourt-sur-Ornain,OSM,48.827661,4.914072
+554190030G-10,10,Route Nationale,55120,Récicourt,OSM,49.142805,5.156435
+554190030G-11,11,Route Nationale,55120,Récicourt,OSM,49.142866,5.156741
+554190030G-1,1,Route Nationale,55120,Récicourt,OSM,49.143201,5.155325
+554190030G-12,12,Route Nationale,55120,Récicourt,OSM,49.142782,5.156539
+554190030G-13,13,Route Nationale,55120,Récicourt,OSM,49.142752,5.157349
+554190030G-14,14,Route Nationale,55120,Récicourt,OSM,49.142732,5.156732
+554190030G-14B,14B,Route Nationale,55120,Récicourt,OSM,49.142558,5.157758
+554190030G-15,15,Route Nationale,55120,Récicourt,OSM,49.142700,5.157698
+554190030G-16,16,Route Nationale,55120,Récicourt,OSM,49.142427,5.158294
+554190030G-17,17,Route Nationale,55120,Récicourt,OSM,49.142644,5.158016
+554190030G-17T,17T,Route Nationale,55120,Récicourt,OSM,49.142710,5.158630
+554190030G-18,18,Route Nationale,55120,Récicourt,OSM,49.142468,5.158570
+554190030G-19,19,Route Nationale,55120,Récicourt,OSM,49.142512,5.159909
+554190030G-20,20,Route Nationale,55120,Récicourt,OSM,49.142445,5.158749
+554190030G-22,22,Route Nationale,55120,Récicourt,OSM,49.142356,5.159193
+554190030G-2,2,Route Nationale,55120,Récicourt,OSM,49.143180,5.154617
+554190030G-24,24,Route Nationale,55120,Récicourt,OSM,49.142183,5.159922
+554190030G-3,3,Route Nationale,55120,Récicourt,OSM,49.143122,5.155731
+554190030G-4,4,Route Nationale,55120,Récicourt,OSM,49.143005,5.155193
+554190030G-4B,4B,Route Nationale,55120,Récicourt,OSM,49.142910,5.155505
+554190030G-5,5,Route Nationale,55120,Récicourt,OSM,49.143069,5.155885
+554190030G-6,6,Route Nationale,55120,Récicourt,OSM,49.142875,5.156078
+554190030G-7,7,Route Nationale,55120,Récicourt,OSM,49.143012,5.156135
+554190030G-7B,7B,Route Nationale,55120,Récicourt,OSM,49.142959,5.156318
+554190030G-8,8,Route Nationale,55120,Récicourt,OSM,49.142821,5.156333
+554190030G-9,9,Route Nationale,55120,Récicourt,OSM,49.142909,5.156574
+554190050D-1,1,Chemin de Verrières,55120,Récicourt,OSM,49.143159,5.158214
 554240005H-10,10,Grande Rue,55800,Remennecourt,OSM,48.801731,4.918496
 554240005H-10T,10TER,Grande Rue,55800,Remennecourt,C+O,48.801923,4.918378
 554240005H-11,11,Grande Rue,55800,Remennecourt,OSM,48.801556,4.918512
