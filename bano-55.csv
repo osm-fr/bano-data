@@ -9354,12 +9354,12 @@
 550850013R-1,1,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.813885,5.732695
 550850013R-2,2,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814254,5.733547
 550850013R-3,3,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814489,5.733445
-550850014S-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
-550850015T-2,2,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813197,5.733614
-550850015T-3,3,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813661,5.733752
-550850015T-4,4,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813299,5.733468
-550850015T-5,5,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813848,5.734103
-550850015T-6,6,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813419,5.733681
+550850015T-2,2,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813197,5.733614
+550850015T-3,3,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813661,5.733752
+550850015T-4,4,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813299,5.733468
+550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813848,5.734103
+550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
+550850015T-6,6,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813419,5.733681
 550850016U-5,5,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824526,5.705386
 550850016U-5A,5A,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824694,5.705362
 550850017V-1,1,Chemin de Jouy,55200,Broussey-Raulecourt,C+O,48.822058,5.705791
@@ -10419,19 +10419,19 @@
 551170190U-8,8,Rue de la Vaux Raguy,55120,Clermont-en-Argonne,C+O,49.105244,5.077060
 551170190U-9,9,Rue de la Vaux Raguy,55120,Clermont-en-Argonne,C+O,49.104824,5.077816
 551170191V-1,1,Chemin de la Vaux Raguy,55120,Clermont-en-Argonne,CAD,49.105606,5.075608
-551170200E-10,10,Rue Basse,55120,Clermont-en-Argonne,CAD,49.100100,5.103379
-551170200E-11,11,Rue Basse,55120,Clermont-en-Argonne,CAD,49.100278,5.103315
-551170200E-1,1,Rue Basse,55120,Clermont-en-Argonne,CAD,49.101770,5.101703
-551170200E-12,12,Rue Basse,55120,Clermont-en-Argonne,CAD,49.099858,5.104437
-551170200E-13,13,Rue Basse,55120,Clermont-en-Argonne,CAD,49.100173,5.103508
-551170200E-2,2,Rue Basse,55120,Clermont-en-Argonne,CAD,49.101088,5.102012
-551170200E-3,3,Rue Basse,55120,Clermont-en-Argonne,CAD,49.101727,5.101936
-551170200E-4,4,Rue Basse,55120,Clermont-en-Argonne,CAD,49.100932,5.102199
-551170200E-5,5,Rue Basse,55120,Clermont-en-Argonne,CAD,49.101097,5.102267
-551170200E-6,6,Rue Basse,55120,Clermont-en-Argonne,CAD,49.100738,5.102446
-551170200E-7,7,Rue Basse,55120,Clermont-en-Argonne,CAD,49.100748,5.102626
-551170200E-8,8,Rue Basse,55120,Clermont-en-Argonne,CAD,49.100401,5.102882
-551170200E-9,9,Rue Basse,55120,Clermont-en-Argonne,CAD,49.138410,5.117524
+551170200E-10,10,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138541,5.116981
+551170200E-11,11,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138355,5.117341
+551170200E-1,1,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138631,5.118840
+551170200E-12,12,Rue Basse,55120,Clermont-en-Argonne,C+O,49.099858,5.104437
+551170200E-13,13,Rue Basse,55120,Clermont-en-Argonne,C+O,49.100173,5.103508
+551170200E-2,2,Rue Basse,55120,Clermont-en-Argonne,C+O,49.101088,5.102012
+551170200E-3,3,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138577,5.118207
+551170200E-4,4,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138781,5.117849
+551170200E-5,5,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138485,5.117855
+551170200E-6,6,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138555,5.117428
+551170200E-7,7,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138448,5.117738
+551170200E-8,8,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138486,5.117236
+551170200E-9,9,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138410,5.117525
 551170203H-1,1,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102256,5.097925
 551170203H-2,2,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.101877,5.098235
 551170203H-3,3,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102610,5.097735
@@ -10450,26 +10450,26 @@
 551170209P-8,8,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102486,5.101482
 551170209P-9,9,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102453,5.101249
 551170209P-9B,9BIS,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102400,5.100937
-551170225G-10,10,Rue Haute,55120,Clermont-en-Argonne,CAD,49.100688,5.102817
-551170225G-11,11,Rue Haute,55120,Clermont-en-Argonne,CAD,49.102507,5.102320
-551170225G-1,1,Rue Haute,55120,Clermont-en-Argonne,CAD,49.103811,5.102230
-551170225G-13,13,Rue Haute,55120,Clermont-en-Argonne,CAD,49.102323,5.102341
-551170225G-17,17,Rue Haute,55120,Clermont-en-Argonne,CAD,49.102082,5.102433
-551170225G-19,19,Rue Haute,55120,Clermont-en-Argonne,CAD,49.102012,5.102453
-551170225G-19B,19BIS,Rue Haute,55120,Clermont-en-Argonne,CAD,49.101947,5.102473
-551170225G-19T,19TER,Rue Haute,55120,Clermont-en-Argonne,CAD,49.101845,5.102508
-551170225G-21,21,Rue Haute,55120,Clermont-en-Argonne,CAD,49.101430,5.102649
-551170225G-2,2,Rue Haute,55120,Clermont-en-Argonne,CAD,49.103883,5.101861
-551170225G-23,23,Rue Haute,55120,Clermont-en-Argonne,CAD,49.101161,5.102726
-551170225G-25,25,Rue Haute,55120,Clermont-en-Argonne,CAD,49.100812,5.102884
-551170225G-3,3,Rue Haute,55120,Clermont-en-Argonne,CAD,49.103640,5.102193
-551170225G-4,4,Rue Haute,55120,Clermont-en-Argonne,CAD,49.139372,5.119899
-551170225G-4B,4BIS,Rue Haute,55120,Clermont-en-Argonne,CAD,49.103194,5.101732
-551170225G-5,5,Rue Haute,55120,Clermont-en-Argonne,CAD,49.103234,5.102152
-551170225G-6,6,Rue Haute,55120,Clermont-en-Argonne,CAD,49.100905,5.102714
-551170225G-7,7,Rue Haute,55120,Clermont-en-Argonne,CAD,49.103047,5.102186
-551170225G-8,8,Rue Haute,55120,Clermont-en-Argonne,CAD,49.100794,5.102767
-551170225G-9,9,Rue Haute,55120,Clermont-en-Argonne,CAD,49.102776,5.102265
+551170225G-10,10,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100688,5.102817
+551170225G-11,11,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102507,5.102320
+551170225G-1,1,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103811,5.102230
+551170225G-13,13,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102323,5.102341
+551170225G-17,17,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102082,5.102433
+551170225G-19,19,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102012,5.102453
+551170225G-19B,19BIS,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101947,5.102473
+551170225G-19T,19TER,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101845,5.102508
+551170225G-21,21,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101430,5.102649
+551170225G-2,2,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103883,5.101861
+551170225G-23,23,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101161,5.102726
+551170225G-25,25,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100812,5.102884
+551170225G-3,3,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103640,5.102193
+551170225G-4,4,Rue Haute,55120,Clermont-en-Argonne,OSM,49.139362,5.119895
+551170225G-4B,4BIS,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103194,5.101732
+551170225G-5,5,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103234,5.102152
+551170225G-6,6,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100905,5.102714
+551170225G-7,7,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103047,5.102186
+551170225G-8,8,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100794,5.102767
+551170225G-9,9,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102776,5.102265
 551170227J-11,11,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101224,5.097752
 551170227J-1,1,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101914,5.099957
 551170227J-2,2,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.102053,5.100013
@@ -10554,48 +10554,48 @@
 551170281T-6,6,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092437,5.165838
 551170281T-7,7,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.093724,5.169728
 551170281T-8,8,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092572,5.166370
-551170300N-10,10,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137472,5.117927
-551170300N-1,1,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137991,5.117603
-551170300N-14,14,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137084,5.118451
-551170300N-2,2,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.138334,5.116606
-551170300N-2T,2TER,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.138269,5.117116
-551170300N-3,3,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137719,5.117924
-551170300N-4,4,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.138159,5.117243
-551170300N-5,5,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137626,5.118168
-551170300N-6,6,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137864,5.117620
-551170300N-7,7,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137562,5.118191
-551170300N-8,8,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137617,5.117779
-551170300N-9,9,Rue du Banc Le Chevalier,55120,Clermont-en-Argonne,CAD,49.137404,5.118254
-551170310Z-1,1,Rue Le Bondu,55120,Clermont-en-Argonne,CAD,49.138903,5.117834
-551170315E-1,1,Rue de Clermont,55120,Clermont-en-Argonne,CAD,49.137749,5.116745
-551170325R-10,10,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.138826,5.119609
-551170325R-1,1,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.139550,5.118669
-551170325R-2,2,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.139980,5.118880
-551170325R-2B,2BIS,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.139867,5.119285
-551170325R-3,3,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.139387,5.118945
-551170325R-4,4,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.139916,5.119461
-551170325R-6,6,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.139759,5.119380
-551170325R-6B,6BIS,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.138997,5.119674
-551170325R-7,7,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.139189,5.119068
-551170325R-8,8,Cour du Moulin,55120,Clermont-en-Argonne,CAD,49.138930,5.119445
-551170330W-1,1,Route Nationale,55120,Clermont-en-Argonne,CAD,49.142379,5.125036
-551170330W-1B,1BIS,Route Nationale,55120,Clermont-en-Argonne,CAD,49.140914,5.119162
-551170330W-2,2,Route Nationale,55120,Clermont-en-Argonne,CAD,49.141887,5.121432
-551170330W-2B,2BIS,Route Nationale,55120,Clermont-en-Argonne,CAD,49.141802,5.121388
-551170330W-3,3,Route Nationale,55120,Clermont-en-Argonne,CAD,49.141523,5.121175
-551170330W-4,4,Route Nationale,55120,Clermont-en-Argonne,CAD,49.140621,5.117333
-551170330W-5,5,Route Nationale,55120,Clermont-en-Argonne,CAD,49.140946,5.118570
-551170330W-6,6,Route Nationale,55120,Clermont-en-Argonne,CAD,49.138470,5.115607
-551170330W-7,7,Route Nationale,55120,Clermont-en-Argonne,CAD,49.140779,5.117992
-551170330W-8,8,Route Nationale,55120,Clermont-en-Argonne,CAD,49.137046,5.115545
-551170330W-9,9,Route Nationale,55120,Clermont-en-Argonne,CAD,49.139833,5.116445
-551170335B-1,1,Cour Saint-Vincent,55120,Clermont-en-Argonne,CAD,49.137469,5.118968
-551170335B-2,2,Cour Saint-Vincent,55120,Clermont-en-Argonne,CAD,49.137382,5.119156
-551170335B-3,3,Cour Saint-Vincent,55120,Clermont-en-Argonne,CAD,49.137547,5.118798
-551170335B-5,5,Cour Saint-Vincent,55120,Clermont-en-Argonne,CAD,49.137737,5.119143
-551170335B-6,6,Cour Saint-Vincent,55120,Clermont-en-Argonne,CAD,49.137499,5.120192
-551170335B-7,7,Cour Saint-Vincent,55120,Clermont-en-Argonne,CAD,49.137600,5.119110
-551170335B-9,9,Cour Saint-Vincent,55120,Clermont-en-Argonne,CAD,49.137549,5.119137
+551170300N-10,10,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137469,5.117927
+551170300N-1,1,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.138006,5.117681
+551170300N-14,14,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.136954,5.118496
+551170300N-2,2,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.138447,5.116886
+551170300N-2T,2T,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.138261,5.117128
+551170300N-3,3,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137756,5.117893
+551170300N-4,4,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.138166,5.117237
+551170300N-5,5,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137616,5.118172
+551170300N-6,6,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137844,5.117578
+551170300N-7,7,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137535,5.118200
+551170300N-8,8,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137629,5.117767
+551170300N-9,9,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137394,5.118260
+551170310Z-1,1,Rue le Bondu,55120,Clermont-en-Argonne,OSM,49.138896,5.117824
+551170315E-1,1,Rue de Clermont,55120,Clermont-en-Argonne,OSM,49.137734,5.116766
+551170325R-10,10,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.138835,5.119595
+551170325R-1,1,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.139656,5.118770
+551170325R-2,2,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.140012,5.118925
+551170325R-2B,2B,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.139874,5.119311
+551170325R-3,3,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.139335,5.118802
+551170325R-4,4,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.139920,5.119472
+551170325R-6,6,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.139758,5.119375
+551170325R-6B,6BIS,Cour du Moulin,55120,Clermont-en-Argonne,C+O,49.138997,5.119674
+551170325R-7,7,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.139185,5.119070
+551170325R-8,8,Cour du Moulin,55120,Clermont-en-Argonne,OSM,49.138931,5.119444
+551170330W-1,1,Route Nationale,55120,Clermont-en-Argonne,OSM,49.142418,5.125051
+551170330W-1B,1B,Route Nationale,55120,Clermont-en-Argonne,OSM,49.140900,5.119109
+551170330W-2,2,Route Nationale,55120,Clermont-en-Argonne,OSM,49.141794,5.121625
+551170330W-2B,2B,Route Nationale,55120,Clermont-en-Argonne,OSM,49.141740,5.121398
+551170330W-3,3,Route Nationale,55120,Clermont-en-Argonne,OSM,49.141535,5.121223
+551170330W-4,4,Route Nationale,55120,Clermont-en-Argonne,OSM,49.140644,5.117183
+551170330W-5,5,Route Nationale,55120,Clermont-en-Argonne,OSM,49.140946,5.118569
+551170330W-6,6,Route Nationale,55120,Clermont-en-Argonne,OSM,49.138480,5.115494
+551170330W-7,7,Route Nationale,55120,Clermont-en-Argonne,OSM,49.140803,5.118075
+551170330W-8,8,Route Nationale,55120,Clermont-en-Argonne,OSM,49.137023,5.115625
+551170330W-9,9,Route Nationale,55120,Clermont-en-Argonne,OSM,49.139869,5.116571
+551170335B-1,1,Cour Saint-Vincent,55120,Clermont-en-Argonne,OSM,49.137471,5.118967
+551170335B-2,2,Cour Saint-Vincent,55120,Clermont-en-Argonne,OSM,49.137384,5.119163
+551170335B-3,3,Cour Saint-Vincent,55120,Clermont-en-Argonne,OSM,49.137544,5.118800
+551170335B-5,5,Cour Saint-Vincent,55120,Clermont-en-Argonne,OSM,49.137746,5.119151
+551170335B-6,6,Cour Saint-Vincent,55120,Clermont-en-Argonne,OSM,49.137416,5.120705
+551170335B-7,7,Cour Saint-Vincent,55120,Clermont-en-Argonne,OSM,49.137596,5.119111
+551170335B-9,9,Cour Saint-Vincent,55120,Clermont-en-Argonne,OSM,49.137526,5.119149
 551170450B-1,1,Chemin de la Corvée,55120,Clermont-en-Argonne,CAD,49.136614,5.117269
 551180001J-1,1,Rue des Acacias,55110,Cléry-le-Grand,CAD,49.363349,5.159205
 551180001J-2,2,Rue des Acacias,55110,Cléry-le-Grand,CAD,49.363357,5.159360
@@ -19082,13 +19082,13 @@
 552290013P-7,7,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864718,5.541550
 552290013P-8,8,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864648,5.540992
 552290013P-9,9,Voie de Langon,55300,Han-sur-Meuse,OSM,48.864483,5.541832
-552290015S-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
-552290015S-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865647,5.538939
-552290015S-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865232,5.538708
-552290015S-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
-552290015S-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
-552290015S-6,6,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865997,5.539381
-552290015S-8,8,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866290,5.539552
+552290014R-10,10,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866785,5.539801
+552290014R-1,1,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.868899,5.550063
+552290014R-2,2,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865232,5.538708
+552290014R-3,3,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866573,5.539515
+552290014R-4,4,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865724,5.539158
+552290014R-6,6,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.865997,5.539381
+552290014R-8,8,Rue du Milieu,55300,Han-sur-Meuse,OSM,48.866290,5.539552
 552290016T-10,10,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.870273,5.547199
 552290016T-1,1,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.868756,5.549572
 552290016T-12,12,Chemin de Pichaumeix,55300,Han-sur-Meuse,OSM,48.870442,5.547009
@@ -30314,7 +30314,10 @@
 554190040T-1,1,Rue du Pont Millet,55120,Récicourt,OSM,49.141969,5.154642
 554190040T-3,3,Rue du Pont Millet,55120,Récicourt,OSM,49.142960,5.154825
 554190040T-5,5,Rue du Pont Millet,55120,Récicourt,OSM,49.142943,5.154557
+554190045Y-1,1,Chemin du Relais,55120,Récicourt,OSM,49.141898,5.158360
+554190045Y-3,3,Chemin du Relais,55120,Récicourt,OSM,49.141828,5.158621
 554190050D-1,1,Chemin de Verrières,55120,Récicourt,OSM,49.143159,5.158214
+554190050D-3,3,Chemin de Verrières,55120,Récicourt,OSM,49.143990,5.157060
 554240005H-10,10,Grande Rue,55800,Remennecourt,OSM,48.801731,4.918496
 554240005H-10T,10TER,Grande Rue,55800,Remennecourt,C+O,48.801923,4.918378
 554240005H-11,11,Grande Rue,55800,Remennecourt,OSM,48.801556,4.918512
