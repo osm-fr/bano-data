@@ -2181,7 +2181,7 @@
 550220017U-7,7,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566179,5.390499
 550220017U-9,9,Rue des Comtes de Chiny,55600,Avioth,OSM,49.566247,5.390461
 550220018V-10,10,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566577,5.390942
-550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566454,5.390873
+550220018V-10B,10B,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566483,5.390965
 550220018V-1,1,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.567272,5.390848
 550220018V-12,12,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566304,5.391260
 550220018V-14,14,Rue de l'Abbé Delhotel,55600,Avioth,OSM,49.566325,5.391413
@@ -9454,12 +9454,12 @@
 550850013R-1,1,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.813885,5.732695
 550850013R-2,2,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814254,5.733547
 550850013R-3,3,Rue Fourni,55200,Broussey-Raulecourt,C+O,48.814489,5.733445
-550850014S-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
-550850015T-2,2,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813197,5.733614
-550850015T-3,3,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813661,5.733752
-550850015T-4,4,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813299,5.733468
-550850015T-5,5,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813848,5.734103
-550850015T-6,6,Grande Rue A Raulècourt,55200,Broussey-Raulecourt,CAD,48.813419,5.733681
+550850015T-2,2,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813197,5.733614
+550850015T-3,3,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813661,5.733752
+550850015T-4,4,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813299,5.733468
+550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813848,5.734103
+550850015T-5,5,Grande Rue,55200,Broussey-Raulecourt,C+O,48.824199,5.704090
+550850015T-6,6,Grande Rue,55200,Broussey-Raulecourt,C+O,48.813419,5.733681
 550850016U-5,5,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824526,5.705386
 550850016U-5A,5A,Rue Humbert,55200,Broussey-Raulecourt,C+O,48.824694,5.705362
 550850017V-1,1,Chemin de Jouy,55200,Broussey-Raulecourt,C+O,48.822058,5.705791
@@ -10176,13 +10176,13 @@
 551170015D-4,4,Rue d'Aubréville,55120,Clermont-en-Argonne,OSM,49.108697,5.069668
 551170015D-6,6,Rue d'Aubréville,55120,Clermont-en-Argonne,OSM,49.108787,5.069918
 551170015D-8,8,Rue d'Aubréville,55120,Clermont-en-Argonne,OSM,49.108982,5.070179
-551170017F-1,1,Route d'Auzéville,55120,Clermont-en-Argonne,CAD,49.116082,5.095075
-551170017F-3,3,Route d'Auzéville,55120,Clermont-en-Argonne,CAD,49.115915,5.095183
-551170017F-4,4,Route d'Auzéville,55120,Clermont-en-Argonne,CAD,49.093708,5.161977
-551170017F-5,5,Route d'Auzéville,55120,Clermont-en-Argonne,CAD,49.115656,5.095377
-551170017F-6,6,Route d'Auzéville,55120,Clermont-en-Argonne,CAD,49.093630,5.161762
-551170017F-7,7,Route d'Auzéville,55120,Clermont-en-Argonne,CAD,49.115433,5.095585
-551170017F-9,9,Route d'Auzéville,55120,Clermont-en-Argonne,CAD,49.111230,5.099841
+551170017F-1,1,Route d'Auzéville,55120,Clermont-en-Argonne,C+O,49.116082,5.095075
+551170017F-3,3,Route d'Auzéville,55120,Clermont-en-Argonne,C+O,49.115915,5.095183
+551170017F-4,4,Route d'Auzéville,55120,Clermont-en-Argonne,OSM,49.093726,5.161954
+551170017F-5,5,Route d'Auzéville,55120,Clermont-en-Argonne,C+O,49.115656,5.095377
+551170017F-6,6,Route d'Auzéville,55120,Clermont-en-Argonne,OSM,49.093645,5.161656
+551170017F-7,7,Route d'Auzéville,55120,Clermont-en-Argonne,C+O,49.115433,5.095585
+551170017F-9,9,Route d'Auzéville,55120,Clermont-en-Argonne,C+O,49.111230,5.099841
 551170025P-1,1,Rue du Bas du Brûly,55120,Clermont-en-Argonne,OSM,49.105609,5.058889
 551170025P-2,2,Rue du Bas du Brûly,55120,Clermont-en-Argonne,OSM,49.105150,5.059103
 551170025P-3,3,Rue du Bas du Brûly,55120,Clermont-en-Argonne,OSM,49.105978,5.059846
@@ -10277,7 +10277,7 @@
 551170075U-1,1,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.107168,5.069157
 551170075U-13,13,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.106400,5.065747
 551170075U-15,15,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.106366,5.065510
-551170075U-2,2,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.106454,5.064908
+551170075U-2,2,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.100817,5.097228
 551170075U-3,3,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.107026,5.068838
 551170075U-5,5,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.106937,5.068564
 551170075U-7,7,Rue de la Gare,55120,Clermont-en-Argonne,OSM,49.106894,5.068205
@@ -10519,141 +10519,141 @@
 551170190U-8,8,Rue de la Vaux Raguy,55120,Clermont-en-Argonne,C+O,49.105244,5.077060
 551170190U-9,9,Rue de la Vaux Raguy,55120,Clermont-en-Argonne,C+O,49.104824,5.077816
 551170191V-1,1,Chemin de la Vaux Raguy,55120,Clermont-en-Argonne,CAD,49.105606,5.075608
-551170200E-10,10,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138541,5.116981
-551170200E-11,11,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138355,5.117341
-551170200E-1,1,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138631,5.118840
-551170200E-12,12,Rue Basse,55120,Clermont-en-Argonne,C+O,49.099858,5.104437
-551170200E-13,13,Rue Basse,55120,Clermont-en-Argonne,C+O,49.100173,5.103508
-551170200E-2,2,Rue Basse,55120,Clermont-en-Argonne,C+O,49.101088,5.102012
-551170200E-3,3,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138577,5.118207
-551170200E-4,4,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138781,5.117849
-551170200E-5,5,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138485,5.117855
-551170200E-6,6,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138555,5.117428
-551170200E-7,7,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138448,5.117738
-551170200E-8,8,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138486,5.117236
+551170200E-10,10,Rue Basse,55120,Clermont-en-Argonne,OSM,49.100053,5.103412
+551170200E-11,11,Rue Basse,55120,Clermont-en-Argonne,OSM,49.100237,5.103316
+551170200E-1,1,Rue Basse,55120,Clermont-en-Argonne,OSM,49.101756,5.101699
+551170200E-12,12,Rue Basse,55120,Clermont-en-Argonne,OSM,49.099797,5.104463
+551170200E-13,13,Rue Basse,55120,Clermont-en-Argonne,OSM,49.100160,5.103457
+551170200E-2,2,Rue Basse,55120,Clermont-en-Argonne,OSM,49.101048,5.101987
+551170200E-3,3,Rue Basse,55120,Clermont-en-Argonne,OSM,49.101666,5.101738
+551170200E-4,4,Rue Basse,55120,Clermont-en-Argonne,OSM,49.100892,5.102176
+551170200E-5,5,Rue Basse,55120,Clermont-en-Argonne,OSM,49.101066,5.102268
+551170200E-6,6,Rue Basse,55120,Clermont-en-Argonne,OSM,49.100727,5.102432
+551170200E-7,7,Rue Basse,55120,Clermont-en-Argonne,OSM,49.100712,5.102622
+551170200E-8,8,Rue Basse,55120,Clermont-en-Argonne,OSM,49.100358,5.102907
 551170200E-9,9,Rue Basse,55120,Clermont-en-Argonne,OSM,49.138410,5.117525
-551170203H-1,1,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102256,5.097925
-551170203H-2,2,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.101877,5.098235
-551170203H-3,3,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102610,5.097735
-551170203H-4,4,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.101913,5.098214
-551170203H-5,5,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102822,5.097621
-551170203H-6,6,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102367,5.097984
-551170203H-6B,6BIS,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102544,5.097892
-551170203H-8,8,Rue du Chanoine J B Gillant,55120,Clermont-en-Argonne,CAD,49.102809,5.097730
-551170209P-10,10,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102281,5.100998
-551170209P-1,1,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102082,5.101111
-551170209P-2,2,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.101982,5.101163
-551170209P-3,3,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.101925,5.101422
-551170209P-5,5,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102016,5.102037
-551170209P-6,6,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102582,5.102100
-551170209P-7,7,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102534,5.101778
-551170209P-8,8,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102486,5.101482
-551170209P-9,9,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102453,5.101249
-551170209P-9B,9BIS,Place Dom Jea Baptiste Maugérard,55120,Clermont-en-Argonne,CAD,49.102400,5.100937
-551170225G-10,10,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100688,5.102817
-551170225G-11,11,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102507,5.102320
-551170225G-1,1,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103811,5.102230
-551170225G-13,13,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102323,5.102341
-551170225G-17,17,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102082,5.102433
-551170225G-19,19,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102012,5.102453
-551170225G-19B,19BIS,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101947,5.102473
-551170225G-19T,19TER,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101845,5.102508
-551170225G-21,21,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101430,5.102649
-551170225G-2,2,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103883,5.101861
-551170225G-23,23,Rue Haute,55120,Clermont-en-Argonne,C+O,49.101161,5.102726
-551170225G-25,25,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100812,5.102884
-551170225G-3,3,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103640,5.102193
+551170203H-1,1,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.102240,5.097930
+551170203H-2,2,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.101852,5.098234
+551170203H-3,3,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.102569,5.097751
+551170203H-4,4,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.101913,5.098204
+551170203H-5,5,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.102762,5.097648
+551170203H-6,6,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.102342,5.097990
+551170203H-6B,6B,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.102516,5.097903
+551170203H-8,8,Rue du Chanoine Jean-Baptiste Gillant,55120,Clermont-en-Argonne,OSM,49.102769,5.097773
+551170209P-10,10,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.102248,5.101004
+551170209P-1,1,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.102063,5.101117
+551170209P-2,2,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.101960,5.101165
+551170209P-3,3,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.101892,5.101382
+551170209P-5,5,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.101995,5.102045
+551170209P-6,6,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.102561,5.102096
+551170209P-7,7,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.102500,5.101785
+551170209P-8,8,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.102459,5.101473
+551170209P-9,9,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.102422,5.101216
+551170209P-9B,9B,Place Dom Jean-Baptiste Maugérard,55120,Clermont-en-Argonne,OSM,49.102379,5.100915
+551170225G-10,10,Rue Haute,55120,Clermont-en-Argonne,OSM,49.100698,5.102786
+551170225G-11,11,Rue Haute,55120,Clermont-en-Argonne,OSM,49.102566,5.102302
+551170225G-1,1,Rue Haute,55120,Clermont-en-Argonne,OSM,49.103749,5.102323
+551170225G-13,13,Rue Haute,55120,Clermont-en-Argonne,OSM,49.102283,5.102329
+551170225G-17,17,Rue Haute,55120,Clermont-en-Argonne,OSM,49.102040,5.102440
+551170225G-19,19,Rue Haute,55120,Clermont-en-Argonne,OSM,49.101979,5.102458
+551170225G-19B,19B,Rue Haute,55120,Clermont-en-Argonne,OSM,49.101921,5.102475
+551170225G-19T,19T,Rue Haute,55120,Clermont-en-Argonne,OSM,49.101820,5.102504
+551170225G-21,21,Rue Haute,55120,Clermont-en-Argonne,OSM,49.101405,5.102647
+551170225G-2,2,Rue Haute,55120,Clermont-en-Argonne,OSM,49.103902,5.101813
+551170225G-23,23,Rue Haute,55120,Clermont-en-Argonne,OSM,49.101140,5.102728
+551170225G-25,25,Rue Haute,55120,Clermont-en-Argonne,OSM,49.100844,5.102944
+551170225G-3,3,Rue Haute,55120,Clermont-en-Argonne,OSM,49.103638,5.102211
 551170225G-4,4,Rue Haute,55120,Clermont-en-Argonne,OSM,49.139362,5.119895
-551170225G-4B,4BIS,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103194,5.101732
-551170225G-5,5,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103234,5.102152
-551170225G-6,6,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100905,5.102714
-551170225G-7,7,Rue Haute,55120,Clermont-en-Argonne,C+O,49.103047,5.102186
-551170225G-8,8,Rue Haute,55120,Clermont-en-Argonne,C+O,49.100794,5.102767
-551170225G-9,9,Rue Haute,55120,Clermont-en-Argonne,C+O,49.102776,5.102265
-551170227J-11,11,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101224,5.097752
-551170227J-1,1,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101914,5.099957
-551170227J-2,2,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.102053,5.100013
-551170227J-3,3,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101841,5.099453
-551170227J-4,4,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101957,5.098868
-551170227J-5,5,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101728,5.099054
-551170227J-6,6,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101794,5.098623
-551170227J-7,7,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101660,5.098771
-551170227J-8,8,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101207,5.097431
-551170227J-9,9,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,CAD,49.101619,5.098596
-551170230M-10,10,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.101113,5.099859
-551170230M-1,1,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.092960,5.164275
-551170230M-16,16,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.100902,5.099939
-551170230M-18,18,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.100732,5.100002
-551170230M-20,20,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.099980,5.100347
-551170230M-2,2,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.101616,5.099583
-551170230M-24,24,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.099368,5.100620
-551170230M-2B,2BIS,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.101434,5.099603
-551170230M-3,3,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.092987,5.163536
-551170230M-4,4,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.101409,5.099796
-551170230M-5,5,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.101166,5.100035
-551170230M-6,6,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.101343,5.099814
-551170230M-7,7,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.100533,5.100118
-551170230M-8,8,Rue du Moulin,55120,Clermont-en-Argonne,CAD,49.101208,5.099837
-551170235T-16B,16BIS,Rue de la Scierie,55120,Clermont-en-Argonne,CAD,49.101275,5.095254
-551170235T-2,2,Rue de la Scierie,55120,Clermont-en-Argonne,CAD,49.101073,5.096670
-551170235T-4,4,Rue de la Scierie,55120,Clermont-en-Argonne,CAD,49.101105,5.096411
-551170235T-6,6,Rue de la Scierie,55120,Clermont-en-Argonne,CAD,49.101199,5.095759
-551170237V-10,10,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.101835,5.090005
-551170237V-16,16,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.101383,5.090821
-551170237V-18,18,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100993,5.091544
-551170237V-20,20,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100617,5.092659
-551170237V-22,22,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100548,5.093035
-551170237V-24,24,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100511,5.093352
-551170237V-26,26,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100493,5.093878
-551170237V-28,28,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100490,5.094357
-551170237V-30,30,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100435,5.097520
-551170237V-32,32,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100291,5.097894
-551170237V-3,3,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100613,5.096091
-551170237V-34,34,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.099983,5.098188
-551170237V-36,36,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.099568,5.098510
-551170237V-38,38,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.098457,5.099390
-551170237V-4,4,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.102228,5.089083
-551170237V-6,6,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.102132,5.089390
-551170237V-7,7,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.100177,5.098271
-551170237V-8,8,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.101964,5.089766
-551170237V-9B,9BIS,Rue du Varinot,55120,Clermont-en-Argonne,CAD,49.099927,5.098463
-551170238W-1,1,Allée des Vergers,55120,Clermont-en-Argonne,CAD,49.101159,5.098114
-551170238W-3,3,Allée des Vergers,55120,Clermont-en-Argonne,CAD,49.100940,5.098281
-551170239X-1,1,Rue de Versailles,55120,Clermont-en-Argonne,CAD,49.100063,5.095714
-551170239X-2,2,Rue de Versailles,55120,Clermont-en-Argonne,CAD,49.100269,5.095860
-551170239X-3,3,Rue de Versailles,55120,Clermont-en-Argonne,CAD,49.099700,5.095073
-551170239X-4,4,Rue de Versailles,55120,Clermont-en-Argonne,CAD,49.099609,5.094715
-551170240Y-1,1,Rue de la Vieille Ville,55120,Clermont-en-Argonne,CAD,49.106559,5.096418
-551170240Y-2,2,Rue de la Vieille Ville,55120,Clermont-en-Argonne,CAD,49.102262,5.098429
-551170240Y-4,4,Rue de la Vieille Ville,55120,Clermont-en-Argonne,CAD,49.102192,5.098286
-551170240Y-6,6,Rue de la Vieille Ville,55120,Clermont-en-Argonne,CAD,49.102155,5.098142
-551170263Y-2,2,Route de Brocourt,55120,Clermont-en-Argonne,CAD,49.094337,5.164145
-551170263Y-4,4,Route de Brocourt,55120,Clermont-en-Argonne,CAD,49.094404,5.164026
-551170266B-11,11,Voie Communale La Grande Cour,55120,Clermont-en-Argonne,CAD,49.093473,5.164778
-551170266B-1,1,Voie Communale La Grande Cour,55120,Clermont-en-Argonne,CAD,49.092937,5.165277
-551170266B-13,13,Voie Communale La Grande Cour,55120,Clermont-en-Argonne,CAD,49.093633,5.164546
-551170266B-7,7,Voie Communale La Grande Cour,55120,Clermont-en-Argonne,CAD,49.093395,5.165246
-551170266B-9,9,Voie Communale La Grande Cour,55120,Clermont-en-Argonne,CAD,49.093421,5.165029
-551170269E-10,10,Grande Rue,55120,Clermont-en-Argonne,CAD,49.091639,5.164733
-551170269E-1,1,Grande Rue,55120,Clermont-en-Argonne,CAD,49.092705,5.164678
-551170269E-2,2,Grande Rue,55120,Clermont-en-Argonne,CAD,49.092623,5.164497
-551170269E-4,4,Grande Rue,55120,Clermont-en-Argonne,CAD,49.092380,5.164550
-551170269E-6,6,Grande Rue,55120,Clermont-en-Argonne,CAD,49.092228,5.164569
-551170269E-8,8,Grande Rue,55120,Clermont-en-Argonne,CAD,49.092011,5.164623
-551170269E-9,9,Grande Rue,55120,Clermont-en-Argonne,CAD,49.091751,5.164889
-551170272H-4,4,Rue du Gué,55120,Clermont-en-Argonne,CAD,49.091476,5.164198
-551170272H-7,7,Rue du Gué,55120,Clermont-en-Argonne,CAD,49.092147,5.163192
-551170277N-7,7,Chemin du Pré,55120,Clermont-en-Argonne,CAD,49.094082,5.169453
-551170278P-2,2,Route de Rarécourt,55120,Clermont-en-Argonne,CAD,49.092203,5.159696
-551170278P-4,4,Route de Rarécourt,55120,Clermont-en-Argonne,CAD,49.092047,5.159512
-551170281T-1,1,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092338,5.164821
-551170281T-2,2,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092214,5.164971
-551170281T-3,3,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092380,5.165280
-551170281T-4,4,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092355,5.165521
-551170281T-5,5,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092632,5.166233
-551170281T-6,6,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092437,5.165838
-551170281T-7,7,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.093724,5.169728
-551170281T-8,8,Rue de Verdun,55120,Clermont-en-Argonne,CAD,49.092572,5.166370
+551170225G-4B,4B,Rue Haute,55120,Clermont-en-Argonne,OSM,49.103169,5.101991
+551170225G-5,5,Rue Haute,55120,Clermont-en-Argonne,OSM,49.103203,5.102146
+551170225G-6,6,Rue Haute,55120,Clermont-en-Argonne,OSM,49.100968,5.102634
+551170225G-7,7,Rue Haute,55120,Clermont-en-Argonne,OSM,49.103041,5.102233
+551170225G-8,8,Rue Haute,55120,Clermont-en-Argonne,OSM,49.100798,5.102739
+551170225G-9,9,Rue Haute,55120,Clermont-en-Argonne,OSM,49.102747,5.102249
+551170227J-11,11,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101215,5.097765
+551170227J-1,1,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101897,5.099945
+551170227J-2,2,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.102061,5.100059
+551170227J-3,3,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101824,5.099455
+551170227J-4,4,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101880,5.098956
+551170227J-5,5,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101701,5.099024
+551170227J-6,6,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101814,5.098665
+551170227J-7,7,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101647,5.098797
+551170227J-8,8,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101191,5.097438
+551170227J-9,9,Rue Joseph Loyseau du Boulay,55120,Clermont-en-Argonne,OSM,49.101548,5.098619
+551170230M-10,10,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.101096,5.099858
+551170230M-1,1,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.092907,5.164321
+551170230M-16,16,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.100874,5.099943
+551170230M-18,18,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.100760,5.099987
+551170230M-20,20,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.099966,5.100311
+551170230M-2,2,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.093095,5.164304
+551170230M-24,24,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.099312,5.100507
+551170230M-2B,2B,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.101447,5.099773
+551170230M-3,3,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.101270,5.099981
+551170230M-4,4,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.093124,5.163995
+551170230M-5,5,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.101161,5.100012
+551170230M-6,6,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.101325,5.099808
+551170230M-7,7,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.100499,5.100124
+551170230M-8,8,Rue du Moulin,55120,Clermont-en-Argonne,OSM,49.101183,5.099839
+551170235T-16B,16B,Rue de la Scierie,55120,Clermont-en-Argonne,OSM,49.101295,5.095249
+551170235T-2,2,Rue de la Scierie,55120,Clermont-en-Argonne,OSM,49.101058,5.096637
+551170235T-4,4,Rue de la Scierie,55120,Clermont-en-Argonne,OSM,49.101094,5.096355
+551170235T-6,6,Rue de la Scierie,55120,Clermont-en-Argonne,OSM,49.101262,5.095719
+551170237V-10,10,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.101698,5.089900
+551170237V-16,16,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100121,5.089742
+551170237V-18,18,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100740,5.091305
+551170237V-20,20,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100443,5.092628
+551170237V-22,22,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100403,5.093012
+551170237V-24,24,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100405,5.093316
+551170237V-26,26,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100375,5.093696
+551170237V-28,28,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100354,5.094214
+551170237V-30,30,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100356,5.097656
+551170237V-32,32,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100267,5.097868
+551170237V-3,3,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100645,5.096106
+551170237V-34,34,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.099890,5.097956
+551170237V-36,36,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.099584,5.098155
+551170237V-38,38,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.098437,5.099249
+551170237V-4,4,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.102033,5.089007
+551170237V-6,6,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.102016,5.089334
+551170237V-7,7,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.100175,5.098434
+551170237V-8,8,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.101797,5.089592
+551170237V-9B,9B,Rue du Varinot,55120,Clermont-en-Argonne,OSM,49.099924,5.098458
+551170238W-1,1,Allée des Vergers,55120,Clermont-en-Argonne,OSM,49.101097,5.098085
+551170238W-3,3,Allée des Vergers,55120,Clermont-en-Argonne,OSM,49.100923,5.098241
+551170239X-1,1,Rue de Versailles,55120,Clermont-en-Argonne,C+O,49.100063,5.095714
+551170239X-2,2,Rue de Versailles,55120,Clermont-en-Argonne,C+O,49.100269,5.095860
+551170239X-3,3,Rue de Versailles,55120,Clermont-en-Argonne,C+O,49.099700,5.095073
+551170239X-4,4,Rue de Versailles,55120,Clermont-en-Argonne,C+O,49.099609,5.094715
+551170240Y-1,1,Rue de la Vieille Ville,55120,Clermont-en-Argonne,C+O,49.106559,5.096418
+551170240Y-2,2,Rue de la Vieille Ville,55120,Clermont-en-Argonne,OSM,49.102211,5.098455
+551170240Y-4,4,Rue de la Vieille Ville,55120,Clermont-en-Argonne,OSM,49.102170,5.098300
+551170240Y-6,6,Rue de la Vieille Ville,55120,Clermont-en-Argonne,OSM,49.102132,5.098158
+551170263Y-2,2,Route de Brocourt,55120,Clermont-en-Argonne,OSM,49.094392,5.164175
+551170263Y-4,4,Route de Brocourt,55120,Clermont-en-Argonne,OSM,49.094433,5.164005
+551170266B-11,11,La Grande Cour,55120,Clermont-en-Argonne,OSM,49.093449,5.164755
+551170266B-1,1,La Grande Cour,55120,Clermont-en-Argonne,OSM,49.092870,5.165250
+551170266B-13,13,La Grande Cour,55120,Clermont-en-Argonne,OSM,49.093646,5.164568
+551170266B-7,7,La Grande Cour,55120,Clermont-en-Argonne,OSM,49.093311,5.165337
+551170266B-9,9,La Grande Cour,55120,Clermont-en-Argonne,OSM,49.093397,5.165004
+551170269E-10,10,Grande Rue,55120,Clermont-en-Argonne,OSM,49.091568,5.164659
+551170269E-1,1,Grande Rue,55120,Clermont-en-Argonne,OSM,49.092675,5.164654
+551170269E-2,2,Grande Rue,55120,Clermont-en-Argonne,OSM,49.092660,5.164437
+551170269E-4,4,Grande Rue,55120,Clermont-en-Argonne,OSM,49.092336,5.164445
+551170269E-6,6,Grande Rue,55120,Clermont-en-Argonne,OSM,49.092219,5.164550
+551170269E-8,8,Grande Rue,55120,Clermont-en-Argonne,OSM,49.092004,5.164593
+551170269E-9,9,Grande Rue,55120,Clermont-en-Argonne,OSM,49.091712,5.165023
+551170272H-4,4,Rue du Gué,55120,Clermont-en-Argonne,OSM,49.091481,5.164180
+551170272H-7,7,Rue du Gué,55120,Clermont-en-Argonne,OSM,49.092199,5.163423
+551170277N-7,7,Chemin du Pré,55120,Clermont-en-Argonne,OSM,49.094140,5.169329
+551170278P-2,2,Route de Rarécourt,55120,Clermont-en-Argonne,OSM,49.092171,5.159624
+551170278P-4,4,Route de Rarécourt,55120,Clermont-en-Argonne,OSM,49.092024,5.159440
+551170281T-1,1,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.092394,5.164834
+551170281T-2,2,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.092216,5.165042
+551170281T-3,3,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.092404,5.165219
+551170281T-4,4,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.092316,5.165528
+551170281T-5,5,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.092663,5.166186
+551170281T-6,6,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.092400,5.165803
+551170281T-7,7,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.093745,5.169594
+551170281T-8,8,Rue de Verdun,55120,Clermont-en-Argonne,OSM,49.092737,5.167957
 551170300N-10,10,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.137469,5.117927
 551170300N-1,1,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.138006,5.117681
 551170300N-14,14,Rue du Banc le Chevalier,55120,Clermont-en-Argonne,OSM,49.136954,5.118496
@@ -19058,7 +19058,7 @@
 552280075L-6,6,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038623,5.656788
 552280075L-8,8,Rue de la Gare,55210,Hannonville-sous-les-Côtes,OSM,49.038338,5.656188
 552280085X-2,2,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038353,5.659221
-552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038771,5.658994
+552280085X-3,3,Rue du Jardinot,55210,Hannonville-sous-les-Côtes,OSM,49.038788,5.659434
 552280095H-10,10,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037507,5.657100
 552280095H-11,11,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.037034,5.657047
 552280095H-11B,11BIS,Rue de la Promenade,55210,Hannonville-sous-les-Côtes,OSM,49.036839,5.656716
@@ -19111,10 +19111,10 @@
 552290004E-5,5,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.868091,5.551082
 552290004E-7,7,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.867959,5.552075
 552290004E-9,9,Chemin de Brasseitte,55300,Han-sur-Meuse,OSM,48.867878,5.552453
-552290006G-11,11,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869494,5.550897
-552290006G-1,1,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.868708,5.550929
-552290006G-2,2,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.866484,5.538954
-552290006G-3,3,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869029,5.551283
+552290007H-11,11,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869494,5.550897
+552290007H-1,1,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.868708,5.550929
+552290007H-2,2,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.866484,5.538954
+552290007H-3,3,Rue de l'Église,55300,Han-sur-Meuse,OSM,48.869029,5.551283
 552290008J-10,10,Rue Falson,55300,Han-sur-Meuse,OSM,48.866302,5.540372
 552290008J-11,11,Rue Falson,55300,Han-sur-Meuse,OSM,48.866588,5.540408
 552290008J-1,1,Rue Falson,55300,Han-sur-Meuse,OSM,48.866097,5.539007
@@ -26512,10 +26512,22 @@
 553490040X-5,5,Route de Villers,55110,Montigny-devant-Sassey,CAD,49.428413,5.153742
 553510010F-2,2,Rue d'Allamont,55600,Montmédy,OSM,49.520613,5.368126
 553510010F-4,4,Rue d'Allamont,55600,Montmédy,OSM,49.520638,5.368037
+553510020S-11,11,Rue Bastien Lepage,55600,Montmédy,OSM,49.521012,5.364953
+553510020S-13,13,Rue Bastien Lepage,55600,Montmédy,OSM,49.521174,5.365049
+553510020S-17,17,Rue Bastien Lepage,55600,Montmédy,OSM,49.521515,5.365272
 553510025X-2,2,Rue Brunswig,55600,Montmédy,OSM,49.521635,5.368043
 553510025X-4,4,Rue Brunswig,55600,Montmédy,OSM,49.521787,5.367750
 553510025X-6,6,Rue Brunswig,55600,Montmédy,OSM,49.521818,5.367685
 553510025X-8,8,Rue Brunswig,55600,Montmédy,OSM,49.521896,5.367523
+553510035H-1,1,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523719,5.370554
+553510035H-12/10,12/10,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523962,5.370146
+553510035H-15,15,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523451,5.368480
+553510035H-16/14,16/14,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523881,5.369515
+553510035H-1B,1BIS,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523652,5.370210
+553510035H-1T,1TER,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523628,5.369893
+553510035H-3,3,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523596,5.369552
+553510035H-5,5,Rue du Commandant Ménard,55600,Montmédy,OSM,49.523540,5.369212
+553510035H-8/6,8/6,Rue du Commandant Ménard,55600,Montmédy,OSM,49.524037,5.370742
 553510040N-10,10,Rue de la Chevée,55600,Montmédy,OSM,49.522574,5.362553
 553510040N-1,1,Rue de la Chevée,55600,Montmédy,OSM,49.522508,5.368738
 553510040N-12,12,Rue de la Chevée,55600,Montmédy,OSM,49.522206,5.362152
@@ -26568,7 +26580,7 @@
 553510062M-3,3,Rue Ernest Mabille,55600,Montmédy,OSM,49.519424,5.367782
 553510062M-34,34,Rue Ernest Mabille,55600,Montmédy,OSM,49.517809,5.367220
 553510062M-36,36,Rue Ernest Mabille,55600,Montmédy,OSM,49.517673,5.367159
-553510062M-38,38,Rue Ernest Mabille,55600,Montmédy,OSM,49.517306,5.367227
+553510062M-38,38,Rue Ernest Mabille,55600,Montmédy,OSM,49.517371,5.367155
 553510062M-4,4,Rue Ernest Mabille,55600,Montmédy,OSM,49.519055,5.367219
 553510062M-5,5,Rue Ernest Mabille,55600,Montmédy,OSM,49.519344,5.367771
 553510062M-6,6,Rue Ernest Mabille,55600,Montmédy,OSM,49.518952,5.367155
@@ -26595,7 +26607,7 @@
 553510070W-13,13,Place du Fort Mutin,55600,Montmédy,OSM,49.518152,5.366292
 553510070W-14,14,Place du Fort Mutin,55600,Montmédy,OSM,49.518197,5.366844
 553510070W-15,15,Place du Fort Mutin,55600,Montmédy,OSM,49.518206,5.366254
-553510070W-2,2,Place du Fort Mutin,55600,Montmédy,OSM,49.517853,5.366894
+553510070W-2,2,Place du Fort Mutin,55600,Montmédy,OSM,49.517998,5.366352
 553510070W-3,3,Place du Fort Mutin,55600,Montmédy,OSM,49.517861,5.366484
 553510070W-4,4,Place du Fort Mutin,55600,Montmédy,OSM,49.517909,5.366825
 553510070W-5,5,Place du Fort Mutin,55600,Montmédy,OSM,49.517918,5.366421
@@ -26699,24 +26711,44 @@
 553510150H-6,6,Rue Perceval,55600,Montmédy,OSM,49.519016,5.368559
 553510150H-6B,6BIS,Rue Perceval,55600,Montmédy,OSM,49.519095,5.368576
 553510155N-10,10,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520831,5.364344
+553510155N-11,11,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521408,5.364262
+553510155N-1,1,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520694,5.363879
 553510155N-12,12,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520995,5.364465
+553510155N-13,13,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521505,5.364314
 553510155N-14,14,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521168,5.364524
+553510155N-15,15,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
 553510155N-16,16,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521341,5.364627
+553510155N-17,17,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
 553510155N-18,18,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521514,5.364720
-553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521678,5.364421
-553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521769,5.364469
-553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522436,5.365403
+553510155N-19,19,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
+553510155N-21,21,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
+553510155N-22,22,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522350,5.365429
 553510155N-2,2,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520146,5.363978
-553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521953,5.364564
-553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522033,5.364607
-553510155N-27,27,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522222,5.364695
+553510155N-23,23,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522222,5.364695
+553510155N-25,25,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522313,5.364742
+553510155N-27,27,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522489,5.364840
+553510155N-27B,27BIS,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522595,5.364882
+553510155N-29,29,Rue de la Pièce Madame,55600,Montmédy,OSM,49.522759,5.364992
+553510155N-3,3,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520864,5.363970
 553510155N-4,4,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520311,5.364094
+553510155N-5,5,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520959,5.364020
 553510155N-6,6,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520485,5.364158
+553510155N-7,7,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521132,5.364122
 553510155N-8,8,Rue de la Pièce Madame,55600,Montmédy,OSM,49.520660,5.364253
+553510155N-9,9,Rue de la Pièce Madame,55600,Montmédy,OSM,49.521234,5.364175
 553510168C-5,5,Place Raymond Poincaré,55600,Montmédy,OSM,49.519145,5.367208
 553510168C-6,6,Place Raymond Poincaré,55600,Montmédy,OSM,49.519127,5.367069
 553510168C-7,7,Place Raymond Poincaré,55600,Montmédy,OSM,49.518842,5.366613
 553510168C-8,8,Place Raymond Poincaré,55600,Montmédy,OSM,49.518862,5.366411
+553510175K-11,11,Rue des Roses,55600,Montmédy,OSM,49.521012,5.364953
+553510175K-1,1,Rue des Roses,55600,Montmédy,OSM,49.520176,5.364416
+553510175K-13,13,Rue des Roses,55600,Montmédy,OSM,49.521174,5.365049
+553510175K-15,15,Rue des Roses,55600,Montmédy,OSM,49.521335,5.365205
+553510175K-17,17,Rue des Roses,55600,Montmédy,OSM,49.521515,5.365272
+553510175K-3,3,Rue des Roses,55600,Montmédy,OSM,49.520340,5.364527
+553510175K-5,5,Rue des Roses,55600,Montmédy,OSM,49.520516,5.364635
+553510175K-7,7,Rue des Roses,55600,Montmédy,OSM,49.520673,5.364735
+553510175K-9,9,Rue des Roses,55600,Montmédy,OSM,49.520842,5.364841
 553510190B-10,10,Rue Sylvain Bailleux,55600,Montmédy,OSM,49.522037,5.367190
 553510190B-11,11,Rue Sylvain Bailleux,55600,Montmédy,OSM,49.521572,5.367051
 553510190B-1,1,Rue Sylvain Bailleux,55600,Montmédy,OSM,49.522526,5.367877
@@ -27778,24 +27810,24 @@
 553660040Y-7,7,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801716,5.076432
 553660040Y-8,8,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801967,5.076217
 553660040Y-9,9,Allée de la Jageonne,55000,Val-d'Ornain,OSM,48.801673,5.076123
-553660045D-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
-553660045D-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811769,5.100625
-553660045D-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
-553660045D-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
-553660045D-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
-553660045D-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
-553660045D-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
-553660045D-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811653,5.100823
-553660045D-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
-553660045D-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
-553660045D-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
-553660045D-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
-553660045D-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
-553660045D-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.811237,5.103535
-553660045D-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
-553660045D-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810480,5.108566
-553660045D-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
-553660045D-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
+553660044C-11,11,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802477,5.069343
+553660044C-1,1,Rue du Moulin,55000,Val-d'Ornain,OSM,48.801758,5.068813
+553660044C-13,13,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802727,5.069393
+553660044C-15,15,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802790,5.069397
+553660044C-17,17,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802578,5.069529
+553660044C-19,19,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802781,5.069753
+553660044C-21,21,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803123,5.069691
+553660044C-2,2,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802176,5.069226
+553660044C-23,23,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803159,5.069717
+553660044C-25,25,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803160,5.069529
+553660044C-25B,25B,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803243,5.069357
+553660044C-29,29,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803469,5.069920
+553660044C-31,31,Rue du Moulin,55000,Val-d'Ornain,OSM,48.803494,5.070162
+553660044C-3,3,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802094,5.068972
+553660044C-4,4,Rue du Moulin,55000,Val-d'Ornain,OSM,48.810273,5.108632
+553660044C-5,5,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802219,5.068592
+553660044C-7,7,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802322,5.068949
+553660044C-9,9,Rue du Moulin,55000,Val-d'Ornain,OSM,48.802392,5.068955
 553660048G-1,1,Route de Mussey,55000,Val-d'Ornain,OSM,48.813646,5.082232
 553660048G-3,3,Route de Mussey,55000,Val-d'Ornain,OSM,48.813365,5.081723
 553660049H-11,11,Rue Fernand Nanty,55000,Val-d'Ornain,OSM,48.804344,5.071459
@@ -28792,6 +28824,20 @@
 553850015N-3,3,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110555,5.274099
 553850015N-5,5,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110585,5.274211
 553850015N-7,7,Rue du Breuil,55120,Nixéville-Blercourt,OSM,49.110632,5.274311
+553850020U-11,11,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109987,5.271810
+553850020U-1,1,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110140,5.273640
+553850020U-13,13,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109877,5.271585
+553850020U-15,15,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109511,5.271161
+553850020U-2,2,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110348,5.273328
+553850020U-2B,2B,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.112252,5.238215
+553850020U-3,3,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110174,5.273457
+553850020U-4,4,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110318,5.272877
+553850020U-5,5,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110181,5.273070
+553850020U-6,6,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110164,5.272238
+553850020U-7,7,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110117,5.272731
+553850020U-7B,7B,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109771,5.272314
+553850020U-8,8,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109598,5.270970
+553850020U-9,9,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110027,5.271955
 553850025Z-1,1,Rue de la Fontaine,55120,Nixéville-Blercourt,OSM,49.110226,5.271277
 553850025Z-2,2,Rue de la Fontaine,55120,Nixéville-Blercourt,OSM,49.110258,5.271524
 553850025Z-3,3,Rue de la Fontaine,55120,Nixéville-Blercourt,OSM,49.110336,5.271386
@@ -28866,20 +28912,6 @@
 553850045W-7,7,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111678,5.279585
 553850045W-8,8,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111307,5.280558
 553850045W-9,9,Route de Verdun,55120,Nixéville-Blercourt,OSM,49.111720,5.279796
-553850060M-11,11,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109987,5.271810
-553850060M-1,1,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.112360,5.238079
-553850060M-13,13,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109877,5.271585
-553850060M-15,15,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109511,5.271161
-553850060M-2,2,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.112367,5.237497
-553850060M-2B,2B,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.112252,5.238215
-553850060M-3,3,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.112318,5.238672
-553850060M-4,4,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110318,5.272877
-553850060M-5,5,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110181,5.273070
-553850060M-6,6,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110164,5.272238
-553850060M-7,7,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110117,5.272731
-553850060M-7B,7B,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109771,5.272314
-553850060M-8,8,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.109598,5.270970
-553850060M-9,9,Rue de l'Église,55120,Nixéville-Blercourt,OSM,49.110027,5.271955
 553850065T-1,1,Rue de l'Étang,55120,Nixéville-Blercourt,OSM,49.112636,5.236842
 553850065T-3,3,Rue de l'Étang,55120,Nixéville-Blercourt,OSM,49.112668,5.236670
 553850065T-5,5,Rue de l'Étang,55120,Nixéville-Blercourt,OSM,49.112870,5.236122
