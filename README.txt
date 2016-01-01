@@ -80,6 +80,7 @@ Pour chaque adresse:
 **Mise à jour, corrections**
 
 Pour mettre à jour et corriger les données de BANO, il suffit de faire des améliorations directement dans OpenStreetMap, elles seront prises en compte au prochain de cycle de mise à jour.
+Les données sont désormais mises à jour de manière journalière, les données complètes sont mises à disposition sur https://bano.openstreetmap.fr/data/
 
 Un guiche unique de signalement et de correction d'erreur est en cours de co-design. Si vous voulez participer à sa mise en place, contactez-nous par mail.
 
